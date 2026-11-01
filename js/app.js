@@ -14,6 +14,11 @@ async function loadIndex() {
   ]);
   INDEX = idx;
   MINE = mine || {};
+  // 預覽草稿：網址加上 ?draft 才會載入 data/mine-draft.json（正式內容優先）
+  if (new URLSearchParams(location.search).has("draft")) {
+    const draft = await fetch("data/mine-draft.json").then((r) => (r.ok ? r.json() : {})).catch(() => ({}));
+    MINE = { ...draft, ...MINE };
+  }
   for (const it of INDEX) { BYNO.set(it.no, it); BYWORD.set(it.w, it); }
 }
 async function getEntry(no) {
@@ -201,21 +206,33 @@ async function entry(no) {
       ${e.c?.length ? `<section class="sec"><h2>意思<span class="src-tag">國語辭典簡編本</span></h2>
         <div class="lede">${e.c.map((c) => (e.c.length > 1 ? `<p class="lbl">${esc(c.zy)}</p>` : "") + concisedDef(c.def)).join("")}</div></section>` : ""}
 
-      ${e.story ? `<section class="sec"><h2>成語故事<span class="src-tag">成語典</span></h2>
-        <div class="story">${lines(e.story).map((l) => `<p>${txt(l)}</p>`).join("")}</div>
-        <button class="btn" data-say-story>🔊 唸故事給我聽</button></section>` : ""}
+      ${ex.some((x) => lines(x).length) ? `<section class="sec"><h2>例句<span class="src-tag">成語典</span></h2>
+        ${ex.map((x, i) => {
+          const two = lines(x).slice(0, 2);
+          if (!two.length) return "";
+          return `${sem.length > 1 ? `<p class="lbl">${i + 1}. ${txt(sem[i] || "")}</p>` : ""}<ul class="ex-short">${two.map((l) => `<li>${txt(l)}</li>`).join("")}</ul>`;
+        }).join("")}</section>` : ""}
 
-      ${mine ? `<section class="sec"><h2>我們的補充</h2><div class="mine">
+      ${mine?.story ? `<section class="sec"><h2>小故事<span class="src-tag">本站編寫</span></h2>
+        <div class="mine story-short">${lines(mine.story).map((l) => `<p>${esc(l)}</p>`).join("")}</div>
+        <button class="btn" data-say-mine>🔊 聽小故事</button></section>` : ""}
+
+      ${e.story ? `<section class="sec"><h2>${mine?.story ? "完整的成語故事" : "成語故事"}<span class="src-tag">成語典</span></h2>
+        <div class="actions"><button class="btn" data-say-story>🔊 唸故事給我聽</button></div>
+        <div class="story clamp" id="story">${lines(e.story).map((l) => `<p>${txt(l)}</p>`).join("")}</div>
+        <button class="linkish" id="story-more">看完整故事</button></section>` : ""}
+
+      ${mine?.note || mine?.examples?.length ? `<section class="sec"><h2>我們的補充<span class="src-tag">本站編寫</span></h2><div class="mine">
         ${mine.note ? `<p>${esc(mine.note)}</p>` : ""}
         ${mine.examples?.length ? `<ul>${mine.examples.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>` : ""}</div></section>` : ""}
 
-      ${e.sem ? `<section class="sec"><h2>怎麼用<span class="src-tag">成語典</span></h2>
+      ${e.sem ? `<section class="sec"><h2>怎麼用（詳細）<span class="src-tag">成語典</span></h2>
         ${sem.map((s, i) => {
-          const exs = lines(ex[i]);
+          const exs = lines(ex[i]).slice(2);
           return `<div class="sense">
             <p>${sem.length > 1 ? `${i + 1}. ` : ""}${txt(s)}</p>
             ${usage[i] ? `<p class="usage">${txt(usage[i])}</p>` : ""}
-            ${exs.length ? `<ul>${exs.slice(0, 3).map((x) => `<li>${txt(x)}</li>`).join("")}</ul>
+            ${exs.length ? `<p class="lbl">更多例句</p><ul>${exs.slice(0, 3).map((x) => `<li>${txt(x)}</li>`).join("")}</ul>
               ${exs.length > 3 ? `<ul class="more-ex">${exs.slice(3).map((x) => `<li>${txt(x)}</li>`).join("")}</ul>
               <button class="linkish" data-more>再看 ${exs.length - 3} 個例句</button>` : ""}` : ""}
           </div>`;
@@ -245,6 +262,12 @@ async function entry(no) {
     </article>`;
 
   view.querySelector("[data-say-story]")?.addEventListener("click", () => speak(lines(e.story).join(""), 1));
+  view.querySelector("[data-say-mine]")?.addEventListener("click", () => speak(lines(mine.story).join(""), 0.95));
+  const st = $("#story"), sm = $("#story-more");
+  if (st && sm) {
+    if (st.scrollHeight <= st.clientHeight + 4) sm.remove();
+    sm.addEventListener("click", () => { st.classList.remove("clamp"); sm.remove(); });
+  }
   view.querySelectorAll("[data-more]").forEach((b) => b.addEventListener("click", () => { b.closest(".sense").classList.add("open"); b.remove(); }));
   view.querySelectorAll("[data-toggle]").forEach((b) => b.addEventListener("click", () => {
     const list = b.dataset.toggle; const on = store.toggle(list, no);

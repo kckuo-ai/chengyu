@@ -261,3 +261,14 @@ ol.cites { list-style: none; padding-left: 0; }
   .opt.right::after, .opt.wrong::after { animation: stamp .22s ease-out; }
   @keyframes stamp { from { opacity: 0; transform: translateY(-50%) rotate(-8deg) scale(1.6); } }
 }
+
+/* 長故事先收起來，按「看完整故事」展開 */
+.story.clamp { max-height: calc(1.95em * 4); overflow: hidden; position: relative; }
+.story.clamp::after {
+  content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 2em;
+  background: linear-gradient(transparent, var(--paper));
+}
+.story p { margin: 0 0 .6em; }
+.story-short { font-size: 21px; line-height: 1.9; }
+.story-short p { margin: 0 0 .4em; }
+ul.ex-short { font-size: 20px; margin: 4px 0 10px; padding-left: 1.2em; }
