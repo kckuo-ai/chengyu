@@ -68,20 +68,37 @@ function toast(msg) {
   document.body.append(t); setTimeout(() => t.remove(), 1800);
 }
 
-// 用裝置內建的語音唸出來（iPad/iPhone 有「美佳」中文語音）
+// 用裝置內建的語音唸出來。Safari 只開放部分語音，Siri 聲音不開放。
+// 自動挑最好的台灣中文語音（高品質 > 增強版 > 一般 > 精簡版），也可以在「我的」手動選。
+const VOICE_KEY = "chengyu-voice";
 let VOICE = null;
+const zhVoices = () => ("speechSynthesis" in window ? speechSynthesis.getVoices() : [])
+  .filter((v) => /^zh/i.test(v.lang) || /美佳|mei-?jia/i.test(v.name));
+function voiceScore(v) {
+  const id = `${v.name} ${v.voiceURI}`.toLowerCase();
+  let s = 0;
+  if (/zh[-_]tw/i.test(v.lang)) s += 100;
+  else if (/zh[-_](hk|hant)/i.test(v.lang)) s += 20;
+  if (/premium|高品質/.test(id)) s += 30;
+  if (/enhanced|增強/.test(id)) s += 20;
+  if (/compact|精簡/.test(id)) s -= 10;
+  return s;
+}
 function pickVoice() {
-  const vs = speechSynthesis.getVoices();
-  VOICE = vs.find((v) => v.lang === "zh-TW") || vs.find((v) => /zh[-_]TW/i.test(v.lang)) || vs.find((v) => v.lang.startsWith("zh")) || null;
+  const vs = zhVoices();
+  let saved = null;
+  try { saved = localStorage.getItem(VOICE_KEY); } catch {}
+  VOICE = vs.find((v) => v.voiceURI === saved) || vs.slice().sort((a, b) => voiceScore(b) - voiceScore(a))[0] || null;
 }
 if ("speechSynthesis" in window) { pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
-function speak(text, rate = 0.8) {
+function speak(text, rate = 0.9) {
   if (!("speechSynthesis" in window)) return toast("這台裝置不支援朗讀");
   speechSynthesis.cancel();
   const u = new SpeechSynthesisUtterance(text);
-  u.lang = "zh-TW"; u.rate = rate; if (VOICE) u.voice = VOICE;
+  u.lang = VOICE?.lang || "zh-TW"; u.rate = rate; if (VOICE) u.voice = VOICE;
   speechSynthesis.speak(u);
 }
+const voiceLabel = (v) => `${v.name}（${v.lang}${/compact|精簡/i.test(v.voiceURI + v.name) ? "，精簡" : /premium|enhanced|增強|高品質/i.test(v.voiceURI + v.name) ? "，增強" : ""}）`;
 
 function todayIdiom() {
   const d = new Date();
@@ -227,7 +244,7 @@ async function entry(no) {
       <p class="credit">資料來源：中華民國教育部《成語典》、《國語辭典簡編本》，依 CC BY-ND 3.0 臺灣授權使用，內容未經修改。<a href="#/about">授權說明</a></p>
     </article>`;
 
-  view.querySelector("[data-say-story]")?.addEventListener("click", () => speak(lines(e.story).join(""), 0.9));
+  view.querySelector("[data-say-story]")?.addEventListener("click", () => speak(lines(e.story).join(""), 1));
   view.querySelectorAll("[data-more]").forEach((b) => b.addEventListener("click", () => { b.closest(".sense").classList.add("open"); b.remove(); }));
   view.querySelectorAll("[data-toggle]").forEach((b) => b.addEventListener("click", () => {
     const list = b.dataset.toggle; const on = store.toggle(list, no);
@@ -360,6 +377,12 @@ function me() {
     <h2>收藏的成語</h2>${listHTML(by(s.fav), 999)}
     <h2>答錯過的</h2>${listHTML(by(Object.keys(s.wrong)), 999)}
     <h2>學會了</h2>${listHTML(by(s.learned), 999)}
+    <h2>朗讀聲音</h2>
+    <p class="hint">這裡列出 Safari 讓網頁使用的中文語音。iPad 設定裡下載的增強版或 Siri 聲音，不一定會出現在這裡。</p>
+    <div class="actions">
+      <select id="voice" class="btn" aria-label="選擇朗讀聲音"></select>
+      <button class="btn" id="try">🔊 試聽</button>
+    </div>
     <h2>離線使用</h2>
     <p class="hint">下載全部成語內容（約 6 MB），之後沒有網路也能看。</p>
     <div class="actions"><button class="btn" id="dl">下載全部內容</button></div>
@@ -367,6 +390,22 @@ function me() {
     <p class="hint">學習紀錄只存在這台裝置上。</p>
     <div class="actions"><button class="btn" id="reset">清除學習紀錄</button></div>
     <p class="hint"><a href="#/about">資料來源與授權</a></p>`;
+  const fillVoices = () => {
+    const sel = $("#voice");
+    if (!sel) return;
+    const vs = zhVoices().sort((a, b) => voiceScore(b) - voiceScore(a));
+    sel.innerHTML = vs.length
+      ? vs.map((v) => `<option value="${esc(v.voiceURI)}" ${VOICE && v.voiceURI === VOICE.voiceURI ? "selected" : ""}>${esc(voiceLabel(v))}</option>`).join("")
+      : `<option>找不到中文語音</option>`;
+    sel.disabled = !vs.length;
+  };
+  fillVoices();
+  if ("speechSynthesis" in window) speechSynthesis.addEventListener?.("voiceschanged", fillVoices);
+  $("#voice").addEventListener("change", (ev) => {
+    try { localStorage.setItem(VOICE_KEY, ev.target.value); } catch {}
+    pickVoice(); speak("守株待兔");
+  });
+  $("#try").addEventListener("click", () => speak("守株待兔。宋國有個農夫，看見一隻兔子撞上樹，就天天守在樹旁等兔子。"));
   $("#dl").addEventListener("click", async (ev) => {
     const b = ev.currentTarget; b.disabled = true;
     const ks = [...new Set(INDEX.map((i) => i.k))];
@@ -425,7 +464,7 @@ async function route() {
 
 document.addEventListener("click", (ev) => {
   const b = ev.target.closest("[data-say]");
-  if (b) speak(b.dataset.say, 0.7);
+  if (b) speak(b.dataset.say, 0.85);
 });
 
 await loadIndex();
