@@ -81,5 +81,14 @@
     },
     "replacement": "img/idioms/245-4b39e629f3.webp",
     "replacementOriginal": "/workspace/generated_images/exec-f73176ee-64da-40aa-91b6-36e7e51d2c2c.png"
+  },
+  {
+    "no": 388,
+    "reason": "Male sculptor had three arms.",
+    "rejectedOriginal": "/workspace/generated_images/exec-af50db57-2f0b-4f7e-a82e-f5560f9bd15b.png",
+    "replacementOriginal": "/workspace/generated_images/exec-c30829c9-455b-48b8-8de9-0ab892bd7129.png",
+    "replacement": "img/idioms/388.webp",
+    "status": "corrected",
+    "editPrompt": "Edit this existing original illustration. Preserve the entire composition, mixed graphite watercolor colored pencil style on ivory paper, landscape 3:2, swapped portrait cards and all other details. Correct ONLY the man on the right: he currently has three arms. REMOVE his pointing arm and pointing hand completely, repainting that area as the original green plaid shirt and empty ivory background as appropriate. He must have EXACTLY TWO ARMS total, both naturally holding the wooden bird sculpture at waist height. His concerned expression, thought bubble, sculpture and swapped portrait remain unchanged. No text, logos, numerals."
   }
 ]
