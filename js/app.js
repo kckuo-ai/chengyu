@@ -4,16 +4,21 @@ const $ = (s, el = document) => el.querySelector(s);
 const view = $("#view");
 
 // ---------------- 資料 ----------------
-let INDEX = [], BYNO = new Map(), BYWORD = new Map(), MINE = {};
+let INDEX = [], BYNO = new Map(), BYWORD = new Map(), MINE = {}, ILLUSTRATIONS = {};
 const chunks = new Map();
 
 async function loadIndex() {
-  const [idx, mine] = await Promise.all([
+  const [idx, mine, art] = await Promise.all([
     fetch("data/moe-index.json").then((r) => r.json()),
     fetch("data/mine.json").then((r) => (r.ok ? r.json() : {})).catch(() => ({})),
+    fetch("data/illustrations.json").then((r) => {
+      if (!r.ok) throw new Error("插圖目錄載入失敗");
+      return r.json();
+    }).catch(() => ({ entries: {} })),
   ]);
   INDEX = idx;
   MINE = mine || {};
+  ILLUSTRATIONS = art.entries;
   // 預覽草稿：網址加上 ?draft 才會載入 data/mine-draft.json（正式內容優先）
   if (new URLSearchParams(location.search).has("draft")) {
     const draft = await fetch("data/mine-draft.json").then((r) => (r.ok ? r.json() : {})).catch(() => ({}));
@@ -66,6 +71,16 @@ const pick = (a) => a[Math.floor(Math.random() * a.length)];
 const plain = (s) => (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[\s　ˊˇˋ˙]/g, "").toLowerCase();
 const link = (w) => (BYWORD.has(w) ? `<a class="chip" href="#/w/${BYWORD.get(w).no}">${esc(w)}</a>` : `<span class="chip">${esc(w)}</span>`);
 const split = (s) => (s || "").split(/[、，,]/).map((x) => x.trim()).filter(Boolean);
+
+function illustration(no, quiz = false) {
+  const art = ILLUSTRATIONS[no];
+  if (!art) return "";
+  // Quiz descriptions explain the scene without including the answer's idiom.
+  return `<figure class="idiom-art${quiz ? " quiz-art" : ""}">
+    <img src="${esc(art.src)}" alt="${esc(art.alt)}" width="${art.width}" height="${art.height}" decoding="async">
+    ${quiz ? "" : '<figcaption>成語情境插圖<span class="src-tag">本站 AI 輔助製作</span></figcaption>'}
+  </figure>`;
+}
 
 function toast(msg) {
   const t = document.createElement("div");
@@ -123,11 +138,15 @@ async function home() {
       ${cells(t.w, t.zy)}
       <p class="pinyin">${esc(t.py)}</p>
       <div class="meaning">${concisedDef(def)}</div>
+      ${illustration(t.no)}
       <div class="actions">
         <a class="btn primary" href="#/w/${t.no}">看故事和用法</a>
         <button class="btn" data-say="${esc(t.w)}">🔊 聽一聽</button>
       </div>
     </section>
+    ${Object.keys(ILLUSTRATIONS).length ? `<section class="sec"><h2>看圖猜成語</h2>
+      <p>看一幅圖，猜一個成語。你能認出幾個故事？</p>
+      <a class="btn primary" href="#/quiz?mode=picture">來猜猜看</a></section>` : ""}
     <form class="search" action="#/find" onsubmit="return false">
       <label class="hint" for="q">找成語：可以打國字、注音或拼音</label>
       <input id="q" type="search" placeholder="例如：兔、ㄕㄡˇ、shou" autocomplete="off" enterkeyhint="search">
@@ -192,7 +211,7 @@ async function entry(no) {
   const mine = MINE[e.w];
   const fav = store.has("fav", no), learned = store.has("learned", no);
   view.innerHTML = `
-    <article>
+    <article data-entry-no="${no}">
       <header class="entry-head">
         ${cells(e.w, e.zy)}
         <p class="pinyin">${esc(e.py)}</p>
@@ -202,6 +221,8 @@ async function entry(no) {
           <button class="btn" data-toggle="learned" aria-pressed="${learned}">${learned ? "✓ 學會了" : "我學會了"}</button>
         </div>
       </header>
+
+      ${illustration(no)}
 
       ${e.c?.length ? `<section class="sec"><h2>意思<span class="src-tag">國語辭典簡編本</span></h2>
         <div class="lede">${e.c.map((c) => (e.c.length > 1 ? `<p class="lbl">${esc(c.zy)}</p>` : "") + concisedDef(c.def)).join("")}</div></section>` : ""}
@@ -278,6 +299,7 @@ async function entry(no) {
 
 // ---------------- 測驗 ----------------
 const MODES = [
+  { id: "picture", name: "看圖猜成語", desc: "觀察圖畫，猜猜它描繪哪個成語" },
   { id: "meaning", name: "看意思，選成語", desc: "讀一段解釋，選出對的成語" },
   { id: "word", name: "看成語，選意思", desc: "看到成語，選出它的意思" },
   { id: "near", name: "相似或相反", desc: "找出意思相近或相反的成語" },
@@ -295,6 +317,13 @@ function poolItems(pool) {
 
 function makeQ(mode, t) {
   const others = (n, bad) => shuffle(INDEX.filter((i) => !bad.has(i.w))).slice(0, n);
+  if (mode === "picture") {
+    if (!ILLUSTRATIONS[t.no]) return null;
+    const similar = new Set([t.w, ...split(t.syn)]);
+    const candidates = INDEX.filter((i) => !similar.has(i.w) && !split(i.syn).includes(t.w));
+    const opts = shuffle([t, ...shuffle(candidates).slice(0, 3)]);
+    return { target: t, prompt: `${illustration(t.no, true)}<p class="hint">這幅圖描繪哪一個成語？</p>`, opts: opts.map((o) => ({ label: esc(o.w), ok: o === t, big: true })) };
+  }
   if (mode === "meaning") {
     const opts = shuffle([t, ...others(3, new Set([t.w]))]);
     return { target: t, prompt: `<p>${senses(t.sem).map(txt).join("<br>")}</p><p class="hint">這是哪一個成語？</p>`, opts: opts.map((o) => ({ label: esc(o.w), ok: o === t, big: true })) };
@@ -326,14 +355,17 @@ function makeQ(mode, t) {
 
 function quizHome() {
   const s = store.get();
-  const counts = { all: INDEX.length, fav: s.fav.length, learned: s.learned.length, wrong: Object.keys(s.wrong).length };
+  const eligible = (pool) => poolItems(pool).filter((i) => quizCfg.mode !== "picture" || ILLUSTRATIONS[i.no]);
+  const counts = Object.fromEntries(["all", "fav", "learned", "wrong"].map((pool) => [pool, eligible(pool).length]));
+  const count = Math.min(10, counts[quizCfg.pool]);
   view.innerHTML = `
     <h2>選一種玩法</h2>
     <div class="modes">${MODES.map((m) => `<button class="mode" data-mode="${m.id}" aria-pressed="${quizCfg.mode === m.id}"><b>${m.name}</b><span>${m.desc}</span></button>`).join("")}</div>
     <h2>出題範圍</h2>
     <div class="seg">${[["all", "全部"], ["fav", "我的收藏"], ["learned", "學會的"], ["wrong", "答錯過的"]].map(([id, n]) =>
       `<button class="btn" data-pool="${id}" aria-pressed="${quizCfg.pool === id}" ${counts[id] < 1 ? "disabled" : ""}>${n}（${counts[id]}）</button>`).join("")}</div>
-    <button class="btn primary" id="go">開始 10 題</button>`;
+    ${quizCfg.mode === "picture" ? `<p class="hint">目前有 ${Object.keys(ILLUSTRATIONS).length} 個成語插圖，可選擇下方範圍練習。</p>` : ""}
+    <button class="btn primary" id="go" ${count ? "" : "disabled"}>${count ? `開始 ${count} 題` : "這個範圍還沒有可練習的成語"}</button>`;
   view.querySelectorAll("[data-mode]").forEach((b) => b.addEventListener("click", () => { quizCfg.mode = b.dataset.mode; quizHome(); }));
   view.querySelectorAll("[data-pool]").forEach((b) => b.addEventListener("click", () => { quizCfg.pool = b.dataset.pool; quizHome(); }));
   $("#go").addEventListener("click", startQuiz);
@@ -342,6 +374,7 @@ function quizHome() {
 function startQuiz() {
   const { mode, pool } = quizCfg;
   let items = poolItems(pool);
+  if (mode === "picture") items = items.filter((i) => ILLUSTRATIONS[i.no]);
   if (mode === "near") items = items.filter((i) => i.syn || i.ant);
   if (mode === "fit") items = items.filter((i) => i.cmp);
   const qs = [];
@@ -377,7 +410,7 @@ function runQuiz() {
   };
   const done = () => {
     store.tally(score, qs.length);
-    view.innerHTML = `<div class="score">${score * 10} 分</div>
+    view.innerHTML = `<div class="score">${Math.round(score / qs.length * 100)} 分</div>
       <p>答對 ${score} 題，共 ${qs.length} 題。${score === qs.length ? "全對！" : "答錯的成語已經放進「答錯過的」，可以再練一次。"}</p>
       <div class="actions"><button class="btn primary" id="again">再玩一次</button><a class="btn" href="#/quiz">換玩法</a></div>`;
     $("#again").addEventListener("click", startQuiz);
@@ -407,7 +440,7 @@ function me() {
       <button class="btn" id="try">🔊 試聽</button>
     </div>
     <h2>離線使用</h2>
-    <p class="hint">下載全部成語內容（約 6 MB），之後沒有網路也能看。</p>
+    <p class="hint">下載全部成語文字與目前的 ${Object.keys(ILLUSTRATIONS).length} 張插圖，之後沒有網路也能看。插圖較大，建議使用 Wi-Fi。</p>
     <div class="actions"><button class="btn" id="dl">下載全部內容</button></div>
     <h2>重新開始</h2>
     <p class="hint">學習紀錄只存在這台裝置上。</p>
@@ -431,13 +464,28 @@ function me() {
   $("#try").addEventListener("click", () => speak("守株待兔。宋國有個農夫，看見一隻兔子撞上樹，就天天守在樹旁等兔子。"));
   $("#dl").addEventListener("click", async (ev) => {
     const b = ev.currentTarget; b.disabled = true;
-    const ks = [...new Set(INDEX.map((i) => i.k))];
-    let n = 0;
-    for (const k of ks) {
-      await fetch(`data/detail/${String(k).padStart(2, "0")}.json`).catch(() => {});
-      b.textContent = `下載中 ${++n}/${ks.length}`;
+    if (!navigator.serviceWorker?.controller) {
+      b.disabled = false;
+      toast("離線下載需要 HTTPS 與已啟用的離線快取，請先重新整理再試。");
+      return;
     }
-    b.textContent = "已下載，可離線使用";
+    const urls = [...new Set(INDEX.map((i) => `data/detail/${String(i.k).padStart(2, "0")}.json`)), ...Object.values(ILLUSTRATIONS).map((a) => a.src)];
+    let n = 0;
+    try {
+      // Explicitly await cache writes before reporting readiness or quota errors.
+      const cache = await caches.open("chengyu-offline-v1");
+      for (const url of urls) {
+        const response = await fetch(url);
+        if (!response.ok) throw new Error(`下載失敗：${url}`);
+        await cache.put(url, response);
+        b.textContent = `下載中 ${++n}/${urls.length}`;
+      }
+      b.textContent = "已下載，可離線使用";
+    } catch {
+      b.disabled = false;
+      b.textContent = "下載未完成，按此重試";
+      toast("部分內容未能下載，請確認網路與裝置儲存空間後重試。");
+    }
   });
   $("#reset").addEventListener("click", (ev) => {
     const b = ev.currentTarget;
@@ -456,6 +504,7 @@ async function about() {
     <p>中華民國教育部（Ministry of Education, R.O.C.）。《國語辭典簡編本》（版本編號：${esc(ver(meta.concisedFile, /(\d{4}_\d{8})/))}）網址：<a href="https://dict.concised.moe.edu.tw/" rel="noopener">https://dict.concised.moe.edu.tw/</a></p>
     <p>以上資料採用<a href="https://creativecommons.org/licenses/by-nd/3.0/tw/" rel="noopener">創用 CC－姓名標示－禁止改作 臺灣 3.0 版授權條款</a>釋出。本網站只轉換顯示格式，未修改任何條目的詞目、音讀、釋義、典源、書證及用法說明。授權使用說明全文：<a href="licenses/">licenses 資料夾</a>。</p>
     <p>主題分類、測驗題目的組合方式，以及「我們的補充」內容，由本網站自行編寫。朗讀使用裝置內建語音。</p>
+    <p>成語情境插圖由本站以 AI 輔助製作，依詞義另行設計，非教育部提供或背書。採用鉛筆、水彩與彩色鉛筆的通用技法，不指定模仿特定創作者，也不使用品牌角色或商標。</p>
     <p>本網站不是教育部官方網站。學習紀錄只存在你的裝置上，不會上傳。</p>
     <p><a href="https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html" rel="noopener">教育部國語辭典公眾授權網</a></p>
   </div>`;
@@ -474,7 +523,11 @@ async function route() {
     else if (parts[0] === "w") await entry(+parts[1]);
     else if (parts[0] === "list") list(parts[1]);
     else if (parts[0] === "find") find(new URLSearchParams(qs).get("q") || "");
-    else if (parts[0] === "quiz") (parts[1] === "play" ? runQuiz() : quizHome());
+    else if (parts[0] === "quiz") {
+      const mode = new URLSearchParams(qs).get("mode");
+      if (parts[1] !== "play" && MODES.some((m) => m.id === mode)) quizCfg.mode = mode;
+      parts[1] === "play" ? runQuiz() : quizHome();
+    }
     else if (parts[0] === "me") me();
     else if (parts[0] === "about") await about();
     else await home();

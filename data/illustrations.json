@@ -1,0 +1,3282 @@
+{
+  "version": 1,
+  "style": "鉛筆手繪、柔和水彩、彩色鉛筆疊色，米白紙紋與自然草綠、天空藍、暖棕色",
+  "entries": {
+    "1": {
+      "word": "一毛不拔",
+      "src": "img/idioms/1.webp",
+      "alt": "其他人正投零錢幫助有需要的人，一名男子卻把裝滿錢的皮夾緊緊抱在胸前，不肯拿出任何一枚。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "f4f87de9d801f5e2e904dedac9a11bfe50b7e355156268119a16839afe60f478"
+    },
+    "2": {
+      "word": "掩耳盜鈴",
+      "src": "img/idioms/2.webp",
+      "alt": "男子摀住自己的雙耳，腰間偷來的鐘仍發出聲響，屋主已被驚動。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "e2c7989c606bcf66c6bd946019cb64dc196dec750f3497061a33f98b15eb5da8"
+    },
+    "3": {
+      "word": "一丘之貉",
+      "src": "img/idioms/3.webp",
+      "alt": "兩名玩家互相使眼色，一個偷偷多拿遊戲棋子，另一個替他遮掩，兩人都在作弊。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "d4a2c0c192e059fff0a37cf88749030fa35a4b54212e489838f35059d3933172"
+    },
+    "4": {
+      "word": "囫圇吞棗",
+      "src": "img/idioms/4.webp",
+      "alt": "孩子快速翻過課本，腦中只留下葉子、陽光與水滴等零散圖像，沒有把知識的關係弄清楚。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "36bcd8b3108b9e1e458fa3e89722bb87b61403406b9c73c611e74145de5b6e83"
+    },
+    "5": {
+      "word": "班門弄斧",
+      "src": "img/idioms/5.webp",
+      "alt": "初學者拿著簡單的畫得意地向老師炫耀，老師身旁卻擺著技法成熟、細節豐富的作品。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "8fb9c0d1c7105d7302bbe8dd897445c06962ae2198c194ed9bd18c5e911e8bf6"
+    },
+    "6": {
+      "word": "朝三暮四",
+      "src": "img/idioms/6.webp",
+      "alt": "養猴人把同樣總數的橡實換成兩種分配，猴子便從生氣變得開心。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "15df956ef23822143c8679e6dfd2310e15d839215149a57074d1b169293f97df"
+    },
+    "7": {
+      "word": "水落石出",
+      "src": "img/idioms/7.webp",
+      "alt": "溪水退去後，原先藏在水面下的大石頭完整露出，岸邊的人終於看清它的模樣。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "353e98e8857a47050f27d5e1f277dac5565cc023abaf707329b23c91f929663e"
+    },
+    "8": {
+      "word": "名落孫山",
+      "src": "img/idioms/8.webp",
+      "alt": "考生查看錄取結果，發現自己的照片列在未錄取的一側，難過地收起考試用具。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "cca147df0ccff72aa85e63795ec62fd75bc18ffd2d77a40fc81f5d975195fb71"
+    },
+    "9": {
+      "word": "胸有成竹",
+      "src": "img/idioms/9.webp",
+      "alt": "孩子先把完整設計與零件準備好，動手組裝鳥屋時神情篤定，知道每一步該怎麼做。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "d4fb95fa237203a3b6fa86f69df7b3420969af994bfe85cc88907bb7218df21e"
+    },
+    "11": {
+      "word": "指鹿為馬",
+      "src": "img/idioms/11.webp",
+      "alt": "一個人指著有角的鹿，卻硬要大家把牠當成馬，旁邊的人看著鹿角，露出困惑的表情。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "bcb4a759401c0b05f26b07485933ca95e30413a64ebf16d911dc1279f9b5add2"
+    },
+    "12": {
+      "word": "天衣無縫",
+      "src": "img/idioms/12.webp",
+      "alt": "修復師把破損的畫仔細接合，山水線條與色彩連續自然，連放大鏡下也難找出接縫。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "4c40f367ae91ab4c85c64a74db218bf47bf381befe008f8ae554d9d9b833d834"
+    },
+    "13": {
+      "word": "舉一反三",
+      "src": "img/idioms/13.webp",
+      "alt": "老師只示範把長方形對半摺，孩子理解後，就能把圓形、三角形和正方形也各自對摺。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "9763dd024188588eb765a7b47b9a213b3e831f50eed9413215997162ba676b9b"
+    },
+    "14": {
+      "word": "江郎才盡",
+      "src": "img/idioms/14.webp",
+      "alt": "曾經創作出許多作品的作者坐在桌前，握著筆卻想不出內容，眼前的稿紙仍然空白。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "18e1c0bef38c547a250deb7487b6de1dbd77de07a67d4c541b64b26e3aa2877c"
+    },
+    "15": {
+      "word": "青出於藍",
+      "src": "img/idioms/15.webp",
+      "alt": "學生學會老師的摺紙方法後，進一步做出更精巧的作品，老師驚喜地欣賞學生超越原先示範的成果。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "e501ec268c0277dfc7398693bbcfeea95dae72cc0c023668d961c3ecce653af7"
+    },
+    "16": {
+      "word": "口若懸河",
+      "src": "img/idioms/16.webp",
+      "alt": "講者說得生動流暢，想法一個接一個，聽眾專心聽著，幾乎插不上話。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "2d5c6a264641ec216eea8ae7dd2a3307a76df6a01b2c93984da6252ba271f3d7"
+    },
+    "17": {
+      "word": "驚弓之鳥",
+      "src": "img/idioms/17.webp",
+      "alt": "孩子曾被突然爆掉的氣球嚇到，現在看見另一個普通氣球靠近，就立刻緊張地縮起身子。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "dc2f01d182e900a082630f6ab094813ae86103b7f9052224116a1d9d4bf48594"
+    },
+    "18": {
+      "word": "含沙射影",
+      "src": "img/idioms/18.webp",
+      "alt": "兩個人在別人背後低聲說壞話，被議論的人還在遠處專心做事，並不知道有人暗中中傷。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "b40234ade3dfd677894488c13912dcf1c33de40b660f1f20e13f6adfd23f2205"
+    },
+    "19": {
+      "word": "一敗塗地",
+      "src": "img/idioms/19.webp",
+      "alt": "棋手的國王倒下，己方棋子幾乎全被吃光，對手的棋子仍完整站在棋盤上，敗局已無法挽回。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "fe1fc383f093936029d8facc7687e0b27157352ebbcf3d5e17c79ef4c77a0982"
+    },
+    "20": {
+      "word": "草木皆兵",
+      "src": "img/idioms/20.webp",
+      "alt": "傍晚的樹枝與灌木只是普通植物，緊張的人卻把它們的影子都看成躲藏的人，越看越害怕。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "7bb779734f36da21db03e5c2f5ba8739e8c8114afbe16f21ab9d8658d8bec432"
+    },
+    "21": {
+      "word": "投筆從戎",
+      "src": "img/idioms/21.webp",
+      "alt": "青年放下原本寫作的筆與書本，換上沒有軍徽的訓練服，帶著行囊加入軍隊訓練。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "5485029abe3280e677ad34f3f191d3f9a24a3484fc5c8f02de15fc23bdfdd467"
+    },
+    "22": {
+      "word": "東窗事發",
+      "src": "img/idioms/22.webp",
+      "alt": "原本藏在桌下的作弊答案被老師發現，偷偷作弊的人看到證據曝光，頓時慌了。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "0af83e9f43b37c774e83aa544a0340e04e928ae3a9bb987fdf35545c0466309c"
+    },
+    "23": {
+      "word": "畫蛇添足",
+      "src": "img/idioms/23.webp",
+      "alt": "男子在沙地上畫好的蛇身添上腳，另一人已拿走比賽的獎品。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "e3fcb692228386ccc102adf74a989dc694abe363012d856c15248c9738af3b02"
+    },
+    "24": {
+      "word": "勢如破竹",
+      "src": "img/idioms/24.webp",
+      "alt": "竹子一端被撐開後，裂縫順著筆直的竹紋一路延伸，整根竹子很順利地分開。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "d047788a01eb48dd0afe48bde072f2e9dc467f983d1845b90132a5f351973af2"
+    },
+    "25": {
+      "word": "滄海桑田",
+      "src": "img/idioms/25.webp",
+      "alt": "同一處海岸在不同年代有了巨大變化：曾經是海水與漁船，後來成了田地，如今又出現城鎮。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "176fb1953893a45a8f85014c18a198c9c1aeb1860189c0c90118ae72628ffaf2"
+    },
+    "26": {
+      "word": "望梅止渴",
+      "src": "img/idioms/26.webp",
+      "alt": "口渴的旅人拿著空水壺，想像前方有酸梅，靠想像得到暫時安慰。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "b716b4a4a460464717df36026e15d878d771f842f60f80263a55006229d21592"
+    },
+    "27": {
+      "word": "司空見慣",
+      "src": "img/idioms/27.webp",
+      "alt": "街坊每天都會經過噴水池，大家早已習慣，照常散步看書；第一次來的遊客卻看得很驚喜。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "ff2c0938afc0cb874aa993ea5d266f6269f713ff50b5e63f1cd66e6404d9a6ce"
+    },
+    "28": {
+      "word": "南轅北轍",
+      "src": "img/idioms/28.webp",
+      "alt": "旅人想去右邊海岸的燈塔，卻騎著車往左邊山路走，行動方向正好與目的地相反。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "b24cbf2151ec0a61d8da820015ec1ba1b0ad7a9ac340dc76c67db5f1004c9213"
+    },
+    "29": {
+      "word": "夜郎自大",
+      "src": "img/idioms/29.webp",
+      "alt": "只在小圈子贏過一次的人，就得意地把自己想成世界冠軍，沒有察覺外面還有許多更厲害的選手。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "cb0228cdf0ffc891cad5057c72860bb6d4e1bcfac5aed0fb1babd67d19a631ea"
+    },
+    "30": {
+      "word": "信口雌黃",
+      "src": "img/idioms/30.webp",
+      "alt": "明明花瓶完好無缺，一個人卻隨口把它說成破損的壞作品，旁人拿著實物核對，發現他的批評不實。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "1ccbe7f27dd5df87daa1bac1063c309a91676aa044d4bd1df95449e753020ad8"
+    },
+    "31": {
+      "word": "狼狽為奸",
+      "src": "img/idioms/31.webp",
+      "alt": "兩個人互相配合做壞事，一人在門口替同伴把風，另一人趁店主沒注意，偷偷把商品藏進袋子。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "2eb24a69961f04c477e6a19a8147bbec6d2d2232d4b6d8fccb900decb5ca2bfd"
+    },
+    "32": {
+      "word": "狐假虎威",
+      "src": "img/idioms/32.webp",
+      "alt": "狐狸得意地走在老虎前面，前方的小動物因看見後面的老虎而逃走。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "7daac63b0e034cc5a11147fbb4008fbd867354f8e6325aa5188dee5b827af2c3"
+    },
+    "33": {
+      "word": "作法自斃",
+      "src": "img/idioms/33.webp",
+      "alt": "想用黏紙惡作劇捉弄別人的人，反而讓自己的鞋子黏住，原先設計的把戲落到自己身上。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "d5d1c5d259d3ee1b9f6c17c9bb7af38121be9fab157790d7a469243a43d10900"
+    },
+    "34": {
+      "word": "為虎作倀",
+      "src": "img/idioms/34.webp",
+      "alt": "一個人明知同伴在故意破壞別人的作品，仍幫忙拿住畫紙，讓對方更容易欺負人。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "fead758fea41bc3433664a0e9679409aaae47307f0a2c76d42ccb2bcb2fed641"
+    },
+    "35": {
+      "word": "如火如荼",
+      "src": "img/idioms/35.webp",
+      "alt": "校園活動正熱烈展開，台上表演、台下準備，攤位前人潮不斷，到處都充滿投入的身影。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "ad2cb0b954028dd46e79d8a3cc9f1a6670028238d2a074cdddb92f964600bc0a"
+    },
+    "36": {
+      "word": "老馬識途",
+      "src": "img/idioms/36.webp",
+      "alt": "一匹灰白嘴鬃的老馬走在前頭，帶領迷路的人沿著山路返回村莊。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "776ed2ed4f0556465fc98a96a2b69c418c826c6a17ae466a566bd85ae6ac4506"
+    },
+    "37": {
+      "word": "杞人憂天",
+      "src": "img/idioms/37.webp",
+      "alt": "男子擔心天空會塌下來而躲在桌下，晴朗天空下的其他人卻照常生活。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "117241ddcb607b7af396f65a1eebceb3118827e7dccd19f0a330e76c3db8785c"
+    },
+    "39": {
+      "word": "守株待兔",
+      "src": "img/idioms/39.webp",
+      "alt": "農夫放下鋤頭，坐在樹樁旁幻想兔子再次自己跑來，田地已長出雜草。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "84c2ad86d160a47cbcd3174d54adc4a8b5c581a5477d672a50c1535246da623b"
+    },
+    "40": {
+      "word": "不學無術",
+      "src": "img/idioms/40.webp",
+      "alt": "少年平時只顧玩遊戲，書本與教學材料一直沒碰，遇到簡單的組裝工作時，便完全不知怎麼做。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "a1928571a2fee7bde95a9b28dabe8b5bfb8106dc368f7686080f7aadc832ec60"
+    },
+    "41": {
+      "word": "四面楚歌",
+      "src": "img/idioms/41.webp",
+      "alt": "棋盤上的國王被對方棋子從四面包圍，沒有援手，也找不到能安全移動的位置。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "92a240859f6acb0c3c3f5e665cda9578437333e45745c9fbfadcf2c17846c241"
+    },
+    "42": {
+      "word": "奇貨可居",
+      "src": "img/idioms/42.webp",
+      "alt": "店主把難得的手工作品收在櫃內，面對想買的人仍暫不出售，等待更高的出價。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "d679c2dd4a8068d9948390cb8d66ec4edfd6db86d6db73c88cfc64d2b7607e05"
+    },
+    "43": {
+      "word": "刻舟求劍",
+      "src": "img/idioms/43.webp",
+      "alt": "男子在行進的船邊刻記號，掉落的劍卻早已留在後方河底。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "6b2144ddd6450eec562542161ef0b8cec96d81a4bcb63bfcf934d3889f73497d"
+    },
+    "44": {
+      "word": "走馬看花",
+      "src": "img/idioms/44.webp",
+      "alt": "遊客一邊快步走、一邊匆匆拍照，沿途展品都只看一眼，沒有停下來了解細節。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "782129ba09641be32065ffc1b0cd6fc595aad5a9fd013fa27513bda37ab664ed"
+    },
+    "45": {
+      "word": "後來居上",
+      "src": "img/idioms/45.webp",
+      "alt": "原本跑在隊伍後方的選手努力追上，最後超越先出發的領先者，率先衝過終點。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "9029906b27fe0460d2be760f478600a10099191701d423778f642eafd2d743a6"
+    },
+    "46": {
+      "word": "負荊請罪",
+      "src": "img/idioms/46.webp",
+      "alt": "弄壞朋友作品的人帶著修補材料，誠懇地低頭認錯，願意負責修好並請求原諒。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "bcccaad3160693d8898344ad2f5f869fc7b8837329eaa711f34f7b18168c9e4c"
+    },
+    "47": {
+      "word": "對牛彈琴",
+      "src": "img/idioms/47.webp",
+      "alt": "樂師專心彈奏古琴，面前的牛卻只顧低頭吃草，沒有理會琴聲。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "67ab3d83a007c89edf01ee434e1b94276849909291ab6efc34a745a8e73583ea"
+    },
+    "48": {
+      "word": "一鼓作氣",
+      "src": "img/idioms/48.webp",
+      "alt": "大家趁剛開始時精神充足，一口氣把整面佈告欄布置完成，沒有做到一半就分心停下。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "07b2f3625580c966c1d31c36daafb3de7266cec0fb8356d10bc2243d15c5e8a7"
+    },
+    "49": {
+      "word": "杯弓蛇影",
+      "src": "img/idioms/49.webp",
+      "alt": "客人驚慌地看著杯中像蛇的倒影，牆上懸掛的弓正是倒影的來源。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "730cb9536f120341e84bf520721eef93b5c7516e20eb880e0cfc7c434e886ee8"
+    },
+    "50": {
+      "word": "紙上談兵",
+      "src": "img/idioms/50.webp",
+      "alt": "學生只顧拿著漂亮的橋梁設計圖講解，桌上實際製作的模型卻承受不住小車重量而垮下。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "16f42cb80af76ac9396ae6432b0a334002defd4c76558d2826295af8250c6063"
+    },
+    "51": {
+      "word": "破鏡重圓",
+      "src": "img/idioms/51.webp",
+      "alt": "原本分開生活、彼此背對背的夫妻，經過波折後重新相聚，牽著手一起回到家。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "80d9da8471fb0da11e71e70ac03c47ee44723e253d2a82a1539a25ab3c746a4d"
+    },
+    "52": {
+      "word": "東山再起",
+      "src": "img/idioms/52.webp",
+      "alt": "店主曾因生意失敗而關閉店鋪，現在重新開起小店，顧客再次上門，他也恢復了信心。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "cf03c52936137ec9b5011c102a70e21baa8fcc1606b6fe6e40e259558629cfb6"
+    },
+    "53": {
+      "word": "樂不思蜀",
+      "src": "img/idioms/53.webp",
+      "alt": "孩子在外頭玩得太開心，連時間已晚、該回家的事都忘了，仍捨不得離開。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "5ac35c8e19e7c89804cefff9d14189ddecf99548bd8f40d297993dd30d3e2237"
+    },
+    "54": {
+      "word": "濫竽充數",
+      "src": "img/idioms/54.webp",
+      "alt": "合奏的樂師都在吹奏，只有中間那人把樂器拿離嘴邊，心虛地假裝參與。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "9b9e8af2ca4d8f72029eef47ae919d05dd45043587708a1c272759712c02d5a4"
+    },
+    "55": {
+      "word": "打草驚蛇",
+      "src": "img/idioms/55.webp",
+      "alt": "觀察者不小心踩響枯枝、驚動草叢，藏著的蛇因此警覺，先一步鑽回安全的洞裡。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "f343fac85d2122cb58f3386cae97784697c84aacf358814ce742c00d972f3e82"
+    },
+    "56": {
+      "word": "揠苗助長",
+      "src": "img/idioms/56.webp",
+      "alt": "農夫想讓禾苗快點長高，卻把它們拉得根部露出，旁邊已有枯萎的苗。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "d43c07af4eb452d6ded22663de356dac1c4ca7c645077ae28e51803e82b6ef80"
+    },
+    "57": {
+      "word": "功虧一簣",
+      "src": "img/idioms/57.webp",
+      "alt": "拼圖只差最後一片就能完成，孩子卻在這時放棄，把最後的拼片留在桌上，前面的努力因此沒有完成成果。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "5b01021e3c45e27fc01f295f54ac506fc4308d1716fdf7bd728690147d4e6a4a"
+    },
+    "58": {
+      "word": "入木三分",
+      "src": "img/idioms/58-b1714dbb38.webp",
+      "alt": "學生不只注意垃圾的表象，還藉由校園動線分析指出垃圾桶配置不足的根本問題，評論切中核心。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "b1714dbb38202659c47472b477c765af76f3df92ec072f0094b2e6783e964491"
+    },
+    "59": {
+      "word": "一鳴驚人",
+      "src": "img/idioms/59.webp",
+      "alt": "平時安靜、不太受注意的學生第一次上台演奏，就展現出色才華，讓全場驚喜讚嘆。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "a5c6e22c2424a057de6ddda534617b4b55b5fd99e9a10beadd77d798fb78d4b8"
+    },
+    "60": {
+      "word": "螳臂當車",
+      "src": "img/idioms/60.webp",
+      "alt": "小小的螳螂舉起前臂，想擋住比自己大得多的車輪，力量的差距十分明顯。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "7e44c2b4682f1731c12ecfe26f4adbfc1aed3532a4de1fd089667eade23b4f28"
+    },
+    "61": {
+      "word": "死灰復燃",
+      "src": "img/idioms/61.webp",
+      "alt": "原本看起來已經熄滅的灰燼，過了一會兒又出現紅色火星與小火苗，提醒人必須確實熄火。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "6aa152426c4f6a5cd6cd93555e318f10a6236b4b227f148da63dd917dbc45482"
+    },
+    "62": {
+      "word": "咄咄逼人",
+      "src": "img/idioms/62.webp",
+      "alt": "會議中的人盛氣凌人地指責對方、不給說話空間，讓被逼問的人緊張地往後縮。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "92a49a2ec043ec8610e4c5435b147c5d649f6efb296d527e7c4d43dacc0ab683"
+    },
+    "63": {
+      "word": "出奇制勝",
+      "src": "img/idioms/63.webp",
+      "alt": "別人的模型車都卡在缺口前，一隊卻想到讓車子展開小橋跨過去，靠出人意料的創意取得勝利。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "92eda05bf07a483b3f1d967f187f9105fce976b849d658d77ab3ff3e73bc8ea7"
+    },
+    "64": {
+      "word": "出類拔萃",
+      "src": "img/idioms/64.webp",
+      "alt": "同樣參加展覽的作品中，有一件構思與技巧都特別出色，受到評審和同學一致欣賞。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "6c26b2f0352f0de0227c500f7eb5c1b07c090c897adf66da2a8e68f51f1baeb5"
+    },
+    "65": {
+      "word": "一竅不通",
+      "src": "img/idioms/65.webp",
+      "alt": "第一次接觸電腦的人面對基本操作完全不懂，對著滑鼠與螢幕滿臉困惑，旁邊的人正準備教他。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "00b3564fc7787753101dab37fccb0872703d37601afc8574eb0db30c653a9717"
+    },
+    "66": {
+      "word": "食古不化",
+      "src": "img/idioms/66.webp",
+      "alt": "他只肯照舊式木椅的圖解組裝新式金屬椅，即使零件完全不同，仍不願理解新方法、加以變通。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "ee007803497cf9316abf033fe1a0096fafe791b4bfb9889c1f9e3345514f2d5f"
+    },
+    "67": {
+      "word": "一日千里",
+      "src": "img/idioms/67.webp",
+      "alt": "孩子學習畫畫進步飛快，從早晨簡單的線條，到午後完整的風景，短時間就展現明顯成長。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "3ba4a6b05281d7ecc4eceb0bdb174ec2a2ca7515f0f8a0049cb19d540b9339f1"
+    },
+    "68": {
+      "word": "吹毛求疵",
+      "src": "img/idioms/68.webp",
+      "alt": "整體作品已經很好，評審卻拿著放大鏡，刻意盯著一個幾乎看不見的小點挑毛病。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "f229adebc4d2e54d257cbb1d08b1ff268aa56a8f31ba43569964f8439168552e"
+    },
+    "69": {
+      "word": "一諾千金",
+      "src": "img/idioms/69.webp",
+      "alt": "男孩答應把借來的藍色畫冊親手歸還，即使下雨，仍按約帶著畫冊來到朋友家。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "eda3d899eb83477d403cade683e164f17e9f52999ac05f06ab4426a4148a745a"
+    },
+    "70": {
+      "word": "騎虎難下",
+      "src": "img/idioms/70.webp",
+      "alt": "他已答應上台表演，觀眾也都在等候，才發現自己準備不足，想退出又礙於情勢，只能硬著頭皮面對。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "b6c7cc7e52aaf6a7349dffe0e95c93201407b5bbea1277d879f9e558179d3474"
+    },
+    "71": {
+      "word": "投鼠忌器",
+      "src": "img/idioms/71.webp",
+      "alt": "主人想趕走架上的小老鼠，卻擔心碰倒旁邊珍惜的玻璃花瓶，因此遲疑著不敢動手。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "333d8f765b76de1b801b32cffffad9f6943dc8d9a8e45783b114c66cf0cb4f43"
+    },
+    "72": {
+      "word": "孤注一擲",
+      "src": "img/idioms/72.webp",
+      "alt": "局面已經不利，他把僅剩的所有籌碼一次推出，冒險把希望全押在最後一搏。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "2d32e9fa894a17d98d3e0876a0946e0f63eab417466d441f10fd7f3b6c1680af"
+    },
+    "73": {
+      "word": "坐井觀天",
+      "src": "img/idioms/73.webp",
+      "alt": "井底的人只能看見井口的一小片天空，井外其實有寬廣的世界。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "0225dec5a9098ed1257c71395cc0811f175dd07f10320cc662ba3742dcdbc80b"
+    },
+    "74": {
+      "word": "滄海一粟",
+      "src": "img/idioms/74.webp",
+      "alt": "面對無邊無際的大海，岸邊的人只像小小一點，顯得十分渺小。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "7a6739bdbd4e466cb1077b0aca3b5a6c2ffc3b4dce780a3571eae0841120c6d8"
+    },
+    "75": {
+      "word": "門可羅雀",
+      "src": "img/idioms/75.webp",
+      "alt": "店門前沒有顧客，空桌椅整齊地擺著，只有幾隻小鳥在門口啄食，生意顯得十分冷清。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "cf9c42aef8548b410885056a0b6f01818406d5da3c1ac75b099316f9a66b0166"
+    },
+    "76": {
+      "word": "攀龍附鳳",
+      "src": "img/idioms/76.webp",
+      "alt": "有人不靠努力做事，而是不斷討好有權勢的人、替他提包送禮，想藉關係取得升遷機會。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "8c6ea2fda3a1ed9f0c2a7423bc6c645f4dcdf47de4c2c06e6fa8148b72726613"
+    },
+    "77": {
+      "word": "痛心疾首",
+      "src": "img/idioms/77.webp",
+      "alt": "看到大家珍惜的老樹遭到嚴重破壞，居民沉痛又憤慨，一手按著胸口、一手扶著額頭，難以接受眼前的景象。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "a7e58dc28600981ebfda0369cdf0574f3b3f65391c64114420e4527f6083308a"
+    },
+    "78": {
+      "word": "易如反掌",
+      "src": "img/idioms/78.webp",
+      "alt": "熟悉技巧的人只輕輕一拉，就把原本打結的繩子解開，神情輕鬆，完成得毫不費力。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "178064856dc88f89a781c0277bc6ca4b04f6fe4ef6b43a37b94f333b9f5ed2a4"
+    },
+    "79": {
+      "word": "膾炙人口",
+      "src": "img/idioms/79.webp",
+      "alt": "不同年齡的讀者都喜歡同一本故事書，讀得津津有味，也樂於推薦給身邊的人。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "1fa9c754b909e92a2c279b9635d8faa635731bac1ee464991615dff743f28242"
+    },
+    "80": {
+      "word": "趾高氣揚",
+      "src": "img/idioms/80.webp",
+      "alt": "得獎後的學生抬高下巴、昂首闊步，對同學露出驕傲自滿的神情，顯得得意忘形。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "2510f794e88142dda81b29e1436aad8395f66c88418309eb7a0dca876ebaf53f"
+    },
+    "81": {
+      "word": "唾面自乾",
+      "src": "img/idioms/81.webp",
+      "alt": "面對無禮的挑釁，他仍克制怒氣，不回嘴、不報復，選擇寬容忍讓。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "bdbbdbcade87ac772e41b5b1792cc0af7c83d549976528b72efcfa2d72d01619"
+    },
+    "82": {
+      "word": "推心置腹",
+      "src": "img/idioms/82.webp",
+      "alt": "兩位朋友坦誠談起自己的心事，一人真誠分享，另一人專心傾聽，彼此十分信任。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "35c37a14aa5e0d70db62069e33dc272042e28fda817b526f971cc6d6e8ed04e8"
+    },
+    "83": {
+      "word": "病入膏肓",
+      "src": "img/idioms/83.webp",
+      "alt": "公司虧損已極其嚴重，資源耗盡、營運停擺，連來協助的顧問都找不到挽救的方法。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "9a8f7ea3b2a191417f0aae99efb1583975c2578c68b6aa98820a0b4d4cc817aa"
+    },
+    "84": {
+      "word": "蕭規曹隨",
+      "src": "img/idioms/84.webp",
+      "alt": "新任社團負責人接過前任的制度手冊，照著相同的流程安排活動，沿用原本完善的規則。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "82e2c3ab955eda895c461ca82db1f511892274d23e7860d60fa7963f384770f9"
+    },
+    "85": {
+      "word": "庸人自擾",
+      "src": "img/idioms/85.webp",
+      "alt": "出遊的行李早已整理好，他卻反覆翻找、設想一堆不存在的問題，自己替自己增添煩惱。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "3c88374507ed15b68fb9f70df7ad5d03430554ca20862db3c5bd62e5210f6cdd"
+    },
+    "86": {
+      "word": "緣木求魚",
+      "src": "img/idioms/86.webp",
+      "alt": "想捉魚的人卻拿著網往樹枝間找，旁邊明明有水池，方法和方向都用錯了，當然找不到魚。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "60c1b52fb4206c0d764382d2dea04f31725175f5fe5faf35dd634e0f49427d4b"
+    },
+    "87": {
+      "word": "雙管齊下",
+      "src": "img/idioms/87.webp",
+      "alt": "同一位成年人一方面調整均衡飲食，一方面規律運動，兩種方法一起用來改善健康。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "3ee1c293a6eefc19242d2a7c5904d1bb98334313029e31883edb82cfd2ae7e4a"
+    },
+    "88": {
+      "word": "一言九鼎",
+      "src": "img/idioms/88.webp",
+      "alt": "大家遇到分歧時都重視他的意見，他平和而明確地說明後，眾人便認真採納並一致行動。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "f1ed33002259364a7e1b35a65b0f0eb5d019949fb1350192efeda85c85b22421"
+    },
+    "89": {
+      "word": "自相矛盾",
+      "src": "img/idioms/89.webp",
+      "alt": "商人同時展示矛和盾，客人把矛尖指向盾牌，追問兩種誇口如何能同時成立。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "38fe6f1653d8c3815db14a84f22bf27f10cf12e98427c6c4e375f99a3df58511"
+    },
+    "90": {
+      "word": "扶搖直上",
+      "src": "img/idioms/90.webp",
+      "alt": "事業發展得很快，從小小工作攤位迅速成長為熱鬧的店面，再擴展成更大的事業。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "03ce68d6f655ebe30276aa2c82b3b8d56fb5e5c1068fc531f845f64148071cf0"
+    },
+    "91": {
+      "word": "舉案齊眉",
+      "src": "img/idioms/91.webp",
+      "alt": "夫妻一起準備晚餐，彼此盛湯、倒茶，動作體貼而有禮，表現互相尊重與珍惜。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "6390247806988a3686c6bb5462bf282ae51bc9cf4feed4b77f40572884a6a1a6"
+    },
+    "92": {
+      "word": "閉門造車",
+      "src": "img/idioms/92.webp",
+      "alt": "他只照自己的想像做出大推車，從沒量過現場尺寸，完成後才發現根本通不過門口，無法使用。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "dbacbbe1cb86a4efdccd3eed39963554d8dd503624a483c139f89f9a23f4e69c"
+    },
+    "93": {
+      "word": "歧路亡羊",
+      "src": "img/idioms/93.webp",
+      "alt": "找羊的人遇到一再分岔的小路，大家指向不同方向，卻理不出正確路線，最後仍一無所獲。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "180dabf1f138977ec40dfb736aa52eaf5a7fd2bc2ff6a33eec02d89674535cb2"
+    },
+    "94": {
+      "word": "風聲鶴唳",
+      "src": "img/idioms/94.webp",
+      "alt": "大家本來就很驚慌，連風吹樹葉和遠處鳥鳴，都誤以為有危險逼近，彼此更加緊張。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "7f0175413239b92b17ecd6475381a3f1d54274dbee7432eed4289eca764f2f95"
+    },
+    "95": {
+      "word": "老當益壯",
+      "src": "img/idioms/95.webp",
+      "alt": "年長的健行者精神飽滿、步伐穩健，充滿志氣地帶領年輕夥伴往山頂前進。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "052578cea458c6fa44b4eff85df2ddbd3203ea52504de4489993148d1f664d68"
+    },
+    "96": {
+      "word": "車水馬龍",
+      "src": "img/idioms/96.webp",
+      "alt": "城市街道上車輛一輛接一輛、人潮不斷，呈現交通繁忙、繁華熱鬧的景象。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "cb463881b26d286076f074855ddf3d29dfac72ddb1f705abaa8e959384e547ce"
+    },
+    "97": {
+      "word": "未雨綢繆",
+      "src": "img/idioms/97.webp",
+      "alt": "外頭還沒下雨，一家人已先整理飲水、手電筒與備用用品，並把窗邊物品安置穩妥，預防風雨帶來問題。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "01db370c54f80bbaef1f741c559e60c298f7d8316ba8ab53e55cd2f7ec089db9"
+    },
+    "98": {
+      "word": "先發制人",
+      "src": "img/idioms/98.webp",
+      "alt": "羽球選手在比賽一開始便主動進攻，讓對手來不及應變，率先取得優勢。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "7defe997ee6149ce6cc30a2995c71c2fd7cccf590bd27a341b63a42166260905"
+    },
+    "99": {
+      "word": "洛陽紙貴",
+      "src": "img/idioms/99.webp",
+      "alt": "新書一推出便廣受歡迎，書店裡許多人爭相購買，架上的同一本書很快就賣完了。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "3ff9bc75d6ed98e558efbec2ca0068751a0e361ed5f69fa2319c80c8ce91cc54"
+    },
+    "100": {
+      "word": "孤陋寡聞",
+      "src": "img/idioms/100.webp",
+      "alt": "大家熟悉常見的世界地理與自然知識，他卻一臉茫然，發現自己接觸的知識十分有限。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "ad848fe8039928923a19f400d11c3253b1b52cb5d30697d0ac4b3c431bca846a"
+    },
+    "101": {
+      "word": "不共戴天",
+      "src": "img/idioms/101.webp",
+      "alt": "兩人因深重的仇怨而決裂，彼此憤怒對立，連身旁的人也無法使他們和解。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "3f0391bece9d301ef9e2337cb8871df074edccaa999a17c48c88b1be5bd68077"
+    },
+    "102": {
+      "word": "滿腹經綸",
+      "src": "img/idioms/102.webp",
+      "alt": "學識豐富的規劃者運用各方面知識，替大家整理出兼顧水源、道路與居住的完整方案。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "d3c26b622c0ed8810dacc9d035feaa9fa0f0278ef930dd368031f9a6bbffe769"
+    },
+    "103": {
+      "word": "飲鴆止渴",
+      "src": "img/idioms/103.webp",
+      "alt": "為了暫時遮住牆上的漏水，他把水導進櫃子裡，眼前乾了，櫃內卻積水腐壞，造成更大的損失。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "1335406b8d219f5c5bd2e3c2d566af6364bc066772b4c71c833b6a41e23be5bd"
+    },
+    "104": {
+      "word": "退避三舍",
+      "src": "img/idioms/104.webp",
+      "alt": "對方氣勢洶洶地爭執，他主動後退讓開，選擇避免正面衝突。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "8ecb4795e85cc87cdc1d5d7b5c4adf62a2d7c4108712ac5581a3fdd9b4ae2b4e"
+    },
+    "105": {
+      "word": "世外桃源",
+      "src": "img/idioms/105.webp",
+      "alt": "穿過偏僻山谷後，眼前出現清澈溪流與安靜村落，景色優美，遠離塵囂。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "a6593f24b817795fc5d0da0172e311794f22032ad1c2c40e38de6dc5aebe3a44"
+    },
+    "106": {
+      "word": "剛愎自用",
+      "src": "img/idioms/106.webp",
+      "alt": "夥伴已拿出模型指出問題，他仍固執地推開建議，堅持自己錯誤的安排。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "ff75c6b840a5313685b27d028e3a6ff1a7d95f033b62657bdddbd364db88fa8e"
+    },
+    "107": {
+      "word": "出爾反爾",
+      "src": "img/idioms/107.webp",
+      "alt": "他剛答應協助搬運，轉眼卻又擺手反悔，讓已準備一起做事的朋友不知所措。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "e25f0f6bd2483fa0371247fbad9ea60149051c372c9fffa09d914573e62191e3"
+    },
+    "108": {
+      "word": "目不識丁",
+      "src": "img/idioms/108.webp",
+      "alt": "成年人看著日常告示卻讀不懂內容，友人耐心指著圖示協助他理解。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "9b1f3302104e0049c46f58daa5a4dbef4930ea1515a1c9ee800a3ed6bec4a87b"
+    },
+    "109": {
+      "word": "水深火熱",
+      "src": "img/idioms/109.webp",
+      "alt": "老舊住宅裡漏水又悶熱，一家人辛苦接水、修補，生活困難，幾乎無法喘息。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "50bffc1f1fac252be172effba24fb52e175a8abea0850efdb72484796e786aec"
+    },
+    "110": {
+      "word": "假公濟私",
+      "src": "img/idioms/110.webp",
+      "alt": "他以替社區採買為由領取公用物資，卻把大部分搬到自家花園，讓公共花圃反而空著。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "eb3158831960d255e32d8110ad26475576c304b3884ac88752b473a92a21b6ef"
+    },
+    "111": {
+      "word": "孤掌難鳴",
+      "src": "img/idioms/111.webp",
+      "alt": "搭建活動棚架需要多人合作，夥伴都走開後，他獨自扶著一端，工作無法完成。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "b7924bde6a6693a880440f285529dc01a96c5a6d47768ae61e593a2bc7c07218"
+    },
+    "112": {
+      "word": "偃旗息鼓",
+      "src": "img/idioms/112.webp",
+      "alt": "原本熱鬧進行的活動已經停止，工作人員收起布旗與器材，場地恢復安靜。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "78c26af3aebc1aeaa30a11c951b8571a17d0cc9fbbb4f124d62ab1f7eeac093a"
+    },
+    "113": {
+      "word": "妄自尊大",
+      "src": "img/idioms/113.webp",
+      "alt": "他只做出一個普通小作品，就自以為遠勝所有人，昂首炫耀，瞧不起身旁更出色的成果。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "1f0e1ae88a33ebcd735d870c1c5679588aa4e9f00f8db2df9ee66a150579df8a"
+    },
+    "114": {
+      "word": "百折不撓",
+      "src": "img/idioms/114.webp",
+      "alt": "模型經過多次失敗，他仍整理零件、重新嘗試，堅定地朝完成目標努力。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "023e1d601d0cbb94f9ad18503e5bc97b857ff0d5f38cfb019d41865586e9b76d"
+    },
+    "115": {
+      "word": "拾人牙慧",
+      "src": "img/idioms/115.webp",
+      "alt": "前一位同學剛提出想法，後一位便照樣重述，連圖示與手勢都相同，卻裝成自己的見解。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "59437b380e64a5bcc52f93353d6370c225f3884a6d6e72f58a5c0ee09acfde3c"
+    },
+    "116": {
+      "word": "耳濡目染",
+      "src": "img/idioms/116.webp",
+      "alt": "孩子長期看著家人閱讀、聽家人分享故事，漸漸也養成主動看書的習慣。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "7eb8adbb48d9d403b2aa0c2eae6cb665c12e1aba4eb1a21a9363f18ec7f7bf08"
+    },
+    "117": {
+      "word": "得心應手",
+      "src": "img/idioms/117.webp",
+      "alt": "熟練的陶藝師從容轉動拉坯盤，雙手準確配合，很順手地做出理想的器皿。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "30de1ea616ba0ba3296e8b07171d9b8f08716ac3a12bb6343e87497237a8e7a5"
+    },
+    "118": {
+      "word": "乘風破浪",
+      "src": "img/idioms/118.webp",
+      "alt": "團隊面對接連的困難仍互相配合、奮力前進，像帆船迎著風浪駛向遠方的目標。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "3c638d927ed999caddf6ec2b1ddaa9432c19ea634fef8a3ae1a162b86a2ed3ad"
+    },
+    "119": {
+      "word": "杯水車薪",
+      "src": "img/idioms/119.webp",
+      "alt": "大片乾燥的社區花圃需要大量灌溉，他卻只有一小杯水，力量太少，無法解決眼前問題。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "31cb5d7b06c6e6695b8ac861eaeafad8a5a9830606c49f5eb7fd1e65a59b8d8d"
+    },
+    "120": {
+      "word": "車載斗量",
+      "src": "img/idioms/120.webp",
+      "alt": "倉庫裡同類物品成堆成列，推車一車接著一車運進來，數量多得難以計算。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "067ef505f63cdd356ef0ab9c8fe886b919312cd266a98ae79adcf2cdae909d30"
+    },
+    "121": {
+      "word": "滿城風雨",
+      "src": "img/idioms/121.webp",
+      "alt": "一件傳聞迅速傳開，街頭、店裡與鄰里的人都在交頭接耳，議論同一件事。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "865e504c4bc3d6df015bb06c412657d030028bfb91efe42680a684622c7626d5"
+    },
+    "122": {
+      "word": "燃眉之急",
+      "src": "img/idioms/122.webp",
+      "alt": "水管持續漏水、地面積水迅速擴大，店員必須立刻關水處理，不能再拖延。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "34a434bc67342fe048f6f1792a45a630545583df6cc45843c9c8fd34f517d4b5"
+    },
+    "123": {
+      "word": "言不由衷",
+      "src": "img/idioms/123.webp",
+      "alt": "他表面笑著稱讚朋友的新擺設，心裡卻覺得不好看，說出口的話並非真心。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "d0e1c55bd6efd5dc1ee2920bac2add2d9a56185e71ca0b3f195a093413a875f7"
+    },
+    "124": {
+      "word": "敝帚自珍",
+      "src": "img/idioms/124.webp",
+      "alt": "雖然自己做的杯子歪歪的、比不上旁邊的成品，他仍小心捧著，十分珍惜。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "7228006fcabc9147e424f641a9eb2bc312e31d568ff89eec9c6b3bfbb8823138"
+    },
+    "125": {
+      "word": "兔死狗烹",
+      "src": "img/idioms/125.webp",
+      "alt": "夥伴辛苦完成開店籌備後，店主一成功便把他拒於門外，獨自享受成果。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "f9411cbcdbfd0e51294731a269fa258da6027610510f0479ac0c09730f6edfbe"
+    },
+    "126": {
+      "word": "拋磚引玉",
+      "src": "img/idioms/126.webp",
+      "alt": "他先提出簡單的草案，謙虛邀請大家補充，於是夥伴接連提出更周全、更好的構想。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "fb064e7f2ad41e22ec76af1a45eac07645288af789f1d7f26c615442301c6d2f"
+    },
+    "127": {
+      "word": "門庭若市",
+      "src": "img/idioms/127.webp",
+      "alt": "前來拜訪請益的人接連不斷，從門口排到院子，讓原本安靜的住處變得十分熱鬧。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "34276695a1964bc24f3391e0da8d193da6a09b00610a4cce200d8ea2f19fd7f6"
+    },
+    "128": {
+      "word": "不倫不類",
+      "src": "img/idioms/128.webp",
+      "alt": "這件設計把椅子、燈架與書櫃的部分胡亂拼在一起，外觀不協調，各種用途也都做不好。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "17fdd1d04f78afb6302bfcb46863348f7973b3366bbb2aa5c2756bcd0c843cbb"
+    },
+    "129": {
+      "word": "虎頭蛇尾",
+      "src": "img/idioms/129.webp",
+      "alt": "他剛開始精心整理花園，後半段卻草草丟下，留下未完成的花圃便離開了。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "54d2c99ca37d2a2a151a5dec53a38eed06e0af4448edfb42e1f61fdcbb47e72b"
+    },
+    "130": {
+      "word": "空中樓閣",
+      "src": "img/idioms/130.webp",
+      "alt": "他幻想在狹小空地上蓋出宏大的設施，卻沒有足夠的土地、材料與可行的計畫。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "3070698df71aac89013995d679b196608acf269babaf4ebd637982b725d4fea4"
+    },
+    "131": {
+      "word": "天經地義",
+      "src": "img/idioms/131.webp",
+      "alt": "借來的物品用完便好好歸還，雙方自然認同，認為這是理所當然應做的事。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "82270c8cf9336285c4c73f9401fa9b026234349cd955f78b852f6a147b4054db"
+    },
+    "132": {
+      "word": "殺身成仁",
+      "src": "img/idioms/132.webp",
+      "alt": "他為守護他人與正義犧牲生命，後來人們在紀念處獻花，追念他的勇氣與選擇。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "9f820afd37f7c23dfb5b2f8af9f80fe3ad59d08ada108519d5df0e265517a9eb"
+    },
+    "133": {
+      "word": "心猿意馬",
+      "src": "img/idioms/133.webp",
+      "alt": "他本來要專心完成作品，心思卻一下跑去旅行、一下想玩球，遲遲無法集中。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "b6c4b4700fb193e2c872eb04c629728797b3086bbffe4aabcdd8b2929d4d4917"
+    },
+    "134": {
+      "word": "一視同仁",
+      "src": "img/idioms/134.webp",
+      "alt": "服務人員以同樣耐心接待每個人，不論熟不熟、年紀或身分，都得到公平的協助。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "716a22ccdaee1e030a6f224056a147096dbe3b801e752e4d150aad1e3954e22c"
+    },
+    "135": {
+      "word": "雪中送炭",
+      "src": "img/idioms/135.webp",
+      "alt": "寒冷天氣裡，鄰居把保暖毯和一壺熱飲送給沒有暖氣、正在發抖的一家人。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "c45a19dee54f028c312d8757b67dd82e44339d06d5b1b0904fdbcded5ac2a967"
+    },
+    "136": {
+      "word": "甘拜下風",
+      "src": "img/idioms/136.webp",
+      "alt": "比賽結束後，他真心佩服對手更好的技藝，微笑握手，坦然承認自己不如。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "0ddb7b09a720bfd9bc2b57eda6de102e8571b0a2f3b1865bc26e7aa89b1d9c3c"
+    },
+    "137": {
+      "word": "無地自容",
+      "src": "img/idioms/137.webp",
+      "alt": "他才發現自己誤會並責怪了別人，真相揭開後滿臉羞愧，低頭不敢看大家。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "2b0ef71a287c126d9077c2500baceb33b4565e33467ae85c6644179b1093a877"
+    },
+    "138": {
+      "word": "群策群力",
+      "src": "img/idioms/138.webp",
+      "alt": "大家先一起討論方案，再各自發揮專長，合作把社區花園建好。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "320554e33b3bcc2e8ce5e00bd3594c44c9beda84f157f95da58f40264ce00396"
+    },
+    "139": {
+      "word": "過河拆橋",
+      "src": "img/idioms/139.webp",
+      "alt": "朋友幫他度過困難後，他一有成就便翻臉，拒絕再認這位曾經伸出援手的人。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "b4c587e026f602c34a6d4490bf036cf0c08f3610f0efabe5e0eea009336bec30"
+    },
+    "140": {
+      "word": "有備無患",
+      "src": "img/idioms/140.webp",
+      "alt": "突然停電時，家人拿出早已備好的手電筒，從容照明，生活沒有陷入慌亂。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "b3b78286760af6a6a245dc08a4c7ede53fc95ea30fa577c692737b61cad9e762"
+    },
+    "141": {
+      "word": "裹足不前",
+      "src": "img/idioms/141.webp",
+      "alt": "大家已開始參與新活動，他卻因為擔心出錯，一直停在門口，遲遲不敢加入。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "46811770ce312a2ab354eac2a84b0f8595b8f592194d593bd3f95cfc2d89e8bf"
+    },
+    "142": {
+      "word": "前倨後恭",
+      "src": "img/idioms/142.webp",
+      "alt": "他原本對訪客愛理不理，得知對方是重要合作人後，立刻換成滿臉笑容、恭敬迎接。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "3e774065fc0a7c259a0e30427a94cdf7760df98a3df1950123bfffdcb72504ea"
+    },
+    "143": {
+      "word": "弄巧成拙",
+      "src": "img/idioms/143.webp",
+      "alt": "他想把所有輕盒子一次搬完來省事，卻疊得不穩，反而散落一地，需要重新整理。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "2bb2b2b1db909b070e1e208d461d797d24996c7277245b935a07c6f0cab78180"
+    },
+    "144": {
+      "word": "噤若寒蟬",
+      "src": "img/idioms/144.webp",
+      "alt": "主管嚴厲斥責後，大家即使有想法，也緊張閉口、不敢再發言。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "55b32f7a8142a85dd392f03fef0ed4995cf118b8c35841761513315f23c26cd5"
+    },
+    "145": {
+      "word": "戰戰兢兢",
+      "src": "img/idioms/145.webp",
+      "alt": "第一次端著重要作品展示，他十分緊張，雙手小心扶穩，走每一步都格外謹慎。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "da227764cfa74fe55b040c108565241e45695be5a0e5ffae1005b44876c7ce0c"
+    },
+    "146": {
+      "word": "瓜田李下",
+      "src": "img/idioms/146.webp",
+      "alt": "他站在別人的果樹下伸手整理帽子，遠處的人卻以為他要摘果子，動作容易引起誤會。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "88eee3ab640b1658080379a9eb65f393b22c11d8d92d58724821cc214a31978a"
+    },
+    "147": {
+      "word": "借花獻佛",
+      "src": "img/idioms/147.webp",
+      "alt": "他把朋友送來的一籃水果轉送給探訪的長輩，借別人的禮物表達自己的心意。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "b5e98e071e6837dd2928d8073d03025b6be0ccd7e22ca2e520381eba8a22602c"
+    },
+    "148": {
+      "word": "故步自封",
+      "src": "img/idioms/148.webp",
+      "alt": "大家已學會更方便的新方法，他仍守著舊做法，拒絕嘗試，讓工作一直停留原地。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "624014587ee6359d30d93ab9f233c7e86d98c9e85f51cb7e6ccf9cbcac3a1d30"
+    },
+    "149": {
+      "word": "笑裡藏刀",
+      "src": "img/idioms/149.webp",
+      "alt": "他表面笑著協助對手，轉身卻偷偷藏起對方參展所需的材料，暗中使壞。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "6bba00783b8025639a914e3aa4e18e9095f6252fb386649c1e61f02a14fc6720"
+    },
+    "150": {
+      "word": "望塵莫及",
+      "src": "img/idioms/150.webp",
+      "alt": "同伴的模型作品已十分精巧成熟，他看著自己初步完成的小模型，深感程度相差很遠。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "f18bafe1d6f55bc8c705ce36ca6ec8122d024337407db07a54c2161cc282a185"
+    },
+    "151": {
+      "word": "水到渠成",
+      "src": "img/idioms/151.webp",
+      "alt": "他們把設計、材料與分工都準備妥當，最後一起組裝，作品自然順利完成。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "a77d802291e015ae1308aa0e1f361e2fff68084fc2812f655b1bca0d34c4d5d8"
+    },
+    "152": {
+      "word": "半途而廢",
+      "src": "img/idioms/152.webp",
+      "alt": "拼圖只完成一半，孩子已離開桌子去玩別的，剩下的拼片散在旁邊。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "8208c47e48395deedb4f56787c42d6abd2bd622a9e0f9392ae23ff284b624b52"
+    },
+    "153": {
+      "word": "一籌莫展",
+      "src": "img/idioms/153.webp",
+      "alt": "大家面對交錯複雜的問題，想了許久仍找不到可行辦法，只能停下來發愁。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "719f549b518f2a20af8d7fd17e139b05022b2a67d826b7873e89ee628c27ea80"
+    },
+    "154": {
+      "word": "抱薪救火",
+      "src": "img/idioms/154.webp",
+      "alt": "桌上的顏料已經混濁，他想用更多不同顏色補救，卻越加越亂，把問題弄得更嚴重。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "ef51a504db318d09a6b4cd43eaa0d7bc7d1684e3d1893f371d2e82844558aecc"
+    },
+    "155": {
+      "word": "大器晚成",
+      "src": "img/idioms/155.webp",
+      "alt": "他年輕時默默學習、長期磨練，直到頭髮斑白後，作品才獲得廣泛肯定。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "19044db829f2d7e6062a21c9a57acd560f1845052a912d7875faf950853d7338"
+    },
+    "156": {
+      "word": "莫逆之交",
+      "src": "img/idioms/156.webp",
+      "alt": "多年好友不必多說，就能明白彼此的想法，遇到困難時也真心支持對方。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "021538918ad4aab9a2f2b7332a2f7ee1ebc2e6420c3f65e641085d882bbd9090"
+    },
+    "157": {
+      "word": "芒刺在背",
+      "src": "img/idioms/157.webp",
+      "alt": "他心裡有事，察覺身後有人注視時便坐立不安，連手上的工作也無法安心完成。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "4ba74bf83f5e6aaf48052149b260a50800624830ca54313d7d10e9184fa72d3c"
+    },
+    "158": {
+      "word": "按圖索驥",
+      "src": "img/idioms/158.webp",
+      "alt": "他根據地圖上的道路、橋與大樹逐一比對現場，順著線索找到要去的地方。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "c150467fbcd46db90c650a68fc1647e2f65019a7183c57b4f78854ff2851c20c"
+    },
+    "159": {
+      "word": "強弩之末",
+      "src": "img/idioms/159.webp",
+      "alt": "風力玩具車剛出發時跑得很快，到了遠端卻動力耗盡，幾乎無法再向前。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "f236f120143dd8515b83f94303a17168900442d4294d8effc3044bbb11e4215e"
+    },
+    "160": {
+      "word": "一網打盡",
+      "src": "img/idioms/160.webp",
+      "alt": "整群破壞花圃、偷拿花苗的人都被警方查獲，沒有任何同夥逃掉。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "792ad7d3449dce07ed7eda3794fdad6702eca1993e96d692079dc37ffab564f4"
+    },
+    "163": {
+      "word": "矯枉過正",
+      "src": "img/idioms/163.webp",
+      "alt": "為了改掉植物缺水的問題，他反而不停澆水，讓整盆積水，從一個極端走到另一個極端。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "c2eb26be55c04628cb8e409d044a2118b7230242756367ed433ce187e61243dd"
+    },
+    "164": {
+      "word": "吳牛喘月",
+      "src": "img/idioms/164.webp",
+      "alt": "他曾被突然噴出的熱蒸氣嚇到，後來看見一團無害的白雲，也過度緊張、退縮。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "6eeb9cf1f9528475a514f7efaf70d856a53599087136dd603fd3c8e14dcd70dc"
+    },
+    "165": {
+      "word": "居安思危",
+      "src": "img/idioms/165.webp",
+      "alt": "生活安定時，家人仍認真討論可能遇到的停電與風雨，檢查用品並規劃應變方式。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "6eb782f918d1bc10b9e4ab38c8506c61ecf7312894d14305f79fa76ecef957a2"
+    },
+    "166": {
+      "word": "賓至如歸",
+      "src": "img/idioms/166.webp",
+      "alt": "主人親切接過行李、準備茶點，來訪的客人放鬆坐下，感覺就像回到自己家。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "e548b09f902d2f5be79f5bc3e33e115ea9821230496855024e8d9cbe57173a39"
+    },
+    "167": {
+      "word": "不恥下問",
+      "src": "img/idioms/167.webp",
+      "alt": "經驗豐富的老師遇到自己不懂的操作，仍謙虛向年輕學生請教，認真學習。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "32e153a2de6d4f8912843dd47bd7183e7cdf9dcfcaf07d207b2419eb7d4dcc79"
+    },
+    "168": {
+      "word": "不可救藥",
+      "src": "img/idioms/168.webp",
+      "alt": "這座木模型早已腐朽散裂，各種修補方法都無法讓它恢復，已到無法挽救的地步。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "4dd011fffa0a2f9ab773c72faa1749b3ad1295840a427e9991e4ae19c7169fa8"
+    },
+    "169": {
+      "word": "河東獅吼",
+      "src": "img/idioms/169.webp",
+      "alt": "這位妻子正在對丈夫大聲斥責，丈夫驚慌縮肩，不敢作聲。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "445997acbd82904aeee61c225f0f1d82a2117c39b04d721dba14a02005ed7768"
+    },
+    "170": {
+      "word": "開門見山",
+      "src": "img/idioms/170.webp",
+      "alt": "會議一開始，他就直接指出今天要解決的核心問題，大家立刻進入重點討論。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "b0236f5bedac4f3eb8d70cee33e63262d8f7bca398b696b9b278432e75a9c03a"
+    },
+    "171": {
+      "word": "手舞足蹈",
+      "src": "img/idioms/171.webp",
+      "alt": "得知大家的作品成功入選展示，他高興得揮手跳起來，喜悅藏也藏不住。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "25b62c81687564c6e2f57b6fbfd2ed51694c576255211105f88f647d4a007213"
+    },
+    "172": {
+      "word": "土崩瓦解",
+      "src": "img/idioms/172.webp",
+      "alt": "原本勉強維持的合作小組在問題接連出現後徹底散掉，計畫也無法再繼續。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "a6a319570a9333452779e684941620408400af85121f6d5be0212202daede713"
+    },
+    "173": {
+      "word": "愛屋及烏",
+      "src": "img/idioms/173.webp",
+      "alt": "她很喜愛這位朋友，也因此珍惜朋友做的小物，連朋友照顧的植物都格外用心愛護。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "c9267154dbb9f905fc993f609dcb34f3092b8b4f5bba80475e2b92d941ac6a28"
+    },
+    "174": {
+      "word": "不脛而走",
+      "src": "img/idioms/174.webp",
+      "alt": "他沒有宣傳，消息卻經由大家彼此分享，很快從家中傳到整個社區。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "bc56fbc0f7af8fecee228ceb7037debdb50928a43780f86aca095f1e48f0bfa1"
+    },
+    "175": {
+      "word": "大義滅親",
+      "src": "img/idioms/175.webp",
+      "alt": "他發現親人偷拿社區物資，雖然難過，仍把證據交給警方，讓親人依法接受處理。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "e2f5157df2466860da4c66d96a9bfd79d5e0e70354d28b82d16a7e41b7309d5b"
+    },
+    "176": {
+      "word": "東施效顰",
+      "src": "img/idioms/176.webp",
+      "alt": "他不考慮自家陽台的大小，照搬大花園的配置，結果擁擠難行，反而弄巧成拙。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "d10b968d221348f4d301579fb8e0e1b11a42239d07b2c227108c860c43022519"
+    },
+    "177": {
+      "word": "從善如流",
+      "src": "img/idioms/177.webp",
+      "alt": "夥伴提出更好的安排，他立刻認真聽取、欣然調整，讓大家一起把事情做好。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "bc3586ba1da8daa3bd79dca49010fcf8f9a78ff1f5fc5ecb329e82bbbdb34ff1"
+    },
+    "178": {
+      "word": "越俎代庖",
+      "src": "img/idioms/178.webp",
+      "alt": "他原本只負責接待，卻擅自接手別人的設計工作，讓真正負責的人困惑又無奈。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "4e2ff37533e7221d7d20f343686754e3779d1a6a688e955ddac545ddb5cfd239"
+    },
+    "180": {
+      "word": "袖手旁觀",
+      "src": "img/idioms/180.webp",
+      "alt": "夥伴正忙著整理散落的材料，他明明能幫忙，卻只站在旁邊看，完全不伸出援手。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "244a90f2db662a83a97c7781e5005cd02a82f6a715101657176a4543b43de7d1"
+    },
+    "181": {
+      "word": "炙手可熱",
+      "src": "img/idioms/181.webp",
+      "alt": "這位主管握有重要決策權，許多人爭相接近、請求支持，走到哪裡都受到追捧。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "d41adec7baed99649e9f383cd558fd8cf6b5e4330d4c824bc4365b8221c65c15"
+    },
+    "182": {
+      "word": "因噎廢食",
+      "src": "img/idioms/182.webp",
+      "alt": "他做模型時出過一次小差錯，便害怕再犯，連整個喜歡的手工活動也一起放棄了。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "3e1e339ff34c246c38f51dfe0aaa19bc7894d1dd2594d1f7b93efecac1352e48"
+    },
+    "183": {
+      "word": "因勢利導",
+      "src": "img/idioms/183.webp",
+      "alt": "孩子本來就喜歡畫動物，老師順著這份興趣，引導他觀察自然、學習記錄生態。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "bd63767cf5610584cf68ed5bfded0b00298a7c8710c97876484b5e15046bfc90"
+    },
+    "185": {
+      "word": "排難解紛",
+      "src": "img/idioms/185.webp",
+      "alt": "鄰居為共用通道爭執，他耐心了解雙方困難，協助移開障礙，讓兩邊都安心和解。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "ffaafd93f05287ef9fca64940d0716a623383cf7aaed597b87ba0b5cf0752964"
+    },
+    "186": {
+      "word": "畏首畏尾",
+      "src": "img/idioms/186.webp",
+      "alt": "他想開始新的計畫，卻一下擔心這裡、一下擔心那裡，反覆猶豫，什麼也不敢做。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "27f73ea9c9b1846ef78d45be1ba9c5799cad3ceecdc800dae9250aac8eaa066e"
+    },
+    "187": {
+      "word": "如魚得水",
+      "src": "img/idioms/187.webp",
+      "alt": "喜歡園藝、擅長觀察植物的他加入適合的團隊後，做事自在順手，專長終於能充分發揮。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "490b981bfc27ee69965463f0f967d33c6b1f508b00e456b6c878a4ffc93a65d7"
+    },
+    "188": {
+      "word": "流芳百世",
+      "src": "img/idioms/188.webp",
+      "alt": "這位人物生前幫助許多人，過了好幾代，人們仍向孩子講述他的善行與貢獻。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "de04c178f2b10636079b5c4d0931c4f6d4bacdf7199876eb882964cae7e0f97b"
+    },
+    "189": {
+      "word": "眾志成城",
+      "src": "img/idioms/189.webp",
+      "alt": "社區面對共同困難，大家同心站在一起、互相支援，團結的力量讓防護更加穩固。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "c769decbece797bd7c75c2c815d9b915b78b3be93e59590bc8a0ec54803ab59a"
+    },
+    "190": {
+      "word": "管中窺豹",
+      "src": "img/idioms/190.webp",
+      "alt": "他只從狹小孔洞看到作品的一點局部，就急著判斷，沒有看見外面完整的模樣。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "27dc7258f6fb77ecb356d055b86bc69ff861e9bd9f3f19ab18de0d37815f374e"
+    },
+    "191": {
+      "word": "南柯一夢",
+      "src": "img/idioms/191.webp",
+      "alt": "夢裡他擁有輝煌事業與眾人追捧，醒來才發現仍在平凡生活中，榮華得失如夢。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "022255166766f3ed7c3649ad67563ead617967e32d97d73592a2f9e4328e2a1d"
+    },
+    "192": {
+      "word": "名不虛傳",
+      "src": "img/idioms/192.webp",
+      "alt": "大家早就稱讚這位師傅手藝精巧，親眼看見成品後，他果然做得和傳聞一樣好。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "5a7809d58f09a7c630ea4c0e5a97d2812b9c8ab6efae8dd2c3c75128d9d63510"
+    },
+    "193": {
+      "word": "束之高閣",
+      "src": "img/idioms/193.webp",
+      "alt": "那份計畫做好後便被捆好放到高架，長久積灰，始終沒有拿出來實行。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "500bc5f01834a198dfa33c4b5382ce9b857a059ef8cb38f8c7242cf4b9fb93b3"
+    },
+    "194": {
+      "word": "喪心病狂",
+      "src": "img/idioms/194.webp",
+      "alt": "他為了報復，竟故意毀掉大家長期照料的公共花園，完全不顧他人的心血與痛苦。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "2dd95b3735cc6c1c37ed88633673cd92165bdf5e4a7a48a1d6b89ef6791ca9d6"
+    },
+    "195": {
+      "word": "見異思遷",
+      "src": "img/idioms/195.webp",
+      "alt": "他每次看見新的興趣就立刻改變心意，前一個作品還沒完成，又急著開始另一個。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "3cff778462c6343426894eb26a6f9516a511d27d1131d0f20db2d4b5045ea9dd"
+    },
+    "196": {
+      "word": "明察秋毫",
+      "src": "img/idioms/196.webp",
+      "alt": "大家都沒注意到模型的一處小裂縫，她卻仔細觀察，立即指出那個極細微的問題。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "c9ad244b648e875f603b04d116476db009c4cbbc9ddb95ab734eae52ba2b88df"
+    },
+    "197": {
+      "word": "忍辱負重",
+      "src": "img/idioms/197.webp",
+      "alt": "有人誤會並責怪他，他雖難過，仍忍住委屈，繼續承擔協調大家的重要工作。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "3cbdf150f129aafb01d6d0111c6b65aa72305ff34c87528a8804d15c89c32360"
+    },
+    "198": {
+      "word": "臥薪嘗膽",
+      "src": "img/idioms/198.webp",
+      "alt": "經歷失敗後，他保留失敗作品提醒自己，每天刻苦練習，立志把本領重新鍛鍊起來。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "9a0d86a49b561231f40b1e3e847d4e7bf5ba3be6b4035b4959913edcc2e2cdd3"
+    },
+    "199": {
+      "word": "買櫝還珠",
+      "src": "img/idioms/199.webp",
+      "alt": "他買下一份包裝華麗的手工禮物，卻只留下外盒，把真正有價值的精巧作品退了回去。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "4e0e9d0944fe43e7afec273510837ea9b6b19834872eb930cc02fc8322746717"
+    },
+    "200": {
+      "word": "作威作福",
+      "src": "img/idioms/200.webp",
+      "alt": "他仗著自己掌管場地，強迫別人替他搬私人物品，還霸占大家共用的空間。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "3283db4ae6d2ebf4f64ddd5b0cb4663718fca51c062d678b37b5ad37a31f9237"
+    },
+    "201": {
+      "word": "兩袖清風",
+      "src": "img/idioms/201.webp",
+      "alt": "他管理公款卻不收私下贈禮，離任時只帶走自己的舊提袋，把公共物品完整交還。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "19a671c818f84e76efd8169c3721195d2a411abc3790e51f8c402009f2b53a75"
+    },
+    "202": {
+      "word": "明目張膽",
+      "src": "img/idioms/202.webp",
+      "alt": "他當著大家的面，把共用材料搬到自己的箱子裡，明知不對也毫無顧忌。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "f01af7c379f06e0e8e301bc455c4f4fbc1f1d35f335598bd35263bca190ae5d4"
+    },
+    "203": {
+      "word": "肝膽相照",
+      "src": "img/idioms/203.webp",
+      "alt": "兩位朋友坦誠分享自己的困難，也毫無保留地互相支持，彼此真誠相待。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "ff92ad0c12b9a33b307e705bdf17dcba4788bdf59478841bf69d153708a50633"
+    },
+    "204": {
+      "word": "不求甚解",
+      "src": "img/idioms/204.webp",
+      "alt": "他只匆匆看過操作圖，就以為自己懂了；別人問到原因和細節時，他卻答不上來。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "179c10d19251cc88df44161ef4f6b5a3831a4270ee7e56f6a62ac22cfee4ff23"
+    },
+    "205": {
+      "word": "青黃不接",
+      "src": "img/idioms/205.webp",
+      "alt": "上一批可用材料已經用完，新的一批還沒準備好，工作只好暫時停下，無法銜接。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "24ab93b14bc7b4cd070fff86624ff16a47a1d86e429bb0199b4213ece013b2e5"
+    },
+    "206": {
+      "word": "民不聊生",
+      "src": "img/idioms/206.webp",
+      "alt": "整個社區的生計陷入困境，商店關閉、食物不足，居民疲憊憂愁，難以維持生活。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "26f39ce95db279df294860c0f4124a9eb63a7ad5091abd187daf3fbe68f2f952"
+    },
+    "207": {
+      "word": "明哲保身",
+      "src": "img/idioms/207.webp",
+      "alt": "他看出這場爭鬥可能惹來麻煩，便謹慎退出，不加入任何一方，以保護自己。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "007e07fb11e1225aa12dcc66e3fa8f8c10cad0237c2ee62738f2ed977402cc41"
+    },
+    "208": {
+      "word": "妄自菲薄",
+      "src": "img/idioms/208.webp",
+      "alt": "他的作品其實做得很好，卻一再覺得自己什麼都不行，不敢接受同伴真心的肯定。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "28350f0ad78b101d4d292ff62b67442b9356c280e86c970c9b0d6fff9701471b"
+    },
+    "209": {
+      "word": "自慚形穢",
+      "src": "img/idioms/209.webp",
+      "alt": "看見別人的作品與談吐都很出色，他拿自己的表現相比，頓時羞愧，覺得遠遠不如。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "4b6179b98040ac41062924e3267955f14b05926f790a478e8b5ac74c021d3951"
+    },
+    "210": {
+      "word": "泥牛入海",
+      "src": "img/idioms/210.webp",
+      "alt": "他寄出請求後長久等不到任何回覆，消息像沉入大海一樣，從此沒有下文。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "0a542f1d79c5b28f300695838439c84844f90552b61691f7ac8ba72b4a5e4dee"
+    },
+    "212": {
+      "word": "背道而馳",
+      "src": "img/idioms/212.webp",
+      "alt": "他說要節省資源，實際卻不斷拿取不需要的材料，行動和原本目標完全相反。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "465de51884e0b3e6220cc3177e53d09290b222fe246ea9a0e7796a3ac073895d"
+    },
+    "213": {
+      "word": "休戚相關",
+      "src": "img/idioms/213.webp",
+      "alt": "兩家店依靠同一片果園與彼此合作，果園收成好時一起受益，歉收時也共同面臨困難。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "cafe01a4c16ed563819a0b78d2f3d6532b478b504e4ecc9928f271971c836e3a"
+    },
+    "214": {
+      "word": "同舟共濟",
+      "src": "img/idioms/214.webp",
+      "alt": "同一艘船上的人穿著救生衣，一起划槳、互相配合，朝平靜的岸邊前進。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "4ac92485654b38a143590ea2f9e68b2ee1d4175fd6761bc1d84720d41b2909b8"
+    },
+    "215": {
+      "word": "披星戴月",
+      "src": "img/idioms/215.webp",
+      "alt": "他天還沒亮就帶著工具出門，忙了一整天，回家時天空又已掛滿星月。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "fc021c4f1f641a8c7a0803e534894a76d91ceee35c228517c5dd500f57ea46b7"
+    },
+    "216": {
+      "word": "相敬如賓",
+      "src": "img/idioms/216.webp",
+      "alt": "夫妻相處時互相尊重，出門前一起討論安排、耐心聽取對方意見，親切而有禮。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "b52ecaf831b202c0b14b28274c386332b47f6bdb5cc9b51d2a068080c7d5d198"
+    },
+    "217": {
+      "word": "鶴立雞群",
+      "src": "img/idioms/217.webp",
+      "alt": "大家展示相同題目的作品時，他的設計格外完整精巧，才能明顯比周圍更突出。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "80291ab44d329e7ca84f87d1208adb08f42a2063abe226dfff51f2db75885113"
+    },
+    "218": {
+      "word": "重整旗鼓",
+      "src": "img/idioms/218.webp",
+      "alt": "比賽失利後，團隊一起檢討問題、整理裝備，重新練習，準備再次出發。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "ab71623b28488a2deac9f77aa3466c6631e74563876deabe5afff40a81fb8581"
+    },
+    "219": {
+      "word": "格格不入",
+      "src": "img/idioms/219.webp",
+      "alt": "整間房間走簡樸自然的風格，中間卻擺了一張巨大而浮誇的椅子，怎麼看都不協調。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "ce4a1792877771587705442d33847526fbf49371e5b59ba125ea8b7704c0683c"
+    },
+    "220": {
+      "word": "山窮水盡",
+      "src": "img/idioms/220.webp",
+      "alt": "所有可用材料與備用方法都已用盡，計畫仍無法完成，他們一時找不到任何出路。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "f6ea091df712f3ef937481b63e824a19891e473c6c41a84659ebcdb6817e739d"
+    },
+    "221": {
+      "word": "脣亡齒寒",
+      "src": "img/idioms/221.webp",
+      "alt": "前排的防風樹倒下後，後方原本受保護的幼苗也直接受到強風吹襲，彼此存亡緊密相連。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "6b718b01d7c85f23885d199ded85ec61143662b7a3571fe8e442fabdbb774a40"
+    },
+    "222": {
+      "word": "功敗垂成",
+      "src": "img/idioms/222.webp",
+      "alt": "模型眼看只剩最後一步就完成，卻在放上最後零件時失手，讓整體倒散，前功盡棄。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "95322394c704e34ec22248ddc227374d66faf179214202a5fc5e885eed213a3f"
+    },
+    "223": {
+      "word": "旁若無人",
+      "src": "img/idioms/223.webp",
+      "alt": "圖書館裡大家都安靜閱讀，他卻大聲聊天、放聲大笑，完全不顧旁人的感受。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "1db914c7f62b6e442ab7112e167c996d5c71b0ecbfe989ad27106991d77b45c2"
+    },
+    "224": {
+      "word": "青梅竹馬",
+      "src": "img/idioms/224.webp",
+      "alt": "兩人從小住在鄰近，一起玩耍、分享心事，長大後仍保有深厚的童年情誼。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "7bd25a31ba002408902248cd52bf36837c4382b3b03a3852b3202336e8db9ef2"
+    },
+    "225": {
+      "word": "五體投地",
+      "src": "img/idioms/225.webp",
+      "alt": "看完大師精湛的示範後，他由衷驚嘆，對這份技藝佩服到了極點。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "2ec6c590adb4f468444c22be0ab0510e7d8e5cf5edeb265f30b73bb13a396aec"
+    },
+    "226": {
+      "word": "文過飾非",
+      "src": "img/idioms/226.webp",
+      "alt": "他把自己弄壞的作品藏到漂亮外殼後面，還裝作一切正常，不肯承認真正的錯誤。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "c4b641946d420b5d96a9e7a3b8f974d9de6a0e786a7474dcaa5268af4542dbb4"
+    },
+    "227": {
+      "word": "強詞奪理",
+      "src": "img/idioms/227.webp",
+      "alt": "大家都看見他把拼圖放錯，他卻仍激動辯解，硬說自己才是對的。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "496cc34f50a70f4bf06b4c0a600ae2494da93f383b68f6cd0dd770b1d5723108"
+    },
+    "228": {
+      "word": "投鞭斷流",
+      "src": "img/idioms/228.webp",
+      "alt": "軍隊隊伍密密麻麻，一路延伸到河岸與遠方，展現兵員極多、聲勢強大的規模。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "af93c91ba35bef4acee24194efed0e8abca29cf780f0bbc1ad8411d23f13b906"
+    },
+    "229": {
+      "word": "天花亂墜",
+      "src": "img/idioms/229.webp",
+      "alt": "他把普通產品說得像能包辦所有事，描述非常動聽，實際功能卻遠遠沒有那麼好。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "056903289deebfaa84f132a909c1ded4d8471eb405964c4ded61c0f8d170c301"
+    },
+    "230": {
+      "word": "不速之客",
+      "src": "img/idioms/230.webp",
+      "alt": "一家人已準備好自己的聚餐，門口卻突然來了沒有受邀的人，讓主人十分意外。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "f0beefdd4f5b93433461349bda151c1b80d6a730cf08c6862756e0926a6b1a0a"
+    },
+    "231": {
+      "word": "勢不兩立",
+      "src": "img/idioms/231.webp",
+      "alt": "兩種完全相反的方案都要求獨占同一片空間，雙方堅決不讓，無法同時實行。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "40d1d5555387860a082ecc5f4a8442b063356c292ca37aa1ab611c54e509ff59"
+    },
+    "232": {
+      "word": "開誠布公",
+      "src": "img/idioms/232.webp",
+      "alt": "他把計畫的成果、問題與資源使用情況都攤開說明，坦誠邀請大家共同討論。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "1ae0ec35c98c79dfbf6fe6c40829b5381cf3e198d66afa8fc65af914db78b6f4"
+    },
+    "233": {
+      "word": "別出心裁",
+      "src": "img/idioms/233.webp",
+      "alt": "大家都用普通方式展示作品，她卻把回收紙盒改造成影子小劇場，用獨特巧思吸引眾人。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "d3011de837392e83600bd3a9a5ef8a7742f08a9877b80a181885233d12ce93d7"
+    },
+    "234": {
+      "word": "大公無私",
+      "src": "img/idioms/234.webp",
+      "alt": "負責分配材料的人依大家實際需要公平安排，連自己的親人也沒有獲得額外優待。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "6f47a7128e37025a914d75b9cfab952e4ef144b391925698623d0978a81ef932"
+    },
+    "235": {
+      "word": "落井下石",
+      "src": "img/idioms/235.webp",
+      "alt": "他明知同伴的攤位已遇到困難，卻趁機藏走對方需要的材料，讓處境更加艱難。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "278867e5e82dc828ccc16760df19b9a9190c7fb24f82c210be2cca899abe99f4"
+    },
+    "236": {
+      "word": "一絲不苟",
+      "src": "img/idioms/236.webp",
+      "alt": "她仔細核對每個接縫與細節，連很小的鬆動都重新調整，整個過程毫不馬虎。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "eb857a18070876470186bc38e64d1208a90dfc56951c883a8abd2ce29e783a9a"
+    },
+    "237": {
+      "word": "力不從心",
+      "src": "img/idioms/237.webp",
+      "alt": "他很想獨自把這些物品全部搬好，但身體已經疲憊，剩下的工作超出眼前能負擔的力量。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "eb20667c38b124df4572dcde10a777541f653acebfddb914b1bc8fe4067fcfa3"
+    },
+    "238": {
+      "word": "撲朔迷離",
+      "src": "img/idioms/238.webp",
+      "alt": "同一件事留下互相矛盾的線索，大家反覆比對，仍難以判斷真正的經過。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "b38b6aab29ba3fe48c8ea2d0c496036c5cc6882f72104c098d12b4556a494b8c"
+    },
+    "239": {
+      "word": "舉足輕重",
+      "src": "img/idioms/239.webp",
+      "alt": "她負責的關鍵零件一改動，整個模型的平衡和其他部分都跟著改變，對全局影響很大。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "2fc0004cdc1613592bfc72213a938a0172f92908621452e75b8922e82309a11b"
+    },
+    "240": {
+      "word": "臨渴掘井",
+      "src": "img/idioms/240.webp",
+      "alt": "活動已經開始、器材立刻要用，他才發現沒準備，匆忙找零件卻已來不及。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "76b8ba33489bb8ba08c1a7fd164c09c67baabfbf92bf6939910ec6beaae89db0"
+    },
+    "241": {
+      "word": "再接再厲",
+      "src": "img/idioms/241.webp",
+      "alt": "這次練習雖然進步了，他仍不鬆懈，立即和夥伴再次練習，繼續向更好的表現努力。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "aaa99cd79cf1ffdce98da40742cde2ce5d313b94fc6e7517355697240be4eba5"
+    },
+    "242": {
+      "word": "八面玲瓏",
+      "src": "img/idioms/242.webp",
+      "alt": "他面對不同需求的來賓，都能親切應對、安排妥當，讓每一方都感到受到照顧。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "925255d17ed9805d799f5132a58170fbd995b6590a0c63453bb04973f1133193"
+    },
+    "243": {
+      "word": "姍姍來遲",
+      "src": "img/idioms/243.webp",
+      "alt": "大家已在約好的地方等候很久，活動也準備開始了，他才慢慢出現，讓人苦等。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "95ce31e5c4267d1306cc61c8054f0fd6deb95e9032f2b0916fb4e35229f07604"
+    },
+    "245": {
+      "word": "明日黃花",
+      "src": "img/idioms/245.webp",
+      "alt": "曾經風行的舊式產品，如今已被更合用的新方式取代，只能留在角落供人回顧。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "6acf75142ee7a507767de3fc69fc8911e11b65362970df6f284c0c06fa394331"
+    },
+    "246": {
+      "word": "迎刃而解",
+      "src": "img/idioms/246.webp",
+      "alt": "找到關鍵的卡住零件後，只要把它調正，原本一連串的問題就順利解決了。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "4af12f1aacbc22eefecaf9e9079eab853a932a65f2ad7d96198069d121c3a284"
+    },
+    "248": {
+      "word": "百發百中",
+      "src": "img/idioms/248.webp",
+      "alt": "孩子在安全的投球遊戲中，每次都把豆袋準確投進目標中央，旁邊的夥伴驚喜地看著。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "b27bb7d5a0f1e0316023f1029c73e7e52011cce617ccfb60783f7acf6e610b2a"
+    },
+    "249": {
+      "word": "罄竹難書",
+      "src": "img/idioms/249.webp",
+      "alt": "他多次偷拿、破壞與欺騙的證據堆滿桌面，還有更多受害者前來陳述，惡行多得難以列盡。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "71adf6842969b64d093f8e33e2eb7d992851ad3acbbd7be81ab328ed6089f305"
+    },
+    "250": {
+      "word": "自作自受",
+      "src": "img/idioms/250.webp",
+      "alt": "他把工具隨手亂丟，等到自己急著使用時，反而找不到，耽誤了自己的工作。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "feef902055bfb7d9204f59fd2f34c33efea3f2cdc166035cf085f38e1d91de95"
+    },
+    "251": {
+      "word": "自暴自棄",
+      "src": "img/idioms/251.webp",
+      "alt": "受挫後，他認定自己不值得再努力，把可繼續完成的作品與用品都丟到一旁，不願再進步。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "6dc1698c1d10b7e3b61c90fb682ac9002543be06f444f4a4c5e76e5567469fb4"
+    },
+    "252": {
+      "word": "一意孤行",
+      "src": "img/idioms/252.webp",
+      "alt": "同伴已指出路線行不通，他仍拒絕聽勸，堅持獨自照原來的錯誤方向前進。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "fa2c7a4891d87a48356a28a558f6192f5f48e6f4d1d04b2708017ada36b5447d"
+    },
+    "253": {
+      "word": "汗牛充棟",
+      "src": "img/idioms/253.webp",
+      "alt": "家裡的書從地面排到高架，還有一箱箱藏書陸續搬進來，數量非常多。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "b0bb13095c2d86e7c4c8175a29728087df99a57abf0140edc99c9f621bcc5780"
+    },
+    "254": {
+      "word": "仰人鼻息",
+      "src": "img/idioms/254.webp",
+      "alt": "他連小小的工作決定都要先看資源提供者的臉色，對方不點頭，他就不敢自行行動。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "4838cfc286d56c9546f340cb0a2b0e89ec30e840883fde310043f7a87810df1e"
+    },
+    "255": {
+      "word": "高枕無憂",
+      "src": "img/idioms/255.webp",
+      "alt": "事情已妥善安排，所有該做的準備都完成，他終於安心休息，沒有掛心的事。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "8260070aa2b16dcdaa97da45b081d030d4ebe179ad7e32516fcc53ce1d424e24"
+    },
+    "256": {
+      "word": "家喻戶曉",
+      "src": "img/idioms/256.webp",
+      "alt": "不論街角店家、家中長輩還是孩子，人人都認得這個故事角色，幾乎每一戶都知道。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "64865d4a713e0ada93db80eb74e01fc8c1a3f305530993b6eaaf789dbe7b117a"
+    },
+    "257": {
+      "word": "安步當車",
+      "src": "img/idioms/257.webp",
+      "alt": "他不急著搭車，選擇慢慢步行，從容欣賞沿途的樹木與街景。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "e7345a9a8073ada56088aaf0a8bd1fe29a72052f1af4dabeb715117f2a4d7b2d"
+    },
+    "258": {
+      "word": "乳臭未乾",
+      "src": "img/idioms/258.webp",
+      "alt": "年輕的新手還缺乏經驗，卻急著指揮大家，遇到基本問題時便露出不熟練。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "dbc9850d6e91ee70bbb091c1bd7fe7b9ad4925174248963c34cc74714a862e32"
+    },
+    "259": {
+      "word": "開門揖盜",
+      "src": "img/idioms/259.webp",
+      "alt": "他明知對方曾偷拿物品，仍輕易邀請進入保管室，結果讓公共材料再次被偷走。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "5692c4fdefb6543d038b387c2819e4570d6fc4a80541ae219e8be5775fdc195d"
+    },
+    "260": {
+      "word": "危如累卵",
+      "src": "img/idioms/260.webp",
+      "alt": "整個展架只靠一個鬆動的小支點撐著，隨時可能倒下，情況十分不穩。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "6ac3f6d56c1e1078947cf7a0cc3d603a53e8e1a41c15f295f5e972b83b88ff54"
+    },
+    "261": {
+      "word": "一見如故",
+      "src": "img/idioms/261.webp",
+      "alt": "兩人今天才第一次被介紹認識，卻很快聊得投機，像多年好友一樣自然親切。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "65c8e9db64b449a4ec78f74b345da32ab5d5496eccf70a269c218d34c786b969"
+    },
+    "262": {
+      "word": "得意忘形",
+      "src": "img/idioms/262.webp",
+      "alt": "剛得到稱讚，他便過度興奮地炫耀、跳到椅子上，忘了場合與應有的分寸。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "f5be845195b0ca6b051aff61ac6fd798069b9e20ad8e8e47cf2621714bb4fac8"
+    },
+    "263": {
+      "word": "小巫見大巫",
+      "src": "img/idioms/263.webp",
+      "alt": "他原本覺得自己的藏書很多，看到另一座規模龐大的藏書室後，才發現相差懸殊。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "47174de68e064dff8aa926713bdb207c2562dbd6ba17aeb46e69ccaeb2378a6b"
+    },
+    "264": {
+      "word": "怒髮衝冠",
+      "src": "img/idioms/264.webp",
+      "alt": "看見大家辛苦完成的作品被惡意毀壞，他氣得眉頭緊皺、雙拳握緊，滿臉盛怒。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "df3501a28aa966fd36c28e878c3a537e4e8686842bdf949450068a0785abb0bc"
+    },
+    "265": {
+      "word": "一塵不染",
+      "src": "img/idioms/265.webp",
+      "alt": "房間裡的桌面、地板與窗框都擦得十分乾淨，連細小角落也沒有灰塵。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "d2616fd9567eac91a1f6332e7d0ed924b4831edf19d49619d67d7d223a010501"
+    },
+    "266": {
+      "word": "三令五申",
+      "src": "img/idioms/266.webp",
+      "alt": "負責人已在準備時、開始前與現場一再提醒，要求大家務必遵守同一項安全規則。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "7f59571dee1e13391877679979586b8b83ef3f934274589c0280da3466cdb1ee"
+    },
+    "267": {
+      "word": "愚公移山",
+      "src": "img/idioms/267.webp",
+      "alt": "老人和家人持續搬運石塊，努力在擋住家門的大山間開出道路。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "b469d74cd5cc784bfffec9815e91ebd55ac3b712bf26624b3c954563f8613daa"
+    },
+    "268": {
+      "word": "口蜜腹劍",
+      "src": "img/idioms/268.webp",
+      "alt": "他嘴上不斷稱讚、承諾幫忙，心裡卻盤算如何讓對方的計畫失敗。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "990873279c7081a005f88fc1d5272f18c6eb8ec6f9c0e8a52404d25f6e9cacce"
+    },
+    "269": {
+      "word": "短兵相接",
+      "src": "img/idioms/269.webp",
+      "alt": "雙方直接面對面交鋒，針對同一問題激烈辯論，誰也不肯退讓。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "7557ae5233dea0df6a6fe07e2889dbedf2970316a7a025b0009e968cbe281e63"
+    },
+    "270": {
+      "word": "不寒而慄",
+      "src": "img/idioms/270.webp",
+      "alt": "明明天氣暖和，他卻被眼前陰森的場景嚇得縮肩發抖，滿心恐懼。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "fe283eacdb965128d0a20f45a5def1fbdf73527ad943f42a7a622ba87671e065"
+    },
+    "271": {
+      "word": "別開生面",
+      "src": "img/idioms/271.webp",
+      "alt": "原本只是擺放作品的展覽，改成可以親手參與、讓作品連成故事的新形式，令人耳目一新。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "5dea10b5cb720cc9f7f6777644b974a1c14efbf862dae50d860105369263d59b"
+    },
+    "272": {
+      "word": "枕戈待旦",
+      "src": "img/idioms/272.webp",
+      "alt": "天還沒亮，值勤的志工已備好照明與物資，保持警戒，隨時準備投入協助。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "946cc888a89d53b4775909e184688786ff9c9808810575cdf943d23c498430f1"
+    },
+    "273": {
+      "word": "事半功倍",
+      "src": "img/idioms/273.webp",
+      "alt": "找到合適的整理方法後，他只需花很少力氣，就把原本費時的大量材料分得整齊又準確。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "161a6dcc18d798106ea8ac5e63be75b237a45050ff32c0e70e24d86692f93be6"
+    },
+    "274": {
+      "word": "數典忘祖",
+      "src": "img/idioms/274.webp",
+      "alt": "他炫耀自己熟悉各種手藝，卻忘了正在展示的技法正是家中長輩傳給他的，連來源也說不清。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "7b8953d2f7d9f77a522402585740aba2fe833cc2179c9d17eddb260105b35294"
+    },
+    "275": {
+      "word": "中流砥柱",
+      "src": "img/idioms/275.webp",
+      "alt": "團隊遇到混亂與困難時，她穩住大家、承擔關鍵責任，讓整個計畫仍能繼續。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "13fb412220491e1974dc85abec3b4484a313f0cd069b90f75f3226c092d14032"
+    },
+    "276": {
+      "word": "欲蓋彌彰",
+      "src": "img/idioms/276.webp",
+      "alt": "他想把自己弄出的墨漬蓋住，卻用力擦出更大的污痕，反而讓錯誤更加醒目。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "45fd490f5a67afdf6e3fcc4601b948c4d496bbfc483f38b6a0230eeb43c415dc"
+    },
+    "277": {
+      "word": "對症下藥",
+      "src": "img/idioms/277.webp",
+      "alt": "先查明植物枯萎是因為缺光，他便把它移到合適的位置，真正針對原因解決問題。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "311e1b1457024d52f737d2407e4776410eeffcc075a3f4b532de8776be1299a6"
+    },
+    "278": {
+      "word": "按部就班",
+      "src": "img/idioms/278.webp",
+      "alt": "他照著先準備、再組裝、最後檢查的順序，一個步驟接一個步驟把作品完成。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "ad3202a18f9649ae1a9084085d36c8cec2268c6b786ff9e6b75340da88b420d2"
+    },
+    "279": {
+      "word": "錦上添花",
+      "src": "img/idioms/279.webp",
+      "alt": "孩子完成了一幅漂亮的花園畫，老師再替作品加上合適的木框，使原本好看的畫更加出色。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "f6d3db60806151372b1205b14bba8e4f1c26a9679591d7eb08ee92a58204061f"
+    },
+    "280": {
+      "word": "尾大不掉",
+      "src": "img/idioms/280.webp",
+      "alt": "原本只是附屬的小組掌握了大部分人力與物資，現在各自作主，總負責人已難以統籌。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "55ff7675db4be840f705ba4bb1c0e9bf3ac082f5ce572e28360754d146ff43d7"
+    },
+    "281": {
+      "word": "抱殘守缺",
+      "src": "img/idioms/281.webp",
+      "alt": "舊圖解明明缺頁、做法也已不合用，他卻堅持緊抱不放，拒絕更完整合適的新方法。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "aa1c8914e3e046c71add65efc4948f0175112c3bc9bb4ef82591597918a45456"
+    },
+    "282": {
+      "word": "熟能生巧",
+      "src": "img/idioms/282.webp",
+      "alt": "孩子反覆練習捏陶，旁邊從歪斜到整齊的作品，顯示雙手漸漸熟練，能做出圓潤的碗。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "11644459114d57dbd14239c7cd0a4d2b141067e02bdebc2edbf3c51c814b6004"
+    },
+    "283": {
+      "word": "鞭長莫及",
+      "src": "img/idioms/283.webp",
+      "alt": "他人在遠方，只能透過視訊看著現場的問題，想幫忙也無法直接伸手處理。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "c429ad0a8ccb20d4250730134daa2536a7c018b09ba9502f71d5d64d68c770ab"
+    },
+    "284": {
+      "word": "開卷有益",
+      "src": "img/idioms/284.webp",
+      "alt": "他打開圖鑑閱讀，學會原本不懂的知識，再到生活中觀察、運用，得到新的收穫。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "a19ec0fd484723d664e020885dcda00f54556794ffd0cd9092681084f8c93d0d"
+    },
+    "285": {
+      "word": "得隴望蜀",
+      "src": "img/idioms/285.webp",
+      "alt": "剛拿到足夠的材料，他又盯著別人更多的份量，總覺得還不夠，貪求更多。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "6e7077ec2304012145133c2d41e3849c65f15c74ace48406116c7a4a33763741"
+    },
+    "286": {
+      "word": "虎口餘生",
+      "src": "img/idioms/286.webp",
+      "alt": "他從嚴重風雨造成的困境中獲救，平安回到集合點，回望險境時仍心有餘悸。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "a36f5c1a9c9f819bc93d47904407877914bb07806862cd18f112fb0660ef12ad"
+    },
+    "287": {
+      "word": "風馬牛不相及",
+      "src": "img/idioms/287.webp",
+      "alt": "一邊在討論天空雲層，另一邊卻拿出烘焙食譜，兩件事毫無關聯，不能混為一談。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "9247a123e5d8c6d24f0a43c37e6ed45674b2d448d1b9f9d22b360a2377213318"
+    },
+    "288": {
+      "word": "沾沾自喜",
+      "src": "img/idioms/288.webp",
+      "alt": "只完成一點小成果，他就覺得自己已經非常了不起，得意地欣賞自己，不再想改進。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "48deaa1020da01da14f726548bb95196f9340af9fdf3773e9b2f09c26ad35270"
+    },
+    "289": {
+      "word": "海市蜃樓",
+      "src": "img/idioms/289.webp",
+      "alt": "遠方海面彷彿浮著一座城，輪廓卻隨光影晃動，實際上並沒有那座城市。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "6f0141712eec20e8e38a9f6c702176a8e6fb82b8fdf06d7a4afc55c4636b43c1"
+    },
+    "290": {
+      "word": "口是心非",
+      "src": "img/idioms/290.webp",
+      "alt": "她嘴上說不想參加，心裡卻很希望加入，表情與想法透露出和說話相反的心意。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "cb837f34d9126c61bcde51f0065216771bdd9696c3245e53b8525f9f89051d1d"
+    },
+    "291": {
+      "word": "毛遂自薦",
+      "src": "img/idioms/291.webp",
+      "alt": "大家正在找願意負責的人，他主動站出來推薦自己，表示願意承擔這項任務。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "f972262f7c496a4d82f612c5d92d4d08e83ecf3168f0b56b241bcaf1702bc444"
+    },
+    "292": {
+      "word": "不毛之地",
+      "src": "img/idioms/292.webp",
+      "alt": "廣大的土地乾燥貧瘠，地面龜裂，幾乎看不到草木。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "f8b3dd878f67864eca6a5f95dd368a9ad5f682c3008718c88264d0c568c533f9"
+    },
+    "293": {
+      "word": "大發雷霆",
+      "src": "img/idioms/293.webp",
+      "alt": "他看見共用作品被故意弄壞，氣得拍桌大聲責罵，旁人連忙勸他冷靜。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "3969c853e1bec42dfd88969f0ee24c9c4a82c210672f0f1a0c11ae73a4b85694"
+    },
+    "294": {
+      "word": "外強中乾",
+      "src": "img/idioms/294.webp",
+      "alt": "佈景的外面高大厚實，側面卻露出空薄脆弱的支架，外表與實際強度相差很大。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "e97f9992467ed22992ca2adf40b3a4d0e3d7de1118bbacc15cafd6e81fd77423"
+    },
+    "295": {
+      "word": "聲東擊西",
+      "src": "img/idioms/295.webp",
+      "alt": "球員假裝要往左傳球，引得防守者轉向，實際卻把球傳到右邊無人盯防的隊友。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "aefd07ef460a091a0302f45ac6393c27238ceb256fb8ff3fc4f0e370890f9d4b"
+    },
+    "296": {
+      "word": "井井有條",
+      "src": "img/idioms/296.webp",
+      "alt": "書本依類別整齊排在書架上，文具各有位置，孩子把用完的書放回原處。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "c95f0bc33278cd2da1f5a5712ff319ab03842a51a6e61ccc7cf6ae2c5ce06c32"
+    },
+    "297": {
+      "word": "六神無主",
+      "src": "img/idioms/297.webp",
+      "alt": "臨時得知活動場地不能使用，他慌得拿不定主意，在幾個可行方案間反覆猶豫。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "788661bec54786508e7a9a844a91a4fb9ebfb68f5cc451f96a076edb75a6e0ba"
+    },
+    "298": {
+      "word": "平步青雲",
+      "src": "img/idioms/298.webp",
+      "alt": "他在職場上一路順利獲得晉升，很快從一般職員成為負責整個團隊的主管。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "ad5c8fad634ea38e2c70dd9b30afbb1f7e6a41bfff5d786eb7e6f5b91121c695"
+    },
+    "299": {
+      "word": "一知半解",
+      "src": "img/idioms/299.webp",
+      "alt": "他只看懂組裝圖的一部分，就以為自己會了，實際動手時卻弄錯接法，說不清原理。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "ba3b54276895cad1bb26b928b117d27b9c6a435db913e9a15ebe9a61b9412697"
+    },
+    "300": {
+      "word": "自怨自艾",
+      "src": "img/idioms/300.webp",
+      "alt": "事情出錯後，他一直垂頭責怪自己，反覆想著失敗，遲遲沒有起身尋找解決辦法。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "b48b44a3e1f3edd47b251f641bf456e32900da766e280372819cd0d2861b28c9"
+    },
+    "301": {
+      "word": "曲高和寡",
+      "src": "img/idioms/301.webp",
+      "alt": "演奏者展現高深精妙的作品，只有少數熟悉這類音樂的聽眾能欣賞，其餘人難以理解。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "1528f973996112f5e37b4bec8821a24cb37fcd7ba2b77e9c0733b75298c5bc17"
+    },
+    "302": {
+      "word": "本末倒置",
+      "src": "img/idioms/302.webp",
+      "alt": "花了很多時間裝飾外盒，裡面真正要用的模型卻還沒完成，把次要的事情放在最前面。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "ca92e35139348d429b1003ef8636bd18317464fb973e36fdb814c764e2ce83eb"
+    },
+    "303": {
+      "word": "怨聲載道",
+      "src": "img/idioms/303.webp",
+      "alt": "公共服務安排失當，許多居民在不同地方都表達不滿，抱怨聲此起彼落。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "c740adc182527460b4541254d635c451ec640fab0414245be6aa4f8208e2d950"
+    },
+    "304": {
+      "word": "良莠不齊",
+      "src": "img/idioms/304.webp",
+      "alt": "同一批木製小盒裡，有的結構牢固、做工細緻，有的接縫鬆脫、表面粗糙，品質差異很大。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "e0df62fa818d977f028a87b5870cac1c7458f49e4b4a6af599d9fef1d478c310"
+    },
+    "305": {
+      "word": "指桑罵槐",
+      "src": "img/idioms/305.webp",
+      "alt": "他表面指著空椅子抱怨有人不肯幫忙，話卻處處影射坐在旁邊的同事。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "b0a1b595d8290dd6d01cb1ba82834bcc823820ff8e209e0bf2b951c1dac31f4e"
+    },
+    "306": {
+      "word": "忍氣吞聲",
+      "src": "img/idioms/306.webp",
+      "alt": "明明受到不公平責怪，他仍壓下怒氣、低頭不敢爭辯，雙手在身側握緊。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "71f4dff1fa24d1611c76ce75a763482a88c2782aaef18e19b25d7d583ea7a7f5"
+    },
+    "307": {
+      "word": "投桃報李",
+      "src": "img/idioms/307.webp",
+      "alt": "先前朋友送來親手做的點心，這次他也帶著自己的小禮物回贈，彼此友好往來。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "88a40ff3a759a8094e3095972f0f8187cd9aa69770faa619eaaa28fb581cb7c5"
+    },
+    "308": {
+      "word": "空前絕後",
+      "src": "img/idioms/308.webp",
+      "alt": "這件作品的規模與創意遠超以往，後來的作品也難以比擬，顯得獨一無二。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "0e6bd3c8481ab01b4270fea1c961b1e80781f47846d0819cb5be6e14d1a8d9d7"
+    },
+    "309": {
+      "word": "水乳交融",
+      "src": "img/idioms/309.webp",
+      "alt": "兩位夥伴默契十足，彼此的想法自然融合，合作完成一件和諧一致的作品。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "1c5d035e23bb7aa94f98f75aff2adb64fceec83051652f49f038ca1dc8e8547c"
+    },
+    "310": {
+      "word": "否極泰來",
+      "src": "img/idioms/310.webp",
+      "alt": "工作室先是損壞、缺乏訂單，陷入最艱難的時期，後來終於逐步修復並迎來新的客人。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "fc01f24c1839e24ed37496d7b6ec501270ba501382515d77f83f5b0fccc1345f"
+    },
+    "311": {
+      "word": "飲水思源",
+      "src": "img/idioms/311.webp",
+      "alt": "如今能獨立創作，他仍記得當初師長的教導，帶著作品回來致謝，也協助新的學員。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "2c00275f73471805cdbb093d2313da64acdc36ff0e8283c6b3214832c8c9e52b"
+    },
+    "312": {
+      "word": "夜以繼日",
+      "src": "img/idioms/312.webp",
+      "alt": "為了趕上修復進度，團隊從白天工作到夜晚，日夜接續不停。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "c14f46a079ab53be47b047f867cf75f8ed111d34542befd97bedec3dc68f4de3"
+    },
+    "313": {
+      "word": "防微杜漸",
+      "src": "img/idioms/313.webp",
+      "alt": "剛發現一小片鬆動，他就立刻固定，阻止問題擴大成整個模型倒塌。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "a6b49593ce9a4afdff485fb6427c7dc6d1e555c98ef3f6a62111d7b99c067da8"
+    },
+    "314": {
+      "word": "岌岌可危",
+      "src": "img/idioms/314.webp",
+      "alt": "紙製展架的底座已經裂開，上層明顯傾斜，整體隨時可能倒下。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "aecd6c775a7594439763b7c8d92ffd8e60660a8e886a1ec7619ae27aaa50a228"
+    },
+    "315": {
+      "word": "克紹箕裘",
+      "src": "img/idioms/315.webp",
+      "alt": "孩子長大後承接父親的木工作坊，熟練延續同一門手藝，父親在旁欣慰地看著。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "22895c9959250fdec06438c1ce794af9401ab3f05f219c36f36bef70cafa0593"
+    },
+    "316": {
+      "word": "兩敗俱傷",
+      "src": "img/idioms/316.webp",
+      "alt": "兩人為爭搶展示位置互相拉扯，結果各自的紙模型都被壓壞，誰也沒有得到好處。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "5734399fc839abbb275ebd8887e09ee33e010cc55052a9e5f70f04a3db8f910a"
+    },
+    "317": {
+      "word": "兩全其美",
+      "src": "img/idioms/317.webp",
+      "alt": "把活動安排在相鄰的兩個區域後，想安靜閱讀的人和想動手創作的人都得到合適的空間。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "0bf22ac21e7770c82004759802e2cfff379f5d4cf28cd56914d1cc42c2d033ce"
+    },
+    "318": {
+      "word": "才高八斗",
+      "src": "img/idioms/318.webp",
+      "alt": "他能深入理解不同領域的學問，也能把知識融會貫通，寫出令人讚賞的作品。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "5afe41e948c4d300731df3461a2f5e2e087d77eea3f3193bf8aa87f16ae57e49"
+    },
+    "319": {
+      "word": "沽名釣譽",
+      "src": "img/idioms/319.webp",
+      "alt": "他在鏡頭前熱心搬物資，鏡頭移開後便放下工作，只顧欣賞自己的照片與別人的稱讚。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "b3a2fb55b5fa71db31453cff2b989029b1e0f6fa2fbdbca924fa0197a4992479"
+    },
+    "320": {
+      "word": "盲人摸象",
+      "src": "img/idioms/320.webp",
+      "alt": "四個人分別觸摸大象的鼻子、耳朵、腿和尾巴，每人只認識其中一部分。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "1f60398c9b292bee2fddab91bc14fcc93a8cf3b45a2b397376af4dddb1343f6c"
+    },
+    "321": {
+      "word": "因陋就簡",
+      "src": "img/idioms/321.webp",
+      "alt": "工作室剛搬好，設備還很簡陋，大家便用現有木箱當桌子，先把必要的工作做起來。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "90b0947186171ceb87a150c46bedf81875b144843aabcef039dbf50fa285f8b6"
+    },
+    "322": {
+      "word": "見獵心喜",
+      "src": "img/idioms/322.webp",
+      "alt": "好久沒有打球的他，看見別人在玩熟悉的運動，立刻興奮地想加入一展身手。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "85c33b0c0393b70c6d92431902dff2a040efb7a5e9b2edbf55a0c66c49cb4eda"
+    },
+    "323": {
+      "word": "以訛傳訛",
+      "src": "img/idioms/323.webp",
+      "alt": "原本沒有關閉的教室，被人誤傳已停用，後面的人未查證就一個接一個傳下去。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "63b6bc250a80e712c367e8fd41a06f940105c6ed99bc42582ccd167d0822f421"
+    },
+    "324": {
+      "word": "一落千丈",
+      "src": "img/idioms/324.webp",
+      "alt": "原本客人很多的店，生意短時間內大幅下滑，如今只剩零星幾位顧客。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "3b5e49370946f96e8f5954e85bc7668142f99142f9fc47b754384c3ad209cf06"
+    },
+    "325": {
+      "word": "信口開河",
+      "src": "img/idioms/325.webp",
+      "alt": "他沒有查證就隨口編說奇怪的事，內容前後矛盾，聽的人越來越懷疑。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "3d4cf215fb72a034f1d658a3c4f2fc46fb2e0dc7b67dbbf9d447f2491ce21936"
+    },
+    "327": {
+      "word": "巧取豪奪",
+      "src": "img/idioms/327.webp",
+      "alt": "他先用不公平的交換騙走材料，又仗著人多直接拿走剩下的物品，讓原主人蒙受損失。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "357c21e0fa2cb527cf63bca472f4c18494ba4ccd3804f8bb131fc62ac7268927"
+    },
+    "328": {
+      "word": "虎視眈眈",
+      "src": "img/idioms/328.webp",
+      "alt": "他緊盯別人珍藏的物品，等對方一離開就想據為己有，滿是伺機搶奪的打算。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "670de50dbf27f775aa19306dce3d8b33182ad8cfb6addfd61a8995909547cb56"
+    },
+    "329": {
+      "word": "怨天尤人",
+      "src": "img/idioms/329.webp",
+      "alt": "明明是自己忘了固定模型，他卻對著同伴抱怨窗外的風，把失敗全怪給外在環境。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "2c2a79dbf8615a8084a3b17eabf6c0ef7c14ce7bc656885522d00176d98d71ae"
+    },
+    "330": {
+      "word": "水泄不通",
+      "src": "img/idioms/330.webp",
+      "alt": "市集的人群把入口與走道擠得滿滿，前後都難以前進。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "5b1239cc8c861f7ee9dc10b725a0afab5569d7ef7adf447d3dadea268d4368d1"
+    },
+    "331": {
+      "word": "一氣呵成",
+      "src": "img/idioms/331.webp",
+      "alt": "畫者構思好之後便順暢地一口氣完成整幅畫，從起筆到收筆都沒有停頓。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "4b99659f6daea84e9eb1d60f6eff16d6474a287f8daba21c3432aa3896933bfb"
+    },
+    "332": {
+      "word": "觸類旁通",
+      "src": "img/idioms/332.webp",
+      "alt": "學會一種輪軸的原理後，學員便能理解相似裝置，自己設計出另一種用途的作品。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "51d438725654068e058dd3ec8586ffd2342ad8149e93b19296814aae96d5bd76"
+    },
+    "333": {
+      "word": "殺雞取卵",
+      "src": "img/idioms/333.webp",
+      "alt": "為了立刻賣一點木柴，他把能年年結果的樹砍掉，眼前得到小利，卻失去往後的收成。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "d0b508846d31a09d0aab636c034c2696277452a339313533f86a980a8ae9b7f3"
+    },
+    "334": {
+      "word": "面面相覷",
+      "src": "img/idioms/334.webp",
+      "alt": "突如其來的消息讓大家驚訝得說不出話，只能彼此對看，一時不知道該怎麼辦。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "e8f865ffea4a957d17750098a1d3f068491df09840b27bce9dd5ab7dae84a972"
+    },
+    "335": {
+      "word": "一針見血",
+      "src": "img/idioms/335.webp",
+      "alt": "大家繞著問題討論很久，主角只用一句話就指出真正的癥結，讓所有人立刻明白。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "78122786a4b629f6c65956540a7a0575d9fe15e6d8bd0b04ef6b28fb6b7b12b4"
+    },
+    "336": {
+      "word": "老生常談",
+      "src": "img/idioms/336.webp",
+      "alt": "他又重複大家早已聽過許多次的說法，聽眾一看同樣的內容，就知道沒有新意。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "8b912f24f7836430a42d779551249fdb2c7af51dbd1a39acc50ea447b37f8496"
+    },
+    "338": {
+      "word": "萬籟俱寂",
+      "src": "img/idioms/338.webp",
+      "alt": "夜深後，湖畔的風停了，樹葉與水面都靜止，四周一片寂靜。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "f81cf5e62478c7d2d7f2d61c96af49f37dc127fd0999fa4f1396d3440109bfb0"
+    },
+    "339": {
+      "word": "當頭棒喝",
+      "src": "img/idioms/339.webp",
+      "alt": "同伴指出他忽略了最重要的安全步驟，他猛然醒悟，立刻停下來改正。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "1cf265f9d4e210ed4ba678efd0d64847da6e80a955a0a9b167075b18288879bb"
+    },
+    "340": {
+      "word": "完璧歸趙",
+      "src": "img/idioms/340.webp",
+      "alt": "借來的相機使用後仍然完整無損，他小心放回原盒，親手交還給主人。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "a6bf4ca3580ceed64a199b6223e437ae5222f1d0da48e44dd93d3c4f9466913a"
+    },
+    "341": {
+      "word": "三緘其口",
+      "src": "img/idioms/341.webp",
+      "alt": "別人問起尚未查證的事情，他謹慎地閉口不談，避免隨意傳出消息。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "cf114d7d89e4814c266dc9c34fd8fe66bbddf6fca3fd326475f37e986831146c"
+    },
+    "342": {
+      "word": "從容不迫",
+      "src": "img/idioms/342.webp",
+      "alt": "活動臨時出現狀況，其他人都慌了，主角仍沉著安排步驟，不急不亂地處理。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "4ddaa209e8b9bfcb423b5685511f90558f61cde18322ecc8a2056474d78f40bf"
+    },
+    "343": {
+      "word": "九牛一毛",
+      "src": "img/idioms/343.webp",
+      "alt": "從整倉的大量豆子中只取出一小粒，和龐大的總量相比，這點份量微不足道。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "5d1abb2153fa34847089dba07b77cbc2fb3b1a04b322755f289094ba2932ca74"
+    },
+    "344": {
+      "word": "滄海遺珠",
+      "src": "img/idioms/344.webp",
+      "alt": "角落裡一位創作者的作品精巧出色，卻一直沒被注意，大家只顧看熱鬧的展示。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "a304be651738cd86846fe5030a2105b98252f2ca623d79010f6bdf14f0cf25d8"
+    },
+    "345": {
+      "word": "鐵面無私",
+      "src": "img/idioms/345.webp",
+      "alt": "即使違規的是自己的好朋友，評審仍照同一標準處理，沒有給任何特別通融。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "8e2b09800f21eceaf62ba72ab2a76b08b0b09f5f4252057ff22badfb0be9082b"
+    },
+    "346": {
+      "word": "望眼欲穿",
+      "src": "img/idioms/346.webp",
+      "alt": "她在窗邊殷切等候家人回來，一次次望向遠方的小路，盼望得十分深切。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "2ac3b84acdb208e8fd6e45ac5e2e84f9d2632b0f65213debfbc26ac89e825285"
+    },
+    "347": {
+      "word": "笑容可掬",
+      "src": "img/idioms/347.webp",
+      "alt": "店員滿臉親切的笑意，溫暖地迎接客人，讓人一眼就感受到友善。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "641016c2f0a85d659315ebe7778536cf5730989cb79aa7ef0d7738a69ebcc876"
+    },
+    "348": {
+      "word": "揮金如土",
+      "src": "img/idioms/348.webp",
+      "alt": "家裡已堆滿用不到的物品，主角仍毫不在乎地大把花錢，接連買下更多重複的東西。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "d45d46047f101da7f286d14066c4afe7a0d457bdda69e1e14bf138f6b49d0275"
+    },
+    "349": {
+      "word": "爐火純青",
+      "src": "img/idioms/349.webp",
+      "alt": "經過多年磨練，他的陶藝技巧已十分精湛，每個動作都準確流暢，成品也完美細緻。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "8c6f470f9041c90fc1fd416d15553e02cd195f3d717f07a26d4c70e9bb187981"
+    },
+    "350": {
+      "word": "魚目混珠",
+      "src": "img/idioms/350.webp",
+      "alt": "有人把廉價仿珠混進真正的珍珠裡，想讓買家把假的當成真的收下。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "56cf244664611c6a68479aec0ebad4bc4ba2fdb70dfbc29cbc63ad8c6f3d7fbe"
+    },
+    "351": {
+      "word": "嗤之以鼻",
+      "src": "img/idioms/351.webp",
+      "alt": "聽見毫無根據的誇口，主角抬起下巴、從鼻子輕哼一聲，露出不屑的神情。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "266c2bad120b3548983da182cc4230d581b111a437401116d9daf53493a33b79"
+    },
+    "352": {
+      "word": "駕輕就熟",
+      "src": "img/idioms/352.webp",
+      "alt": "這份工作早已做過很多次，現在拿起材料便能順順利利完成，做起來十分輕鬆。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "28a208cc1822b1ffb8f688af8cb7ec6e686b8a52ae9575cc01aca6edaa3b2ae3"
+    },
+    "353": {
+      "word": "鴉雀無聲",
+      "src": "img/idioms/353.webp",
+      "alt": "原本有人走動交談的教室，忽然所有人都安靜下來，整個空間聽不到一點說話聲。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "a1fc4f4f1c106ca9f1c1ca736e4c52ec194e0f3eb2f6718dd6255780dd4e5cd9"
+    },
+    "354": {
+      "word": "舉棋不定",
+      "src": "img/idioms/354.webp",
+      "alt": "他拿著棋子，反覆看著幾個可走的位置，遲遲不能決定下一步。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "81c11167e5dfb0c103bbef5f798a81f19642e6d807b4e777ae0c663f1573d608"
+    },
+    "355": {
+      "word": "痛定思痛",
+      "src": "img/idioms/355.webp",
+      "alt": "失敗的難過已經過去，當事人回想當時因疏忽造成的損失，記取教訓，開始認真改進做法。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "81e8502c207532b991f951972927d439349417145d500e5b706d69c56d6e039b"
+    },
+    "356": {
+      "word": "黔驢技窮",
+      "src": "img/idioms/356.webp",
+      "alt": "他把自己僅會的幾種辦法都試過，問題仍沒解決，只能攤手表示再也想不出方法。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "721ea34bdc24cfff4a71998d586a962c99716dd82d2f606f24104529d17ebd22"
+    },
+    "357": {
+      "word": "孜孜不倦",
+      "src": "img/idioms/357.webp",
+      "alt": "老師一次次耐心備課、示範與解答，始終勤勉投入，沒有因重複而懈怠。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "945f2b6537895e6d9d7429c42b4674c5b97a90e3904f5aadb61fbbd2c2c810a4"
+    },
+    "358": {
+      "word": "急流勇退",
+      "src": "img/idioms/358.webp",
+      "alt": "計畫最成功、大家最推崇他的時候，他仍主動交棒，從領導的位置退下來。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "8462456e18a905747dc67b01d377e1fdb935f56d4b92e25dc6a65182dbb657aa"
+    },
+    "359": {
+      "word": "赴湯蹈火",
+      "src": "img/idioms/359.webp",
+      "alt": "面對危急的火場，受過訓練的消防員仍勇敢投入救援，不因艱險而退縮。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "1af48b4ac78cd41da1efd66acf00f70146beef1af322a208a0559e0d5e8d61cd"
+    },
+    "360": {
+      "word": "生吞活剝",
+      "src": "img/idioms/360.webp",
+      "alt": "不理解別人的方法，只把完整做法硬搬到不同情境，結果處處不合用。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "e276dafb076cffbbae75760e8e76a4c43478f2372d90e9fdfd04fc9ec9947bf8"
+    },
+    "361": {
+      "word": "暴虎馮河",
+      "src": "img/idioms/361.webp",
+      "alt": "他沒弄清楚水勢、也沒準備渡河工具，就想憑一股衝動闖過去，同伴立刻攔住提醒。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "5f2ccc11170f9c66908a19ab4182d60adfb0366e704bab489bf5b3f1ceefc370"
+    },
+    "362": {
+      "word": "喋喋不休",
+      "src": "img/idioms/362.webp",
+      "alt": "他一個話題接著一個話題不停說，別人幾次想插話，都找不到空隙。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "0f3fd8cf8268550bc7832d15d24d2487500d4c303c3545a1a22de0495fab0665"
+    },
+    "364": {
+      "word": "四海為家",
+      "src": "img/idioms/364.webp",
+      "alt": "他帶著簡單行李四處旅行，在城市、海邊與山村輪流短住，沒有固定的住處。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "c55e7b7fb675a4a363f2d37df5bd2ee927eb7214e9e698ce53a1e4d0820e207e"
+    },
+    "365": {
+      "word": "請君入甕",
+      "src": "img/idioms/365.webp",
+      "alt": "他先訂出刁難別人的規則，輪到自己時，同伴也請他照同樣規則辦理，他才發現難以應付。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "43a9d9cbc1412f4a45066b081d6d2394461152c4e5cdacc04b647cbfd7a3fe00"
+    },
+    "366": {
+      "word": "聞雞起舞",
+      "src": "img/idioms/366.webp",
+      "alt": "清晨一聽到雞啼，他就立即起身，把握早晨開始認真練習，沒有繼續賴床。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "ff96e36e5128106707e5a0433af489945f9b06ecef588d8047dfc2089ca0b282"
+    },
+    "367": {
+      "word": "旗鼓相當",
+      "src": "img/idioms/367.webp",
+      "alt": "拔河的雙方力量不相上下，繩子中央始終停在中線附近，誰都沒辦法輕易拉過對方。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "feb11a4de8e88af39a4db9182322ace135d056ae06ec21bdfeb1cd2c36dbae86"
+    },
+    "368": {
+      "word": "倒行逆施",
+      "src": "img/idioms/368.webp",
+      "alt": "大家共同維護的花園本來能分享收成，他卻為了私利強行封閉、趕走照顧者，做法完全違背原先的道理。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "987a85646fa2ebf8bbf993672a3de8b8ee518241c42ee3d1d6b3785073899337"
+    },
+    "369": {
+      "word": "差強人意",
+      "src": "img/idioms/369.webp",
+      "alt": "作品雖然還有小缺點，基本功能卻都做到了，檢查者覺得大致尚可接受。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "b412bb3cbed8bd6bb6f09ca4f618d2f190b4a90a9dd9296abd414c6c0485d656"
+    },
+    "382": {
+      "word": "畫龍點睛",
+      "src": "img/idioms/382.webp",
+      "alt": "孩子在校園壁畫上為龍補上最後一點眼睛，原本呆板的龍頓時顯得精神生動。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "9bfc0afa24bd196b79fb632dbcfe8165c20c35b34e74ea21b0f0374b496919c8"
+    },
+    "482": {
+      "word": "亡羊補牢",
+      "src": "img/idioms/482.webp",
+      "alt": "牧羊人發現羊跑出圍欄後，趕緊用木板補好破洞，保護圈裡剩下的羊。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "acfc837ea8b59bcecfe21c08d979f0486d360419cc5b9ffe13bf2d15ed1815ab"
+    },
+    "534": {
+      "word": "塞翁失馬",
+      "src": "img/idioms/534.webp",
+      "alt": "老人家的一匹馬跑走後，又帶回另一匹馬，原來的損失轉成了意外收穫。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "95f8cb6a6d9ef6c74be3f49790ebe8f901d7c194f0e7c5eca68672c1994400bf"
+    },
+    "548": {
+      "word": "七手八腳",
+      "src": "img/idioms/548.webp",
+      "alt": "幾個孩子急著搭起野餐帳篷，有的拉布、有的拿桿，方向不一致，帳篷和繩子反而纏在一起。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "dacb75eb6a10b590473ad7bb61a12b10bb4cb83af4aa75f12cf4d9bdc2815f0b"
+    },
+    "1008": {
+      "word": "磨杵成針",
+      "src": "img/idioms/1008.webp",
+      "alt": "老婦人耐心把粗鐵棒放在石頭上磨細，一旁的孩子專心觀察。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "72059ff4bda01e8f01f011df01e8bc4b7a59e3b8f2f53b26dae13bc462e7a366"
+    },
+    "1305": {
+      "word": "手忙腳亂",
+      "src": "img/idioms/1305.webp",
+      "alt": "孩子做點心時慌了手腳，一手扶快倒下的碗，一手想接住滾落的雞蛋，桌上材料散亂。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "493439d74dfa7b81b0d578208ecc7f8a6e7692cf36e92392c106773971961578"
+    },
+    "1450": {
+      "word": "雪上加霜",
+      "src": "img/idioms/1450.webp",
+      "alt": "孩子的腳踏車已經爆胎，只好推著走，天空又突然下起大雨，讓回家的路更加狼狽。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "d0aa0c43b6f584f6f237967bc27da853d6a574ccfe0c612d567613eda1690814"
+    }
+  }
+}

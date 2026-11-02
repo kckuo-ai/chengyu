@@ -6,6 +6,7 @@
 - 查詢：國字、注音、拼音都能找
 - 每個成語：簡單的意思（簡編本）、成語故事、怎麼用、相似相反、比一比、《成語典》原文
 - 測驗：看意思選成語、看成語選意思、相似或相反、填填看
+- 情境插圖與看圖猜成語：已完成的插圖會出現在對應成語頁，並自動加入看圖題庫
 - 收藏、學會了、答錯過的（存在裝置上）
 - 朗讀：使用裝置內建中文語音
 
@@ -77,3 +78,20 @@ python3 -m http.server 8000
 ## 授權
 
 程式碼 MIT；教育部辭典資料 CC BY-ND 3.0 TW。詳見 `NOTICE.md`。
+
+## 成語插圖
+
+插圖使用鉛筆線條、柔和水彩、彩色鉛筆疊色與米白紙紋。能準確表達寓意時優先以現代生活情境演繹；典故更清楚時保留原場景。新增圖片以 `data/illustrations.json` 的成語編號對應，不修改教育部原文。
+
+查看實際完成數與待製作詞條：
+
+```bash
+python3 scripts/illustration_status.py
+python3 scripts/illustration_status.py --pending
+```
+
+看圖題目僅使用已有插圖的詞條，每次最多 10 題；收藏或錯題不足 10 個時依實際數量出題，成績仍以百分制計算。「我的 → 下載全部內容」包含現有插圖，需 HTTPS 與已啟用的 service worker。圖片不會在啟動時全部預載。
+
+製作流程與測試方式見 [插圖維護說明](docs/illustrations.md)。
+
+原始 PNG、修訂前版本與完整校驗清單保存在 [2026-11-02 插圖備份分支](https://github.com/kckuo-ai/chengyu/tree/backup/illustrations-20261102-220913/backup)，還原方式見該分支的 `backup/README.md`。`main` 保留網站使用的 WebP 與詞條對應，原始備份不納入 GitHub Pages 部署。
