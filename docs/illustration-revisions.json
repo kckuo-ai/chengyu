@@ -90,5 +90,14 @@
     "replacement": "img/idioms/388.webp",
     "status": "corrected",
     "editPrompt": "Edit this existing original illustration. Preserve the entire composition, mixed graphite watercolor colored pencil style on ivory paper, landscape 3:2, swapped portrait cards and all other details. Correct ONLY the man on the right: he currently has three arms. REMOVE his pointing arm and pointing hand completely, repainting that area as the original green plaid shirt and empty ivory background as appropriate. He must have EXACTLY TWO ARMS total, both naturally holding the wooden bird sculpture at waist height. His concerned expression, thought bubble, sculpture and swapped portrait remain unchanged. No text, logos, numerals."
+  },
+  {
+    "no": 462,
+    "reason": "Projected monster shadow has no visible matching silhouette source; child pose cannot produce it.",
+    "rejectedOriginal": "/workspace/generated_images/exec-e8646ca9-a3f7-4e62-b517-1f8f76169ec3.png",
+    "replacementOriginal": "/workspace/generated_images/exec-7f73049d-297f-49b6-a890-e4c88ce1e71e.png",
+    "replacement": "img/idioms/462.webp",
+    "status": "corrected",
+    "editPrompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website. Landscape 3:2, modern everyday setting, original people in present-day casual clothes. NO text, letters, numerals, titles, logos, watermarks or identifiable existing characters. Communicate the specific meaning through clear actions and relationships, suitable for elementary-school readers and mobile size. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain and hatching on warm ivory textured paper. Restrained natural grass greens, pale sky blues, warm earthy browns, plenty of ivory breathing room. No flat digital color blocks, no glossy shading, no 3D, no imitation of any named artist. Scene: Edit this illustration to make the intimidating projected monster physically explainable. Keep the beautiful paper pencil watercolor style and overall campsite composition. The small child behind the left side of the sheet must visibly hold up a thin harmless cardboard monster-shaped cutout on a short stick in one hand, in front of the flashlight beam held in the other hand. The cutout should have the same horned head and raised claw-arm outline as the large shadow on the sheet. It is clearly a flimsy flat little cardboard prop, and the enlarged silhouette on the sheet is its projection, frightening the friend outside. Ensure the cutout is between flashlight and sheet, illuminated from behind, the source and effect obvious. Exactly two arms on child and normal hands; no text or markings. Communicate a weak small person exaggerating apparent strength to intimidate."
   }
 ]
