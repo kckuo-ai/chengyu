@@ -1,5 +1,5 @@
 // 離線快取：先用快取，同時在背景更新。改了程式或資料後把 VERSION 加 1。
-const VERSION = "v32";
+const VERSION = "v33";
 const CACHE = `chengyu-${VERSION}`;
 const CONTENT_CACHE = "chengyu-offline-v1";
 const SHELL = [
