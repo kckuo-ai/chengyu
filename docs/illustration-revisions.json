@@ -60,5 +60,26 @@
     "status": "corrected",
     "replacementOriginal": "/workspace/generated_images/exec-7064a012-0cd9-448a-98c5-bc3423f9bba3.png",
     "replacement": "img/idioms/356.webp"
+  },
+  {
+    "no": 245,
+    "reason": "使用者指出舊插圖不符合原意；由舊投影片機被數位投影取代的場景，改為重陽節後錯過賞菊時令、黃花失去佳節興味的典故場景。",
+    "previousEntry": {
+      "word": "明日黃花",
+      "src": "img/idioms/245.webp",
+      "alt": "曾經風行的舊式產品，如今已被更合用的新方式取代，只能留在角落供人回顧。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "6acf75142ee7a507767de3fc69fc8911e11b65362970df6f284c0c06fa394331"
+    },
+    "previousBrief": {
+      "word": "明日黃花",
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website. Landscape 3:2. Modern everyday setting when appropriate. NO text, letters, numerals, captions, titles, logos, watermarks or identifiable existing characters. Clear visual storytelling for elementary school readers and readable at mobile size. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain and hatching on warm ivory textured paper. Restrained natural grass green, pale sky blue, warm earthy browns, generous ivory breathing room. No flat digital blocks, glossy rendering, 3D or imitation of a named artist. Scene: ",
+      "scene_prompt": "明日黃花：現代社區器材室，一台曾經熱用的普通無品牌老式投影片機與原創圖畫膠片如今閒置積灰；旁邊主活動正用較合用的簡單無品牌數位投影展示同類原創葉子圖，大家使用新方法，舊器材成過時之物。不是人年老便沒價值、不是收藏昂貴古董，不畫明天花朵或單純故障。無logo、可辨識文字、字母、數字或真實科技介面。",
+      "alt": "曾經風行的舊式產品，如今已被更合用的新方式取代，只能留在角落供人回顧。"
+    },
+    "replacement": "img/idioms/245-4b39e629f3.webp",
+    "replacementOriginal": "/workspace/generated_images/exec-f73176ee-64da-40aa-91b6-36e7e51d2c2c.png"
   }
 ]
