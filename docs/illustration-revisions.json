@@ -1,0 +1,64 @@
+[
+  {
+    "no": 58,
+    "reason": "使用者指出墨滲木板的字面場景不貼近常用詞義；改採評論深刻中肯的現代情境。",
+    "previousEntry": {
+      "word": "入木三分",
+      "src": "img/idioms/58.webp",
+      "alt": "毛筆留下的墨跡不只停在木板表面，從側面的剖面還能看見墨色深深滲入木紋。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "23c9d6752d15fb8317f342ee5694afbe7dbcd1f40c5fdddb969d58b96fc6f20c"
+    },
+    "previousBrief": {
+      "word": "入木三分",
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website. Landscape 3:2. Modern everyday setting when appropriate. NO text, letters, numerals, captions, titles, logos, watermarks or identifiable existing characters. Clear visual storytelling for elementary school readers and readable at mobile size. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain and hatching on warm ivory textured paper. Restrained natural grass green, pale sky blue, warm earthy browns, generous ivory breathing room. No flat digital blocks, glossy rendering, 3D or imitation of a named artist. Scene: ",
+      "scene_prompt": "入木三分：以毛筆墨跡深入木板的具體形象表現筆力深透。現代書法教室的成年老師在平放木板上畫一筆簡單有力的黑色弧線，不寫任何漢字或文字。畫面前景顯示同一木板邊緣的示意剖面，黑色墨跡沿木紋深深滲入，不只薄薄停在表面；學生用放大鏡仔細看。剖面用自然圖像示意，不加數字、刻度或文字標籤。不模仿任何書法家的作品或筆法，不使用名家字帖。",
+      "alt": "毛筆留下的墨跡不只停在木板表面，從側面的剖面還能看見墨色深深滲入木紋。"
+    },
+    "replacement": "img/idioms/58-b1714dbb38.webp"
+  },
+  {
+    "no": 199,
+    "reason": "生成後檢查發現買家有多餘手臂；使用內建圖片編輯修正為單手抱空盒、另一手退還木雕。",
+    "rejectedOriginal": "/workspace/generated_images/exec-7bef25aa-d43a-4aa5-8b7a-f983a5100d54.png",
+    "replacementOriginal": "/workspace/generated_images/exec-c9709827-05cc-4185-b62b-3b5b171f1fe2.png",
+    "replacement": "img/idioms/199.webp"
+  },
+  {
+    "no": 258,
+    "reason": "生成後檢查發現主角有三隻手；使用內建圖片編輯修正為一手扶頭、另一手持碗，確認後保存。",
+    "rejectedOriginal": "/workspace/generated_images/exec-eeb89e50-2a03-4e2c-95af-852d997b7094.png",
+    "status": "corrected",
+    "replacementOriginal": "/workspace/generated_images/exec-023a49f5-5902-4782-bd61-62cffc756560.png",
+    "replacement": "img/idioms/258.webp"
+  },
+  {
+    "no": 283,
+    "rejectedOriginal": "/workspace/generated_images/exec-1ce17660-856f-457e-b6d2-c981f1310271.png",
+    "editPrompt": "Edit this original pencil and watercolor illustration to clearly express being physically too far away to help. Preserve the man reaching helplessly toward a video call and preserve the hand-drawn watercolor colored-pencil ivory-paper style, landscape composition, no text or logos. CRITICAL: the remote woman's ENTIRE tilting shelf and all its contents must be wholly INSIDE the tablet screen's solid black rectangular bezel. No shelf, woman's hand, object or line may cross through or extend beyond that bezel. Recompose and shrink the remote scene to fit completely inside the display. The remote woman is in a bright DAYTIME countryside classroom with a green garden window, clearly holding a low unstable shelf. The man is in a DIFFERENT room: a quiet apartment at NIGHT with a small window showing dark blue night sky and distant city lights. Remove the current physical shelf to the right of the tablet and replace the entire local background there with a plain ivory wall and that night window. The local man wants to steady the distant shelf but his extended hand can only touch the flat glass screen; his expression is helpless because of distance. Clearly separate screen contents from physical room. Keep cat and mug if helpful. All people exactly two arms with natural hands. No captions, letters, numerals, brands, identifiable software UI or watermark.",
+    "status": "corrected",
+    "replacementOriginal": "/workspace/generated_images/exec-4e2e8b15-3815-412a-89ea-77eb5a50e4e9.png",
+    "replacement": "img/idioms/283.webp",
+    "reason": "初稿書架跨出視訊螢幕、遠端與本地混在一起；修正為螢幕內白天教室、本地夜間房間，清楚表達遠距無法伸手協助。"
+  },
+  {
+    "no": 290,
+    "rejectedOriginal": "/workspace/generated_images/exec-31824093-9b57-4b1a-b2cd-11a5cbfc4965.png",
+    "editPrompt": "Edit this original watercolor and pencil illustration to make the speaker completely clear. The central foreground woman with the white sweater and raised refusing palms is saying she does not want to paint, while secretly wishing she could join the group shown in her thought bubble. Keep the upper right thought bubble and its round thought dots pointing to that central woman's head exactly as they are. CORRECT the upper left speech bubble with the crossed-out easel: its pointed speech tail must clearly connect to the MOUTH of the central foreground refusing woman, and must NOT point to either inviting friend on the left. Move the bubble a little if needed and redraw its pointed tail so the origin is unambiguous. Slightly open the central woman's mouth as she speaks a refusal, while her eyes wistfully glance toward the painting friends. Friends on the left are only inviting, not rejecting. Preserve people, natural two-arm anatomy, original scene, ivory textured paper, soft natural watercolor, colored pencil grain, delicate graphite contours and landscape framing. No letters, text, captions, numbers, brands, logos or watermark.",
+    "status": "corrected",
+    "replacementOriginal": "/workspace/generated_images/exec-3575a8aa-d462-471a-a305-bd91e0ddc8e8.png",
+    "replacement": "img/idioms/290.webp",
+    "reason": "初稿拒絕作畫的對話泡泡指向邀請者；修正泡泡指向主角，與同一人的內心願望形成反差。"
+  },
+  {
+    "no": 356,
+    "reason": "女主角附近多出一隻攤開的手，手臂歸屬不清；需修正人物手臂後才能加入。",
+    "rejectedOriginal": "/workspace/generated_images/exec-0fa74fda-2c1f-44e3-80ac-942be3ada012.png",
+    "editPrompt": "Edit this original pencil and watercolor picture-book illustration to correct the arms without changing its meaning. In the main scene, there is an ambiguous extra open palm between the man and woman, under the woman's pointing arm. REMOVE that extra open palm and its short yellow sleeve completely. The woman in yellow must have exactly TWO arms: one arm pointing upward with one index finger as she suggests an idea, and the other holding the paper sheets at far right. Do not add any other hand to her. The man's green-clothed body must have exactly TWO arms: keep his existing open palm on the left side of the picture; place his other arm resting naturally on the table partly hidden behind the right side of the paper tower, with a single relaxed hand near the tower's base, clearly attached to a GREEN sleeve. Keep both little memory bubbles of his failed tape and clip methods, his helpless expression, and the woman offering a new idea. Keep the tower and tools, ivory paper texture, graphite contours, natural grass-green sky-blue warm-brown watercolor and colored-pencil grain, landscape composition. No text, letters, numerals, logos or watermark.",
+    "status": "corrected",
+    "replacementOriginal": "/workspace/generated_images/exec-7064a012-0cd9-448a-98c5-bc3423f9bba3.png",
+    "replacement": "img/idioms/356.webp"
+  }
+]
