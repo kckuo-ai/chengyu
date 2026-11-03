@@ -117,5 +117,14 @@
     "replacement": "img/idioms/506.webp",
     "status": "corrected",
     "editPrompt": "Edit this original picture-book illustration with one precise anatomy correction. The kneeling young woman currently has an erroneous extra third arm and open gesturing hand floating to the left of the watering can near the old man's raised palm. Completely REMOVE that extra gesturing hand and its short extra forearm, replacing that small area with the existing garden background and natural apron edge. Keep ONLY her TWO real arms: one hand holds the watering can's top handle and the other hand supports the spout. Her body must have exactly two arms and two hands, anatomically connected. Preserve the old man's dismissive palm, his cups, her watering action onto the seedling, all faces and composition. Preserve original graphite pencil outlines, soft watercolor and colored-pencil grain on ivory paper, landscape3:2, no text letters numerals logos or watermarks. No other changes."
+  },
+  {
+    "no": 588,
+    "reason": "畫板頂端有一隻沒有手臂或人物來源的多餘手。",
+    "rejectedOriginal": "/workspace/generated_images/exec-c24203fe-474c-4006-9b31-5c3a801f206a.png",
+    "replacementOriginal": "/workspace/generated_images/exec-2b837057-25da-4a08-9815-eebe57bdd1ab.png",
+    "replacement": "img/idioms/588.webp",
+    "status": "corrected",
+    "editPrompt": "Edit this existing original watercolor-and-colored-pencil children's illustration only to correct one anatomy artifact: completely remove the small disconnected human hand/fingers gripping the TOP horizontal wooden edge of the rule-board, near the upper-left side. Restore a continuous clean brown wooden frame and natural pale ivory/green background there. That top edge must have NO hand or fingers. Preserve all four children, all their properly attached visible hands, the handshake, the three pictorial rules, the three right-hand follow-up vignettes, the paper texture, colors and original landscape 3:2 composition exactly. Do not add text, letters, numerals, logos, watermarks or any new objects."
   }
 ]

@@ -96,4 +96,4 @@ python3 scripts/illustration_status.py --pending
 
 原始 PNG、修訂前版本與完整校驗清單保存在 [2026-11-02 插圖備份分支](https://github.com/kckuo-ai/chengyu/tree/backup/illustrations-20261102-220913/backup)，還原方式見該分支的 `backup/README.md`。`main` 保留網站使用的 WebP 與詞條對應，原始備份不納入 GitHub Pages 部署。
 
-最新完成批次：514 個成語插圖；原始 PNG 與完整校驗清單見 [514 張插圖備份](https://github.com/kckuo-ai/chengyu/tree/backup/illustrations-20261103-075234/backup)。
+最新完成批次：564 個成語插圖；原始 PNG 與完整校驗清單見 [564 張插圖備份](https://github.com/kckuo-ai/chengyu/tree/backup/illustrations-20261103-083433/backup)。
