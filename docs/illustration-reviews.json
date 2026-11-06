@@ -2147,6 +2147,22 @@
         "text": "No readable text or answer-revealing words."
       },
       "issues": []
+    },
+    "730": {
+      "no": 730,
+      "word": "愛莫能助",
+      "path": "/workspace/generated_images/exec-b41a9b9a-ec03-4ef9-9d88-00ad4b8e9a80.png",
+      "passed": true,
+      "reviewer": "independent reviewer",
+      "checks": {
+        "meaning": "Clear: one child comforts a classmate whose kite is stuck high in a tree; the teacher indicates waiting for safe help, conveying sympathy without ability to fix it immediately.",
+        "anatomy": "Foreground figures have plausible limbs and postures; reassuring hand contact is natural.",
+        "physics": "Kite is visibly caught in a branch; no unsafe climbing. Tree, ground, and figures are grounded and perspective is coherent.",
+        "style": "Pencil contours, soft watercolor, colored-pencil texture, and warm paper grain are present.",
+        "text": "No readable text or answer leakage."
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
