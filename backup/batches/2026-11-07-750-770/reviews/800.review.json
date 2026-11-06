@@ -1,0 +1,18 @@
+{
+  "no": 800,
+  "word": "正本清源",
+  "path": "/workspace/generated_images/exec-0a8c2e8d-cbf3-4e0a-85e0-24718e19bf85.png",
+  "passed": true,
+  "reviewer": "independent-visual-verifier-800",
+  "reviewed_at": "2026-11-06T16:03:21.562793+00:00",
+  "checks": {
+    "meaning": "pass: left shows staff mopping while the actual leaking joint remains; right shows technician repairing that joint after water is off and floor is dry, making root-cause resolution clear",
+    "anatomy_pose_contact": "pass: technician is supported by stepladder and grips wrench on joint; two staff have coherent visible limbs, hands and poses",
+    "objects_physics_perspective": "pass: droplets descend from overhead joint toward shelf and floor in left panel; right panel has no active drips, ladder is open and supported, tools rest in box",
+    "style": "pass: pencil outlines, soft watercolor and colored-pencil texture on warm ivory paper",
+    "text_brand_safety": "pass: no readable text, brand, watermark or unsafe child activity",
+    "alt": "pass: reflects leak discovery and repair with dry floor, and omits full idiom answer"
+  },
+  "issues": [],
+  "regenerate": false
+}

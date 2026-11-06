@@ -1,0 +1,20 @@
+{
+  "no": 814,
+  "word": "望穿秋水",
+  "path": "/workspace/generated_images/exec-58dbee28-51bd-4f99-bd5a-33e386509089.png",
+  "passed": false,
+  "reviewer": "independent-visual-verifier-814",
+  "reviewed_at": "2026-11-06T16:51:00Z",
+  "checks": {
+    "meaning": "pass: the woman tightly holds flowers and a portrait while scanning the platform toward a familiar traveler, conveying eager longing",
+    "anatomy_pose_contact": "pass: foreground figure grips the bouquet and photo naturally; distant traveler pulls a suitcase",
+    "objects_physics_perspective": "fail: distant traveler walks on the train-side of the yellow tactile safety line while a train approaches, an unsafe and implausible station interaction",
+    "style": "pass: graphite pencil contours, soft watercolor and paper texture",
+    "text_brand_safety": "fail: the traveler is within the unsafe edge zone beside an approaching train; no readable writing or brand",
+    "alt": "pass: describes the visible waiting scene without revealing the idiom"
+  },
+  "issues": [
+    "The arriving traveler is standing between the yellow tactile strip and the platform edge while the train approaches. Recreate the scene with both people clearly behind the safety line and the train stopped before a traveler walks with luggage."
+  ],
+  "regenerate": true
+}

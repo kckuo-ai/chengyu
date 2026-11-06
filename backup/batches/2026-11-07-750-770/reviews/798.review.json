@@ -1,0 +1,18 @@
+{
+  "no": 798,
+  "word": "作壁上觀",
+  "path": "/workspace/generated_images/exec-fc070d8c-489f-40a8-bbea-fa542b6b34bc.png",
+  "passed": true,
+  "reviewer": "independent-visual-verifier-798",
+  "reviewed_at": "2026-11-06T15:46:00Z",
+  "checks": {
+    "meaning": "pass: two groups disagree over a broken shared fence while a neighbor behind the wall folds his arms and helps neither side",
+    "anatomy_pose_contact": "pass: six foreground volunteers and the observer have coherent visible arms, hands, legs and natural poses; volunteers grip the fence panels plausibly",
+    "objects_physics_perspective": "pass: broken posts remain rooted, loose boards rest on the ground, panels are supported by volunteers, and tools rest securely in a box on the wall",
+    "style": "pass: pencil outlines, gentle watercolor and colored-pencil layers with warm paper texture",
+    "text_brand_safety": "pass: no readable words, logos, watermark or inappropriate content",
+    "alt": "pass: accurately describes the two groups, fence and passive observer without stating the idiom"
+  },
+  "issues": [],
+  "regenerate": false
+}

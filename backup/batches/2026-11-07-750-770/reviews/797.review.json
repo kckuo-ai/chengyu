@@ -1,0 +1,18 @@
+{
+  "no": 797,
+  "word": "含飴弄孫",
+  "path": "/workspace/generated_images/exec-8e5f3138-afba-4ee6-966a-0e74ab13de62.png",
+  "passed": true,
+  "reviewer": "independent-visual-verifier-797",
+  "reviewed_at": "2026-11-06T15:44:08.682923+00:00",
+  "checks": {
+    "meaning": "pass: grandmother savors a sweet while happily playing with grandchild; calm later-life enjoyment is clear",
+    "anatomy_pose_contact": "pass: grandmother, child and background adult have coherent arms and hands; grandmother holds candy and dish, child grips bird toy naturally",
+    "objects_physics_perspective": "pass: grandmother sits supported in wicker chair, blocks rest on low table and form a stable stack, mug and candy dish have plausible contact",
+    "style": "pass: graphite pencil contours, soft watercolor and colored-pencil texture on warm paper",
+    "text_brand_safety": "pass: no legible text, brand, watermark or unsafe behavior; only grandmother eats candy",
+    "alt": "pass: describes visible scene and omits full idiom answer"
+  },
+  "issues": [],
+  "regenerate": false
+}
