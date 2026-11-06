@@ -3250,6 +3250,367 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "795": {
+      "no": 795,
+      "word": "夙興夜寐",
+      "path": "/workspace/generated_images/exec-6f1243b9-0630-458e-89e8-f584646de00e.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-795",
+      "reviewed_at": "2026-11-06T15:38:48.706309+00:00",
+      "checks": {
+        "meaning": "pass: clearly separated predawn kneading and late-night closing scenes show early rising, late rest, and a full day of work",
+        "anatomy_pose_contact": "pass: baker has coherent visible limbs and hands in both time panels; fists press dough and hand holds apron loop naturally",
+        "objects_physics_perspective": "pass: dough and croissants rest on trays, bread rests on shelves, apron hangs from a wall hook, bakery equipment and perspective are plausible",
+        "style": "pass: graphite-like pencil contours, soft watercolor and colored-pencil shading on warm paper texture",
+        "text_brand_safety": "pass: no legible text, brand, watermark or unsuitable content",
+        "alt": "pass: describes the visible predawn kneading and nighttime closing without full idiom answer"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "796": {
+      "no": 796,
+      "word": "一板一眼",
+      "path": "/workspace/generated_images/exec-630a992a-0b4c-4f79-8ebd-c22c8c01799d.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-796",
+      "reviewed_at": "2026-11-06T15:41:48.370109+00:00",
+      "checks": {
+        "meaning": "pass: the volunteer follows ordered pictorial assembly steps, sorts fasteners, checks a right angle and tightens a joint carefully",
+        "anatomy_pose_contact": "pass: volunteer and helper have coherent arms, hands and poses; screwdriver, board and square contacts are plausible",
+        "objects_physics_perspective": "pass: bookshelf rests on a sturdy worktable, panels and shelf joints align, fasteners are sorted, instructions depict a feasible assembly sequence",
+        "style": "pass: pencil contours, soft watercolor, colored-pencil layers and warm paper grain",
+        "text_brand_safety": "pass: diagrams have no readable words; no branding, watermark or inappropriate content",
+        "alt": "pass: accurately describes the visible methodical assembly without containing the complete idiom"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "797": {
+      "no": 797,
+      "word": "含飴弄孫",
+      "path": "/workspace/generated_images/exec-8e5f3138-afba-4ee6-966a-0e74ab13de62.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-797",
+      "reviewed_at": "2026-11-06T15:44:08.682923+00:00",
+      "checks": {
+        "meaning": "pass: grandmother savors a sweet while happily playing with grandchild; calm later-life enjoyment is clear",
+        "anatomy_pose_contact": "pass: grandmother, child and background adult have coherent arms and hands; grandmother holds candy and dish, child grips bird toy naturally",
+        "objects_physics_perspective": "pass: grandmother sits supported in wicker chair, blocks rest on low table and form a stable stack, mug and candy dish have plausible contact",
+        "style": "pass: graphite pencil contours, soft watercolor and colored-pencil texture on warm paper",
+        "text_brand_safety": "pass: no legible text, brand, watermark or unsafe behavior; only grandmother eats candy",
+        "alt": "pass: describes visible scene and omits full idiom answer"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "798": {
+      "no": 798,
+      "word": "作壁上觀",
+      "path": "/workspace/generated_images/exec-fc070d8c-489f-40a8-bbea-fa542b6b34bc.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-798",
+      "reviewed_at": "2026-11-06T15:46:00Z",
+      "checks": {
+        "meaning": "pass: two groups disagree over a broken shared fence while a neighbor behind the wall folds his arms and helps neither side",
+        "anatomy_pose_contact": "pass: six foreground volunteers and the observer have coherent visible arms, hands, legs and natural poses; volunteers grip the fence panels plausibly",
+        "objects_physics_perspective": "pass: broken posts remain rooted, loose boards rest on the ground, panels are supported by volunteers, and tools rest securely in a box on the wall",
+        "style": "pass: pencil outlines, gentle watercolor and colored-pencil layers with warm paper texture",
+        "text_brand_safety": "pass: no readable words, logos, watermark or inappropriate content",
+        "alt": "pass: accurately describes the two groups, fence and passive observer without stating the idiom"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "799": {
+      "no": 799,
+      "word": "鉤心鬥角",
+      "path": "/workspace/generated_images/exec-00217e18-084b-41ce-a102-b5cee5a8ab21.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-799-rev1-retry",
+      "reviewed_at": "2026-11-06T15:54:59.626074+00:00",
+      "checks": {
+        "meaning": "pass: blue-clad rival visibly conceals a red opponent rook and red-clad rival conceals a blue opponent knight while they exchange deceptive smiles; mutual scheming is unambiguous",
+        "anatomy_pose_contact": "pass: each rival has two coherent arms and natural hand contact with a hidden chess piece; judge holds diagram sheet with plausible hands",
+        "objects_physics_perspective": "pass: board and remaining pieces rest on the table, concealed pieces are gripped inside clothing pockets",
+        "style": "pass: graphite pencil contours, soft watercolor, colored pencil shading, ivory paper texture",
+        "text_brand_safety": "pass: no readable words, brand, watermark or unsuitable content",
+        "alt": "pass: accurately describes hiding opponent-color pieces without stating the idiom"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "800": {
+      "no": 800,
+      "word": "正本清源",
+      "path": "/workspace/generated_images/exec-0a8c2e8d-cbf3-4e0a-85e0-24718e19bf85.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-800",
+      "reviewed_at": "2026-11-06T16:03:21.562793+00:00",
+      "checks": {
+        "meaning": "pass: left shows staff mopping while the actual leaking joint remains; right shows technician repairing that joint after water is off and floor is dry, making root-cause resolution clear",
+        "anatomy_pose_contact": "pass: technician is supported by stepladder and grips wrench on joint; two staff have coherent visible limbs, hands and poses",
+        "objects_physics_perspective": "pass: droplets descend from overhead joint toward shelf and floor in left panel; right panel has no active drips, ladder is open and supported, tools rest in box",
+        "style": "pass: pencil outlines, soft watercolor and colored-pencil texture on warm ivory paper",
+        "text_brand_safety": "pass: no readable text, brand, watermark or unsafe child activity",
+        "alt": "pass: reflects leak discovery and repair with dry floor, and omits full idiom answer"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "801": {
+      "no": 801,
+      "word": "顛撲不破",
+      "path": "/workspace/generated_images/exec-4b9a127f-7405-486a-8610-b4cda665b78d.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-801",
+      "reviewed_at": "2026-11-06T16:06:00Z",
+      "checks": {
+        "meaning": "pass: teacher and students compare a receding ship, globe, and orbital Earth view as mutually supporting observations for a reliable theory, rather than depicting an unbreakable object",
+        "anatomy_pose_contact": "pass: teacher and five students have coherent visible arms and hands, natural seated poses, and plausible pointing and notebook grips",
+        "objects_physics_perspective": "pass: globe rests on a stand, lamp illuminates a small sphere, distant ship lies near the horizon, and curved Earth imagery is plausible; ship sequence is simplified but progressively hides its lower portion",
+        "style": "pass: graphite pencil contours, soft watercolor, colored-pencil layers, and warm textured paper",
+        "text_brand_safety": "pass: no readable words, logo, watermark, or unsafe material",
+        "alt": "pass: accurately describes the compared observations without giving the full idiom answer"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "802": {
+      "no": 802,
+      "word": "聲淚俱下",
+      "path": "/workspace/generated_images/exec-656812de-c5b3-4a68-9853-90e081cd535a.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-802",
+      "reviewed_at": "2026-11-06T16:09:09.450185+00:00",
+      "checks": {
+        "meaning": "pass: the woman visibly speaks with mouth open while tears run down both cheeks; listeners respond with concern",
+        "anatomy_pose_contact": "pass: hands hold the family photograph naturally; a friend places a hand on her shoulder; visible limbs and poses are coherent",
+        "objects_physics_perspective": "pass: photograph, stacked blankets and aid box rest plausibly; tear flow and canopy support are coherent",
+        "style": "pass: pencil contours, soft watercolor and colored-pencil texture over ivory paper grain",
+        "text_brand_safety": "pass: no readable writing, brand, watermark, gore or unsafe content",
+        "alt": "pass: accurately describes simultaneous speech and tears without giving the full idiom answer"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "803": {
+      "no": 803,
+      "word": "老奸巨猾",
+      "path": "/workspace/generated_images/exec-a201c4e4-4ba8-4449-8905-08286aa8773a.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-803",
+      "reviewed_at": "2026-11-06T16:11:00Z",
+      "checks": {
+        "meaning": "pass: one specific practiced older merchant conceals pressure on the scale tray to cheat while smiling; the nearby boy catches the trick, without generalizing older people",
+        "anatomy_pose_contact": "pass: merchant has one hand pressing the tray and the other holding a bag; customer grips an apple; boy points with a coherent arm and finger",
+        "objects_physics_perspective": "pass: downward finger pressure on the supported scale tray would increase the measured weight; apples rest in the tray and display shows no legible numbers",
+        "style": "pass: graphite-like pencil contours, soft watercolor, colored-pencil texture and warm ivory paper grain",
+        "text_brand_safety": "pass: no readable writing, branding, watermark or inappropriate content",
+        "alt": "pass: describes the visible cheating and witness without the full idiom answer"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "805": {
+      "no": 805,
+      "word": "眼高手低",
+      "path": "/workspace/generated_images/exec-b6f8202d-35f9-48ee-8635-8033f9bc3754.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-805",
+      "reviewed_at": "2026-11-06T16:23:05.961927+00:00",
+      "checks": {
+        "meaning": "pass: boastful learner points to an elaborate birdhouse plan while their actual birdhouse has crooked roof and misplaced screw; a neighbor holds a simpler sturdy birdhouse",
+        "anatomy_pose_contact": "pass: all foreground figures have coherent visible arms, hands and poses; neighbor supports her birdhouse and teacher gestures naturally",
+        "objects_physics_perspective": "pass: crooked birdhouse rests on the workbench, misaligned roof and protruding screw are plausible; screwdriver, spare boards and screw tray rest on table",
+        "style": "pass: pencil linework, soft watercolor and colored-pencil layering over warm paper grain",
+        "text_brand_safety": "pass: blueprint contains only drawings and drafting marks; no readable words, brands, watermark or inappropriate content",
+        "alt": "pass: accurately describes high ambition versus crooked result without stating the idiom"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "806": {
+      "no": 806,
+      "word": "圖窮匕見",
+      "path": "/workspace/generated_images/exec-78353cae-14f9-4dcd-98f6-069ad942fcdf.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-806",
+      "reviewed_at": "2026-11-06T16:25:40.381253+00:00",
+      "checks": {
+        "meaning": "pass: the long map is opened to its final curl, where the concealed sheathed dagger is revealed; ruler and guard react to the exposed scheme",
+        "anatomy_pose_contact": "pass: envoy, ruler, guard and background figures have coherent visible arms, hands, posture and contact with map or table",
+        "objects_physics_perspective": "pass: scroll lies across the table with the final curl enclosing the small sheathed dagger; court furniture and perspective are plausible",
+        "style": "pass: hand-drawn pencil contours, soft watercolor and colored-pencil texture on warm ivory paper",
+        "text_brand_safety": "pass: no readable words, logo or watermark; dagger remains sheathed and no attack or injury is shown",
+        "alt": "pass: describes the map end, concealed dagger and reactions without giving the idiom answer"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "807": {
+      "no": 807,
+      "word": "名正言順",
+      "path": "/workspace/generated_images/exec-bfe53838-71ee-44cf-be1b-848bbf1d40ee.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-807-retry",
+      "reviewed_at": "2026-11-06T16:30:00Z",
+      "checks": {
+        "meaning": "pass: transparent student vote and public recognition precede the elected student's authorized speech about a garden project",
+        "panel_continuity": "pass: voting and speech are distinct sequential panels; the ribbon links the elected student across them",
+        "anatomy_pose_contact": "pass: visible arms, hands, seated poses, ballot placement and podium gesture are coherent",
+        "objects_physics_perspective": "pass: transparent ballot box rests on the table, podium supports the microphone, and diagram board rests on an easel",
+        "style": "pass: graphite pencil contours, soft watercolor and colored-pencil texture on warm paper",
+        "text_brand_safety": "pass: no readable words or numbers, logo, watermark or unsuitable content",
+        "alt": "pass: accurately describes the voting and subsequent speech without the full idiom answer"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "808": {
+      "no": 808,
+      "word": "光怪陸離",
+      "path": "/workspace/generated_images/exec-496657fe-f235-467f-b6f9-dea37f912b2c.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-808",
+      "reviewed_at": "2026-11-06T16:33:08.255961+00:00",
+      "checks": {
+        "meaning": "pass: original gallery sculptures have unusual, varied forms and overlapping blue, amber, green and violet colors; visitors react with wonder",
+        "anatomy_pose_contact": "pass: foreground adult and child have coherent arms, hands and legs; background visitors stand naturally",
+        "objects_physics_perspective": "pass: ribbon arch rests on a base, faceted sculpture is stacked on a plinth, mobile hangs from a ceiling mount, and colored shadows/reflections are plausible artistic lighting",
+        "style": "pass: pencil contours, soft watercolor and colored-pencil texture on warm ivory paper",
+        "text_brand_safety": "pass: no readable writing, logos, watermark or inappropriate content",
+        "alt": "pass: describes sculptures, color and visitors without giving the complete idiom answer"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "809": {
+      "no": 809,
+      "word": "兢兢業業",
+      "path": "/workspace/generated_images/exec-3eeedee5-c00b-4d2b-abb7-fe1856b7e99d.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-809",
+      "reviewed_at": "2026-11-06T16:35:57.446651+00:00",
+      "checks": {
+        "meaning": "pass: the crossing guard watches traffic closely, holds a stop paddle and deliberately guides children across, conveying careful responsibility",
+        "anatomy_pose_contact": "pass: guard holds paddle with one hand and guides with the other; children and second guard have coherent visible limbs and walking poses",
+        "objects_physics_perspective": "pass: cars have aligned wheels and remain behind the crossing; zebra stripes, curb and school entrance align; children walk across safely",
+        "style": "pass: pencil contours, soft watercolor, colored-pencil shading and warm paper texture",
+        "text_brand_safety": "pass: no readable words or logos, watermark, collision or unsafe behavior",
+        "alt": "pass: describes actual guard, children and stopped cars without stating the idiom"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "810": {
+      "no": 810,
+      "word": "金科玉律",
+      "path": "/workspace/generated_images/exec-02c22fed-3572-4cdf-ba2e-6eb09b555a4b.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-810-retry",
+      "reviewed_at": "2026-11-06T16:40:00Z",
+      "checks": {
+        "meaning": "pass: framed lab safety pictograms are treated as a firm common rule; all students don goggles and one puts food away before work",
+        "anatomy_pose_contact": "pass: students and teacher have coherent arms, hands, goggles and postures; foreground student grips snack and backpack naturally",
+        "objects_physics_perspective": "pass: goggles sit on faces, backpack rests on bench edge, and glassware and containers are supported by the workbench",
+        "style": "pass: graphite pencil outlines, soft watercolor and colored-pencil layers on warm paper texture",
+        "text_brand_safety": "pass: pictograms contain no legible writing; no brand, watermark or unsafe experiment",
+        "alt": "pass: accurately describes teacher, safety icons, goggles and food being put away without full idiom answer"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "811": {
+      "no": 811,
+      "word": "各自為政",
+      "path": "/workspace/generated_images/exec-acde1b9f-f169-4839-b674-018076808e5d.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-811",
+      "reviewed_at": "2026-11-06T16:44:55.973294+00:00",
+      "checks": {
+        "meaning": "pass: three groups hold separate plans and build stone path, wooden walkway, and bridge that do not join; central coordinator holds an integrated plan and looks concerned",
+        "anatomy_pose_contact": "pass: visible volunteers have coherent arms, legs, grips and working poses; center coordinator holds the plan with both hands",
+        "objects_physics_perspective": "pass: stepping stones rest in soil, walkway sections have visible supports, bridge spans the stream with grounded ends, tools sit in a box or are held plausibly",
+        "style": "pass: pencil outlines, soft watercolor and colored-pencil layers with warm ivory paper texture",
+        "text_brand_safety": "pass: diagrams contain no legible words; no branding, watermark or unsuitable content",
+        "alt": "pass: describes the mismatched path sections and coordinator without the complete idiom"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "813": {
+      "no": 813,
+      "word": "通權達變",
+      "path": "/workspace/generated_images/exec-34798e0d-81ed-4950-98ef-09d15b082f24.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-813",
+      "reviewed_at": "2026-11-06T16:47:40.140934+00:00",
+      "checks": {
+        "meaning": "pass: sudden rain interrupts outdoor book exchange; coordinator points to nearby hall and same exchange continues indoors",
+        "anatomy_pose_contact": "pass: volunteers, coordinator, readers and children have coherent visible arms, hands and poses; book and table grips are plausible",
+        "objects_physics_perspective": "pass: canopy supports rainy outdoor setup and shelters books; indoor tables rest securely and rain remains outside windows",
+        "style": "pass: graphite pencil linework, gentle watercolor and colored-pencil depth on warm ivory paper",
+        "text_brand_safety": "pass: no legible writing, brands, watermark or inappropriate content",
+        "alt": "pass: accurately describes the rain, move indoors and continuing exchange without the complete idiom answer"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "814": {
+      "no": 814,
+      "word": "望穿秋水",
+      "path": "/workspace/generated_images/exec-80c79ed4-0810-4d66-90be-a3c887c942e5.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-814-rev1",
+      "reviewed_at": "2026-11-06T16:53:06.190594+00:00",
+      "checks": {
+        "meaning": "pass: the woman holds a loved one portrait and bouquet while watching the arrivals doorway with eager, anxious anticipation; the matching traveler appears and waves",
+        "anatomy_pose_contact": "pass: the woman grips the photo and bouquet plausibly; the arriving traveler waves with one hand and pulls luggage with the other; bodies and limbs are coherent",
+        "objects_physics_perspective": "pass: both people are separated by a secure welcome barrier; automatic doors are open, suitcase wheels rest on level indoor floor, with no train or track hazard",
+        "style": "pass: visible graphite pencil outlines, soft watercolor and colored-pencil layers over warm paper grain",
+        "text_brand_safety": "pass: no readable signs, logos, watermark or unsafe action; prior platform defect is eliminated",
+        "alt": "pass: matches the visible arrivals-hall waiting and greeting without the complete idiom"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "815": {
+      "no": 815,
+      "word": "高抬貴手",
+      "path": "/workspace/generated_images/exec-9e8987e1-d3fc-4ecd-ba2e-5e73029e4afd.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-815",
+      "reviewed_at": "2026-11-06T16:55:46.235404+00:00",
+      "checks": {
+        "meaning": "pass: volunteer bows apologetically and offers replacement pot after breakage; owner smiles and raises open hand in forgiveness",
+        "anatomy_pose_contact": "pass: three people have coherent arms and hands; volunteer supports replacement pot with both hands, owner raises one hand naturally",
+        "objects_physics_perspective": "pass: broken ceramic pieces and spilled soil rest on ground, plant remains with roots and leaves, replacement pot is intact and stably held",
+        "style": "pass: graphite pencil outlines, soft watercolor/color-pencil layers, warm paper grain",
+        "text_brand_safety": "pass: no readable writing, branding, watermark or inappropriate content",
+        "alt": "pass: matches apology and forgiveness without stating complete idiom"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "816": {
+      "no": 816,
+      "word": "移花接木",
+      "path": "/workspace/generated_images/exec-f0fc2221-fa90-4d66-b49e-ef976814b2ad.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-816-retry",
+      "reviewed_at": "2026-11-06T17:01:19.853903+00:00",
+      "checks": {
+        "meaning": "pass: buyer looks away as seller hides a richly painted real vase under the counter and places a similar fake with plastic ribbed underside into the gift box; assistant notices",
+        "anatomy_pose_contact": "pass: seller uses one hand for the real vase and the other for the fake; buyer points at shelf; assistant leans on counter with coherent hands and limbs",
+        "objects_physics_perspective": "pass: real vase rests on lower shelf, fake is held above padded gift box, lid rests on counter, underside seam is visible; perspective is plausible",
+        "style": "pass: graphite pencil contours, soft watercolor and colored-pencil layering on warm ivory paper texture",
+        "text_brand_safety": "pass: no readable text, brand, watermark, violence or other inappropriate content",
+        "alt": "pass: accurately describes visible switch and surprised assistant without full idiom answer"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
