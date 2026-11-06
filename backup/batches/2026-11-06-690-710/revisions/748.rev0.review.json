@@ -1,0 +1,21 @@
+{
+  "no": 748,
+  "word": "借刀殺人",
+  "path": "/workspace/generated_images/exec-0eb9e894-b3c3-4acc-a958-dfe3aad314d7.png",
+  "passed": false,
+  "reviewer": "independent visual verifier /root/verify_748",
+  "reviewed_at": "2026-11-06T04:38:15+00:00",
+  "checks": {
+    "meaning": "fail: whispering to the manager and reprimand are visible, but an extra nearly identical smiling man behind the whisperer creates two apparent manipulators and obscures who is using whom",
+    "anatomy": "pass: visible limbs and hand gestures are individually plausible",
+    "objects_physics": "pass: desk, chairs, laptop and background office layout are plausible",
+    "style": "pass: graphite pencil outlines, soft watercolor, colored pencil and warm paper texture",
+    "text_brand_safety": "pass: no readable words, brand or weapon; office conflict is child-safe",
+    "alt": "fail: alt implies a clear single manipulator and a temporal 'after', while the image contains two similarly styled smiling men"
+  },
+  "issues": [
+    "An additional smiling man behind the whispering man looks like a duplicate of the same schemer, making the causal chain and participant count ambiguous.",
+    "Regenerate with exactly three adults: one whispering schemer, one manager, and one wrongly blamed coworker. Show only one schemer."
+  ],
+  "regenerate": true
+}
