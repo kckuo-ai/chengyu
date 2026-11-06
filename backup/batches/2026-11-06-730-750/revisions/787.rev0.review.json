@@ -1,0 +1,20 @@
+{
+  "no": 787,
+  "word": "夜長夢多",
+  "path": "/workspace/generated_images/exec-00b45f00-4b10-4fc0-aab3-cdcbd9e3633a.png",
+  "passed": false,
+  "reviewer": "independent-visual-verifier-787",
+  "reviewed_at": "2026-11-06T14:48:00Z",
+  "checks": {
+    "meaning": "pass: delayed latch repair followed by rain damaging artwork communicates risk of delay",
+    "anatomy_pose_contact": "fail: within the single daylight panel the same teacher and maintenance worker each appear twice, once at the latch and again walking away, with no separate time-panel boundary",
+    "objects_physics_perspective": "pass: window hinge, tools and rain splash are broadly plausible",
+    "style": "pass: pencil contours, gentle watercolor and warm textured paper",
+    "text_brand_safety": "pass: no readable writing, logo, watermark or unsafe content",
+    "alt": "pass: describes the intended before-and-after and omits the idiom answer"
+  },
+  "issues": [
+    "The left daylight scene duplicates both adult characters simultaneously; regenerate with exactly one teacher and one maintenance worker in that panel, and keep the right storm panel as a later moment."
+  ],
+  "regenerate": true
+}

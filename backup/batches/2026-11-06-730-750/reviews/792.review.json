@@ -1,0 +1,18 @@
+{
+  "no": 792,
+  "word": "遺臭萬年",
+  "path": "/workspace/generated_images/exec-fbf05ea0-fbe2-4ec1-a894-bff0d46bdd40.png",
+  "passed": true,
+  "reviewer": "independent-visual-verifier-792",
+  "reviewed_at": "2026-11-06T15:06:52.904193+00:00",
+  "checks": {
+    "meaning": "pass: left shows corrupt official taking villagers grain; right shows later museum portrait and visitors visibly disapproving, making lasting bad reputation legible",
+    "anatomy_pose_contact": "pass: villagers, official, clerk and modern visitors have coherent visible limbs, hands, pointing and sack grips",
+    "objects_physics_perspective": "pass: grain sacks rest on ground and cart, visible wheel and axle align, portrait and historical painting hang plausibly",
+    "style": "pass: pencil contours, soft watercolor, colored-pencil texture and warm ivory paper",
+    "text_brand_safety": "pass: tiny museum display marks are not legible words; no brand, watermark or inappropriate content",
+    "alt": "pass: accurately describes wrongdoing and later disapproval without the full idiom answer"
+  },
+  "issues": [],
+  "regenerate": false
+}

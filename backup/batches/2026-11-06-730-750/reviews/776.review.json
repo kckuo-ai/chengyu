@@ -1,0 +1,18 @@
+{
+  "no": 776,
+  "word": "漫不經心",
+  "path": "/workspace/generated_images/exec-6f02787b-9327-4a21-9a5e-63330569aa4f.png",
+  "passed": true,
+  "reviewer": "independent-visual-verifier-776",
+  "reviewed_at": "2026-11-06T14:20:57.905829+00:00",
+  "checks": {
+    "meaning": "pass: distracted student looks toward soccer while water overflows the pot; companion points out mistake",
+    "anatomy_pose_contact": "pass: foreground figures have coherent arms, hands, postures and grip; background runners are plausible",
+    "objects_physics_perspective": "pass: watering can spout points into pot, water flows downward and spills over rim onto table",
+    "style": "pass: pencil outlines, soft watercolor/color-pencil layers and warm paper texture",
+    "text_brand_safety": "pass: no readable words, logos, watermark or unsafe material",
+    "alt": "pass: accurately describes visible action without complete idiom answer"
+  },
+  "issues": [],
+  "regenerate": false
+}

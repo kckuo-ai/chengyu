@@ -1,0 +1,18 @@
+{
+  "no": 794,
+  "word": "豁然貫通",
+  "path": "/workspace/generated_images/exec-76f6d9f7-147b-41f6-93d2-2e14dbdc2dec.png",
+  "passed": true,
+  "reviewer": "independent-visual-verifier-794",
+  "reviewed_at": "2026-11-06T15:11:41.275608+00:00",
+  "checks": {
+    "meaning": "pass: the student traces the full evaporation-condensation-rain-runoff loop and visibly grasps the concept",
+    "anatomy_pose_contact": "pass: teacher and two students have coherent visible arms, hands and poses; pointing finger contacts no impossible object",
+    "objects_physics_perspective": "pass: sun warms the left water tray, vapor rises, condensation forms under sloped lid, droplets descend to soil, and runoff flows downhill back toward tray",
+    "style": "pass: graphite pencil contours, gentle watercolor, colored-pencil layers and ivory paper texture",
+    "text_brand_safety": "pass: no legible writing, brand, watermark or unsuitable content",
+    "alt": "pass: matches visible model and insight without full idiom answer"
+  },
+  "issues": [],
+  "regenerate": false
+}

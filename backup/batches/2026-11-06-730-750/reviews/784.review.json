@@ -1,0 +1,18 @@
+{
+  "no": 784,
+  "word": "一勞永逸",
+  "path": "/workspace/generated_images/exec-4466600e-5c01-442e-80c8-d862214689f1.png",
+  "passed": true,
+  "reviewer": "independent-visual-verifier-784",
+  "reviewed_at": "2026-11-06T14:40:51.923000+00:00",
+  "checks": {
+    "meaning": "pass: left shows substantial roof repair of leak, right shows later rain and dry comfortable home",
+    "anatomy_pose_contact": "pass: two roofers are seated/kneeling with coherent limbs and contact; family inside has plausible poses",
+    "objects_physics_perspective": "pass: scaffold, roof layers and tiles are coherent; rain lands on roof and gutter drains down; bucket catches original leak",
+    "style": "pass: graphite pencil outlines, soft watercolor and warm textured paper",
+    "text_brand_safety": "pass: no readable text, logo, watermark or inappropriate content",
+    "alt": "pass: describes repair and later dry home without idiom answer"
+  },
+  "issues": [],
+  "regenerate": false
+}
