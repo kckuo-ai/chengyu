@@ -1,0 +1,21 @@
+{
+  "no": 764,
+  "word": "八拜之交",
+  "path": "/workspace/generated_images/exec-b7b4bb2a-5ab3-4689-9ff5-90914c6f7cc0.png",
+  "passed": false,
+  "reviewer": "independent visual verifier /root/verify_764",
+  "reviewed_at": "2026-11-06T10:03:40.877926+00:00",
+  "checks": {
+    "meaning": "failed: image reads as a wedding/engagement tea ceremony rather than a sworn sibling friendship",
+    "anatomy": "passed: visible limbs, hands and bowing postures are plausible",
+    "physicality": "passed: chairs, tea tray, cups and wrist cords appear stable",
+    "style": "passed: pencil linework, soft watercolor and ivory paper texture",
+    "text_and_safety": "passed: no readable words, brand, watermark or unsafe content",
+    "alt": "partly accurate visually but implies friendship relationship that is not evident in image"
+  },
+  "issues": [
+    "A young woman and man bow together before four elders with a tea tray, a composition strongly associated with a marriage or engagement tea ceremony. Matching wrist cords are too subtle to distinguish a sworn sibling bond; the intended idiom meaning is therefore ambiguous.",
+    "Alt calls them friends, but the image itself cannot establish that rather than a couple."
+  ],
+  "regenerate": true
+}
