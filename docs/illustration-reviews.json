@@ -2163,6 +2163,370 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "731": {
+      "no": 731,
+      "word": "長袖善舞",
+      "path": "/workspace/generated_images/exec-47d1f927-239f-4409-a04c-58b8275fabd6.png",
+      "passed": true,
+      "reviewer": "/root/verify_731",
+      "reviewed_at": "2026-11-06T02:28:40Z",
+      "checks": {
+        "meaning": "社區協調者介紹園丁、老師和鄰居，藉順暢社交促成合作，對應善於社交、辦事有手腕的義項；不是僅畫字面舞袖。",
+        "anatomy": "四名成人各有自然的兩臂與下肢；可見手掌與手腕連接合理，無額外手腳或明顯扭曲。",
+        "objects_and_physics": "園丁雙手托育苗盤、老師雙手托花園模型、鄰居雙手持澆水壺，物件均有支撐；花圃、建物與人物透視可接受。",
+        "style": "可見鉛筆輪廓、柔和水彩、彩色鉛筆肌理及米白紙張紋理；配色溫和。",
+        "text_and_alt": "未見可讀文字、標題、品牌或浮水印；替代文字與畫面一致，沒有成語答案。"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "732": {
+      "no": 732,
+      "word": "樹倒猢猻散",
+      "path": "/workspace/generated_images/exec-a5d3f4f8-8fa5-4c38-9abe-21216da6964e.png",
+      "passed": true,
+      "reviewer": "independent visual review session verify_732",
+      "reviewed_at": "2026-11-06T02:32:23Z",
+      "checks": {
+        "source_meaning": "教育部釋義為樹倒後猢猻四散，借喻有勢力者失勢後依附者離散；倒樹與四猴分散的因果清楚。",
+        "scene": "畫面為已倒下的大樹及向不同方向離去的四隻猴子；沒有猴子被樹壓住或受傷。",
+        "anatomy": "逐隻檢查四隻猴子：各可辨識兩前肢、兩後肢及一條尾巴；部分遠側肢體受姿勢遮擋，未見多肢、斷肢或不合理關節。",
+        "physics": "樹根與主幹相連，倒樹落在林地上；猴子奔跑及跳離的方向、接地或動作姿勢、透視與重力關係合理。",
+        "style": "可見鉛筆線條、柔和水彩及米白色紙張紋理，適合兒童插圖。",
+        "content": "未見可讀文字、成語答案、品牌、浮水印或不合適內容。",
+        "alt": "替代文字與倒樹、四隻猴子各自離開並回望的畫面相符，未寫出完整成語。",
+        "path_match": "驗證原圖路徑與 732.json 的 path 完全一致，原圖可讀取。"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "733": {
+      "no": 733,
+      "word": "洗耳恭聽",
+      "path": "/workspace/generated_images/exec-39b93041-c685-4ca2-bbcb-c3836f539b71.png",
+      "passed": true,
+      "reviewer": "independent visual review session verify_733",
+      "reviewed_at": "2026-11-06T02:35:22Z",
+      "checks": {
+        "source_meaning": "詞義為專心恭敬地聆聽；三名孩子注視並安靜聆聽長者說故事，符合常見義項。",
+        "scene": "長者拿舊照片開口講述，三名孩子面向他端坐，交談與聆聽關係清楚。",
+        "anatomy": "四人各有正常數量的可辨識手臂與腿，手指、握持照片、坐姿及表情未見明顯異常；遮擋處符合姿勢。",
+        "physics": "人物坐在椅面上，椅腳與地面、照片與手的接觸及庭院透視合理。",
+        "style": "有明顯鉛筆輪廓、柔和水彩和彩色鉛筆質感，米白紙張紋理符合要求。",
+        "content": "未見可讀文字、完整成語答案、品牌、浮水印或不適合兒童的內容。",
+        "alt": "替代文字準確描述孩子聆聽長者分享故事的畫面，沒有寫出完整成語。",
+        "path_match": "已實際查看原圖，驗證紀錄 path 與 metadata path 完全相同，PNG 可讀取。"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "734": {
+      "no": 734,
+      "word": "靡靡之音",
+      "path": "/workspace/generated_images/exec-56350f81-c6da-48cc-9dbf-82f5cd883d2c.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer verify_734",
+      "reviewed_at": "2026-11-06T02:37:54Z",
+      "checks": {
+        "meaning_and_causality": "喇叭與音符連到無精打采的少年；未完成的模型、畫具和憂心家長呈現因沉迷音樂而荒廢正事，符合令人喪志的詞義。",
+        "anatomy_and_pose": "少年及家長的頭、手臂、手、手指與姿勢合理，未見多餘肢體。",
+        "objects_and_physics": "喇叭置於桌上、少年坐在有支撐的椅子上、模型與工具擺放合理；紫色旋流及音符為明顯象徵性效果。",
+        "style": "可見鉛筆線條、柔和水彩、彩色鉛筆疊色及米白紙張紋理。",
+        "text_and_suitability": "沒有可讀文字、成語答案、浮水印、品牌或不宜兒童內容。",
+        "alt": "準確描述原圖的少年、喇叭、桌面模型畫具與門口家長，未含完整成語答案。"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "735": {
+      "no": 735,
+      "word": "不勝枚舉",
+      "path": "/workspace/generated_images/exec-7fe422f0-3c63-4de7-add1-005806fcb358.png",
+      "passed": true,
+      "reviewer": "verify_735",
+      "reviewed_at": "2026-11-06T02:39:50Z",
+      "checks": {
+        "meaning": "大量郵冊和郵票使孩子逐一計數也數不完，符合事物太多無法逐一列舉之義。",
+        "anatomy": "祖父與孩子各有兩臂兩手；孩子張開的手可辨五指，另一手指向它；腿、坐姿與表情自然。",
+        "physics": "郵冊平放桌上、盒中郵票直立收納，桌椅和人物接觸、透視與支撐合理。",
+        "style": "鉛筆線條、柔和水彩與米白紙張紋理清楚。",
+        "content": "沒有可讀文字、成語答案、品牌、浮水印或不合適內容。",
+        "alt": "替代文字準確描述祖父、滿桌收藏及孩子計數的實際畫面，未洩漏答案。"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "736": {
+      "no": 736,
+      "word": "疾言厲色",
+      "path": "/workspace/generated_images/exec-fcfc4c89-f948-4f20-bef2-171b8885719e.png",
+      "passed": true,
+      "reviewer": "independent visual verifier /root/verify_736",
+      "reviewed_at": "2026-11-06T02:42:05.225369+00:00",
+      "checks": {
+        "meaning": "passed: urgent speech and stern angry facial expression clearly depicted in office reprimand",
+        "anatomy": "passed: two people with plausible visible arms, hands, fingers, posture and expressions; lower bodies outside frame",
+        "objects_physics": "passed: desk, documents, binder, chair and laptop have plausible placement and perspective",
+        "style": "passed: graphite pencil contours, gentle watercolor/color-pencil shading, visible cream paper texture",
+        "text_safety": "passed: no legible writing, idiom answer, logo, watermark or unsuitable content",
+        "alt": "passed: accurately describes visible action without stating idiom"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "738": {
+      "no": 738,
+      "word": "亭亭玉立",
+      "path": "/workspace/generated_images/exec-f468223e-68a9-4388-b7b2-e42213afcdc5.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer /root/verify_738",
+      "reviewed_at": "2026-11-06T02:44:05.826798+00:00",
+      "checks": {
+        "meaning": "通過：採詞義中的花木挺拔義，主體荷花修長直立、花苞形成對照。",
+        "anatomy": "通過：孩子的頭身、雙腿與站姿自然，雙手放在背後沒有額外肢體。",
+        "botany_and_physics": "通過：荷花和花苞的莖從水面伸出，荷葉依水面生長，倒影、支撐及透視合理。",
+        "style": "通過：可見鉛筆線條、柔和水彩、彩色鉛筆疊色與米白紙紋。",
+        "content": "通過：沒有可讀文字、成語答案、品牌、浮水印或不合適內容。",
+        "alt": "通過：描述主花與觀賞孩子，沒有包含完整成語答案。"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "692": {
+      "no": 692,
+      "word": "朝秦暮楚",
+      "path": "/workspace/generated_images/exec-52704172-9e0f-4850-a76b-a31a8cfa607c.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-692-resume",
+      "reviewed_at": "2026-11-06T02:55:00Z",
+      "checks": {
+        "meaning": "畫面左右兩組各有不同色帶與禮物，中央學生把紅色帶繫到手腕並轉向右側，兩邊同學不悅，呈現見利改換陣營的意思。",
+        "anatomy": "四名學生各自肢體安排合理；手臂、手腕、手指與表情沒有明顯多餘或錯位。",
+        "physics": "禮盒由人物雙手托住，色帶與手腕接觸位置可行，桌面物件有支撐。",
+        "style": "可見鉛筆線條、柔和水彩色層及米白紙張紋理。",
+        "content": "無可讀文字、成語答案、品牌、浮水印或不適合內容。",
+        "alt": "alt 與實際畫面相符，未含完整成語答案。"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "696": {
+      "no": 696,
+      "word": "鬼斧神工",
+      "path": "/workspace/generated_images/exec-b87d29a7-83f2-4524-8783-2a459b9dcc40.png",
+      "passed": true,
+      "reviewer": "verify_696_resume",
+      "reviewed_at": "2026-11-06T02:47:06Z",
+      "checks": {
+        "meaning": "木匠正在細刻精緻的葉片與波浪木雕，孩子驚嘆技藝，符合工藝精巧之義。",
+        "anatomy": "木匠可見兩手，右手握鑿、左手扶木，手指和接觸位置合理；孩子以雙手托腮，姿勢自然。",
+        "physics": "雕刻工具的刃口貼著木面且遠離扶木手指；木塊由前方左右兩個夾具固定在工作檯上，木屑落在檯面。",
+        "style": "鉛筆輪廓、柔和水彩、彩色鉛筆疊色和米白紙紋清楚。",
+        "content": "沒有可讀文字、答案、品牌、浮水印或不合適內容。",
+        "alt": "準確描述師傅雕刻與孩子欣賞作品，沒有包含完整成語。"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "718": {
+      "no": 718,
+      "word": "捨生取義",
+      "path": "/workspace/generated_images/exec-70f985ad-06dc-4630-adc3-5a8ec1322645.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer /root/verify_718_resume",
+      "reviewed_at": "2026-11-06T02:48:35+00:00",
+      "checks": {
+        "meaning": "通過：洪水中救援人員冒險接近受困一家，呈現為幫助他人而承擔危險的義行。",
+        "anatomy": "通過：救援者與家人的手臂、手腳及姿勢大致自然，未見多餘肢體。",
+        "boat_rope_and_physics": "通過：救援艇浮於水面，艇上人員抓牢繩索；平台上的人握住同一繩段，接觸與透視合理。",
+        "safety": "通過：救援人員戴安全帽、穿救生衣，兒童穿救生衣；家庭站在抬高平台上，沒有血腥或危險示範。",
+        "style": "通過：鉛筆輪廓、柔和水彩、彩色鉛筆疊色及米白紙張紋理明顯。",
+        "content": "通過：未見可讀文字、答案、品牌、浮水印或不合適內容。",
+        "alt": "通過：忠實描述救援艇、繩索及同伴支援，沒有完整成語答案。"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "739": {
+      "no": 739,
+      "word": "不知所措",
+      "path": "/workspace/generated_images/exec-ec428ce8-7110-40bc-87da-38f897e8770a.png",
+      "passed": true,
+      "reviewer": "independent visual verifier /root/verify_739",
+      "reviewed_at": "2026-11-06T02:50:59Z",
+      "checks": {
+        "meaning": "打翻顏料造成作品受損，中央孩子驚慌舉起雙手、遲疑不決，符合惶恐不知如何是好的詞義。",
+        "anatomy": "四名孩子各自姿勢與可見雙手合理；中央孩子的手指和關節清楚，未見多餘肢體。",
+        "physics": "杯子側倒在桌上，藍色顏料沿杯口流向畫紙；桌椅和毛巾接觸合理。",
+        "style": "可見鉛筆輪廓、柔和水彩、彩色鉛筆疊色與紙張紋理。",
+        "content": "沒有可讀文字、成語答案、品牌、浮水印或不合適內容。",
+        "alt": "替代文字準確描述實際畫面，未含完整成語答案。"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "740": {
+      "no": 740,
+      "word": "天作之合",
+      "path": "/workspace/generated_images/exec-ab6af7e3-838c-4547-9bbb-54f7adef701b.png",
+      "passed": true,
+      "reviewer": "verify_740 (independent visual review)",
+      "reviewed_at": "2026-11-06T02:53:16.355735+00:00",
+      "checks": {
+        "meaning": "花園婚禮、新人牽手相望與親友祝賀，符合美滿良緣的常見義。",
+        "anatomy": "新人雙臂、手與雙腿位置合理；牽手接觸連貫。兩側親友的肢體與鼓掌姿勢可辨，無明顯多餘肢體。",
+        "objects_physics": "花束握持、服裝、地面支撐與透視合理。",
+        "style": "可見鉛筆線條、柔和水彩、彩色鉛筆質感和米白紙張肌理。",
+        "content": "無可讀文字、成語答案、品牌、浮水印或不適合兒童內容。",
+        "alt": "替代文字準確描述畫面，未含完整成語。"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "741": {
+      "no": 741,
+      "word": "淋漓盡致",
+      "path": "/workspace/generated_images/exec-6806558e-ec4b-440a-8eab-a157a24b0dd9.png",
+      "passed": true,
+      "reviewer": "verify_741 (independent visual review)",
+      "reviewed_at": "2026-11-06T02:55:39.862214+00:00",
+      "checks": {
+        "meaning": "兩名演員表情與動作鮮明，舞台重逢情境演得生動，觀眾投入，符合表現生動逼真的義項。",
+        "anatomy": "兩名演員雙臂、雙手、腿部與站姿可辨，手勢及表情自然；無多餘肢體。",
+        "objects_physics": "舞台、布幕、燈光、觀眾座位與景物的接觸及透視合理。",
+        "style": "鉛筆線條、柔和水彩、彩色鉛筆疊色和米白紙張紋理清楚。",
+        "content": "無可讀文字、答案、品牌、浮水印或不當內容。",
+        "alt": "替代文字符合演員表演與觀眾觀看畫面，沒有完整成語答案。"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "743": {
+      "no": 743,
+      "word": "迫不及待",
+      "path": "/workspace/generated_images/exec-b3a6b37c-9b69-439e-8143-5ba996e2f24e.png",
+      "passed": true,
+      "reviewer": "verify_743",
+      "reviewed_at": "2026-11-06T02:57:00Z",
+      "checks": {
+        "meaning": "孩子在家人與蛋糕尚未就位時先動手拆禮物，急切不願等待的情境清楚。",
+        "anatomy": "主角雙臂與雙手、手指及家人可見肢體比例自然，握緞帶和扶禮盒的接觸合理。",
+        "objects_physics": "禮盒穩置桌面、緞帶可被拉起；蛋糕置於家長雙手持著的托盤上，支撐合理。",
+        "style": "有鉛筆輪廓、柔和水彩、彩色鉛筆層次與米白紙紋。",
+        "content": "未見可讀文字、完整成語答案、品牌、浮水印或不適合兒童的內容。",
+        "alt": "準確描述家長端蛋糕與孩子急著拆緞帶，未洩漏成語。"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "744": {
+      "no": 744,
+      "word": "海誓山盟",
+      "path": "/workspace/generated_images/exec-c981930d-e40c-4728-aea6-5c123d35eb88.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-744",
+      "reviewed_at": "2026-11-06T02:59:34Z",
+      "checks": {
+        "meaning": "海與山作背景，白髮夫妻牽手相望，舊婚照呈現長久不變的承諾，符合詞義。",
+        "anatomy": "兩人肢體數量正常，雙手相握位置可辨，姿勢與站立重心合理。",
+        "physicality": "長椅、照片相框、觀景台欄杆與地面透視合理，海岸及遠山關係清楚。",
+        "style": "鉛筆輪廓、柔和水彩及可見紙張紋理符合系列風格。",
+        "content": "沒有可讀文字、標題、品牌、浮水印或不適宜內容。",
+        "alt": "準確描述實際畫面，且未包含完整成語答案。"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "745": {
+      "no": 745,
+      "word": "仁至義盡",
+      "path": "/workspace/generated_images/exec-c7e8096c-5108-463b-853f-08d01d015010.png",
+      "passed": true,
+      "reviewer": "verify_745",
+      "reviewed_at": "2026-11-06T04:30:35Z",
+      "checks": {
+        "meaning": "朋友送來食物與生活用品，整理毛毯並端水與熱食給受傷鄰居，能表現盡心關照。",
+        "anatomy": "兩人手臂、手掌、雙腿及姿勢自然；受傷者包紮腳踝並置於腳凳上。",
+        "physics": "水杯與餐碗放在穩固托盤和茶几上；拐杖靠在扶手椅旁，食物袋立於地面，接觸與重力合理。",
+        "style": "可見鉛筆線條、柔和水彩、彩色鉛筆質感和米白紙紋。",
+        "content": "沒有可讀文字、成語答案、品牌、浮水印或不合適內容。",
+        "alt": "準確描述畫面，不含完整成語答案。"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "746": {
+      "no": 746,
+      "word": "悲天憫人",
+      "path": "/workspace/generated_images/exec-e5a829a8-d64b-434a-ad5b-49348d08dc82.png",
+      "passed": true,
+      "reviewer": "independent visual verifier /root/verify_746",
+      "reviewed_at": "2026-11-06T04:33:14.727279+00:00",
+      "checks": {
+        "meaning": "Storm shelter and compassionate, practical volunteer aid communicate concern for suffering people; family remains dignified.",
+        "anatomy": "Foreground adult and child limbs, hands, kneeling posture and blanket grip appear coherent; background helpers are plausible.",
+        "physicality": "Blanket is supported by both hands; meal containers, water bottles and bags are stably placed; window rain and indoor setting coherent.",
+        "style": "Graphite contours, gentle watercolor washes, colored pencil shading and ivory paper texture present.",
+        "content": "No readable text, idiom answer, logos, watermarks or unsuitable material observed.",
+        "alt": "Accurately describes volunteer, family, blanket, food and water without naming idiom."
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "747": {
+      "no": 747,
+      "word": "面面俱到",
+      "path": "/workspace/generated_images/exec-5ee72cbe-97ce-429c-9c48-0abcad22e10d.png",
+      "passed": true,
+      "reviewer": "independent visual verifier /root/verify_747",
+      "reviewed_at": "2026-11-06T04:35:45.533622+00:00",
+      "checks": {
+        "meaning": "pass: organizer checks shade seating, water, refreshments, and accessible ramp while helpers adjust setup",
+        "anatomy": "pass: three people have plausible visible arms, hands, posture, and grounded bodies",
+        "objects_physics": "pass: canopy has posts, chairs and table are supported, ramp/rails align, water dispenser stands on its frame",
+        "style": "pass: pencil contours, soft watercolor and colored pencil on warm paper grain",
+        "text_brand_safety": "pass: icon-only checklist; no readable text, logo, watermark, or unsafe content",
+        "alt": "pass: describes visible scene without the idiom answer"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "748": {
+      "no": 748,
+      "word": "借刀殺人",
+      "path": "/workspace/generated_images/exec-55db847d-1b75-46b5-b7d2-c2ab0d5152a2.png",
+      "passed": true,
+      "reviewer": "independent visual verifier /root/verify_748",
+      "reviewed_at": "2026-11-06T04:40:32+00:00",
+      "checks": {
+        "meaning": "pass: one scheming woman whispers and points at the coworker while the misled manager confronts that coworker; the indirect manipulation is clear without a literal weapon",
+        "anatomy": "pass: exactly three adults, each with plausible visible arm and hand positions; schemer's mouth-covering and pointing hands are distinct; manager points with one hand and rests the other on the desk; coworker clasps her hands",
+        "objects_physics": "pass: desk, laptop, papers and chairs are supported and perspective is coherent",
+        "style": "pass: pencil contours, translucent warm watercolor, colored-pencil layering and visible paper grain",
+        "text_brand_safety": "pass: no readable text, logo, watermark, weapon or graphic harm",
+        "alt": "pass: describes the three visible people and gestures without giving the full idiom answer"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "749": {
+      "no": 749,
+      "word": "不見經傳",
+      "path": "/workspace/generated_images/exec-77999509-e777-4d92-98d3-63a212302328.png",
+      "passed": true,
+      "reviewer": "independent-visual-agent-verify_749",
+      "reviewed_at": "2026-11-06T04:43:19.161517+00:00",
+      "checks": {
+        "meaning": "通過：畫家在角落僅有一名孩子欣賞，遠處熱門畫作聚集大量觀眾，呈現缺乏名氣而非缺乏才華。",
+        "anatomy": "通過：畫家與前景孩子的手、手指、臂與姿勢自然；背景觀眾無顯著多餘肢體。",
+        "objects_and_physics": "通過：畫架穩固地立於桌上，畫作、筆、水杯與工具接觸及透視合理。",
+        "style": "通過：可見鉛筆線條、柔和水彩、彩色鉛筆疊色與紙張紋理。",
+        "content": "通過：未見可讀文字、成語答案、浮水印、品牌或不適當內容。",
+        "alt": "通過：替代文字準確描述角落畫家、孩子及遠處人群，未洩漏完整成語。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
