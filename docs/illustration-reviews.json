@@ -1702,6 +1702,451 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "651": {
+      "no": 651,
+      "word": "積重難返",
+      "path": "/workspace/generated_images/exec-2e2e7dae-82c2-478d-b9cf-5f2ddeb01d0f.png",
+      "passed": true,
+      "reviewer": "/root/idiom_gen_b/verify_659/verify_661/verify_677/verify_679/verify_693",
+      "reviewed_at": "2026-11-05T10:15:35+00:00",
+      "checks": {
+        "meaning": "多年累積的箱子、閒置椅子與器材占去儲藏室大半空間，管理員和學生商量整理方式，清楚呈現問題累積後難以處理。",
+        "stability": "箱子與物件堆放以低矮寬底為主，後方層架上的物品均有層板承托；沒有高而窄或明顯傾斜的堆疊，也無人推擠或攀爬。",
+        "safety": "人物站在清晰的安全通道旁查看，清潔推車裝載低矮並平穩落在輪子上，沒有倒塌或絆倒情境。",
+        "anatomy": "管理員與學生肢體比例自然，記錄板、手勢和站姿合理，未見多餘肢體。",
+        "perspective": "層架、地面通道、門框與物件透視自然，房間尺度一致。",
+        "style": "可見鉛筆輪廓、柔和水彩、彩色鉛筆顆粒與暖白紙紋。",
+        "text": "沒有可讀文字、標誌或浮水印。"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "684": {
+      "no": 684,
+      "word": "勞燕分飛",
+      "path": "/workspace/generated_images/exec-a91aa47f-f2e9-4401-8fc8-a3fd202f20f1.png",
+      "passed": true,
+      "reviewer": "resume_even/review_684",
+      "reviewed_at": "2026-11-05T00:00:00+08:00",
+      "checks": {
+        "meaning": "兩人依依惜別後各自走向分岔出口，車站與列車清楚提示分離，符合親近的人被迫分別之意。",
+        "anatomy": "僅兩名成人，各自肢體自然；手腳數量與關節合理。",
+        "physics": "兩人各以手握行李伸縮拉桿；箱體輪子落地，站姿、地面接觸和透視可信。",
+        "style": "鉛筆線條、柔和水彩、彩色鉛筆質感與暖色紙紋清晰。",
+        "text": "沒有可讀文字、答案字樣或浮水印。",
+        "alt": "替代文字符合畫面，未洩漏成語答案。"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "686": {
+      "no": 686,
+      "word": "惡貫滿盈",
+      "path": "/workspace/generated_images/exec-5ee46d5b-b13c-40af-99bf-c67df4d1fe73.png",
+      "passed": true,
+      "reviewer": "/root/resume_even/review_686",
+      "reviewed_at": "2026-11-05",
+      "meaning": "反覆破壞花園的男子遭居民和安全人員當場制止，破損花盆、散落工具與記錄照片呈現累積惡行終遇後果。",
+      "checks": {
+        "anatomy": "四人均可辨識，肢體數量與姿勢自然，未見多餘手腳。",
+        "physics": "破盆碎片與工具落地合理；警員持板姿勢、人物站姿及步道透視自然。",
+        "style": "鉛筆線條、柔和水彩與紙張紋理明顯，色彩柔和。",
+        "recognizability": "居民阻止破壞者、警員展示紀錄及多處修復痕跡清楚表達反覆作惡終受處置。",
+        "text": "未見可讀文字、標誌或浮水印。",
+        "alt": "替代文字符合畫面，未包含成語答案。"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "688": {
+      "no": 688,
+      "word": "無中生有",
+      "path": "/workspace/generated_images/exec-cfbee88b-53df-4e36-914b-9e6852c1ecb5.png",
+      "passed": true,
+      "reviewer": "/root/resume_even/review_688",
+      "reviewed_at": "2026-11-05T16:45:00+08:00",
+      "checks": {
+        "meaning": "一位學生誇張講述不存在的失竊，空展示櫃和桌上仍在的獎盃清楚揭穿說法。",
+        "anatomy": "三位學生各自四肢自然，指向動作及手指未見明顯異常。",
+        "objects": "獎盃穩放桌上，桌腳落地；展示櫃結構與教室透視合理。",
+        "style": "可見鉛筆輪廓、柔和水彩與紙紋。",
+        "text": "無可讀文字、品牌或水印。",
+        "alt": "描述符合畫面，未直接洩漏成語答案。"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "690": {
+      "no": 690,
+      "word": "唾手可得",
+      "path": "/workspace/generated_images/exec-ba14a7ba-5700-4593-950c-23a5ece2fcf6.png",
+      "passed": true,
+      "reviewer": "/root/resume_even/review_690",
+      "reviewed_at": "2026-11-05T12:00:00+08:00",
+      "meaning": "孩子伸手即可從桌上滿籃蘋果中取一顆，清楚傳達容易取得。",
+      "checks": {
+        "anatomy": "兩名近景學生的可見手臂與手掌位置合理；女生伸手拿蘋果，男生雙手托腮，未見多餘肢體。",
+        "physics": "果籃完整置於桌面，蘋果由籃中支撐；伸手距離自然，桌面與背景攤位透視合理。",
+        "style": "鉛筆線條、水彩暈染、彩色鉛筆質地與紙紋可辨。",
+        "text": "無可讀文字、答案、標誌或浮水印。",
+        "alt": "替代文字符合畫面，未包含成語答案。"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "694": {
+      "no": 694,
+      "word": "狹路相逢",
+      "path": "/workspace/generated_images/exec-fdddfc9a-7675-4f9d-a1f8-2f8c4223c386.png",
+      "passed": true,
+      "reviewer": "/root/resume_even/review_694",
+      "reviewed_at": "2026-11-05",
+      "meaning": "Two neighbors who have been arguing unexpectedly meet face-to-face on a very narrow hedge path; their surprised, tense expressions and inability to pass without acknowledging one another make the idiom recognizable.",
+      "checks": {
+        "anatomy": "Both adults have plausible limbs and hands; no extra limbs or obvious deformities.",
+        "objects_and_contact": "Each person holds one watering can with a natural handle grip; both stand on the path with grounded feet. No collision or threatening tool use.",
+        "perspective": "The path narrows convincingly between hedges and recedes toward the background; buildings and plants are coherent.",
+        "style": "Visible graphite contours, soft watercolor washes, colored-pencil texture and warm paper grain; muted natural colors.",
+        "text": "No readable words, labels, logo or watermark.",
+        "alt": "Alt text accurately describes the encounter without giving away the idiom."
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "699": {
+      "no": 699,
+      "word": "斬草除根",
+      "path": "/workspace/generated_images/exec-14735c09-b581-49b7-8fdd-5eaf1ef3e53d.png",
+      "passed": true,
+      "reviewer": "/root/image_session_2/verify_699_new",
+      "reviewed_at": "2026-11-05T12:00:00Z",
+      "checks": {
+        "meaning": "園丁將入侵雜草連根拔起，表達除去問題根源以免復發。",
+        "anatomy": "人物可見雙臂與雙手，肢體自然，未見多餘手腳。",
+        "physics": "根系與植株連接合理，土壤、鏟子接觸關係可信，垃圾桶置地穩定。",
+        "style": "鉛筆輪廓、柔和水彩與米白紙紋明顯。",
+        "text": "無文字、浮水印或品牌。"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "698": {
+      "no": 698,
+      "word": "流離失所",
+      "path": "/workspace/generated_images/exec-5010d326-1261-4cbb-bac4-b2b154169422.png",
+      "passed": true,
+      "reviewer": "independent_review_698",
+      "checks": {
+        "meaning": "Flood-damaged homes, a family leaving with belongings, and a welcoming shelter clearly convey displacement and seeking refuge.",
+        "anatomy": "Foreground parent and child have plausible limbs and poses; volunteer hand gestures are coherent.",
+        "contact_physics": "Feet and suitcase wheels meet the wet ground; the tent frame and tables appear supported.",
+        "style": "Pencil contours, soft watercolor and warm paper texture are visible.",
+        "text": "No readable text, answer text, logos or watermark."
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "700": {
+      "no": 700,
+      "word": "莫衷一是",
+      "path": "/workspace/generated_images/exec-53cc19a7-972f-4523-a159-f6a00f7b4518.png",
+      "passed": true,
+      "reviewer": "verify_700",
+      "reviewed_at": "2026-11-05T12:30:00Z",
+      "checks": {
+        "meaning": "Five students point to distinct garden designs while the central student and teacher remain undecided, clearly showing several opinions without consensus.",
+        "anatomy": "Five students and one teacher; visible arms and hands appear naturally attached, with no obvious extra limbs.",
+        "contacts_physics": "Papers are held plausibly, pointing gestures align with the board, furniture is grounded and perspective is coherent.",
+        "style": "Pencil contours, soft watercolor, colored-pencil texture and warm paper grain are present.",
+        "text": "No readable text, answer, logo or watermark."
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "702": {
+      "no": 702,
+      "word": "提綱挈領",
+      "path": "/workspace/generated_images/exec-c87ec850-04e4-4c0e-aafe-8f093d3ffda6.png",
+      "passed": true,
+      "reviewer": "/root/image_session_2/verify_702",
+      "reviewed_at": "2026-11-05T12:00:00Z",
+      "checks": {
+        "meaning": "Student presents a concise central idea with a few connected branches, and classmates visibly follow the explanation; fits grasping and presenting key points.",
+        "anatomy": "Five students and presenter have plausible limbs; pointing and listening gestures are coherent.",
+        "physics": "Board is mounted securely; chairs, table, books and laptop rest naturally with coherent perspective.",
+        "style": "Pencil outlines, soft watercolor, colored-pencil grain and ivory paper texture are present.",
+        "text": "Flowchart uses shapes only; no readable words, answer text, logos or watermark."
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "704": {
+      "no": 704,
+      "word": "喜出望外",
+      "path": "/workspace/generated_images/exec-df9ec67f-3b09-4847-bb83-8c54b5cd663c.png",
+      "passed": true,
+      "reviewer": "/root/image_session_1/review_704",
+      "reviewed_at": "2026-11-05",
+      "checks": {
+        "meaning": "Child shows clear surprise and joy at the unexpected invitation and birthday cake.",
+        "anatomy": "Both children have plausible visible limbs and hands; no extra arms or legs apparent.",
+        "contact_physics": "Envelope, card and cake are held plausibly; table and feet are grounded.",
+        "perspective": "School building, table and figures have coherent proportions and perspective.",
+        "style": "Pencil outlines, soft watercolor, colored-pencil texture and warm paper texture are visible.",
+        "text": "No readable text, logos or watermark; card contains only decorative drawings."
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "706": {
+      "no": 706,
+      "word": "花言巧語",
+      "path": "/workspace/generated_images/exec-fbb346b5-72f6-4723-8897-646c1afec7f9.png",
+      "passed": true,
+      "reviewer": "verify_706",
+      "reviewed_at": "2026-11-05T15:20:00+08:00",
+      "meaning": "A student makes an exaggerated, charming presentation while concealing crossed fingers; the listener remains doubtful. This communicates attractive but insincere persuasion.",
+      "checks": {
+        "anatomy": "Presenter has two visible arms: one extended toward poster, the other behind the back with a crossed-finger gesture; both hands connect plausibly. Listener's arms are occupied naturally with book and chin.",
+        "contact_physics": "Poster is clipped to an easel; easel rests on floor. Books and tabletop objects are supported. No dangerous interaction.",
+        "perspective": "Classroom furniture, easel legs and poster are coherent enough for the scene.",
+        "style": "Graphite outlines, soft watercolor, colored-pencil texture and warm paper grain are clear.",
+        "text": "No legible words, idiom answer, logos, or watermark; decorative blank banner contains no readable text.",
+        "recognizability": "Exaggerated glowing presentation and concealed crossed fingers contrast with the classmate's skeptical expression, supporting the idiom meaning."
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "708": {
+      "no": 708,
+      "word": "虛有其表",
+      "path": "/workspace/generated_images/exec-1ce69af3-83ac-488c-bfa4-9e9629fa9001.png",
+      "passed": true,
+      "reviewer": "independent visual review",
+      "reviewed_at": "2026-11-05T16:10:00+08:00",
+      "checks": {
+        "meaning": "The ornate rocket shell is opened to reveal an empty interior, contrasted with a modest working model; the superficial appearance versus lack of substance is clear.",
+        "anatomy": "Three foreground people have plausible visible limbs and gestures; no obvious extra or missing limbs.",
+        "physics": "Both models rest on the table; the ornate shell has broad supports. No unsafe imbalance or implausible contact is visible.",
+        "style": "Pencil contours, watercolor washes and ivory paper grain are visible.",
+        "text": "No readable text, answer text, logo or watermark."
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "710": {
+      "no": 710,
+      "word": "改過自新",
+      "path": "/workspace/generated_images/exec-8cd8d59d-ba66-4022-b4bd-4c26da747130.png",
+      "passed": true,
+      "reviewer": "/root/image_session_1/review_710",
+      "checks": {
+        "meaning": "青年主動返回花圃修補先前受損的苗床、重新種植並照料新苗，呈現改正錯誤後重新開始。",
+        "anatomy": "近景青年兩臂兩腿，蹲姿合理；一手持澆水壺把手，另一手扶土，未見多餘肢體。",
+        "tools_physics": "壺嘴朝下，水流落在幼苗根部；提把握持自然，工具接觸與姿勢合理。",
+        "contact": "青年雙膝與鞋子支撐於土床邊，手部接觸土壤及壺柄自然。",
+        "style": "鉛筆輪廓、柔和水彩、彩色鉛筆質感與紙張紋理清楚。",
+        "text": "無可讀文字、浮水印或品牌。"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "712": {
+      "no": 712,
+      "word": "邯鄲學步",
+      "path": "/workspace/generated_images/exec-ccc5b2dd-5659-4e9d-9de0-6f59460071e0.png",
+      "passed": true,
+      "reviewer": "independent visual review",
+      "checks": {
+        "meaning": "Modern dance student awkwardly imitates a practiced dancer and appears unsure; familiar shoes at right suggest the student's own natural style left behind.",
+        "anatomy": "Central student has two arms and two legs with plausible joints; the asymmetrical pose is challenging but not impossible. Background dancer limbs are coherent.",
+        "balance_contact": "Both central shoes contact the floor; weight on bent legs is plausible for a beginner wobbling in a dance pose. No fall or dangerous strain.",
+        "mirror": "The right panel reflects the central student in the same pose, with acceptable perspective and no extra person implied.",
+        "style": "Graphite contours, soft watercolor, colored-pencil texture and warm paper grain are clear.",
+        "text": "No readable text, logos, watermark or idiom answer visible."
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "714": {
+      "no": 714,
+      "word": "馬首是瞻",
+      "path": "/workspace/generated_images/exec-60546d02-aa27-40f5-9018-1022c08df2a2.png",
+      "passed": true,
+      "reviewer": "/root/image_session_1/review_710/review_714",
+      "checks": {
+        "meaning": "A lead rider guides a line of riders along a trail; the group looks forward and follows, clearly conveying following the leader.",
+        "anatomy": "Riders and horses show plausible limb counts and seated posture; no obvious extra limbs.",
+        "tack_physics": "Saddles, reins, stirrups, and rider contact are broadly plausible; horses are grounded on the path.",
+        "scene": "Safe fenced woodland trail and turning path support the leadership/following relationship.",
+        "style": "Soft watercolor, pencil-like contours, and textured paper are visible.",
+        "text": "No readable text, watermark, or logos."
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "716": {
+      "no": 716,
+      "word": "害群之馬",
+      "path": "/workspace/generated_images/exec-90fa536c-ca27-4f70-a1db-91135cc0adcb.png",
+      "passed": true,
+      "reviewer": "independent_visual_review",
+      "checks": {
+        "meaning": "One student cuts a supporting string while peers look concerned and the shared bridge model sags, clearly conveying one person's harmful disruption of a group.",
+        "anatomy": "Visible students and teacher have plausible limbs and poses; no obvious extra arms or legs.",
+        "scissors": "The student holds scissors at the string with a plausible grip; no contact hazard to people.",
+        "physics": "The bridge deck sags locally while remaining supported by piers; the model is on a worktable and the cut cord is visibly loose.",
+        "style": "Graphite contours, soft watercolor, colored-pencil grain, and warm paper texture are visible.",
+        "text": "No readable text, logo, watermark, or idiom answer appears."
+      },
+      "issues": []
+    },
+    "719": {
+      "no": 719,
+      "word": "隨機應變",
+      "path": "/workspace/generated_images/exec-6168fafe-8091-4ec8-bc8d-3daebd6d95a6.png",
+      "passed": true,
+      "reviewer": "independent visual review",
+      "checks": {
+        "meaning": "Sudden rain prompts students to improvise: one shelters the model with a display board while two others move it under cover, clearly showing a flexible response.",
+        "anatomy": "Visible students have plausible limbs and hand connections; no obvious extra or missing limbs.",
+        "contact_physics": "The student braces the broad board with both hands; teammates support the model tray at opposite sides. Feet are grounded and the rain-slick ground is consistent.",
+        "objects_perspective": "The model tray, table, display board and shelter supports have plausible structure and perspective.",
+        "style": "Pencil contours, watercolor washes, colored-pencil grain and warm paper texture are visible.",
+        "text": "No readable words or logos; diagrams are illustrative only."
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "721": {
+      "no": 721,
+      "word": "集思廣益",
+      "path": "/workspace/generated_images/exec-6dd67fae-de0c-4f20-bfe3-b66c57158547.png",
+      "passed": true,
+      "reviewer": "/root/image_session_2/verify_721",
+      "reviewed_at": "2026-11-05T00:00:00Z",
+      "checks": {
+        "meaning": "Neighbors and children contribute different playground ideas, visibly combined into a shared plan; the scene conveys collective wisdom and useful suggestions.",
+        "anatomy": "All visible people have plausible limbs and natural gestures; hands hold the sketch, model tree, or point to the plan without obvious extra digits or duplicated limbs.",
+        "contact_physics": "Paper and cutout pieces rest on the table; contributors' hands meet the drawings naturally. Furniture is grounded.",
+        "perspective": "Tabletop plan and seated/standing figures have coherent perspective; the playground board in the background is stable.",
+        "style": "Graphite contours, soft watercolor, colored-pencil texture, and warm paper grain are visible.",
+        "text": "No readable text or answer-revealing writing appears."
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "722": {
+      "no": 722,
+      "word": "分庭抗禮",
+      "path": "/workspace/generated_images/exec-4a4d57b6-b1af-4055-95bf-b9caf8edb406.png",
+      "passed": true,
+      "reviewer": "independent_visual_review",
+      "checks": {
+        "meaning": "Two student teams face each other as equals in a formal debate setting; equal tables and respectful bows communicate parity.",
+        "anatomy": "Six visible students have plausible limbs and poses; hands are visible and naturally placed.",
+        "physics": "Tables and chairs are grounded, floor perspective is coherent, and central lectern is stable.",
+        "style": "Pencil contours, soft watercolor, colored-pencil grain, and warm paper texture are visible.",
+        "text": "No readable text, labels, or logos."
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "724": {
+      "no": 724,
+      "word": "期期艾艾",
+      "path": "/workspace/generated_images/exec-c1187353-290f-46c9-abc0-03b6b497fdbe.png",
+      "passed": true,
+      "reviewer": "independent_review_724",
+      "checks": {
+        "meaning": "The child hesitates mid-presentation with halting gestures while teacher and classmates listen supportively; this clearly conveys stammering without mockery.",
+        "anatomy": "Visible limbs and hands are naturally connected; child's hesitant hand gesture is plausible.",
+        "posture_and_contact": "Presenter stands behind the desk with grounded feet; listeners sit naturally and teacher leans forward attentively.",
+        "text": "No readable text or answer-revealing lettering; small marks are nonverbal hesitation symbols.",
+        "style": "Pencil outlines, soft watercolor, colored-pencil grain, and ivory paper texture are clear."
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "725": {
+      "no": 725,
+      "word": "應接不暇",
+      "path": "/workspace/generated_images/exec-ebaa4089-a325-4960-9fb9-7708b2631819.png",
+      "passed": true,
+      "reviewer": "independent visual review",
+      "checks": {
+        "meaning": "The child is surrounded by many colorful exhibits and turns between them with delighted surprise, clearly showing too many sights to take in at once.",
+        "anatomy": "One child with two arms and two legs; hands and posture appear natural. No duplicated human figures.",
+        "scene_physics": "Aquarium frames and curved butterfly enclosure appear stable; birds perch on branches; perspective is coherent.",
+        "style": "Pencil contours, soft watercolor, colored-pencil grain, and warm paper texture are visible.",
+        "text": "No readable text, answer, logo, or watermark."
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "726": {
+      "no": 726,
+      "word": "殃及池魚",
+      "path": "/workspace/generated_images/exec-321954f6-3de8-4a0f-9b59-23a92c89c9c6.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer",
+      "checks": {
+        "meaning": "The person rinses a paint brush and spills dirty water into the pond; the nearby child caring for the fish reacts with concern as fish swim away from the muddy plume. This clearly shows uninvolved fish affected by someone else's action.",
+        "anatomy": "Both people have plausible limb count and posture; hands grip the brush and bucket naturally.",
+        "physics": "The tipped bucket pours toward the pond; water spreads from the edge into the pond with visible muddy mixing. Fish remain unharmed and swim away.",
+        "style": "Pencil contours, soft watercolor washes, colored-pencil texture, and warm paper grain are visible.",
+        "text": "No readable words, logos, or answer text."
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "727": {
+      "no": 727,
+      "word": "患得患失",
+      "path": "/workspace/generated_images/exec-c7b70c4d-4029-4cc1-9c4b-7505618875fe.png",
+      "passed": true,
+      "reviewer": "/root/image_session_1/review_727",
+      "checks": {
+        "meaning": "A student anxiously checks a result envelope and clutches medals while peers enjoy the event, conveying excessive concern about gains and losses.",
+        "anatomy": "Foreground student has two visible arms with hands attached naturally; other students' visible limbs appear plausible.",
+        "props": "Envelope and medals are held plausibly; table and bottle are stably supported.",
+        "style": "Pencil contours, watercolor washes, colored-pencil grain, and paper texture are visible.",
+        "text": "No readable text, logo, or answer text."
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "728": {
+      "no": 728,
+      "word": "瞻前顧後",
+      "path": "/workspace/generated_images/exec-eb0b53c8-8999-4d44-a0bd-4e1dc2271c94.png",
+      "passed": true,
+      "reviewer": "/root/image_session_1/review_728",
+      "checks": {
+        "meaning": "Team leader holds a route map, looks toward the trail and back at the hikers, conveying prudent awareness before proceeding.",
+        "anatomy": "Visible arms and hands are naturally attached; the group members have plausible poses and hiking gear.",
+        "objects_physics": "Map is held with both hands; trail signs, steps, rope rails and marker post are grounded and coherent.",
+        "style": "Graphite-like outlines, soft watercolor, colored-pencil texture and ivory paper grain are clear.",
+        "text": "No readable text, idiom answer or logos."
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "729": {
+      "no": 729,
+      "word": "鞠躬盡瘁",
+      "path": "/workspace/generated_images/exec-63bfde1d-0162-4187-9318-378a652479ac.png",
+      "passed": true,
+      "reviewer": "independent visual review",
+      "checks": {
+        "meaning": "Volunteer coordinator diligently organizes relief supplies alongside helpers, conveying devoted contribution.",
+        "anatomy": "Visible people have plausible limbs and postures; hands hold clipboard and boxes naturally.",
+        "objects": "Boxes and supplies are stably supported; interactions are plausible.",
+        "style": "Pencil contours, soft watercolor, colored-pencil texture and warm paper grain are clear.",
+        "text": "No readable text or answer-revealing words."
+      },
+      "issues": []
     }
   }
 }
