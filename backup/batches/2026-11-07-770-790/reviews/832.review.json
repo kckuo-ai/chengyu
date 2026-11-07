@@ -1,0 +1,19 @@
+{
+  "no": 832,
+  "word": "一事無成",
+  "path": "/workspace/generated_images/exec-55153a13-3eab-48b9-ae27-ab050b2e12e3.png",
+  "passed": true,
+  "reviewer": "independent visual reviewer /root/verify_832",
+  "reviewed_at": "2026-11-07T00:02:20Z",
+  "checks": {
+    "meaning_and_causality": "passed: unfinished painting, partly assembled birdhouse and rough clay vessel make the lack of completed work clear",
+    "anatomy_and_pose": "passed: student has two anatomically plausible arms and hands, with one supporting the head and the other resting on the table",
+    "objects_and_physics": "passed: birdhouse has a base and two unfinished walls, loose board and screws, supported easel and pottery wheel; table and tools are grounded",
+    "style": "passed: pencil outlines, soft watercolor and colored-pencil shading on textured warm paper",
+    "text_brand_suitability": "passed: no readable text, logo, watermark, idiom answer or inappropriate content",
+    "alt": "passed: accurately describes visible unfinished projects and disappointed expression; omits idiom answer",
+    "original_png_inspection": "passed: opened the original PNG directly with view_image"
+  },
+  "issues": [],
+  "regenerate": false
+}

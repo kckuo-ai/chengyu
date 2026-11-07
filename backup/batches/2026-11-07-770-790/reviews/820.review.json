@@ -1,0 +1,18 @@
+{
+  "no": 820,
+  "word": "有條不紊",
+  "path": "/workspace/generated_images/exec-bfe49fe3-4dbc-4ae8-b428-21154ac489bb.png",
+  "passed": true,
+  "reviewer": "independent-visual-verifier-820-retry",
+  "reviewed_at": "2026-11-06T17:29:03.025214+00:00",
+  "checks": {
+    "meaning": "pass: visible left-to-right washing, chopping, cooking and serving sequence; wordless pictorial plan and orderly queue reinforce clear organization",
+    "anatomy_pose_contact": "pass: volunteers and guests have coherent arms, hands and postures; vegetables, pot, bowls and utensils are held plausibly",
+    "objects_physics_perspective": "pass: vegetables rest in sink/bowls, carrot is cut on board, pot is supported over burner, cooked food goes into bowls, queue remains separated by barrier",
+    "style": "pass: graphite pencil contours, soft watercolor and colored-pencil texture on warm ivory paper",
+    "text_brand_safety": "pass: no readable text, logo, watermark or unsafe child cooking",
+    "alt": "pass: accurately describes ordered kitchen workflow without full idiom answer"
+  },
+  "issues": [],
+  "regenerate": false
+}

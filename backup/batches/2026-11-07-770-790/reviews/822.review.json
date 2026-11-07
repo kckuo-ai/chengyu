@@ -1,0 +1,19 @@
+{
+  "no": 822,
+  "word": "如願以償",
+  "path": "/workspace/generated_images/exec-e6a5c51b-abbe-4356-a16d-6135944096a9.png",
+  "passed": true,
+  "reviewer": "independent visual reviewer /root/verify_822",
+  "reviewed_at": "2026-11-06T23:42:32.291513+00:00",
+  "checks": {
+    "meaning_and_causality": "passed: artist imagines an exhibition of three landscape paintings while working at home; the matching paintings are displayed and admired in the gallery",
+    "anatomy_and_pose": "passed: artist and visitors have plausible visible arms, hands, legs, poses, gaze, and contact",
+    "objects_and_physics": "passed: easel supports the canvas, framed paintings hang level, lighting and gallery arrangement are coherent",
+    "style": "passed: pencil linework, soft watercolor and colored-pencil texture on warm paper",
+    "text_brand_suitability": "passed: tiny artwork label has no legible writing; no readable text, brand, watermark, answer text, or inappropriate content",
+    "alt": "passed: describes the visible home practice, imagined exhibit, actual paintings, and visitors; does not contain the idiom",
+    "original_png_inspection": "passed: opened the original 1672×941 PNG directly with view_image; inspected gallery label, figures, hands, easel feet, frames, lights, and painting correspondence at native detail"
+  },
+  "issues": [],
+  "regenerate": false
+}

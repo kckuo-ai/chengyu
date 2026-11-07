@@ -1,0 +1,18 @@
+{
+  "no": 818,
+  "word": "柳暗花明",
+  "path": "/workspace/generated_images/exec-ad71468f-2270-4706-9c67-4d1f8060bb8a.png",
+  "passed": true,
+  "reviewer": "independent-visual-verifier-818",
+  "reviewed_at": "2026-11-06T17:21:07.989694+00:00",
+  "checks": {
+    "meaning": "pass: a dim winding old lane turns into a bright willow-shaded flower garden; family relief and surprise convey a hopeful turn after difficulty",
+    "anatomy_pose_contact": "pass: two adults and two children have coherent limbs, poses and hand contact; girl points toward the garden and holds the boy’s hand",
+    "objects_physics_perspective": "pass: continuous stone paving turns past the corner into the garden; walls, willow, fences and path rest naturally with plausible perspective",
+    "style": "pass: graphite pencil outlines, soft watercolor, colored-pencil layers and warm ivory paper texture",
+    "text_brand_safety": "pass: no readable writing, logo, watermark or unsafe content",
+    "alt": "pass: accurately describes the visible change in scenery without the complete idiom"
+  },
+  "issues": [],
+  "regenerate": false
+}

@@ -1,0 +1,19 @@
+{
+  "no": 828,
+  "word": "解衣推食",
+  "path": "/workspace/generated_images/exec-6bdb8503-e265-47ce-a3e1-7629db08a1b3.png",
+  "passed": true,
+  "reviewer": "independent visual reviewer /root/verify_828",
+  "reviewed_at": "2026-11-06T23:54:01Z",
+  "checks": {
+    "original_png_inspection": "passed: opened the actual original PNG directly with view_image",
+    "meaning_and_causality": "passed: young adult places a coat on the older person's shoulders while the older person holds a warm donated meal; both acts of care are clear",
+    "anatomy_and_pose": "passed: each person has two arms and hands, plausible fingers, legs, feet, posture and eye contact",
+    "objects_and_physics": "passed: coat is held at the shoulders and drapes naturally; both hands support the bowl; steam rises from food, meal box and table are supported",
+    "style": "passed: pencil lines, soft watercolor, colored-pencil texture and cream paper surface",
+    "text_brand_suitability": "passed: no readable text, brand, watermark, answer or unsuitable content",
+    "alt": "passed: matches the coat, bowl, table and winter setting; excludes the idiom"
+  },
+  "issues": [],
+  "regenerate": false
+}

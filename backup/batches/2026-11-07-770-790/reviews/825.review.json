@@ -1,0 +1,19 @@
+{
+  "no": 825,
+  "word": "低聲下氣",
+  "path": "/workspace/generated_images/exec-b676e8a4-8cf3-4371-b3b8-7a3c0337e884.png",
+  "passed": true,
+  "reviewer": "independent visual reviewer /root/verify_825",
+  "reviewed_at": "2026-11-06T23:48:54Z",
+  "checks": {
+    "meaning_and_scene": "passed: student's lowered head, slight bow and small speaking mouth show careful, deferential speech to a librarian; the reason for returning the book late is not visually proven, but is unnecessary to the idiom meaning",
+    "anatomy_and_pose": "passed: foreground student has two plausible arms, hands, legs and feet; librarian's arms and resting hands are coherent; seated background children have plausible limbs",
+    "objects_and_physics": "passed: book is supported by the counter while held at its edge; desk, computer, shelves and books have reasonable structure and perspective",
+    "style": "passed: visible pencil outlines, gentle watercolor and colored-pencil layering over warm paper texture",
+    "text_brand_suitability": "passed: no readable text, answer, brand, watermark or unsuitable content",
+    "alt": "passed: matches the visible low-headed speaking student, librarian and book at the counter; does not include the idiom",
+    "original_png_inspection": "passed: inspected actual original PNG directly using view_image"
+  },
+  "issues": [],
+  "regenerate": false
+}
