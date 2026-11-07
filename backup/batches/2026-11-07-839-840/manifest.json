@@ -1,0 +1,23 @@
+{
+  "description": "Frozen batch of 1 independently reviewed and registered idiom illustrations, catalog 839 to 840. Prior backups retained.",
+  "baseline_catalog_count": 839,
+  "final_catalog_count": 840,
+  "count": 1,
+  "created_at": "2026-11-07T13:24:45.563934+00:00",
+  "entries": [
+    {
+      "no": 891,
+      "word": "親痛仇快",
+      "original": "originals/891.png",
+      "original_source_path": "/workspace/generated_images/exec-1218df60-13cb-4ded-8a00-7e3d4f79c694.png",
+      "sha256": "e3f78cf048cbff7fe656c3a3fb495cb6c00c3388595024bb13f9147112e6fe21",
+      "metadata": "metadata/891.json",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "現代校園機器人比賽，學生忽視安全與操作規範，失手撞倒自己隊伍的機器人展示台；隊友與家長在旁難過，對面的競爭隊伍因對手失去優勢而互相擊掌歡呼，呈現一人失當讓親近的人痛心、對手稱快。",
+      "alt": "學生失手撞倒自己隊伍的機器人展示，隊友和家長難過，對面的競爭隊伍卻因取得優勢而擊掌歡呼。",
+      "review": "reviews/891.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/891.webp"
+    }
+  ]
+}
