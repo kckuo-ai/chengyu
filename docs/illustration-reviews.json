@@ -4844,6 +4844,42 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "887": {
+      "no": 887,
+      "word": "旁敲側擊",
+      "path": "/workspace/generated_images/exec-9ef0f2ce-b7f9-4463-a1d5-75642b8e02ff.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-887",
+      "reviewed_at": "2026-11-07T13:11:22Z",
+      "checks": {
+        "meaning": "pass: 女孩沒有直接責備，而是指向整齊的分類桶與瓶紙圖卡，再以手勢引向旁邊溢滿的桶；男孩思考後理解暗示，間接表達清楚。",
+        "anatomy": "pass: 三名學生的可見手臂、手指、腿與坐姿合理，未見多餘肢體。",
+        "objects_physics": "pass: 回收桶落在支架上，瓶子、紙張、包裝與桌面有合理接觸；女孩手持圖卡並指向比較物，視線和手勢關係一致。",
+        "style": "pass: 鉛筆手繪線條、柔和水彩、彩色鉛筆疊色與米白紙張紋理清楚。",
+        "content": "pass: 無可讀文字、品牌、浮水印或不適合兒童的內容；回收符號為通用圖形。",
+        "alt": "pass: 替代文字準確描述整齊與溢滿回收桶的比較及理解暗示的情境，未包含完整成語答案。"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "888": {
+      "no": 888,
+      "word": "粉墨登場",
+      "path": "/workspace/generated_images/exec-bb44e41f-51da-4e93-97d0-18444851c5e5.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-888",
+      "reviewed_at": "2026-11-07T13:20:00Z",
+      "checks": {
+        "meaning": "pass: 演員在化妝鏡與刷具旁完成戲劇妝，穿著角色服裝跨過紅幕站在聚光燈下表演，後台同伴等待，準備到登台的因果清楚。",
+        "anatomy": "pass: 舞台演員與後台人物的可見手臂、手指、腿和姿勢合理；鏡中影像是同一演員的反射，未見多餘肢體。",
+        "objects_physics": "pass: 紅幕有舞台懸掛與落地褶皺，聚光燈照向舞台，化妝鏡、燈泡、刷具、服裝和演員腳下舞台接觸合理。",
+        "style": "pass: 鉛筆手繪線條、柔和水彩、彩色鉛筆疊色與米白紙張紋理清楚。",
+        "content": "pass: 戲劇妝色彩適度，無可讀文字、品牌、浮水印或不適合兒童內容。",
+        "alt": "pass: 替代文字準確描述化妝、戲服、紅幕、聚光燈與後台同伴，未包含完整成語答案。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
