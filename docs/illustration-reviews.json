@@ -3611,6 +3611,382 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "817": {
+      "no": 817,
+      "word": "不可一世",
+      "path": "/workspace/generated_images/exec-34bb17ca-a385-4e84-9fca-19ec149644e1.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-817",
+      "reviewed_at": "2026-11-06T17:18:21.743177+00:00",
+      "checks": {
+        "meaning": "pass: winner stands above teammates with head tilted up and expansive boastful gesture, disregarding their disappointed looks and contribution",
+        "anatomy_pose_contact": "pass: five figures have coherent visible hands, arms, legs and postures; teacher touches a teammate shoulder naturally and student grips trophy",
+        "objects_physics_perspective": "pass: trophy and robot are supported, robot wheels align with its chassis, podium supports both shoes",
+        "style": "pass: graphite pencil contours, soft watercolor, colored-pencil layering and warm paper grain",
+        "text_brand_safety": "pass: no readable text, brands, watermark or unsuitable content",
+        "alt": "pass: accurately describes winner, trophy, robot and disappointed teammates without stating the idiom"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "818": {
+      "no": 818,
+      "word": "柳暗花明",
+      "path": "/workspace/generated_images/exec-ad71468f-2270-4706-9c67-4d1f8060bb8a.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-818",
+      "reviewed_at": "2026-11-06T17:21:07.989694+00:00",
+      "checks": {
+        "meaning": "pass: a dim winding old lane turns into a bright willow-shaded flower garden; family relief and surprise convey a hopeful turn after difficulty",
+        "anatomy_pose_contact": "pass: two adults and two children have coherent limbs, poses and hand contact; girl points toward the garden and holds the boy’s hand",
+        "objects_physics_perspective": "pass: continuous stone paving turns past the corner into the garden; walls, willow, fences and path rest naturally with plausible perspective",
+        "style": "pass: graphite pencil outlines, soft watercolor, colored-pencil layers and warm ivory paper texture",
+        "text_brand_safety": "pass: no readable writing, logo, watermark or unsafe content",
+        "alt": "pass: accurately describes the visible change in scenery without the complete idiom"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "819": {
+      "no": 819,
+      "word": "引經據典",
+      "path": "/workspace/generated_images/exec-d17156bb-f8d6-4f9d-9314-b7f0fb4783f9.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-819",
+      "reviewed_at": "2026-11-06T17:23:52Z",
+      "checks": {
+        "meaning": "pass: student speaks while pointing directly to a marked passage in an open classic volume and holding a related historical picture; listeners attend to the cited source",
+        "anatomy_pose_contact": "pass: speaker's pointing hand and picture grip are coherent; classmates and teacher have plausible visible hands and seated poses",
+        "objects_physics_perspective": "pass: large reference book lies open on the table with supported pages; stacked bound volumes and bookmarks are physically plausible",
+        "style": "pass: graphite-like pencil contours, soft watercolor and colored-pencil texture over warm ivory paper grain",
+        "text_brand_safety": "pass: book pages show authentic-looking but unreadable ink strokes; no readable idiom answer, brand, watermark or unsuitable content",
+        "alt": "pass: accurately describes the speaker, open book and historical picture without containing the full idiom"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "820": {
+      "no": 820,
+      "word": "有條不紊",
+      "path": "/workspace/generated_images/exec-bfe49fe3-4dbc-4ae8-b428-21154ac489bb.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-820-retry",
+      "reviewed_at": "2026-11-06T17:29:03.025214+00:00",
+      "checks": {
+        "meaning": "pass: visible left-to-right washing, chopping, cooking and serving sequence; wordless pictorial plan and orderly queue reinforce clear organization",
+        "anatomy_pose_contact": "pass: volunteers and guests have coherent arms, hands and postures; vegetables, pot, bowls and utensils are held plausibly",
+        "objects_physics_perspective": "pass: vegetables rest in sink/bowls, carrot is cut on board, pot is supported over burner, cooked food goes into bowls, queue remains separated by barrier",
+        "style": "pass: graphite pencil contours, soft watercolor and colored-pencil texture on warm ivory paper",
+        "text_brand_safety": "pass: no readable text, logo, watermark or unsafe child cooking",
+        "alt": "pass: accurately describes ordered kitchen workflow without full idiom answer"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "821": {
+      "no": 821,
+      "word": "汗馬功勞",
+      "path": "/workspace/generated_images/exec-bc572efb-562a-496d-be55-1674258cd6f7.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-821-resume",
+      "reviewed_at": "2026-11-06T23:38:35.202465+00:00",
+      "checks": {
+        "meaning": "pass: left panel shows the volunteer working hard to transform neglected lot; right panel shows flourishing garden and neighbors thanking her, so effort and valued contribution are clear",
+        "anatomy_pose_contact": "pass: shoveling volunteer, other workers and celebrating neighbors have coherent visible limbs and natural hand contact with tools, soil and flowers",
+        "objects_physics_perspective": "pass: shovel enters soil, wheelbarrow supports its load, raised beds and trellis stand plausibly, and watering flows downward toward plants",
+        "style": "pass: graphite pencil contours, gentle watercolor and colored-pencil layers on warm paper texture",
+        "text_brand_safety": "pass: no readable writing, branding, watermark or inappropriate content",
+        "alt": "pass: describes visible labor, result and thanks without giving the full idiom answer"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "822": {
+      "no": 822,
+      "word": "如願以償",
+      "path": "/workspace/generated_images/exec-e6a5c51b-abbe-4356-a16d-6135944096a9.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer /root/verify_822",
+      "reviewed_at": "2026-11-06T23:42:32.291513+00:00",
+      "checks": {
+        "meaning_and_causality": "passed: artist imagines an exhibition of three landscape paintings while working at home; the matching paintings are displayed and admired in the gallery",
+        "anatomy_and_pose": "passed: artist and visitors have plausible visible arms, hands, legs, poses, gaze, and contact",
+        "objects_and_physics": "passed: easel supports the canvas, framed paintings hang level, lighting and gallery arrangement are coherent",
+        "style": "passed: pencil linework, soft watercolor and colored-pencil texture on warm paper",
+        "text_brand_suitability": "passed: tiny artwork label has no legible writing; no readable text, brand, watermark, answer text, or inappropriate content",
+        "alt": "passed: describes the visible home practice, imagined exhibit, actual paintings, and visitors; does not contain the idiom",
+        "original_png_inspection": "passed: opened the original 1672×941 PNG directly with view_image; inspected gallery label, figures, hands, easel feet, frames, lights, and painting correspondence at native detail"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "823": {
+      "no": 823,
+      "word": "脫穎而出",
+      "path": "/workspace/generated_images/exec-3b40a872-fdb0-4d70-9860-00a20680c35b.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer /root/verify_823",
+      "reviewed_at": "2026-11-06T23:46:03.716897+00:00",
+      "checks": {
+        "original_png_inspection": "Viewed original 1672x941 PNG directly, including the finish tape, runners, track and spectators.",
+        "meaning_and_causality": "Lead student is visibly ahead of several peers in the same race and reaching the finish, a clear depiction of surpassing others.",
+        "anatomy_and_pose": "Lead runner has two arms and two legs with coherent stride and contact; four trailing runners have plausible limbs and poses. Spectators are secondary and no obvious extra appendages.",
+        "objects_and_physics": "Red finish tape spans two posts and bends at the leader’s waist at the moment of contact; track lanes and finish line are coherent. No detached or implausibly placed equipment.",
+        "style": "Visible pencil outlines, soft watercolor and colored-pencil textures, paper grain.",
+        "text_brand_suitability": "No readable text, brand, watermark, answer or inappropriate content.",
+        "alt": "Accurately identifies lead green-vest runner, trailing competitors and applauding spectators without naming the idiom."
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "824": {
+      "no": 824,
+      "word": "割雞焉用牛刀",
+      "path": "/workspace/generated_images/exec-6bf95eec-4426-4ef7-b4e2-1be4cc7bcd06.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer /root/verify_824",
+      "reviewed_at": "2026-11-06T23:47:29.696011+00:00",
+      "checks": {
+        "original_png_inspection": "passed: opened and inspected the original PNG directly with view_image",
+        "meaning_and_causality": "passed: oversized professional cleaver for one cherry tomato contrasted with a suitable small knife clearly conveys the idiom",
+        "anatomy_and_pose": "passed: both adults have two visible arms with coherent hand positions and facial expressions",
+        "objects_and_physics": "passed: cleaver has continuous blade and attached handle, the chef grips the handle, small knife is held at handle, tomato rests on stable cutting board",
+        "style": "passed: pencil outlines, soft watercolor, colored-pencil grain and warm paper texture",
+        "text_brand_suitability": "passed: no legible text, brand, watermark, answer text or unsuitable content",
+        "alt": "passed: accurately describes visible action without the idiom answer"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "825": {
+      "no": 825,
+      "word": "低聲下氣",
+      "path": "/workspace/generated_images/exec-b676e8a4-8cf3-4371-b3b8-7a3c0337e884.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer /root/verify_825",
+      "reviewed_at": "2026-11-06T23:48:54Z",
+      "checks": {
+        "meaning_and_scene": "passed: student's lowered head, slight bow and small speaking mouth show careful, deferential speech to a librarian; the reason for returning the book late is not visually proven, but is unnecessary to the idiom meaning",
+        "anatomy_and_pose": "passed: foreground student has two plausible arms, hands, legs and feet; librarian's arms and resting hands are coherent; seated background children have plausible limbs",
+        "objects_and_physics": "passed: book is supported by the counter while held at its edge; desk, computer, shelves and books have reasonable structure and perspective",
+        "style": "passed: visible pencil outlines, gentle watercolor and colored-pencil layering over warm paper texture",
+        "text_brand_suitability": "passed: no readable text, answer, brand, watermark or unsuitable content",
+        "alt": "passed: matches the visible low-headed speaking student, librarian and book at the counter; does not include the idiom",
+        "original_png_inspection": "passed: inspected actual original PNG directly using view_image"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "826": {
+      "no": 826,
+      "word": "楚材晉用",
+      "path": "/workspace/generated_images/exec-5b285245-b4ef-41ef-8954-640cc89755a3.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer /root/verify_826",
+      "reviewed_at": "2026-11-06T23:50:48.130305+00:00",
+      "checks": {
+        "meaning_and_causality": "passed: inventor carries a distinctive solar-powered robot from a modest workshop with two disappointed former teammates toward a better-equipped new team; clearly conveys talent moving elsewhere",
+        "anatomy_and_contact": "passed: visible people have coherent arm/leg counts and poses; inventor supports robot in front of torso and receiving colleague extends two hands toward it",
+        "objects_and_physics": "passed: robot has plausible chassis, wheels and solar panel; benches, chairs and doorway are grounded and spatially coherent",
+        "style": "passed: visible pencil outlines, soft watercolor and colored-pencil texture on warm paper",
+        "text_brand_suitability": "passed: no readable text, brands, watermark, idiom answer or inappropriate content",
+        "alt": "passed: accurately describes inventor, prototype, old and new workshops without stating idiom",
+        "original_png_inspection": "passed: actual original PNG opened directly with view_image"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "827": {
+      "no": 827,
+      "word": "引狼入室",
+      "path": "/workspace/generated_images/exec-cd45e4e6-afcd-400f-af89-25ae5fb7f3b8.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer /root/verify_827",
+      "reviewed_at": "2026-11-06T23:52:20.107379+00:00",
+      "checks": {
+        "meaning_and_causality": "passed: homeowner holds open the front door and gestures toward a gray, collarless wolf; the wolf is then rummaging in the pantry, making the self-caused trouble visible",
+        "human_and_wolf_anatomy": "passed: one adult has two arms, two legs, credible hand and door contact; wolf has four distinguishable legs/paws, two ears and one tail with plausible reach toward food",
+        "objects_and_physics": "passed: door hinges and swing, pantry shelves, jars, cabinet doors, fallen basket and food are coherent and supported by the scene",
+        "style": "passed: visible pencil outlines, soft watercolor and colored-pencil shading over textured warm paper",
+        "text_brand_suitability": "passed: packet decoration is not legible text; no readable captions, brand, watermark, violence, or unsuitable content",
+        "alt": "passed: accurately describes opened door, surprised homeowner, wolf at pantry, scattered food and basket; excludes idiom answer",
+        "original_png_inspection": "passed: directly opened full original PNG with view_image, not a prompt or thumbnail"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "828": {
+      "no": 828,
+      "word": "解衣推食",
+      "path": "/workspace/generated_images/exec-6bdb8503-e265-47ce-a3e1-7629db08a1b3.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer /root/verify_828",
+      "reviewed_at": "2026-11-06T23:54:01Z",
+      "checks": {
+        "original_png_inspection": "passed: opened the actual original PNG directly with view_image",
+        "meaning_and_causality": "passed: young adult places a coat on the older person's shoulders while the older person holds a warm donated meal; both acts of care are clear",
+        "anatomy_and_pose": "passed: each person has two arms and hands, plausible fingers, legs, feet, posture and eye contact",
+        "objects_and_physics": "passed: coat is held at the shoulders and drapes naturally; both hands support the bowl; steam rises from food, meal box and table are supported",
+        "style": "passed: pencil lines, soft watercolor, colored-pencil texture and cream paper surface",
+        "text_brand_suitability": "passed: no readable text, brand, watermark, answer or unsuitable content",
+        "alt": "passed: matches the coat, bowl, table and winter setting; excludes the idiom"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "829": {
+      "no": 829,
+      "word": "兵不厭詐",
+      "path": "/workspace/generated_images/exec-e1ba3566-0ed1-4ccb-8e20-a4a839917e8b.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer /root/verify_829",
+      "reviewed_at": "2026-11-06T23:55:48.344320+00:00",
+      "checks": {
+        "original_png_inspection": "passed: opened actual full original PNG with view_image",
+        "meaning_and_causality": "passed: a visible group distracts in front while blue toy soldiers take a marked route around hill toward the flag; opponent reacts",
+        "anatomy_and_pose": "passed: two players have plausible visible arms, hands, faces and positions; miniature figures stand on bases",
+        "objects_and_physics": "passed: terrain board is supported by table, hill, bridge, stream and flag have coherent arrangement; dotted route is an illustration overlay",
+        "style": "passed: pencil outlines, soft watercolor, colored-pencil shading and warm paper grain",
+        "text_brand_suitability": "passed: no legible text, answer, logo, watermark or unsafe content",
+        "alt": "passed: matches visible scene and omits the idiom"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "830": {
+      "no": 830,
+      "word": "漸入佳境",
+      "path": "/workspace/generated_images/exec-162a0776-922b-4333-bcb7-cfd61e2337ed.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer /root/verify_830",
+      "reviewed_at": "2026-11-06T23:57:23Z",
+      "checks": {
+        "meaning_and_causality": "passed: three left-to-right time moments show the same girl's landscape painting becoming gradually richer and her interest and delight increasing",
+        "anatomy_and_pose": "passed: hands, arms, faces and brush grips in each time moment are plausible; repeated girl is clearly an intentional sequence, with consistent hair bow, clothing and apron",
+        "objects_and_physics": "passed: paper and canvas rest on easels, brushes are held plausibly, palettes and water jars sit on tables; no unsupported objects or perspective anomaly",
+        "style": "passed: pencil outlines, soft watercolor, colored-pencil accents and warm paper texture are visible",
+        "text_brand_suitability": "passed: no legible text, idiom answer, brand, watermark or unsuitable content",
+        "alt": "passed: accurately describes the repeated practice, improving landscape and friend's admiration without giving the full idiom",
+        "original_png_inspection": "passed: opened the original PNG directly with view_image and inspected all three scenes"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "831": {
+      "no": 831,
+      "word": "老成持重",
+      "path": "/workspace/generated_images/exec-f708461d-1d7e-454e-b37f-20e7318819e8.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer /root/verify_831",
+      "reviewed_at": "2026-11-06T23:59:51Z",
+      "checks": {
+        "meaning_and_causality": "passed: the experienced silver-haired organizer calmly protects books and directs two startled volunteers during sudden rain",
+        "anatomy_and_pose": "passed: all three figures have plausible arms, hands, legs, expressions and box grips",
+        "objects_and_physics": "passed: books rest in boxes and on a supported table, rain cover is held and clipped, pavilion posts and rain direction are coherent",
+        "style": "passed: pencil outlines, soft watercolor, colored-pencil shading and warm paper texture",
+        "text_brand_suitability": "passed: no legible text, answer, logo, watermark or inappropriate content",
+        "alt": "passed: accurately describes the visible rain, calm organizer, cover and volunteers; excludes the idiom",
+        "original_png_inspection": "passed: directly opened and inspected the original PNG with view_image"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "832": {
+      "no": 832,
+      "word": "一事無成",
+      "path": "/workspace/generated_images/exec-55153a13-3eab-48b9-ae27-ab050b2e12e3.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer /root/verify_832",
+      "reviewed_at": "2026-11-07T00:02:20Z",
+      "checks": {
+        "meaning_and_causality": "passed: unfinished painting, partly assembled birdhouse and rough clay vessel make the lack of completed work clear",
+        "anatomy_and_pose": "passed: student has two anatomically plausible arms and hands, with one supporting the head and the other resting on the table",
+        "objects_and_physics": "passed: birdhouse has a base and two unfinished walls, loose board and screws, supported easel and pottery wheel; table and tools are grounded",
+        "style": "passed: pencil outlines, soft watercolor and colored-pencil shading on textured warm paper",
+        "text_brand_suitability": "passed: no readable text, logo, watermark, idiom answer or inappropriate content",
+        "alt": "passed: accurately describes visible unfinished projects and disappointed expression; omits idiom answer",
+        "original_png_inspection": "passed: opened the original PNG directly with view_image"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "833": {
+      "no": 833,
+      "word": "百步穿楊",
+      "path": "/workspace/generated_images/exec-01e2fa35-1a84-404b-8535-6973ac8c0a68.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer /root/verify_833",
+      "reviewed_at": "2026-11-07T00:04:26Z",
+      "checks": {
+        "meaning_and_scene": "passed: arrow strikes a small willow leaf at the center of a distant target, clearly conveying exceptional archery accuracy",
+        "anatomy_and_pose": "passed: archer, coach and fellow archer have plausible visible arms, hands and postures; partial lower-body cropping is compositional rather than an extra limb",
+        "objects_and_physics": "passed: arrow points into the leaf and target with fletching to the left, bow has a string and is held by its grip, target board has a standing support and hay backstop",
+        "range_safety": "passed: all people are behind the visible shooting line, with nobody downrange",
+        "style": "passed: pencil outlines, soft watercolor, colored-pencil accents and cream paper texture",
+        "text_brand_suitability": "passed: no readable text, answer, logo, watermark or unsuitable content",
+        "alt": "passed: accurately describes arrow, leaf, target and observers without giving the idiom",
+        "original_png_inspection": "passed: directly opened the original PNG with view_image"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "834": {
+      "no": 834,
+      "word": "金屋藏嬌",
+      "path": "/workspace/generated_images/exec-a5beef84-9a9e-4888-86bb-0cf94c5a5653.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer /root/verify_834",
+      "reviewed_at": "2026-11-07T00:06:41.619091+00:00",
+      "checks": {
+        "original_png_inspection": "passed: viewed original PNG directly with view_image",
+        "meaning_and_scene": "passed: ornate golden pavilion, woman concealed behind screen, man watching garden path convey discreet historical arrangement",
+        "anatomy_and_pose": "passed: man has two arms and hands holding screen; seated woman has plausible posture and hands",
+        "objects_and_physics": "passed: folding-screen hinges and grasp, pavilion columns/railings/steps, seated support and perspective are coherent",
+        "style": "passed: pencil linework, soft watercolor, colored-pencil warmth, cream paper texture",
+        "text_brand_suitability": "passed: no legible text, brand, watermark, answer, or inappropriate content",
+        "alt": "passed: describes visible pavilion, woman, screen, garden, excludes complete idiom"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "835": {
+      "no": 835,
+      "word": "任重道遠",
+      "path": "/workspace/generated_images/exec-8b52f6d0-9fb1-489b-91a8-116e498b73d6.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer /root/verify_835",
+      "reviewed_at": "2026-11-07T00:08:52.788300+00:00",
+      "checks": {
+        "original_png_inspection": "passed: viewed full original PNG and enlarged the watering-can/hand/crate contact",
+        "meaning_and_scene": "passed: few planted trees behind, a large marked barren slope and winding trail ahead, volunteers carry saplings and tools; prolonged significant duty is clear",
+        "anatomy": "passed: three volunteers have plausible visible arms, hands, legs, grip and walking posture",
+        "objects_and_physics": "passed: sapling pots rest in slatted crate; gloves support crate; watering-can handle loops over the carrier's right hand at crate edge, so it is suspended rather than floating; shovel, seedlings, tree stakes and path are credible",
+        "style": "passed: pencil outlines, soft watercolor/colored-pencil texture and paper grain",
+        "text_brand_suitability": "passed: no readable text, brand, watermark, or unsuitable content",
+        "alt": "passed: accurately describes the three volunteers, saplings/shovel, planted trees and unfinished hillside; does not repeat idiom"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "836": {
+      "no": 836,
+      "word": "一蹶不振",
+      "path": "/workspace/generated_images/exec-5796252e-31eb-479b-9dcb-290588e17994.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer /root/verify_836",
+      "reviewed_at": "2026-11-07T00:10:59.531096+00:00",
+      "checks": {
+        "meaning_and_causality": "passed: the same runner stumbles and loses, then remains withdrawn at later autumn practice while a teammate invites return",
+        "anatomy_and_pose": "passed: foreground and background runners, seated student, and inviting teammate have plausible visible limbs, hands and foot positions",
+        "objects_and_physics": "passed: finish ribbon, marked track, bench support, sports bag and pair of unused shoes are coherent",
+        "style": "passed: pencil linework, soft watercolor and colored-pencil texture on warm paper",
+        "text_brand_suitability": "passed: no legible writing, logos or watermark; no injury or humiliating content",
+        "alt": "passed: accurately describes stumble, later discouragement, unused shoes and invitation; omits the idiom",
+        "original_png_inspection": "passed: directly opened original PNG with view_image"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
