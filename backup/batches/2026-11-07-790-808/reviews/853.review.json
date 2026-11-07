@@ -1,0 +1,19 @@
+{
+  "no": 853,
+  "word": "巧言令色",
+  "path": "/workspace/generated_images/exec-ff5ae526-798f-4667-9b2d-4134bb0dc581.png",
+  "passed": true,
+  "reviewer": "independent visual reviewer /root/verify_853",
+  "reviewed_at": "2026-11-07T00:51:35.512630+00:00",
+  "checks": {
+    "original_png_inspection": "passed: viewed the actual original PNG directly with view_image",
+    "meaning_and_causality": "passed: same worker ostentatiously flatters manager at model, then rolls eyes after manager leaves; split panels clearly show false demeanor",
+    "anatomy_and_pose": "passed: visible arms, hands, fingers, face and seated/standing postures plausible; intentional repeated worker has consistent clothes and lanyard",
+    "objects_and_physics": "passed: building models are grounded on tables; doorway, chairs and notebooks have plausible structure and perspective",
+    "style": "passed: pencil linework, soft watercolor/colored-pencil layering and warm paper texture",
+    "text_brand_suitability": "passed: no legible text, idiom answer, logo, watermark or inappropriate content",
+    "alt": "passed: matches two sequential moments and omits the idiom"
+  },
+  "issues": [],
+  "regenerate": false
+}

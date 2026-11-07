@@ -1,0 +1,20 @@
+{
+  "no": 854,
+  "word": "木已成舟",
+  "path": "/workspace/generated_images/exec-72cb48ef-d582-426b-aae8-d034050ff775.png",
+  "passed": true,
+  "reviewer": "independent visual reviewer /root/verify_854_rev1",
+  "reviewed_at": "2026-11-07T00:57:59.903616+00:00",
+  "checks": {
+    "original_png_inspection": "Passed: directly opened and visually inspected revised original PNG at full image size.",
+    "meaning_and_causality": "Passed revision 1: large sketch clearly depicts a mast and triangular sail; completed actual boat has no sail and is already rowing away from the pier. Late visitor is surprised and builder points toward departing boat, establishing a fixed outcome.",
+    "anatomy_and_pose": "Passed: visitor grips sketch with two hands, builder has normal two arms and feet, rower has two arms connected to the oars.",
+    "objects_and_physics": "Passed: two oars connect at visible gunwale oarlocks and contact lake water; boat is buoyant, wake and dock pilings/wood offcuts coherent.",
+    "style": "Passed: pencil outlines, soft watercolor and colored-pencil shading on warm paper.",
+    "text_brand_suitability": "Passed: no readable text, brand, watermark, or unsuitable content.",
+    "alt": "Passed: accurately states contrasting sail proposal and already-departing sail-less rowboat, excludes idiom answer."
+  },
+  "issues": [],
+  "regenerate": false,
+  "revision": 1
+}

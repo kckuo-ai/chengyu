@@ -1,0 +1,22 @@
+{
+  "no": 854,
+  "word": "木已成舟",
+  "path": "/workspace/generated_images/exec-cf131fa1-9d1e-4098-bb6c-06e2be298e8d.png",
+  "passed": false,
+  "reviewer": "independent visual reviewer /root/verify_854",
+  "reviewed_at": "2026-11-07T00:54:18+00:00",
+  "checks": {
+    "original_png_inspection": "Opened and visually inspected the actual original PNG directly.",
+    "meaning_and_causality": "Failed: the held sketch depicts essentially the same rowboat as the finished boat, so the intended late alternative or unchangeable decision is not visible. A completed boat alone illustrates the idiom's literal objects but weakly conveys the figurative meaning.",
+    "anatomy_and_pose": "Passed: visible hands, arms and poses are plausible.",
+    "objects_and_physics": "Passed: wooden hull, seats, ribs, planks, two support stands and workbench are plausible.",
+    "style": "Passed: pencil contours, soft watercolor, colored-pencil and paper texture.",
+    "text_brand_suitability": "Passed: no readable text, brand, watermark or inappropriate content.",
+    "alt": "Accurately describes visible boat and reaction, but cannot remedy missing visual contrast."
+  },
+  "issues": [
+    "Sketch boat is nearly identical to finished boat; draw a clearly different late proposal and a visible point of no return.",
+    "Completed workshop boat could still be modified; consider a fired ceramic item versus incompatible proposed shape, or show finished boat already launched/delivered."
+  ],
+  "regenerate": true
+}
