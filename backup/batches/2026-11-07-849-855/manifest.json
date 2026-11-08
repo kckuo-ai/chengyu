@@ -1,0 +1,93 @@
+{
+  "description": "Frozen batch of 6 independently reviewed and registered idiom illustrations, catalog 849 to 855. Prior backups retained.",
+  "baseline_catalog_count": 849,
+  "final_catalog_count": 855,
+  "count": 6,
+  "created_at": "2026-11-08T05:04:10.205288+00:00",
+  "entries": [
+    {
+      "no": 901,
+      "word": "精益求精",
+      "original": "originals/901.png",
+      "original_source_path": "/workspace/generated_images/exec-884372a0-cb0c-4e4a-8ce7-870efe824456.png",
+      "sha256": "f748554cc118ead0f23e728fae79aeeb01017d672fa7edd9e8fee7398b357ea9",
+      "metadata": "metadata/901.json",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；主要採 3:2 橫向構圖；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "現代校園創客教室，學生把同一架手作紙木滑翔機做成三個逐步改良的版本，從基礎原型到更精巧的成品依序放在工作桌上；他用尺仔細調整最後一架，導師微笑、同學專注觀看，清楚呈現好還要更好。",
+      "alt": "學生在創客教室逐步改良三架手作滑翔機，最後一架更精巧，導師和同學在旁觀看。",
+      "review": "reviews/901.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/901.webp"
+    },
+    {
+      "no": 902,
+      "word": "摧枯拉朽",
+      "original": "originals/902.png",
+      "original_source_path": "/workspace/generated_images/exec-5289ddd6-9afb-4816-a61c-aa4339f41ed3.png",
+      "sha256": "91707c51c9c1a73a38268c64cf63c91a96d5f4ad5b66e34e40fbdfd6a0d8e002",
+      "metadata": "metadata/902.json",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；主要採 3:2 橫向構圖；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "現代校園社區清潔活動，一名戴手套的學生輕鬆拉開腐朽的落枝並清出小路，樹枝乾脆裂開、幾乎不費力，同學在旁安全地歡呼整理落葉；畫面表現事情極容易完成，不含危險或傷害。",
+      "alt": "學生在校園清潔活動中輕鬆拉開腐朽落枝清出小路，同學在旁整理落葉並歡呼。",
+      "review": "reviews/902.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/902.webp"
+    },
+    {
+      "no": 903,
+      "word": "慷慨解囊",
+      "original": "originals/903.png",
+      "original_source_path": "/workspace/generated_images/exec-591e3b7a-d994-41bf-84b8-d76c366b2607.png",
+      "sha256": "5bef296b7159225f6ff832f214abe4818c3673143bad30a2d9b18659a9d6f159",
+      "metadata": "metadata/903.json",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；主要採 3:2 橫向構圖；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "現代校園公益募款活動，一家人毫不猶豫地把食物箱、日用品和硬幣放入捐贈籃與透明募款罐，志工微笑致謝，背景同學整理物資；慷慨捐助且不吝嗇的行動清楚可見。",
+      "alt": "一家人在校園公益活動中捐出食物、日用品和硬幣，志工微笑接受並整理物資。",
+      "review": "reviews/903.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/903.webp"
+    },
+    {
+      "no": 904,
+      "word": "按兵不動",
+      "original": "originals/904.png",
+      "original_source_path": "/workspace/generated_images/exec-7ccce7d4-b5ee-4cab-9032-d47c5881caa8.png",
+      "sha256": "6a52e671ff63f2a4f5b186e946421cf64d13acce241b8167af767fccbc8e7ca3",
+      "metadata": "metadata/904.json",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；主要採 3:2 橫向構圖；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "現代校園機器人競賽，學生隊伍把自己的小型機器人穩穩停在起跑線後，隊長舉起平靜的停止手勢並研究策略板；遠處另一隊正在行動，這隊刻意暫不啟動，清楚表現暫時不採取行動。",
+      "alt": "機器人競賽中，學生隊伍讓機器人停在起跑線後，隊長舉手示意先等待並研究策略。",
+      "review": "reviews/904.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/904.webp"
+    },
+    {
+      "no": 907,
+      "word": "蚍蜉撼樹",
+      "original": "originals/907.png",
+      "original_source_path": "/workspace/generated_images/exec-51a2f472-d22b-4113-98b7-e14f563916a3.png",
+      "sha256": "5d440f8f23888bf7611c23789e9cb9f5866838c1be8b3ee668fd6db4fbcb3d26",
+      "metadata": "metadata/907.json",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；主要採 3:2 橫向構圖；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "現代校園科展，一台很小的學生自製搬運機器試圖推動巨大的樹幹展示物，孩子與導師指向比例模型和安全界線，巨大目標與渺小力量形成清楚對比，表現不自量力，沒有危險或傷害。",
+      "alt": "小型學生機器在科展中試圖推動巨大的樹幹，導師和同學指出比例模型與安全界線。",
+      "review": "reviews/907.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/907.webp"
+    },
+    {
+      "no": 908,
+      "word": "深惡痛絕",
+      "original": "originals/908.png",
+      "original_source_path": "/workspace/generated_images/exec-2aa1cfc1-b9fb-4aca-be1e-fc765532bef2.png",
+      "sha256": "c94ead8281407833752cc416e4efae4cb3b3edd8e784c206646498c94aba2fb4",
+      "metadata": "metadata/908.json",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；主要採 3:2 橫向構圖；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "現代校園美術教室，一名學生故意撕裂同學的畫作後，老師和同學露出強烈而嚴肅的不贊同表情，伸手保護破碎畫作並阻止錯誤行為，犯錯學生低頭羞愧；畫面安全、不含暴力，清楚表現對不當行為的深切厭惡。",
+      "alt": "美術教室裡同學和老師嚴肅制止撕毀畫作的行為，保護破碎作品，犯錯學生低頭反省。",
+      "review": "reviews/908.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/908.webp"
+    }
+  ]
+}
