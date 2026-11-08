@@ -5092,20 +5092,119 @@
     "901": {
       "no": 901,
       "word": "精益求精",
-      "path": "/workspace/generated_images/exec-f679c537-4cf4-4817-b39a-6403b5da3cb4.png",
+      "path": "/workspace/generated_images/exec-884372a0-cb0c-4e4a-8ce7-870efe824456.png",
       "passed": true,
-      "reviewer": "/root/visual_review",
-      "reviewed_at": "2026-11-08T04:26:00.650679+00:00",
-      "meaning": "教育部釋義為事情已相當美好，仍設法使其更加美好。畫面中木鳥已光滑完整並有精緻羽毛，師傅仍以細砂紙細磨羽翼；旁邊兩件完整木鳥由簡到繁，清楚表現好還要更好，而非修補破損或初步製作。",
+      "reviewer": "independent-visual-review-901",
+      "reviewed_at": "2026-11-08T02:25:00Z",
       "checks": {
-        "recognizability": "精緻成品與仍持續打磨的動作形成主要辨識線索，孩子專注觀看，符合現代技藝學習情境；手機尺寸下主要動作清楚。",
-        "anatomy": "兩人均有兩條合理連接的手臂。師傅握砂紙手部指節自然，拇指局部遮擋合理；另一手從鳥身下方托住物件，手指互相遮擋合理，未見多指或融合。孩子雙手托腮、手腕與手肘連接自然。下肢不在構圖內，無不合理斷肢暗示。",
-        "contact": "砂紙邊緣貼在木鳥羽翼上，托鳥的手掌與鳥腹接觸，孩子雙肘落在工作桌後方；握持與支撐清楚。",
-        "structures": "木鳥為無腳的雕刻擺件，桌上兩件固定在圓木底座，均穩定。工作桌平整，鑿刀、刷子、銼刀和砂紙置於桌面，牆上工具有合理刀柄和刀身。無動物、車輛或機械異常。",
-        "physics": "木鳥由手托持，底座鳥與工具由桌面支撐，重力合理；工作桌、窗格及背景架透視可接受。沒有水流或輪胎項目。",
-        "style": "1536×1024為3:2橫向。可見鉛筆輪廓、細密彩鉛疊色與紙張顆粒，柔和水彩配色及米白紙紋符合要求。",
-        "text": "實際查看未見可讀文字、成語答案、品牌、浮水印或不當內容。",
-        "alt": "替代文字描述師傅細磨已精巧木鳥、桌上完整作品與孩子觀察，與實際畫面相符；不包含完整成語答案。"
+        "meaning": "pass: three progressively refined glider versions and careful final adjustment clearly show improving something already good",
+        "anatomy": "pass: visible people have coherent heads, limbs, hands, feet and joints; no extra limbs",
+        "pose_contact": "pass: seated and leaning poses, hands on tools and glider, and table contact are plausible",
+        "objects_perspective_physics": "pass: gliders, rulers, scissors, tools and table supports have coherent structures, perspective and contact",
+        "aspect_ratio": "pass: 1536x1024 3:2 landscape",
+        "style": "pass: graphite pencil linework, soft watercolor, colored-pencil layering and ivory paper texture",
+        "content": "pass: no readable text, answer, logo, brand, watermark or inappropriate content",
+        "alt": "pass: accurately describes the visible progressive glider improvement without using the full idiom answer"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "902": {
+      "no": 902,
+      "word": "摧枯拉朽",
+      "path": "/workspace/generated_images/exec-5289ddd6-9afb-4816-a61c-aa4339f41ed3.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-902",
+      "reviewed_at": "2026-11-08T02:25:00Z",
+      "checks": {
+        "meaning": "pass: the student easily pulls apart and removes a visibly rotten fallen branch during cleanup, clearly conveying accomplishing something with little effort",
+        "anatomy": "pass: all visible people have coherent heads, limbs, hands and feet with no extra limbs or malformed joints",
+        "pose_contact": "pass: both gloved hands plausibly grip the branch, feet are grounded, and the branch rests and breaks with believable contact",
+        "objects_perspective_physics": "pass: branch grain, break point, leaves, tree, path, broom and bag have coherent structure, perspective and gravity",
+        "aspect_ratio": "pass: 1536x1024 3:2 landscape",
+        "style": "pass: graphite pencil linework, soft watercolor, colored-pencil layering and ivory paper texture",
+        "content": "pass: no readable text, answer, logo, brand, watermark or inappropriate content",
+        "alt": "pass: the supplied alt accurately describes the visible cleanup scene without using the full idiom answer"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "903": {
+      "no": 903,
+      "word": "慷慨解囊",
+      "path": "/workspace/generated_images/exec-591e3b7a-d994-41bf-84b8-d76c366b2607.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-903",
+      "reviewed_at": "2026-11-08T02:30:00Z",
+      "checks": {
+        "meaning": "pass: family members willingly donate coins, food and supplies at a school charity drive, clearly expressing generous financial and material support",
+        "anatomy": "pass: visible people have coherent heads, limbs, hands and feet; no extra limbs or malformed joints found",
+        "pose_contact": "pass: coins, jar, can, basket and boxes are held or supported plausibly; donor and volunteer gestures are coherent",
+        "objects_perspective_physics": "pass: transparent jar, stacked coins, cans, basket and cardboard boxes have plausible structure, balance and perspective",
+        "aspect_ratio": "pass: 1536x1024 3:2 landscape",
+        "style": "pass: graphite pencil linework, soft watercolor, colored-pencil layering and ivory paper texture",
+        "content": "pass: no readable text, answer, logo, brand, watermark or inappropriate content",
+        "alt": "pass: accurately describes the visible donation scene without using the full idiom answer"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "904": {
+      "no": 904,
+      "word": "按兵不動",
+      "path": "/workspace/generated_images/exec-7ccce7d4-b5ee-4cab-9032-d47c5881caa8.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-904",
+      "reviewed_at": "2026-11-08T03:00:00Z",
+      "checks": {
+        "meaning": "pass: the foreground team deliberately keeps its robot behind the starting line while studying strategy and signaling wait; another robot moves in the distance",
+        "anatomy": "pass: visible people have coherent heads, limbs, hands and feet; no extra or malformed limbs found",
+        "pose_contact": "pass: raised stop hand, seated poses, robot wheels and floor contact are plausible",
+        "objects_perspective_physics": "pass: robot wheels, starting line, strategy board, arena barriers and perspective are coherent",
+        "aspect_ratio": "pass: 1536x1024 3:2 landscape",
+        "style": "pass: graphite pencil linework, soft watercolor, colored-pencil layering and ivory paper texture",
+        "content": "pass: no readable text, answer, logo, brand, watermark or inappropriate content",
+        "alt": "pass: accurately describes the visible waiting team and strategy review without using the full idiom answer"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "907": {
+      "no": 907,
+      "word": "蚍蜉撼樹",
+      "path": "/workspace/generated_images/exec-51a2f472-d22b-4113-98b7-e14f563916a3.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-907",
+      "reviewed_at": "2026-11-08T04:05:00Z",
+      "checks": {
+        "meaning": "pass: a very small robot attempts to move a massive tree trunk, with scale contrast and mentor explanation clearly communicating an overmatched, self-important attempt",
+        "anatomy": "pass: foreground and background people have coherent heads, limbs, hands and feet; no extra limbs or malformed joints found",
+        "pose_contact": "pass: kneeling student, teacher gesture, robot wheels and scissor lift have plausible contact and balance",
+        "objects_perspective_physics": "pass: robot wheels rest on the floor, lift meets the trunk, safety boundary and block supports are coherent; the impossible outcome is intentional idiom content",
+        "aspect_ratio": "pass: 1536x1024 3:2 landscape",
+        "style": "pass: graphite pencil linework, soft watercolor, colored-pencil layering and ivory paper texture",
+        "content": "pass: no readable text, answer, logo, brand, watermark or inappropriate content",
+        "alt": "pass: metadata alt accurately describes the visible small robot, giant trunk, model and safety boundary without using the full idiom answer"
+      },
+      "issues": [],
+      "regenerate": false
+    },
+    "908": {
+      "no": 908,
+      "word": "深惡痛絕",
+      "path": "/workspace/generated_images/exec-2aa1cfc1-b9fb-4aca-be1e-fc765532bef2.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-908",
+      "reviewed_at": "2026-11-08T04:08:00Z",
+      "checks": {
+        "meaning": "pass: teacher and classmates show intense disapproval toward the deliberate tearing of a classmate's artwork, clearly communicating deep abhorrence of wrongdoing",
+        "anatomy": "pass: visible people have coherent heads, limbs, hands and feet; no extra or malformed limbs found",
+        "pose_contact": "pass: hands rest plausibly on the artwork and table, raised stop hand and seated poses have reasonable balance",
+        "objects_perspective_physics": "pass: torn artwork, paper fragments, table and art supplies have coherent structure and perspective",
+        "aspect_ratio": "pass: 1536x1024 3:2 landscape",
+        "style": "pass: graphite pencil linework, soft watercolor, colored-pencil layering and ivory paper texture",
+        "content": "pass: no readable text, answer, logo, brand, watermark or inappropriate content",
+        "alt": "pass: accurately describes the visible scene without using the full idiom answer"
       },
       "issues": [],
       "regenerate": false

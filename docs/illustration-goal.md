@@ -20,3 +20,5 @@
 - 每新增 50 張已登錄且通過獨立驗證的插圖，凍結含編號、原圖路徑、SHA-256、提示、替代文字與 review 的 manifest；保留既有備份並推送 GitHub 原圖備份分支。通過 `git diff --check` 與整合測試後，只 stage manifest 列出的通過驗證 WebP 及網站文件，推送 `main` 並核對遠端。未滿 50 張時逐張保存持久化進度；若開始或接續時發現網站落後於本機有效圖庫，立即以現有有效差異做同步發布，不等湊滿 50 張。最後不足 50 張時仍照樣備份發布。
 
 現有工作區為 `/workspace/chengyu`。若需網站測試，先確認本機 8002 port 是否已有自己的測試伺服器；沒有時從儲存庫根目錄執行 `python3 -m http.server 8002 --bind 127.0.0.1`。完整整合檢查為 `TEST_BASE_URL=http://127.0.0.1:8002 node tests/illustrations.cjs`；不要把尚未跑過的測試記成通過。
+
+佇列恢復與流水線收尾規則：每次循環先讀取 queue-state、metadata、review 與 `data/illustrations.json`，逐一恢復 active claim。review 存在且 `passed=true` 且 path 完全一致時，立即執行 `register_reviewed.py`；review 超過 120 秒未出現時，由總控直接查看原圖完成驗證；review 失敗則保留紀錄並依缺陷重製。只有登錄成功後才能釋放 claim，不得在通過 review 尚未登錄時結束回合。最多保留 3 張待驗圖片，驗證延遲不得阻塞下一張產圖；每張必須完成 PNG、metadata、review、登錄與釋放 claim。每回合結束前強制核對 active claim、未登錄、未發布、本機 catalog、GitHub main catalog 與 50 張批次計數。

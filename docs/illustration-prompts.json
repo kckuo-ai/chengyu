@@ -4937,9 +4937,39 @@
     },
     "901": {
       "word": "精益求精",
-      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website. Landscape 3:2, modern everyday setting, original people in present-day casual clothes. NO text, letters, numerals, titles, logos, watermarks or identifiable existing characters. Communicate the specific meaning through clear actions and relationships, suitable for elementary-school readers and mobile size. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain and hatching on warm ivory textured paper. Restrained natural grass greens, pale sky blues, warm earthy browns, plenty of ivory breathing room. No flat digital color blocks, no glossy shading, no 3D, no imitation of any named artist. Scene: ",
-      "scene_prompt": "Modern woodworking classroom. An adult craftsperson is refining an ALREADY beautifully finished small wooden songbird sculpture: its shape and layered wing feathers are already elegant and smooth, and the person patiently buffs the final tiny feather edge with a small piece of fine sandpaper held naturally between fingers. The other hand securely supports the bird resting on a stable workbench. Beside it, two earlier equally good versions show progressive refinement, from a polished simple bird to a polished detailed bird. A child apprentice looks closely with admiration, learning to keep improving even after achieving excellent work. Show clearly fine finishing, not repairing a broken object and not working on a rough unfinished block. Natural human anatomy, five fingers per visible hand, sound wrist joints, hands in direct contact with bird and sandpaper, stable tools lying flat on bench. Three-quarter view with generous space, emphasis on the careful contact and refined bird feathers. Landscape exactly 3:2. No writing, labels, numerals, letters, brands, logos or watermarks. Graphite pencil linework, translucent muted watercolor, colored-pencil hatching, visible warm ivory paper texture.",
-      "alt": "木工師傅仔細打磨已經精巧光滑的木鳥羽毛邊緣，桌上較早的作品也很完整，孩子在旁專心學習。"
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；主要採 3:2 橫向構圖；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "現代校園創客教室，學生把同一架手作紙木滑翔機做成三個逐步改良的版本，從基礎原型到更精巧的成品依序放在工作桌上；他用尺仔細調整最後一架，導師微笑、同學專注觀看，清楚呈現好還要更好。",
+      "alt": "學生在創客教室逐步改良三架手作滑翔機，最後一架更精巧，導師和同學在旁觀看。"
+    },
+    "902": {
+      "word": "摧枯拉朽",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；主要採 3:2 橫向構圖；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "現代校園社區清潔活動，一名戴手套的學生輕鬆拉開腐朽的落枝並清出小路，樹枝乾脆裂開、幾乎不費力，同學在旁安全地歡呼整理落葉；畫面表現事情極容易完成，不含危險或傷害。",
+      "alt": "學生在校園清潔活動中輕鬆拉開腐朽落枝清出小路，同學在旁整理落葉並歡呼。"
+    },
+    "903": {
+      "word": "慷慨解囊",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；主要採 3:2 橫向構圖；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "現代校園公益募款活動，一家人毫不猶豫地把食物箱、日用品和硬幣放入捐贈籃與透明募款罐，志工微笑致謝，背景同學整理物資；慷慨捐助且不吝嗇的行動清楚可見。",
+      "alt": "一家人在校園公益活動中捐出食物、日用品和硬幣，志工微笑接受並整理物資。"
+    },
+    "904": {
+      "word": "按兵不動",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；主要採 3:2 橫向構圖；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "現代校園機器人競賽，學生隊伍把自己的小型機器人穩穩停在起跑線後，隊長舉起平靜的停止手勢並研究策略板；遠處另一隊正在行動，這隊刻意暫不啟動，清楚表現暫時不採取行動。",
+      "alt": "機器人競賽中，學生隊伍讓機器人停在起跑線後，隊長舉手示意先等待並研究策略。"
+    },
+    "907": {
+      "word": "蚍蜉撼樹",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；主要採 3:2 橫向構圖；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "現代校園科展，一台很小的學生自製搬運機器試圖推動巨大的樹幹展示物，孩子與導師指向比例模型和安全界線，巨大目標與渺小力量形成清楚對比，表現不自量力，沒有危險或傷害。",
+      "alt": "小型學生機器在科展中試圖推動巨大的樹幹，導師和同學指出比例模型與安全界線。"
+    },
+    "908": {
+      "word": "深惡痛絕",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；主要採 3:2 橫向構圖；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "現代校園美術教室，一名學生故意撕裂同學的畫作後，老師和同學露出強烈而嚴肅的不贊同表情，伸手保護破碎畫作並阻止錯誤行為，犯錯學生低頭羞愧；畫面安全、不含暴力，清楚表現對不當行為的深切厭惡。",
+      "alt": "美術教室裡同學和老師嚴肅制止撕毀畫作的行為，保護破碎作品，犯錯學生低頭反省。"
     }
   }
 }
