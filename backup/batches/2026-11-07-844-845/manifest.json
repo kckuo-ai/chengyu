@@ -1,0 +1,23 @@
+{
+  "description": "Frozen batch of 1 independently reviewed and registered idiom illustrations, catalog 844 to 845. Prior backups retained.",
+  "baseline_catalog_count": 844,
+  "final_catalog_count": 845,
+  "count": 1,
+  "created_at": "2026-11-08T01:32:58.959815+00:00",
+  "entries": [
+    {
+      "no": 896,
+      "word": "恃才傲物",
+      "original": "originals/896.png",
+      "original_source_path": "/workspace/generated_images/exec-f7bc86e1-141a-453c-a2ea-6dfd157a43ac.png",
+      "sha256": "0fca67b1be47dcc4ca1a1c659517c3d9ab506b4fa685f1852007c68311d13319",
+      "metadata": "metadata/896.json",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；主要採 3:2 橫向構圖；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "現代校園發明展，男孩憑藉自己製作成功的機器人而抱臂抬頭、傲慢揮手拒絕同學合作；老師和同學伸手示意團隊合作，他卻目空一切，讓才能與驕傲自大的態度同時清楚可見。",
+      "alt": "男孩站在自己製作的機器人旁抱臂拒絕合作，老師和同學試著邀請他加入團隊。",
+      "review": "reviews/896.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/896.webp"
+    }
+  ]
+}
