@@ -1,0 +1,23 @@
+{
+  "description": "Frozen batch of 1 independently reviewed and registered idiom illustrations, catalog 855 to 856. Prior backups retained.",
+  "baseline_catalog_count": 855,
+  "final_catalog_count": 856,
+  "count": 1,
+  "created_at": "2026-11-08T07:06:38.773974+00:00",
+  "entries": [
+    {
+      "no": 909,
+      "word": "斬釘截鐵",
+      "original": "originals/909.png",
+      "original_source_path": "/workspace/generated_images/exec-8794d860-71dd-4893-a505-287ac9eb1e6d.png",
+      "sha256": "092d2d1ea589c4240f613e1d6cb5377b64d343a3b53efa799388666e5422ed6d",
+      "metadata": "metadata/909.json",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；主要採 3:2 橫向構圖；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "現代校園團隊挑戰，隊長果斷把最後一塊拼圖放入桌上的唯一選定路線，隊友堅定點頭並準備一起前往目標；兩張沒有文字的替代路線卡放在旁邊，清楚表現說話辦事堅決果斷、毫不猶豫。",
+      "alt": "學生隊長果斷把最後一塊拼圖放入選定路線，隊友堅定點頭，替代路線卡放在一旁。",
+      "review": "reviews/909.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/909.webp"
+    }
+  ]
+}
