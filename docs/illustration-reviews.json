@@ -6293,6 +6293,54 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "965": {
+      "no": 965,
+      "word": "化險為夷",
+      "path": "/workspace/generated_images/exec-8b38e893-2da7-46a5-87b7-c57a649635e8.png",
+      "passed": true,
+      "reviewer": "verify_965_now",
+      "reviewed_at": "2026-11-09T10:06:57Z",
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "notes": "A guide, family group, and safety worker are shown safely traversing a dangerous mountain rope bridge; the scene communicates turning danger into safety."
+        },
+        "anatomy": {
+          "passed": true,
+          "notes": "Five hikers and one safety worker have coherent proportions and limbs with no conspicuous malformed anatomy."
+        },
+        "pose_contact": {
+          "passed": true,
+          "notes": "Feet contact the bridge planks and hands visibly hold or brace against the side ropes/railings."
+        },
+        "bridge_rope_support_physics": {
+          "passed": true,
+          "notes": "The plank bridge, vertical posts, hand ropes, lower support members, anchors, and rocky ravine are spatially coherent and communicate real support."
+        },
+        "perspective": {
+          "passed": true,
+          "notes": "Bridge rails and planks recede consistently toward the mountain path; depth is clear."
+        },
+        "aspect_ratio": {
+          "passed": true,
+          "notes": "Image is 1536x1024, exactly 3:2."
+        },
+        "style": {
+          "passed": true,
+          "notes": "Consistent bright watercolor storybook illustration style with clear focal action."
+        },
+        "readable_text_brand_watermark": {
+          "passed": true,
+          "notes": "No unwanted text, logo, brand mark, or watermark is visible."
+        },
+        "alt": {
+          "passed": true,
+          "text": "A hiking guide leads a smiling family across a supported rope bridge over a rocky mountain stream while a safety worker stands nearby, turning a dangerous crossing into a safe one."
+        }
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
