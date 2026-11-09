@@ -6136,6 +6136,25 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "960": {
+      "no": 960,
+      "word": "大名鼎鼎",
+      "path": "/workspace/generated_images/exec-f11a9b59-5654-491e-b7ab-6a6b13cb2eb5.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer /root/verify_960_now",
+      "reviewed_at": "2026-11-09T05:17:23.793886030+00:00",
+      "checks": {
+        "original_png_inspection": "passed: directly viewed original 1536x1024 PNG (3:2)",
+        "meaning_and_causality": "passed: a central presenter unveils a standout solar robot while a large crowd applauds, photographs it, and watches attentively, clearly conveying public renown and fame",
+        "anatomy_and_pose": "passed: people have coherent heads, torsos, arms, hands, and expressive poses; no conspicuous malformed anatomy or impossible contact",
+        "objects_and_physics": "passed: robot wheels, chassis, solar panel, table, camera, phone, tents, and greenhouse have coherent structure, support, and perspective",
+        "style": "passed: warm watercolor and colored-pencil anime illustration with textured paper grain, consistent with the visual series",
+        "text_brand_suitability": "passed: no readable text, logos, brands, watermark, or inappropriate content",
+        "alt": "passed: visible scene can be accurately described as a celebrated inventor presenting a notable solar-powered robot to an enthusiastic crowd, without stating the idiom"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
