@@ -6197,6 +6197,54 @@
       "issues": [],
       "regenerate": false,
       "alt": "大批穿著不同顏色制服的救援人員與救護車、消防車和自行車隊在城市廣場列隊前進，呈現浩大的聲勢。"
+    },
+    "963": {
+      "no": 963,
+      "word": "左顧右盼",
+      "path": "/workspace/generated_images/exec-70a2f4ae-fac9-43c5-b535-f5cb76d8ad14.png",
+      "passed": true,
+      "reviewer": "Codex",
+      "reviewed_at": "2026-11-09T08:58:10Z",
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "notes": "The boy is centered at a crosswalk with translucent side profiles and motion marks showing him looking left and right, clearly conveying 左顧右盼."
+        },
+        "anatomy": {
+          "passed": true,
+          "notes": "The main figure, side-profile echoes, crossing guard, pedestrians, and vehicles have coherent anatomy with no material distortions."
+        },
+        "pose_contact": {
+          "passed": true,
+          "notes": "The main pose and head-turning gesture read clearly; hands, backpack straps, and crossing guard baton have plausible contact."
+        },
+        "vehicle_lanes_wheels": {
+          "passed": true,
+          "notes": "Cars and bus occupy the roadway behind the crosswalk with visible, plausible wheels and lane positioning."
+        },
+        "perspective_physics": {
+          "passed": true,
+          "notes": "Crosswalk, curb, bollards, buildings, trees, and traffic follow a consistent street perspective and lighting."
+        },
+        "aspect_ratio": {
+          "passed": true,
+          "notes": "Image is 1536x1024, exactly 3:2."
+        },
+        "style": {
+          "passed": true,
+          "notes": "Consistent warm watercolor/anime illustration style throughout."
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "notes": "No readable text, prominent brand marks, or watermark is visible."
+        },
+        "alt": {
+          "passed": true,
+          "text": "A schoolboy stands at a sunny city crosswalk, hesitating as translucent echoes show him looking left and right; a crossing guard gestures nearby while cars and a bus wait along the tree-lined street."
+        }
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
