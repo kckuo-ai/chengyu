@@ -6542,6 +6542,55 @@
       "issues": [],
       "regenerate": false,
       "alt": "老人坐在街邊凝視一張記錄往昔鄰里互助的老照片；街上低頭看手機的路人漠然走過散落的蔬菜，只有一名男孩和紅背心外送員幫忙收拾。"
+    },
+    "975": {
+      "no": 975,
+      "word": "九霄雲外",
+      "path": "/workspace/generated_images/exec-7727ff27-cff8-4bc4-9efa-996507d92c09.png",
+      "passed": true,
+      "reviewer": "Codex",
+      "reviewed_at": "2026-11-09T18:01:08Z",
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "details": "A mountaintop observatory above a sea of clouds, with children looking into the star-filled sky, clearly conveys an extremely high, remote place beyond the nine heavens."
+        },
+        "anatomy": {
+          "passed": true,
+          "details": "All visible children have coherent faces, limbs, hands, and proportions; no obvious duplicated or malformed anatomy."
+        },
+        "pose_contact": {
+          "passed": true,
+          "details": "The children have readable poses: one looks through the telescope, one points upward, one writes, and one leans on the railing. Hands, faces, notebook, and railing contacts read naturally."
+        },
+        "telescope_support_railing_physics": {
+          "passed": true,
+          "details": "The telescope tube is attached to a visible pivot mount and tripod, and the curved observatory railing has continuous posts and rails with plausible perspective."
+        },
+        "high_altitude_perspective": {
+          "passed": true,
+          "details": "Clouds and distant mountain peaks sit far below the observatory deck, while the broad star field and moon reinforce the elevated viewpoint."
+        },
+        "aspect_ratio": {
+          "passed": true,
+          "details": "Image is 1536x1024, a 3:2 landscape composition."
+        },
+        "style": {
+          "passed": true,
+          "details": "Cohesive warm watercolor/anime illustration with clean linework, atmospheric night sky, and consistent lighting."
+        },
+        "readable_text_brand_watermark": {
+          "passed": true,
+          "details": "No unwanted readable text, logos, brand marks, or watermarks are visible."
+        },
+        "alt": {
+          "passed": true,
+          "text": "Children explore the stars at a mountaintop observatory above a sea of clouds: one peers through a telescope while another points toward the moon and distant sky.",
+          "details": "Concise alt text identifies the subjects, action, and high-altitude setting relevant to the idiom."
+        }
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
