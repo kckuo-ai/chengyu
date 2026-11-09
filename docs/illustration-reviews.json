@@ -6407,6 +6407,54 @@
       "issues": [],
       "regenerate": false,
       "alt": "強風暴雨中的海邊市場，居民拉緊被風吹動的遮雨棚，救援人員堆放沙袋，樹木和棚布向側方飄搖。"
+    },
+    "969": {
+      "no": 969,
+      "word": "大智若愚",
+      "path": "/workspace/generated_images/exec-8057a0cf-e35a-43c0-9a18-2ea82c5c29ae.png",
+      "passed": true,
+      "reviewer": "Codex",
+      "reviewed_at": "2026-11-09T14:04:58Z",
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "notes": "A humble, apparently ordinary elder quietly demonstrates superior wisdom by repairing the robot while younger apprentices look puzzled and impressed, clearly conveying great wisdom appearing simple or foolish."
+        },
+        "anatomy": {
+          "passed": true,
+          "notes": "Human figures have coherent anatomy and facial expressions; robot anatomy and articulated hands are readable with no material deformities."
+        },
+        "pose_contact": {
+          "passed": true,
+          "notes": "The elder's hand visibly engages a connector/wiring area inside the robot, and surrounding observers have natural leaning and viewing poses."
+        },
+        "robot_wiring_tools_physics": {
+          "passed": true,
+          "notes": "Exposed multicolor wiring, circuit board, connector, screwdriver, pliers, solder spool, and parts are plausibly placed and grounded on the workbench."
+        },
+        "perspective": {
+          "passed": true,
+          "notes": "Workbench, figures, robot, and workshop background use consistent perspective and depth."
+        },
+        "aspect_ratio": {
+          "passed": true,
+          "notes": "Image is 1536x1024, exactly 3:2."
+        },
+        "style": {
+          "passed": true,
+          "notes": "Consistent warm hand-painted watercolor/anime workshop illustration style throughout."
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "notes": "No problematic readable text, logos, brand marks, or watermarks visible."
+        },
+        "alt": {
+          "passed": true,
+          "notes": "Scene is visually unambiguous and supports concise descriptive alt text."
+        }
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
