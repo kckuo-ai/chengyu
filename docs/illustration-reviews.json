@@ -6591,6 +6591,55 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "976": {
+      "no": 976,
+      "word": "立竿見影",
+      "path": "/workspace/generated_images/exec-e41e0bfa-5d45-4b6f-b7f6-752d8e10c2bb.png",
+      "passed": true,
+      "reviewer": "Codex",
+      "reviewed_at": "2026-11-09T19:04:45Z",
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "details": "A straight measuring pole is visibly erected on a marked ground board and casts an immediate, distinct shadow, directly conveying 立竿見影 (the effect appears as soon as the pole is set up)."
+        },
+        "anatomy": {
+          "passed": true,
+          "details": "The children and instructor have coherent faces, limbs, hands, and proportions; no obvious duplicated or malformed anatomy is visible."
+        },
+        "pole_base_shadow_contact": {
+          "passed": true,
+          "details": "The pole is visibly seated in a circular mount on the board, and the dark shadow begins at the pole's base and extends across the marked surface without a gap."
+        },
+        "sunlight_direction": {
+          "passed": true,
+          "details": "The sun is clearly shown in the upper right, with rays and highlights consistent with the pole's shadow projecting toward the lower left."
+        },
+        "perspective": {
+          "passed": true,
+          "details": "The board, radial markings, vertical pole, and shadow use coherent landscape perspective; the shadow direction and length read naturally for the depicted sun angle."
+        },
+        "aspect_ratio": {
+          "passed": true,
+          "details": "Image is 1536x1024, a 3:2 landscape composition."
+        },
+        "style": {
+          "passed": true,
+          "details": "Cohesive warm watercolor/anime illustration with clean linework, consistent lighting, and an appropriate educational park setting."
+        },
+        "readable_text_brand_watermark": {
+          "passed": true,
+          "details": "No unwanted readable text, logos, brand marks, or watermarks are visible."
+        },
+        "alt": {
+          "passed": true,
+          "text": "Children observe a red-and-white pole standing on a marked board as it casts a sharp shadow in the sunny park, while an instructor demonstrates the measurement.",
+          "details": "Concise alt text identifies the pole, immediate shadow, observers, and sunny demonstration relevant to the idiom."
+        }
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
