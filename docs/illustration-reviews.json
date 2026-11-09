@@ -6117,6 +6117,25 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "958": {
+      "no": 958,
+      "word": "阮囊羞澀",
+      "path": "/workspace/generated_images/exec-635b4120-8ec7-475f-a184-dcc8bfd035e5.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer /root/verify_958_now",
+      "reviewed_at": "2026-11-09T00:00:00+00:00",
+      "checks": {
+        "original_png_inspection": "passed: directly viewed original 1536x1024 PNG (3:2 landscape)",
+        "meaning_and_causality": "passed: student visibly opens an almost empty wallet containing only a few coins and looks embarrassed while a friend offers to share a full cafeteria lunch, clearly conveying financial embarrassment and lack of money",
+        "anatomy_and_pose": "passed: foreground students have coherent seated postures with visible arms, hands, faces, and eye-lines; the wallet and offered hand are clearly readable",
+        "objects_and_physics": "passed: wallet, coins, lunch tray, food compartments, cup, table, chairs, and cafeteria counter have plausible structure, contact, support, and perspective",
+        "style": "passed: warm graphite/pencil linework, watercolor washes, colored-pencil texture, and ivory paper grain match the requested children's educational illustration style",
+        "text_brand_suitability": "passed: no readable text, logos, brands, watermark, title, or inappropriate content",
+        "alt": "passed: supplied alt text accurately describes the visible student, nearly empty wallet, friend, cafeteria, and shared meal without stating the idiom"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
