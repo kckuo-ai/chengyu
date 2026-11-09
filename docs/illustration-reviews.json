@@ -6476,6 +6476,54 @@
       "issues": [],
       "regenerate": false,
       "alt": "中央男子孤單地站在會議桌旁，神情低落，五名同伴背對他陸續離開明亮的會議室。"
+    },
+    "972": {
+      "no": 972,
+      "word": "以逸待勞",
+      "path": "/workspace/generated_images/exec-529f3db2-b9c2-45cb-8401-d1980637719d.png",
+      "passed": true,
+      "reviewer": "/root/verify_972_rev2_now",
+      "reviewed_at": "2026-11-09T17:12:00Z",
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "notes": "The blue team has rested teammates waiting in the shade while the red runners approach in visibly strained, fatigued poses, clearly conveying waiting at ease for a weary opponent."
+        },
+        "anatomy": {
+          "passed": true,
+          "notes": "The runners and seated teammates have coherent heads, torsos, limbs, hands, and footwear with no distracting anatomical breaks."
+        },
+        "running_poses": {
+          "passed": true,
+          "notes": "The foreground blue runners and background red runners have readable, plausible mid-stride relay poses; the shaded teammates are credibly resting or standing ready."
+        },
+        "baton_contact": {
+          "passed": true,
+          "notes": "The foreground handoff is visibly shown: both blue runners' hands grip the same blue baton at overlapping ends, with the shaft contacting both hands in a plausible exchange."
+        },
+        "track_perspective_physics": {
+          "passed": true,
+          "notes": "Track lane lines and exchange area recede consistently; feet, shadows, and runners sit credibly on the track without obvious floating or intersection errors."
+        },
+        "aspect_ratio": {
+          "passed": true,
+          "notes": "Image is 1536 x 1024 (3:2)."
+        },
+        "style": {
+          "passed": true,
+          "notes": "The image consistently uses warm watercolor, graphite, and colored-pencil children's storybook illustration styling."
+        },
+        "readable_text_brand_watermark": {
+          "passed": true,
+          "notes": "No unwanted readable text, logos, branding, or watermark is visible."
+        },
+        "alt": {
+          "passed": true,
+          "notes": "The scene supports the supplied alt concept: one relay team rests and waits under a tree while a tired opposing team runs in and a rested teammate receives the baton."
+        }
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
