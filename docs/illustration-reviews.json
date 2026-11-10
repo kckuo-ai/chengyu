@@ -6722,6 +6722,27 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "981": {
+      "no": 981,
+      "word": "好事多磨",
+      "path": "/workspace/generated_images/exec-77b232e6-3352-4911-8e5d-733680b3d345.png",
+      "passed": true,
+      "reviewer": "/root/verify_981_now",
+      "reviewed_at": "2026-11-10T00:00:00Z",
+      "checks": {
+        "original_png_inspection": "passed: directly viewed original 1536x1024 PNG",
+        "meaning_and_progress": "passed: the upper sequence uses arrows to show repeated wedding-preparation setbacks (an unstable arch, a toppled cake/table setup, and rain disrupting decorations) followed by successful completion and a joyful wedding scene, clearly conveying that a good outcome required repeated overcoming of difficulties",
+        "anatomy_and_pose": "passed: foreground and inset figures have coherent heads, torsos, limbs, hands and celebratory/working poses; no conspicuous extra or missing limbs",
+        "arch_cake_decoration_contact_physics": "passed: floral arch elements attach plausibly to the frame, the cake tiers sit on a stand/table, fallen setup components are supported by the ground, and ribbons, chairs, tables and flowers have plausible contact, overlap and gravity relationships",
+        "aspect_ratio": "passed: image is 1536x1024, matching 3:2",
+        "style": "passed: consistent warm colored-pencil outlines, soft watercolor shading, paper texture and storybook illustration treatment throughout",
+        "text_brand_watermark": "passed: no readable text, brand marks, logos or watermark visible",
+        "alt": "passed: accurately describes the visible progression without printing the full idiom"
+      },
+      "issues": [],
+      "regenerate": false,
+      "alt": "A sequence of wedding preparations shows people assembling a flower arch, recovering from a toppled cake setup and rain-soaked decorations, then celebrating beneath a finished floral arch at a garden wedding."
     }
   }
 }
