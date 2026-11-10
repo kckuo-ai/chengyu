@@ -6743,6 +6743,26 @@
       "issues": [],
       "regenerate": false,
       "alt": "A sequence of wedding preparations shows people assembling a flower arch, recovering from a toppled cake setup and rain-soaked decorations, then celebrating beneath a finished floral arch at a garden wedding."
+    },
+    "982": {
+      "no": 982,
+      "word": "目光如炬",
+      "path": "/workspace/generated_images/exec-f13900e1-506d-492b-89ff-34a2db952860.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer /root/verify_982",
+      "reviewed_at": "2026-11-10T00:00:00Z",
+      "checks": {
+        "meaning_and_scene": "passed: the central researcher has a sharply focused, penetrating gaze and points decisively at a highlighted location on a detailed terrain map; yellow emphasis rays, the magnifier, layered maps and attentive colleagues reinforce keen insight and scrutiny.",
+        "anatomy_and_pose": "passed: the four researchers have coherent heads, torsos and visible limbs; the central pointing arm, hand and finger are readable and plausibly posed, with no obvious extra or malformed anatomy.",
+        "objects_and_physics": "passed: the map and layered contour sheets lie on the table, the magnifier rests on the map, and the pointing finger meets the highlighted map location; tabletop contact, perspective and scene depth are coherent.",
+        "aspect_ratio": "passed: original PNG is 1536x1024, a 3:2 landscape composition.",
+        "style": "passed: pencil-like outlines, watercolor and colored-pencil rendering over warm paper texture are consistent throughout.",
+        "text_brand_suitability": "passed: no readable text, answer, logo, brand or watermark is visible; content is suitable and non-graphic.",
+        "alt": "passed: accurately describes a focused researcher studying and pointing at a highlighted map with a magnifier and colleagues; does not include the idiom answer.",
+        "original_png_inspection": "passed: inspected the actual original PNG directly using view_image"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
