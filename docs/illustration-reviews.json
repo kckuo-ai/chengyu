@@ -6963,6 +6963,24 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "996": {
+      "no": 996,
+      "word": "年高德劭",
+      "path": "/workspace/generated_images/exec-e2943ea5-5d27-4392-89ea-2c2dc53a57da.png",
+      "passed": true,
+      "reviewer": "independent-visual-verifier-996-rev1",
+      "reviewed_at": "2026-11-10T00:00:00+00:00",
+      "checks": {
+        "meaning": "pass: 慈祥年長的園藝志工在社區花園示範照顧樹木，孩子專心記錄與種植，老師和鄰居恭敬聆聽，清楚呈現年長且品德受敬重的形象。",
+        "anatomy_pose_contact": "pass: 可辨識的人物四肢與關節大致自然；長者坐姿穩定，一手扶樹幹、一手講解，孩子蹲坐記錄或栽種，未見多餘、斷裂或不合理肢體。手部與筆、樹幹、土壤及鏟子接觸關係合理。",
+        "objects_physics_perspective": "pass: 樹幹連接地面土堆並向上長出枝葉；女孩握持小鏟翻土，旁側澆水壺與籃子置於地面，工具、人物及花圃透視與支撐關係合理，未見明顯穿插或漂浮。",
+        "style": "pass: 具鉛筆手繪輪廓、柔和水彩暈染、彩色鉛筆疊色及暖米白紙張紋理，符合兒童教育插畫風格。",
+        "text_brand_safety": "pass: 畫面沒有可讀文字、成語答案、品牌標誌或浮水印，內容健康且適合兒童。",
+        "alt": "pass: 畫面與替代文字所述的慈祥年長園藝志工教孩子種樹、旁人聆聽相符，未直接呈現成語文字。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
