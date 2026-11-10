@@ -6905,6 +6905,25 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "993": {
+      "no": 993,
+      "word": "五光十色",
+      "path": "/workspace/generated_images/exec-ec2e4b2b-6990-4094-8196-9dce79b6a50b.png",
+      "passed": true,
+      "reviewer": "independent_visual_reviewer",
+      "reviewed_at": "2026-11-10T09:08:44Z",
+      "checks": {
+        "meaning_recognition": "pass: the richly colored, brightly lit night festival clearly conveys 五光十色 (brilliant, varied colors and dazzling light).",
+        "composition": "pass: wide layered festival scene has a clear foreground, middle ground, and stage/background, with many varied colorful elements without obscuring the main idea.",
+        "people_hands_feet": "pass: visible people have coherent poses and generally plausible hands, arms, legs, and feet; no distracting anatomical errors.",
+        "object_structure": "pass: lanterns, stalls, stage, instruments, artwork, aquarium, microscope, globe, and science display are recognizable and structurally coherent.",
+        "contact_perspective_physics": "pass: figures stand on the ground and interact plausibly with stalls and objects; tables, stage, hanging lights, and perspective are consistent, with no major floating or intersection errors.",
+        "style": "pass: consistent child-friendly pencil/colored-pencil and soft watercolor illustration style with warm paper texture.",
+        "text_brand_watermark": "pass: no inappropriate readable text, branding, or watermark is visible."
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
