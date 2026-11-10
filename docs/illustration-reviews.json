@@ -6763,6 +6763,26 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "984": {
+      "no": 984,
+      "word": "目光如豆",
+      "path": "/workspace/generated_images/exec-e7355487-30a6-43f9-a5e7-bd303ad69d97.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer /root/verify_984",
+      "reviewed_at": "2026-11-10T02:01:11Z",
+      "checks": {
+        "meaning_and_scene": "passed: the foreground man peers through a tiny telescope at a single percent card while colleagues examine a broad city map and planning materials, clearly conveying a restricted, narrow field of vision and limited perspective.",
+        "anatomy_and_pose": "passed: the people have coherent heads, torsos and limbs; the foreground man's eye-to-telescope pose and hands holding the telescope and card are readable without obvious malformed anatomy.",
+        "objects_and_physics": "passed: the telescope is held to the man's eye and aimed toward the card, the card and papers are supported over the tabletop, and the map, easel and other materials have coherent contact, perspective and depth.",
+        "aspect_ratio": "passed: original PNG is 1536x1024, a 3:2 landscape composition.",
+        "style": "passed: warm paper texture, pencil-like linework and watercolor/colored-pencil rendering are consistent across the scene.",
+        "text_brand_suitability": "passed: no readable words, answer text, logo, brand or watermark is visible; the isolated percent symbol is a generic pictorial mark and the scene is non-graphic.",
+        "alt": "passed: accurately describes a man using a small telescope to inspect a percent card while others study a large city map around a table; does not include the idiom answer.",
+        "original_png_inspection": "passed: inspected the actual original PNG directly using view_image"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
