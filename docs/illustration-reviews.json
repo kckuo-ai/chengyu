@@ -6783,6 +6783,26 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "985": {
+      "no": 985,
+      "word": "全軍覆沒",
+      "path": "/workspace/generated_images/exec-406f6e72-5da7-49b4-94d4-48bd8b3cfe48.png",
+      "passed": true,
+      "reviewer": "independent visual reviewer /root/verify_985_now",
+      "reviewed_at": "2026-11-10T03:10:00Z",
+      "checks": {
+        "meaning_and_scene": "passed: the entire student robotics team is visibly dejected around a competition table, with heads bowed and a stalled, disassembled robot project and scattered parts; the robotics-course setting makes their complete team defeat legible without relying on text.",
+        "anatomy_and_pose": "passed: all people have coherent heads, torsos and limbs; slumped poses, hands on faces and folded arms read naturally, with no obvious malformed anatomy or extra limbs.",
+        "objects_and_physics": "passed: robot chassis, wheels, motors, wires, tools and loose fasteners rest plausibly on the tabletop; the course robots, gates, ramps and track lines have consistent perspective and contact with the arena.",
+        "aspect_ratio": "passed: original PNG is 1536x1024, a 3:2 landscape composition.",
+        "style": "passed: warm paper texture, pencil-like outlines and watercolor/colored-pencil rendering are consistent throughout the scene.",
+        "text_brand_suitability": "passed: no readable words, answer text, logo, brand or watermark is visible; the image is suitable and non-graphic.",
+        "alt": "passed: accurately describes a dejected student robotics team gathered around scattered robot parts and a competition course; does not include the idiom answer.",
+        "original_png_inspection": "passed: inspected the actual original PNG directly using view_image"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
