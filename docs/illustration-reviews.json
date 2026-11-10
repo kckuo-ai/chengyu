@@ -6885,6 +6885,26 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "992": {
+      "no": 992,
+      "word": "刮目相看",
+      "path": "/workspace/generated_images/exec-57c916e0-aaf8-4ec2-ae52-c43e8c0edff1.png",
+      "passed": true,
+      "reviewer": "/root/verify_992_now",
+      "reviewed_at": "2026-11-10T00:00:00Z",
+      "checks": {
+        "meaning": "passed: a student presents an inventive wheeled robot while classmates and the teacher react with wide-eyed surprise, smiles, and focused attention, clearly showing that they now view the student with fresh respect and admiration",
+        "anatomy": "passed: visible students and teacher have coherent heads, torsos, arms, hands, and poses; no obvious extra or missing human limbs",
+        "robot_wheels_wiring_contact": "passed: the robot has a readable chassis, four visible wheels with plausible axle/body attachment, articulated arm, camera head, and colored wiring; wheels and the robot base sit on the tabletop without obvious floating or severe interpenetration",
+        "perspective_physics": "passed: table, robot, solar panel, and figures use consistent depth and occlusion; the solar panel and lamp display are supported on the table and the robot is grounded on its surface",
+        "aspect_ratio": "passed: original PNG is 1536x1024, exactly 3:2",
+        "style": "passed: unified warm colored-pencil and soft watercolor children’s illustration with paper grain and clear linework",
+        "text_brand_watermark": "passed: no readable text, brand marks, logos, or watermark visible; diagrams and screens contain only non-readable marks",
+        "alt": "passed: accurately describes the student’s robot demonstration and the surrounding classmates’ and teacher’s newly impressed reactions without reproducing the idiom"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
