@@ -8273,6 +8273,25 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1071": {
+      "no": 1071,
+      "word": "動輒得咎",
+      "path": "/workspace/generated_images/exec-03f641b9-eee2-459e-96ad-a358eb3ef42a.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "reviewed_at": "2026-11-12T00:00:00Z",
+      "checks": {
+        "meaning": "中央學生在完成模型時被多方指出各種小問題，呈現處境困難、稍有動作就受責難的詞義。",
+        "composition": "中央人物、模型和四周指向及圖示集中形成壓力來源，情境清楚且未嘲弄。",
+        "people_limbs": "五名人物的手腳連接自然，指示、操作和思考姿勢合理。",
+        "objects_and_structure": "景觀模型、橋、風車、房屋與圖示卡結構完整，沒有危險器具。",
+        "contact_perspective": "學生手部與模型接觸自然，模型穩放桌面，人物與桌面透視一致。",
+        "text_brand_watermark": "圖示卡沒有可讀文字、品牌或浮水印，未洩漏答案。",
+        "inappropriate_content": "無血腥、暴力或其他不適內容；表情為課堂壓力而非羞辱。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
