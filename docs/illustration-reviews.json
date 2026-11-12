@@ -8596,6 +8596,25 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1090": {
+      "no": 1090,
+      "word": "不得要領",
+      "path": "/workspace/generated_images/exec-c48f0508-284f-4f31-a82a-5fd92e836702.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "reviewed_at": "2026-11-12T19:18:00+00:00",
+      "checks": {
+        "meaning": "散亂資料讓學生無法抓住主旨，老師與同學則指向中心圖和關鍵連結，詞義對照清楚。",
+        "composition": "左側混亂資料與困惑學生、右側中心圖和引導手勢構成明確閱讀動線。",
+        "people_limbs": "三名人物的頭部、手臂與腿部連接自然，抓頭、指示與書寫姿勢合理。",
+        "objects_and_structure": "拼圖、箭頭、資料卡、中心圖與桌面結構清楚，圖示關係易理解。",
+        "contact_perspective": "人物與桌面、鉛筆和紙張接觸合理，物件放置穩定，透視一致。",
+        "text_brand_watermark": "畫面無可讀文字、品牌或浮水印，圖卡僅有不可讀圖示。",
+        "inappropriate_content": "無血腥、暴力、裸露或其他不適內容，教師以友善方式協助。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
