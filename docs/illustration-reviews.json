@@ -8026,6 +8026,25 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1058": {
+      "no": 1058,
+      "word": "一言難盡",
+      "path": "/workspace/generated_images/exec-95982065-ba45-4c59-b685-e32759ba81f5.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "reviewed_at": "2026-11-12T00:00:00Z",
+      "checks": {
+        "meaning": "桌面堆疊多階段模型、照片、工具與流程圖，學生需要大量手勢解釋，清楚表現事情複雜而難以簡單說完。",
+        "composition": "人物圍繞凌亂但有關聯的專案桌，中央學生與多項資料形成視覺焦點。",
+        "people_limbs": "四名人物的肢體數量與連接自然，手勢符合說明、聆聽與思考。",
+        "objects_and_structure": "水培箱、太陽能板、風扇、管線、相片和流程圖均有合理結構與關聯。",
+        "contact_perspective": "物件穩定放置於桌面，人物坐姿與手部接觸合理，桌面透視一致。",
+        "text_brand_watermark": "紙張上僅有不可讀的手寫肌理與圖示，沒有可讀文字、品牌或浮水印，也未洩漏成語答案。",
+        "inappropriate_content": "無血腥、暴力、裸露或其他不適內容。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
