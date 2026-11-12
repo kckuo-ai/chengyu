@@ -8406,6 +8406,25 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1078": {
+      "no": 1078,
+      "word": "輕諾寡信",
+      "path": "/workspace/generated_images/exec-f40f67ab-7465-481c-a925-a15829460062.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "reviewed_at": "2026-11-12T17:40:00+00:00",
+      "checks": {
+        "meaning": "上下對照清楚呈現學生先輕易承諾帶材料、隔天卻空手而來，組員等待且模型未完成。",
+        "composition": "分割式前後情境閱讀順序明確，空紙箱與未完成橋模是失信後果焦點。",
+        "people_limbs": "六名人物的頭部、手臂與腿部連接自然，未見明顯錯接。",
+        "objects_and_structure": "橋梁模型、桌面、材料、空紙箱與教室設備結構合理，前後狀態一致。",
+        "contact_perspective": "人物坐立與桌面接觸合理，模型與材料放置穩定，兩個時段透視一致。",
+        "text_brand_watermark": "畫面無可讀文字、品牌或浮水印，月曆僅為不可讀圖形。",
+        "inappropriate_content": "無血腥、暴力、裸露或其他不適內容，人物表情為平靜失望。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
