@@ -8197,6 +8197,25 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1067": {
+      "no": 1067,
+      "word": "執迷不悟",
+      "path": "/workspace/generated_images/exec-b8d0dd49-fd66-4b3f-a6c7-258dcb7f3c21.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "reviewed_at": "2026-11-12T00:00:00Z",
+      "checks": {
+        "meaning": "中央學生抱持會下垂的錯誤紙橋設計並拒絕改變，同學和老師展示證據與正確方案，詞義清楚。",
+        "composition": "下垂模型位於中央，周圍的指向、圖紙與教師手勢集中呈現錯誤與勸導關係。",
+        "people_limbs": "五名人物手腳和姿勢自然，未見明顯多餘或錯接肢體。",
+        "objects_and_structure": "紙橋、支柱、承重書本、膠帶和三角桁架圖結構合理，模型安全。",
+        "contact_perspective": "模型穩定放在桌上，人物手持圖紙或交叉抱臂的接觸自然，桌面透視一致。",
+        "text_brand_watermark": "圖紙僅有不可讀示意線條，無可讀文字、品牌或浮水印，未洩漏答案。",
+        "inappropriate_content": "無血腥、暴力、危險或其他不適內容，為安全課堂示範。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
