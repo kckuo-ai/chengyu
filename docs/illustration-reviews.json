@@ -8387,6 +8387,25 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1077": {
+      "no": 1077,
+      "word": "神機妙算",
+      "path": "/workspace/generated_images/exec-7d546683-9f11-4422-ac17-aa933eff5e60.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "reviewed_at": "2026-11-12T17:32:00+00:00",
+      "checks": {
+        "meaning": "學生先觀察迷宮並規畫路線，機器人準確沿路抵達終點，清楚表現計策高明與預料準確。",
+        "composition": "前景規畫者、中央迷宮、遠端終點與隊友形成完整的因果閱讀順序。",
+        "people_limbs": "四名學生頭部、手臂與腿部連接自然，手指未見明顯錯接。",
+        "objects_and_structure": "迷宮木牆、機器人、方向牌、終點旗與筆記本結構清楚，路線連續。",
+        "contact_perspective": "方向牌置於桌面、機器人接地行進，迷宮與桌面透視一致。",
+        "text_brand_watermark": "畫面無可讀文字、品牌或浮水印，箭頭與路線僅作圖示不洩漏答案。",
+        "inappropriate_content": "無血腥、暴力、裸露或其他不適內容，機器人活動安全。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
