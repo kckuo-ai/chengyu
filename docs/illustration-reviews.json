@@ -8121,6 +8121,25 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1063": {
+      "no": 1063,
+      "word": "一語道破",
+      "path": "/workspace/generated_images/exec-9e22bc7a-a205-4b58-a456-28424fa0bad9.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "reviewed_at": "2026-11-12T00:00:00Z",
+      "checks": {
+        "meaning": "學生以一句話和單一紅色關鍵連線說穿複雜線索板的真相，其他人同步露出理解表情，詞義明確。",
+        "composition": "中央關鍵連線、指向手勢與同學反應形成明確視覺焦點。",
+        "people_limbs": "五名人物的手腳與姿勢自然，未見明顯多餘、缺失或錯接肢體。",
+        "objects_and_structure": "線索板、照片、彩線、圖釘與課桌結構合理，關鍵連線清楚。",
+        "contact_perspective": "指尖與圖板關係合理，人物站坐於地面和椅子，前後景透視一致。",
+        "text_brand_watermark": "紙張和對話框只有不可讀的筆觸，沒有可讀文字、品牌或浮水印，未洩漏成語答案。",
+        "inappropriate_content": "無血腥、暴力、裸露或其他不適內容。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
