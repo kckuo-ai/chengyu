@@ -8368,6 +8368,25 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1076": {
+      "no": 1076,
+      "word": "不動聲色",
+      "path": "/workspace/generated_images/exec-d3f7c069-873f-42fe-b011-30cc4187477b.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "reviewed_at": "2026-11-12T17:25:00+00:00",
+      "checks": {
+        "meaning": "模型橋出現小變化時，主角保持平靜表情與穩定姿勢，低調處理問題，清楚表現冷靜不張揚。",
+        "composition": "主角與橋在右前景形成焦點，驚訝同學和老師作為對照，敘事關係明確。",
+        "people_limbs": "四名人物的肢體連接自然，主角手掌與支撐木塊的操作姿勢合理。",
+        "objects_and_structure": "模型橋、橋墩、小球與支撐木塊結構清楚，橋的輕微傾斜具有物理因果。",
+        "contact_perspective": "主角手與木塊接觸、模型橋與橋墩接觸合理，桌面與校園場景透視一致。",
+        "text_brand_watermark": "畫面無可讀文字、品牌或浮水印，展板僅有不可讀圖像。",
+        "inappropriate_content": "無血腥、暴力、裸露或其他不適內容，情境安全。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
