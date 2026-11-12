@@ -8007,6 +8007,25 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1057": {
+      "no": 1057,
+      "word": "金玉其外，敗絮其中",
+      "path": "/workspace/generated_images/exec-1a63f05c-8057-4978-97a0-e5fd5fd20e8d.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "reviewed_at": "2026-11-12T00:00:00Z",
+      "checks": {
+        "meaning": "禮盒外部華麗精美而開口內部破損、腐舊並露出絮料，內外反差直接且符合詞義。",
+        "composition": "中央禮盒占主視覺，孩子與長者的觀察姿勢引導注意外表與破敗內裡。",
+        "people_limbs": "兩名人物手腳與姿勢自然，未見多餘或錯接肢體。",
+        "objects_and_structure": "盒蓋、蝴蝶結、盒身、補丁、絮料與桌面物件結構清楚，開合關係合理。",
+        "contact_perspective": "禮盒穩定放置在桌面，人物手部與桌邊及盒體關係合理，透視一致。",
+        "text_brand_watermark": "無可讀文字、品牌或浮水印，未直接寫出成語答案。",
+        "inappropriate_content": "無血腥、暴力或不適內容，破敗材質為安全的物件示意。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
