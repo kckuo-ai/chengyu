@@ -8254,6 +8254,25 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1070": {
+      "no": 1070,
+      "word": "入不敷出",
+      "path": "/workspace/generated_images/exec-0587460a-f6fa-4abe-8c89-a3f5f2130e51.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "reviewed_at": "2026-11-12T00:00:00Z",
+      "checks": {
+        "meaning": "少量硬幣與幾乎空的錢包對比多張支出文件和家庭採買，刪減清單表現收入不足以支出。",
+        "composition": "錢包、硬幣、帳單與食品籃集中在餐桌，家人動作清楚交代預算壓力。",
+        "people_limbs": "三名人物肢體連接自然，數硬幣、拿清單與思考姿勢合理。",
+        "objects_and_structure": "錢包、硬幣、計算機、帳單、清單與食品籃結構完整，沒有品牌。",
+        "contact_perspective": "手與硬幣、清單及桌面接觸自然，物件穩定放置，桌面透視一致。",
+        "text_brand_watermark": "文件只有不可讀線條和圖示，無可讀文字、品牌或浮水印，未洩漏答案。",
+        "inappropriate_content": "無血腥、暴力、裸露或其他不適內容。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
