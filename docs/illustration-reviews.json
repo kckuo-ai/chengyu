@@ -9041,6 +9041,23 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1121": {
+      "no": 1121,
+      "path": "/workspace/scratch/idiom-work/1121.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "checks": {
+        "meaning": "外表華麗的展示盒內只有簡陋未完成機械，清楚呈現名聲與實際不相稱。",
+        "composition": "誇張外觀、打開的空盒與學生驚訝反應形成明確對比。",
+        "people_limbs": "人物手腳、手指與姿勢自然，未見明顯錯誤。",
+        "objects_and_structure": "展示盒、機械零件、舞台與展覽布置結構合理。",
+        "contact_perspective": "手與盒門、桌台及物件接觸自然，透視一致。",
+        "text_brand_watermark": "無可讀文字、品牌或浮水印。",
+        "inappropriate_content": "安全、適合兒童教育情境，無不適內容。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
