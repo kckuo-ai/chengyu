@@ -9126,6 +9126,23 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1127": {
+      "no": 1127,
+      "path": "/workspace/scratch/idiom-work/1127.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "checks": {
+        "meaning": "街區居民安定生活並投入各自喜愛的工作，孩子安全遊戲，清楚呈現安居樂業。",
+        "composition": "麵包店、花園、修車攤與住宅街景共同構成完整社區敘事。",
+        "people_limbs": "人物手腳、手指與姿勢自然，未見明顯錯誤。",
+        "objects_and_structure": "店舖、花圃、自行車、街道與住宅結構合理。",
+        "contact_perspective": "人物與工作物件、地面及自行車接觸自然，透視一致。",
+        "text_brand_watermark": "無可讀文字、品牌或浮水印。",
+        "inappropriate_content": "安全、適合兒童教育情境，無不適內容。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
