@@ -8922,6 +8922,23 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1112": {
+      "no": 1112,
+      "path": "/workspace/scratch/idiom-work/1112.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "checks": {
+        "meaning": "男學生服裝整齊、鞋子擦亮，在同學與老師面前端莊展示，符合衣冠楚楚。",
+        "composition": "中央人物全身儀表清楚，觀眾與展示板提供學習情境。",
+        "people_limbs": "人物手腳、手指與姿勢自然，未見明顯錯誤。",
+        "objects_and_structure": "背心、領帶、鞋子、桌椅與展示板結構合理。",
+        "contact_perspective": "人物與地面、桌椅及展示板接觸自然，透視一致。",
+        "text_brand_watermark": "無可讀文字、品牌或浮水印。",
+        "inappropriate_content": "安全、適合兒童教育情境，無不適內容。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
