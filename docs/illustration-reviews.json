@@ -8837,6 +8837,23 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1106": {
+      "no": 1106,
+      "path": "/workspace/scratch/idiom-work/1106.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "checks": {
+        "meaning": "中央學生高舉獎盃、挺胸誇張擺姿勢，旁人不自在，清楚呈現得意張揚且帶貶義。",
+        "composition": "中央誇張姿態與左右隊友、後方教練的反應形成明確敘事。",
+        "people_limbs": "人物手腳、手指與姿勢自然，未見明顯錯誤。",
+        "objects_and_structure": "獎盃、獎牌、運動服與場地結構合理。",
+        "contact_perspective": "人物與長椅、獎盃及地面接觸自然，透視一致。",
+        "text_brand_watermark": "無可讀文字、品牌或浮水印。",
+        "inappropriate_content": "安全、適合兒童教育情境，無不適內容。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
