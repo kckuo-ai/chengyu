@@ -7,7 +7,7 @@ const crypto = require('node:crypto');
 const sharp = require('sharp');
 
 async function main() {
-  const [no, original, alt] = process.argv.slice(2);
+  const [no, original, alt, mode] = process.argv.slice(2);
   if (!/^\d+$/.test(no || '') || !original || !alt) throw Error('Expected NUMBER ORIGINAL_PATH ALT_TEXT');
   const root = path.resolve(__dirname, '..');
   const catalogPath = path.join(root, 'data/illustrations.json');
@@ -16,16 +16,18 @@ async function main() {
   if (!item) throw Error('Unknown idiom');
   if (alt.includes(item.w)) throw Error('Do not put the quiz answer in alt text');
   const catalog = JSON.parse(await fs.readFile(catalogPath));
-  if (catalog.entries[no]) throw Error('Image already registered; review before replacing it');
+  const replacing = mode === '--replace';
+  if (catalog.entries[no] && !replacing) throw Error('Image already registered; review before replacing it');
   const bytes = await fs.readFile(original);
-  const src = `img/idioms/${no}.webp`;
+  const hash = crypto.createHash('sha256').update(bytes).digest('hex');
+  const src = replacing ? `img/idioms/${no}-${hash.slice(0,12)}.webp` : `img/idioms/${no}.webp`;
   await fs.mkdir(path.join(root, 'img/idioms'), {recursive:true});
   const {data, info} = await sharp(bytes).webp({quality:85,effort:6}).toBuffer({resolveWithObject:true});
   await fs.writeFile(path.join(root, src), data, {flag:'wx'});
   catalog.entries[no] = {
     word:item.w, src, alt, width:info.width, height:info.height,
     source:'AI-generated original illustration',
-    originalSha256:crypto.createHash('sha256').update(bytes).digest('hex'),
+    originalSha256:hash,
   };
   await fs.writeFile(catalogPath, JSON.stringify(catalog,null,2)+'\n');
   console.log(`${item.w}: ${Math.round(data.length/1024)} KB`);

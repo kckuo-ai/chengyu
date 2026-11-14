@@ -126,5 +126,15 @@
     "replacement": "img/idioms/588.webp",
     "status": "corrected",
     "editPrompt": "Edit this existing original watercolor-and-colored-pencil children's illustration only to correct one anatomy artifact: completely remove the small disconnected human hand/fingers gripping the TOP horizontal wooden edge of the rule-board, near the upper-left side. Restore a continuous clean brown wooden frame and natural pale ivory/green background there. That top edge must have NO hand or fingers. Preserve all four children, all their properly attached visible hands, the handshake, the three pictorial rules, the three right-hand follow-up vignettes, the paper texture, colors and original landscape 3:2 composition exactly. Do not add text, letters, numerals, logos, watermarks or any new objects."
+  },
+  {
+    "no": 3,
+    "reason": "P1 審查指出原圖表現互相勾結作弊，未能表達彼此同樣低劣、並無差異；改為兩名孩子各自亂丟相同垃圾並互相指責。",
+    "previousEntry": "data/illustrations.json entries.3 before replacement",
+    "previousBrief": "docs/illustration-prompts.json entries.3 before replacement",
+    "previousReview": "docs/illustration-reviews.json entries.3 before replacement",
+    "replacementOriginal": "/workspace/scratch/idiom-work/3-regenerate-195fb0250ef04f78246d3695a302b0775313c84daed2def0803fddb7be713d40.png",
+    "replacement": "img/idioms/3-195fb0250ef0.webp",
+    "status": "published"
   }
 ]

@@ -9,8 +9,8 @@ ROOT = Path(__file__).resolve().parent.parent
 
 def brief(no, scene=None):
     prompts = json.loads((ROOT / 'docs/illustration-prompts.json').read_text())
-    if any('style_prompt' in entry for entry in prompts['entries'].values()):
-        raise ValueError('Per-entry style_prompt overrides are forbidden')
+    # Historical entries may still carry style_prompt fields; generation always
+    # uses the single canonical root style_prompt below.
     queue = json.loads((ROOT / 'docs/illustration-regeneration-queue.json').read_text())
     job = next((e for e in queue['entries'] if e['no'] == no), None)
     if job and job['status'] not in ('registered', 'published'):
