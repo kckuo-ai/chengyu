@@ -9364,6 +9364,23 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1143": {
+      "no": 1143,
+      "path": "/workspace/scratch/idiom-work/1143.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "checks": {
+        "meaning": "通過：學生由弄亂花園轉為清理、歸還工具與合作種花，清楚表現改正錯誤、返回正途。",
+        "composition": "通過：前後對照泡泡、明亮花園、道路箭頭與合作動作形成正向敘事。",
+        "people_limbs": "通過：人物手腳、蹲姿與遞交工具自然。",
+        "objects_structure": "通過：花盆、掃具、工具籃、花苗與指示牌結構合理。",
+        "contact_perspective": "通過：人物與工具、泥土、花苗接觸合理，花園透視一致。",
+        "text_brand_watermark": "通過：無可讀文字、品牌或浮水印，僅有圖像化方向箭頭。",
+        "inappropriate_content": "通過：無不適內容，整體為修正行為的正向教育場景。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
