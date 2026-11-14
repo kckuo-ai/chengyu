@@ -6660,52 +6660,43 @@
     },
     "976": {
       "no": 976,
-      "word": "立竿見影",
-      "path": "/workspace/generated_images/exec-e41e0bfa-5d45-4b6f-b7f6-752d8e10c2bb.png",
+      "kind": "regenerate",
+      "path": "/workspace/scratch/idiom-work/976-regenerate-16b10a7aeb8bfe5fb81071e9b44df49adb216e7cc5ea5bc0821c6d67ed68f07f.png",
       "passed": true,
-      "reviewer": "Codex",
-      "reviewed_at": "2026-11-09T19:04:45Z",
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "孩子為窗邊垂萎的盆栽澆水並移到陽光下，片刻後葉子挺立，大家驚喜拍手。",
+      "issues": [],
+      "regenerate": false,
       "checks": {
         "meaning": {
           "passed": true,
-          "details": "A straight measuring pole is visibly erected on a marked ground board and casts an immediate, distinct shadow, directly conveying 立竿見影 (the effect appears as soon as the pole is set up)."
+          "evidence": "左側垂萎盆栽剛被澆水並移到陽光下，右側柔邊小框中葉子已挺立翠綠，孩子拍手驚喜，清楚表現迅速見效。"
         },
-        "anatomy": {
+        "composition": {
           "passed": true,
-          "details": "The children and instructor have coherent faces, limbs, hands, and proportions; no obvious duplicated or malformed anatomy is visible."
+          "evidence": "窗邊教室與前後對照盆栽是視覺核心，小竹竿影子只在地面作次要呼應，沒有字面化成主要構圖。"
         },
-        "pole_base_shadow_contact": {
+        "hands_feet_pose": {
           "passed": true,
-          "details": "The pole is visibly seated in a circular mount on the board, and the dark shadow begins at the pole's base and extends across the marked surface without a gap."
+          "evidence": "實際查看原圖，人物手臂連接肩膀、手指與雙腳姿勢自然。"
         },
-        "sunlight_direction": {
+        "objects_contact_perspective": {
           "passed": true,
-          "details": "The sun is clearly shown in the upper right, with rays and highlights consistent with the pole's shadow projecting toward the lower left."
+          "evidence": "足球、畫具、小提琴盒與桌面接觸合理，三段透視一致。"
         },
-        "perspective": {
+        "text_brand_watermark": {
           "passed": true,
-          "details": "The board, radial markings, vertical pole, and shadow use coherent landscape perspective; the shadow direction and length read naturally for the depicted sun angle."
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印。"
         },
-        "aspect_ratio": {
+        "taiwan_context": {
           "passed": true,
-          "details": "Image is 1536x1024, a 3:2 landscape composition."
+          "evidence": "台灣國小教室、兒童年齡比例與制服及校園窗景明確可見。"
         },
-        "style": {
+        "no_red_neckerchief": {
           "passed": true,
-          "details": "Cohesive warm watercolor/anime illustration with clean linework, consistent lighting, and an appropriate educational park setting."
-        },
-        "readable_text_brand_watermark": {
-          "passed": true,
-          "details": "No unwanted readable text, logos, brand marks, or watermarks are visible."
-        },
-        "alt": {
-          "passed": true,
-          "text": "Children observe a red-and-white pole standing on a marked board as it casts a sharp shadow in the sunny park, while an instructor demonstrates the measurement.",
-          "details": "Concise alt text identifies the pole, immediate shadow, observers, and sunny demonstration relevant to the idiom."
+          "evidence": "所有人物頸部均無紅領巾或紅圍巾。"
         }
-      },
-      "issues": [],
-      "regenerate": false
+      }
     },
     "977": {
       "no": 977,

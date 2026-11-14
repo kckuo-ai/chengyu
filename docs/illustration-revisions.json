@@ -288,5 +288,20 @@
     "replacement": "img/idioms/705-1373400541ad.webp",
     "review": "/workspace/scratch/idiom-work/705.review.json",
     "status": "published"
+  },
+  {
+    "no": 976,
+    "reason": "P1 審查指出舊圖只畫立竿與影子，沒有迅速收到成效；改為澆水後盆栽立即恢復的前後對照。",
+    "previousEntry": {
+      "word": "立竿見影",
+      "src": "img/idioms/976.webp",
+      "originalSha256": "legacy"
+    },
+    "previousBrief": "docs/illustration-prompts.json entries.976 before replacement",
+    "previousReview": "docs/illustration-reviews.json entries.976 before replacement",
+    "replacementOriginal": "/workspace/scratch/idiom-work/976-regenerate-16b10a7aeb8bfe5fb81071e9b44df49adb216e7cc5ea5bc0821c6d67ed68f07f.png",
+    "replacement": "img/idioms/976-16b10a7aeb8b.webp",
+    "review": "/workspace/scratch/idiom-work/976.review.json",
+    "status": "published"
   }
 ]
