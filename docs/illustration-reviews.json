@@ -9347,6 +9347,23 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1142": {
+      "no": 1142,
+      "path": "/workspace/scratch/idiom-work/1142.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "checks": {
+        "meaning": "通過：一名學生對模型每個小缺點都苛責，老師引導改以具體改善，呈現要求完美無缺。",
+        "composition": "通過：模型、批評手勢、沮喪同學與老師的平衡引導清楚表意。",
+        "people_limbs": "通過：人物手腳與指點、聆聽姿勢自然。",
+        "objects_structure": "通過：風力機、太陽能板、房屋與水道模型結構合理。",
+        "contact_perspective": "通過：人物與模型桌面接觸合理，模型透視一致。",
+        "text_brand_watermark": "通過：無可讀文字、品牌或浮水印，僅使用圖示化勾選與箭頭。",
+        "inappropriate_content": "通過：無不適或霸凌內容，氛圍為建設性教學。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
