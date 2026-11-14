@@ -8067,22 +8067,43 @@
     },
     "1053": {
       "no": 1053,
-      "word": "眾矢之的",
-      "path": "/workspace/generated_images/exec-c32bd91e-d794-4f7c-9bd2-e709bedce435.png",
+      "kind": "regenerate",
+      "path": "/workspace/scratch/idiom-work/1053-regenerate-69a720c6d1e8bd811ffb0ceb4013e51da18211ee2703660b84aa411b76e23e02.png",
       "passed": true,
-      "reviewer": "controller_visual_review",
-      "reviewed_at": "2026-11-12T00:00:00Z",
-      "checks": {
-        "meaning": "中央軟墊圓靶成為眾人共同指向且插滿箭矢的單一目標，清楚表現眾人一致攻擊的目標。",
-        "composition": "圓靶位於中央主焦點，學生環繞於安全線後，教練在側，視線與手勢集中於靶面。",
-        "people_limbs": "人物手腳數量與連接自然，指向及站立姿勢清楚，未見明顯多餘或錯接肢體。",
-        "objects_and_structure": "圓靶、箭矢、箭筒、弓架與戶外課程場地結構合理，箭矢均插在靶面。",
-        "contact_perspective": "人物站在地面，靶架接地，箭矢與靶面有合理接觸，前後景比例與透視一致。",
-        "text_brand_watermark": "無可讀文字、品牌、商標或浮水印，未直接寫出成語答案。",
-        "inappropriate_content": "無血腥、受傷、暴力或其他不適內容；射箭活動由教練監督且人物位於安全位置。"
-      },
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "班會中打翻飲料的孩子站在中央，周圍同學一致指向他，老師在旁安撫。",
       "issues": [],
-      "regenerate": false
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "中央孩子因打翻飲料而縮肩臉紅，四周同學的手指與柔和線條全部指向他，老師在旁勸阻，清楚表現成為眾人指責目標。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "人物群圍繞中央目標形成放射構圖，地面倒翻水杯交代事件，沒有真實弓箭、武器或文字。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "實際查看原圖，人物手臂連接肩膀、手指與雙腳姿勢自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "足球、畫具、小提琴盒與桌面接觸合理，三段透視一致。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小班會教室、學生制服與教師情境明確。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "所有人物均無紅領巾或紅圍巾。"
+        }
+      }
     },
     "1054": {
       "no": 1054,

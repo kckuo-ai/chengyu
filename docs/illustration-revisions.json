@@ -333,5 +333,20 @@
     "replacement": "img/idioms/1046-08809675a675.webp",
     "review": "/workspace/scratch/idiom-work/1046.review.json",
     "status": "published"
+  },
+  {
+    "no": 1053,
+    "reason": "P1 審查指出舊圖只畫箭靶，未表現人被眾人攻擊；改為班會中全班指向打翻飲料的孩子。",
+    "previousEntry": {
+      "word": "眾矢之的",
+      "src": "img/idioms/1053.webp",
+      "originalSha256": "legacy"
+    },
+    "previousBrief": "docs/illustration-prompts.json entries.1053 before replacement",
+    "previousReview": "docs/illustration-reviews.json entries.1053 before replacement",
+    "replacementOriginal": "/workspace/scratch/idiom-work/1053-regenerate-69a720c6d1e8bd811ffb0ceb4013e51da18211ee2703660b84aa411b76e23e02.png",
+    "replacement": "img/idioms/1053-69a720c6d1e8.webp",
+    "review": "/workspace/scratch/idiom-work/1053.review.json",
+    "status": "published"
   }
 ]
