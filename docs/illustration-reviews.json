@@ -9551,6 +9551,23 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1156": {
+      "no": 1156,
+      "path": "/workspace/scratch/idiom-work/1156.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "checks": {
+        "meaning": "通過：學生隨手取用圖像卡與書本並自如寫作，呈現引用材料毫不費力。",
+        "composition": "通過：書架、圖卡、寫作本與同學反應共同強化順手運用素材。",
+        "people_limbs": "通過：人物手腳、取卡與握筆姿勢自然。",
+        "objects_structure": "通過：書籍、圖卡、鉛筆盒與桌面物件結構合理。",
+        "contact_perspective": "通過：人物與書本、卡片、桌面接觸合理，教室透視一致。",
+        "text_brand_watermark": "通過：無可讀文字、品牌或浮水印，卡片僅有圖像。",
+        "inappropriate_content": "通過：無不適內容。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
