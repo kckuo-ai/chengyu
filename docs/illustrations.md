@@ -51,3 +51,20 @@ node tests/illustrations.cjs
 網站只在 HTTPS 自動註冊 service worker；測試在可信任的 loopback HTTP 手動註冊，以驗證快取本身。可選的 Google Fonts 在測試中封鎖，使用本機字型。
 
 離線下載使用獨立的 `chengyu-offline-v1` 快取，更新應用程式 shell 時保留。下載完成前會等待每個檔案寫入快取；HTTP 錯誤或儲存空間不足時提供重試，不宣稱已全部下載。
+
+## 固定畫風與獨立驗證檢查表（2026-11-14 起）
+
+生成提示一律使用 `docs/illustration-prompts.json` 根層唯一的 `style_prompt`，不得逐項覆寫。執行 `python3 scripts/illustration_brief.py NUMBER` 取得固定畫風加場景；P1 重製自動使用持久清單的建議場景與避用構圖編號。歷史提示僅供追溯。
+
+每張新圖與重製圖都須獨立實際看圖，逐項記錄：
+
+- 詞義與關鍵因果清楚、與相近成語可辨；alt 符合畫面且不含答案。
+- **台灣人物／台灣場景**：台灣人物的繪本設定、國小兒童年齡比例、台灣現代生活環境及服裝符合固定提示；不能僅憑臉孔推斷國籍。`checks.taiwan_context = {"passed": true, "evidence": "具體畫面觀察"}`。
+- **無紅領巾**：所有人物均無紅色領巾或圍巾。`checks.no_red_neckerchief = {"passed": true, "evidence": "具體服裝觀察"}`。
+- 手腳數量、肩臂連接、姿勢、接觸支撐、工具結構、透視與物理合理。
+- 鉛筆、水彩、色鉛筆及米白紙紋符合固定畫風。
+- 無可讀文字（含單字）、字母、數字、品牌、浮水印與不適內容。
+
+新增兩項任一不符合即驗證失敗，不得登錄。metadata 的 `path` 必須與 review 的 `path` 完全一致，且 metadata 的 `style_prompt` 必須等於當前固定提示。登錄前執行 `python3 scripts/validate_illustration_review.py METADATA_JSON REVIEW_JSON`；此檢查只驗證紀錄門檻，實際看圖仍須由獨立驗證者完成。
+
+P1 排程及保留原圖、revisions、獨立驗證、每 50 張發布等規則見 `docs/illustration-goal.md` 與 `docs/illustration-regeneration-queue.json`。P2、P3 等全量 1,466 條完成後再處理。
