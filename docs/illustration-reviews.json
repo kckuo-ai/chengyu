@@ -10059,6 +10059,46 @@
           "evidence": "實際查看所有人物服裝，均無紅領巾或紅圍巾。"
         }
       }
+    },
+    "520": {
+      "no": 520,
+      "kind": "regenerate",
+      "path": "/workspace/scratch/idiom-work/520-regenerate-9d83561766578c99f2c39505a2fa5f48a2688afdb0738b05837fd3efd3a30550.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "台灣書法教室裡抽象墨跡作品受到讚嘆，收藏家捧出金幣表示願意高價收藏。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "抽象墨跡作品受到眾人讚嘆，收藏家捧出金幣高價收藏，表現文辭精當且價值極高。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "書法作品居中、觀眾左右圍看，金幣盒明確呈現高價價值，畫面無可讀漢字。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "實際查看原圖，人物手臂連接肩膀、手指與雙腳姿勢自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "足球、畫具、小提琴盒與桌面接觸合理，三段透視一致。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣國小校園、素色校服與社團攤位構成台灣情境。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "實際查看所有人物服裝，均無紅領巾或紅圍巾。"
+        }
+      }
     }
   }
 }
