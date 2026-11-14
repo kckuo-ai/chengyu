@@ -9534,6 +9534,23 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1155": {
+      "no": 1155,
+      "path": "/workspace/scratch/idiom-work/1155.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "checks": {
+        "meaning": "通過：狐狸處於受限情境仍奮力抵抗，清楚呈現困境中的最後掙扎。",
+        "composition": "通過：矮籬笆、抵抗姿態、救援毯、出口與食物構成完整敘事。",
+        "people_limbs": "通過：救援員手腳、持毯與放食物姿勢自然，狐狸肢體完整。",
+        "objects_structure": "通過：矮籬笆、救援箱、毛毯與食物碗結構合理。",
+        "contact_perspective": "通過：狐狸與毯子、地面接觸自然，救援員與物品透視一致。",
+        "text_brand_watermark": "通過：無可讀文字、品牌或浮水印。",
+        "inappropriate_content": "通過：無受傷、血腥或攻擊結果，為安全救援情境。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
