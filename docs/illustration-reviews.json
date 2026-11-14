@@ -9602,6 +9602,23 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1159": {
+      "no": 1159,
+      "path": "/workspace/scratch/idiom-work/1159.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "checks": {
+        "meaning": "通過：上半部學生以傲慢手勢壓迫隊友，下半部老師引導平等合作，寓意清楚。",
+        "composition": "通過：上下對照呈現壓迫與修正，人物視線與手勢明確。",
+        "people_limbs": "通過：人物手腳、指責與制止姿勢自然。",
+        "objects_structure": "通過：模型、桌面、筆記與教室結構合理。",
+        "contact_perspective": "通過：人物與模型、桌面接觸自然，前後分鏡透視一致。",
+        "text_brand_watermark": "通過：無可讀文字、品牌或浮水印。",
+        "inappropriate_content": "通過：無暴力或傷害內容，為溫和衝突調解場景。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
