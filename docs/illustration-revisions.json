@@ -363,5 +363,20 @@
     "replacement": "img/idioms/1157-1512d827b5b9.webp",
     "review": "/workspace/scratch/idiom-work/1157.review.json",
     "status": "published"
+  },
+  {
+    "no": 170,
+    "reason": "使用者指出右格對話泡泡折線像數字 7；保留原兩格構圖，改成單一燈泡圖示。",
+    "previousEntry": {
+      "word": "開門見山",
+      "src": "img/idioms/170-8d08cb7ec174.webp",
+      "originalSha256": "8d08cb7ec174ff15507534cc16cd5737120c6596ac39b0d234c4a31fa2d9c2a5"
+    },
+    "previousBrief": "docs/illustration-prompts.json entries.170 before replacement",
+    "previousReview": "docs/illustration-reviews.json entries.170 before replacement",
+    "replacementOriginal": "/workspace/scratch/idiom-work/170-regenerate-9786252c1148bd30046f7bc48cbe46385a1c4cc83ef5871a237a71b91d4f91bf.png",
+    "replacement": "img/idioms/170-9786252c1148.webp",
+    "review": "/workspace/scratch/idiom-work/170.review.json",
+    "status": "published"
   }
 ]

@@ -186,8 +186,8 @@
       "current_src": "img/idioms/170.webp",
       "moe_meaning": "一開門就見到山巒。＆比喻說話或寫文章直截了當，一開始就進入正題。",
       "category": "meaning",
-      "defect": "對話泡泡裡畫的是門與盆栽，孩子只會讀成字面的「開門」，看不出「一開口就直接進入正題」。且與 586 開宗明義構圖相近。",
-      "suggested_scene_prompt": "開門見山：採「說話直截了當、一開始就進入正題」義。兩格對比。左格：一個孩子向老師報告時繞來繞去，對話泡泡裡是一長串彎彎曲曲、打結的線條，老師與同學聽得一頭霧水、打哈欠。右格：另一個孩子一站起來就舉起手中的照片（照片內容：教室窗戶破了一塊），對話泡泡只有一個短而筆直的箭頭直指照片，老師立刻點頭、同學恍然大悟。不畫門、不畫山。不出現文字。",
+      "defect": "右格對話泡泡中的折線容易像數字 7；保留原有兩格對比構圖，將右格改為有明確箭頭的直線（或單一驚嘆號、燈泡圖示），不可出現可讀文字或數字。",
+      "suggested_scene_prompt": "開門見山：保留原有兩格教室對比構圖。左格孩子繞圈報告，泡泡是彎曲打結線條；右格孩子舉起破窗照片，泡泡改為一條清楚筆直、帶箭頭的線直指照片（可用單一驚嘆號或燈泡圖示替代），不可像數字 7，不畫門、不畫山、不出現文字。",
       "avoid_composition_of": [
         586
       ],
@@ -200,7 +200,10 @@
         "height": 1024,
         "source": "AI-generated original illustration",
         "originalSha256": "b0236f5bedac4f3eb8d70cee33e63262d8f7bca398b696b9b278432e75a9c03a"
-      }
+      },
+      "replacement": "img/idioms/170-9786252c1148.webp",
+      "replacementOriginal": "/workspace/scratch/idiom-work/170-regenerate-9786252c1148bd30046f7bc48cbe46385a1c4cc83ef5871a237a71b91d4f91bf.png",
+      "publishedAt": "2026-11-14T23:51:32.079971+00:00"
     },
     {
       "no": 400,
