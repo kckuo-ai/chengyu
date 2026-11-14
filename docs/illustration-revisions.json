@@ -272,5 +272,21 @@
     "replacement": "img/idioms/677-0774e3e1893d.webp",
     "review": "/workspace/scratch/idiom-work/677.review.json",
     "status": "published"
+  },
+  {
+    "no": 705,
+    "reason": "P1 審查指出舊圖是驚喜派對，無法表現客人搶走主人位置；改為壽星被擠到角落、來客站中央表演。",
+    "previousEntry": {
+      "word": "喧賓奪主",
+      "src": "img/idioms/705.webp",
+      "alt": "驚喜派對中大家迎接剛進門的壽星。",
+      "originalSha256": "9e6c1e"
+    },
+    "previousBrief": "docs/illustration-prompts.json entries.705 before replacement",
+    "previousReview": "docs/illustration-reviews.json entries.705 before replacement",
+    "replacementOriginal": "/workspace/scratch/idiom-work/705-regenerate-1373400541adba4d62861b4dcbb22ce4238ffa85f8dd303cca163378ed0ee0b3.png",
+    "replacement": "img/idioms/705-1373400541ad.webp",
+    "review": "/workspace/scratch/idiom-work/705.review.json",
+    "status": "published"
   }
 ]

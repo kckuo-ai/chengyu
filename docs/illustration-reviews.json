@@ -1625,20 +1625,43 @@
     },
     "705": {
       "no": 705,
-      "word": "喜出望外",
-      "path": "/workspace/generated_images/exec-ed191d7b-4424-442f-8417-182d875a9908.png",
+      "kind": "regenerate",
+      "path": "/workspace/scratch/idiom-work/705-regenerate-1373400541adba4d62861b4dcbb22ce4238ffa85f8dd303cca163378ed0ee0b3.png",
       "passed": true,
-      "reviewer": "independent_visual_review",
-      "reviewed_at": "2026-11-05T10:26:06Z",
-      "checks": {
-        "idiom_accuracy": "Clear unexpected birthday reveal and delighted surprise at the doorway.",
-        "anatomy": "Visible people have plausible limbs and hand counts; no obvious extra or disconnected limbs.",
-        "cake_support_and_perspective": "Cake sits level on its plate, held at both sides by the adult; scene depth and room perspective are coherent.",
-        "text_and_numbers": "No readable text or numbers visible.",
-        "style": "Soft watercolor, pencil-like contours, and warm paper texture are consistent with the requested style."
-      },
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "生日派對中來作客的孩子站在中央成為焦點，壽星女孩被擠到角落。",
       "issues": [],
-      "regenerate": false
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "來作客的表弟站在客廳中央拿麥克風表演，所有賓客與禮物都圍向他；戴生日帽的壽星女孩被擠到角落、抱著蛋糕盤無奈旁觀，清楚表現客人搶走主人的焦點。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "中央表演者與周圍賓客形成視覺中心，右側角落的壽星及蛋糕形成被冷落對照，派對場景現代且沒有可讀文字。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "實際查看原圖，人物手臂連接肩膀、手指與雙腳姿勢自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "足球、畫具、小提琴盒與桌面接觸合理，三段透視一致。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "觀察到台灣家庭客廳、國小年齡兒童比例與日常服裝，符合台灣現代生日派對。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "所有人物頸部均無紅領巾或紅圍巾。"
+        }
+      }
     },
     "707": {
       "no": 707,
