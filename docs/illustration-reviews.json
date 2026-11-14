@@ -10438,6 +10438,46 @@
           "evidence": "所有人物均無紅領巾或紅圍巾。"
         }
       }
+    },
+    "1164": {
+      "no": 1164,
+      "kind": "new",
+      "path": "/workspace/scratch/idiom-work/1164.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "兩名孩子把同學的畫具藏到用品櫃後，另一名在門口把風，老師身影靠近時三人驚慌。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "兩名孩子共同藏起他人的畫具，第三名在門口把風，老師靠近時三人驚慌，明確表現互相勾結做壞事。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "用品室櫃後的藏匿動作、門口把風者與走廊老師形成清楚因果，無暴力和可讀文字。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "實際查看原圖，人物手臂連接肩膀、手指與雙腳姿勢自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "足球、畫具、小提琴盒與桌面接觸合理，三段透視一致。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小用品室、學生制服與校園走廊情境清楚。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "所有人物均無紅領巾或紅圍巾。"
+        }
+      }
     }
   }
 }
