@@ -318,5 +318,20 @@
     "replacement": "img/idioms/1000-fe747f1ec5e5.webp",
     "review": "/workspace/scratch/idiom-work/1000.review.json",
     "status": "published"
+  },
+  {
+    "no": 1046,
+    "reason": "P1 審查指出舊圖像集思廣益，未表現主角委屈讓步；改為女孩收起粉紅設計、改用藍布讓小組和好。",
+    "previousEntry": {
+      "word": "委曲求全",
+      "src": "img/idioms/1046.webp",
+      "originalSha256": "legacy"
+    },
+    "previousBrief": "docs/illustration-prompts.json entries.1046 before replacement",
+    "previousReview": "docs/illustration-reviews.json entries.1046 before replacement",
+    "replacementOriginal": "/workspace/scratch/idiom-work/1046-regenerate-08809675a675a687aa963f01cc148c887445df07161b612d257ca1a3a659ff67.png",
+    "replacement": "img/idioms/1046-08809675a675.webp",
+    "review": "/workspace/scratch/idiom-work/1046.review.json",
+    "status": "published"
   }
 ]
