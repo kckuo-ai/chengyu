@@ -10019,6 +10019,46 @@
           "evidence": "實際查看所有人物服裝，均無紅領巾或紅圍巾。"
         }
       }
+    },
+    "413": {
+      "no": 413,
+      "kind": "regenerate",
+      "path": "/workspace/scratch/idiom-work/413-regenerate-51171727f36eebc2363f60f5624500e324825e0cc8f0c184879f4114b67911cc.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "台灣國小科展中兩兄弟展示同樣精采的作品，評審難分高下，最後兩人獲得同樣獎牌。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "兩兄弟相似外貌並展示同樣精采的作品，評審難分高下並給予相同獎牌，符合才德相當。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "科展台前兩兄弟左右對稱，評審居中比較，雙獎牌形成同等成果焦點。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "實際查看原圖，人物手臂連接肩膀、手指與雙腳姿勢自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "足球、畫具、小提琴盒與桌面接觸合理，三段透視一致。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣國小校園、素色校服與社團攤位構成台灣情境。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "實際查看所有人物服裝，均無紅領巾或紅圍巾。"
+        }
+      }
     }
   }
 }
