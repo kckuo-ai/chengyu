@@ -303,5 +303,20 @@
     "replacement": "img/idioms/976-16b10a7aeb8b.webp",
     "review": "/workspace/scratch/idiom-work/976.review.json",
     "status": "published"
+  },
+  {
+    "no": 1000,
+    "reason": "P1 審查指出舊圖只是一般志工服務，缺乏竭盡忠誠與不惜犧牲；改為颱風防汛中救難隊員頂住沙包保護居民。",
+    "previousEntry": {
+      "word": "肝腦塗地",
+      "src": "img/idioms/1000.webp",
+      "originalSha256": "legacy"
+    },
+    "previousBrief": "docs/illustration-prompts.json entries.1000 before replacement",
+    "previousReview": "docs/illustration-reviews.json entries.1000 before replacement",
+    "replacementOriginal": "/workspace/scratch/idiom-work/1000-regenerate-fe747f1ec5e5d582fe8d126cafed9e9b0b03f8abc2bfb1f9f64e229f6d6c7df0.png",
+    "replacement": "img/idioms/1000-fe747f1ec5e5.webp",
+    "review": "/workspace/scratch/idiom-work/1000.review.json",
+    "status": "published"
   }
 ]

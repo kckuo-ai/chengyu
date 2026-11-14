@@ -7100,23 +7100,43 @@
     },
     "1000": {
       "no": 1000,
-      "word": "肝腦塗地",
-      "path": "/workspace/generated_images/exec-3c5423c6-2900-409a-ac36-75a2f924fbe6.png",
+      "kind": "regenerate",
+      "path": "/workspace/scratch/idiom-work/1000-regenerate-fe747f1ec5e5d582fe8d126cafed9e9b0b03f8abc2bfb1f9f64e229f6d6c7df0.png",
       "passed": true,
-      "reviewer": "/root/verify_1000",
-      "reviewed_at": "2026-11-10T14:10:00.000Z",
-      "checks": {
-        "meaning": "現代社區花園中多名志工分工清理落枝、搬運木料、整理植栽、扶助長者並合力種樹，投入公共服務與不怕辛勞的精神清楚，能對應肝腦塗地的現代比喻義；沒有以慘死的字面血腥畫面表現。",
-        "composition": "前景種樹、協助長者與右側固定樹苗是主要焦點，中後景清理、搬運與整理花園補充服務內容，人物層次和視線分布清楚，整體公共服務情境易辨識。",
-        "people_limbs": "人物的手腳數量、連接與姿勢整體自然；蹲姿種樹、握工具、搬木料、推車和牽扶長者等動作可辨識，未見明顯多餘或錯接肢體。",
-        "construction_tools_and_structures": "志工均有安全帽、反光背心及手套，畫面可見推車、耙子、木料、花盆與澆水壺；樹木支架、花園木框和棚架結構完整，沒有明顯安全帽或工具缺失。",
-        "contact_perspective_physics": "手部與木料、耙子、推車、樹幹及長者手臂的接觸關係合理，人物腳和膝蓋落地自然；樹苗支架、推車輪與地面接觸清楚，前中後景透視大致一致，未見懸浮或嚴重穿插。",
-        "style": "符合鉛筆手繪輪廓、柔和水彩暈染、彩色鉛筆層次與暖象牙紙張質感的兒童教育插畫風格，色調明亮友善。",
-        "text_brand_watermark": "畫面沒有可讀文字、品牌標誌或浮水印，也沒有直接呈現成語答案。",
-        "inappropriate_content": "無血腥、受傷、暴力、裸露或其他不當內容；安全帽與手套等防護用品完整，適合兒童教育情境。"
-      },
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "颱風夜救難隊員全身濕透仍頂住沙包牆，保護撤離中的老人與孩子。",
       "issues": [],
-      "regenerate": false
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "救難隊員在暴雨中用身體頂住沙包牆，護住撤離中的老人與孩子，遠處同伴趕來支援，清楚表現盡忠竭力且不惜犧牲。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "前景隊員與沙包牆形成強烈受力姿勢，後方老人孩子和支援隊員形成保護關係，無血無傷且無文字。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "實際查看原圖，人物手臂連接肩膀、手指與雙腳姿勢自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "足球、畫具、小提琴盒與桌面接觸合理，三段透視一致。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣颱風夜社區防汛、救難裝備與居民撤離情境明確。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "所有人物均未佩戴紅領巾或紅圍巾。"
+        }
+      }
     },
     "1001": {
       "no": 1001,
