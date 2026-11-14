@@ -9500,6 +9500,23 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1152": {
+      "no": 1152,
+      "path": "/workspace/scratch/idiom-work/1152.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "checks": {
+        "meaning": "通過：學生同時處理多項任務而漏掉枯萎盆栽與散落書本，隊友分工形成對比。",
+        "composition": "通過：忙亂主角與有序團隊分區清楚，任務板強化寓意。",
+        "people_limbs": "通過：人物手腳、持物和分工姿勢自然。",
+        "objects_structure": "通過：書本、澆水壺、電話、寵物籠與任務板結構合理。",
+        "contact_perspective": "通過：人物與物品、桌面接觸合理，教室透視一致。",
+        "text_brand_watermark": "通過：無可讀文字、品牌或浮水印，任務板使用圖示。",
+        "inappropriate_content": "通過：無不適內容。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
