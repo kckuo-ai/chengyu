@@ -9194,6 +9194,23 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1131": {
+      "no": 1131,
+      "path": "/workspace/scratch/idiom-work/1131.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "checks": {
+        "meaning": "通過：多名孩子擠在狹小工具棚內，與門外寬闊公園形成清楚尺度對比。",
+        "composition": "通過：3:2 橫向畫面以棚內近景和門外遠景建立空間對比，主題明確。",
+        "people_limbs": "通過：人物手腳與姿勢均可辨識，前景孩子伸展姿勢符合棚內活動情境。",
+        "objects_structure": "通過：工具棚、層架、花盆、籃子與園藝工具結構合理。",
+        "contact_perspective": "通過：孩子與地面、棚壁及物品的接觸自然，近大遠小透視一致。",
+        "text_brand_watermark": "通過：無可讀文字、品牌或浮水印。",
+        "inappropriate_content": "通過：無不適、危險或不當內容。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
