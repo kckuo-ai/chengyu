@@ -9568,6 +9568,23 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1157": {
+      "no": 1157,
+      "path": "/workspace/scratch/idiom-work/1157.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "checks": {
+        "meaning": "通過：孩子路過時順手取物，朋友提醒後歸還，清楚呈現乘機取走他物的行為及修正。",
+        "composition": "通過：四格連續動作從伸手、阻止、歸還到道歉，敘事明確。",
+        "people_limbs": "通過：人物手腳、拉手與遞還玩具姿勢自然。",
+        "objects_structure": "通過：玩具車、野餐桌、積木與公園環境結構合理。",
+        "contact_perspective": "通過：人物與玩具、桌面接觸合理，四格透視一致。",
+        "text_brand_watermark": "通過：無可讀文字、品牌或浮水印。",
+        "inappropriate_content": "通過：無威脅或暴力內容，為公民教育情境。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
