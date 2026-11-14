@@ -1196,22 +1196,43 @@
     },
     "670": {
       "no": 670,
-      "word": "落花流水",
-      "path": "/workspace/generated_images/exec-fa8cd7ff-20f6-4f59-ac32-4aa3ad371c8e.png",
+      "kind": "regenerate",
+      "path": "/workspace/scratch/idiom-work/670-regenerate-01d89556c4b6ed1acba0430d52d658fa84b82b8e4cdb9cb076f3941a0289e828.png",
       "passed": true,
-      "reviewer": "/root/idiom_gen_a/verify_650/verify_652/verify_656/verify_670",
-      "reviewed_at": "2026-11-05T00:00:00+08:00",
-      "checks": {
-        "meaning": "暮春枝頭多已謝落，花瓣散在岸邊並隨河水漂流，直接符合暮春殘敗景象，也保留花落水流的典型辨識度。",
-        "anatomy": "母子可見肢體數量合理，手臂與趴靠姿勢自然，未見多餘肢體。",
-        "safety_contact": "人物在石柱與鏈條護欄後方觀察，沒有探身越過河岸；身體與欄柱接觸合理。",
-        "water_physics": "河流方向與花瓣漂移一致，花瓣沿水面分散，岸邊落瓣與流動河面銜接自然；倒影與橋梁透視合理。",
-        "style": "鉛筆線條、柔和水彩、紙張紋理及低飽和自然色符合要求。",
-        "text": "未見可讀文字、答案、標誌或浮水印。"
-      },
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "台灣國小躲避球比賽後一隊歡呼，另一隊坐倒在地、帽子水壺散落，顯示輸得一敗塗地。",
       "issues": [],
       "regenerate": false,
-      "alt": "春末河岸的櫻花已大多凋謝，花瓣散落步道並漂流在水面上，母子隔著護欄靜靜觀賞。"
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "一隊高舉雙手歡呼，另一隊東倒西歪、帽子水壺散落且神情沮喪，清楚表現被打得大敗。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "操場左右兩隊形成強烈勝敗對比，落花只作角落呼應，不掩蓋主要表意。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "實際查看原圖，人物手臂連接肩膀、手指與雙腳姿勢自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "足球、畫具、小提琴盒與桌面接觸合理，三段透視一致。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣國小校園、素色校服與社團攤位構成台灣情境。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "實際查看所有人物服裝，均無紅領巾或紅圍巾。"
+        }
+      }
     },
     "672": {
       "no": 672,
