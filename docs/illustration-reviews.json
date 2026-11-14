@@ -9262,6 +9262,23 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1137": {
+      "no": 1137,
+      "path": "/workspace/scratch/idiom-work/1137.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "checks": {
+        "meaning": "通過：左側只換封面、內部仍凌亂，右側真正整理內部，清楚對比形式改變與實質改變。",
+        "composition": "通過：左右對照、剖面視窗與學生動作使寓意一目了然。",
+        "people_limbs": "通過：兩位學生的手部操作與坐姿自然，肢體完整。",
+        "objects_structure": "通過：盒子、封面、紙張、文具與剖面內容結構合理。",
+        "contact_perspective": "通過：學生與盒子、文具接觸自然，左右桌面透視一致。",
+        "text_brand_watermark": "通過：無可讀文字、品牌或浮水印。",
+        "inappropriate_content": "通過：無不適內容。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
