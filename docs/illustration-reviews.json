@@ -9779,6 +9779,46 @@
           "evidence": "實際查看所有人物服裝，均無紅領巾或紅圍巾。"
         }
       }
+    },
+    "48": {
+      "no": 48,
+      "kind": "regenerate",
+      "path": "/workspace/scratch/idiom-work/48-regenerate-511561202b16efd3710c4e3857203db5932aa0cfb1ac795ab291ff878f7e44ce.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "台灣國小生騎單車爬坡，女孩一口氣衝上坡頂，另一名孩子中途停下只能牽車。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "女孩持續踩踏衝上坡頂，另一名孩子中途停下牽車，清楚呈現一口氣做到底與中斷的對比。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "坡道斜線和兩名騎車者形成由下而上的動線，背景關卡與校園維持現代台灣情境。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "實際查看原圖，人物手臂連接肩膀、手指與雙腳姿勢自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "足球、畫具、小提琴盒與桌面接觸合理，三段透視一致。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣國小校園、素色校服與社團攤位構成台灣情境。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "實際查看所有人物服裝，均無紅領巾或紅圍巾。"
+        }
+      }
     }
   }
 }
