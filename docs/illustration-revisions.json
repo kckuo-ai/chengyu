@@ -348,5 +348,20 @@
     "replacement": "img/idioms/1053-69a720c6d1e8.webp",
     "review": "/workspace/scratch/idiom-work/1053.review.json",
     "status": "published"
+  },
+  {
+    "no": 1157,
+    "reason": "P1 審查指出舊圖表現歸還物品，與順手牽羊相反；改為公園野餐時路過孩子把無人看管的餅乾袋放入口袋。",
+    "previousEntry": {
+      "word": "順手牽羊",
+      "src": "img/idioms/1157.webp",
+      "originalSha256": "legacy"
+    },
+    "previousBrief": "docs/illustration-prompts.json entries.1157 before replacement",
+    "previousReview": "docs/illustration-reviews.json entries.1157 before replacement",
+    "replacementOriginal": "/workspace/scratch/idiom-work/1157-regenerate-1512d827b5b91d4fe72c0046249035f33c90a735ea5d5d17d751721a7a89d66f.png",
+    "replacement": "img/idioms/1157-1512d827b5b9.webp",
+    "review": "/workspace/scratch/idiom-work/1157.review.json",
+    "status": "published"
   }
 ]

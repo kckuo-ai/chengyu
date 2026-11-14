@@ -440,7 +440,7 @@
       "category": "meaning",
       "defect": "四格內容是男孩把桌上的玩具車交還給失主並道歉，表現的是「拾金不昧／知錯能改」，與「順手牽羊」的詞義相反；孩子看圖題會答錯。",
       "suggested_scene_prompt": "順手牽羊：採「乘機順便取走他人財物」義（兒童適齡）。公園野餐區，一家人起身去看鴿子，野餐墊上的一包餅乾無人看管；一個路過的孩子邊走邊東張西望，順手把那包餅乾塞進自己的外套口袋，腳步不停繼續往前走。遠處的家人還沒察覺。只畫「順手拿走」這一刻，不畫歸還或道歉。不出現品牌或文字。",
-      "status": "pending",
+      "status": "published",
       "previousEntry": {
         "word": "順手牽羊",
         "src": "img/idioms/1157.webp",
@@ -449,7 +449,10 @@
         "height": 1024,
         "source": "AI-generated original illustration",
         "originalSha256": "aef7b8712da7d8635b1c576a592fe1afee2762ab4b6be6ef00c697a6a87041ab"
-      }
+      },
+      "replacement": "img/idioms/1157-1512d827b5b9.webp",
+      "replacementOriginal": "/workspace/scratch/idiom-work/1157-regenerate-1512d827b5b91d4fe72c0046249035f33c90a735ea5d5d17d751721a7a89d66f.png",
+      "publishedAt": "2026-11-14T23:00:12.981455+00:00"
     }
   ]
 }
