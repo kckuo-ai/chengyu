@@ -305,7 +305,7 @@
       "category": "meaning",
       "defect": "老師笑著與孩子在橋模型上貼便利貼，氣氛愉快，看起來像正向的建議，看不出「被批評得一無是處」；且再度使用全站重複最多的橋模型道具。",
       "suggested_scene_prompt": "體無完膚：採「被批評、駁斥得一無是處」義。班級辯論賽：一名孩子自信地舉著自己的海報說明主張，對方三名同學依序舉出證據（照片、實物、數據圖示，皆無文字），他的海報上被一張張貼上紅色叉叉便條，最後整張海報幾乎被叉叉蓋滿，他愣在原地、海報垂下。表現「論點被逐一駁倒、毫無保留」。不使用橋模型。不出現文字。",
-      "status": "pending",
+      "status": "published",
       "previousEntry": {
         "word": "體無完膚",
         "src": "img/idioms/677.webp",
@@ -314,7 +314,10 @@
         "height": 1024,
         "source": "AI-generated original illustration",
         "originalSha256": "582685a6270325fe0c243f160764757f2e9d7a43436b5a398d1e534b12b26099"
-      }
+      },
+      "replacement": "img/idioms/677-0774e3e1893d.webp",
+      "replacementOriginal": "/workspace/scratch/idiom-work/677-regenerate-0774e3e1893dade1a3155b6b008c918b4d07365c5e82e26b81aa3258ae99bde5.png",
+      "publishedAt": "2026-11-14T21:04:31.876221+00:00"
     },
     {
       "no": 705,

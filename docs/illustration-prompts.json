@@ -3144,8 +3144,13 @@
     },
     "677": {
       "word": "體無完膚",
-      "scene_prompt": "Use the figurative meaning of 體無完膚: a proposal is criticized and rebutted so thoroughly that no part remains unchallenged. At a modern student design review, a young inventor presents a cardboard bridge model and simple poster. A friendly teacher and two classmates carefully point out problems across different parts of the model—weak supports, a gap in the roadway, uneven load distribution—while the student listens thoughtfully, surprised but safe. Many small blank sticky notes and colored arrows mark flaws across the model, showing thorough critique without insulting the child. No injury or physical violence. Natural anatomy, exactly two arms and legs, hands and pointing contact plausible, bridge model supported on table with sensible beam placements.",
-      "alt": "老師和同學仔細指出紙橋模型各處的問題，學生聽著全面的建議。"
+      "meaning": "被批評、駁斥得一無是處。",
+      "sha256": "0774e3e1893dade1a3155b6b008c918b4d07365c5e82e26b81aa3258ae99bde5",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "現代台灣國小班級辯論賽：一名孩子自信舉著無文字海報，對方三名同學分別拿照片、實物與無文字圖示提出證據，紅色叉號便條逐一貼滿海報，孩子愣住垂下海報；不使用橋模型。",
+      "alt": "台灣國小辯論課中孩子的海報被同學逐一指出問題，紅色叉號貼滿後只好垂下海報。"
     },
     "678": {
       "word": "視死如歸",

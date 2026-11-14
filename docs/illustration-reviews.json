@@ -1328,21 +1328,43 @@
     },
     "677": {
       "no": 677,
-      "word": "體無完膚",
-      "path": "/workspace/generated_images/exec-4ca6973e-0b5d-4daa-8a4c-89167d7eccf9.png",
+      "kind": "regenerate",
+      "path": "/workspace/scratch/idiom-work/677-regenerate-0774e3e1893dade1a3155b6b008c918b4d07365c5e82e26b81aa3258ae99bde5.png",
       "passed": true,
-      "reviewer": "/root/idiom_gen_b/verify_659/verify_661/verify_677",
-      "reviewed_at": "2026-11-05T09:42:42+00:00",
-      "checks": {
-        "meaning": "老師和同學分別指出紙橋各處的缺點，散布於整座模型的空白便利貼和箭頭表達全面檢視、無一處不受批評的引申義，場景友善且沒有肢體傷害。",
-        "anatomy": "四人可辨認的可見肢體比例自然；教師伸出的手指及學生托腮、指向模型的手勢連接合理，未見明顯多餘肢體。",
-        "bridge": "模型呈現橋面接縫和不同支撐問題，木條/紙板結構由桌面支承；有多個箭頭指向需改進的位置，模型本身仍安全地放在桌上。",
-        "contact_physics": "手部沒有穿過模型或桌面；模型底座和桌腳支撐明確，人物姿勢與桌邊接觸自然，透視可接受。",
-        "style": "鉛筆輪廓、柔和水彩、紙張紋理與自然低飽和配色符合畫風。",
-        "text": "未見可讀文字、標誌或浮水印，便利貼為空白。"
-      },
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "台灣國小辯論課中孩子的海報被同學逐一指出問題，紅色叉號貼滿後只好垂下海報。",
       "issues": [],
-      "regenerate": false
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "孩子的海報被三名同學以照片、實物與圖示逐一指出問題，紅色叉號便條幾乎覆蓋整張海報，孩子愣住垂下海報，清楚表現論點被駁倒得一無是處。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "教室辯論場景以垂下且貼滿紅叉便條的海報為視覺焦點，三名同學分列提出不同證據，沒有橋模型，主題明確。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "實際查看原圖，人物手臂連接肩膀、手指與雙腳姿勢自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "足球、畫具、小提琴盒與桌面接觸合理，三段透視一致。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "觀察到台灣國小教室、國小年齡比例、制服與課桌椅及窗外校園環境，符合台灣現代教育場景。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一觀察所有人物頸部與服裝，均未見紅領巾或紅圍巾。"
+        }
+      }
     },
     "678": {
       "no": 678,

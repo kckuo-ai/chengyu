@@ -256,5 +256,21 @@
     "replacementOriginal": "/workspace/scratch/idiom-work/670-regenerate-01d89556c4b6ed1acba0430d52d658fa84b82b8e4cdb9cb076f3941a0289e828.png",
     "replacement": "img/idioms/670-01d89556c4b6.webp",
     "status": "published"
+  },
+  {
+    "no": 677,
+    "reason": "P1 審查指出舊圖使用橋模型且看不出被駁斥得一無是處；改為辯論海報被紅叉逐一覆蓋。",
+    "previousEntry": {
+      "word": "體無完膚",
+      "src": "img/idioms/677.webp",
+      "alt": "老師和同學仔細指出紙橋模型各處的問題，學生聽著全面的建議。",
+      "originalSha256": "582685a6270325fe0c243f160764757f2e9d7a43436b5a398d1e534b12b26099"
+    },
+    "previousBrief": "docs/illustration-prompts.json entries.677 before replacement",
+    "previousReview": "docs/illustration-reviews.json entries.677 before replacement",
+    "replacementOriginal": "/workspace/scratch/idiom-work/677-regenerate-0774e3e1893dade1a3155b6b008c918b4d07365c5e82e26b81aa3258ae99bde5.png",
+    "replacement": "img/idioms/677-0774e3e1893d.webp",
+    "review": "/workspace/scratch/idiom-work/677.review.json",
+    "status": "published"
   }
 ]
