@@ -9279,6 +9279,23 @@
       },
       "issues": [],
       "regenerate": false
+    },
+    "1138": {
+      "no": 1138,
+      "path": "/workspace/scratch/idiom-work/1138.png",
+      "passed": true,
+      "reviewer": "controller_visual_review",
+      "checks": {
+        "meaning": "通過：學生因故障憑情緒想破壞機器人，隊友和老師提供理性檢查方法。",
+        "composition": "通過：機器人、情緒化動作、鬆脫電線與清單形成清楚因果。",
+        "people_limbs": "通過：人物手腳、姿勢與互動自然，老師制止動作清楚。",
+        "objects_structure": "通過：機器人、電線、工具與檢查板結構合理。",
+        "contact_perspective": "通過：人物與桌面、機器人及工具接觸合理，透視一致。",
+        "text_brand_watermark": "通過：無可讀文字、品牌或浮水印。",
+        "inappropriate_content": "通過：無破壞、受傷或危險結果，僅呈現安全的情緒管理情境。"
+      },
+      "issues": [],
+      "regenerate": false
     }
   }
 }
