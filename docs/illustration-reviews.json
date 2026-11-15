@@ -11598,6 +11598,46 @@
           "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
         }
       }
+    },
+    "1198": {
+      "no": 1198,
+      "kind": "new",
+      "path": "/workspace/scratch/idiom-work/1198.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "台灣國小寫作課裡孩子靈感一來便快速完成文章與插圖，老師和同學讚賞他的敏捷創作。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "實際查看原圖，中央孩子靈感出現後迅速寫作與展示作品，老師和同學驚喜稱讚，清楚表現文思敏捷、寫作迅速。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "寫作中的孩子、靈感燈泡圖示與完成作品形成清楚敘事；紙張只有不可讀線條，無文字、字母或數字。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "實際查看人物，手臂連接肩膀、手指與坐姿自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "筆、紙張、桌面與作品接觸及透視合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小寫作課、學生制服、老師與校園教室場景明確。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
+        }
+      }
     }
   }
 }
