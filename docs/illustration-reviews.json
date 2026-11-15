@@ -11478,6 +11478,46 @@
           "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
         }
       }
+    },
+    "1194": {
+      "no": 1194,
+      "kind": "new",
+      "path": "/workspace/scratch/idiom-work/1194.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "台灣國小園遊會中，孩子表面參與布置活動，實際上一直注意餅乾攤位，露出別有用心的神情。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "實際查看原圖，孩子身在園遊會布置活動中，眼神與動作卻持續關注餅乾攤位並取食，清楚表現表面一事、實際另有所圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "前景餅乾與孩子視線、背景布置工作形成對比；無可讀文字、字母或數字。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "實際查看人物，手臂連接肩膀，手指及站姿自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "餅乾盤、舞台布置、梯子與人物接觸及透視合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小園遊會、學生制服、校園舞台與現代活動場景明確。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
+        }
+      }
     }
   }
 }
