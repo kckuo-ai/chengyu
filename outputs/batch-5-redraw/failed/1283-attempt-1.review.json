@@ -1,0 +1,47 @@
+{
+  "no": 1283,
+  "id": 1283,
+  "path": "/workspace/chengyu/outputs/batch-5-redraw/1283.png",
+  "reviewer": "independent_review",
+  "method": "view_image 獨立實際檢視原始 PNG",
+  "passed": false,
+  "issues": [
+    "僅一顆大布球，未呈多顆布球中多數進入藍方區域。",
+    "alt 的多數球與實圖單球不符。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "一藍對四黃的對抗與少方認輸清楚，但兩格皆僅有一顆大布球，沒有使用者指定的多顆中央布球及多數球進入藍方區域；不是要求的完整關鍵動作。"
+    },
+    "anatomy": {
+      "passed": true,
+      "evidence": "主要人物各有兩臂，雙方伸手推球、另一手收旁，無明確多手；黃方部分臂腿相互遮擋，不能逐手數清隱藏手指。"
+    },
+    "physics": {
+      "passed": true,
+      "evidence": "球接桌面、桌腳落地，孩子腳底承地，沒有投擲或撞擊。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "細鉛筆、水彩、色鉛筆顆粒與米白紙紋符合固定畫風。"
+    },
+    "text": {
+      "passed": true,
+      "evidence": "校園、背心、球與桌面未見文字、字母、數字、品牌或浮水印；桌面有方向箭頭但不是字形，1283 個別要求未禁箭頭。"
+    },
+    "alt": {
+      "passed": false,
+      "evidence": "alt 寫多數球進入藍方一側，但實際全圖只有一顆大布球，與畫面不符。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代國小操場、校舍、籃框與白藍制服外穿素面分隊背心，符合台灣校園安全遊戲設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "人物穿白藍制服、黃或藍背心，老師紫色外套，無紅領巾或紅圍巾。"
+    }
+  }
+}
