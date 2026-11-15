@@ -10998,6 +10998,46 @@
           "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
         }
       }
+    },
+    "1178": {
+      "no": 1178,
+      "kind": "new",
+      "path": "/workspace/scratch/idiom-work/1178.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "台灣國小自然教室裡孩子看到向日葵，從名稱聯想到它向著太陽生長的特徵。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "實際查看原圖，孩子從向日葵名稱聯想到花朵朝向陽光，並指向窗外盛開的向日葵，清楚表現由名稱聯想到含義。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "向日葵實物、簡單圖畫與孩子指認形成清楚因果，畫面無可讀文字、字母或數字。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "實際查看人物，手臂連接肩膀、手指與站坐姿勢自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "花盆、畫板、桌面與窗景結構完整，接觸和透視合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小自然教室、學生制服、老師與窗外城市景觀明確。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
+        }
+      }
     }
   }
 }
