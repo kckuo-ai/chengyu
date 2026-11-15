@@ -11518,6 +11518,46 @@
           "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
         }
       }
+    },
+    "1196": {
+      "no": 1196,
+      "kind": "new",
+      "path": "/workspace/scratch/idiom-work/1196.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "台灣國小自然課孩子測量植物高度、觀察葉片並記錄圖表，老師引導大家依據實際結果討論。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "實際查看原圖，孩子以尺測量植物、觀察葉片並把實際結果畫成無數字圖表，清楚表現做事切實、力求真確。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "植物、尺、觀察板與圖表形成實證學習構圖；圖表沒有可讀文字、字母或數字。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "實際查看人物，手臂連接肩膀，手指、站坐姿勢自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "花盆、尺、桌面與觀察板接觸和透視合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小自然課、學生制服、老師與校園實驗場景明確。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
+        }
+      }
     }
   }
 }
