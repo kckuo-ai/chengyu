@@ -11438,6 +11438,46 @@
           "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
         }
       }
+    },
+    "1193": {
+      "no": 1193,
+      "kind": "new",
+      "path": "/workspace/scratch/idiom-work/1193.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "台灣國小教室先是手作材料散亂、桌椅凌亂，老師帶孩子分類整理並清掃，最後恢復整齊明亮。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "實際查看原圖，上方教室材料散亂、桌椅失序，老師帶學生分類、整理和清掃，下方教室恢復整齊並歡呼，清楚表現扭轉亂象歸於正道。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "三段前後流程與箭頭呈現由亂到治，無可讀文字、字母或數字。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "實際查看人物，手臂連接肩膀，手指與清掃搬運姿勢自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "桌椅、材料箱、掃把和地面接觸與透視合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小教室、學生制服、老師與班級整理場景明確。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
+        }
+      }
     }
   }
 }
