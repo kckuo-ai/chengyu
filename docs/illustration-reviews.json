@@ -10798,6 +10798,46 @@
           "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
         }
       }
+    },
+    "1173": {
+      "no": 1173,
+      "kind": "new",
+      "path": "/workspace/scratch/idiom-work/1173.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "台灣家庭聚會中大人沉迷喧鬧娛樂與飲食，孩子在旁安靜寫作業，呈現失去節制的生活對比。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "實際查看原圖，右側大人沉迷喧鬧歌唱、飲食和娛樂，左側孩子獨自寫作業形成對比，表現荒誕失序的生活。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "左右分割構圖清楚對比孩子的學習與大人過度娛樂，無可讀文字、字母或數字。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "實際查看人物，手臂連接肩膀、手指與姿勢自然，無不當肢體。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "沙發、桌面、飲料杯、食物與樂器接觸和透視合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣家庭客廳、國小學生制服與現代居家聚會場景明確。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
+        }
+      }
     }
   }
 }
