@@ -11038,6 +11038,46 @@
           "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
         }
       }
+    },
+    "1180": {
+      "no": 1180,
+      "kind": "new",
+      "path": "/workspace/scratch/idiom-work/1180.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "台灣國小運動會接力賽後，孩子們揮旗、拍手歡呼，老師和同學一起分享勝利的喜悅。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "實際查看原圖，接力賽後孩子揮旗、拍手、擁抱並歡笑，老師也振奮鼓掌，清楚表現歡樂振奮。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "前景隊員與後方揮旗同學、老師共同形成熱烈慶祝構圖；無可讀文字、字母或數字。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "實際查看人物，手臂連接肩膀、手指與跑跳姿勢自然，腳部接觸地面合理。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "接力棒、旗幟、操場與人物接觸和透視合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小操場、學生運動服、老師與校慶活動場景明確。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
+        }
+      }
     }
   }
 }
