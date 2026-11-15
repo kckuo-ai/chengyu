@@ -11198,6 +11198,46 @@
           "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
         }
       }
+    },
+    "1186": {
+      "no": 1186,
+      "kind": "new",
+      "path": "/workspace/scratch/idiom-work/1186.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "台灣國小自然課實驗失手打翻水杯後，孩子們檢討原因並改用托盤和毛巾，小心完成後續操作。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "實際查看原圖，上方是打翻水杯後的反省，下方孩子在老師指導下使用托盤重新操作，清楚表現從前過失得到教訓並戒慎改正。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "上下分鏡與箭頭呈現前後因果，無可讀文字、字母或數字。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "實際查看人物，手臂連接肩膀、手指與姿勢自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "燒杯、托盤、毛巾和桌面結構完整，接觸與透視合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小自然教室、學生制服、老師與校園窗景明確。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
+        }
+      }
     }
   }
 }
