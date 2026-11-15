@@ -11278,6 +11278,46 @@
           "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
         }
       }
+    },
+    "1189": {
+      "no": 1189,
+      "kind": "new",
+      "path": "/workspace/scratch/idiom-work/1189.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "台灣國小環保教室從雜亂堆放改成清楚分類的回收站，孩子們重新規劃並一起執行新方法。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "實際查看原圖，上方雜亂回收物被重新規劃，下方孩子依新分類箱整齊整理，清楚表現改革變更、重新做起。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "上下對照與箭頭呈現改革前後，回收箱只有物件圖示，無可讀文字、字母或數字。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "實際查看人物，手臂連接肩膀，手指與搬運姿勢自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "回收箱、瓶罐、紙箱和桌架結構完整，接觸與透視合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印；分類箱僅有抽象物件圖示。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小環保教室、學生制服、老師與回收分類場景明確。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
+        }
+      }
     }
   }
 }
