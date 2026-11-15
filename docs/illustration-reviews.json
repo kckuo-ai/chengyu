@@ -11318,6 +11318,46 @@
           "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
         }
       }
+    },
+    "1190": {
+      "no": 1190,
+      "kind": "new",
+      "path": "/workspace/scratch/idiom-work/1190.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "台灣國小校園樹下，孩子因第一次看到常見蝸牛而大驚小怪，老師耐心說明自然觀察。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "實際查看原圖，孩子看到校園常見蝸牛卻張大嘴驚呼，老師和同學平靜觀察，清楚表現見識不廣而把平常事當奇怪。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "前景驚訝孩子與多隻普通蝸牛、老師手勢形成對比；無可讀文字、字母或數字。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "實際查看人物，手臂連接肩膀，手指與蹲姿自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "蝸牛、地面植被、樹幹與人物接觸及透視合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小校園、學生制服、老師與自然觀察場景明確。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
+        }
+      }
     }
   }
 }
