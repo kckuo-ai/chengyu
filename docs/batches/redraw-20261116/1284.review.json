@@ -1,0 +1,44 @@
+{
+  "no": 1284,
+  "id": 1284,
+  "path": "/workspace/chengyu/outputs/batch-5-redraw/1284.png",
+  "reviewer": "independent_review",
+  "method": "view_image 獨立實際檢視原始 PNG",
+  "passed": true,
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "桌上實物由左至右為乾豆、發芽、成熟豆株。說話上段卻由帶莢成株縮成幼株再成乾豆；中段乾豆未發芽直接接成熟豆莢；末段才澆水。三層泡泡的逆序與跳躍明確，和實物自然次序矛盾，配合男孩緊張、同學困惑、老師制止，並非正常種植圖並排。"
+    },
+    "anatomy": {
+      "passed": true,
+      "evidence": "男孩兩隻張開掌各可辨四指加拇指，老師張開掌亦為五指；肩臂自然接續。其他同學手部握持或遮擋，未見明確異常，兒童比例適齡。"
+    },
+    "physics": {
+      "passed": true,
+      "evidence": "桌上培養皿、水壺、放大鏡與成熟豆株皆由桌面或土承托，人物手勢與肩臂接續自然；泡泡是講述中的不合理狀態，與真實桌面器材有清楚分界。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "鉛筆線、水彩疊色、色鉛筆顆粒、暖米白紙紋清楚，低彩度綠藍棕符合固定畫風。"
+    },
+    "text": {
+      "passed": true,
+      "evidence": "逐看三層泡泡、黑板、書背、衣物、器材與窗景，未見文字、仿字、字母、數字、箭頭、問號、品牌或浮水印。"
+    },
+    "alt": {
+      "passed": true,
+      "evidence": "alt 描述成株縮回乾豆、乾豆直接結莢與最後澆水的混亂講述，以及困惑與制止反應，與畫面相符且無完整成語答案。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代國小自然教室有白藍素面制服、窗外校舍操場、木櫃及種豆器材，符合台灣國小生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "學生白藍制服，教師米棕衣著，全圖無紅領巾或紅圍巾。"
+    }
+  }
+}

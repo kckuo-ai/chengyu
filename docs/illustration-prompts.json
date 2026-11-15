@@ -6581,6 +6581,102 @@
       "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
       "scene_prompt": "軒然大波：採『大的糾紛或風波』。重點【一件事情引起許多人激烈爭議】。台灣社區活動中心用兩格，左格管理員把新球只分給自己熟悉的兩人，其他排隊孩子空手，家長剛看見便驚訝；右格此事引起整個社區會議熱烈爭論，多位居民站起攤掌質疑，管理員侷促坐著，主持人抬手請大家冷靜。保留同一籃球與人物，讓小事件擴成大風波的因果清楚可辨，不畫海浪或肢體衝突。所有說話只靠表情動作，不畫泡泡符號。桌上不放紙本、書籍或名牌，衣鞋與器材完全無字。 所有人一律穿整件純色無口袋上衣，不得有背心、徽章、姓名繡字、胸牌、布章、校徽或任何胸前筆畫。背景移除文件、書籍與所有標牌。",
       "alt": "管理員只把球交給兩名孩子，其他人空手等候，家長驚訝；後來社區會議上眾人起身爭論，他低頭坐著，主持人勸和。"
+    },
+    "1174": {
+      "word": "席不暇暖",
+      "scene_prompt": "席不暇暖，奔走極忙無暇休息。兩格連續故事，台灣家庭門口。同衣著母親與同洗衣籃串起先後。首格母親剛把洗衣籃放下，臀部確實坐在椅墊、雙腳著地，送貨員已抱箱出現。次格母親立即起身接箱，孩子拿外套需要協助，空椅仍留原處。紙箱由雙方手掌托底。取消所有書架，只用素面牆和盆栽。\n絕對禁止任何可讀或不可讀文字、仿字、類字形、字母、數字、標籤、品牌、浮水印，包括所有背景及圖中圖。每手五指，肩臂連接自然。",
+      "alt": "母親剛在門口坐下，隨即起身接過送貨員的箱子，孩子拿外套等待協助，空椅與洗衣籃留在原處。",
+      "original_path": "/workspace/chengyu/outputs/batch-5-redraw/1174.png",
+      "metadata": "docs/batches/redraw-20261116/1174.metadata.json",
+      "review": "docs/batches/redraw-20261116/1174.review.json"
+    },
+    "1178": {
+      "word": "顧名思義",
+      "scene_prompt": "顧名思義，先知道名稱再推想特徵，不能依外觀猜謎。兩格台灣家庭陽台。首格虎尾蘭完全被布遮住、盆栽穩放桌上，母親介紹名稱，母親的圓滑說話泡泡內只有老虎、尾巴、蘭葉三個無字圖像；孩子的雲形想像泡泡將名稱線索組合成帶虎紋的長葉。次格才揭布，真實虎尾蘭長葉與推想一致，孩子露出理解神情。兩類泡泡形狀分明。\n全畫面含圖中圖不得有文字、仿字、類字形、字母、數字、品牌、浮水印、標籤。每手五指。",
+      "alt": "母親以老虎、尾巴與長葉圖像介紹被布遮住的盆栽，孩子想像虎紋長葉，揭布後看到相符的植物。",
+      "original_path": "/workspace/chengyu/outputs/batch-5-redraw/1178.png",
+      "metadata": "docs/batches/redraw-20261116/1178.metadata.json",
+      "review": "docs/batches/redraw-20261116/1178.review.json"
+    },
+    "1274": {
+      "word": "搖搖欲墜",
+      "scene_prompt": "搖搖欲墜，搖晃不穩將要倒下但尚未倒下。台灣家庭客廳矮桌上一座上大下小的積木塔，重心明顯偏離底座，向側面傾斜，底部剩狹窄接觸面；積木尚未散落。男孩跪坐，小腿有地面支撐，雙手縮胸前不敢碰，母親張開雙掌示意退開，兩人擔心看塔頂。無人推塔。取消書架，只留素牆、窗簾與布沙發。積木與桌面接觸符合物理。\n全圖含圖中圖禁止文字、仿字、類字形、字母、數字、標籤、品牌、浮水印。",
+      "alt": "桌上上大下小的積木塔傾斜，男孩縮手不敢碰，母親張掌示意退開，兩人望著尚未倒下的塔。",
+      "original_path": "/workspace/chengyu/outputs/batch-5-redraw/1274.png",
+      "metadata": "docs/batches/redraw-20261116/1274.metadata.json",
+      "review": "docs/batches/redraw-20261116/1274.review.json"
+    },
+    "1275": {
+      "word": "有教無類",
+      "scene_prompt": "有教無類，施教不因身分貧富等條件區別。台灣社區免費繪畫課，老師蹲下把相同品質完整水彩盒交給輪椅孩子；樸素舊衣、一般制服、新衣同學在同張長桌自在作畫，每人同樣完整材料。不能用骯髒衣物或可憐表情標記身分。無書架，後牆是無字動植物作品，畫具包裝與衣服全素面。輪椅座面、腳踏、輪軸、桌椅支撐清楚。\n全圖含圖中圖禁止文字、仿字、類字形、字母、數字、標籤、品牌、浮水印。",
+      "alt": "老師蹲下把水彩盒交給輪椅孩子，不同衣著的同學同桌作畫，每人都有同樣完整的材料。",
+      "original_path": "/workspace/chengyu/outputs/batch-5-redraw/1275.png",
+      "metadata": "docs/batches/redraw-20261116/1275.metadata.json",
+      "review": "docs/batches/redraw-20261116/1275.review.json"
+    },
+    "1276": {
+      "word": "有名無實",
+      "scene_prompt": "有名無實，掛職責身分卻沒做工作。台灣國小圖書角，男孩坐椅上得意指上臂的純書本圖案臂章，書籍散桌面地上，其他同學辛苦分類搬書，困惑望他。主角嚴格兩臂，一手指臂章另一手放膝上，禁止腦後手第三手。全部書背單色無紋，沒有貼紙分類標籤，攤開頁面只畫風景。椅面托臀、腳底著地。\n精確修改參考圖：只將主角左上臂藍臂章上的書本圖案內所有短橫線刪除，改成兩頁完全空白的米白色紙頁，只保留書本外輪廓與單一中縫。內頁禁止任何筆畫、平行線、文字、仿字、數字。保留全幅構圖、所有人物姿勢及其餘畫面細節。全圖所有書脊純色無紋無標記。",
+      "alt": "男孩坐著指向書本圖案臂章，另一手放膝上，同學在散亂書堆間搬書整理並困惑望向他。",
+      "original_path": "/workspace/chengyu/outputs/batch-5-redraw/1276.png",
+      "metadata": "docs/batches/redraw-20261116/1276.metadata.json",
+      "review": "docs/batches/redraw-20261116/1276.review.json"
+    },
+    "1277": {
+      "word": "槁木死灰",
+      "scene_prompt": "槁木死灰，因重大受挫意志消沉毫無生氣。兩格台灣成人畫室。首格男子帶精心完成的獨特山海日落畫作前往展覽徵選，承辦人歉然將他的畫作退還，展示牆都是其他人的作品；用承辦人拒絕收下、將畫推回男子的清楚動作表現退件。次格男子同衣著，同山海日落畫靠桌邊有支撐，他垂頭呆坐、雙手無力，對家人遞來畫具鼓勵毫無反應，呈失去希望而非疲倦。無書架、無退件文字、無叉號。\n精確編輯參考圖：移除左格展覽牆上所有白色小展牌、小標籤、卡片、貼紙及一切文字肌理，填回完全素面米白牆。牆上僅保留畫框內的自然風景畫，不准任何展牌標示。不論前景背景、圖中圖一律無文字、仿字、類字形、字母、數字、品牌浮水印。其餘人物、同一畫作退件再消沉的兩格情節、構圖與畫風完整保留。",
+      "alt": "男子精心繪製的山海日落畫被退回，之後垂頭呆坐在同一畫作旁，對家人遞來的畫具毫無反應。",
+      "original_path": "/workspace/chengyu/outputs/batch-5-redraw/1277.png",
+      "metadata": "docs/batches/redraw-20261116/1277.metadata.json",
+      "review": "docs/batches/redraw-20261116/1277.review.json"
+    },
+    "1282": {
+      "word": "耳鬢廝磨",
+      "scene_prompt": "耳鬢廝磨，親密相處長久相伴。台灣家庭午後客廳，成年夫妻並肩坐布沙發，頭肩輕靠，微笑共同翻看膝上有實際承托的無字家庭相冊，裡面只有兩人不同生活時期共同出遊照片，視線手勢圍繞回憶。茶几茶杯水果，親密自在。無兒童戀愛、無露骨姿勢。取消書架，只有盆栽窗簾與無字素面風景畫。照片相冊完全無字。\n全圖含相冊照片與風景畫禁止文字、仿字、類字形、字母、數字、標籤、品牌、浮水印。",
+      "alt": "成年夫妻在沙發上頭肩相靠，共同翻看膝上的家庭相冊，照片記錄兩人不同時期一起出遊的回憶。",
+      "original_path": "/workspace/chengyu/outputs/batch-5-redraw/1282.png",
+      "metadata": "docs/batches/redraw-20261116/1282.metadata.json",
+      "review": "docs/batches/redraw-20261116/1282.review.json"
+    },
+    "1283": {
+      "word": "寡不敵眾",
+      "scene_prompt": "寡不敵眾，人少抵擋不了人多。兩格台灣國小安全合作對抗遊戲。同一名藍背心孩子與四名黃背心孩子隔平整桌面爭中央布球。首格雙方同時各只用一手將球推往對方區域，藍方努力抵擋。次格黃方四人合作已把多數球推入藍方區域，藍方無奈停手認輸，老師示意重新平衡分隊。明確兩隊互相推球對抗，非分類或加料。無投擲撞擊，背心與球全素面無字號。每格保持一藍四黃。\n非常重要：桌上是七顆獨立小布球，每顆像網球大小，絕對不是一顆大球。上下兩格，每格左側只有一名藍背心國小孩子，右側四名黃背心國小孩子。首格七顆小布球集中桌面中央，四名黃方孩子各用一隻手平推不同小球朝左側，藍方單人一手抵擋，另一手收身邊。次格七顆球中的五顆已分散在桌面左側藍方區域，另外兩顆留在中間；藍方停手無奈，老師走近張掌示意重分隊。用桌面左半邊淡藍、右半邊淡黃的無紋布墊區分領域。球全部純色、清楚可數、穩放桌上。無箭頭、無動態符號、無字、無仿字、無類字形、無標籤、無字母數字、無品牌、無浮水印。每手五指、每人兩臂、肩臂正常，不要多人手臂融合。",
+      "alt": "一名藍背心孩子隔桌抵擋四名黃背心孩子推來的布球，之後多數球進入藍方一側，他無奈停手，老師示意重分隊。",
+      "original_path": "/workspace/chengyu/outputs/batch-5-redraw/1283.png",
+      "metadata": "docs/batches/redraw-20261116/1283.metadata.json",
+      "review": "docs/batches/redraw-20261116/1283.review.json"
+    },
+    "1284": {
+      "word": "語無倫次",
+      "scene_prompt": "語無倫次，說話顛倒錯亂前後矛盾。台灣國小自然課男孩緊張介紹種豆，桌上實物清楚依乾豆、發芽、成株左至右排列。其說話泡泡分三段，第一段同一畫面成株縮回乾豆，第二段未發芽的乾豆直接長出成熟豆莢，第三段最後才用水壺澆乾豆。必須透過連續小畫面的變化使荒謬逆轉與跳躍清楚可讀，不能只是正常種植圖並排。同學交換困惑眼神，老師張掌請停下重講。禁止文字、箭頭、問號、數字，器材穩放桌面。\n說話三段泡泡每段以相鄰小圖呈現明確狀態變化：茂盛成株逐漸縮小到乾豆；乾豆未發芽便直接結成熟豆莢；最後才澆水。禁止箭頭、文字、仿字、類字形、字母、數字、問號、標籤、品牌、浮水印。",
+      "alt": "男孩緊張講述種豆經過，說話圖像把成株縮回乾豆、乾豆直接結莢與最後澆水混為先後，同學困惑，老師張掌請他停下。",
+      "original_path": "/workspace/chengyu/outputs/batch-5-redraw/1284.png",
+      "metadata": "docs/batches/redraw-20261116/1284.metadata.json",
+      "review": "docs/batches/redraw-20261116/1284.review.json"
+    },
+    "1286": {
+      "word": "目瞪口呆",
+      "scene_prompt": "目瞪口呆，受驚而呆住，眼睜大嘴張開動作停住。台灣家庭客廳，男孩打開普通紙盒意外發現層層展開的原創精巧紙雕森林，樹木小動物瀑布豐富；雙手停盒邊，睜圓雙眼張嘴不語，家人笑看他的驚喜反應。不是一般大笑、恐怖或病痛。無書架，只有窗簾素牆盆栽。紙雕連接底板，盒蓋平放桌面。\n全圖含紙雕禁止文字、仿字、類字形、字母、數字、標籤、品牌、浮水印。",
+      "alt": "男孩打開紙盒看到精巧的紙雕森林，雙手停在盒邊，睜大雙眼、張嘴呆住，家人在後方微笑。",
+      "original_path": "/workspace/chengyu/outputs/batch-5-redraw/1286.png",
+      "metadata": "docs/batches/redraw-20261116/1286.metadata.json",
+      "review": "docs/batches/redraw-20261116/1286.review.json"
+    },
+    "1287": {
+      "word": "生殺予奪",
+      "scene_prompt": "生殺予奪，人的切身大事受他人權限掌握，一人左右他人生計去留。三格台灣成人工作室連續敘事，同一穿綠工作服工人、同一木工作位。首格工人正常工作，主管握唯一工具櫃鑰匙。次格主管把該工人工具鎖入櫃中，伸掌拒絕交還並指向門外，工人空手求還工具。末格該工人無奈抱私人用品離開，身後同一工作位空了，其他人擔憂等待主管裁決。不能像普通分工具會議。無暴力死亡，無解僱文字符號數字，手腳持物接觸正常。\n全圖含工具及私人物品禁止文字、仿字、類字形、字母、數字、標籤、品牌、浮水印。",
+      "alt": "工人原本在工作，主管掌握工具櫃鑰匙，把他的工具鎖起並指向門外，工人只得抱私人用品離開，其他人擔心等待。",
+      "original_path": "/workspace/chengyu/outputs/batch-5-redraw/1287.png",
+      "metadata": "docs/batches/redraw-20261116/1287.metadata.json",
+      "review": "docs/batches/redraw-20261116/1287.review.json"
+    },
+    "1290": {
+      "word": "未卜先知",
+      "scene_prompt": "未卜先知，事先明確預告未來稍後果然發生。兩格台灣校園，同一男孩同學、同橘貓與同一圓肚淡青盆紫花、同一窗台。首格晴朗，男孩說話泡泡只有純圖像，清楚預告橘貓在窗邊碰翻紫花盆、土灑出，同學半信半疑；現實橘貓此時在遠處地面，窗台盆還穩立。次格橘貓跳上同窗台果然碰倒同紫花盆，花土散落，孩子驚訝回看沉著預告者。用獨特花色盆形位置串起預告應驗。沒有人先搬物避災，貓無傷、碎片遠離人物。\n全圖含預告泡泡禁止文字、仿字、類字形、字母、數字、標籤、品牌、浮水印。",
+      "alt": "男孩先以圖像預告橘貓會碰翻窗邊紫花盆，當時貓仍在遠處；稍後同一橘貓果然碰倒同一花盆，同學驚訝回望他。",
+      "original_path": "/workspace/chengyu/outputs/batch-5-redraw/1290.png",
+      "metadata": "docs/batches/redraw-20261116/1290.metadata.json",
+      "review": "docs/batches/redraw-20261116/1290.review.json"
     }
   },
   "generation_policy": {
