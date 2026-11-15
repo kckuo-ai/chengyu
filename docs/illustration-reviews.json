@@ -10878,6 +10878,46 @@
           "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
         }
       }
+    },
+    "1175": {
+      "no": 1175,
+      "kind": "new",
+      "path": "/workspace/scratch/idiom-work/1175.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "台灣國小自然教室裡孩子和老師照料一株嚴重枯萎的植物，神情專注地澆水和支撐它。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "實際查看原圖，中央植物葉片枯萎下垂，孩子與老師焦急而專注地澆水、支撐和觀察，清楚表現生命到了最後時刻。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "枯萎植株位於中央焦點，人物圍繞照料，健康植株作對照；無可讀文字、字母或數字。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "實際查看人物，手臂連接肩膀、手指與姿勢自然，腳部與地面接觸合理。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "花盆、澆水壺、桌面和植物結構完整，接觸和透視合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小自然教室、學生制服、老師與校園窗景明確。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
+        }
+      }
     }
   }
 }
