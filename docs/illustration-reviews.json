@@ -11638,6 +11638,46 @@
           "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
         }
       }
+    },
+    "1199": {
+      "no": 1199,
+      "kind": "new",
+      "path": "/workspace/scratch/idiom-work/1199.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "台灣社區遭遇風雨後，居民、長者、家長和孩子一起清理街道、修剪花木、分送物資，讓家園重新恢復生氣。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "實際查看原圖，社區面對風雨後由各年齡居民共同清理、種花、分送物資並重建環境，清楚表現多難中團結奮發使家園興盛。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "多世代居民分工合作、街道與花圃恢復生機，無可讀文字、字母或數字。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "實際查看人物，手臂連接肩膀，手指與搬運清理姿勢自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "推車、掃把、花盆、街道與人物接觸及透視合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣社區街道、不同年齡居民、學生制服與城市景觀明確。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
+        }
+      }
     }
   }
 }
