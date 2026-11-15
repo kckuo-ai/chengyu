@@ -10958,6 +10958,46 @@
           "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
         }
       }
+    },
+    "1177": {
+      "no": 1177,
+      "kind": "new",
+      "path": "/workspace/scratch/idiom-work/1177.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "台灣街區裡居民、長者與學生在店家、巷弄和公園熱絡交談，呈現四處可聽見的日常議論。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "實際查看原圖，街邊店家、學生、長者與居民分布在大街小巷及公園熱絡交談，清楚表現四處的談說議論。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "前景學生、左側店家與右側長者形成多點對話構圖，對話泡泡只有不可讀的抽象點狀符號，沒有文字、字母或數字。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "實際查看人物，手臂連接肩膀，手指與站坐姿勢自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "街道、店面、長椅、餐桌與人物接觸和透視合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印；泡泡內僅為抽象點狀圖示。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣街區店面、公園、學生制服、長者與日常社區場景明確。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
+        }
+      }
     }
   }
 }
