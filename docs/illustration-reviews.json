@@ -12158,6 +12158,754 @@
           "evidence": "已逐一檢查前後景與照片中人物頸部，皆無紅領巾或紅圍巾；布偶、獎盃或禮盒上的紅緞帶不是人物配戴。"
         }
       }
+    },
+    "1237": {
+      "no": 1237,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-3/1237.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-15",
+      "alt": "晴天時，女孩把摺疊雨傘和手帕放進書包；放學遇到大雨，她在走廊從容取出傘，其他孩子還站在旁邊等候。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "晴天先收妥傘與手帕，雨天同一女孩立即取傘而同學仍等候，事先備物在突然需用時派上用場的因果可見，並非只展示雨傘。 已實看網站data/illustrations.json實際src的候選圖 1204,499,788,1211，另比對同道具或詞義的既有作品；未見關鍵動作、物件關係與人物配置幾乎相同的構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "先看768×512全圖，再看1536×1024原圖左右半幅；分格用留白分開先後，關鍵人物可由服裝與物件追蹤。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "收物與取傘各兩臂，拇指對握彎曲四指自然；背景孩子各兩腿落地，主角下肢在畫框外，無多肢。 隱藏指頭按自然握物遮擋判斷，未將遮擋誤認為缺指。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "傘及手帕放入有開口的書包，後格持傘柄，書包背帶連肩；傘骨連布面，雨在有遮簷走道外。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸檢查衣服、書脊、紙面、容器、螢幕與圖中圖，未見可讀文字、字母、數字或類字形裝飾；未見品牌、浮水印或不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "髮絲、衣褶為細鉛筆線，物件與背景有淡水彩暈染、色鉛筆顆粒，米白紙紋可見；草綠、淡藍和暖棕為主，非鮮豔扁平或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "校門與有遮簷走廊、學生普通白色Polo衫及藍色裙褲、書包和摺傘，符合台灣國小通學生活。 可見兒童頭身與身高符合國小年齡，成人比例較高；依場景服裝綜合判斷，未僅憑臉孔推斷國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "已逐一檢查前後景與照片中人物頸部，皆無紅領巾或紅圍巾；布偶、獎盃或禮盒上的紅緞帶不是人物配戴。"
+        }
+      }
+    },
+    "1239": {
+      "no": 1239,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-3/1239.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-15",
+      "alt": "管理員在桌下收下男子的厚禮盒，同時伸手示意占用公共通道的攤位；等候居民皺眉，牆上卻畫著暢通走道。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "管理者在桌下接禮，同時讓送禮者占用公共通道，牆上通暢圖與被攤位堵住的實況相反，等候者不滿，收賄後破壞規則的關係可讀。 已實看網站data/illustrations.json實際src的候選圖 24,540,578,420，另比對同道具或詞義的既有作品；未見關鍵動作、物件關係與人物配置幾乎相同的構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "先看768×512全圖，再看1536×1024原圖左右半幅；主角位於前景且與背景有層次，縮小仍能辨認表情、手勢及關鍵物件。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "管理者一手收盒、一手張掌，各連肩，送禮者雙手托盒；人群握拳、交臂與示意各兩臂，站姿有地面支撐。 隱藏指頭按自然握物遮擋判斷，未將遮擋誤認為缺指。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "禮盒由雙方手掌托底，攤位架腳連地面，通道透視連續且確被攤位占用，桌椅有支撐。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸檢查衣服、書脊、紙面、容器、螢幕與圖中圖，未見可讀文字、字母、數字或類字形裝飾；未見品牌、浮水印或不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "髮絲、衣褶為細鉛筆線，物件與背景有淡水彩暈染、色鉛筆顆粒，米白紙紋可見；草綠、淡藍和暖棕為主，非鮮豔扁平或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "有騎樓柱廊的社區活動中心、臨時攤位與居民日常襯衫裙褲，符合台灣現代社區生活。 可見兒童頭身與身高符合國小年齡，成人比例較高；依場景服裝綜合判斷，未僅憑臉孔推斷國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "已逐一檢查前後景與照片中人物頸部，皆無紅領巾或紅圍巾；布偶、獎盃或禮盒上的紅緞帶不是人物配戴。"
+        }
+      }
+    },
+    "1240": {
+      "no": 1240,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-3/1240.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-15",
+      "alt": "男子趁店主轉身，把錢盒藏進提袋；另一幕他坐在公園悠閒吃點心，袋裡露出同一錢盒，遠處警察正向店主查問。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "同服男子先偷錢盒，再攜同盒悠閒吃點心，警察在遠處追查而未抓到他，犯罪後仍自由自在明確，非只有逃跑瞬間。 已實看網站data/illustrations.json實際src的候選圖 1211,792,489,997，另比對同道具或詞義的既有作品；未見關鍵動作、物件關係與人物配置幾乎相同的構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "先看768×512全圖，再看1536×1024原圖左右半幅；分格用留白分開先後，關鍵人物可由服裝與物件追蹤。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "偷盒手指彎握盒邊、另一手拉袋口；後格一手吃點心一臂搭椅背，兩腿交疊自然，警民各兩臂無多肢。 隱藏指頭按自然握物遮擋判斷，未將遮擋誤認為缺指。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "錢盒部分進袋且後格露出同一盒，長椅托身、袋底放椅，點心紙袋在膝上，平板由警察持住。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸檢查衣服、書脊、紙面、容器、螢幕與圖中圖，未見可讀文字、字母、數字或類字形裝飾；未見品牌、浮水印或不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "髮絲、衣褶為細鉛筆線，物件與背景有淡水彩暈染、色鉛筆顆粒，米白紙紋可見；草綠、淡藍和暖棕為主，非鮮豔扁平或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代街邊商店、公園長椅、一般休閒服與台灣常見深藍警察制服，沒有古代服裝。 本圖人物皆為成人，頭身及身高比例自然；依場景服裝判斷，未僅憑臉孔推斷國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "已逐一檢查前後景與照片中人物頸部，皆無紅領巾或紅圍巾；布偶、獎盃或禮盒上的紅緞帶不是人物配戴。"
+        }
+      }
+    },
+    "1242": {
+      "no": 1242,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-3/1242.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-15",
+      "alt": "三名孩子圍著同一幅藍綠水彩畫交談，頭上的圖像泡泡分別畫著海浪、山巒和森林；老師微笑聆聽不同的想法。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "同一張藍綠畫前有海浪、山巒與森林三種理解，孩子平和交流，呈現對同物看法各異，不是爭吵或三人各看不同畫。 已實看網站data/illustrations.json實際src的候選圖 410,1065,1183,455，另比對同道具或詞義的既有作品；未見關鍵動作、物件關係與人物配置幾乎相同的構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "先看768×512全圖，再看1536×1024原圖左右半幅；主角位於前景且與背景有層次，縮小仍能辨認表情、手勢及關鍵物件。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "男孩兩掌張開可辨五指，女孩托腮及示意各兩臂，教師雙手扶膝，肩臂自然，未見多手。 隱藏指頭按自然握物遮擋判斷，未將遮擋誤認為缺指。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "畫紙由畫架橫托及上夾固定，泡泡內皆具象景物，調色盤和筆筒在桌面，畫架支腿方向合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸檢查衣服、書脊、紙面、容器、螢幕與圖中圖，未見可讀文字、字母、數字或類字形裝飾；未見品牌、浮水印或不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "髮絲、衣褶為細鉛筆線，物件與背景有淡水彩暈染、色鉛筆顆粒，米白紙紋可見；草綠、淡藍和暖棕為主，非鮮豔扁平或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代國小美術教室、木桌椅與畫具，學生普通白色Polo衫搭深藍裙褲。 可見兒童頭身與身高符合國小年齡，成人比例較高；依場景服裝綜合判斷，未僅憑臉孔推斷國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "已逐一檢查前後景與照片中人物頸部，皆無紅領巾或紅圍巾；布偶、獎盃或禮盒上的紅緞帶不是人物配戴。"
+        }
+      }
+    },
+    "1245": {
+      "no": 1245,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-3/1245.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-15",
+      "alt": "同學拿出男孩在攤位挑選紙雕的照片，男孩紅著臉摸頭；下一幕他握拳瞪眼發怒，旁人驚訝，紙雕仍放在桌上。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "照片揭示紙雕購自攤位，主角先紅臉閃躲、後握拳怒瞪，露餡羞愧轉怒的次序清楚，非無緣由發脾氣。 已實看網站data/illustrations.json實際src的候選圖 1160,578,1192,396，另比對同道具或詞義的既有作品；未見關鍵動作、物件關係與人物配置幾乎相同的構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "先看768×512全圖，再看1536×1024原圖左右半幅；分格用留白分開先後，關鍵人物可由服裝與物件追蹤。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "主角左格一手扶後腦一手叉腰，照片由眼鏡同學雙手持住；後格握拳各一手，旁人張掌五指，未見多肢。 隱藏指頭按自然握物遮擋判斷，未將遮擋誤認為缺指。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "照片與桌上紙雕有相同涼亭花鳥造型，紙雕底板置桌，照片紙角連續；沒有摔物或碰撞。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸檢查衣服、書脊、紙面、容器、螢幕與圖中圖，未見可讀文字、字母、數字或類字形裝飾；未見品牌、浮水印或不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "髮絲、衣褶為細鉛筆線，物件與背景有淡水彩暈染、色鉛筆顆粒，米白紙紋可見；草綠、淡藍和暖棕為主，非鮮豔扁平或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "國小教室有一般課桌、黑板與紙雕，學生穿白色Polo衫搭深藍裙褲。 可見兒童頭身與身高符合國小年齡，成人比例較高；依場景服裝綜合判斷，未僅憑臉孔推斷國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "已逐一檢查前後景與照片中人物頸部，皆無紅領巾或紅圍巾；布偶、獎盃或禮盒上的紅緞帶不是人物配戴。"
+        }
+      }
+    },
+    "1248": {
+      "no": 1248,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-3/1248.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-15",
+      "alt": "老師托起透明盆，指著底部積水和植物根部，孩子們恍然看著；桌上一盆葉片枯黃，另一盆有排水孔，仍長得青綠。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "同學注意萎葉，老師揭示盆底積水及根部，再以排水良好健康株對照，評論深入真正原因而非只盯表象，與58垃圾動線模型構圖不同。 已實看網站data/illustrations.json實際src的候選圖 634,1211,797,1183，另比對同道具或詞義的既有作品；未見關鍵動作、物件關係與人物配置幾乎相同的構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "先看768×512全圖，再看1536×1024原圖左右半幅；主角位於前景且與背景有層次，縮小仍能辨認表情、手勢及關鍵物件。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "教師一手托透明盆一手伸指，學生指物、托腮或握拳各兩臂，手指自然彎曲，未見多肢。 隱藏指頭按自然握物遮擋判斷，未將遮擋誤認為缺指。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "玻璃盆由手掌托底，土根水層可辨，健康盆側排水孔對照；盆底由托盤接桌，因果卡置畫架。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸檢查衣服、書脊、紙面、容器、螢幕與圖中圖，未見可讀文字、字母、數字或類字形裝飾；未見品牌、浮水印或不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "髮絲、衣褶為細鉛筆線，物件與背景有淡水彩暈染、色鉛筆顆粒，米白紙紋可見；草綠、淡藍和暖棕為主，非鮮豔扁平或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "國小自然教室有盆栽、玻璃觀察容器、洗手槽和課桌，學生制服與老師日常外套自然。 可見兒童頭身與身高符合國小年齡，成人比例較高；依場景服裝綜合判斷，未僅憑臉孔推斷國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "已逐一檢查前後景與照片中人物頸部，皆無紅領巾或紅圍巾；布偶、獎盃或禮盒上的紅緞帶不是人物配戴。"
+        }
+      }
+    },
+    "1250": {
+      "no": 1250,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-3/1250.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-15",
+      "alt": "管理者握著載滿食物箱的推車，站在私人汽車旁伸掌拒絕等候居民；長者和孩子空手望著，後方志工露出震驚神情。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "管理者把救濟食物放私車旁推車，同時冷漠擋住需要領取者，志工震驚，明知剝奪他人生活所需仍侵占的行為可辨。 已實看網站data/illustrations.json實際src的候選圖 578,1211,506,811，另比對同道具或詞義的既有作品；未見關鍵動作、物件關係與人物配置幾乎相同的構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "先看768×512全圖，再看1536×1024原圖左右半幅；主角位於前景且與背景有層次，縮小仍能辨認表情、手勢及關鍵物件。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "主角嚴格兩臂，一手握車把一手張掌五指；志工張掌、居民伸手或扶孩子肩，各自連肩，站姿落地。 隱藏指頭按自然握物遮擋判斷，未將遮擋誤認為缺指。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "紙箱疊在有輪平台上，車把由握手包住，汽車尾門有鉸鏈，食物箱留在發放桌及車內，均有承托。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸檢查衣服、書脊、紙面、容器、螢幕與圖中圖，未見可讀文字、字母、數字或類字形裝飾；未見品牌、浮水印或不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "髮絲、衣褶為細鉛筆線，物件與背景有淡水彩暈染、色鉛筆顆粒，米白紙紋可見；草綠、淡藍和暖棕為主，非鮮豔扁平或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣社區物資發放帳篷、休旅車與平台推車，志工穿素色背心，居民日常服裝。 可見兒童頭身與身高符合國小年齡，成人比例較高；依場景服裝綜合判斷，未僅憑臉孔推斷國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "已逐一檢查前後景與照片中人物頸部，皆無紅領巾或紅圍巾；布偶、獎盃或禮盒上的紅緞帶不是人物配戴。"
+        }
+      }
+    },
+    "1253": {
+      "no": 1253,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-3/1253.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-15",
+      "alt": "校園展示區擺滿粉紅、淡紫、鵝黃和淺藍紙花，花車與花圈層層相簇；孩子靠近欣賞，後方家長仍陪同製作。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "多組紙花、花車與花圈層層群聚，粉紫黃藍互相映襯，繁盛美麗的整體可辨，不是只有一朵花或靠文字標題暗示。 已實看網站data/illustrations.json實際src的候選圖 670,892,712,1183，另比對同道具或詞義的既有作品；未見關鍵動作、物件關係與人物配置幾乎相同的構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "先看768×512全圖，再看1536×1024原圖左右半幅；主角位於前景且與背景有層次，縮小仍能辨認表情、手勢及關鍵物件。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "前景男孩扶桌、女孩雙手在花旁，背景家長與孩子各兩臂捏花，拇指與其餘彎指接觸合理，無多肢。 隱藏指頭按自然握物遮擋判斷，未將遮擋誤認為缺指。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "花車輪子接桌面，花圈由架子支撐，紙花與綠葉聚在有桌面承托的作品中，沒有物件穿透人物。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸檢查衣服、書脊、紙面、容器、螢幕與圖中圖，未見可讀文字、字母、數字或類字形裝飾；未見品牌、浮水印或不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "髮絲、衣褶為細鉛筆線，物件與背景有淡水彩暈染、色鉛筆顆粒，米白紙紋可見；草綠、淡藍和暖棕為主，非鮮豔扁平或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小校舍與校慶手作桌，孩子普通制服，家長日常衣著與圍裙。 可見兒童頭身與身高符合國小年齡，成人比例較高；依場景服裝綜合判斷，未僅憑臉孔推斷國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "已逐一檢查前後景與照片中人物頸部，皆無紅領巾或紅圍巾；布偶、獎盃或禮盒上的紅緞帶不是人物配戴。"
+        }
+      }
+    },
+    "1255": {
+      "no": 1255,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-3/1255.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-15",
+      "alt": "孩子們拿放大鏡仔細檢查透明飼養箱的蓋子、接縫和角落；箱內蝸牛安穩停在葉上，老師微笑豎起拇指肯定。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "老師與學生用放大鏡逐查箱蓋、接縫及角落，細網與鎖扣完整且得到肯定，箱體周全無明顯缺失可讀，不是用武力攻擊。 已實看網站data/illustrations.json實際src的候選圖 797,685,664,390，另比對同道具或詞義的既有作品；未見關鍵動作、物件關係與人物配置幾乎相同的構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "先看768×512全圖，再看1536×1024原圖左右半幅；主角位於前景且與背景有層次，縮小仍能辨認表情、手勢及關鍵物件。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "持放大鏡者一手環握鏡柄、另一手扶桌，教師一手豎拇指，孩子各兩臂接肩；桌面遮住下肢合理，無多肢。 隱藏指頭按自然握物遮擋判斷，未將遮擋誤認為缺指。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "箱蓋細網與兩側鎖扣連續，透明壁底邊密合，土、葉及蝸牛在箱內；鏡柄與鏡圈相接，箱底貼桌。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸檢查衣服、書脊、紙面、容器、螢幕與圖中圖，未見可讀文字、字母、數字或類字形裝飾；未見品牌、浮水印或不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "髮絲、衣褶為細鉛筆線，物件與背景有淡水彩暈染、色鉛筆顆粒，米白紙紋可見；草綠、淡藍和暖棕為主，非鮮豔扁平或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "國小自然教室、透明飼養箱及觀察器材，學生白色Polo衫搭藍色裙褲，老師日常外套。 可見兒童頭身與身高符合國小年齡，成人比例較高；依場景服裝綜合判斷，未僅憑臉孔推斷國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "已逐一檢查前後景與照片中人物頸部，皆無紅領巾或紅圍巾；布偶、獎盃或禮盒上的紅緞帶不是人物配戴。"
+        }
+      }
+    },
+    "1259": {
+      "no": 1259,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-3/1259.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-15",
+      "alt": "老攤販抱著收好的用品，低頭站在空攤位旁；隔壁仍在賣菜的攤販看著他，也拿手帕拭淚，桌上蔬果少有人問津。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "左攤收空、老闆抱用品難過，隔壁同為攤商者看著他含淚，職業相同而為對方遭遇悲傷可讀，與幸災樂禍相反。 已實看網站data/illustrations.json實際src的候選圖 685,505,782,578，另比對同道具或詞義的既有作品；未見關鍵動作、物件關係與人物配置幾乎相同的構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "先看768×512全圖，再看1536×1024原圖左右半幅；主角位於前景且與背景有層次，縮小仍能辨認表情、手勢及關鍵物件。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "收攤者雙手托箱、拇指在側，另攤商一手拭淚一手扶桌，背景行人各兩臂，站者鞋底接地無多肢。 隱藏指頭按自然握物遮擋判斷，未將遮擋誤認為缺指。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "用品箱由兩手托底，空攤桌與蔬果架各有支腳，蔬果在籃內、塑膠籃置地，棚架結構連續。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸檢查衣服、書脊、紙面、容器、螢幕與圖中圖，未見可讀文字、字母、數字或類字形裝飾；未見品牌、浮水印或不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "髮絲、衣褶為細鉛筆線，物件與背景有淡水彩暈染、色鉛筆顆粒，米白紙紋可見；草綠、淡藍和暖棕為主，非鮮豔扁平或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣社區蔬果市場、遮陽棚和塑膠菜籃，攤商穿工作圍裙與一般便服。 可見兒童頭身與身高符合國小年齡，成人比例較高；依場景服裝綜合判斷，未僅憑臉孔推斷國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "已逐一檢查前後景與照片中人物頸部，皆無紅領巾或紅圍巾；布偶、獎盃或禮盒上的紅緞帶不是人物配戴。"
+        }
+      }
+    },
+    "1260": {
+      "no": 1260,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-3/1260.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-15",
+      "alt": "女孩抱著收到的乾淨書包，抬頭望向老師，眼角流淚卻露出笑容；同學在旁支持，桌上擺著整理好的鉛筆與畫具。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "女孩抱著獲贈書包、學具整齊放桌，含淚卻抬眼微笑，老師與同學溫柔支持，因受幫助而感謝的眼淚可辨，非悲痛受責罵。 已實看網站data/illustrations.json實際src的候選圖 1223,781,477,410，另比對同道具或詞義的既有作品；未見關鍵動作、物件關係與人物配置幾乎相同的構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "先看768×512全圖，再看1536×1024原圖左右半幅；主角位於前景且與背景有層次，縮小仍能辨認表情、手勢及關鍵物件。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "女孩雙手抱包五指自然，老師一手扶肩一手搭膝，學生扶椅、交握與豎拇指各兩臂，無多肢。 隱藏指頭按自然握物遮擋判斷，未將遮擋誤認為缺指。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "書包由雙臂托住並貼身，拉鍊背帶連續，畫具與鉛筆放桌面，教師蹲姿有膝腳承重。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸檢查衣服、書脊、紙面、容器、螢幕與圖中圖，未見可讀文字、字母、數字或類字形裝飾；未見品牌、浮水印或不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "髮絲、衣褶為細鉛筆線，物件與背景有淡水彩暈染、色鉛筆顆粒，米白紙紋可見；草綠、淡藍和暖棕為主，非鮮豔扁平或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小教室、學用品與普通課桌，孩子穿白色Polo衫藍色裙褲、老師日常衣褲。 可見兒童頭身與身高符合國小年齡，成人比例較高；依場景服裝綜合判斷，未僅憑臉孔推斷國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "已逐一檢查前後景與照片中人物頸部，皆無紅領巾或紅圍巾；布偶、獎盃或禮盒上的紅緞帶不是人物配戴。"
+        }
+      }
+    },
+    "1261": {
+      "no": 1261,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-3/1261.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-15",
+      "alt": "女子先空著雙手站在只有簡單桌子的店面；另一幕她親手揉麵，做出少量麵包，丈夫在旁安置樸素的二手層架。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "先在空店雙手無物，再靠揉麵及二手簡架起步，缺乏資源而靠雙手建立事業可讀，非拳擊或一開始已享豪華設備。 已實看網站data/illustrations.json實際src的候選圖 24,712,410,48，另比對同道具或詞義的既有作品；未見關鍵動作、物件關係與人物配置幾乎相同的構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "先看768×512全圖，再看1536×1024原圖左右半幅；分格用留白分開先後，關鍵人物可由服裝與物件追蹤。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "前格女子兩掌各五指，後格兩手揉麵，丈夫雙手扶架，肩臂自然各兩條，鞋底有地面支撐。 隱藏指頭按自然握物遮擋判斷，未將遮擋誤認為缺指。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "麵團受雙手壓在桌上、麵包在烤盤，層架四柱支地，金屬架有層板連結，碗罐皆貼桌。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸檢查衣服、書脊、紙面、容器、螢幕與圖中圖，未見可讀文字、字母、數字或類字形裝飾；未見品牌、浮水印或不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "髮絲、衣褶為細鉛筆線，物件與背景有淡水彩暈染、色鉛筆顆粒，米白紙紋可見；草綠、淡藍和暖棕為主，非鮮豔扁平或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣社區街屋小店、鐵捲門、簡單麵包器具與二手層架，成人日常上衣長褲及圍裙。 本圖人物皆為成人，頭身及身高比例自然；依場景服裝判斷，未僅憑臉孔推斷國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "已逐一檢查前後景與照片中人物頸部，皆無紅領巾或紅圍巾；布偶、獎盃或禮盒上的紅緞帶不是人物配戴。"
+        }
+      }
+    },
+    "1263": {
+      "no": 1263,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-3/1263.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-15",
+      "alt": "一家人穿過樸素巷弄的小門，驚喜看見綠意庭院；石板步道繞過淺池與花木，角落擺著長椅，門外仍是普通街巷。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "樸素巷弄入口與門內曲徑、池水花木同框，家人驚喜發現另一番美景；非魔法異世界，也與105山谷村落構圖不同。 已實看網站data/illustrations.json實際src的候選圖 1151,1049,714,435，另比對同道具或詞義的既有作品；未見關鍵動作、物件關係與人物配置幾乎相同的構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "先看768×512全圖，再看1536×1024原圖左右半幅；主角位於前景且與背景有層次，縮小仍能辨認表情、手勢及關鍵物件。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "女孩伸掌五指、母親一手扶肩，男孩兩臂向前，父親垂手與身側遮擋自然，未見多肢，下肢部分在框外。 隱藏指頭按自然握物遮擋判斷，未將遮擋誤認為缺指。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "門扇接門框、步石貼地，淺池邊有石岸，長椅與矮凳有腿支撐，人物在安全步道側。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸檢查衣服、書脊、紙面、容器、螢幕與圖中圖，未見可讀文字、字母、數字或類字形裝飾；未見品牌、浮水印或不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "髮絲、衣褶為細鉛筆線，物件與背景有淡水彩暈染、色鉛筆顆粒，米白紙紋可見；草綠、淡藍和暖棕為主，非鮮豔扁平或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣巷弄水泥牆、磚門框與宅院花園，家長日常衣著、孩子普通制服及書包。 可見兒童頭身與身高符合國小年齡，成人比例較高；依場景服裝綜合判斷，未僅憑臉孔推斷國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "已逐一檢查前後景與照片中人物頸部，皆無紅領巾或紅圍巾；布偶、獎盃或禮盒上的紅緞帶不是人物配戴。"
+        }
+      }
+    },
+    "1264": {
+      "no": 1264,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-3/1264.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-15",
+      "alt": "女子在婚禮上信任地挽著丈夫；另一幕她疲憊整理衣物、做著家務，丈夫卻只顧坐在沙發玩遊戲，伸手拒絕幫忙。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "前格婚禮信任與後格同一丈夫推拒幫忙、妻子獨做家務的落差明確，婚戒及人物連結婚姻，不是普通同事不合。 已實看網站data/illustrations.json實際src的候選圖 602,981,435,698，另比對同道具或詞義的既有作品；未見關鍵動作、物件關係與人物配置幾乎相同的構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "先看768×512全圖，再看1536×1024原圖左右半幅；分格用留白分開先後，關鍵人物可由服裝與物件追蹤。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "新娘一手捧花一手挽臂，新郎手指彎握；後格丈夫一手持控制器一手拒絕，妻子雙手拿衣，各兩臂，裸足五趾可辨。 隱藏指頭按自然握物遮擋判斷，未將遮擋誤認為缺指。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "花束由手握莖，婚戒套指；洗衣籃與水桶在地面，丈夫坐沙發受承托，控制器由單手握住。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸檢查衣服、書脊、紙面、容器、螢幕與圖中圖，未見可讀文字、字母、數字或類字形裝飾；未見品牌、浮水印或不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "髮絲、衣褶為細鉛筆線，物件與背景有淡水彩暈染、色鉛筆顆粒，米白紙紋可見；草綠、淡藍和暖棕為主，非鮮豔扁平或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代婚禮禮服與家庭客廳，婚後為便服、圍裙、家用遊戲機和洗衣用品。 本圖人物皆為成人，頭身及身高比例自然；依場景服裝判斷，未僅憑臉孔推斷國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "已逐一檢查前後景與照片中人物頸部，皆無紅領巾或紅圍巾；布偶、獎盃或禮盒上的紅緞帶不是人物配戴。"
+        }
+      }
+    },
+    "1265": {
+      "no": 1265,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-3/1265.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-15",
+      "alt": "女孩站在公園開放的小平台上展示紙風車，周圍多排家長、孩子與長者注視鼓掌；遠處還有活動桌和往來人群。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "開放公園平台中央展示風車，近遠各年齡群眾都朝她看，公開人多的場合直接可讀，不是祕密談話。 已實看網站data/illustrations.json實際src的候選圖 549,892,826,670，另比對同道具或詞義的既有作品；未見關鍵動作、物件關係與人物配置幾乎相同的構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "先看768×512全圖，再看1536×1024原圖左右半幅；主角位於前景且與背景有層次，縮小仍能辨認表情、手勢及關鍵物件。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "主角一手握風車桿一手伸掌、兩腳落平台，人群各有兩臂，拍掌手指合理交疊，未見多肢。 隱藏指頭按自然握物遮擋判斷，未將遮擋誤認為缺指。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "風車葉片連中心軸及桿，平台低矮接階梯，長者坐椅或台邊、孩子坐地，有自然承托。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸檢查衣服、書脊、紙面、容器、螢幕與圖中圖，未見可讀文字、字母、數字或類字形裝飾；未見品牌、浮水印或不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "髮絲、衣褶為細鉛筆線，物件與背景有淡水彩暈染、色鉛筆顆粒，米白紙紋可見；草綠、淡藍和暖棕為主，非鮮豔扁平或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣公園活動廣場、公共遊具、帳篷與低平台，家長一般服裝、孩子普通制服。 可見兒童頭身與身高符合國小年齡，成人比例較高；依場景服裝綜合判斷，未僅憑臉孔推斷國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "已逐一檢查前後景與照片中人物頸部，皆無紅領巾或紅圍巾；布偶、獎盃或禮盒上的紅緞帶不是人物配戴。"
+        }
+      }
+    },
+    "1268": {
+      "no": 1268,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-3/1268.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-15",
+      "alt": "水杯翻倒，水沿桌面流向畫作；女孩放下彩筆，先拿布吸水，男孩把畫移到乾燥桌面，老師在旁示意優先處理。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "女孩停下整理彩筆先吸水、男孩立即移走畫，旁邊材料暫放，正擴散的水對畫作有威脅，優先處理急事的因果清楚，非無目的忙亂。 已實看網站data/illustrations.json實際src的候選圖 1211,651,396,782，另比對同道具或詞義的既有作品；未見關鍵動作、物件關係與人物配置幾乎相同的構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "先看768×512全圖，再看1536×1024原圖左右半幅；主角位於前景且與背景有層次，縮小仍能辨認表情、手勢及關鍵物件。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "女孩雙掌各五指壓布，男孩兩手移畫，老師一手示意一手扶桌，肩臂連續，未見多肢。 隱藏指頭按自然握物遮擋判斷，未將遮擋誤認為缺指。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "杯子側倒、杯口與水跡相連，抹布貼水面，畫紙雙角由手抓住移到乾桌，課桌腳與椅腳接地。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸檢查衣服、書脊、紙面、容器、螢幕與圖中圖，未見可讀文字、字母、數字或類字形裝飾；未見品牌、浮水印或不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "髮絲、衣褶為細鉛筆線，物件與背景有淡水彩暈染、色鉛筆顆粒，米白紙紋可見；草綠、淡藍和暖棕為主，非鮮豔扁平或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "國小美術活動教室、普通課桌、畫作和彩筆，老師日常外套、學生普通白色Polo衫。 可見兒童頭身與身高符合國小年齡，成人比例較高；依場景服裝綜合判斷，未僅憑臉孔推斷國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "已逐一檢查前後景與照片中人物頸部，皆無紅領巾或紅圍巾；布偶、獎盃或禮盒上的紅緞帶不是人物配戴。"
+        }
+      }
+    },
+    "1270": {
+      "no": 1270,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-3/1270.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-15",
+      "alt": "西裝男子笑著與長者握手，另一手卻把公益物資袋塞進自己的提包；小志工伸掌露出震驚神情，居民仍在旁等候。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "西裝男在眾人前笑著握手，背側卻拿走公益物資袋放入私包，小志工驚訝不認同，外表體面與卑劣侵占同時可讀，非人獸字面。 已實看網站data/illustrations.json實際src的候選圖 96,570,912,835，另比對同道具或詞義的既有作品；未見關鍵動作、物件關係與人物配置幾乎相同的構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "先看768×512全圖，再看1536×1024原圖左右半幅；主角位於前景且與背景有層次，縮小仍能辨認表情、手勢及關鍵物件。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "男子一手握手一手抓袋口，兩臂各接肩；小志工張掌五指，另一手按桌，長者與居民姿勢自然無多肢。 隱藏指頭按自然握物遮擋判斷，未將遮擋誤認為缺指。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "袋子部分入敞開皮包，包底在物資桌上；握手兩掌交扣，帳篷支架與桌腳有地面承托。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸檢查衣服、書脊、紙面、容器、螢幕與圖中圖，未見可讀文字、字母、數字或類字形裝飾；未見品牌、浮水印或不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "髮絲、衣褶為細鉛筆線，物件與背景有淡水彩暈染、色鉛筆顆粒，米白紙紋可見；草綠、淡藍和暖棕為主，非鮮豔扁平或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣社區公益帳篷、民眾一般便服、志工背心及男子普通西裝，沒有古裝。 可見兒童頭身與身高符合國小年齡，成人比例較高；依場景服裝綜合判斷，未僅憑臉孔推斷國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "已逐一檢查前後景與照片中人物頸部，皆無紅領巾或紅圍巾；布偶、獎盃或禮盒上的紅緞帶不是人物配戴。"
+        }
+      }
     }
   }
 }
