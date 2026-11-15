@@ -10838,6 +10838,46 @@
           "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
         }
       }
+    },
+    "1174": {
+      "no": 1174,
+      "kind": "new",
+      "path": "/workspace/scratch/idiom-work/1174.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-14",
+      "alt": "台灣國小園遊會布置現場，老師和孩子們不停搬運器材、整理攤位與彩旗，忙得沒有空閒休息。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "實際查看原圖，老師和學生同時搬運器材、花盆、彩旗與球具，人物持續走動整理，明確表現忙碌奔走沒有休息。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "前景老師抱著球具和水壺、周圍學生搬物，背景仍在布置，動態方向清楚；無可讀文字、字母或數字。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "實際查看人物，手臂連接肩膀、手指與腳部姿勢自然，行走與搬運動作合理。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "球網、籃子、箱子、長椅與校舍透視一致，物件接觸合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "實際查看原圖，未見可讀文字、字母、數字、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小校園操場、學生制服、老師與園遊會布置場景明確。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "實際查看所有人物，均無紅領巾或紅圍巾。"
+        }
+      }
     }
   }
 }
