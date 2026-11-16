@@ -16497,6 +16497,974 @@
           "evidence": "所有孩子穿白藍制服與素色背包，無紅領巾或紅圍巾。"
         }
       }
+    },
+    "1301": {
+      "no": 1301,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-2/1301.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "工廠旁的男子把褐色污水排進清溪，污染處水草枯萎，居民舉起變色水壺一致伸掌制止，連工人也拒絕協助他。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "明知居民受害仍排污，清溪轉濁與水草枯萎、全體居民及助手制止，具備嚴重惡行不容於眾的因果，非單純群眾責備。 已視覺比對全站感知雜湊候選487、672、687及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "右方排污起點對照左方群眾，污染沿河展開，手機可讀。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "裁圖逐一核對居民攤掌五指、男子扶管雙手與蹲姿，肩臂相接；前排鞋踩河岸，未見多肢。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "軟管接金屬口與固定架，水流由口落河；鞋腳與石岸接觸，桶立於平台，支撐合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "水瓶、桶身、工作服及廠房無字母數字、可讀文字、品牌或浮水印。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "自然綠與污水暖棕有細鉛筆線、水彩透明層、色鉛筆顆粒及米白紙紋。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣公寓、工廠河岸、白藍國小制服與便服居民，非僅據臉孔推定。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "居民素色便服、孩子白藍制服及工人反光背心均無紅領巾或紅圍巾。"
+        }
+      }
+    },
+    "1306": {
+      "no": 1306,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-2/1306.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "男子提空袋原想前往蔬果攤，頭上浮現買菜圖像；下一格他卻站在書店門內，驚訝望著自己的腳，再回看外面的店。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "左格買菜念頭與往菜攤方向、右格回神已進書店的驚訝形成原意和無意間行動的落差，比上批單幅回望更清楚。 已視覺比對全站感知雜湊候選129、410、499及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "兩格同衣人物與菜攤位置呼應，泡泡與回神姿態是焦點。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對提袋、握門把、擺手與前後兩格四隻鞋；握指遮擋自然、肩肘相連，跨門步姿合理。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "袋把在手中聚攏、門把被握住，腳踩門檻兩側；想像蔬果明確在泡泡內。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "書店書脊全為純色，買菜泡泡只有物象，未見字母數字品牌浮水印。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "淺藍襯衫、暖棕木門、柔綠菜攤採鉛筆水彩色鉛筆，暖紙紋可見。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "蔬果店遮雨棚、公寓街景與白藍制服路人符合台灣現代街區。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "主角藍襯衫白內衣、路人白藍制服，無紅領巾或紅圍巾。"
+        }
+      }
+    },
+    "1310": {
+      "no": 1310,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-2/1310.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "老師在關上的門旁私下請男孩歸還彩筆，沒有讓同學圍觀；另一格男孩扶起同學，老師向全班介紹他的好行為。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "左格門遮住旁人、空筆盒和交還彩筆構成私下糾正；右格同一男孩助人受全班鼓掌，兼具不張揚與宣揚善行。 已視覺比對全站感知雜湊候選1221、1196、118及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "左右分格、同衣男孩與老師位置清楚，手機可辨兩種處理方式。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "原尺寸核對指筆盒、遞筆、扶起同學、持書及鼓掌手，露出攤掌為五指；肩臂連接與蹲坐鞋腳合理。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "筆盒置桌、書本由手收起、握手接觸明確，坐地孩子以另一手撐地，無懸浮物。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "黑板空白、書脊純色，筆盒與衣物無字母數字或品牌浮水印。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "紫灰罩衫、暖棕木桌及白藍制服有鉛筆線、柔水彩、色鉛筆與米白紙紋。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代國小教室、白藍制服和適齡兒童，教師便服符合台灣校園。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "教師紫色罩衫與孩子白藍衣領皆無紅領巾或紅圍巾。"
+        }
+      }
+    },
+    "1316": {
+      "no": 1316,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-2/1316.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "眾人面對壞掉的推車與待搬物資發愁，工人修好車輪後，獨自沿穩固斜板推上大量桌椅紙箱，旁人驚喜觀看。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "上格眾人束手無策、下格一人修妥推車並搬運大量重物，強調解難本領與力量，已不是上批普通才藝的拼盤。 已視覺比對全站感知雜湊候選609、484、1127及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "上下兩格突出修理者與大量貨物，旁人驚喜輔助交代能力。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對扶輪、輪軸握手、推車手與旁人扶桌鼓掌手；各臂接肩，工人蹲姿及推行雙腳接地。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "輪軸與輪心對應，貨物有繩固定在車台，四輪落斜板，斜板下有三角支架，未見無支撐重物。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "紙箱、車台、工作服和工具無可讀文字或字母數字，未見品牌浮水印。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "暖棕木板、灰藍工作背心與綠校園採鉛筆、水彩色鉛筆和米白紙紋。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代校園活動帳棚、白藍國小制服及一般維修服符合情境。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "工人灰藍背心、家長素色便服、孩子白藍制服，無紅巾。"
+        }
+      }
+    },
+    "1321": {
+      "no": 1321,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-2/1321.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "女孩分兩格向居民說明整治荒地的計畫，原本抱臂皺眉的男子看過改善圖後笑著接過手套與鏟子，願意加入行動。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "前後分格同一背心男子從抱臂反對到接工具參與，女孩持續解說現況與改善圖，說服轉變明確，與單純多話有別。 已視覺比對全站感知雜湊候選1189、1303、694及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "兩格畫板與人物對位一致，反對與支持表情在手機上可辨。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "裁圖核對女孩兩攤掌各五指、遞手套雙手、男子握鏟手及前後鞋腳；關節及接肩無異常。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "畫板有三腳架，手套由雙方接握，鏟柄在手，人物鞋踩地面，無懸浮。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "現況圖垃圾容器只有色塊，改善圖只有景物，無字母數字品牌浮水印。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "草綠圖景、米棕背心與白藍衣服有細鉛筆、水彩色鉛筆層及紙紋。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "國小制服女孩向現代社區居民提案，活動室及便服符合台灣情境。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "孩子白藍衣領、居民米色背心與紫色便服皆無紅巾。"
+        }
+      }
+    },
+    "1327": {
+      "no": 1327,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-2/1327.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "一家人在明亮客廳圍看三箱滿滿的金色硬幣，桌上另放珠寶與多串鑰匙；父母扶著大木箱，孩子們驚喜地笑著。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "多箱錢幣、珠寶、鑰匙與寬敞住宅共同表示財富極多，與貧困空袋相反，未只用車輛品牌暗示。 已視覺比對全站感知雜湊候選136、698、593及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "前景三箱硬幣清楚、珠寶鑰匙補充，手機可讀富裕主題。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對父母扶箱手、男孩兩拳與女孩托腮雙手，五指在握持遮擋下自然，肩臂連接無異常。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "大箱底部落桌，兩側由父母扶穩；珠寶盒與鑰匙有桌面支撐，無懸空重物。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "已移除車輛與廠徽，硬幣空白、書脊純色，無字母數字品牌浮水印。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔金色、暖棕木箱與淡紫上衣維持鉛筆、水彩及色鉛筆紙紋。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣家庭住宅、國小制服孩子與普通便服家長符合生活場景。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "父親米白襯衫、母親淡紫罩衫、孩子白藍衣領皆無紅巾。"
+        }
+      }
+    },
+    "1329": {
+      "no": 1329,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-2/1329.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "男孩打開空書包，桌上筆盒與畫具盒也全空；同學面前有書和文具，老師蹲下安慰，後方水桶正接著屋頂漏水。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "空包、空筆盒與空畫盒同時對比同學齊備用品，主題限定其可用學用品一樣也沒有，已無上批市集售罄歧義。 已視覺比對全站感知雜湊候選518、640、725及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "中央敞開書包及兩個空盒集中，老師與同學形成可見對比。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對男孩攤掌五指、抓包手、教師攤掌與放膝手及男孩雙鞋；臂肩相連，姿勢自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "包底在桌、空盒平放，教師蹲姿有雙鞋支撐；背景桶接漏水，桌椅結構合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "書封書脊純色，水壺、黑板及衣物無文字字母數字品牌浮水印。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "淡藍書包、暖棕桌與柔綠窗景有鉛筆線、水彩及色鉛筆米白紙紋。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "國小教室、白藍制服、磁磚地及教師便服符合台灣現代校園。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "主角與同學白藍制服、老師棕罩衫，無紅領巾或紅圍巾。"
+        }
+      }
+    },
+    "1334": {
+      "no": 1334,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-2/1334.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "男孩皺眉抓頭，握筆對著空白畫紙無法下筆；思緒泡泡裡，髒鞋、便當與畫具被亂線纏住，母親扶肩端水安慰。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "皺眉流汗、停筆空白紙與纏結雜念共同表現煩躁和凌亂，與133被玩樂吸引的分心有別。 已視覺比對全站感知雜湊候選634、119、1245及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "男孩表情、亂線泡泡與空紙是主焦點，安慰者居側。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對扶頭五指、握筆、母親扶肩與持杯手，指節與肩臂連接正常，腿腳在桌後畫外。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "筆尖接紙、玻璃杯落杯墊、母親手貼肩，泡泡內物象不是現實懸浮。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "背景已改純色書脊，泡泡是無規則亂線及物象，未見獨立字母數字品牌浮水印。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "自然綠窗景、淡紅圍裙與暖棕桌面有鉛筆水彩色鉛筆及米白紙紋。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代家庭書桌、白藍國小制服與便服母親符合台灣生活設定。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "男孩白藍衣領、母親米白上衣及淡紅圍裙均無頸部紅巾。"
+        }
+      }
+    },
+    "1340": {
+      "no": 1340,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-2/1340.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "兩名女孩各自支持種花與折紙提案，老師攤掌徵詢中間男孩；下一格大家等他回應，他仍閉口坐著，雙手放在膝上。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "上格兩邊已表示支持、教師徵詢男孩，下格眾人轉向等待而男孩仍閉口不支持任何方，補足受詢後不表態的前後因果。 已視覺比對全站感知雜湊候選1315、1167、188及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "上下對位、兩圖保留位置，中央平靜者清楚可辨。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對兩女孩指圖與拇指、後格交握手、教師攤掌五指與男孩膝上雙手，肩肘相連自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "提案圖置桌、女孩肘靠桌、男孩手貼膝，坐椅與桌面支撐一致。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "兩圖只有花盆與紙鶴，黑板空白，未見文字字母數字品牌浮水印。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "草綠黑板、暖棕桌與白藍衣服有細鉛筆線、水彩色鉛筆及紙紋。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代國小小組討論、白藍制服與便服教師符合台灣校園。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "學生白藍衣領、老師米白襯衫均無紅領巾或紅圍巾。"
+        }
+      }
+    },
+    "1343": {
+      "no": 1343,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-2/1343.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "女孩原本安靜畫花園，窗外強風吹起紙箱蓋；下一格箱蓋撞倒水杯，水浸壞畫作，女孩驚訝，老師與同學趕來幫忙。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "前格女孩未碰水杯、風吹箱蓋；後格蓋撞杯導致畫作受損，外來偶發災損因果明確，排除自己粗心打翻的歧義。 已視覺比對全站感知雜湊候選67、72、66及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "左右分格同一桌面與畫紙，飛蓋、倒杯、水漬在手機可循讀。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對握筆壓紙、後格女孩雙攤掌各五指、教師扶肩攤掌與握布手；肩肘連接自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "蓋與倒杯相鄰，水從杯口流到紙面、抹布在手下貼桌，正常物件皆有支撐，飛蓋由風交代。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "書脊純色、畫紙只有花園，未見文字字母數字品牌浮水印。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "暖棕紙蓋與桌、柔藍水漬和自然綠圖畫維持鉛筆水彩色鉛筆紙紋。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代美術教室、白制服國小生與圍裙教師符合台灣校園。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "教師米白上衣藍圍裙、學生白上衣，無紅領巾或紅圍巾。"
+        }
+      }
+    },
+    "1344": {
+      "no": 1344,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-2/1344.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "女孩滿身汗與泥仍笑著掃落葉，身旁已有幾籃收好的葉子；老師坐在涼亭遞毛巾，遠處長者開心走過整理好的步道。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "汗、泥污與多籃落葉交代持續辛勞，女孩仍笑著主動拿掃帚，表達甘心承受而非勉強抱怨。 已視覺比對全站感知雜湊候選721、374、696及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "近景女孩笑臉與掃帚、累積葉籃相鄰，長者只作受益背景。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對擦汗、握掃帚、教師遞布放膝手及女孩單膝跪姿雙鞋；露出手指合理，肩臂無錯接。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "掃帚末端接葉堆、葉籃落地、毛巾由兩人握持，教師坐椅與鞋底接石階。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "掃具、毛巾、制服及涼亭無文字字母數字品牌浮水印。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔草綠、暖棕葉片與淡藍白衣具鉛筆、水彩色鉛筆及米白紙紋。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣社區菜園涼亭、白藍國小制服、便服教師長者符合生活設定。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "教師米白衣圍裙、孩子白藍衣領、長者素色上衣皆無紅巾。"
+        }
+      }
+    },
+    "1345": {
+      "no": 1345,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-2/1345.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "下雨的校園走廊，兩名孩子從不同方向同時拿出雨傘，笑著遞向抱書的老師；老師掩嘴驚喜，發現兩人做了一樣的事。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "兩人分從左右抵達、各剛開書包取傘並同時遞出，老師驚喜，支持未商量卻做同樣決定，非事先排隊合作。 已視覺比對全站感知雜湊候選171、802、805及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "左右對稱伸傘、老師居中驚喜，手機容易辨認同時行動。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "裁圖核對雙方握傘、抓包手、教師掩嘴抱書手及三人鞋腳，手腕接臂且步姿合理。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "雨傘由柄提起、背包肩帶承重，書本抱於胸前；各鞋接走廊地面。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "書封空白、傘布和背包無字母數字品牌浮水印。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "淡紫藍傘、棕走廊及柔綠雨景用鉛筆水彩色鉛筆與暖紙紋。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣國小走廊、白藍制服、書包與便服教師符合情境。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "兩人白藍衣領、教師米白罩衫，均無紅領巾或紅圍巾。"
+        }
+      }
+    },
+    "1348": {
+      "no": 1348,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-2/1348.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "男孩捧著空托盤坐在椅上，雙眼失焦、張口發愣，面前的陶土小狗碎成幾塊；老師扶肩，同學端水，他仍沒有回應。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "破碎心愛作品交代打擊，呆滯眼神、下垂姿態與對端水無反應呈現精神恍惚，非只有一般傷心哭泣。 已視覺比對全站感知雜湊候選5、1030、199及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "失神男孩居中、碎物在前、安慰者兩側，手機可看清結果與表情。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對扶肩放膝手、男孩托盤雙手、同學兩手持杯及教師蹲姿鞋，指部與肩肘連接合理。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "托盤在膝上由雙手扶、杯由兩手持、陶片在鋪布桌面，桌椅與鞋接地。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "水杯、托盤、書包及窗景無可讀文字字母數字品牌浮水印。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "淡藍白制服、棕陶片與木桌保有鉛筆、水彩色鉛筆疊色及米白紙紋。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小走廊洗手台、白藍制服、便服教師符合現代校園。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "教師棕罩衫、同學白藍制服，均無紅領巾或紅圍巾。"
+        }
+      }
+    },
+    "1349": {
+      "no": 1349,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-2/1349.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "同學皺眉指著男孩的陶土小貓批評，女孩緊握雙手擔心；男孩卻閉眼微笑，放鬆拿著工具，沒有被對方的態度影響。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "指責者皺眉指物與旁人擔憂，對比被批評者閉眼笑、手臂放鬆，呈現毫不在意以笑置之。 已視覺比對全站感知雜湊候選419、671、1135及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "三張表情與中央作品相鄰，手機能辨負面反應對比平靜笑容。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對取木片、桌面放掌、批評指示手、女孩雙拳及教師扶桌，五指結構合理，無多臂。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "陶貓置木板、工具接桌、手肘有桌面支撐，陶作與櫃中物品未懸浮。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "陶貓只有五官、衣物與陶具沒有文字字母數字品牌浮水印。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "暖棕陶土、白藍衣服與柔綠窗景有鉛筆水彩色鉛筆紙紋。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代國小陶藝教室、白藍運動制服與圍裙教師符合台灣校園。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "全體學生白藍上衣、教師米白襯衫棕圍裙，頸部無紅巾。"
+        }
+      }
+    },
+    "1351": {
+      "no": 1351,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-2/1351.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "夏天老師拉下遮陽簾並開電扇，孩子喝水消暑；另一格天冷下雨，她收起電扇，孩子穿外套在室內伸展，做法隨季節改變。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "晴熱短袖喝水遮陽、冷雨加衣室內運動及罩起電扇，明確依不同季節採適宜措施，非無關活動拼接。 已視覺比對全站感知雜湊候選1148、740、139及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "兩格同窗與教室對位，樹葉和天候、衣著變化清楚。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對拉簾雙手、握水壺、罩風扇手、上舉交握與側彎放腰手；肩肘連接、五指遮擋合理。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "簾鏈與卷簾連接，風扇固定牆上、罩袋由手綁束，學生站坐位置有地面或椅支撐。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "書脊純色、桌面無文字，水壺風扇無字母數字品牌浮水印。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "淡藍風扇、柔綠窗景與粉綠外套採鉛筆水彩色鉛筆及米白紙紋。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣國小教室、白藍校服與普通保暖外套符合季節生活情境。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "白藍衣領及粉綠外套均無紅領巾或紅圍巾。"
+        }
+      }
+    },
+    "1354": {
+      "no": 1354,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-2/1354.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "男子先眼看公車開走，接著在大雨裡遇上破傘，回到家門口時購物袋又裂開，蔬菜滾落地面，他驚慌地伸手查看。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "三格同人先錯過公車、再遇破傘淋雨、最後袋破散物，連續多件不幸明確，不是單次意外。 已視覺比對全站感知雜湊候選625、285、982及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "三直幅保留每件事件主物，衣著與提袋串起時序，手機可讀。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對三格提袋、握傘與伸掌五指及鞋腳；各臂接肩，姿勢方向自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "破傘仍有骨架、握柄與袋把接手，右格破袋口與掉落蔬果相連，雙鞋落門前台階。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "公車與站牌空白、衣鞋無字母數字品牌浮水印；皮帶扣是正常結構不是印字。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "雨景淡藍、暖棕街屋與自然綠菜色採鉛筆水彩色鉛筆及米白紙紋。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣公車站紅線、人行道、現代住宅木門與便服成人符合設定。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "男子藍襯衫與斜背帶，三格均無紅領巾或紅圍巾。"
+        }
+      }
+    },
+    "1355": {
+      "no": 1355,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-2/1355.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "老師坐在操場旁指著自己，向孩子展示以前落後跑步及後來成功的照片；孩子們圍過來專心聽，從他的經歷得到鼓勵。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "自指與相冊失敗到成功的個人照片連起親身經驗，前方孩子握拳受鼓舞，具備用自身經歷勸導而非空口訓話。 已視覺比對全站感知雜湊候選439、17、498及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "成人自指、相冊大圖與聽眾環繞，手機可辨個人經歷來源。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對自指與指照手、孩子扶膝雙手、成人蹲姿兩腿鞋腳及照片內肢體，無明顯增缺。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "相冊放在成人膝腿前由手臂固定，鞋踩草地；紙頁連於書脊而非懸浮卡片。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "相冊只有人物照片，運動服與跑道無字母數字品牌浮水印。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔綠草地、暖紅跑道、白衣與自然膚色有鉛筆水彩色鉛筆紙紋。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小操場、白上衣深藍短褲及適齡孩子、體育教師符合現代校園。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "師生白運動上衣領口均無紅領巾或紅圍巾。"
+        }
+      }
+    },
+    "1356": {
+      "no": 1356,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-2/1356.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "女孩想像自己坐在輪椅上伸手也拿不到高桌畫具，於是把材料移到同學面前的低桌；坐輪椅的孩子笑著與她交談。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "短髮幫助者在想像泡泡裡親處輪椅位置、伸手拿不到，再移低材料給長髮同學，假想他人處境的關鍵清楚；不同於1275教師公平給材料。 已視覺比對全站感知雜湊候選1006、268、1272及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "大泡泡與實際低桌上下對照，兩種髮型可區分自己代入與實際同學。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對搬盤雙手、輪椅女孩攤掌五指及扶手放掌、泡泡伸手與輪椅上雙鞋，肩臂接續自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "輪椅大輪前輪、扶手腳踏結構可辨，雙腳放踏板；畫具盤落低桌、手扶兩側，無懸浮。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "畫具、制服、輪椅及牆上作品沒有文字字母數字品牌浮水印。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔藍輪椅、自然綠窗景與暖棕桌有鉛筆水彩色鉛筆及米白紙紋。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代融合國小美術教室、白藍制服及適齡孩子符合情境。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "師生米白或白藍衣領，所有人物未戴紅領巾或紅圍巾。"
+        }
+      }
+    },
+    "1357": {
+      "no": 1357,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-2/1357.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "晴朗公園花市裡，男子當著園丁、家長和孩子的面把盆花塞進大袋，眾人都清楚看見，園丁伸掌喝止，他驚慌回頭。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "明亮公共花市、多人視線直見與園丁制止，強調大白天人人看得清楚仍作違規事，不只是單畫日光或偷偷躲藏。 已視覺比對全站感知雜湊候選266、927、1148及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "偷花者與制止者近景相對、目擊者環繞，手機可讀眾目下行動。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對園丁舉掌放膝各五指、男子扶盆提袋手與各人落地鞋，肩臂未錯接。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "盆花在手與袋邊被托住、展示桌及花盆落地有支撐，無不合理懸空重物。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "花盆、衣鞋與公園設施無文字字母數字品牌浮水印。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔粉花、草綠葉與暖棕盆器採鉛筆水彩色鉛筆及紙紋。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代公園花市、白藍國小制服、普通便服成人與園丁圍裙符合設定。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "全體衣領無紅巾，園丁草帽繩為棕色細繩，不是紅領巾。"
+        }
+      }
+    },
+    "1358": {
+      "no": 1358,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-2/1358.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "祖孫與父親圍坐木桌，飯菜只有白飯、青菜與豆腐，旁邊放著茶壺和茶杯；父親夾菜給奶奶，大家微笑享用簡單餐食。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "白飯、青菜、豆腐與清茶直接呈現簡單清淡飲食，無豪華肉宴或窮困挨餓，能區別山珍海味。 已視覺比對全站感知雜湊候選477、189、1097及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "餐桌菜色佔大面積、人物只輔助用餐，手機清楚可辨。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對男孩雙手持碗、父親持筷手與奶奶托碗雙手，握指與臂肩合理，腿部由桌遮擋。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "兩根筷子夾住青菜、碗由掌托住、杯盤茶壺置桌，液面水平及桌椅透視合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "茶壺碗盤及衣物全無文字字母數字或品牌浮水印。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "暖棕木桌、柔綠青菜與淡米白餐具採鉛筆水彩色鉛筆及紙紋。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代家庭餐桌、白藍國小制服、奶奶花襯衫與便服父親符合日常。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "父親米白襯衫、奶奶紫罩衫、孩子白藍領口無紅領巾或紅圍巾。"
+        }
+      }
+    },
+    "1361": {
+      "no": 1361,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-2/1361.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "孩子摀著肚子低頭站在麵包店門外，母親拿空袋求助；店員想遞出麵包，老闆卻抱臂伸掌制止，冷淡地轉頭不理。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "飢餓孩子與母親求助、店員同情欲給麵包，老闆仍冷臉拒絕，清楚呈現不為感情所動，與菩薩心腸相反。 已視覺比對全站感知雜湊候選272、414、1279及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "求助者在左、拒絕者右側大幅面，店員提供態度對照，手機可讀。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對老闆攤掌五指與抱臂手、母親撐袋兩手、孩子按腹垂手及店員托麵包手，接肩與關節自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "麵包由雙手托住，空袋由兩邊握口下垂，櫃架支撐麵包盤，人物未懸浮。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "麵包店無招牌文字，包裝、廚師服及衣物無字母數字品牌浮水印。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "暖棕麵包店、米白廚師服與淡紫衣服具鉛筆水彩色鉛筆及紙紋。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代街邊麵包店、白藍制服孩子與當代工作服便服符合情境。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "廚師立領無領巾、店員棕頭巾圍裙，母子衣領均無紅領巾或紅圍巾。"
+        }
+      }
+    },
+    "1362": {
+      "no": 1362,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-2/1362.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "父親把新家的鑰匙放進小碟，母親在家替鄰居縫衣，孩子安心畫畫；屋裡有床鋪與餐桌，生活和工作都有了著落。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "鑰匙、安定住處的床與餐桌、母親縫衣工作、鄰居帶衣上門及孩子安心作畫，共同交代居所生活與寄託，不只搬家。 已視覺比對全站感知雜湊候選254、1271、779及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "前景工作生活、背景整齊居所同框，鑰匙放碟動作交代安頓。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對父親持匙垂手、母親送布雙手、男孩握筆壓紙與鄰居抱衣手，肩臂相連，腿腳遮擋自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "縫衣針壓腳落布面、手在針外安全位置，鑰匙正落碟、紙筆接桌，桌椅床櫃有支撐。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "縫紉機無廠牌、書脊純色、衣服和鑰匙無字母數字文字或浮水印。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "暖棕家具、淡藍衣布與自然綠盆栽有鉛筆、水彩色鉛筆疊色和米白紙紋。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代街屋家庭、普通家長便服、國小制服與居家縫衣工作符合生活設定。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "全體素色襯衫罩衫、母親棕圍裙及孩子白藍衣領皆無紅領巾或紅圍巾。"
+        }
+      }
     }
   }
 }
