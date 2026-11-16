@@ -5,12 +5,9 @@
   "status": "all_12_independently_reviewed",
   "style_source": "docs/illustration-prompts.json#style_prompt",
   "original_progress_update": {
-    "status": "blocked_missing_source_file",
-    "searched": [
-      "/workspace",
-      "/tmp"
-    ],
-    "note": "原 progress.json 不在目前工作區；未宣稱已修改其 done。此批 progress.json 僅追蹤重畫產物。"
+    "status": "reconciled",
+    "path": "progress.json",
+    "note": "遠端合併帶入 progress.json；本批12項皆重新獨立驗證通過後加入 done。"
   },
   "entries": [
     {
@@ -329,8 +326,8 @@
   "failed_attempts_preserved_in": "failed/",
   "publication": {
     "status": "registered_pending_deploy",
-    "service_worker_version": "v91",
+    "service_worker_version": "v92",
     "site": "https://kckuo-ai.github.io/chengyu/",
-    "catalog_count": 1189
+    "catalog_count": 1202
   }
 }
