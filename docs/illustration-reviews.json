@@ -17465,6 +17465,94 @@
           "evidence": "全體素色襯衫罩衫、母親棕圍裙及孩子白藍衣領皆無紅領巾或紅圍巾。"
         }
       }
+    },
+    "1326": {
+      "no": 1326,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-1-134a449/batch-1/1326.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "全家因鑰匙不見而拿不到鎖櫃內的書包、雨傘和布袋；另一格母親找到鑰匙開門，三人各自取好用品，笑著準備出門。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "同一把鎖阻擋全家取三種用品，找到一把鑰匙開同一櫃後三項困擾同步解除，根源與連帶結果清楚，非各自完成無關工作。 已檢視全站感知雜湊候選300、1141、72及607、400等相關情境的既有圖；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "左右相同人物櫃位、左格可見物品與右格各人持物對照，手機可辨。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "原尺寸核對孩子兩掌各五指、右格抓肩帶雙手、父親握傘與母親持鑰抓門手，各臂連肩；三人鞋腳踩地自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "掛鎖扣住雙門把、右格門有鉸鏈支撐，書包肩帶承重、雨傘握柄、布袋掛臂，無懸空物或工具錯接。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "鑰匙與鎖為正常物件輪廓，櫃子、布袋、書包及鞋面無字母數字、文字、品牌或浮水印。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔藍書包、暖棕櫃與淡粉罩衫採鉛筆線、水彩及色鉛筆疊色，米白紙紋清楚。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代家庭玄關、鞋架、國小白藍制服與父母普通便服符合情境。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "父親白襯衫、母親粉罩衫、孩子白藍衣領，兩格全體無紅巾。"
+        }
+      }
+    },
+    "1339": {
+      "no": 1339,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-1-134a449/batch-1/1339.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "女孩在公園張口號召清理垃圾，一手高舉垃圾夾、一手指向草地，居民專心聽並接過手套、打開垃圾袋準備加入。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "張口急切神情、高舉工具及指垃圾，引起居民戴手套開袋響應，符合公開號召；與400順勢分發掃具、已有同學清掃的關鍵動作和因果不同。 已檢視全站感知雜湊候選95、400、368及607、400等相關情境的既有圖；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "女孩位於中央大幅面，圍聽者目光及地面垃圾聚焦，手機可讀。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "裁圖核對舉夾手、指地手、前排手套各五指、後排接手套與兩位成人撐袋手，肩肘相連；主角雙鞋平踩草地，未見多肢。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "垃圾夾有連接雙桿與夾頭、握柄接手，垃圾袋由雙手撐口垂落，圖板三腳落地，鞋與草地接觸正常。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "圖板及泡泡只有樹木圖、瓶身紙杯無字樣，衣鞋無字母數字、品牌或浮水印。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "自然草綠、淡藍白制服與暖棕公園採鉛筆描線、柔和水彩色鉛筆及米白紙紋。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代社區公園、白藍國小制服、一般便服居民與志工圍裙符合生活設定。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "全體人物白藍制服或素色便服，無紅領巾或紅圍巾。"
+        }
+      }
     }
   }
 }
