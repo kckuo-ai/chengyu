@@ -12158,6 +12158,46 @@
           "evidence": "所有人物均未佩戴紅領巾或紅色圍巾。"
         }
       }
+    },
+    "1218": {
+      "no": 1218,
+      "kind": "new",
+      "path": "/workspace/scratch/idiom-work/1218.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "台灣國小戶外教育中孩子們在山河景色前合作拉起空白布幕，展現雄壯團隊氣勢。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "孩子們在壯闊山河前合力拉起大型空白布幕，姿態昂揚，明確呈現雄壯豪邁氣勢。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "山谷與河流作背景，孩子和布幕形成高張力前景，橫向構圖突出團隊力量。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "主要人物手臂連接肩膀，手指大致完整，站立、蹲姿與拉桿動作自然，腳部落地。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "木桿、布幕、石頭、山徑與人物接觸合理，遠近山河透視一致。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "布幕保持空白，畫面無可讀文字、字母、數字、品牌、浮水印或不適內容。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "可見台灣山區戶外教育、國小孩童與台灣河谷景觀，符合現代台灣場景。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "所有人物均沒有紅領巾或紅色圍巾。"
+        }
+      }
     }
   }
 }
