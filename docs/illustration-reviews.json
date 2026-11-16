@@ -14798,6 +14798,513 @@
           "evidence": "已檢查前後景及圖中圖人物頸部，皆是一般翻領或圓領衣物，無紅領巾與紅圍巾。"
         }
       }
+    },
+    "1241": {
+      "no": 1241,
+      "path": "/workspace/chengyu/batch-4/1241.png",
+      "passed": true,
+      "issues": [],
+      "regenerate": false,
+      "reviewer": "root-controller-separate-visual-pass",
+      "review_method": "同一總控於生成後另行開啟保存的PNG逐張實際看圖；不是另一位審查者。",
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "單一藍衣女孩帶一顆足球接近右前球門；遠處另一球門、中圈及長場地可見，追兵全在左後方，前方無阻擋。"
+        },
+        "no_text_or_glyphs": {
+          "passed": true,
+          "evidence": "屋頂僅乾淨輪廓，校舍無招牌，球衣鞋子無字號。"
+        },
+        "anatomy_and_physics": {
+          "passed": true,
+          "evidence": "女孩兩臂兩腿，前腳承地，球在腳邊；跑者未出現重複肢體。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣生活設定：單一藍衣女孩帶一顆足球接近右前球門；遠處另一球門、中圈及長場地可見，追兵全在左後方，前方無阻擋。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "人物穿素面便服或國小制服，沒有紅領巾或紅圍巾。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "細鉛筆輪廓、柔和透明水彩與色鉛筆顆粒；米白紙紋可見。"
+        },
+        "alt": {
+          "passed": true,
+          "evidence": "替代文字對應實際畫面且不含成語答案。"
+        }
+      }
+    },
+    "1243": {
+      "no": 1243,
+      "path": "/workspace/chengyu/batch-4/1243.png",
+      "passed": true,
+      "issues": [],
+      "regenerate": false,
+      "reviewer": "root-controller-separate-visual-pass",
+      "review_method": "同一總控於生成後另行開啟保存的PNG逐張實際看圖；不是另一位審查者。",
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "老師同時講解牛車帆船與捷運公車，木輪和輪胎圖像泡泡清楚對照，孩子專注仰望。"
+        },
+        "no_text_or_glyphs": {
+          "passed": true,
+          "evidence": "無書架，展板僅交通圖像；車身車牌及基座無字。"
+        },
+        "anatomy_and_physics": {
+          "passed": true,
+          "evidence": "老師伸掌五指可辨；四種模型有基座，帆船由托架支撐。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣生活設定：老師同時講解牛車帆船與捷運公車，木輪和輪胎圖像泡泡清楚對照，孩子專注仰望。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "人物穿素面便服或國小制服，沒有紅領巾或紅圍巾。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "細鉛筆輪廓、柔和透明水彩與色鉛筆顆粒；米白紙紋可見。"
+        },
+        "alt": {
+          "passed": true,
+          "evidence": "替代文字對應實際畫面且不含成語答案。"
+        }
+      }
+    },
+    "1244": {
+      "no": 1244,
+      "path": "/workspace/chengyu/batch-4/1244.png",
+      "passed": true,
+      "issues": [],
+      "regenerate": false,
+      "reviewer": "root-controller-separate-visual-pass",
+      "review_method": "同一總控於生成後另行開啟保存的PNG逐張實際看圖；不是另一位審查者。",
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "左格女子執筆創作雙瀑布彎松畫；中格男子趁她走開搬走；右格指自己胸口領獎，女子驚訝伸手。"
+        },
+        "no_text_or_glyphs": {
+          "passed": true,
+          "evidence": "三格同一山水畫無落款，獎章空白，帳棚建築無字。"
+        },
+        "anatomy_and_physics": {
+          "passed": true,
+          "evidence": "搬畫雙手接觸上下畫框；伸手及指胸動作連接合理，無多餘肢體。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣生活設定：左格女子執筆創作雙瀑布彎松畫；中格男子趁她走開搬走；右格指自己胸口領獎，女子驚訝伸手。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "人物穿素面便服或國小制服，沒有紅領巾或紅圍巾。男子頸部紅帶為獎章掛帶。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "細鉛筆輪廓、柔和透明水彩與色鉛筆顆粒；米白紙紋可見。"
+        },
+        "alt": {
+          "passed": true,
+          "evidence": "替代文字對應實際畫面且不含成語答案。"
+        }
+      }
+    },
+    "1246": {
+      "no": 1246,
+      "path": "/workspace/chengyu/batch-4/1246.png",
+      "passed": true,
+      "issues": [],
+      "regenerate": false,
+      "reviewer": "root-controller-separate-visual-pass",
+      "review_method": "同一總控於生成後另行開啟保存的PNG逐張實際看圖；不是另一位審查者。",
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "女孩蜷肩大哭緊抱項圈小毯，家人扶肩難過；照片呈現昔日相伴，旁邊狗床空著。"
+        },
+        "no_text_or_glyphs": {
+          "passed": true,
+          "evidence": "背景素牆窗簾盆栽，照片無字，圓吊牌空白，沒有書架。"
+        },
+        "anatomy_and_physics": {
+          "passed": true,
+          "evidence": "眾人坐在沙發上有支撐，安慰手接觸肩膀，無血或遺體。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣生活設定：女孩蜷肩大哭緊抱項圈小毯，家人扶肩難過；照片呈現昔日相伴，旁邊狗床空著。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "人物穿素面便服或國小制服，沒有紅領巾或紅圍巾。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "細鉛筆輪廓、柔和透明水彩與色鉛筆顆粒；米白紙紋可見。"
+        },
+        "alt": {
+          "passed": true,
+          "evidence": "替代文字對應實際畫面且不含成語答案。"
+        }
+      }
+    },
+    "1247": {
+      "no": 1247,
+      "path": "/workspace/chengyu/batch-4/1247.png",
+      "passed": true,
+      "issues": [],
+      "regenerate": false,
+      "reviewer": "root-controller-separate-visual-pass",
+      "review_method": "同一總控於生成後另行開啟保存的PNG逐張實際看圖；不是另一位審查者。",
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "三格依序為暴雨積水阻客、送貨箱幾乎空且罐子空、烤箱門脫落且插頭拔出，父母面對生麵團與空架商議。"
+        },
+        "no_text_or_glyphs": {
+          "passed": true,
+          "evidence": "原料箱與玻璃罐無標籤，烤箱無字號，店門與帳棚無字。"
+        },
+        "anatomy_and_physics": {
+          "passed": true,
+          "evidence": "搬箱手托箱，烤箱門靠放桌面，插頭與電線可辨，孩子在乾燥店內。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣生活設定：三格依序為暴雨積水阻客、送貨箱幾乎空且罐子空、烤箱門脫落且插頭拔出，父母面對生麵團與空架商議。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "人物穿素面便服或國小制服，沒有紅領巾或紅圍巾。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "細鉛筆輪廓、柔和透明水彩與色鉛筆顆粒；米白紙紋可見。"
+        },
+        "alt": {
+          "passed": true,
+          "evidence": "替代文字對應實際畫面且不含成語答案。"
+        }
+      }
+    },
+    "1249": {
+      "no": 1249,
+      "path": "/workspace/chengyu/batch-4/1249.png",
+      "passed": true,
+      "issues": [],
+      "regenerate": false,
+      "reviewer": "root-controller-separate-visual-pass",
+      "review_method": "同一總控於生成後另行開啟保存的PNG逐張實際看圖；不是另一位審查者。",
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "長者遞黏土給雙手接過的女孩，多代人圍桌自在交談；桌上小狗大象兔子烏龜可辨。"
+        },
+        "no_text_or_glyphs": {
+          "passed": true,
+          "evidence": "只有窗戶素牆植物，材料盒及衣服無字無標籤。"
+        },
+        "anatomy_and_physics": {
+          "passed": true,
+          "evidence": "伸掌五指，兩人雙手在材料處接觸，人物有椅背及桌面支撐。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣生活設定：長者遞黏土給雙手接過的女孩，多代人圍桌自在交談；桌上小狗大象兔子烏龜可辨。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "人物穿素面便服或國小制服，沒有紅領巾或紅圍巾。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "細鉛筆輪廓、柔和透明水彩與色鉛筆顆粒；米白紙紋可見。"
+        },
+        "alt": {
+          "passed": true,
+          "evidence": "替代文字對應實際畫面且不含成語答案。"
+        }
+      }
+    },
+    "1251": {
+      "no": 1251,
+      "path": "/workspace/chengyu/batch-4/1251.png",
+      "passed": true,
+      "issues": [],
+      "regenerate": false,
+      "reviewer": "root-controller-separate-visual-pass",
+      "review_method": "同一總控於生成後另行開啟保存的PNG逐張實際看圖；不是另一位審查者。",
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "平板清楚呈現窗簾碰倒木模型；老師一掌制止指責、另一掌托平板，女孩釋然男孩低頭。"
+        },
+        "no_text_or_glyphs": {
+          "passed": true,
+          "evidence": "平板只有場景圖像無介面，黑板空白，背景無書架。"
+        },
+        "anatomy_and_physics": {
+          "passed": true,
+          "evidence": "老師伸掌五指清楚，平板底部有手掌托住，模型散件均在桌上。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣生活設定：平板清楚呈現窗簾碰倒木模型；老師一掌制止指責、另一掌托平板，女孩釋然男孩低頭。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "人物穿素面便服或國小制服，沒有紅領巾或紅圍巾。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "細鉛筆輪廓、柔和透明水彩與色鉛筆顆粒；米白紙紋可見。"
+        },
+        "alt": {
+          "passed": true,
+          "evidence": "替代文字對應實際畫面且不含成語答案。"
+        }
+      }
+    },
+    "1254": {
+      "no": 1254,
+      "path": "/workspace/chengyu/batch-4/1254.png",
+      "passed": true,
+      "issues": [],
+      "regenerate": false,
+      "reviewer": "root-controller-separate-visual-pass",
+      "review_method": "同一總控於生成後另行開啟保存的PNG逐張實際看圖；不是另一位審查者。",
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "左欄看圖冊後仍困惑，中欄握吊飾而琴閒置，右欄收起圖冊吊飾並接受指導實際運弓。左欄含上下兩個連續時刻。"
+        },
+        "no_text_or_glyphs": {
+          "passed": true,
+          "evidence": "圖冊只有演奏人物圖片，修正版兩處吊飾皆素面淡綠玉石，無音符與字形。"
+        },
+        "anatomy_and_physics": {
+          "passed": true,
+          "evidence": "琴放桌上或托在肩上；老師扶手臂，男孩持琴運弓，手無可見多指。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣生活設定：左欄看圖冊後仍困惑，中欄握吊飾而琴閒置，右欄收起圖冊吊飾並接受指導實際運弓。左欄含上下兩個連續時刻。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "人物穿素面便服或國小制服，沒有紅領巾或紅圍巾。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "細鉛筆輪廓、柔和透明水彩與色鉛筆顆粒；米白紙紋可見。"
+        },
+        "alt": {
+          "passed": true,
+          "evidence": "替代文字對應實際畫面且不含成語答案。"
+        }
+      }
+    },
+    "1256": {
+      "no": 1256,
+      "path": "/workspace/chengyu/batch-4/1256.png",
+      "passed": true,
+      "issues": [],
+      "regenerate": false,
+      "reviewer": "root-controller-separate-visual-pass",
+      "review_method": "同一總控於生成後另行開啟保存的PNG逐張實際看圖；不是另一位審查者。",
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "大型紀念冊以三張大圖鄭重記錄澆水護根與新葉，普通日常僅在兩側小格，老師貼上葉形貼紙。"
+        },
+        "no_text_or_glyphs": {
+          "passed": true,
+          "evidence": "所有相片及留白無標題、頁碼、手寫線，背景素面布告板。"
+        },
+        "anatomy_and_physics": {
+          "passed": true,
+          "evidence": "厚紀念冊攤在桌上，老師手指捏葉片貼紙靠近頁面，人物倚桌自然。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣生活設定：大型紀念冊以三張大圖鄭重記錄澆水護根與新葉，普通日常僅在兩側小格，老師貼上葉形貼紙。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "人物穿素面便服或國小制服，沒有紅領巾或紅圍巾。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "細鉛筆輪廓、柔和透明水彩與色鉛筆顆粒；米白紙紋可見。"
+        },
+        "alt": {
+          "passed": true,
+          "evidence": "替代文字對應實際畫面且不含成語答案。"
+        }
+      }
+    },
+    "1257": {
+      "no": 1257,
+      "path": "/workspace/chengyu/batch-4/1257.png",
+      "passed": true,
+      "issues": [],
+      "regenerate": false,
+      "reviewer": "root-controller-separate-visual-pass",
+      "review_method": "同一總控於生成後另行開啟保存的PNG逐張實際看圖；不是另一位審查者。",
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "男子夾走開啟收款盒並指向窗外急洪水，店主伸手索回；警察拉繩制止且指向乾燥退路，孩子留在店內。"
+        },
+        "no_text_or_glyphs": {
+          "passed": true,
+          "evidence": "修正版紙鈔為空白淡粉紙片，硬幣無刻紋，商品包裝與制服素面。"
+        },
+        "anatomy_and_physics": {
+          "passed": true,
+          "evidence": "店主兩個伸掌各五指，竊賊托盒且雙腳在乾燥地面；無涉水受傷武器。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣生活設定：男子夾走開啟收款盒並指向窗外急洪水，店主伸手索回；警察拉繩制止且指向乾燥退路，孩子留在店內。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "人物穿素面便服或國小制服，沒有紅領巾或紅圍巾。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "細鉛筆輪廓、柔和透明水彩與色鉛筆顆粒；米白紙紋可見。"
+        },
+        "alt": {
+          "passed": true,
+          "evidence": "替代文字對應實際畫面且不含成語答案。"
+        }
+      }
+    },
+    "1258": {
+      "no": 1258,
+      "path": "/workspace/chengyu/batch-4/1258.png",
+      "passed": true,
+      "issues": [],
+      "regenerate": false,
+      "reviewer": "root-controller-separate-visual-pass",
+      "review_method": "同一總控於生成後另行開啟保存的PNG逐張實際看圖；不是另一位審查者。",
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "兩格同衣男孩同座位紙團依舊；提醒後回收桶移到桌邊，他仍雙手枕頭，其他人收好餐盤。"
+        },
+        "no_text_or_glyphs": {
+          "passed": true,
+          "evidence": "前景四張紙皆空白，桶身與餐具無字無符號，黑板空白。"
+        },
+        "anatomy_and_physics": {
+          "passed": true,
+          "evidence": "男孩坐椅雙腳有地面支撐；前景持紙手接觸邊緣，無明顯多指。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣生活設定：兩格同衣男孩同座位紙團依舊；提醒後回收桶移到桌邊，他仍雙手枕頭，其他人收好餐盤。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "人物穿素面便服或國小制服，沒有紅領巾或紅圍巾。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "細鉛筆輪廓、柔和透明水彩與色鉛筆顆粒；米白紙紋可見。"
+        },
+        "alt": {
+          "passed": true,
+          "evidence": "替代文字對應實際畫面且不含成語答案。"
+        }
+      }
+    },
+    "1262": {
+      "no": 1262,
+      "path": "/workspace/chengyu/batch-4/1262.png",
+      "passed": true,
+      "issues": [],
+      "regenerate": false,
+      "reviewer": "root-controller-separate-visual-pass",
+      "review_method": "同一總控於生成後另行開啟保存的PNG逐張實際看圖；不是另一位審查者。",
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "女孩展示連動雙翼紙鳥，爺爺張嘴笑眼，一掌落桌另一手拇指向上，媽媽微笑。"
+        },
+        "no_text_or_glyphs": {
+          "passed": true,
+          "evidence": "紙鳥僅摺線鉸接，風景畫與衣物無字，無聲效字，無書架。"
+        },
+        "anatomy_and_physics": {
+          "passed": true,
+          "evidence": "爺爺落桌掌五指清楚，女孩雙手托鳥，茶杯茶壺穩放杯墊。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣生活設定：女孩展示連動雙翼紙鳥，爺爺張嘴笑眼，一掌落桌另一手拇指向上，媽媽微笑。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "人物穿素面便服或國小制服，沒有紅領巾或紅圍巾。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "細鉛筆輪廓、柔和透明水彩與色鉛筆顆粒；米白紙紋可見。"
+        },
+        "alt": {
+          "passed": true,
+          "evidence": "替代文字對應實際畫面且不含成語答案。"
+        }
+      }
+    },
+    "1267": {
+      "no": 1267,
+      "path": "/workspace/chengyu/batch-4/1267.png",
+      "passed": true,
+      "issues": [],
+      "regenerate": false,
+      "reviewer": "root-controller-separate-visual-pass",
+      "review_method": "同一總控於生成後另行開啟保存的PNG逐張實際看圖；不是另一位審查者。",
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "同窗框前後對照，普通圖書角變為森林壁畫葉墊布幔，老師持動物木偶，孩子睜眼聆聽。"
+        },
+        "no_text_or_glyphs": {
+          "passed": true,
+          "evidence": "書背全單色無紋，攤開書只有鹿、鳥與花等具象圖，無分行筆畫。"
+        },
+        "anatomy_and_physics": {
+          "passed": true,
+          "evidence": "布幔由橫桿繩結懸掛，人物坐在葉墊上，老師空手伸掌五指，木偶由另一前臂支撐。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣生活設定：同窗框前後對照，普通圖書角變為森林壁畫葉墊布幔，老師持動物木偶，孩子睜眼聆聽。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "人物穿素面便服或國小制服，沒有紅領巾或紅圍巾。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "細鉛筆輪廓、柔和透明水彩與色鉛筆顆粒；米白紙紋可見。"
+        },
+        "alt": {
+          "passed": true,
+          "evidence": "替代文字對應實際畫面且不含成語答案。"
+        }
+      }
     }
   }
 }
