@@ -12238,6 +12238,46 @@
           "evidence": "所有人物均沒有紅領巾或紅色圍巾。"
         }
       }
+    },
+    "1220": {
+      "no": 1220,
+      "kind": "new",
+      "path": "/workspace/scratch/idiom-work/1220.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-16",
+      "alt": "台灣國小科學教室中實驗失敗的孩子暫時失去信心，老師與同學陪伴鼓勵重新嘗試。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "科學實驗失敗後，原本積極有才能的孩子低頭沮喪，老師同學鼓勵重新開始，清楚呈現挫折使進取心暫時消退。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "實驗桌、失敗模型與低頭孩子為中心，老師同學包圍支持，情緒和因果清楚。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "主要人物手臂連接肩膀，手指與腳部自然，沮喪坐姿與鼓勵手勢合理。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "試管、燒杯、模型與桌面接觸自然，教室窗戶及人物透視一致。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "筆記本僅有抽象圖線，無可讀文字、字母、數字、品牌、浮水印或不適內容。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "可見台灣國小科學教室、校舍與國小制服孩童，符合現代台灣校園。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "所有人物均未佩戴紅領巾或紅色圍巾。"
+        }
+      }
     }
   }
 }
