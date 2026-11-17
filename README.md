@@ -1,15 +1,10 @@
-# 成語插圖第 1 批：待審核
+# 已結案的插圖暫存分支
 
-編號範圍 1296–1343，共 30 張原創 PNG 插圖，尺寸 1536×1024。
+本分支的交接檔案已處理，暫存目錄於 2026-11-17 清理。
 
-`batch-1.zip` 包含 `batch-1/` 資料夾、30 張 PNG 與 `manifest.json`。
-本批僅完成產圖與存檔，尚未執行正式驗證或登錄。
+- 網站與完成狀態：[main](https://github.com/kckuo-ai/chengyu/tree/main)
+- 唯一待辦：[illustration-worklist.json](https://github.com/kckuo-ai/chengyu/blob/main/docs/illustration-worklist.json)
+- 執行規則：[illustration-goal.md](https://github.com/kckuo-ai/chengyu/blob/main/docs/illustration-goal.md)
+- 清理追溯：[illustration-staging-cleanup.json](https://github.com/kckuo-ai/chengyu/blob/main/docs/illustration-staging-cleanup.json)
 
-其他 session 可執行：
-
-```sh
-git clone --depth 1 --single-branch --branch illustration-batch-1-handoff https://github.com/kckuo-ai/chengyu.git /workspace/chengyu-batch-1-handoff
-unzip /workspace/chengyu-batch-1-handoff/batch-1.zip -d /workspace/scratch/idiom-batch
-```
-
-此分支僅供插圖檔案移交。
+本提交只移除最新樹的暫存檔案，原交付內容完整保留於父提交歷史。請勿以本分支的舊批次或 progress 推斷全域進度；新交付請使用新分支。備份分支、main 網站插圖與原始審查證據均保留。
