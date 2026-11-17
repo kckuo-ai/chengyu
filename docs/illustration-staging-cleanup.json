@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-17",
+  "protected_main_at_cleanup": "5aa862244e0688cc58937d248aa14094987b0244",
+  "protected_active_illustrations": 1290,
+  "main_images_or_catalog_changed": false,
+  "branches_retired": 12,
+  "files_removed_from_branch_tips": 6304,
+  "method": "Fast-forward child commits, one shared pointer README, expected-head checks. No branch deletion, history rewrite, backup deletion, or main asset deletion.",
+  "storage_note": "Files are removed from latest staging trees. Historical Git objects remain available; this is not a claim of reduced repository storage.",
+  "legacy_manifest_unique_idioms": 130,
+  "legacy_manifest_unpublished_idioms": 0,
+  "branches": [
+    {
+      "branch": "illustration-batch-1-handoff",
+      "original_head": "02cf4aff24d85a0ba76f666f8d8dfa7ce09a2d15",
+      "cleanup_commit": "a4aa3c40d76672a1a3cb5013fe096fda8e366dfd",
+      "cleanup_tree": "de159d84325de3428ea079002109418160397007",
+      "files_removed": 2,
+      "bytes_removed_from_tip": 104817902
+    },
+    {
+      "branch": "illustration-batch-2-handoff",
+      "original_head": "1db56d8005d9fbeee0587728bc3e7e34f817f79b",
+      "cleanup_commit": "226d94732d58e90272f76d341a506e4d6b080e5f",
+      "cleanup_tree": "de159d84325de3428ea079002109418160397007",
+      "files_removed": 32,
+      "bytes_removed_from_tip": 107328560
+    },
+    {
+      "branch": "illustration-delivery/batch-1-1301-1362",
+      "original_head": "134a449d086b57c0edbd0c2f35a0a31d8d8e09a4",
+      "cleanup_commit": "82488281d8772925d4f440659ed35b92aa06543c",
+      "cleanup_tree": "de159d84325de3428ea079002109418160397007",
+      "files_removed": 1,
+      "bytes_removed_from_tip": 104624823
+    },
+    {
+      "branch": "illustration-delivery/batch-2-1323-1390",
+      "original_head": "cbee8cb5b509e4fdf8b079084be3a59e6fa2718a",
+      "cleanup_commit": "f571e0020e8b8a20a944a741b85f32d66c9f5be1",
+      "cleanup_tree": "de159d84325de3428ea079002109418160397007",
+      "files_removed": 1,
+      "bytes_removed_from_tip": 100793528
+    },
+    {
+      "branch": "illustration-delivery/batch-3-1363-1419",
+      "original_head": "25a2ef69e2d07035decbe20234dcf0c6c238b30e",
+      "cleanup_commit": "faff101384dfa5c9e1a198ed8cef8a676631b1e5",
+      "cleanup_tree": "de159d84325de3428ea079002109418160397007",
+      "files_removed": 1,
+      "bytes_removed_from_tip": 101332945
+    },
+    {
+      "branch": "illustration-delivery/batch-4-redraw-2",
+      "original_head": "c5eeccdcee72f0989d20f8cfc02aeb4999c34e00",
+      "cleanup_commit": "7aeafd9198986ff1dc9533581e30165958e67c5a",
+      "cleanup_tree": "de159d84325de3428ea079002109418160397007",
+      "files_removed": 1,
+      "bytes_removed_from_tip": 6874674
+    },
+    {
+      "branch": "illustration-delivery/batch-4-redraw-7",
+      "original_head": "21b05e9e860257345f696da12771a74cb6575a13",
+      "cleanup_commit": "5179db6d485873918336b767682e782bf8d6bd32",
+      "cleanup_tree": "de159d84325de3428ea079002109418160397007",
+      "files_removed": 1,
+      "bytes_removed_from_tip": 23492478
+    },
+    {
+      "branch": "illustrations/batch-1",
+      "original_head": "eebecc9a8c7e06d4d68a6e32b33248e1f684b5e4",
+      "cleanup_commit": "36378933af2cf71b77cc85b974ccc4875d2577c0",
+      "cleanup_tree": "de159d84325de3428ea079002109418160397007",
+      "files_removed": 1191,
+      "bytes_removed_from_tip": 588858902
+    },
+    {
+      "branch": "illustrations/batch-2",
+      "original_head": "d22982b3b87d7a70edf1f8b3a62920adfc28421b",
+      "cleanup_commit": "0c2138ca7a1d5ce23022b8c7718c4ec81cd70f09",
+      "cleanup_tree": "de159d84325de3428ea079002109418160397007",
+      "files_removed": 1222,
+      "bytes_removed_from_tip": 695533478
+    },
+    {
+      "branch": "illustrations/batch-3",
+      "original_head": "dd83926e4d0e39b167afa7e5d1458f7d7a91e2fa",
+      "cleanup_commit": "cc67d5c9139445ca8e2d61f32767598db16c2ef6",
+      "cleanup_tree": "de159d84325de3428ea079002109418160397007",
+      "files_removed": 1253,
+      "bytes_removed_from_tip": 802884388
+    },
+    {
+      "branch": "illustrations/batch-4",
+      "original_head": "cbca4ab400d9c9f5d259ef952e1477dc1c476b7c",
+      "cleanup_commit": "401c97fd91ff0ac9797e2362f4415f5da2abcacf",
+      "cleanup_tree": "de159d84325de3428ea079002109418160397007",
+      "files_removed": 1284,
+      "bytes_removed_from_tip": 910178579
+    },
+    {
+      "branch": "illustrations/batch-5",
+      "original_head": "f88be7558acb4f75127dc5545824d30fda2b6fd2",
+      "cleanup_commit": "7ede6e2554a870a56363406aaced7ffb73aa09e5",
+      "cleanup_tree": "de159d84325de3428ea079002109418160397007",
+      "files_removed": 1315,
+      "bytes_removed_from_tip": 1016056802
+    }
+  ]
+}

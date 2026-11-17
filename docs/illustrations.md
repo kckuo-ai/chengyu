@@ -2,7 +2,7 @@
 
 `data/illustrations.json` 是已完成圖片的唯一目錄。只有實際生成、檢視且已存在於 `img/idioms/` 的 WebP 檔才能登錄。未完成的成語不放佔位圖片，也不進入看圖題庫。
 
-執行 `python3 scripts/illustration_status.py` 可取得即時完成數；加上 `--pending` 可列出全站 1,466 個詞條中尚未製作的項目。這是待辦清單，並非背景生成工作；停止執行工具後不會自行繼續生成。
+執行 `python3 scripts/illustration_status.py` 可取得即時完成數；加上 `--pending` 可列出全站 1,466 個詞條中尚未製作的項目。完整單一待辦入口為 `docs/illustration-worklist.json`，以 `python3 scripts/illustration_audit.py --write` 更新，包含缺圖、歷史品質候選及紀錄缺口，每個編號只列一次。這是待辦清單，並非背景生成工作；停止執行工具後不會自行繼續生成。
 
 ## 畫風與原創原則
 

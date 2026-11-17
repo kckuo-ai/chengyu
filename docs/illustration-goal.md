@@ -1,33 +1,49 @@
-# 全量插圖自動接續目標
+# 插圖最終目標與唯一工作清單
 
-依使用者授權，完成全站尚未製作的成語插圖。沿用鉛筆手繪線條、柔和水彩、彩色鉛筆疊色與米白紙紋；能準確表意時採現代情境，否則保留典故或自然場景。
+最終目標為教育部索引的全部 **1,466 個詞條**都有能準確表意、通過實際看圖驗證並發布的原創插圖。完成與否只認 `data/illustrations.json`，不以產圖數、ZIP、分支名稱或舊 `progress.json` 判斷。
 
-目前 842 張有效插圖中有 815 張（96.8%）為橫向，且 731 張（86.8%）為 1536×1024 的 3:2 橫向構圖；後續產圖以 3:2 橫向為主要輸出格式，只有詞義確實需要時才使用正方形或直向，並在 metadata 記錄實際尺寸。
+2026-11-17 盤點：main 已發布 **1,290 張（87.99%）**，尚缺 **176 張**；快取版本 v99。既有 21 項 P1 重製全部 published。這是檔案及紀錄盤點，不是重新逐張看完 1,290 張；不得據此宣稱全圖庫已通過最新視覺標準。
 
-最新詞義修正：優先呈現當代常用的引申義，不能只因字面可畫就用字面替代寓意。例如「入木三分」應表現評論深刻中肯、分析直指核心；墨跡滲入木板的版本已依使用者回饋撤換。生成前先確認場景能表現詞義的關鍵因果或特徵。
+## 清單與資料各只有一個來源
 
-- 只呼叫對話提供的內建圖片工具，不設定或呼叫另行計費的圖片 API，不新增 API 金鑰或付費服務。
-- 工具若明確回報額度上限，保存已完成進度與重試時間，立即暫停產圖、驗證、備份與發布，保存全域暫停狀態，並排程 3 小時後自動接續中斷的任務。不要改用付費 API 或要求使用者逐批確認。只有與額度無關、無法恢復的其他阻擋，才將自動目標標為 blocked。
-- `data/illustrations.json` 是已完成的唯一依據。每次先執行 `python3 scripts/illustration_status.py --pending`，核對圖片與驗證紀錄；從共用原子佇列一次領取一個未完成編號，跳過已有圖片。
-- 每次開始先比對本機有效目錄與 GitHub `main` 已發布目錄，列出差異編號。若有已登錄且獨立驗證通過、但網站尚未發布的插圖，優先為這些差異圖建立原圖備份與 SHA-256 manifest、測試並推送 `main`，核對遠端目錄及離線快取版本後才繼續新圖。同步可少於 50 張；網站已發布的圖片數應與當次有效目錄數一致。未驗證或僅生成的圖片不得算入。
-- 先讀教育部原始詞義，再自行設計原創場景，不修改教育部原文，不引用第三方插畫、品牌或既有角色，也不指定模仿特定創作者。
-- 每張生成後立即保存可讀取的本機 PNG 與 metadata，新增獨立的實際看圖驗證任務，檢視「台灣人物／台灣場景」與「無紅領巾」（任一不符合即失敗），再檢視詞義、人物手腳數量、姿勢、接觸關係、物件結構、車輪位置、透視與物理合理性；不合格時保留失敗紀錄與原圖，依缺陷重新生成並再次驗證。只有 review 通過、review path 與 metadata path 完全一致時才可登錄。替代文字須符合實際畫面且不包含完整成語答案。用 `scripts/add_illustration.cjs` 登錄 WebP 與原圖雜湊，原 PNG 保留。
-- 文字相關場景要讓書寫確實可見，可用不可讀的鉛筆書寫肌理，避免空白書稿削弱詞義。圖中一律不可出現可讀文字、字母或數字；「一字千金」也只能使用不可讀的抽象墨痕，不再允許原創單字例外。
-- 本次自動接續的完整畫風與場景提示保存於 `docs/illustration-prompts.json`，唯一畫風來源為該檔案根層的 `style_prompt`（獨立審查的 `fixed_style_prompt` 原文）；不得使用各項覆寫、舊 metadata 或歷史備份中的畫風。以 `python3 scripts/illustration_brief.py NUMBER` 取得完整提示。
-- 本輪從目前最新領取項目起累積 50 張已獨立驗證且登錄的新圖；每批保存新增圖片和提示紀錄，更新 `sw.js` 的版本，執行狀態檢查與有意義的圖片／題庫驗證。每 50 張凍結 manifest、備份、測試並發布一次，50 張目標不是停止點。保留既有檔案與使用者變更，不重新套用已發布的舊變更。
-- 批次只是備份與發布的門檻，**不是停止點**。每完成一次備份與發布，在同一執行回合立即重新讀取最新待辦並領下一筆，不等待排程或使用者提醒。只有全量 1,466 條完成、圖片工具明確回報額度上限，或實際無法恢復的外部阻擋時才暫停。
-- 只使用一個總控產圖 session，一次從共用原子佇列領取一個編號。獨立看圖驗證可以交由驗證者執行；由總控負責登錄、備份、發布與恢復，避免重複產圖或覆寫。
-- 每新增 50 張已登錄且通過獨立驗證的插圖，凍結含編號、原圖路徑、SHA-256、提示、替代文字與 review 的 manifest；保留既有備份並推送 GitHub 原圖備份分支。通過 `git diff --check` 與整合測試後，只 stage manifest 列出的通過驗證 WebP 及網站文件，推送 `main` 並核對遠端。未滿 50 張時逐張保存持久化進度；若開始或接續時發現網站落後於本機有效圖庫，立即以現有有效差異做同步發布，不等湊滿 50 張。最後不足 50 張時仍照樣備份發布。
+- 完成目錄：`data/illustrations.json`；原始詞條：`data/moe-index.json`。
+- 待辦入口：`docs/illustration-worklist.json`。每個編號只出現一次，`actions` 可同時列多個缺口；分類張數不可相加當成不同圖片。
+- 清單由 `python3 scripts/illustration_audit.py --write` 產生。新增、重製或補紀錄後重新產生；用 `--json` 輸出完整即時報告。不要手改產生檔，亦不要建立第二份 done、pending 或重畫名單。
+- 提示與唯一畫風：`docs/illustration-prompts.json`；逐張審查：`docs/illustration-reviews.json`；更換沿革：`docs/illustration-revisions.json`。
+- `docs/illustration-regeneration-queue.json` 保留原 P1 的缺陷、建議及完成沿革，不再將已 published 的 P1 當待辦。
+- `docs/reviews/2026-11-14-independent-review.json` 為歷史審查依據，不覆寫或刪除。工作清單引用其發現，不再另抄一份缺陷說明。
+- 根目錄 `progress.json` 僅保留來源指標，舊批次狀態可從 Git 歷史查回。
 
-現有工作區為 `/workspace/chengyu`。若需網站測試，先確認本機 8002 port 是否已有自己的測試伺服器；沒有時從儲存庫根目錄執行 `python3 -m http.server 8002 --bind 127.0.0.1`。完整整合檢查為 `TEST_BASE_URL=http://127.0.0.1:8002 node tests/illustrations.cjs`；不要把尚未跑過的測試記成通過。
+## 完成順序
 
-佇列恢復與流水線收尾規則：每次循環先讀取 queue-state、metadata、review 與 `data/illustrations.json`，逐一恢復 active claim。review 存在且 `passed=true` 且 path 完全一致時，立即執行 `register_reviewed.py`；review 超過 120 秒未出現時，由總控直接查看原圖完成驗證；review 失敗則保留紀錄並依缺陷重製。只有登錄成功後才能釋放 claim，不得在通過 review 尚未登錄時結束回合。最多保留 3 張待驗圖片，驗證延遲不得阻塞下一張產圖；每張必須完成 PNG、metadata、review、登錄與釋放 claim。每回合結束前強制核對 active claim、未登錄、未發布、本機 catalog、GitHub main catalog 與 50 張批次計數。
+1. **補齊 176 張缺圖**：按工作清單中的 `create_new_art`，依索引原有順序處理。編號不連續，不能把範圍內每個整數都當詞條。當前首項是 1421。
+2. **P1 僅恢復未完成項**：本次 21/21 均已發布，沒有待重製 P1；不可重複排入。往後新確認的嚴重缺陷另以實際審查證據建項。
+3. **全量達 1,466 後處理既有品質候選**：48 項 P2 畫風、10 項仍待核對的紅領巾抽樣、42 項 P3 建議。三組合計只有 97 個不同編號；紅領巾名單是舊抽樣，非全站完整檢查。1046 已完成 P1 更換，不再重列舊紅巾問題。P3 含條件式或可保留項，須先看現圖，不能一律重畫。
+4. **補齊可追溯紀錄**：556 張缺逐張 review；546 張有舊版 review，但未完整具備目前八項結構化證據；188 張具備八項通過證據。缺紀錄不等於圖片不合格，也不能靠補填 true 代替實際看圖。另有 25 張缺 prompt 紀錄，21 張 alt 含成語連續兩字，111 張為歷史非 3:2 格式候選；各項可能重疊，依同一編號合併處理。
+5. **收尾**：確認全部有效圖已發布、品質問題已核實處理、原圖與雜湊及 review 可追溯，通過圖片、手機、測驗及離線檢查。歷史非 3:2 或舊紀錄不自動視為視覺失敗；須實際審查後決定修正。
 
-## 2026-11-14 獨立審查執行規則
+## 每張新圖及重製的門檻
 
-- P0 已固定畫風；生成時必須逐次讀取根層 `style_prompt`，不沿用記憶或歷史 prompt。舊實際畫風留在 `docs/reviews/2026-11-14-prompt-history.json` 作追溯，不代表舊圖已重製。
-- `docs/illustration-regeneration-queue.json` 是 21 項 P1 重製的持久清單。先恢復既有 active claim；下一個安全領取點取 1 項 P1，接著最多 19 項尚未完成的新圖，再取下一項 P1。維持既有新圖順序與唯一總控，不能因 P1 已在 catalog 中就略過。不得重建或覆寫既有 queue-state。
-- P1 依清單的 `suggested_scene_prompt` 設計，保留關鍵表意並避開 `avoid_composition_of` 的構圖；reason 必須引用 `defect`。原圖、原 WebP、舊 prompt 與 review 全部保留。驗證前不得刪除 catalog 舊項或覆寫舊 WebP。
-- 每張新圖及 P1 都要保存 PNG、metadata、獨立實際看圖 review。review 的 `checks.taiwan_context` 與 `checks.no_red_neckerchief` 各需含 `passed: true` 與具體 `evidence`，另保留詞義、解剖、物理、畫風、文字與 alt 檢查。先執行 `python3 scripts/validate_illustration_review.py METADATA_JSON REVIEW_JSON`，通過後才可登錄。
-- P1 通過後使用帶原圖雜湊的新 WebP 路徑，向 revisions 追加 previousEntry、previousBrief、previousReview、reason、replacement 與原圖／review 路徑；更新實際 alt、prompt、review、catalog 與 `sw.js VERSION`，然後才把 P1 標為 registered。發布遠端核對後才標為 published。重製不增加有效詞條數，但計入 50 張發布批次。
-- P2、P3 均等有效 catalog 達 1,466 條且完成本輪 P1 後再處理；本次不清理未引用的舊圖。附件是審查依據，遇到附件建議與本段使用者指定優先序不同，以本段為準。
+生成前讀教育部詞義、近反義與既有插圖；用 `python3 scripts/illustration_brief.py NUMBER` 取得根層唯一 `style_prompt`。橫式 3:2、現代台灣情境、鉛筆線、柔和水彩、色鉛筆疊色與米白紙紋。只使用對話內建圖片工具，不設定額外付費 API 或金鑰。
+
+每張先看全圖，再看手腳、泡泡、鞋面與道具的原尺寸細部，逐項記錄具體觀察：meaning、composition、hands_feet_pose、objects_contact_perspective、text_brand_watermark、style、taiwan_context、no_red_neckerchief。須核對關鍵因果與構圖重複；任一項失敗或拿不準即不登錄。全圖無文字、字母、數字、類字形、品牌、浮水印、紅領巾或紅圍巾。書寫場景可改取景角度，不以仿字肌理規避無類文字要求。
+
+alt 使用繁體中文 40–70 字，不得含該成語任一連續兩字。原 PNG、metadata、review 放 repo 外同一批資料夾；metadata 使用目前根層 style_prompt 原文及原圖 SHA-256，review path 必須完全一致。先執行 `python3 scripts/validate_illustration_review.py METADATA REVIEW`，再以 `scripts/add_illustration.cjs` 登錄。不得把缺審查或只有生成的圖片算入完成。
+
+處理歷史品質候選後，在當次 revisions 的 `resolved_findings` 記錄實際解決的 action（例如 `P2_style_review`），並連同目前替換圖及通過 review 保存。待辦程式僅在該替換圖仍為現行圖時關閉相應發現，不因換圖就抹去其他缺陷。
+
+重製時保留舊圖與紀錄，使用含原圖雜湊的新 WebP 路徑，追加 revisions 後才更新目錄；不得先刪除舊有效目錄。原 P1 清單中的重製流程仍適用。
+
+## 多 session 與發布
+
+只有一個總控可產圖及登錄，其他 session 可讀清單或處理明確分配的檢查。每次接續先 fetch main、核對有效目錄與現有 claim；不得清空其他 session 的 claim。不能以各分支自己的 progress 推斷全域完成狀態。沒有共用原子 claim 時，不允許多個 session 同時產圖。
+
+一般每 50 張通過後發布，使用者提供的批次按批發布；最後不足 50 張仍發布。若有已驗證登錄但尚未發布的差異，先同步，不等湊滿。工具明確回報額度上限時保存狀態，依既有授權的恢復機制處理；不把本文件當作新排程或額外付費授權。
+
+發布前更新 sw.js VERSION，執行狀態檢查、`git diff --check`，並在 Chromium/Playwright 可用時執行 `node tests/illustrations.cjs`。fetch main 後如有變更先合併或 rebase 並重跑檢查；先推備份分支，再推 main，最後核對遠端 HEAD、圖片數與版本。
+
+## 暫存分支整理與數量保護
+
+以使用者最新確認的 **1,290 張線上有效圖**為本次清理下限。清理不改 main 的圖片目錄或被引用 WebP；若任何刪除可能降低線上有效張數，必須停止並先詢問使用者。
+
+已結案的 handoff、illustration-delivery 與 illustrations/batch 暫存分支，只保留指向 main 工作清單的共同 README。清理以原 HEAD 為父提交、附 expected-head 檢查更新分支，不刪分支、不改寫歷史；舊交付原圖仍能從父提交追溯。保留所有 backup 分支、原始審查證據，以及 main 內的歷史未引用 WebP。清理紀錄見 `docs/illustration-staging-cleanup.json`。這會移除分支最新樹的重複檔案，不代表 Git 歷史儲存量已縮減。
