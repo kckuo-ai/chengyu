@@ -34,9 +34,12 @@
     1501,
     1505
   ],
-  "status": "generating; not published",
+  "status": "delivered for independent review; not registered or published",
   "skip_pending_review": {
     "no": 1421,
     "delivery_commit": "b7f2f673cc6054ed312a9acd9a7e25edc0b9554c"
-  }
+  },
+  "archive": "batch-9.zip",
+  "archive_sha256": "c284f9c3a0fc42ac8e4afbf031141f945c40425cdcbfbe84b91ed7b432082835",
+  "manifest": "batch-9/manifest.json inside archive"
 }
