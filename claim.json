@@ -1,0 +1,42 @@
+{
+  "batch": 9,
+  "owner": "single image-generation session",
+  "source_commit": "84fd28b25b07585b589d7b97fefcea526a08c048",
+  "scope": [
+    1459,
+    1461,
+    1462,
+    1463,
+    1464,
+    1465,
+    1466,
+    1468,
+    1469,
+    1470,
+    1472,
+    1473,
+    1474,
+    1475,
+    1479,
+    1480,
+    1481,
+    1483,
+    1484,
+    1486,
+    1487,
+    1489,
+    1490,
+    1494,
+    1495,
+    1496,
+    1498,
+    1500,
+    1501,
+    1505
+  ],
+  "status": "generating; not published",
+  "skip_pending_review": {
+    "no": 1421,
+    "delivery_commit": "b7f2f673cc6054ed312a9acd9a7e25edc0b9554c"
+  }
+}
