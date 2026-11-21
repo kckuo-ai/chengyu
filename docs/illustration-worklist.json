@@ -12,16 +12,16 @@
   "limits": "Record and asset audit only; no new visual pass is implied. Missing/legacy evidence is not a failed image. Task categories overlap; count unique tasks, not the sum of action counts.",
   "summary": {
     "total_idioms": 1466,
-    "published_illustrations": 1380,
-    "missing_illustrations": 86,
-    "coverage_percent": 94.13,
+    "published_illustrations": 1385,
+    "missing_illustrations": 81,
+    "coverage_percent": 94.47,
     "P1_published": 21,
     "P1_total": 21,
-    "review_records": 824,
+    "review_records": 829,
     "review_missing": 556,
     "review_legacy": 546,
-    "review_eight_checks": 278,
-    "unique_task_idioms": 1188,
+    "review_eight_checks": 283,
+    "unique_task_idioms": 1183,
     "action_counts": {
       "review_record_missing": 556,
       "prompt_record_missing": 25,
@@ -31,7 +31,7 @@
       "legacy_format_review": 111,
       "P2_style_review": 48,
       "red_neckerchief_review": 10,
-      "create_new_art": 86
+      "create_new_art": 81
     }
   },
   "priority": [
@@ -9141,13 +9141,6 @@
       "src": "img/idioms/1305.webp"
     },
     {
-      "no": 1421,
-      "word": "近水樓臺",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
       "no": 1450,
       "word": "雪上加霜",
       "actions": [
@@ -9156,36 +9149,8 @@
       "src": "img/idioms/1450.webp"
     },
     {
-      "no": 1468,
-      "word": "得魚忘筌",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
       "no": 1474,
       "word": "尋章摘句",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1475,
-      "word": "堅壁清野",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1486,
-      "word": "坦腹東床",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1489,
-      "word": "逼上梁山",
       "actions": [
         "create_new_art"
       ]

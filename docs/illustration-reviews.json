@@ -23669,6 +23669,226 @@
           "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
         }
       }
+    },
+    "1421": {
+      "no": 1421,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-11-2653272/batch-11-redraw-6/batch-11/1421.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "女孩住處緊鄰琴房，走廊遠端窗口露出男孩胸像，長短箭頭指向琴房；另一格女孩已在彈琴，男孩剛到門口驚訝攤掌。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "近住女孩路程短先取得練琴機會，遠處男孩較晚抵達；長短路徑與先後結果完整，非只是誰跑得快，符合地利先得機會。 已實際看全圖及六區原像素裁圖，另與更新後圖庫的對照表比較；感知雜湊候選1284、614及相關語義候選未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "左右從距離差到先彈琴，紫短綠長箭頭清楚，手機可讀。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "女孩綁鞋兩握指、彈琴兩手指節自然，男孩近景雙掌各五指；遠景只有窗框中胸像無手，故無不可核實的小手；女孩雙鞋接地或腳凳承托。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "另看琴手連續原像素裁圖，兩掌指端按琴鍵，鋼琴與琴凳腳落地、腳凳承鞋，鞋帶由手指捏住，長廊透視與箭頭端點一致。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔藍制服、低飽和綠衣、暖棕琴房；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代社區長廊與琴房、適齡孩子、國小制服及普通住家鞋櫃；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+        }
+      }
+    },
+    "1468": {
+      "no": 1468,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-11-2653272/batch-11-redraw-6/batch-11/1468.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "女孩用圓孔模板在紙上描出輪廓，另一格笑著提起完成的花燈，攤掌欣賞；原先的藍色模板已落在椅腳旁，混在紙屑裡。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "先憑同一模板完成描圖，成功後只欣賞花燈卻把工具棄置地上，忘掉成功憑藉的前後關係成立，與飲水思源相反。 已實際看全圖及六區原像素裁圖，另與更新後圖庫的對照表比較；感知雜湊候選866、87及相關語義候選未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "左右同藍模板由使用到被棄，成品明確，手機可辨。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "壓板張掌各五指、握筆四屈指及拇指自然，右格提繩握手與攤掌結構正常，臂接肩；兩鞋落地無多肢。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "原尺寸筆尖現在位於孔內緣下方紙面，確能沿孔描出圓線，已修正舊稿筆畫模板實心面的錯誤；花燈繩接頂、模板與椅腳落地支撐合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔藍模板、淡粉花燈、暖棕桌椅；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小手作教室、適齡制服女孩、普通紙筆與無字花燈；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+        }
+      }
+    },
+    "1475": {
+      "no": 1475,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-11-2653272/batch-11-redraw-6/batch-11/1475.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "父女在展館觀看兩格戰事圖：守方把糧袋搬進城內並關上厚門，來到城外的人只找到空桶與空車，露出苦惱神情。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "前格糧食轉入厚實城牆內，後格城門緊閉、外來敵方找不到補給而苦惱，收糧加固守使敵無法久留的因果清楚，非只有棋子位置變化。 已實際看全圖及六區原像素裁圖，另與更新後圖庫的對照表比較；感知雜湊候選354、1390及相關語義候選未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "兩格同城牆田地、搬糧與敵方空桶對照，手機可讀；前景父女建立展館情境。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "原尺寸核對圖中搬袋握掌、敵方扶桶蓋與攤掌，各五指與自然遮擋合理、臂接肩；前景父女僅背側上身，手在取景外無微小掌。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "糧袋由掌抱住、厚門鉸軸與門栓完整、空桶蓋由掌扶、木車輪軸接車廂落地；展框固定牆，承托透視合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "暖棕城牆糧袋、柔綠衣、淡藍父親格衫；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代歷史展館中的便服父親與國小制服女孩；古裝僅在教學圖畫內，配合本詞作戰策略的必要辨識；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+        }
+      }
+    },
+    "1486": {
+      "no": 1486,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-11-2653272/batch-11-redraw-6/batch-11/1486.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "長者微笑把筷子交給年輕男子，女子搭著丈夫肩膀向父親介紹；牆上同時掛著她童年與父親合照，以及兩人的結婚照。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "童年父女照以同花飾、眼鏡面容連到現場長者女子，結婚照連到現場夫妻；女方父親歡迎女兒丈夫的女婿關係成立，已補足舊稿親屬歸屬。 已實際看全圖及六區原像素裁圖，另與更新後圖庫的對照表比較；感知雜湊候選4873、395及相關語義候選未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "兩張關係照片在三人上方、遞筷居中，手機可辨，採女婿義非裸腹字面。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "長者交筷與放桌掌、女子搭肩與介紹掌、男子接筷及放桌手五指結構正常，肩臂相連；照片皆胸像無小手，腿在桌後。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "筷子兩端由雙方指掌接持、米飯菜盤碗落桌，相框固定牆、腕錶素面僅指針無數字，無浮物。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔紫上衣、暖棕餐桌與淡藍白襯衫；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代家庭聚餐、窗外台北城市景、家常蒸魚滷肉與成人便服；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+        }
+      }
+    },
+    "1489": {
+      "no": 1489,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-11-2653272/batch-11-redraw-6/batch-11/1489.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "男孩原本開心捏藍色黏土，材料卻被紅衣同學鎖進盒子，還被指使去拿別人的黃色黏土；他痛苦伸手，原主人驚訝護住作品。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "首格先建立藍土是白衣男孩原有材料，被收鎖後懇求而不還，紅衣轉指綠衣擁有的黃土，末格受迫痛苦取別人材料；正當途徑被堵而被迫做錯事的因果成立。 已實際看全圖及六區原像素裁圖，另與更新後圖庫的對照表比較；感知雜湊候選917、755及相關語義候選未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "三列依序所有權、封鎖與指使、不得已取用，衣色泥色一致，手機可追蹤。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "逐格核對捏象兩手、紅衣收土扶蓋與壓蓋指向、白衣張掌及末格取土扶桌、綠衣護作品雙手，五指彎曲遮擋正常，臂接肩；下肢桌後取景外。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "透明盒蓋有鉸接與扣件、藍土落盒底，黃土與恐龍落綠衣者木板、白衣指尖接黃土，支撐連續；捏土動物為無指小模型非人物。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "低飽和紅綠衣、柔藍黃黏土與暖棕桌；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小陶土手作教室、適齡孩子與普通便服制服，呈霸凌行為但無暴力傷亡；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+        }
+      }
     }
   }
 }
