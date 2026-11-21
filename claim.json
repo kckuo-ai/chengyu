@@ -54,9 +54,23 @@
     5104,
     5110
   ],
-  "status": "generating; not published",
+  "status": "delivered; awaiting independent review; not published",
   "skip_pending_review": [
     1421,
     "batch-9"
+  ],
+  "archives": [
+    {
+      "file": "batch-10-part-1.zip",
+      "count": 25,
+      "bytes": 84054038,
+      "sha256": "5c5c1a7d2b175559200c99bcf3ade5f259678f70c1de71245fea28cbf0ac76ab"
+    },
+    {
+      "file": "batch-10-part-2.zip",
+      "count": 25,
+      "bytes": 82811488,
+      "sha256": "a657858e9d691ef29826fc3280ce90b56da88c2e4dd4d3524c7278d0902f2524"
+    }
   ]
 }
