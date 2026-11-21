@@ -12,16 +12,16 @@
   "limits": "Record and asset audit only; no new visual pass is implied. Missing/legacy evidence is not a failed image. Task categories overlap; count unique tasks, not the sum of action counts.",
   "summary": {
     "total_idioms": 1466,
-    "published_illustrations": 1318,
-    "missing_illustrations": 148,
-    "coverage_percent": 89.9,
+    "published_illustrations": 1319,
+    "missing_illustrations": 147,
+    "coverage_percent": 89.97,
     "P1_published": 21,
     "P1_total": 21,
-    "review_records": 762,
+    "review_records": 763,
     "review_missing": 556,
     "review_legacy": 546,
-    "review_eight_checks": 216,
-    "unique_task_idioms": 1250,
+    "review_eight_checks": 217,
+    "unique_task_idioms": 1249,
     "action_counts": {
       "review_record_missing": 556,
       "prompt_record_missing": 25,
@@ -31,7 +31,7 @@
       "legacy_format_review": 111,
       "P2_style_review": 48,
       "red_neckerchief_review": 10,
-      "create_new_art": 148
+      "create_new_art": 147
     }
   },
   "priority": [
@@ -9143,13 +9143,6 @@
     {
       "no": 1421,
       "word": "近水樓臺",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1443,
-      "word": "殺人如麻",
       "actions": [
         "create_new_art"
       ]
