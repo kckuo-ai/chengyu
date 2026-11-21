@@ -12,16 +12,16 @@
   "limits": "Record and asset audit only; no new visual pass is implied. Missing/legacy evidence is not a failed image. Task categories overlap; count unique tasks, not the sum of action counts.",
   "summary": {
     "total_idioms": 1466,
-    "published_illustrations": 1319,
-    "missing_illustrations": 147,
-    "coverage_percent": 89.97,
+    "published_illustrations": 1344,
+    "missing_illustrations": 122,
+    "coverage_percent": 91.68,
     "P1_published": 21,
     "P1_total": 21,
-    "review_records": 763,
+    "review_records": 788,
     "review_missing": 556,
     "review_legacy": 546,
-    "review_eight_checks": 217,
-    "unique_task_idioms": 1249,
+    "review_eight_checks": 242,
+    "unique_task_idioms": 1224,
     "action_counts": {
       "review_record_missing": 556,
       "prompt_record_missing": 25,
@@ -31,7 +31,7 @@
       "legacy_format_review": 111,
       "P2_style_review": 48,
       "red_neckerchief_review": 10,
-      "create_new_art": 147
+      "create_new_art": 122
     }
   },
   "priority": [
@@ -9156,85 +9156,8 @@
       "src": "img/idioms/1450.webp"
     },
     {
-      "no": 1459,
-      "word": "將信將疑",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1461,
-      "word": "微乎其微",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1462,
-      "word": "蓬頭垢面",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1463,
-      "word": "草草了事",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1464,
-      "word": "紛至沓來",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1465,
-      "word": "洞天福地",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1466,
-      "word": "揚長而去",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
       "no": 1468,
       "word": "得魚忘筌",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1469,
-      "word": "綱舉目張",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1470,
-      "word": "鷸蚌相爭",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1472,
-      "word": "瞭如指掌",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1473,
-      "word": "與虎謀皮",
       "actions": [
         "create_new_art"
       ]
@@ -9254,41 +9177,6 @@
       ]
     },
     {
-      "no": 1479,
-      "word": "堂堂正正",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1480,
-      "word": "盡善盡美",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1481,
-      "word": "首屈一指",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1483,
-      "word": "眾望所歸",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1484,
-      "word": "肅然起敬",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
       "no": 1486,
       "word": "坦腹東床",
       "actions": [
@@ -9296,71 +9184,8 @@
       ]
     },
     {
-      "no": 1487,
-      "word": "鳥盡弓藏",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
       "no": 1489,
       "word": "逼上梁山",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1490,
-      "word": "形影不離",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1494,
-      "word": "不謀而合",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1495,
-      "word": "一決雌雄",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1496,
-      "word": "反覆無常",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1498,
-      "word": "依樣畫葫蘆",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1500,
-      "word": "氣象萬千",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1501,
-      "word": "哀鴻遍野",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1505,
-      "word": "駭人聽聞",
       "actions": [
         "create_new_art"
       ]
