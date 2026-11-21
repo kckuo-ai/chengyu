@@ -12,16 +12,16 @@
   "limits": "Record and asset audit only; no new visual pass is implied. Missing/legacy evidence is not a failed image. Task categories overlap; count unique tasks, not the sum of action counts.",
   "summary": {
     "total_idioms": 1466,
-    "published_illustrations": 1344,
-    "missing_illustrations": 122,
-    "coverage_percent": 91.68,
+    "published_illustrations": 1380,
+    "missing_illustrations": 86,
+    "coverage_percent": 94.13,
     "P1_published": 21,
     "P1_total": 21,
-    "review_records": 788,
+    "review_records": 824,
     "review_missing": 556,
     "review_legacy": 546,
-    "review_eight_checks": 242,
-    "unique_task_idioms": 1224,
+    "review_eight_checks": 278,
+    "unique_task_idioms": 1188,
     "action_counts": {
       "review_record_missing": 556,
       "prompt_record_missing": 25,
@@ -31,7 +31,7 @@
       "legacy_format_review": 111,
       "P2_style_review": 48,
       "red_neckerchief_review": 10,
-      "create_new_art": 122
+      "create_new_art": 86
     }
   },
   "priority": [
@@ -9191,13 +9191,6 @@
       ]
     },
     {
-      "no": 1506,
-      "word": "厲兵秣馬",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
       "no": 1510,
       "word": "偃武修文",
       "actions": [
@@ -9205,43 +9198,8 @@
       ]
     },
     {
-      "no": 1512,
-      "word": "禍起蕭牆",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1513,
-      "word": "甚囂塵上",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1514,
-      "word": "捉襟見肘",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
       "no": 1515,
       "word": "超群絕倫",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1516,
-      "word": "良藥苦口",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1519,
-      "word": "防患未然",
       "actions": [
         "create_new_art"
       ]
@@ -9261,106 +9219,8 @@
       ]
     },
     {
-      "no": 1523,
-      "word": "縱虎歸山",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1531,
-      "word": "朝令夕改",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1533,
-      "word": "欲罷不能",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1534,
-      "word": "破天荒",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
       "no": 1536,
       "word": "教學相長",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1539,
-      "word": "大喜過望",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1547,
-      "word": "百戰百勝",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1554,
-      "word": "一箭雙鵰",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1555,
-      "word": "慘綠少年",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1561,
-      "word": "摩肩接踵",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1562,
-      "word": "以管窺天",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1565,
-      "word": "野人獻曝",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1572,
-      "word": "白頭偕老",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1575,
-      "word": "沉魚落雁",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1578,
-      "word": "耳邊風",
       "actions": [
         "create_new_art"
       ]
@@ -9373,22 +9233,8 @@
       ]
     },
     {
-      "no": 1582,
-      "word": "露出馬腳",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
       "no": 1586,
       "word": "背水一戰",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1601,
-      "word": "嘆為觀止",
       "actions": [
         "create_new_art"
       ]
@@ -9401,64 +9247,8 @@
       ]
     },
     {
-      "no": 1611,
-      "word": "休戚與共",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1617,
-      "word": "直搗黃龍",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1639,
-      "word": "涇渭分明",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1641,
-      "word": "反求諸己",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1643,
-      "word": "一無所知",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1647,
-      "word": "夢寐以求",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
       "no": 1648,
       "word": "玩火自焚",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1677,
-      "word": "東道主",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1678,
-      "word": "樂而忘返",
       "actions": [
         "create_new_art"
       ]
@@ -9485,50 +9275,8 @@
       ]
     },
     {
-      "no": 1726,
-      "word": "遊刃有餘",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 3500,
-      "word": "如坐針氈",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 4873,
-      "word": "黃粱一夢",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5101,
-      "word": "虛應故事",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5102,
-      "word": "眉清目秀",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
       "no": 5103,
       "word": "損人利己",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5104,
-      "word": "苗而不秀",
       "actions": [
         "create_new_art"
       ]
