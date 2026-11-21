@@ -33,7 +33,10 @@
     5151
   ],
   "source_commit": "7f3588596a6dea945b7ca9038de439ac5cc67f4d",
-  "status": "generating; not published",
+  "status": "delivered for independent review; not published",
   "owner": "single image generation session",
-  "completion_source": "main/data/illustrations.json"
+  "completion_source": "main/data/illustrations.json",
+  "archive": "batch-12.zip",
+  "bytes": 100264634,
+  "sha256": "213becd1dc4d02bebf360a3a0c96dd1bb3f13e3ca883e193a3810a1d2415aa1d"
 }
