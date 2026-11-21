@@ -12,16 +12,16 @@
   "limits": "Record and asset audit only; no new visual pass is implied. Missing/legacy evidence is not a failed image. Task categories overlap; count unique tasks, not the sum of action counts.",
   "summary": {
     "total_idioms": 1466,
-    "published_illustrations": 1412,
-    "missing_illustrations": 54,
-    "coverage_percent": 96.32,
+    "published_illustrations": 1424,
+    "missing_illustrations": 42,
+    "coverage_percent": 97.14,
     "P1_published": 21,
     "P1_total": 21,
-    "review_records": 856,
+    "review_records": 868,
     "review_missing": 556,
     "review_legacy": 546,
-    "review_eight_checks": 310,
-    "unique_task_idioms": 1156,
+    "review_eight_checks": 322,
+    "unique_task_idioms": 1144,
     "action_counts": {
       "review_record_missing": 556,
       "prompt_record_missing": 25,
@@ -31,7 +31,7 @@
       "legacy_format_review": 111,
       "P2_style_review": 48,
       "red_neckerchief_review": 10,
-      "create_new_art": 54
+      "create_new_art": 42
     }
   },
   "priority": [
@@ -9156,48 +9156,6 @@
       ]
     },
     {
-      "no": 1510,
-      "word": "偃武修文",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1515,
-      "word": "超群絕倫",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1521,
-      "word": "網開一面",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1522,
-      "word": "相濡以沫",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1536,
-      "word": "教學相長",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1579,
-      "word": "知己知彼",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
       "no": 1586,
       "word": "背水一戰",
       "actions": [
@@ -9207,48 +9165,6 @@
     {
       "no": 1608,
       "word": "登徒子",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1648,
-      "word": "玩火自焚",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1699,
-      "word": "同流合汙",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1700,
-      "word": "勢不可當",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1714,
-      "word": "破釜沉舟",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5103,
-      "word": "損人利己",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5110,
-      "word": "來日方長",
       "actions": [
         "create_new_art"
       ]
