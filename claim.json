@@ -18,6 +18,10 @@
     5110,
     1474
   ],
-  "status": "generating requested redraws; not published",
-  "owner": "single image generation session"
+  "status": "delivered for independent review; not published",
+  "owner": "single image generation session",
+  "archive": "batch-13-redraw-15.zip",
+  "bytes": 51803657,
+  "sha256": "1f70c2201a9e0c4ffb32d63fed7c16c163aed7363e80bd356c37e733eb9a930b",
+  "completion_source": "main/data/illustrations.json"
 }
