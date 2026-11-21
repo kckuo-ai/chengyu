@@ -12,16 +12,16 @@
   "limits": "Record and asset audit only; no new visual pass is implied. Missing/legacy evidence is not a failed image. Task categories overlap; count unique tasks, not the sum of action counts.",
   "summary": {
     "total_idioms": 1466,
-    "published_illustrations": 1313,
-    "missing_illustrations": 153,
-    "coverage_percent": 89.56,
+    "published_illustrations": 1318,
+    "missing_illustrations": 148,
+    "coverage_percent": 89.9,
     "P1_published": 21,
     "P1_total": 21,
-    "review_records": 757,
+    "review_records": 762,
     "review_missing": 556,
     "review_legacy": 546,
-    "review_eight_checks": 211,
-    "unique_task_idioms": 1255,
+    "review_eight_checks": 216,
+    "unique_task_idioms": 1250,
     "action_counts": {
       "review_record_missing": 556,
       "prompt_record_missing": 25,
@@ -31,7 +31,7 @@
       "legacy_format_review": 111,
       "P2_style_review": 48,
       "red_neckerchief_review": 10,
-      "create_new_art": 153
+      "create_new_art": 148
     }
   },
   "priority": [
@@ -9148,20 +9148,6 @@
       ]
     },
     {
-      "no": 1425,
-      "word": "枯木逢春",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1431,
-      "word": "義無反顧",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
       "no": 1443,
       "word": "殺人如麻",
       "actions": [
@@ -9175,27 +9161,6 @@
         "review_record_missing"
       ],
       "src": "img/idioms/1450.webp"
-    },
-    {
-      "no": 1453,
-      "word": "野心勃勃",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1454,
-      "word": "無法無天",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1457,
-      "word": "好高騖遠",
-      "actions": [
-        "create_new_art"
-      ]
     },
     {
       "no": 1459,
