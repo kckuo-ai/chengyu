@@ -12,16 +12,16 @@
   "limits": "Record and asset audit only; no new visual pass is implied. Missing/legacy evidence is not a failed image. Task categories overlap; count unique tasks, not the sum of action counts.",
   "summary": {
     "total_idioms": 1466,
-    "published_illustrations": 1290,
-    "missing_illustrations": 176,
-    "coverage_percent": 87.99,
+    "published_illustrations": 1313,
+    "missing_illustrations": 153,
+    "coverage_percent": 89.56,
     "P1_published": 21,
     "P1_total": 21,
-    "review_records": 734,
+    "review_records": 757,
     "review_missing": 556,
     "review_legacy": 546,
-    "review_eight_checks": 188,
-    "unique_task_idioms": 1278,
+    "review_eight_checks": 211,
+    "unique_task_idioms": 1255,
     "action_counts": {
       "review_record_missing": 556,
       "prompt_record_missing": 25,
@@ -31,7 +31,7 @@
       "legacy_format_review": 111,
       "P2_style_review": 48,
       "red_neckerchief_review": 10,
-      "create_new_art": 176
+      "create_new_art": 153
     }
   },
   "priority": [
@@ -9148,57 +9148,8 @@
       ]
     },
     {
-      "no": 1422,
-      "word": "四分五裂",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1423,
-      "word": "壽比南山",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1424,
-      "word": "美中不足",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
       "no": 1425,
       "word": "枯木逢春",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1426,
-      "word": "腹背受敵",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1427,
-      "word": "過猶不及",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1428,
-      "word": "咬牙切齒",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1429,
-      "word": "威風凜凜",
       "actions": [
         "create_new_art"
       ]
@@ -9211,85 +9162,8 @@
       ]
     },
     {
-      "no": 1432,
-      "word": "裝模作樣",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1433,
-      "word": "裝腔作勢",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1434,
-      "word": "愁眉苦臉",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1437,
-      "word": "趁火打劫",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1438,
-      "word": "勢均力敵",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1440,
-      "word": "貽笑大方",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1441,
-      "word": "無能為力",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
       "no": 1443,
       "word": "殺人如麻",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1446,
-      "word": "風平浪靜",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1447,
-      "word": "子虛烏有",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1448,
-      "word": "通宵達旦",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1449,
-      "word": "氣急敗壞",
       "actions": [
         "create_new_art"
       ]
@@ -9301,20 +9175,6 @@
         "review_record_missing"
       ],
       "src": "img/idioms/1450.webp"
-    },
-    {
-      "no": 1451,
-      "word": "尸位素餐",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1452,
-      "word": "循序漸進",
-      "actions": [
-        "create_new_art"
-      ]
     },
     {
       "no": 1453,
@@ -9331,29 +9191,8 @@
       ]
     },
     {
-      "no": 1455,
-      "word": "人言可畏",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1456,
-      "word": "坐立不安",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
       "no": 1457,
       "word": "好高騖遠",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1458,
-      "word": "孺子可教",
       "actions": [
         "create_new_art"
       ]

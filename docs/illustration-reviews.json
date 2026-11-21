@@ -19709,6 +19709,1018 @@
           "evidence": "首末兩格男孩均穿白色藍邊翻領上衣，頸部完全無紅領巾或紅圍巾；中格沒有任何人物。"
         }
       }
+    },
+    "1422": {
+      "no": 1422,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1422.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "三名孩子各自抱走社區模型的一部分，生氣轉向不同方向；桌上的底板留下大片缺口，道路中斷，房屋、涼亭與道路分散開來。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "完整社區模型被各自帶走、道路斷開且三人不合作，呈分散不完整、不團結，非單純切成拼圖來合作。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選1376、1240、341及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "桌上大缺口居中、三人背離方向清楚，手機可辨。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對托模型雙手、少女背面托板手及前臂，指數結構自然，臂連肩；跨步雙鞋落地自然，無增肢。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "模型切口對應底板缺口，房屋涼亭連底板、各板由雙手或前臂托持，桌腿承重。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔綠模型、暖棕桌與淡藍白制服有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小模型手作活動、適齡白藍制服學生與現代課桌；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+        }
+      }
+    },
+    "1423": {
+      "no": 1423,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1423.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "白髮祖母坐在扶手椅上，孫女雙手送上茂盛的長青盆栽，父親合掌微笑祝福；桌上擺著無字小蛋糕與簡單家常餐點。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "白髮長者壽辰蛋糕、長青植物與家人合掌祝福共同表現祝願長壽，非只畫山景或一般送禮。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選1134、1389、1224及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "祖母與送盆雙手為主、蛋糕及祝福手勢輔助，手機可讀。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對父親合掌指節、孫女托盤雙手、祖母扶盆及扶手五指，肩臂正常；可見鞋著地，祖母下肢被桌自然遮擋。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "盆底在托盤、孫女托盤及祖母扶側有承重，蛋糕餐盤落桌，椅子支撐合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔紫外套、淡綠長青葉、暖棕椅桌有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代家庭客廳、白藍制服國小女孩與便服父親祖母；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+        }
+      }
+    },
+    "1424": {
+      "no": 1424,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1424.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "女孩雙手捧著彩繪陶兔，花朵和釉色都很漂亮，卻有一隻耳尖缺了一小角；老師微笑伸指指出缺口，後方擺著其他陶器。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "整體精美的彩繪陶兔只有耳尖一處小缺口，清楚呈現好事物仍有缺陷，非整件損毀或完美無缺。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選623、1323、463及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "陶兔耳尖與教師指向集中，背景簡潔，手機可讀。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對托底雙手五指結構、教師指耳尖及垂手，臂接肩；雙方鞋腳著地自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "兔耳缺口為真實破損輪廓、陶偶與底板連接，雙掌托底，其他陶器在桌面，桌腳承重。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "淡粉兔耳、柔綠釉花、暖棕桌有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小陶藝展示、適齡白藍制服女孩與便服教師；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+        }
+      }
+    },
+    "1426": {
+      "no": 1426,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1426.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "綠衣男孩站在操場中央，緊張地左右回頭張掌防守；前方與身後各有同學握球準備投擲，兩側都向他逼近，讓他難以兼顧。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "前後兩位對手同時準備以球攻擊中央防守者，男孩兩面戒備，清楚是前後受敵，非單面較量。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選653、1002、1138及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "三人斜向排出前後夾攻，中央神情與兩球清楚。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對中央兩張掌各五指、前後持球手指及自然遮擋的另一手，臂接肩，三人膝踝方向及鞋落地正常。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "雙手握球、人物落在場地白線內，球未穿掌，球架校舍支撐正常。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔綠運動服、淡藍白制服、草綠操場有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小操場與現代校舍、適齡學生普通體育服；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+        }
+      }
+    },
+    "1427": {
+      "no": 1427,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1427.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "桌上三盆幼苗並排，左盆泥土乾裂、葉片下垂，中盆長得茂盛，右盆水滿溢出也萎垂；女孩與父母一起觀察三種結果。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "缺水與過量積水都使植株萎垂，適量的一盆健康，明確表達做過頭與不足同樣不妥，非只批評缺水。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選258、898、966及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "三盆等大並排、中央健康與兩側失敗直觀，手機清楚。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對父親托腮及放膝、女孩雙手扶桌、母親兩手放膝五指結構，肩臂相接，坐站鞋著地自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "土乾裂、水面積滿並沿盆外溢到托盤地面，盆底接托盤及桌面，植物莖根位置合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔綠幼苗、暖棕花盆桌、淡藍衣有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代家庭種植觀察、國小女孩與一般便服父母；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+        }
+      }
+    },
+    "1428": {
+      "no": 1428,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1428.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "男孩看到自己的花園畫被彩筆亂塗，緊皺眉頭、露齒握拳，憤怒望向對面的同學；老師伸掌安撫，後方同學也驚訝觀看。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "畫作遭破壞而主角緊咬牙、握拳且怒視對方，悲憤原因與強烈反應相連，非一般緊張咬牙。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選1331、239、1354及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "畫作污損與主角臉拳在前景，教師安撫為輔，手機可讀。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對兩握拳指節、教師側向攤掌及垂手、對方扶桌手及背景同學合掌結構自然，臂接肩；腿腳被桌遮住，未見增肢。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "彩筆在盒或桌上、污損為紙面筆觸，教師手勢不穿人，桌椅及顏料杯有支撐。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔藍白制服、淡綠教師圍裙、暖棕桌有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小美術教室、適齡制服孩子與圍裙教師；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+        }
+      }
+    },
+    "1429": {
+      "no": 1429,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1429.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "消防員穿著完整防護服與頭盔，挺胸站在消防車旁，一手扶腰；女孩抬頭敬佩地望著他，桌上整齊放著氣瓶、面罩和水帶。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "挺胸穩站與威武裝備、女孩仰望敬佩，表現令人敬畏的威武氣概，非只火場救援動作。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選206、576、347及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "成人全身突出、女孩仰望形成對照，手機焦點清楚。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對扶腰及垂手五指結構、女孩兩垂手，臂接肩；兩人雙鞋著地，頭身及身高符合年齡差。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "頭盔面罩可翻結構、氣瓶背架、水帶卷與接頭有連接，裝備及手套在桌面、車輪與桌腳接地。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔灰防護服、低彩黃盔與淡紅消防車有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小或社區消防宣導、現代消防裝備成人與國小制服女孩；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+        }
+      }
+    },
+    "1432": {
+      "no": 1432,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1432.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "男孩原本坐在地上玩紙團，掃把閒放旁邊；老師走到門口時，他立刻站起握住掃把，轉頭露出討好的笑容，地面仍很髒亂。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "無人時玩紙、被老師看見才擺掃地姿勢且髒亂未減，故意做作的前後對照明確，非自然認真打掃。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選1250、749、516及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "左右同角落、掃把位置與男孩動作改變清楚，手機可辨。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對玩紙團雙握手、握掃把上下手、老師兩垂手指節正常，臂接肩；盤坐腿腳與站姿雙鞋自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "掃把頭貼地、桿連掃把頭，紙團落地，盤坐重心及桌椅支撐合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔藍白制服、暖棕桌與淡綠牆有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小教室、適齡制服男孩及便服教師；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+        }
+      }
+    },
+    "1433": {
+      "no": 1433,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1433.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "男孩高舉素面木尺，另一手扶腰，抬頭張嘴擺出誇張架勢，桌上只搭了簡單積木屋；同學抱著精細木屋模型，疑惑地看著他。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "只做簡單積木卻高舉木尺、扶腰誇張發話，旁邊真正精細作品形成反差，呈故作架勢，非自然展示技藝。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選926、457、250及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "兩名全身人物與簡單、精細模型並列，焦點清楚。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對握尺及扶腰張掌五指、同學雙手托模型底板，各臂接肩，雙人鞋踩地自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "木尺由手握，簡單積木屋和底板落桌，精細木屋由雙手托板，屋柱樓梯欄杆有支撐。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔藍白制服、暖棕木材及桌有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小手作空間、適齡白色制服男孩與普通課桌；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+        }
+      }
+    },
+    "1434": {
+      "no": 1434,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1434.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "女孩坐在桌旁，皺眉低頭望著破損的兔子玩偶，雙手輕放在玩偶頭上與膝邊；母親拿著針線準備修補，桌上散著棉花和布片。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "心愛玩偶破損、女孩眉頭緊鎖苦著臉，愁苦情緒與原因清楚，非開心或單純專心觀察。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選357、779、717及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "女孩愁容與破兔為主，母親準備修補作輔，手機表情清楚。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對母親持針放膝、女孩摸兔及放膝雙手五指結構自然，肩臂相連，坐姿雙鞋落地。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "針與線連接，玩偶棉花由破口露出、布片剪刀線軸落桌，手貼玩偶頭，桌椅支撐正常。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔綠沙發、淡粉兔耳、暖棕桌有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代家庭客廳、國小制服女孩與便服母親；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+        }
+      }
+    },
+    "1437": {
+      "no": 1437,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1437.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "女孩焦急扶著尚未黏好的模型屋頂，旁邊膠水瓶已空；男孩抱住自己的膠水，得意指著整疊彩紙，女孩為難地望著他。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "空膠瓶、鬆動屋頂及女孩焦急，對照握住可用膠水卻指向整疊彩紙的得意同學，可讀出趁急需索取利益，非火場字面或無條件幫忙。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選457、961、1023及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "兩人表情、空瓶、可用膠與彩紙同在前景，手機可辨。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對女孩扶屋頂雙手、男孩持膠瓶及指紙手五指結構自然，臂接肩，坐姿下身被桌自然遮擋。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "屋頂由女孩兩手扶住，房屋與底板落桌，空瓶有瓶口蓋、男孩握瓶有接觸，彩紙平疊受桌面支撐。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔藍白制服、暖棕模型、低彩粉黃綠紙有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小手作教室、適齡制服兩名孩子；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+        }
+      }
+    },
+    "1438": {
+      "no": 1438,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1438.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "兩名成人在桌邊比腕力，雙手交握保持在中央，手肘墊著軟墊；兩人都流汗用力，另一手握拳扶桌，誰也沒有把對方壓下去。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "雙方同樣吃力流汗，交握手維持中央直立不偏向任何一方，呈力量相當而不分上下，非明顯一方獲勝。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選727、702、233及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "對稱兩人與中央握手形成清楚主焦點，手機可讀。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對交握雙手各四指環握加拇指、兩扶桌握拳指節，肩肘相接，坐姿雙鞋踩地自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "手肘壓軟墊、另一拳貼桌，雙方手掌相扣承力，桌椅腳接地，無手臂錯接。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔藍白成人上衣、暖棕桌、淡綠肘墊有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代室內休閒比腕力、成年人物便服與普通桌椅；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+        }
+      }
+    },
+    "1440": {
+      "no": 1440,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1440.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "女子把整束花上下顛倒拿著，露出尷尬驚訝表情；園藝老師微笑伸指指出錯誤，旁邊擺著他整理得整齊漂亮的花束作對照。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "新手倒拿花束犯明顯錯誤、內行人旁有正確作品而帶笑指出，符合被內行見笑，非一般被同輩嘲弄。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選1311、241、1309及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "錯誤與正確花束並列，人物指向與尷尬表情清楚。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對女子握花莖雙手、老師指花及放桌手五指結構自然，肩臂相接，坐姿雙鞋落地。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "花束倒拿時花頭自然下垂、老師正確束由綁帶收束並立於桌，枝葉剪料平放，桌椅承重合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔粉紫花、淡綠圍裙、暖棕桌有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代園藝手作教室、成人學員及老師普通圍裙便服；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+        }
+      }
+    },
+    "1441": {
+      "no": 1441,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1441.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "男孩試著搬起裝滿書的大紙箱，雙腳撐開用力，流汗皺眉卻搬不動；父親在旁攤掌示意，箱子仍穩穩放在地毯上。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "孩子吃力仍不能移動重書箱，成人示意停止，明確呈沒有能力做好眼前事，非有能力卻不願幫忙。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選1078、397、204及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "重箱與用力男孩為主，成人攤掌作輔，手機可辨。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對男孩貼箱五指及另一側遮住的手臂位置、父親攤掌五指及垂手，肩肘合理，屈膝撐步及雙鞋踩地自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "重箱未被抬起、箱底接地毯，書本直立在箱內，手貼箱側施力，沙發盆栽落地正常。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔綠沙發、暖棕紙箱、淡藍白衣有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代家庭客廳、適齡制服男孩及便服父親；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+        }
+      }
+    },
+    "1446": {
+      "no": 1446,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1446.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "男孩與女孩原先為彩筆爭吵，互相指著筆盒；老師介入後，兩人安靜坐好微笑，各自拿起彩筆畫圖，教室恢復和諧。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "爭執後兩人平靜畫圖、教師居中協調，呈情勢平靜無事，非只畫海面字面。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選1153、1038、867及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "左右同人同筆盒，爭吵與和諧表情動作清楚對照。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對指筆盒、握拳、右格持筆放桌及教師雙手扶盒邊，五指結構自然，臂接肩，坐站雙鞋著地。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "筆盒及作品放桌、筆尖接紙，椅腳桌腳落地，教師扶筆盒有接觸，無漂浮物。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔藍白制服、暖棕桌、低彩粉藍彩筆有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小美術活動、適齡制服學生及便服教師；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+        }
+      }
+    },
+    "1447": {
+      "no": 1447,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1447.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "男孩在儲藏室門外張掌講有怪物，女孩緊張合手聽著；母親打開門後，裡面只有空架與掃把，女孩笑了，男孩低頭抓頭。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "口部泡泡有虛構怪物，開門見空儲藏室直接否定其實有，呈本來不存在的捏造之物，非真怪物躲起來。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選180、37、686及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "左右宣稱與查證對照，怪物只在言語泡泡中，手機可讀。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對男孩張掌五指、女孩合手、右格抓頭垂手、母親握門把及垂手，臂接肩，雙鞋著地自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "門開有鉸鏈、門把與手握合理，架子貼壁、掃把靠牆，人物坐站無穿門，泡泡為言語非實物。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔藍白制服、暖棕門、淡綠植物有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代家庭儲物室、適齡制服孩子及母親便服圍裙；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+        }
+      }
+    },
+    "1448": {
+      "no": 1448,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1448.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "烘焙師從月夜開始整理麵糰，深夜戴手套取出烤好的麵包，天亮時仍在綁袋包裝；三格窗外由黑夜漸漸轉為朝陽。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "同一人同工作台從月夜、深夜到日出持續製麵包，明確呈一整夜工作到天亮，非只白天連續工作。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選607、851、676及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "三格固定窗臺與工作者，夜色到晨光及工序相連，手機可讀。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對整麵糰雙手及綁袋雙手五指結構；中格厚隔熱連指手套遮住其餘四指而留拇指，屬合理衣物遮蔽，兩臂接肩，未見增肢。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "烤盤兩側由手套托握、麵糰麵包落盤，包裝袋繩與指接觸，烤箱桌面及冷卻架有支撐。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。烤箱只有無字素面旋鈕顯示框，袋繩是真實綁結。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔深藍夜窗、暖棕麵包圍裙、淡金晨光有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代烘焙工作室與窗外公寓、成年烘焙師普通素面工作服；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+        }
+      }
+    },
+    "1449": {
+      "no": 1449,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1449.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "男孩看著散落的積木，臉紅皺眉、張嘴抬起雙手，激動地向旁邊女孩發脾氣；女孩安靜坐著，一手放桌、一手垂在椅旁。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "失敗積木前惱怒激動、臉紅張嘴雙掌揚起，直接表現氣惱失態，非單純驚喜或平靜陳述。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選199、1093、415及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "兩人情緒反差與桌上散物集中，手機表情可辨。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對男孩兩張掌各五指，女孩放桌與垂手結構自然，肩臂相連，坐姿兩人雙鞋落地。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "積木全在桌面，手未穿積木，桌椅腳接地，坐者重心合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "暖棕桌、柔綠沙發、淡藍白制服有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代家庭客廳、適齡制服孩子；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+        }
+      }
+    },
+    "1451": {
+      "no": 1451,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1451.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "管理員坐在辦公桌後翹腿吃餅乾，身後物資凌亂堆積；牆上圖板畫著他的職責是整理物箱，居民站在旁邊，驚訝地看著他。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "同一佩識別牌管理員有整理物箱的職責圖像，實際放任堆積卻享點心與桌上報酬袋，呈居職不盡責，非一般工作休息。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選1356、1246、1119及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "職責圖板、凌亂物箱與坐者悠閒相互對照，手機可讀。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對持餅乾、放膝及居民合手指節，臂接肩；翹腿由另一腿承托、一鞋落地，居民雙鞋站穩，無增肢。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "盤袋在桌面、椅輪承重，物箱堆疊有接觸，圖板掛牆，身分牌為掛帶普通空白牌。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。牆板的箭頭及四角星是指示及閃亮圖像，不是字母數字，識別牌全空白。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔藍背心、暖棕桌、淡綠黃藍箱有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣社區物資管理室、成年管理員與居民普通便服；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+        }
+      }
+    },
+    "1452": {
+      "no": 1452,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1452.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "女孩先把木板排齊，再黏成方框，最後完成木盒，老師在旁欣慰觀看；每格桌上都放著膠水和砂紙，同學也依步驟練習。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "木板排齊、接成框、加底成盒，依可見工序逐步完成，呈按照次序推進，非只隨意重複同一步。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選67、867、903及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "三格相同女孩及桌面，作品逐步變化集中，手機可辨。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對主角排板托框扶盒各手五指、老師交疊手；背景同學握木塊可辨四指環握、拇指在木塊後自然遮擋，肩臂正常；可見鞋著地。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "木框角與板接合，木盒底落桌、手握側板，膠瓶砂紙平放，桌椅與人物有支撐。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔綠上衣、暖棕木材桌、淡藍白背景制服有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小木工教室、適齡學生與圍裙老師；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+        }
+      }
+    },
+    "1455": {
+      "no": 1455,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1455.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "同學在走廊低聲傳說女孩弄倒水杯的事，泡泡畫著那段情景；女孩抱緊畫具低頭難過，窗內的畫紙還濕著，窗簾被風吹起。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "兩人傳言泡泡指向女孩，女孩受議論而畏縮難過，與窗內風吹杯倒現場對照，呈流言帶來可怕壓力，非無關聊天。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選495、427、1135及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "低語者在左、受影響女孩右、內室線索後方，手機可讀。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對低語掩嘴五指、兩垂手、女孩抱盒雙手及泡泡內舉掌五指結構自然，肩臂相連，鞋踩地。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "杯倒桌水流浸紙、窗簾被風吹起，女孩盒子由前臂抱住，桌椅窗框支撐正常。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔藍白制服、淡紫畫具盒、暖棕走廊有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣國小走廊與美術教室、適齡制服學生；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+        }
+      }
+    },
+    "1456": {
+      "no": 1456,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1456.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "男孩坐在沙發邊緣，緊張望著關閉的大門，雙手壓著膝蓋；另一格他已起身走到門旁，回頭皺眉張嘴，神情仍然焦躁。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "同一等待情境坐時前傾皺眉、站起仍回頭焦躁，呈心神不寧難以安定，非只更換坐站姿勢。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選155、701、797及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "左右同門同布袋、男孩由坐到站的反覆焦躁清楚。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對放膝雙手與站時兩垂手五指，肩臂相接，坐站腳均合理接地，無增肢。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "沙發托身、鞋踩地、布袋靠門，門把與鉸鏈合理，相框只半身頭像無小手檢查問題。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔綠沙發、暖棕門櫃、淡藍白衣有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代家庭客廳與玄關、適齡便服男孩；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+        }
+      }
+    },
+    "1458": {
+      "no": 1458,
+      "kind": "new",
+      "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1458.png",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-21",
+      "alt": "長者指著女孩陶杯上鬆脫的把手說明，女孩認真聽著；另一格她主動按好接合處，長者托著陶土微笑，肯定她願意學習。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "聽長者指出問題後立即專心修正，長者欣慰肯定，呈年輕人可教可培養，非不聽勸或單純陶藝展示。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選360、750、852及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "左右同杯把裂縫到按合、聆聽到實作，手機可讀。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "核對長者指杯把與扶桌、女孩放桌與修杯雙手、長者托泥掌五指結構自然，臂接肩；腿在桌後取景外，無增肢。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "濕泥杯把接合需按壓，女孩雙手貼杯身把根，長者掌托泥、水碗及陶杯落木板桌面，無懸浮物。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "柔灰陶泥、暖棕圍裙木板、淡藍白制服有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代陶藝工作室、國小女孩制服與長者普通圍裙便服；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+        }
+      }
     }
   }
 }
