@@ -12,16 +12,16 @@
   "limits": "Record and asset audit only; no new visual pass is implied. Missing/legacy evidence is not a failed image. Task categories overlap; count unique tasks, not the sum of action counts.",
   "summary": {
     "total_idioms": 1466,
-    "published_illustrations": 1385,
-    "missing_illustrations": 81,
-    "coverage_percent": 94.47,
+    "published_illustrations": 1412,
+    "missing_illustrations": 54,
+    "coverage_percent": 96.32,
     "P1_published": 21,
     "P1_total": 21,
-    "review_records": 829,
+    "review_records": 856,
     "review_missing": 556,
     "review_legacy": 546,
-    "review_eight_checks": 283,
-    "unique_task_idioms": 1183,
+    "review_eight_checks": 310,
+    "unique_task_idioms": 1156,
     "action_counts": {
       "review_record_missing": 556,
       "prompt_record_missing": 25,
@@ -31,7 +31,7 @@
       "legacy_format_review": 111,
       "P2_style_review": 48,
       "red_neckerchief_review": 10,
-      "create_new_art": 81
+      "create_new_art": 54
     }
   },
   "priority": [
@@ -9254,141 +9254,8 @@
       ]
     },
     {
-      "no": 5113,
-      "word": "青雲直上",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5114,
-      "word": "青面獠牙",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5115,
-      "word": "拈花惹草",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
       "no": 5116,
       "word": "碩果僅存",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5117,
-      "word": "冰雪聰明",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5118,
-      "word": "牽腸掛肚",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5119,
-      "word": "同心協力",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5120,
-      "word": "少年老成",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5121,
-      "word": "舉目無親",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5122,
-      "word": "扶老攜幼",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5123,
-      "word": "數一數二",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5127,
-      "word": "牢不可破",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5128,
-      "word": "蓬蓽生輝",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5129,
-      "word": "延年益壽",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5130,
-      "word": "譁眾取寵",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5131,
-      "word": "應有盡有",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5133,
-      "word": "束手待斃",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5134,
-      "word": "龍潭虎穴",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5137,
-      "word": "有始有終",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5139,
-      "word": "牝雞司晨",
       "actions": [
         "create_new_art"
       ]
@@ -9401,64 +9268,8 @@
       ]
     },
     {
-      "no": 5141,
-      "word": "不期而遇",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5142,
-      "word": "顧影自憐",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5143,
-      "word": "好大喜功",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5144,
-      "word": "近朱者赤，近墨者黑",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5145,
-      "word": "如花似玉",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5147,
-      "word": "吟風弄月",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
       "no": 5148,
       "word": "姑息養奸",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5149,
-      "word": "放浪形骸",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5151,
-      "word": "我行我素",
       "actions": [
         "create_new_art"
       ]
