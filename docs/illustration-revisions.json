@@ -996,5 +996,97 @@
     "review": "docs/illustration-reviews.json#entries/23",
     "resolved_findings": [],
     "status": "registered"
+  },
+  {
+    "no": 32,
+    "batch": "batch-21-redraw-4",
+    "reason": "先前複審不通過項目重畫；已實際檢視全圖、原尺寸細節及構圖候選，八項檢查通過。",
+    "previousEntry": {
+      "word": "狐假虎威",
+      "src": "img/idioms/32.webp",
+      "alt": "狐狸得意地走在老虎前面，前方的小動物因看見後面的老虎而逃走。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "7daac63b0e034cc5a11147fbb4008fbd867354f8e6325aa5188dee5b827af2c3"
+    },
+    "previousOriginalSha256": "7daac63b0e034cc5a11147fbb4008fbd867354f8e6325aa5188dee5b827af2c3",
+    "previousReviewArchivePath": "records/reviews/5831e0a927a4037e31abb8f0b9b51a9e05983444223d98e3b037751369353351.json",
+    "previousPromptArchivePath": null,
+    "replacement": "img/idioms/32-02be1d657bed.webp",
+    "replacementOriginal": "/workspace/chengyu-preservation/originals/02be1d657bed04968275892d6064ac0eed533153bdc524058e3ec0abbd96618b.png",
+    "originalSha256": "02be1d657bed04968275892d6064ac0eed533153bdc524058e3ec0abbd96618b",
+    "review": "docs/illustration-reviews.json#entries/32",
+    "resolved_findings": [],
+    "status": "registered"
+  },
+  {
+    "no": 37,
+    "batch": "batch-21-redraw-4",
+    "reason": "先前複審不通過項目重畫；已實際檢視全圖、原尺寸細節及構圖候選，八項檢查通過。",
+    "previousEntry": {
+      "word": "杞人憂天",
+      "src": "img/idioms/37.webp",
+      "alt": "男子擔心天空會塌下來而躲在桌下，晴朗天空下的其他人卻照常生活。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "117241ddcb607b7af396f65a1eebceb3118827e7dccd19f0a330e76c3db8785c"
+    },
+    "previousOriginalSha256": "117241ddcb607b7af396f65a1eebceb3118827e7dccd19f0a330e76c3db8785c",
+    "previousReviewArchivePath": "records/reviews/0f4cde0d0736748a847f786c764107252c1463221ca09b516919ac7dc3e1a051.json",
+    "previousPromptArchivePath": null,
+    "replacement": "img/idioms/37-e25a41712374.webp",
+    "replacementOriginal": "/workspace/chengyu-preservation/originals/e25a4171237494eb0500e8da490ecb5400a643d1aee1beb2e65f689d4bd6a004.png",
+    "originalSha256": "e25a4171237494eb0500e8da490ecb5400a643d1aee1beb2e65f689d4bd6a004",
+    "review": "docs/illustration-reviews.json#entries/37",
+    "resolved_findings": [],
+    "status": "registered"
+  },
+  {
+    "no": 40,
+    "batch": "batch-21-redraw-4",
+    "reason": "先前複審不通過項目重畫；已實際檢視全圖、原尺寸細節及構圖候選，八項檢查通過。",
+    "previousEntry": {
+      "word": "不學無術",
+      "src": "img/idioms/40.webp",
+      "alt": "少年平時只顧玩遊戲，書本與教學材料一直沒碰，遇到簡單的組裝工作時，便完全不知怎麼做。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "a1928571a2fee7bde95a9b28dabe8b5bfb8106dc368f7686080f7aadc832ec60"
+    },
+    "previousOriginalSha256": "a1928571a2fee7bde95a9b28dabe8b5bfb8106dc368f7686080f7aadc832ec60",
+    "previousReviewArchivePath": "records/reviews/817d4167ccf63556290b0510c4607d6307cedc7d7cf5b47de820b1912b76c410.json",
+    "previousPromptArchivePath": "records/prompts/8b695d42eefc6af2a5250f17941ec6a55026c7d6018f554fed22dc0569232214.json",
+    "replacement": "img/idioms/40-fd806a999f4f.webp",
+    "replacementOriginal": "/workspace/chengyu-preservation/originals/fd806a999f4ff7ea00e501c3dead32d49b4d015f1def0e2328b301e9dff4b971.png",
+    "originalSha256": "fd806a999f4ff7ea00e501c3dead32d49b4d015f1def0e2328b301e9dff4b971",
+    "review": "docs/illustration-reviews.json#entries/40",
+    "resolved_findings": [],
+    "status": "registered"
+  },
+  {
+    "no": 44,
+    "batch": "batch-21-redraw-4",
+    "reason": "先前複審不通過項目重畫；已實際檢視全圖、原尺寸細節及構圖候選，八項檢查通過。",
+    "previousEntry": {
+      "word": "走馬看花",
+      "src": "img/idioms/44.webp",
+      "alt": "遊客一邊快步走、一邊匆匆拍照，沿途展品都只看一眼，沒有停下來了解細節。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "782129ba09641be32065ffc1b0cd6fc595aad5a9fd013fa27513bda37ab664ed"
+    },
+    "previousOriginalSha256": "782129ba09641be32065ffc1b0cd6fc595aad5a9fd013fa27513bda37ab664ed",
+    "previousReviewArchivePath": "records/reviews/b16b8068754bbe50509a4224b0caca2c5595e9521c03988ccaa4253e67757066.json",
+    "previousPromptArchivePath": "records/prompts/ec072bf63a98e8fdc82a8a11444b36136bd7bdcfab69590cc0cd2e820d7cf2a2.json",
+    "replacement": "img/idioms/44-8e8ad329ae5d.webp",
+    "replacementOriginal": "/workspace/chengyu-preservation/originals/8e8ad329ae5d7570137418fe3a72253c15a4a1ca11f7f7d4ddcccac4b9ce721f.png",
+    "originalSha256": "8e8ad329ae5d7570137418fe3a72253c15a4a1ca11f7f7d4ddcccac4b9ce721f",
+    "review": "docs/illustration-reviews.json#entries/44",
+    "resolved_findings": [],
+    "status": "registered"
   }
 ]
