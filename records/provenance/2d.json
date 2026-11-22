@@ -17945,5 +17945,13 @@
       "path": "backup/batches/2026-11-08-855-873/revisions/914-attempt1/914-prompt.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "2ddb3b6908d5a732fd2e568d63d67093e3d0628d329ca2e3d3fe33d6ed1d06ec": [
+    {
+      "kind": "git_blob",
+      "blob": "cd9ac68f6211e9670b537a6fda20bc39cf24693a",
+      "commit": "1fed33a09b69776ac4c4cc6ea045cc4a7e085a33",
+      "path": "claim.json"
+    }
   ]
 }

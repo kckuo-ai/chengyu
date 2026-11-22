@@ -10647,6 +10647,12 @@
       "zip_path": "batch-20-redraw-3.zip",
       "commit": "1fed33a09b69776ac4c4cc6ea045cc4a7e085a33",
       "member": "batch-20/manifest.json"
+    },
+    {
+      "kind": "git_blob",
+      "blob": "2c68283d14100477bb2ffb63fa284b59114469e7",
+      "commit": "1fed33a09b69776ac4c4cc6ea045cc4a7e085a33",
+      "path": "manifest.json"
     }
   ]
 }
