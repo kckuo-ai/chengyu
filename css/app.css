@@ -54,7 +54,7 @@ img.rare { height: 1em; vertical-align: -0.12em; }
 /* ---------- 頂部 ---------- */
 .top {
   display: flex; align-items: center; justify-content: space-between;
-  padding: 14px 16px 6px; max-width: 760px; margin: 0 auto;
+  padding: max(14px, env(safe-area-inset-top)) 16px 6px; max-width: 760px; margin: 0 auto;
 }
 .brand { font-size: 22px; font-weight: 700; text-decoration: none; color: var(--ink); letter-spacing: .08em; }
 .brand b { color: var(--grid-strong); }
@@ -306,8 +306,20 @@ ul.ex-short { font-size: 20px; margin: 4px 0 10px; padding-left: 1.2em; }
 body.playing { padding-bottom: 0; }
 body.playing .tabbar, body.playing .top { display: none; }
 body.playing .dock { bottom: 0; padding-bottom: calc(10px + env(safe-area-inset-bottom)); }
-.q-top { display: flex; align-items: center; gap: 12px; padding: 10px 0 6px; font-family: var(--sans); font-size: 14px; }
-.q-quit { text-decoration: none; color: var(--muted); white-space: nowrap; min-height: 32px; display: inline-flex; align-items: center; }
+/* 作答時的頂列：避開瀏海、動態島和狀態列，「結束」做成 44px 以上的大按鈕 */
+.q-top {
+  position: sticky; top: 0; z-index: 8; background: var(--paper);
+  display: flex; align-items: center; gap: 12px;
+  margin: 0 -16px; padding: max(10px, env(safe-area-inset-top)) 16px 8px;
+  font-family: var(--sans); font-size: 14px;
+}
+.q-quit {
+  display: inline-flex; align-items: center; justify-content: center; gap: 4px;
+  min-height: 44px; min-width: 76px; padding: 0 14px; border-radius: 999px;
+  border: 2px solid var(--line); background: var(--sheet); color: var(--ink);
+  font-size: 16px; font-weight: 700; text-decoration: none; white-space: nowrap;
+}
+.q-quit.confirm { border-color: var(--red); color: var(--red); }
 .q-top .q-bar { flex: 1; margin: 0; }
 .q-count { color: var(--muted); white-space: nowrap; }
 .q-prompt { margin: 4px 0 10px; }

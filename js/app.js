@@ -437,13 +437,21 @@ function runQuiz() {
     const twoCol = q.opts.every((o) => o.big);
     view.innerHTML = `
       <div class="q-top">
-        <a class="q-quit" href="#/quiz" aria-label="結束測驗">✕ 結束</a>
+        <a class="q-quit" href="#/quiz">✕ 結束</a>
         <div class="q-bar" aria-hidden="true"><i style="width:${(st.i / qs.length) * 100}%"></i></div>
         <span class="q-count">${st.i + 1} / ${qs.length}</span>
       </div>
       <div class="q-prompt">${q.prompt}</div>
       <div class="opts ${twoCol ? "two" : ""}">${q.opts.map((o, k) => `<button class="opt ${o.big ? "big" : ""}" data-k="${k}">${o.label}</button>`).join("")}</div>
       <div class="dock dock-quiz" id="dock" hidden></div>`;
+    // 已經作答過時，「結束」要按兩次，避免手滑把進度弄丟
+    const quit = view.querySelector(".q-quit");
+    quit.addEventListener("click", (ev) => {
+      if ((st.i === 0 && st.picked === null) || quit.classList.contains("confirm")) return;
+      ev.preventDefault();
+      quit.classList.add("confirm"); quit.textContent = "確定結束？";
+      setTimeout(() => { quit.classList.remove("confirm"); quit.textContent = "✕ 結束"; }, 3000);
+    });
     view.querySelector(".quiz-art img")?.addEventListener("click", (ev) => ev.currentTarget.closest(".quiz-art").classList.toggle("zoom"));
     view.querySelectorAll(".opt").forEach((b) => b.addEventListener("click", () => {
       if (st.picked !== null) return;
