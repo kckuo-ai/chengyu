@@ -12,16 +12,16 @@
   "limits": "Record and asset audit only; no new visual pass is implied. Missing/legacy evidence is not a failed image. Task categories overlap; count unique tasks, not the sum of action counts.",
   "summary": {
     "total_idioms": 1466,
-    "published_illustrations": 1465,
-    "missing_illustrations": 1,
-    "coverage_percent": 99.93,
+    "published_illustrations": 1466,
+    "missing_illustrations": 0,
+    "coverage_percent": 100.0,
     "P1_published": 21,
     "P1_total": 21,
-    "review_records": 909,
+    "review_records": 910,
     "review_missing": 556,
     "review_legacy": 546,
-    "review_eight_checks": 363,
-    "unique_task_idioms": 1103,
+    "review_eight_checks": 364,
+    "unique_task_idioms": 1102,
     "action_counts": {
       "review_record_missing": 556,
       "prompt_record_missing": 25,
@@ -30,8 +30,7 @@
       "alt_contains_idiom_bigram": 21,
       "legacy_format_review": 111,
       "P2_style_review": 48,
-      "red_neckerchief_review": 10,
-      "create_new_art": 1
+      "red_neckerchief_review": 10
     }
   },
   "priority": [
@@ -9147,13 +9146,6 @@
         "review_record_missing"
       ],
       "src": "img/idioms/1450.webp"
-    },
-    {
-      "no": 5387,
-      "word": "脣槍舌劍",
-      "actions": [
-        "create_new_art"
-      ]
     }
   ]
 }
