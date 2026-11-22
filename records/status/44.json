@@ -5,7 +5,14 @@
   "original_sha256": "782129ba09641be32065ffc1b0cd6fc595aad5a9fd013fa27513bda37ab664ed",
   "original": "originals/782129ba09641be32065ffc1b0cd6fc595aad5a9fd013fa27513bda37ab664ed.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/ed1201d66b4085dba39eef6037eb4c2fd696611ed2e7be3049182bd1495047fb.json",
+  "current_review_path": "records/reviews/b16b8068754bbe50509a4224b0caca2c5595e9521c03988ccaa4253e67757066.json",
   "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": "records/prompts/ec072bf63a98e8fdc82a8a11444b36136bd7bdcfab69590cc0cd2e820d7cf2a2.json"
+  "current_prompt_path": "records/prompts/ec072bf63a98e8fdc82a8a11444b36136bd7bdcfab69590cc0cd2e820d7cf2a2.json",
+  "latest_rejected_candidate": {
+    "batch": "batch-19-redraw-13",
+    "original_sha256": "fa43251fa77ce9c8739a3cd3541fa07514303e99482e182d6216eb9ed8fdc437",
+    "original_archive_path": "originals/fa43251fa77ce9c8739a3cd3541fa07514303e99482e182d6216eb9ed8fdc437.png",
+    "review_archive_path": "records/reviews/8cb126256edb960373334c619af79560861fb7e3a82581c22a43689aa67cc96a.json",
+    "passed": false
+  }
 }

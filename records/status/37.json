@@ -5,7 +5,14 @@
   "original_sha256": "117241ddcb607b7af396f65a1eebceb3118827e7dccd19f0a330e76c3db8785c",
   "original": "originals/117241ddcb607b7af396f65a1eebceb3118827e7dccd19f0a330e76c3db8785c.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/f18ff1118e7996899e0b2bc9fe4579d13173af773ead94eb15f271a453ab66b2.json",
+  "current_review_path": "records/reviews/0f4cde0d0736748a847f786c764107252c1463221ca09b516919ac7dc3e1a051.json",
   "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": null
+  "current_prompt_path": null,
+  "latest_rejected_candidate": {
+    "batch": "batch-19-redraw-13",
+    "original_sha256": "7e728729be9d9d7b3b35c02ea691b071f9a3fffefab5442d735b06b7172d3348",
+    "original_archive_path": "originals/7e728729be9d9d7b3b35c02ea691b071f9a3fffefab5442d735b06b7172d3348.png",
+    "review_archive_path": "records/reviews/506d0978fde47912ecd002bbc547ac339978455e0508d45759399a3ac88e514b.json",
+    "passed": false
+  }
 }

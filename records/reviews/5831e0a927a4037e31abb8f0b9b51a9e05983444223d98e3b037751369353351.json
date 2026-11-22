@@ -1,0 +1,74 @@
+{
+  "no": 32,
+  "kind": "existing",
+  "word": "狐假虎威",
+  "path": "/workspace/chengyu-preservation/originals/7daac63b0e034cc5a11147fbb4008fbd867354f8e6325aa5188dee5b827af2c3.png",
+  "original_sha256": "7daac63b0e034cc5a11147fbb4008fbd867354f8e6325aa5188dee5b827af2c3",
+  "webp_src": "img/idioms/32.webp",
+  "webp_sha256": "0c2955c5677c9310e623a3035a56e502d7250bc23a4f04f7b41320edeccff7a1",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-02-20261122",
+  "alt": "山林小徑上，狐狸昂首得意走在老虎前方，鹿和兔子回頭驚慌逃走；後方老虎體形巨大，神情威嚴，緊跟著前進。",
+  "issues": [
+    "taiwan_context: 野生老虎、狐狸與喀斯特山林的寓言場景，沒有台灣現代生活或現代人物設定。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "弱小狐狸得意而後方老虎威嚇其他動物，借後方強者的威勢可辨；仍需現代情境改寫。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「山林小徑上，狐狸昂首得意走在老虎前方，鹿和兔子回頭驚慌逃走；後方老虎體形巨大，神情威嚴，緊跟著前進。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "全圖無人物；老虎與狐狸四足的前後遮擋合理，鹿兔奔跑的抬腿與四足輪廓可辨，沒有把動物爪誤當人手要求五指。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "老虎步行有支撐足，狐狸腳接地，逃跑動物的騰空屬奔躍，山石與路面透視合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "獸紋、樹葉與山景均無文字數字字母或品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "野生老虎、狐狸與喀斯特山林的寓言場景，沒有台灣現代生活或現代人物設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領與頸部，未見紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crops for 29 board and 45 feet",
+    "comparison": "110 published candidates actually viewed in five sheets; also full 751 WebP. Near-duplicate failures: 41 vs 19 and 44 vs 751.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻藉著有權者的威勢欺壓他人、作威作福。",
+    "syn": "仗勢欺人、狐假鴟張、鼠憑社貴、驢蒙虎皮",
+    "ant": ""
+  },
+  "latest_rejected_candidate": {
+    "batch": "batch-19-redraw-13",
+    "original_sha256": "17a5f376f9b2cc2508f463e05d1cb9f6789450f5ddabbb99b0997b102949623d",
+    "original_archive_path": "originals/17a5f376f9b2cc2508f463e05d1cb9f6789450f5ddabbb99b0997b102949623d.png",
+    "review_archive_path": "records/reviews/3f9e9e3b7f6afb7d040a53840fea5cc6ebdb446db94f8ff5b5e0800843b6aa62.json",
+    "passed": false
+  }
+}
