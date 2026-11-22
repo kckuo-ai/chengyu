@@ -1,0 +1,67 @@
+{
+  "no": 16,
+  "kind": "regenerate",
+  "word": "口若懸河",
+  "path": "/workspace/chengyu-preservation/originals/55d768c860e96f6bd73116d0e5789f53e5d73886bd1e42a4af46b8fb66f0a357.png",
+  "original_sha256": "55d768c860e96f6bd73116d0e5789f53e5d73886bd1e42a4af46b8fb66f0a357",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-18-redraw-11",
+  "alt": "女子連續講解把雜亂空地整理成花圃的方法，三個泡泡依序呈現清理、種植與開花；兩名孩子專心聽著，桌上攤著設計圖。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "連接的三個話語泡泡有清理、種植、盛開的順序，成人展掌連續說明、孩子專注跟上，呈現流暢能說而非爭吵或語無倫次。 另看完整 1284：該圖是孩子混亂倒序說植物、老師制止；本圖成人按清理種植開花連貫說明、孩子跟得上，人物角色與次序可分。與 588 的約定示意亦不同。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "講者在左、兩名聽者在右，上方三泡泡與桌面花圃圖對應，手機寬度仍可讀說話與聆聽關係。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女子兩手張掌各五指清楚，前臂獨立接兩肩；兩童四掌各五指分開放桌，未見多臂共掌，坐姿由椅面支撐；腳不在畫幅內不臆測。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "設計圖平攤桌面，桌椅承托自然；泡泡是想像圖解，不當實物懸浮。窗框與摺疊椅構造可辨，壺鏟完整。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "泡泡只用清理物件、植物、箭頭，騎樓店面無招牌文字，書脊素面、車輛無可讀車牌，無字母數字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "已看全圖與原尺寸：鉛筆輪廓、透明柔和水彩、色鉛筆疊色顆粒及米白紙紋明確；自然綠、淡藍、暖棕，非鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "窗外有騎樓、平頂樓房與機車，室內社區活動室與素面制服國小兒童明確，已去除歐式城堡。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "成人紫外套白襯衫，兩童白底藍邊上衣，頸部沒有紅領巾或紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "2d5c6a264641ec216eea8ae7dd2a3307a76df6a01b2c93984da6252ba271f3d7",
+  "previous_review_archive_path": "records/reviews/bf8c9cca1f3c906329cb9a82503e4240c4eb7744669b413e43aa95dd56689643.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per PNG; additional native crops of 15 arms, 17 books and 23 books",
+    "comparison_candidates": 142,
+    "comparison_method": "All six sheets actually viewed; candidates selected by whole-catalog perceptual similarity and scene/meaning terms. Additional full 1284 viewed. This does not imply every other artwork was individually re-reviewed."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻能言善辯。",
+    "syn": "能言善道",
+    "ant": "拙口鈍辭、笨口拙舌、張口結舌、期期艾艾、結結巴巴"
+  },
+  "webp_src": "img/idioms/16-55d768c860e9.webp",
+  "webp_sha256": "e521ac53e46019d0b26c29ca6427673560cb390689618bfbed09012a71d8930f"
+}

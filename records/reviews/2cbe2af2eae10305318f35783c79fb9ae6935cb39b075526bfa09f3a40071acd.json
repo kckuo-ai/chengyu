@@ -1,0 +1,67 @@
+{
+  "no": 17,
+  "kind": "regenerate",
+  "word": "驚弓之鳥",
+  "path": "/workspace/chengyu-preservation/originals/8624d75d7a99757fe560c88cb9a3462fee5edcd87303f31aa7dfcaa655071e62.png",
+  "original_sha256": "8624d75d7a99757fe560c88cb9a3462fee5edcd87303f31aa7dfcaa655071e62",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-18-redraw-11",
+  "alt": "女孩看見綁在椅背上的完整氣球就摀耳縮身，母親蹲旁安撫；她想起上回氣球破掉後坐在地上哭泣的經過。",
+  "issues": [
+    "text_brand_watermark: 另裁左上書架原尺寸：黃色書脊上下有 U／0 樣孤立淺色筆畫，最左書脊也有 I 樣飾紋，無法排除類字母或數字，按禁止類字形標準不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同衣女孩上次被破氣球嚇哭與現在完整氣球尚無危險卻怕的前後對照清楚，受驚後心有餘悸的因果成立。 已比較 1093 的多人驚訝氣球課堂，本圖兩名母女及破裂前次回憶，關鍵前後受驚因果不同。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "回憶泡泡在上、現場完整氣球在右、母女在前景，前後事件及恐懼焦點在手機尺寸可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "已檢視回憶雙手放膝與現景摀耳雙手，四指拇指輪廓有合理膝面、頭部遮擋；母親一手搭肩一手搭膝，手腕接兩臂，母女與泡泡女孩兩鞋均落地，無模糊群眾小手。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "氣球繩確實繫椅背，椅子四腳著地；母親重心由蹲姿雙腳支撐，手掌落在肩上與膝面，地面破膠皮是回憶內容。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "另裁左上書架原尺寸：黃色書脊上下有 U／0 樣孤立淺色筆畫，最左書脊也有 I 樣飾紋，無法排除類字母或數字，按禁止類字形標準不通過。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "已看全圖與原尺寸：鉛筆輪廓、透明柔和水彩、色鉛筆疊色顆粒及米白紙紋明確；自然綠、淡藍、暖棕，非鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣居家客廳，素面制服國小女孩與便服母親，年齡比例及家具有合理現代設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "現景及回憶女孩白底藍邊制服，母親米色襯衫；粉紅髮圈及氣球不在頸部，無紅領巾或紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "dc2f01d182e900a082630f6ab094813ae86103b7f9052224116a1d9d4bf48594",
+  "previous_review_archive_path": "records/reviews/3c0c0064527fc3361b7e2b69884ec6715ee94875caa4de61e0ed9b357e1a954c.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per PNG; additional native crops of 15 arms, 17 books and 23 books",
+    "comparison_candidates": 142,
+    "comparison_method": "All six sheets actually viewed; candidates selected by whole-catalog perceptual similarity and scene/meaning terms. Additional full 1284 viewed. This does not imply every other artwork was individually re-reviewed."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻曾受打擊或驚嚇，心有餘悸，稍有動靜就害怕的人。",
+    "syn": "心有餘悸、談虎色變",
+    "ant": ""
+  }
+}

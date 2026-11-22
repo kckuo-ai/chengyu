@@ -15679,5 +15679,22 @@
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470",
       "path": "backup/batches/2026-11-07-836-838/SHA256SUMS"
     }
+  ],
+  "c8db7884e53e429dc2aa5fa0b98522880122c2f5e9ea72f8d4fead36791440cf": [
+    {
+      "kind": "git_zip_member",
+      "zip_blob": "e20fc0069fc3cbddcd96f744c502fc38b703175b",
+      "zip_path": "batch-18-redraw-11.zip",
+      "commit": "99dfedf507425ff3dc6afcd00d63ac057e12ebaa",
+      "member": "batch-18/manifest.json"
+    }
+  ],
+  "c8f618715e517dbe64c3f8e8e63a213b987589fdd62d2bb82fc632be0b5defcc": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-18-redraw-11",
+      "source_file": "25.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-22"
+    }
   ]
 }

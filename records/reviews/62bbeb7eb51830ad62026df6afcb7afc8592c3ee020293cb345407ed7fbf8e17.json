@@ -1,0 +1,67 @@
+{
+  "no": 2,
+  "kind": "regenerate",
+  "word": "掩耳盜鈴",
+  "path": "/workspace/chengyu-preservation/originals/3121281351364e6bd38d2212f7c4344e00cbaa02ee478a42d844bb8683359b06.png",
+  "original_sha256": "3121281351364e6bd38d2212f7c4344e00cbaa02ee478a42d844bb8683359b06",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-18-redraw-11",
+  "alt": "男孩吃光餅乾後仍滿嘴碎屑，卻笑著遮住雙眼；母親看著透明空罐與桌上殘屑，無奈地望著以為沒被發現的孩子。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "母親清楚看見空罐與碎屑，男孩卻遮自己的眼睛安心微笑；證據仍露出而只騙到自己的因果直接可見，並非單純躲藏。 已比對 855 的偷吃餅乾場景；本圖以遮自己的眼睛卻不遮證據為核心，不只是偷吃被發現。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "空罐居中、母親左、遮眼男孩右，眼睛遮擋與嘴邊碎屑在手機寬度仍可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "母親按桌張掌的一拇指四指清楚，另一掌側放五指順桌面；男孩兩臂各接肩肘腕，遮眼四指並排、拇指由臉側合理遮住，無第三手。母親雙腳與男孩兩鞋均有地面支撐。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "玻璃罐開口、木蓋與殘屑位置一致，罐底放桌，人物椅座與桌腳承托合理，沒有穿手或懸浮物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "書脊與冰箱素面、罐上無標籤，格紋桌布及功能性鞋帶不是文字，未見字母數字、類字形、品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "已看全圖與原尺寸：鉛筆輪廓、透明柔和水彩、色鉛筆疊色顆粒及米白紙紋明確；自然綠、淡藍、暖棕，非鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代家庭餐桌、冰箱、窗外平頂住宅；母親便服圍裙與國小男孩素面運動上衣，符合台灣生活。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "母親為粉紅圍裙，男孩為白底藍邊上衣，兩人頸部均無紅領巾或紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "e2c7989c606bcf66c6bd946019cb64dc196dec750f3497061a33f98b15eb5da8",
+  "previous_review_archive_path": "records/reviews/eb54cba1bdc2184c1b13f807dad36013453791082418615df5e11158eab2ec89.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per PNG; additional native crops of 15 arms, 17 books and 23 books",
+    "comparison_candidates": 142,
+    "comparison_method": "All six sheets actually viewed; candidates selected by whole-catalog perceptual similarity and scene/meaning terms. Additional full 1284 viewed. This does not imply every other artwork was individually re-reviewed."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻妄想瞞騙他人，結果卻只是欺騙自己而已。貶義。",
+    "syn": "自欺欺人、掩目捕雀、掩鼻偷香",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/2-312128135136.webp",
+  "webp_sha256": "1a074f2e78202e3d97e3e9357d922de335166e32bca7c65f2262d41faa2b8d43"
+}

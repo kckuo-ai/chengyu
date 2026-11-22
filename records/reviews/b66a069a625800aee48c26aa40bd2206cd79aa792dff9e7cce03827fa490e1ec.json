@@ -1,0 +1,67 @@
+{
+  "no": 23,
+  "kind": "regenerate",
+  "word": "畫蛇添足",
+  "path": "/workspace/chengyu-preservation/originals/7fa0755cab5facfe083afcd60b6c16974f80d9e7d3b1dddd891351ba023afc8f.png",
+  "original_sha256": "7fa0755cab5facfe083afcd60b6c16974f80d9e7d3b1dddd891351ba023afc8f",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-18-redraw-11",
+  "alt": "男孩原本滿意地看著紙風車轉動，後來又在葉片末端加上厚重黏土，葉片垂彎無法正常旋轉，他懊惱地望著成品。",
+  "issues": [
+    "text_brand_watermark: 另裁左格書架原尺寸：粉紅書脊頂部有 C 樣白色彎筆畫，綠色書脊有獨立直立飾紋，不能保證無類字母，按無類字形要求不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "先正常轉動的成品，再因額外加重導致葉片變形失去作用，前後因果清楚，已避開只畫蛇足典故。 已比對 653、856 等轉動模型候選，本圖先成功再不必要加重的兩幕並列，不是一般製作風車。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "兩格維持同一風扇、底座與男孩，轉動重影和加重後垂彎差異在手機寬度可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "兩幕男孩各兩臂接肩肘腕，四掌均一拇指四指清楚且分開按桌，沒有共掌、分岔；下身由桌面裁切，不臆測腳。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "風扇有護網、底座、電線接插座；紙風車軸心接支柱與木座，黏土附葉片末端使紙張下折，器物由桌承托，電線不穿人手。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "另裁左格書架原尺寸：粉紅書脊頂部有 C 樣白色彎筆畫，綠色書脊有獨立直立飾紋，不能保證無類字母，按無類字形要求不通過。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "已看全圖與原尺寸：鉛筆輪廓、透明柔和水彩、色鉛筆疊色顆粒及米白紙紋明確；自然綠、淡藍、暖棕，非鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣國小手作教室，國小男孩白色素面制服與木工桌、電扇符合現代生活。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩幕男孩均白底藍邊制服；粉紅色只在風車和紙張，沒有紅領巾或紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "e3fcb692228386ccc102adf74a989dc694abe363012d856c15248c9738af3b02",
+  "previous_review_archive_path": "records/reviews/e106b0b3ecbccc11542ddefeb3b2fc7e0a77429e7ea00a85e5661333b0b72ec9.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per PNG; additional native crops of 15 arms, 17 books and 23 books",
+    "comparison_candidates": 142,
+    "comparison_method": "All six sheets actually viewed; candidates selected by whole-catalog perceptual similarity and scene/meaning terms. Additional full 1284 viewed. This does not imply every other artwork was individually re-reviewed."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻多此一舉，反將事情弄糟。貶義。",
+    "syn": "多此一舉、弄巧成拙",
+    "ant": "恰如其分、恰到好處"
+  }
+}

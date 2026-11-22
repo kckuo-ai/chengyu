@@ -10120,5 +10120,12 @@
       "path": "backup/batches/2026-11-07-808-828/reviews/868.review.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "403a5329d980bd3a834f8207c81bef93e952854cde4d9f18a9aead79a0d8675e": [
+    {
+      "kind": "current_main_record",
+      "batch": "batch-18-redraw-11",
+      "source": "docs/illustration-prompts.json#entries/21"
+    }
   ]
 }

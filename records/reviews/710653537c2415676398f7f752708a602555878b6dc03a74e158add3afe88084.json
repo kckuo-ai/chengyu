@@ -1,0 +1,67 @@
+{
+  "no": 21,
+  "kind": "regenerate",
+  "word": "投筆從戎",
+  "path": "/workspace/chengyu-preservation/originals/3b4b2ce886afe74e088490b4990d0c6fa390690849a641393deee76ece58018f.png",
+  "original_sha256": "3b4b2ce886afe74e088490b4990d0c6fa390690849a641393deee76ece58018f",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-18-redraw-11",
+  "alt": "青年在書桌前放下鋼筆與空白稿紙，接著換上軍服、背起行囊走到山區營舍，神情堅定，準備投入新的軍旅生活。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一臉孔青年先放下讀寫工具，再以箭頭連到軍服、軍靴與營舍，從文職轉入軍旅的方向明確；不是普通旅行，也與先軍後文相反。 與 1510 的先軍服後讀書雙幕方向相反；本圖放筆後穿軍服，不能讀成偃武修文。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左書桌、右軍服全身的前後對照清楚，箭頭引導方向，手機尺寸仍能辨識改變的職業。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "左幕放筆及平放掌均五指清楚、手臂獨立接肩；右幕握袋帶手四指收攏拇指扣帶，垂手手指自然，兩腿兩靴有踏地支撐，無遠景士兵。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "鋼筆接觸桌面，行囊帶連肩並受握持；軍靴踩實地面，營舍雨槽、門柱及路面透視合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "稿紙空白、書脊僅素面及平行裝訂飾線，軍服是連續迷彩斑塊而無可讀徽號，靴帶為功能結構；無文字字母數字商標水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "已看全圖與原尺寸：鉛筆輪廓、透明柔和水彩、色鉛筆疊色顆粒及米白紙紋明確；自然綠、淡藍、暖棕，非鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "成年入伍角色非幼童，現代台灣山區低矮營舍、軍帽軍靴與便服書房情境合理，軍服無紅領巾。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩幕成人分別為藍襯衫及草綠軍服，頸部無紅領巾或紅圍巾，軍營無其他人物。"
+    }
+  },
+  "previous_installed_original_sha256": "5485029abe3280e677ad34f3f191d3f9a24a3484fc5c8f02de15fc23bdfdd467",
+  "previous_review_archive_path": "records/reviews/9c1e7d799d33c919e061dcf62208fe6980a329f4a478e7f0be19c75e29929c05.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per PNG; additional native crops of 15 arms, 17 books and 23 books",
+    "comparison_candidates": 142,
+    "comparison_method": "All six sheets actually viewed; candidates selected by whole-catalog perceptual similarity and scene/meaning terms. Additional full 1284 viewed. This does not imply every other artwork was individually re-reviewed."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻棄文從軍，以衛國立功。褒義。",
+    "syn": "棄文就武",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/21-3b4b2ce886af.webp",
+  "webp_sha256": "044aecd125ccbd7557bd6be266881297b4a26e5fdf52cfef7fa60fce80a44d19"
+}

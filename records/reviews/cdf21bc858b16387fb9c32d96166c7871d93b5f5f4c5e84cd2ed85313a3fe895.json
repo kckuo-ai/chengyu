@@ -1,0 +1,67 @@
+{
+  "no": 8,
+  "kind": "regenerate",
+  "word": "名落孫山",
+  "path": "/workspace/chengyu-preservation/originals/816343807101d3ed11ccc653622b0ad128dea6827fe5bc695d9de570727fdf33.png",
+  "original_sha256": "816343807101d3ed11ccc653622b0ad128dea6827fe5bc695d9de570727fdf33",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-18-redraw-11",
+  "alt": "校門旁男孩拿著自己的照片與圖形考卷低頭失落，母親扶肩安慰；公告只列其他孩子的照片，其中一人開心抱著入學用品。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一位戴眼鏡獲選者在公告及領用品現場出現；失落男孩自己的照片不在公告，手持測驗紙，呈現應考後未被錄取，與金榜題名相反。 已檢視近似人物／公布結果候選，未見同樣以本人照片不在錄取照片牆作關鍵的近乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "公告三張大頭照、男孩照片及失落表情、旁人領用品的對照集中前景，手機縮圖可分辨有無上榜。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "母親垂手與搭肩手各五指；男孩各一手拿照片與試紙，四指在前、拇指在後自然遮擋。獲選者雙臂交疊抱盒，各手指節沿盒邊，無多臂；腿足在畫框外不臆測。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "公告照片以圖釘固定，水壺與書冊由雙臂承托，眼鏡鏡腳接耳，母親手掌確實落肩，接觸合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "公告只有人像，測驗紙只有三角、圓、方形，沒有叉號勾號、姓名、題號字母或數字；用品無商標水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "已看全圖與原尺寸：鉛筆輪廓、透明柔和水彩、色鉛筆疊色顆粒及米白紙紋明確；自然綠、淡藍、暖棕，非鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代校門、國小高年級比例男孩與同齡孩子、便服母親，制服與書包合理。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "母親米色外套，兩男孩白衫及藍外套，公告人像也只有素面衣領，無紅領巾或紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "cca147df0ccff72aa85e63795ec62fd75bc18ffd2d77a40fc81f5d975195fb71",
+  "previous_review_archive_path": "records/reviews/c9144edf0426d5559bdfbf519da8efe44ce621f14ff45dc9f553bf94d7b1f7d1.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per PNG; additional native crops of 15 arms, 17 books and 23 books",
+    "comparison_candidates": 142,
+    "comparison_method": "All six sheets actually viewed; candidates selected by whole-catalog perceptual similarity and scene/meaning terms. Additional full 1284 viewed. This does not imply every other artwork was individually re-reviewed."
+  },
+  "meaning_reference": {
+    "moe_meaning": "指應考不中。",
+    "syn": "榜上無名、曝鰓龍門",
+    "ant": "金榜題名、魚躍龍門、雁塔題名"
+  },
+  "webp_src": "img/idioms/8-816343807101.webp",
+  "webp_sha256": "e62af4b7851d873caff4ac90496fb5e12627a2cecfb358feb21f70793f9f05bd"
+}

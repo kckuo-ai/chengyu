@@ -1,0 +1,67 @@
+{
+  "no": 4,
+  "kind": "regenerate",
+  "word": "囫圇吞棗",
+  "path": "/workspace/chengyu-preservation/originals/ff7c340feb4d7a07db7fa299df65419a919004e391fbb8d525691f11d49f2407.png",
+  "original_sha256": "ff7c340feb4d7a07db7fa299df65419a919004e391fbb8d525691f11d49f2407",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-18-redraw-11",
+  "alt": "男孩匆匆翻過植物圖解，接著把水倒進沒有幼苗的空盤，旁邊葉片已經萎垂；老師指向種在土裡的健康盆栽提醒他。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "先看圖解卻未理解根部需要水，後來澆到空盤、幼苗乾枯，與老師指的健康盆栽對照；有錯誤應用後果，不會讀成理解良好或融會貫通。 與 776 分心澆水、976 健康及枯萎盆栽比較，本圖增加閱讀圖解後仍誤用的前後因果，非相同主構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右兩幕保持同一男孩，書中根系、空盤水流與萎垂幼苗均放大，因果在手機畫面可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "兩幕男孩各兩臂接肩肘，翻頁四指可辨且拇指在紙後；持壺一手收指握把，另一手拇指與四指包住壺身。老師指向手收指自然，另一掌五指放桌，無共掌或多臂；下身裁切不臆測腳。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "水由壺口落在空盤，幼苗在旁乾盤；健康盆栽置托盤。書頁連於書脊、顯微鏡與桌面有支撐，壺把接壺身合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "圖解只有完整根系、土壤、壺與水滴；頁邊兩道弧線緊隨翻頁動作，不是獨立字母。書櫃與衣物無可讀文字數字品牌或水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "已看全圖與原尺寸：鉛筆輪廓、透明柔和水彩、色鉛筆疊色顆粒及米白紙紋明確；自然綠、淡藍、暖棕，非鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代國小自然教室、顯微鏡與水槽，素面制服男孩和成人老師比例合理，窗外為台灣常見校舍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩幕男孩均白底藍邊制服，老師白襯衫與綠外套，頸部沒有紅領巾或紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "36bcd8b3108b9e1e458fa3e89722bb87b61403406b9c73c611e74145de5b6e83",
+  "previous_review_archive_path": "records/reviews/d4cfc063bd4e8d391d32952068733e20b413198b14ff9247fd9c40e5a962dd7a.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per PNG; additional native crops of 15 arms, 17 books and 23 books",
+    "comparison_candidates": 142,
+    "comparison_method": "All six sheets actually viewed; candidates selected by whole-catalog perceptual similarity and scene/meaning terms. Additional full 1284 viewed. This does not imply every other artwork was individually re-reviewed."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻理解事物籠統含糊，或為學不求甚解。貶義。",
+    "syn": "不求甚解、生吞活剝",
+    "ant": "窮源竟委、融會貫通"
+  },
+  "webp_src": "img/idioms/4-ff7c340feb4d.webp",
+  "webp_sha256": "d688a9a3f5f7b0bb78f986f69fbc409abc2649c1bfd670303ada2b53aba2ae45"
+}

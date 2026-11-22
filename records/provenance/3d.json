@@ -16947,5 +16947,12 @@
       "path": "backup/batches/2026-11-07-846-847/manifest.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "3d89fadbfb6283e7a5bdd92d41dffb5ccdb37473a8782749c1993ecc9278640a": [
+    {
+      "kind": "current_main_record",
+      "batch": "batch-18-redraw-11",
+      "source": "docs/illustration-prompts.json#entries/18"
+    }
   ]
 }

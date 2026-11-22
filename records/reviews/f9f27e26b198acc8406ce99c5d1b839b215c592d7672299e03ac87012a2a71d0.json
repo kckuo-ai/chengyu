@@ -1,0 +1,67 @@
+{
+  "no": 25,
+  "kind": "regenerate",
+  "word": "滄海桑田",
+  "path": "/workspace/chengyu-preservation/originals/288580faa893ed8cfc4519a3f16b39e4743af9540fdf3bec6fa201d730314003.png",
+  "original_sha256": "288580faa893ed8cfc4519a3f16b39e4743af9540fdf3bec6fa201d730314003",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-18-redraw-11",
+  "alt": "祖父拿著海灣舊照片，女孩指向牆上的農田圖；三幅圖共有同一座缺口山頭，山前景色從海岸變成田地，再變為城鎮。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一缺口山峰在海灣、農田、現代市街三圖及舊照中重複定位，顯示同地長期劇變，並非三個不同地點。 與 610 的老人持昔日照片看現代城市比較，本圖三幅同山形地景加海灣舊照，具獨立的海灣、農田、城市連續構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "祖父舊照在前、三個相同山形大圖橫排在後，女孩指向中間過渡階段，手機能辨過去與現在。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "祖父雙手分握照片兩角，前方四指可辨、拇指在紙後合理遮擋；女孩指向手食指伸出、其餘指節收攏，垂手五指自然，雙鞋落地。圖中完全無小農人或路人。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "照片由雙手承托，三畫框沿同牆懸掛；玻璃櫃及模型放櫃台，兩人站姿重心與地面相接正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "畫作與照片無年號、標題或文字，城市圖只有建築窗格與屋頂水塔，鞋面素色，未見字母數字類字形或品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "已看全圖與原尺寸：鉛筆輪廓、透明柔和水彩、色鉛筆疊色顆粒及米白紙紋明確；自然綠、淡藍、暖棕，非鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "地方文史館、平頂住宅水塔及海岸農田明確，便服祖父與國小制服女孩符合台灣現代場景。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "祖父格衫背心，女孩白制服，舊照與三幅畫完全無人，無紅領巾或紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "176fb1953893a45a8f85014c18a198c9c1aeb1860189c0c90118ae72628ffaf2",
+  "previous_review_archive_path": "records/reviews/8ca26a5d047238853c2fddc066f1ffae121f1314471afdae553730a10e9c1a46.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per PNG; additional native crops of 15 arms, 17 books and 23 books",
+    "comparison_candidates": 142,
+    "comparison_method": "All six sheets actually viewed; candidates selected by whole-catalog perceptual similarity and scene/meaning terms. Additional full 1284 viewed. This does not imply every other artwork was individually re-reviewed."
+  },
+  "meaning_reference": {
+    "moe_meaning": "大海變為陸地，陸地淪為大海。比喻環境變化很大。＆比喻世事無常，變化很快。",
+    "syn": "白雲蒼狗、東海揚塵、高岸為谷、深谷為陵",
+    "ant": "一成不變、依然如故"
+  },
+  "webp_src": "img/idioms/25-288580faa893.webp",
+  "webp_sha256": "25e3113f7aaae24ed36e097c965cb4767c12cb3af2217fd0b30683e95fde75ec"
+}

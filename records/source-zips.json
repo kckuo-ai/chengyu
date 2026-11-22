@@ -1953,5 +1953,75 @@
         "kind": "record"
       }
     ]
+  },
+  {
+    "blob": "e20fc0069fc3cbddcd96f744c502fc38b703175b",
+    "path": "batch-18-redraw-11.zip",
+    "commit": "99dfedf507425ff3dc6afcd00d63ac057e12ebaa",
+    "bytes": 37193357,
+    "sha256": "2e3ae251fc2e924f1de9ff3e5afbb86c823998ced0a3ab534b8eeaf06a577e67",
+    "members": [
+      {
+        "member": "batch-18/2.png",
+        "sha256": "3121281351364e6bd38d2212f7c4344e00cbaa02ee478a42d844bb8683359b06",
+        "kind": "original"
+      },
+      {
+        "member": "batch-18/4.png",
+        "sha256": "ff7c340feb4d7a07db7fa299df65419a919004e391fbb8d525691f11d49f2407",
+        "kind": "original"
+      },
+      {
+        "member": "batch-18/8.png",
+        "sha256": "816343807101d3ed11ccc653622b0ad128dea6827fe5bc695d9de570727fdf33",
+        "kind": "original"
+      },
+      {
+        "member": "batch-18/15.png",
+        "sha256": "2fcfc5da2ebae6fa254ff2ff508d94a3e4dcb1f8ddcff4409306e712fa68e68c",
+        "kind": "original"
+      },
+      {
+        "member": "batch-18/16.png",
+        "sha256": "55d768c860e96f6bd73116d0e5789f53e5d73886bd1e42a4af46b8fb66f0a357",
+        "kind": "original"
+      },
+      {
+        "member": "batch-18/17.png",
+        "sha256": "8624d75d7a99757fe560c88cb9a3462fee5edcd87303f31aa7dfcaa655071e62",
+        "kind": "original"
+      },
+      {
+        "member": "batch-18/18.png",
+        "sha256": "9f627297fcf1b1310a8378e99844a31a6638bf3e14be6ae16947bd9bd8ba13a8",
+        "kind": "original"
+      },
+      {
+        "member": "batch-18/19.png",
+        "sha256": "480104047a0171b3aef20c26540f6763217ff76d92444fdfe7b047fa19c9f6da",
+        "kind": "original"
+      },
+      {
+        "member": "batch-18/21.png",
+        "sha256": "3b4b2ce886afe74e088490b4990d0c6fa390690849a641393deee76ece58018f",
+        "kind": "original"
+      },
+      {
+        "member": "batch-18/23.png",
+        "sha256": "7fa0755cab5facfe083afcd60b6c16974f80d9e7d3b1dddd891351ba023afc8f",
+        "kind": "original"
+      },
+      {
+        "member": "batch-18/25.png",
+        "sha256": "288580faa893ed8cfc4519a3f16b39e4743af9540fdf3bec6fa201d730314003",
+        "kind": "original"
+      },
+      {
+        "member": "batch-18/manifest.json",
+        "sha256": "c8db7884e53e429dc2aa5fa0b98522880122c2f5e9ea72f8d4fead36791440cf",
+        "kind": "record",
+        "record_path": "records/source/c8db7884e53e429dc2aa5fa0b98522880122c2f5e9ea72f8d4fead36791440cf.json"
+      }
+    ]
   }
 ]

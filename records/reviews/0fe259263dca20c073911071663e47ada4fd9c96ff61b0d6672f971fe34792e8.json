@@ -1,0 +1,67 @@
+{
+  "no": 15,
+  "kind": "regenerate",
+  "word": "青出於藍",
+  "path": "/workspace/chengyu-preservation/originals/2fcfc5da2ebae6fa254ff2ff508d94a3e4dcb1f8ddcff4409306e712fa68e68c.png",
+  "original_sha256": "2fcfc5da2ebae6fa254ff2ff508d94a3e4dcb1f8ddcff4409306e712fa68e68c",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-18-redraw-11",
+  "alt": "老師先示範製作簡單陶杯，女孩專心觀察；後來她展示勻整的茶壺，老師微笑讚賞，桌邊放著老師較粗糙的早期作品。",
+  "issues": [
+    "hands_feet_pose: 已另裁右格手臂原尺寸：杯緣上的手掌，其腕部被女孩身體、杯壺遮住；老師袖口下另露一段在陶壺後中止的前臂，無法沿可見輪廓確認兩者相接。女孩自身雙手已托茶壺；不能確定杯緣手的歸屬與接肩，依拿不準即不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "先有教師示範與學生學習，再以學生勻整茶壺對照老師粗糙舊作，師生傳授及超越關係清楚，已避開與 465 相同的鳥形作品構圖。 與 465 的長者、青年各持鳥形作品比較，改為先傳授後超越的陶藝雙幕，避免重複鳥道具。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "兩格大幅師生近景與陶具可辨，示範在左、學成在右，前後順序清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "已另裁右格手臂原尺寸：杯緣上的手掌，其腕部被女孩身體、杯壺遮住；老師袖口下另露一段在陶壺後中止的前臂，無法沿可見輪廓確認兩者相接。女孩自身雙手已托茶壺；不能確定杯緣手的歸屬與接肩，依拿不準即不通過。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "陶杯落在轉盤，學生茶壺由兩掌托底，壺嘴壺把與壺身接合合理；粗糙陶器仍有穩定底部置桌。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "陶器均素面，工具只有實體柄與金屬環，書架無標字，未見字母數字、類字形、品牌或水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "已看全圖與原尺寸：鉛筆輪廓、透明柔和水彩、色鉛筆疊色顆粒及米白紙紋明確；自然綠、淡藍、暖棕，非鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代陶藝教室，成人老師圍裙與國小女孩制服比例合理，無古裝或異國地標。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩幕師生均一般衣領與藍色圍裙肩帶，沒有繞頸的紅領巾或紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "e501ec268c0277dfc7398693bbcfeea95dae72cc0c023668d961c3ecce653af7",
+  "previous_review_archive_path": "records/reviews/15aa02388fba5eea7a69a3915ba70eccd9018a4f11b8e9b5351f18c5332a1317.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per PNG; additional native crops of 15 arms, 17 books and 23 books",
+    "comparison_candidates": 142,
+    "comparison_method": "All six sheets actually viewed; candidates selected by whole-catalog perceptual similarity and scene/meaning terms. Additional full 1284 viewed. This does not imply every other artwork was individually re-reviewed."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻弟子勝過老師，或後輩優於前輩。褒義。",
+    "syn": "冰寒於水、青藍冰水、後來居上、為青為冰",
+    "ant": ""
+  }
+}

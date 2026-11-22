@@ -1,0 +1,67 @@
+{
+  "no": 19,
+  "kind": "regenerate",
+  "word": "一敗塗地",
+  "path": "/workspace/chengyu-preservation/originals/480104047a0171b3aef20c26540f6763217ff76d92444fdfe7b047fa19c9f6da.png",
+  "original_sha256": "480104047a0171b3aef20c26540f6763217ff76d92444fdfe7b047fa19c9f6da",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-18-redraw-11",
+  "alt": "男孩垂肩望著水槽底下散爛沉沒的紙船和濕透貨物，材料盒已空；另一端完好的小船仍載著貨物平穩浮在水面。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "自己的紙船整體散架沉底、貨物散失、空材料盒與濕碎紙顯示成果無法使用；對照完整載物船，呈現全面失敗，已去除棋局圍困的混淆。 已比對 41 及 360、1051 等棋局／小船候選，本圖以整艘沉爛船與耗盡材料呈現無法使用的成果，已去除圍困棋局。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "大水槽左側沉船與右側成功船對比，男孩低頭垂肩與空盒在前景，手機仍能看出整體破敗。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "僅一名男孩，兩臂接各肩並自然垂放，手掌各一拇指四指可辨；兩腿兩鞋由地面支撐，遠景完全無人，沒有額外小手。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "透明水槽有完整桌架承重，水面水平且透視隨槽，完整船浮於水面，碎爛紙與濕貨落底；空盒和膠瓶在桌面，船底支撐無矛盾。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "鞋面素色無標誌，校舍無文字招牌，空盒、膠瓶及紙片無文字數字字母或類字形，無品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "已看全圖與原尺寸：鉛筆輪廓、透明柔和水彩、色鉛筆疊色顆粒及米白紙紋明確；自然綠、淡藍、暖棕，非鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣國小操場與教室走廊，國小男孩素面白衫短褲、帆布鞋，比例及場景合理。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "男孩為白色素面上衣，頸部無領巾、圍巾，背景完全無人。"
+    }
+  },
+  "previous_installed_original_sha256": "fe1fc383f093936029d8facc7687e0b27157352ebbcf3d5e17c79ef4c77a0982",
+  "previous_review_archive_path": "records/reviews/e929d5545ae62e51d020190cf10d0a7137c5cb581c88762f13e34f494c9b46df.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per PNG; additional native crops of 15 arms, 17 books and 23 books",
+    "comparison_candidates": 142,
+    "comparison_method": "All six sheets actually viewed; candidates selected by whole-catalog perceptual similarity and scene/meaning terms. Additional full 1284 viewed. This does not imply every other artwork was individually re-reviewed."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容做事失敗，到了無法收拾的地步。",
+    "syn": "一蹶不振",
+    "ant": "百戰百勝、所向披靡、所向無敵、勢如破竹"
+  },
+  "webp_src": "img/idioms/19-480104047a01.webp",
+  "webp_sha256": "bfc82606b01b7e67c88a7131c879a3a7e90574f1c718f5858a49e4304ce56a75"
+}

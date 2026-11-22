@@ -1,0 +1,67 @@
+{
+  "no": 18,
+  "kind": "regenerate",
+  "word": "含沙射影",
+  "path": "/workspace/chengyu-preservation/originals/9f627297fcf1b1310a8378e99844a31a6638bf3e14be6ae16947bd9bd8ba13a8.png",
+  "original_sha256": "9f627297fcf1b1310a8378e99844a31a6638bf3e14be6ae16947bd9bd8ba13a8",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-18-redraw-11",
+  "alt": "男孩指著狐狸取畫具的圖，側眼看向同樣穿藍圍裙的同學；另一位孩子跟著轉頭，被影射的人抱著畫具，委屈不安。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "講者用斜眼取畫具的狐狸及同款藍圍裙暗示同學，聽者循暗示轉頭、被比擬者委屈；呈現以別的形象間接詆毀，已不再只是耳語說閒話。 已比對 305 與其他指圖、議論候選；本圖狐狸同款藍圍裙的間接比擬及三人視線是獨立線索，非指著被害人貼耳說話。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "單幅大狐狸圖位於講者與受影射者之間，三人的眼神與同款藍圍裙連線清楚，手機可讀間接比擬。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "講者食指伸出、其餘指頭自然收攏，另一張掌五指落桌；聽者雙掌各五指可辨，被影射者雙臂抱透明盒、指節隨盒遮擋，肩肘連接合理，無多臂。畫中狐狸為動物寓意，不誤當真人手。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "畫板有桌上畫架與夾具支撐，畫具盒靠雙臂承托，椅背與桌面接觸合理，瓶筆在盒中不漂浮。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "黑板空白、狐狸圖僅動物及畫具，書脊是素色與空白標籤，沒有姓名、可讀字母數字或獨立類字形；無品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "已看全圖與原尺寸：鉛筆輪廓、透明柔和水彩、色鉛筆疊色顆粒及米白紙紋明確；自然綠、淡藍、暖棕，非鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小美術教室，白衫學童與一位藍圍裙學生的年齡、服裝合理，無古代或異國地標。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "三名孩子與畫中狐狸僅白衫、藍圍裙肩帶，沒有紅領巾或紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "b40234ade3dfd677894488c13912dcf1c33de40b660f1f20e13f6adfd23f2205",
+  "previous_review_archive_path": "records/reviews/aa06eb759c7e1fa1dbc7e39a6f519b6e0277b927b8f3fc213767cc137b342bed.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per PNG; additional native crops of 15 arms, 17 books and 23 books",
+    "comparison_candidates": 142,
+    "comparison_method": "All six sheets actually viewed; candidates selected by whole-catalog perceptual similarity and scene/meaning terms. Additional full 1284 viewed. This does not imply every other artwork was individually re-reviewed."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻間接地詆毀、陷害別人。貶義。",
+    "syn": "指桑罵槐、暗箭傷人",
+    "ant": "光明正大、光明磊落"
+  },
+  "webp_src": "img/idioms/18-9f627297fcf1.webp",
+  "webp_sha256": "674850a4a9456204ac521fbbc78f9f2fdc0f3f09c5a63275e8760bcfab7a4666"
+}

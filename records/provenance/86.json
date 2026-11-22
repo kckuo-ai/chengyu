@@ -14284,5 +14284,13 @@
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470",
       "path": "backup/batches/2026-11-07-842-843/SHA256SUMS"
     }
+  ],
+  "86d01723156c0360b8336d327f215d1a933f227297a48aa6b5588d7703744e43": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-18-redraw-11",
+      "source_file": "4.review.json",
+      "reviewer": "independent-visual-review-2026-11-22"
+    }
   ]
 }
