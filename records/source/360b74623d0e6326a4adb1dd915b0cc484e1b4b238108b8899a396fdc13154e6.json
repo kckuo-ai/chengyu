@@ -1,0 +1,44 @@
+{
+  "no": 1400,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-3-25a2ef6/batch-3/1400.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "女子的布袋破開，毛線球散落地面，她蹲下著急撿拾；坐在旁邊的另一名女子卻轉頭望向窗外，拿著茶杯繼續喝茶而不理會。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "近距離明顯困境與冷淡轉頭喝茶對比，呈不加關心，非單純不知道有人需要幫忙。 已實際查看全圖及原尺寸手腳、泡泡、鞋面和道具裁圖，並比對全站感知雜湊候選566、1385、1292及相關語義圖116、647、682、1244、1286、505、1368；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "地上毛線與撿拾者、旁邊冷淡者並列，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對撿球雙手、握杯及放膝五指自然，手臂接肩；蹲姿腳掌與坐者雙鞋落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "毛線球落地、袋有裂口，杯把由指握、椅腳支撐，無懸浮或穿透。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌、浮水印或不適內容；鞋面接縫與一般物件輪廓不作文字判讀。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "淡紫上衣、暖米白布袋、柔藍椅具有細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代室內等候空間、成年女性一般便服；依現代服裝及建築生活線索確認情境，兒童比例符合國小年齡（無人物者不適用）。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查人物領口：白藍制服或普通素色便服，均無紅領巾或紅圍巾；粉色玩偶蝴蝶結與衣物花色不是紅巾。"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "no": 1327,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2/1327.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "一家人在明亮客廳圍看三箱滿滿的金色硬幣，桌上另放珠寶與多串鑰匙；父母扶著大木箱，孩子們驚喜地笑著。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "多箱錢幣、珠寶、鑰匙與寬敞住宅共同表示財富極多，與貧困空袋相反，未只用車輛品牌暗示。 已視覺比對全站感知雜湊候選136、698、593及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前景三箱硬幣清楚、珠寶鑰匙補充，手機可讀富裕主題。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對父母扶箱手、男孩兩拳與女孩托腮雙手，五指在握持遮擋下自然，肩臂連接無異常。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "大箱底部落桌，兩側由父母扶穩；珠寶盒與鑰匙有桌面支撐，無懸空重物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已移除車輛與廠徽，硬幣空白、書脊純色，無字母數字品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔金色、暖棕木箱與淡紫上衣維持鉛筆、水彩及色鉛筆紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣家庭住宅、國小制服孩子與普通便服家長符合生活場景。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "父親米白襯衫、母親淡紫罩衫、孩子白藍衣領皆無紅巾。"
+    }
+  }
+}

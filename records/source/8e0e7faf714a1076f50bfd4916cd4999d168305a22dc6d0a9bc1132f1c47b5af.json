@@ -1,0 +1,46 @@
+{
+  "no": 1414,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-3-25a2ef6/batch-3/1414.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "男孩想吃櫃內餅乾，安排玩具車、繩索與長夾子取罐；後來他夾到空罐，沮喪抓頭，母親已在後方餐桌擺好了餅乾。",
+  "issues": [
+    "兩格玻璃櫃門都維持關閉，罐子原在玻璃後卻被外側夾子取到，未有開門或可通過的取物路徑，接觸與物理因果不合理。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "費心設置車繩夾子卻只取得空罐，母親另已備好餅乾，呈徒勞心思，非單純等待。 已實際查看全圖及原尺寸手腳、泡泡、鞋面和道具裁圖，並比對全站感知雜湊候選1306、973、869及相關語義圖116、647、682、1244、1286、505、1368；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右計畫與空罐失望、後方母親擺盤連貫，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "托腮及轉柄、抓頭撐地與母親端盤手指結構自然，男孩跪姿合理，肩臂未增肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": false,
+      "evidence": "兩格玻璃櫃門都維持關閉，罐子原在玻璃後卻被外側夾子取到，未有開門或可通過的取物路徑，接觸與物理因果不合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌、浮水印或不適內容；鞋面接縫與一般物件輪廓不作文字判讀。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "暖棕玻璃櫃、淡藍紫玩具車、米白衣具有細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代家庭客廳餐區、國小年齡便服男孩與母親；依現代服裝及建築生活線索確認情境，兒童比例符合國小年齡（無人物者不適用）。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查人物領口：白藍制服或普通素色便服，均無紅領巾或紅圍巾；粉色玩偶蝴蝶結與衣物花色不是紅巾。"
+    }
+  }
+}

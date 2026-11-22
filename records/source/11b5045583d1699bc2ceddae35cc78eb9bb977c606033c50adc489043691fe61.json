@@ -1,0 +1,44 @@
+{
+  "no": 1475,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-11-2653272/batch-11-redraw-6/batch-11/1475.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "父女在展館觀看兩格戰事圖：守方把糧袋搬進城內並關上厚門，來到城外的人只找到空桶與空車，露出苦惱神情。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "前格糧食轉入厚實城牆內，後格城門緊閉、外來敵方找不到補給而苦惱，收糧加固守使敵無法久留的因果清楚，非只有棋子位置變化。 已實際看全圖及六區原像素裁圖，另與更新後圖庫的對照表比較；感知雜湊候選354、1390及相關語義候選未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "兩格同城牆田地、搬糧與敵方空桶對照，手機可讀；前景父女建立展館情境。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "原尺寸核對圖中搬袋握掌、敵方扶桶蓋與攤掌，各五指與自然遮擋合理、臂接肩；前景父女僅背側上身，手在取景外無微小掌。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "糧袋由掌抱住、厚門鉸軸與門栓完整、空桶蓋由掌扶、木車輪軸接車廂落地；展框固定牆，承托透視合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "暖棕城牆糧袋、柔綠衣、淡藍父親格衫；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代歷史展館中的便服父親與國小制服女孩；古裝僅在教學圖畫內，配合本詞作戰策略的必要辨識；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

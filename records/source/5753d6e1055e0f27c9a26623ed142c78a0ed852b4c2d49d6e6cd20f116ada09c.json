@@ -1,0 +1,44 @@
+{
+  "no": 5127,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-12-703022e/extracted/batch-12/5127.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "男孩看見葉子被毛蟲啃破，皺眉推拒觀察盒；老師再拿蜜蜂授粉、植物結果的圖片解釋，他仍閉眼抬頭，攤掌不肯接受。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "對昆蟲的負面看法遇教師提出授粉結果的反證仍不動搖，兩格持續拒絕，採觀念固定難改義，非只畫堅固牢籠。 已實際看全圖及六區原像素裁圖，另與更新後圖庫的五張對照表比較；感知雜湊候選329、716及相關語義候選未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "相同盒子連接前後，證據改變但態度不變，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "逐格男孩張掌與扶盒手、教師攤掌伸指及放桌手各五指，肩臂連接正常；坐姿椅承托無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "觀察盒底落桌、透氣蓋接盒，毛蟲在葉上、畫架有底腳，兩圖片僅授粉與果實無文字。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔綠盒蓋葉片、淡紫教師衣與暖棕桌；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小自然教室、適齡制服男孩與女教師、現代昆蟲觀察器具；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "no": 799,
+  "word": "鉤心鬥角",
+  "path": "/workspace/generated_images/exec-858316bc-3a0a-44c6-8454-7195031506e9.png",
+  "passed": false,
+  "reviewer": "independent-visual-verifier-799",
+  "reviewed_at": "2026-11-06T15:49:00Z",
+  "checks": {
+    "meaning": "fail: the two contestants appear to slide folders near their own stacks; the image does not show that either folder belongs to a rival or that either contestant is plotting against the other",
+    "anatomy_pose_contact": "pass: visible hands, arms, glances and sitting poses are coherent",
+    "objects_physics_perspective": "pass: documents, architectural models and award trophy have plausible support and perspective",
+    "style": "pass: graphite-like outlines, soft watercolor, colored-pencil texture and warm paper grain",
+    "text_brand_safety": "pass: no readable writing, brands, watermark or unsuitable content",
+    "alt": "fail: calling the folders hidden proposals suggests intent the visual does not establish"
+  },
+  "issues": [
+    "The rivals' actions read as moving their own folders, not mutual scheming or sabotage; the core idiom meaning is ambiguous.",
+    "The alt attributes a hidden-proposal action that cannot be confirmed from the image."
+  ],
+  "regenerate": true
+}

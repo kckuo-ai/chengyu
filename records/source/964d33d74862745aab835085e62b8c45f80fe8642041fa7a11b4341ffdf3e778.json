@@ -1,0 +1,46 @@
+{
+  "no": 1371,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2-cbee8cb/batch-2/1371.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "祖母坐在椅上聽兩名孩子講鳥巢與雛鳥的故事，孩子手拿圖卡並用手勢說明；說話泡泡出現相同鳥巢，祖母開心微笑。",
+  "issues": [
+    "只有持圖卡講故事，未交代先前多次聽聞而熟悉，可能是看圖說故事，不能確認耳聞詳述的因果。 已實際看過全圖、手腳泡泡原尺寸裁圖，並比對既有候選1307、106、538及相關語義插圖；未見近乎相同的關鍵構圖。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "只有持圖卡講故事，未交代先前多次聽聞而熟悉，可能是看圖說故事，不能確認耳聞詳述的因果。 已實際看過全圖、手腳泡泡原尺寸裁圖，並比對既有候選1307、106、538及相關語義插圖；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "祖母聆聽、孩子圖卡與口部泡泡清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "祖母張掌、孩子握卡及指圖手指自然，坐姿腳落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "圖卡由手握持，椅腳承重，泡泡為口述圖像非實體物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查衣鞋、道具、紙面及背景，未見可讀文字、字母數字或類文字標記，無品牌、浮水印及不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋；自然草綠、柔藍與暖棕，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣家庭長幼互動、適齡制服孩子與便服祖母；兒童頭身與身高符合國小年齡，場景及服裝支持台灣現代生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一核對全圖及細部的人物領口，均無紅領巾或紅圍巾；獎章掛帶、白色頸巾及道具不作紅巾判讀。"
+    }
+  }
+}

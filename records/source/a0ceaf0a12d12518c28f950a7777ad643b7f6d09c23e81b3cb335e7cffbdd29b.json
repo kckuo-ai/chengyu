@@ -1,0 +1,46 @@
+{
+  "no": 1374,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2-cbee8cb/batch-2/1374.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "畫家坐在畫架前，手持畫筆與調色盤，正在描繪有白雲和河水的山間景色；女孩站在旁邊欣賞，桌上放著水杯與畫具。",
+  "issues": [
+    "只是描繪雲和河水，未有筆勢自然暢達或不拘束的明確證據，容易成字面山水畫。 已實際看過全圖、手腳泡泡原尺寸裁圖，並比對既有候選623、622、1274及相關語義插圖；未見近乎相同的關鍵構圖。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "只是描繪雲和河水，未有筆勢自然暢達或不拘束的明確證據，容易成字面山水畫。 已實際看過全圖、手腳泡泡原尺寸裁圖，並比對既有候選623、622、1274及相關語義插圖；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫家與畫面同在前景，女孩目光引導，手機焦點明確。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持筆與握盤手指自然、女孩手臂完整，畫家坐姿鞋落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "筆尖接畫布、畫架腿承重、調色盤由手托住，水杯畫具落桌。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查衣鞋、道具、紙面及背景，未見可讀文字、字母數字或類文字標記，無品牌、浮水印及不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋；自然草綠、柔藍與暖棕，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代家庭畫室、便服畫家與制服女孩；兒童頭身與身高符合國小年齡，場景及服裝支持台灣現代生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一核對全圖及細部的人物領口，均無紅領巾或紅圍巾；獎章掛帶、白色頸巾及道具不作紅巾判讀。"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "no": 1344,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2/1344.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "女孩滿身汗與泥仍笑著掃落葉，身旁已有幾籃收好的葉子；老師坐在涼亭遞毛巾，遠處長者開心走過整理好的步道。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "汗、泥污與多籃落葉交代持續辛勞，女孩仍笑著主動拿掃帚，表達甘心承受而非勉強抱怨。 已視覺比對全站感知雜湊候選721、374、696及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "近景女孩笑臉與掃帚、累積葉籃相鄰，長者只作受益背景。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對擦汗、握掃帚、教師遞布放膝手及女孩單膝跪姿雙鞋；露出手指合理，肩臂無錯接。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "掃帚末端接葉堆、葉籃落地、毛巾由兩人握持，教師坐椅與鞋底接石階。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "掃具、毛巾、制服及涼亭無文字字母數字品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔草綠、暖棕葉片與淡藍白衣具鉛筆、水彩色鉛筆及米白紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣社區菜園涼亭、白藍國小制服、便服教師長者符合生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "教師米白衣圍裙、孩子白藍衣領、長者素色上衣皆無紅巾。"
+    }
+  }
+}

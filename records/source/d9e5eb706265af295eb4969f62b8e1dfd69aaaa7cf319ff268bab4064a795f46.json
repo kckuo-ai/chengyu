@@ -1,0 +1,18 @@
+{
+  "no": 809,
+  "word": "兢兢業業",
+  "path": "/workspace/generated_images/exec-3eeedee5-c00b-4d2b-abb7-fe1856b7e99d.png",
+  "passed": true,
+  "reviewer": "independent-visual-verifier-809",
+  "reviewed_at": "2026-11-06T16:35:57.446651+00:00",
+  "checks": {
+    "meaning": "pass: the crossing guard watches traffic closely, holds a stop paddle and deliberately guides children across, conveying careful responsibility",
+    "anatomy_pose_contact": "pass: guard holds paddle with one hand and guides with the other; children and second guard have coherent visible limbs and walking poses",
+    "objects_physics_perspective": "pass: cars have aligned wheels and remain behind the crossing; zebra stripes, curb and school entrance align; children walk across safely",
+    "style": "pass: pencil contours, soft watercolor, colored-pencil shading and warm paper texture",
+    "text_brand_safety": "pass: no readable words or logos, watermark, collision or unsafe behavior",
+    "alt": "pass: describes actual guard, children and stopped cars without stating the idiom"
+  },
+  "issues": [],
+  "regenerate": false
+}

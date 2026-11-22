@@ -1,0 +1,47 @@
+{
+  "no": 1389,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2-cbee8cb/batch-2/1389.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "玩具盒突然彈出裝著彈簧的小丑，男孩嚇得臉色發白，張大嘴巴並舉起雙手；母親站在身旁伸手安撫他，桌上的盒蓋已打開。",
+  "issues": [
+    "原尺寸及放大確認男孩畫面左側張掌有拇指加五根其餘指，共六指；不通過。其餘臂肩與腿腳正常。",
+    "男孩一鞋外側有三條平行藍色斜紋，形成運動品牌式標記；不符合無品牌要求。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "突如其來玩具使男孩驚恐失色及舉手，呈極度害怕，非字面靈魂飛走。 已實際看過全圖、手腳泡泡原尺寸裁圖，並比對既有候選710、305、523及相關語義插圖；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "彈出物與驚恐男孩相對，母親安撫作輔，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "原尺寸及放大確認男孩畫面左側張掌有拇指加五根其餘指，共六指；不通過。其餘臂肩與腿腳正常。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "彈簧連盒與玩偶、盒底落桌，母親安撫手貼肩，支撐可辨。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "男孩一鞋外側有三條平行藍色斜紋，形成運動品牌式標記；不符合無品牌要求。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋；自然草綠、柔藍與暖棕，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代家庭桌遊環境、白藍制服孩子與母親；兒童頭身與身高符合國小年齡，場景及服裝支持台灣現代生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一核對全圖及細部的人物領口，均無紅領巾或紅圍巾；獎章掛帶、白色頸巾及道具不作紅巾判讀。"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "no": 1648,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-10-48cd224/batch-10-part-2/batch-10-part-2/1648.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "男孩不聽女孩勸阻，蹲在庭院亂轉灑水器，水噴向長椅；另一格接頭已鬆開，水管彎向他頭頂，把他淋得全身濕透。",
+  "issues": [
+    "右格水管一端是男孩雙手間拆開的空接頭，另一端在頭頂噴水，中間為同一段完整彎管且無任何供水連接；兩端均開放仍持續噴水不合理，objects_contact_perspective不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "明知勸阻仍惡作劇操弄灑水器，後果回到自己身上，呈盲動終致自害的引申義，非只畫真火。 已實際看全圖及六區原像素裁圖，另與七張既有圖庫對照表、1458原圖比較；感知雜湊候選453、868及相關語義候選未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "兩格勸阻與自受後果清楚，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "兩格男孩握接頭雙手與女孩張掌每掌五指正常，臂接肩；男孩蹲膝、女孩鞋腳落地合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": false,
+      "evidence": "右格水管一端是男孩雙手間拆開的空接頭，另一端在頭頂噴水，中間為同一段完整彎管且無任何供水連接；兩端均開放仍持續噴水不合理，objects_contact_perspective不通過。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "自然草綠、柔藍白制服與暖棕長椅；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣家庭庭院、適齡孩子與家用灑水設備；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

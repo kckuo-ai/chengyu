@@ -1,0 +1,44 @@
+{
+  "no": 1536,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-13-3075d6c/extracted/batch-13/1536.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "老師先教女孩縫好布袋，接著女孩示範穿線器的用法；老師照著試，成功把粗線穿過針眼，露出驚喜，兩人都開心微笑。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "教師先示範縫針、女孩跟學，後女孩提供穿線工具而教師模仿成功驚喜，雙方學到方法並獲益，已補足教師也進步的關鍵。 已實際看全圖及六區原像素裁圖，另與更新後圖庫的五張對照表比較；感知雜湊候選721、713及相關語義候選，另已實際看5115與5144；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右角色教與學位置交換、成品布袋連接成果，手機可讀雙向增益。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "逐格兩人握針扶布、持穿線器與握線掌五指結構及工具遮擋自然，臂接肩；下肢桌後取景外無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "針尖接布、針腳沿布邊，右格教師穿線器金屬環穿入大針眼並帶線，粗線連續、針袋與針插落桌，工具結構可辨。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔紫線與穿線器、米白布袋及暖棕桌；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小安全鈍針縫紉教學、適齡女孩與普通圍裙教師，無品牌工具；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

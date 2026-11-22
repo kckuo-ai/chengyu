@@ -1,0 +1,46 @@
+{
+  "no": 1339,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-1/1339.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "青年站在公園台階上舉手拿擴音器號召清理垃圾，居民與學生戴上手套、拿著夾子和提籃，面向他熱切回應。",
+  "issues": [
+    "中央男孩雙手合在胸前，前方綠色大提籃卻懸在腰前，沒有手握、吊帶或台面支撐；原尺寸仍不能找到受力接點。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "擴音器、張口舉臂與居民準備清潔工具回應，明確表達大力號召公益行動，非默不作聲。 已檢視全站感知雜湊篩出的近構圖候選1123、303、442，以及同類道具與近義詞情境比較圖。未見同樣關鍵道具、人物關係與因果的近乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "青年位於台階高處、眾人視線集結，手機能辨擴音器及號召姿態。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "裁圖核對舉掌五指、持擴音器手、戴手套與握夾子手；關節連接正常，站立青年雙鞋接地。"
+    },
+    "objects_contact_perspective": {
+      "passed": false,
+      "evidence": "中央男孩雙手合在胸前，前方綠色大提籃卻懸在腰前，沒有手握、吊帶或台面支撐；原尺寸仍不能找到受力接點。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "擴音器、背心、圖板及籃子無可讀字母數字或品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "草綠樹與淡米背心、棕階梯使用鉛筆線、水彩色鉛筆顆粒及米白紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區公園志工活動、白藍制服國小生與便服長者符合生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "青年米色背心、成人素色便服及兒童白藍制服皆無紅巾。"
+    }
+  }
+}

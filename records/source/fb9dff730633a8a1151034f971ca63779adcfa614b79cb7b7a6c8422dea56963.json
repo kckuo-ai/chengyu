@@ -1,0 +1,44 @@
+{
+  "no": 1401,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-3-25a2ef6/batch-3/1401.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "女孩抱著剛從紙盒取出的兔子玩偶，眼睛彎起、張嘴開心大笑；母親站在旁邊溫柔看著她，門邊鞋櫃整齊放著素色鞋。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "得到玩偶心中喜悅，眼眉舒展且笑容燦爛，情緒直接符合，非勉強假笑。 已實際查看全圖及原尺寸手腳、泡泡、鞋面和道具裁圖，並比對全站感知雜湊候選47、32、582及相關語義圖116、647、682、1244、1286、505、1368；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "抱玩偶女孩為主，母親與開盒為輔，手機表情清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女孩抱兔雙手五指結構自然、母親垂手正常，肩臂相連，雙方鞋腳著地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "兔身由兩手抱住、盒與盒蓋靠桌，鞋放架上，櫃鞋無懸空支撐錯誤。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌、浮水印或不適內容；鞋面接縫與一般物件輪廓不作文字判讀。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔粉兔耳、淡米白衣、暖棕鞋櫃具有細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代住宅玄關、國小制服女孩及便服母親；依現代服裝及建築生活線索確認情境，兒童比例符合國小年齡（無人物者不適用）。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查人物領口：白藍制服或普通素色便服，均無紅領巾或紅圍巾；粉色玩偶蝴蝶結與衣物花色不是紅巾。"
+    }
+  }
+}

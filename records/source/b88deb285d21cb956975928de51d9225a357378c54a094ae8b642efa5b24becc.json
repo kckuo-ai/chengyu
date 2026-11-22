@@ -1,0 +1,46 @@
+{
+  "no": 1301,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-1/1301.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "居民與穿制服的孩子伸掌制止一名低頭男子，他手握連根拔起的花株，腳邊散落倒盆與泥土，旁邊停著垃圾車。",
+  "issues": [
+    "畫面只見拔花、倒盆與眾人制止，未能辨明男子蓄意為私利破壞或惡行天地不容的程度，也可能只是失誤後遭責備，容易讀成1053眾矢之的。 已檢視全站感知雜湊篩出的近構圖候選842、755、160，以及同類道具與近義詞情境比較圖。未見同樣關鍵道具、人物關係與因果的近乎相同構圖。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "畫面只見拔花、倒盆與眾人制止，未能辨明男子蓄意為私利破壞或惡行天地不容的程度，也可能只是失誤後遭責備，容易讀成1053眾矢之的。 已檢視全站感知雜湊篩出的近構圖候選842、755、160，以及同類道具與近義詞情境比較圖。未見同樣關鍵道具、人物關係與因果的近乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左方群眾與右方男子對峙清楚，但大群人物分散對惡行本身的注意。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "逐一核對伸掌者五指、園丁肩臂、男子握花手與前排孩子鞋腳；可見手指分岔正常，腳踩步道。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "花株根與泥土相連，花盆倒在地面、人物鞋底接地，車身與路面透視未見明顯異常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "車尾、盆器、制服與工具上未見可讀字或字母數字，未見品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "綠葉、暖棕步道與柔淡膚色以鉛筆線及水彩色鉛筆紙紋呈現。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "公寓陽台、黃色垃圾車、社區花圃與藍白國小制服符合現代台灣生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "居民穿素色襯衫、園丁綠圍裙、孩子白上衣，無人佩戴紅領巾或紅圍巾。"
+    }
+  }
+}

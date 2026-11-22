@@ -1,0 +1,46 @@
+{
+  "no": 1383,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-3-25a2ef6/batch-3/1383.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "男子把獎章收入抽屜並換上樸素工作服；在蔬果店，訪客拿著他受獎的照片詢問，店員茫然攤手，他躲在貨架後面觀看。",
+  "issues": [
+    "原尺寸獎章中央清楚有數字1，另已檢查訪客照片及服裝；數字違反全圖無數字要求。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "換裝藏獎章後，面對持本人照片的訪客刻意躲避，店員不知身分，已呈隱瞞真實身分的因果。 已實際查看全圖及原尺寸手腳、泡泡、鞋面和道具裁圖，並比對全站感知雜湊候選79、624、1329及相關語義圖116、647、682、1244、1286、505、1368；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "上格準備、下格躲避與查問三方清楚，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對放紙、提獎章、扣衣、訪客持照片、店員攤掌及躲藏者扶柱手，五指結構自然、臂接肩。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "獎章由緞帶握持、抽屜有滑軌，照片由雙手握邊，蔬果由籃架承托，手扶柱自然。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "原尺寸獎章中央清楚有數字1，另已檢查訪客照片及服裝；數字違反全圖無數字要求。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "暖棕貨架、柔綠工作服與蔬果具有細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代住宅及蔬果店、普通成人工作服與訪客便服；依現代服裝及建築生活線索確認情境，兒童比例符合國小年齡（無人物者不適用）。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "獎章紅白藍掛帶及照片中細長紅領帶均非領巾；實景人物普通襯衫及工作服無紅領巾或紅圍巾。"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "no": 1371,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-3-25a2ef6/batch-3/1371.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "白天與傍晚，祖母向孩子講築巢、孵蛋及餵雛的故事；隔日在校園，孩子不用圖卡，便用手勢與圖像泡泡向同學完整轉述。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "先聽祖母分段講同一故事，後無提示完整轉述三階段，清楚建立聽熟而詳知的因果。 已實際查看全圖及原尺寸手腳、泡泡、鞋面和道具裁圖，並比對全站感知雜湊候選130、480、984及相關語義圖116、647、682、1244、1286、505、1368；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "上兩格聽聞、下大格轉述，泡泡各以嘴部尾端相連，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "逐格核對祖母張掌及合掌、孩子托腮、張掌及轉述手勢，各手五指結構自然，肩臂連接合理；腿腳在取景外。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "鳥巢枝條承托蛋雛，泡泡為言語圖像，孩子手肘靠膝或自然抬手，座椅支撐正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌、浮水印或不適內容；鞋面接縫與一般物件輪廓不作文字判讀。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔紫祖母外衣、淡綠樹與暖米白沙發具有細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣家庭祖孫與國小校園、適齡白藍制服孩子；依現代服裝及建築生活線索確認情境，兒童比例符合國小年齡（無人物者不適用）。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查人物領口：白藍制服或普通素色便服，均無紅領巾或紅圍巾；粉色玩偶蝴蝶結與衣物花色不是紅巾。"
+    }
+  }
+}

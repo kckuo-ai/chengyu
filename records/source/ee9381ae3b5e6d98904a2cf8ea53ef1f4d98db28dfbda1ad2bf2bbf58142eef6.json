@@ -1,0 +1,44 @@
+{
+  "no": 1375,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2-cbee8cb/batch-2/1375.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "女孩用抹布仔細擦拭自己的餐桌，空餐盒、碗與筷子整齊放在一旁；另一名女孩抱著球等待，她仍先把桌面清理乾淨。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "有遊戲邀請仍先完成用餐後的本分，呈守職分不妄求，非毫無情境的掃地。 已實際看過全圖、手腳泡泡原尺寸裁圖，並比對既有候選827、348、474及相關語義插圖；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "擦拭桌面為主、持球同學為輔，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "壓布手與垂手、同學持球雙手五指自然，肩肘相接且鞋著地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "抹布貼桌、餐盒碗筷有桌面支撐，皮球由雙手抱持。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查衣鞋、道具、紙面及背景，未見可讀文字、字母數字或類文字標記，無品牌、浮水印及不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋；自然草綠、柔藍與暖棕，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小午餐後教室與白藍制服；兒童頭身與身高符合國小年齡，場景及服裝支持台灣現代生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一核對全圖及細部的人物領口，均無紅領巾或紅圍巾；獎章掛帶、白色頸巾及道具不作紅巾判讀。"
+    }
+  }
+}

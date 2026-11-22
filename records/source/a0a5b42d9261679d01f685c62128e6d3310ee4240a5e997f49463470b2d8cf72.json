@@ -1,0 +1,44 @@
+{
+  "no": 5139,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-12-703022e/extracted/batch-12/5139.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "導覽員指向展館大畫，畫中女子戴冠坐在主位，指著城池地圖決策，男子低頭聽令；女孩背著書包，專心觀看這段歷史。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "歷史圖中女性居最高決策位、男性官員聽令，呈女性掌權，非母雞報時的字面，也沒有將所有女性領導描成不當。 已實際看全圖及六區原像素裁圖，另與更新後圖庫的五張對照表比較；感知雜湊候選1245、82及相關語義候選未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "女主位、指圖與男官聽令關係突出，現代導覽框住史畫，手機可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "史畫女子指圖與放桌五指、官員雙垂掌五指結構正常；實景導覽員伸指與攤掌、女孩握背帶手均正常，臂接肩，無小人物。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "女主坐椅支撐、地圖在桌、畫框固定牆；展示櫃有框座，指地圖不穿模，徽章素面無字。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "低飽和紫金史服、柔藍現代衣與暖棕畫框；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代歷史展館、便服女導覽員與適齡制服女孩；古裝與政權象徵限於歷史教材圖內；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

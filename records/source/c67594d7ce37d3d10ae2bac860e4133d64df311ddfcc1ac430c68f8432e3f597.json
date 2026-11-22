@@ -1,0 +1,46 @@
+{
+  "no": 1331,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2/1331.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "老師指著家人包餃子的圖卡，同學展示相符的料理四格圖，男孩卻拿著火箭與太空人的作品，抓頭察覺題材不同。",
+  "issues": [
+    "右下太空衣胸口兩枚橘色徽記近似8，下面另有似C等細記號；原尺寸及二倍仍無法排除字母數字，按保守門檻失敗。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "黑板指定包餃子、同學料理四格與男孩太空四格相對照，清楚表達內容和題目不符。 已視覺比對全站感知雜湊候選853、1231、712及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "題目圖上置、兩份作品並列，差異手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對教師指示手、男孩抓頭及握畫板、女孩持板與圖中捏餃子手；指部遮擋自然，無明顯多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "畫板由手持且下緣靠桌，紙張與桌面接觸，圖中廚具及太空器皆在圖畫內。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "右下太空衣胸口兩枚橘色徽記近似8，下面另有似C等細記號；原尺寸及二倍仍無法排除字母數字，按保守門檻失敗。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "淡藍太空圖、暖棕教室與白衣有鉛筆、水彩、色鉛筆及紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代國小教室、白藍制服、家庭包餃子作業符合台灣學習情境。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "教師米白罩衫與白藍制服全體無紅領巾或紅圍巾。"
+    }
+  }
+}

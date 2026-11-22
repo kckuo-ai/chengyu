@@ -1,0 +1,23 @@
+{
+  "description": "Frozen batch of 1 independently reviewed and registered idiom illustrations, catalog 840 to 841. Prior backups retained.",
+  "baseline_catalog_count": 840,
+  "final_catalog_count": 841,
+  "count": 1,
+  "created_at": "2026-11-07T13:34:54.875578+00:00",
+  "entries": [
+    {
+      "no": 892,
+      "word": "烏合之眾",
+      "original": "originals/892.png",
+      "original_source_path": "/workspace/generated_images/exec-dbf4c659-686f-4db4-8a23-dd111ee87446.png",
+      "sha256": "7caddeb981106bb74967375e97b546a0222f5502ac975efa1fee2878d8240dba",
+      "metadata": "metadata/892.json",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "現代公園臨時清潔活動，許多志工各自拿不同工具、朝不同方向工作，紙箱、垃圾袋和推車堆在路中央造成混亂；協調員在一旁舉手想統整大家，呈現暫時湊合而缺乏組織與紀律的一群人。",
+      "alt": "公園清潔活動中，志工各自朝不同方向拿工具工作，垃圾袋和紙箱堆在路中央，協調員舉手試圖整隊。",
+      "review": "reviews/892.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/892.webp"
+    }
+  ]
+}

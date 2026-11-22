@@ -1,0 +1,44 @@
+{
+  "no": 1575,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-10-48cd224/batch-10-part-1/batch-10-part-1/1575.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "花店女子低頭整理花束，面容秀麗，旁邊婦人微笑欣賞她；花朵映著柔和陽光，桌上花瓶與枝葉襯托出溫柔神情。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "以成年女子秀美容貌及旁人欣賞反應呈美貌，採形容女子美麗義，無魚雁沉落的字面拼圖，也無性感化。 已實際看全圖及六區原像素裁圖，另與七張既有圖庫對照表、1458原圖比較；感知雜湊候選776、982及相關語義候選未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "面容為主焦點、花束陪襯，手機可辨秀麗神情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "捏花與握莖雙手拇指四指自然，婦人觀賞掌五指正常，肩臂相連；下肢取景外無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "花莖在掌中、花瓶底貼桌、花枝插瓶口，無懸浮花束或斷柄。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔粉花朵、淡綠枝葉與暖棕桌；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代無招牌花店、普通便服成年女子與顧客；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

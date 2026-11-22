@@ -1,0 +1,46 @@
+{
+  "no": 1327,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-1/1327.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "一家人在寬敞客廳展示多箱金色硬幣，桌上放著寶石與多串鑰匙，窗外可見大宅、花園和停放數輛車的車棚。",
+  "issues": [
+    "窗外三輛車的水箱罩正中出現圓形及近似星形廠徽；雖無可讀車牌，仍有疑似品牌標識，按保守門檻不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "多箱錢幣、寶石、房車與多串鑰匙共同表示財富極多，不是單純獲獎或一文不名。 已檢視全站感知雜湊篩出的近構圖候選209、66、1146，以及同類道具與近義詞情境比較圖。未見同樣關鍵道具、人物關係與因果的近乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前景錢箱明確，車屋較小但提供補充，手機能辨財富主題。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "裁圖核對父母托箱手與女孩取幣手、放桌手；手臂接肩、握指合理，腿腳由桌面遮擋。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "木箱由雙方托底與扶邊、錢幣放箱內，寶石鑰匙落桌，箱蓋鉸鏈可見，無懸浮。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "窗外三輛車的水箱罩正中出現圓形及近似星形廠徽；雖無可讀車牌，仍有疑似品牌標識，按保守門檻不通過。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "暖棕箱桌、淡藍車與柔和金色硬幣採鉛筆水彩色鉛筆及暖紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代家庭衣著、白藍國小制服與庭園住宅可作台灣當代情境，未單憑臉孔推定國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "父母西裝襯衫罩衫與孩子白藍制服均無紅領巾或紅圍巾。"
+    }
+  }
+}

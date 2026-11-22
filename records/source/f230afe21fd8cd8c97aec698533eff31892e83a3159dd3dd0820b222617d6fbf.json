@@ -1,0 +1,44 @@
+{
+  "no": 1388,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2-cbee8cb/batch-2/1388.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "老師先用說話泡泡介紹蛹變蝴蝶，女孩仍疑惑地聽著；另一格她親眼看見玻璃箱內蝴蝶破蛹展翅，睜大眼睛露出驚喜笑容。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "先聽解說仍不明、後親見理解的因果清楚，符合聽聞不及實見，非單純昆蟲課。 已實際看過全圖、手腳泡泡原尺寸裁圖，並比對既有候選830、76、757及相關語義插圖；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "兩格相同師生與實物對照，表情轉變明確。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "教師攤掌、女孩扶桌及觀察手指自然，臂接肩，站姿鞋落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "蝴蝶攀枝並連蛹，玻璃箱底靠桌、桌腳接地，箱體透視合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查衣鞋、道具、紙面及背景，未見可讀文字、字母數字或類文字標記，無品牌、浮水印及不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋；自然草綠、柔藍與暖棕，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小自然觀察活動、白藍制服及教師；兒童頭身與身高符合國小年齡，場景及服裝支持台灣現代生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一核對全圖及細部的人物領口，均無紅領巾或紅圍巾；獎章掛帶、白色頸巾及道具不作紅巾判讀。"
+    }
+  }
+}

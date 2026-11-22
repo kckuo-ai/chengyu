@@ -1,0 +1,46 @@
+{
+  "no": 1342,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2/1342.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "母親和兩名孩子站在人行道，男孩指向中央公園周圍的道路；各方向連接學校、公車站、市場與住宅，往來路線清楚。",
+  "issues": [
+    "右側市場門內小招牌仍有近似A、M或其他字形的灰色筆畫，原尺寸與二倍均可見，未達完全無類文字要求。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "環路分向學校、車站、市場與住宅，交通便利可辨，非只畫單條路；已減少過多小人物。 已視覺比對全站感知雜湊候選1217、431、632及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "中央放射道路配少量前景大人物，手機主次較上批清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對母親垂手、孩子抓肩帶與指路手及三人鞋腳，指部遮擋自然、無多肢，腳踩步道。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "公車輪胎接地、車棚椅與道路透視合理，人物有腳底支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "右側市場門內小招牌仍有近似A、M或其他字形的灰色筆畫，原尺寸與二倍均可見，未達完全無類文字要求。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "自然綠樹、淡藍車與暖棕住宅以鉛筆水彩色鉛筆及紙紋呈現。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "市場遮雨棚、公車站、現代校舍與白藍國小制服支持台灣社區設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "母親米白襯衫、孩子白藍制服，無紅領巾或紅圍巾。"
+    }
+  }
+}

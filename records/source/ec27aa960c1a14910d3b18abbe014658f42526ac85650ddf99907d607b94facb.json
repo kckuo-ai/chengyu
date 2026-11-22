@@ -1,0 +1,44 @@
+{
+  "no": 1394,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-4-redraw-7/batch-4/1394.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "女孩伸手求助，米色衣男孩仍折斷她的鉛筆，綠衣同學抱著自己的筆盒轉頭不理；另格綠衣同學的筆也被折斷，驚訝後悔。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "先見女孩求助而綠衣男孩轉頭放任，後見同一破壞者折他的綠盒內鉛筆，所有權及禍患回到自己已清楚，非一般目擊破壞。 已實際查看全圖與原尺寸手腳、衣鞋、紙面及物件裁圖，並比對全站感知雜湊候選420、1220、1128及相關語義圖518、1244、1239、855、1194、1386、1332、1385、1370、1379；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "兩格用紫綠筆盒及固定衣色辨人，主因與結果清楚，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "原尺寸檢查女孩張掌五指、兩次折筆握拳、綠衣抱盒及托盒雙手，手腕連肩正常；座椅下可見鞋腳踩地自然，未見多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "雙手握斷筆相對兩端，筆盒抱在身前或放桌、斷筆落桌，桌椅及鞋有支撐，未有尖端接觸人體。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "鉛筆無印字、筆盒及黑板空白，衣鞋素面；全圖未見文字、字母、數字、類字形、品牌、浮水印或不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔紫綠米色上衣、暖棕課桌、淡綠窗景可見細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋；非鮮豔扁平或3D，1536×1024符合橫式3:2。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小教室、適齡孩子普通素色便服與校舍窗景；依現代建築服裝及生活線索確認設定，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "三名孩子均為普通圓領或翻領衣服，全體頸部無紅領巾或紅圍巾。"
+    }
+  }
+}

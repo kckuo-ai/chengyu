@@ -1,0 +1,23 @@
+{
+  "description": "Frozen batch of 1 independently reviewed and registered idiom illustrations, catalog 841 to 842. Prior backups retained.",
+  "baseline_catalog_count": 841,
+  "final_catalog_count": 842,
+  "count": 1,
+  "created_at": "2026-11-07T14:19:58.978930+00:00",
+  "entries": [
+    {
+      "no": 893,
+      "word": "逆來順受",
+      "original": "originals/893.png",
+      "original_source_path": "/workspace/generated_images/exec-fd743e4d-fcd2-4ab6-a3cf-ce3af6d1da93.png",
+      "sha256": "a4822d5ec86c3957fbb788d5df89a7e3c35900bee1a2b04aef0ef311bb9f377c",
+      "metadata": "metadata/893.json",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "現代校園分組作業，一名安靜學生被兩位偷懶隊友把大量清潔用品和箱子都交給他，隊友在旁休息；學生低頭默默抱著負擔走向儲藏室，老師察覺分工不均、伸手關心協助，呈現順從接受不合理待遇的情境並保留反思。",
+      "alt": "兩名隊友休息時把大量清潔用品交給安靜學生，學生低頭默默搬運，老師察覺分工不均而走來協助。",
+      "review": "reviews/893.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/893.webp"
+    }
+  ]
+}

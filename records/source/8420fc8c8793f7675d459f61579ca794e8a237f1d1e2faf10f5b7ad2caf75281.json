@@ -1,0 +1,44 @@
+{
+  "no": 1513,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-10-48cd224/batch-10-part-1/batch-10-part-1/1513.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "男子靠近婦人耳邊說悄悄話，泡泡裡畫著摩天輪；另一格他和長者站在空地旁討論，兩人的泡泡也都有相同設施。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一摩天輪傳聞從耳語擴散到多人討論，而現場仍是空地，採傳聞議論紛紛義，非事情已實現或單人自言自語。 已實際看全圖及六區原像素裁圖，另與七張既有圖庫對照表、1458原圖比較；感知雜湊候選838、489及相關語義候選未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右相同傳聞圖像與不同聽者，泡泡大且不用文字，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "耳語掩口、對話攤掌與長者手掌指節自然，五指及遮擋合理，臂接肩；可見鞋腳接地，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "泡泡內摩天輪輪輻為結構，現場圍欄接地、人物手接臉姿勢合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔藍綠衣、暖棕圍欄與淡綠空地；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣社區街角閒談、便服居民與現代摩天輪圖像；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

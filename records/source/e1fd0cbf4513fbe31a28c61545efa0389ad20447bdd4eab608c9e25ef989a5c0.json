@@ -1,0 +1,23 @@
+{
+  "description": "Frozen batch of 1 independently reviewed and registered idiom illustrations, catalog 842 to 843. Prior backups retained.",
+  "baseline_catalog_count": 842,
+  "final_catalog_count": 843,
+  "count": 1,
+  "created_at": "2026-11-07T14:29:34.970123+00:00",
+  "entries": [
+    {
+      "no": 894,
+      "word": "啞口無言",
+      "original": "originals/894.png",
+      "original_source_path": "/workspace/generated_images/exec-a0c130ca-5e9e-408a-ad83-1416c677dd96.png",
+      "sha256": "8eefd3393e53472198cef1fbf51b2b1be1f0344b6274d3fa789fe01d55939e81",
+      "metadata": "metadata/894.json",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "現代教室辯論，學生拿著麥克風自信報告，另一名同學指向桌上的簡單浮沉實驗模型、指出模型推翻原先說法；原本報告的學生睜大眼睛、閉口沉默而無法回答，老師在講台主持，呈現遭駁斥後無言以對。",
+      "alt": "學生拿著麥克風報告時，另一名同學指向推翻說法的浮沉實驗模型，學生驚訝地沉默無法回答。",
+      "review": "reviews/894.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/894.webp"
+    }
+  ]
+}

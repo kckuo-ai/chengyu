@@ -1,0 +1,18 @@
+{
+  "no": 799,
+  "word": "鉤心鬥角",
+  "path": "/workspace/generated_images/exec-00217e18-084b-41ce-a102-b5cee5a8ab21.png",
+  "passed": true,
+  "reviewer": "independent-visual-verifier-799-rev1-retry",
+  "reviewed_at": "2026-11-06T15:54:59.626074+00:00",
+  "checks": {
+    "meaning": "pass: blue-clad rival visibly conceals a red opponent rook and red-clad rival conceals a blue opponent knight while they exchange deceptive smiles; mutual scheming is unambiguous",
+    "anatomy_pose_contact": "pass: each rival has two coherent arms and natural hand contact with a hidden chess piece; judge holds diagram sheet with plausible hands",
+    "objects_physics_perspective": "pass: board and remaining pieces rest on the table, concealed pieces are gripped inside clothing pockets",
+    "style": "pass: graphite pencil contours, soft watercolor, colored pencil shading, ivory paper texture",
+    "text_brand_safety": "pass: no readable words, brand, watermark or unsuitable content",
+    "alt": "pass: accurately describes hiding opponent-color pieces without stating the idiom"
+  },
+  "issues": [],
+  "regenerate": false
+}

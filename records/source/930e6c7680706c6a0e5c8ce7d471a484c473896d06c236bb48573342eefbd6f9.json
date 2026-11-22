@@ -1,0 +1,44 @@
+{
+  "no": 1349,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2/1349.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "同學皺眉指著男孩的陶土小貓批評，女孩緊握雙手擔心；男孩卻閉眼微笑，放鬆拿著工具，沒有被對方的態度影響。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "指責者皺眉指物與旁人擔憂，對比被批評者閉眼笑、手臂放鬆，呈現毫不在意以笑置之。 已視覺比對全站感知雜湊候選419、671、1135及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "三張表情與中央作品相鄰，手機能辨負面反應對比平靜笑容。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對取木片、桌面放掌、批評指示手、女孩雙拳及教師扶桌，五指結構合理，無多臂。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "陶貓置木板、工具接桌、手肘有桌面支撐，陶作與櫃中物品未懸浮。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "陶貓只有五官、衣物與陶具沒有文字字母數字品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "暖棕陶土、白藍衣服與柔綠窗景有鉛筆水彩色鉛筆紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代國小陶藝教室、白藍運動制服與圍裙教師符合台灣校園。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "全體學生白藍上衣、教師米白襯衫棕圍裙，頸部無紅巾。"
+    }
+  }
+}

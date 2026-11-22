@@ -1,0 +1,47 @@
+{
+  "no": 1329,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-1/1329.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "男子站在空攤桌旁打開沒有硬幣的錢包，另一手攤向空桌與紙箱；附近攤位擺滿書和玩具，人們正挑選物品。",
+  "issues": [
+    "空錢包、空攤桌和空箱也可能表示貨賣完、忘帶貨或暫時缺錢，不能穩定傳達什麼都沒有；桌椅帳棚本身仍在。 已檢視全站感知雜湊篩出的近構圖候選266、242、632，以及同類道具與近義詞情境比較圖。未見同樣關鍵道具、人物關係與因果的近乎相同構圖。",
+    "左側書攤多本書脊出現成串近似文字或數字的細記號，未達無文字符號要求；未見浮水印。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "空錢包、空攤桌和空箱也可能表示貨賣完、忘帶貨或暫時缺錢，不能穩定傳達什麼都沒有；桌椅帳棚本身仍在。 已檢視全站感知雜湊篩出的近構圖候選266、242、632，以及同類道具與近義詞情境比較圖。未見同樣關鍵道具、人物關係與因果的近乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "空桌留白強烈、男子姿態清楚，旁人交易場景容易把故事導向售罄。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "裁圖核對攤掌五指、持錢包手與雙鞋，手腕接臂、腳踩草地，無明顯多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "空錢包由掌托住、桌棚與紙箱都有地面支撐，箱瓣透視未見異常。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "左側書攤多本書脊出現成串近似文字或數字的細記號，未達無文字符號要求；未見浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "草綠地、棕紙箱與米白桌布採鉛筆線、水彩色鉛筆顆粒及紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代社區市集、簡易帳棚、便服成人與白藍制服兒童符合台灣生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "主角米白罩衫綠內衫、周圍成人便服與白制服孩子均無紅巾。"
+    }
+  }
+}

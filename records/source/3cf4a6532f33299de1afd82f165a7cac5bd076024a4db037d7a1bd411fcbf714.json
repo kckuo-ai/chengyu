@@ -1,0 +1,44 @@
+{
+  "no": 1351,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2/1351.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "夏天老師拉下遮陽簾並開電扇，孩子喝水消暑；另一格天冷下雨，她收起電扇，孩子穿外套在室內伸展，做法隨季節改變。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "晴熱短袖喝水遮陽、冷雨加衣室內運動及罩起電扇，明確依不同季節採適宜措施，非無關活動拼接。 已視覺比對全站感知雜湊候選1148、740、139及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "兩格同窗與教室對位，樹葉和天候、衣著變化清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對拉簾雙手、握水壺、罩風扇手、上舉交握與側彎放腰手；肩肘連接、五指遮擋合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "簾鏈與卷簾連接，風扇固定牆上、罩袋由手綁束，學生站坐位置有地面或椅支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "書脊純色、桌面無文字，水壺風扇無字母數字品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "淡藍風扇、柔綠窗景與粉綠外套採鉛筆水彩色鉛筆及米白紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣國小教室、白藍校服與普通保暖外套符合季節生活情境。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "白藍衣領及粉綠外套均無紅領巾或紅圍巾。"
+    }
+  }
+}

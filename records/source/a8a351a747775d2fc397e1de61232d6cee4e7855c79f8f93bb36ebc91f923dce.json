@@ -1,0 +1,44 @@
+{
+  "no": 1364,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-3-25a2ef6/batch-3/1364.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "風雨中父親關緊窗戶，女孩把盆栽放到室內矮凳；雨停後窗外有斷枝與倒桶，父女看著完整盆栽，笑著互相比出拇指。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "先見強風及關窗保護，後見窗外斷枝但父女、玻璃和盆栽完好，危險及平安結果清楚。 已實際查看全圖及原尺寸手腳、泡泡、鞋面和道具裁圖，並比對全站感知雜湊候選375、1268、150及相關語義圖116、647、682、1244、1286、505、1368；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "上下同一窗凳與父女，風雨前後對照，手機辨識容易。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "放大核對推窗雙手、女孩托盆及下格比拇指握拳與放膝手，指節自然，臂接肩；腿腳為畫面裁切而非缺肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "手貼窗框、玻璃完整，盆底靠凳，窗外枝桶落地，父親坐沙發、女孩屈膝自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌、浮水印或不適內容；鞋面接縫與一般物件輪廓不作文字判讀。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "淡藍風雨、暖棕窗凳、柔綠葉具有細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代住宅、滑動窗與便服父親及適齡制服女孩；依現代服裝及建築生活線索確認情境，兒童比例符合國小年齡（無人物者不適用）。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查人物領口：白藍制服或普通素色便服，均無紅領巾或紅圍巾；粉色玩偶蝴蝶結與衣物花色不是紅巾。"
+    }
+  }
+}

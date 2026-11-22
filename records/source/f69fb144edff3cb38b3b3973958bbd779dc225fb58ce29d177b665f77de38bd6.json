@@ -1,0 +1,44 @@
+{
+  "no": 1355,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2/1355.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "老師坐在操場旁指著自己，向孩子展示以前落後跑步及後來成功的照片；孩子們圍過來專心聽，從他的經歷得到鼓勵。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "自指與相冊失敗到成功的個人照片連起親身經驗，前方孩子握拳受鼓舞，具備用自身經歷勸導而非空口訓話。 已視覺比對全站感知雜湊候選439、17、498及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "成人自指、相冊大圖與聽眾環繞，手機可辨個人經歷來源。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對自指與指照手、孩子扶膝雙手、成人蹲姿兩腿鞋腳及照片內肢體，無明顯增缺。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "相冊放在成人膝腿前由手臂固定，鞋踩草地；紙頁連於書脊而非懸浮卡片。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "相冊只有人物照片，運動服與跑道無字母數字品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔綠草地、暖紅跑道、白衣與自然膚色有鉛筆水彩色鉛筆紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小操場、白上衣深藍短褲及適齡孩子、體育教師符合現代校園。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "師生白運動上衣領口均無紅領巾或紅圍巾。"
+    }
+  }
+}

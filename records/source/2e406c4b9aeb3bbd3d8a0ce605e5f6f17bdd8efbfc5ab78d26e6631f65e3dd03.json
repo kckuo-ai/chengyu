@@ -1,0 +1,44 @@
+{
+  "no": 1391,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-3-25a2ef6/batch-3/1391.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "男子穿著整齊西裝，靠坐在柔軟扶手椅上翹著腿，神情悠閒；服務人員把茶壺、茶杯及點心送到桌上，窗外是整潔花園。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "優裕住宅、講究服裝及專人送茶，呈自處尊貴與生活優裕，不只是一般休息；與921孩子受全家服侍情境不同。 已實際查看全圖及原尺寸手腳、泡泡、鞋面和道具裁圖，並比對全站感知雜湊候選443、934、129及相關語義圖116、647、682、1244、1286、505、1368；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "坐者為主、奉茶為輔，環境舒適明確，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "坐者兩手放扶手、服務者雙手托盤各五指結構自然；翹腿一鞋懸起有腿支撐、另一鞋及服務者雙鞋落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "盤子兩手握邊且放桌，杯壺點心有底托，椅腳與桌腳接地，透視正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌、浮水印或不適內容；鞋面接縫與一般物件輪廓不作文字判讀。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "米白扶手椅、暖棕西裝桌、柔綠花園具有細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代庭園住宅、成年男子西裝與服務者普通襯衫圍裙；依現代服裝及建築生活線索確認情境，兒童比例符合國小年齡（無人物者不適用）。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查人物領口：白藍制服或普通素色便服，均無紅領巾或紅圍巾；粉色玩偶蝴蝶結與衣物花色不是紅巾。"
+    }
+  }
+}

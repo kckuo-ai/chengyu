@@ -1,0 +1,44 @@
+{
+  "no": 1465,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-9-a0c4ede/batch-9/1465.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "父親與女孩坐在木亭長椅上，放下背包，微笑欣賞山景；清澈溪流穿過苔石與花木，遠處青山和薄霧層層展開。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "山林青溪花木與安全可坐的木亭共同呈極優美舒適的山中勝境，採引申義；比世外桃源更著重名山景色與舒適，非只畫隔絕村落。 已看全圖及原尺寸手腳、泡泡、鞋面和工具裁圖，並實際比較六張既有圖庫對照表，含感知雜湊候選1171、998、48與相關語義候選；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "親子在左、山溪在右展開，亭柱作框景，手機可讀景色與舒適休息。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "四張放膝手可核實拇指與四指，肩肘連接自然，父女雙腳著地且椅面承重；無其他小人物。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "背包靠椅、木亭梁柱與椅腳有支撐，溪流沿石隙向下，步道欄杆連續，無不合理接觸。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸逐區核對人物衣鞋、背景、器具與泡泡，未見可讀文字、字母、數字、類字形標記、品牌或浮水印，無不適內容。登山鞋側面為與鞋帶眼相連的鞋面補強片，非獨立字樣或可辨商標。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "自然柔綠山林、淡藍霧與暖棕亭木保留細鉛筆輪廓、透明柔和水彩與色鉛筆疊色顆粒、米白紙紋；非鮮豔扁平或3D，1536×1024為橫式3:2。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣山林休憩步道、便服父親與國小年齡制服女孩、普通登山背包；以現代生活道具、建築與服裝確認情境，非僅從面孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "實際核對所有人物領口與全圖：制服、普通素色便服或圍裙，均無紅領巾或紅圍巾；紅色上衣、圍裙及舞臺幕不屬領巾。"
+    }
+  }
+}

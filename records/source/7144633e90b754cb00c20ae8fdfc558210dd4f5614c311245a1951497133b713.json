@@ -1,0 +1,44 @@
+{
+  "no": 1479,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-9-a0c4ede/batch-9/1479.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "男孩在明亮球具室攤開手掌，指向共用球架，桌上布袋敞開露出水壺；老師微笑拿著籃球，準備當面借給他。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "敞開布袋、公開向教師申借共用球、平視端正站姿共同呈光明正大不藏掖，與鬼鬼祟祟相反，未以頒獎代替品行。 已看全圖及原尺寸手腳、泡泡、鞋面和工具裁圖，並實際比較六張既有圖庫對照表，含感知雜湊候選1323、795、724與相關語義候選；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "男孩透明公開的動作、教師球與敞袋構成焦點，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對男孩伸指及五指攤掌、教師雙手托球五指結構，肩臂相連；男孩可見雙鞋落地，教師腿取景外。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "球由雙手側下方承托，球架層板及輪腳有支撐，敞袋水壺落桌，無懸浮器材。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸逐區核對人物衣鞋、背景、器具與泡泡，未見可讀文字、字母、數字、類字形標記、品牌或浮水印，無不適內容。腕錶無數字，僅素面與指針結構；球紋為球體接縫。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "暖棕桌、淡藍白制服與柔橙籃球保留細鉛筆輪廓、透明柔和水彩與色鉛筆疊色顆粒、米白紙紋；非鮮豔扁平或3D，1536×1024為橫式3:2。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小球具室、操場背景、教師普通襯衫及制服學生；以現代生活道具、建築與服裝確認情境，非僅從面孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "實際核對所有人物領口與全圖：制服、普通素色便服或圍裙，均無紅領巾或紅圍巾；紅色上衣、圍裙及舞臺幕不屬領巾。"
+    }
+  }
+}

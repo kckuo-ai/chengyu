@@ -1,0 +1,18 @@
+{
+  "no": 816,
+  "word": "移花接木",
+  "path": "/workspace/generated_images/exec-f0fc2221-fa90-4d66-b49e-ef976814b2ad.png",
+  "passed": true,
+  "reviewer": "independent-visual-verifier-816-retry",
+  "reviewed_at": "2026-11-06T17:01:19.853903+00:00",
+  "checks": {
+    "meaning": "pass: buyer looks away as seller hides a richly painted real vase under the counter and places a similar fake with plastic ribbed underside into the gift box; assistant notices",
+    "anatomy_pose_contact": "pass: seller uses one hand for the real vase and the other for the fake; buyer points at shelf; assistant leans on counter with coherent hands and limbs",
+    "objects_physics_perspective": "pass: real vase rests on lower shelf, fake is held above padded gift box, lid rests on counter, underside seam is visible; perspective is plausible",
+    "style": "pass: graphite pencil contours, soft watercolor and colored-pencil layering on warm ivory paper texture",
+    "text_brand_safety": "pass: no readable text, brand, watermark, violence or other inappropriate content",
+    "alt": "pass: accurately describes visible switch and surprised assistant without full idiom answer"
+  },
+  "issues": [],
+  "regenerate": false
+}

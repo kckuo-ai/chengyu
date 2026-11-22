@@ -1,0 +1,21 @@
+{
+  "no": 790,
+  "word": "醉生夢死",
+  "path": "/workspace/generated_images/exec-f78cbeb9-4f72-45de-9c17-d60fee710eda.png",
+  "passed": false,
+  "reviewer": "independent-visual-verifier-790",
+  "reviewed_at": "2026-11-06T15:00:00Z",
+  "checks": {
+    "meaning": "fail: one daylight moment of resting on a couch does not clearly show repeated aimless days or dissolute living; the person could simply be tired or unwell",
+    "anatomy_pose_contact": "pass: two arms and legs, supported reclining posture and plausible hands",
+    "objects_physics_perspective": "pass: couch, dishes, blank television, calendar and plant have coherent placement",
+    "style": "pass: pencil outlines, soft watercolor, colored-pencil shading and warm paper texture",
+    "text_brand_safety": "pass: no readable words, branding, watermark or unsafe content; nevertheless the exhausted appearance risks equating illness with the pejorative meaning",
+    "alt": "pass: describes visible scene and does not contain the complete idiom"
+  },
+  "issues": [
+    "The idiom's repeated aimless or indulgent way of life is not unmistakable from a single couch-rest scene.",
+    "The exhausted appearance can read as illness or depression, which would weaken the meaning and risk stigmatizing someone who needs rest."
+  ],
+  "regenerate": true
+}

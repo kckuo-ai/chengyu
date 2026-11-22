@@ -1,0 +1,46 @@
+{
+  "no": 1326,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-1/1326.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "左格一家人忙著接漏水、拖地與搬開濕鞋；右格工人修妥水龍頭後，地面乾燥、鞋子整齊，家人安心向他致謝。",
+  "issues": [
+    "右下藍色鞋面有醒目的三條平行斜帶，近似可辨識運動品牌識別；依拿不準即失敗規則，無法通過品牌檢查。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "兩格同一水龍頭從漏水導致多項收拾到修妥後皆解除，主因結束連帶問題消除可辨；與784修屋頂情境不同。 已檢視全站感知雜湊篩出的近構圖候選947、666、985，以及同類道具與近義詞情境比較圖。未見同樣關鍵道具、人物關係與因果的近乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右同位置物件便於比對，水龍頭和地面前後狀態在手機上仍可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "原尺寸核對持盆、拖把、搬鞋、工人工具袋握手及蹲跪腳；關節和可見手指自然，未見額外手腳。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "盆接滴水、拖把貼地，鞋子與凳面接觸、工具袋被握住，支撐及透視合理。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "右下藍色鞋面有醒目的三條平行斜帶，近似可辨識運動品牌識別；依拿不準即失敗規則，無法通過品牌檢查。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "淡藍盆、暖棕磁磚與自然綠景用鉛筆線、透明水彩、色鉛筆顆粒與米白底。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台北地標遠景、磁磚陽台、現代維修服與白藍國小制服支持台灣家庭設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "家人素色衣與白制服、工人藍工作服，所有人物頸部無紅領巾或紅圍巾。"
+    }
+  }
+}

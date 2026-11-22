@@ -1,0 +1,44 @@
+{
+  "no": 1389,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-3-25a2ef6/batch-3/1389.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "彈簧小丑突然從玩具盒跳出，男孩嚇得臉色發白、張大嘴巴，舉起雙手往後縮；母親站在身旁，輕輕扶著他的肩膀安撫。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "突現玩具造成臉色發白、流汗張嘴與後縮，清楚呈極端驚恐，非一般驚喜。 已實際查看全圖及原尺寸手腳、泡泡、鞋面和道具裁圖，並比對全站感知雜湊候選921、1003、1254及相關語義圖116、647、682、1244、1286、505、1368；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "男孩驚恐與彈出小丑相對，母親為輔，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "兩張掌原尺寸各一拇指加四指，母親扶肩手自然；肩臂及坐姿腿腳正常，鞋踩地且無斜紋商標。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "彈簧連盒內及玩偶、盒底落桌，母親手貼肩、椅腳承重，無錯接。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌、浮水印或不適內容；鞋面接縫與一般物件輪廓不作文字判讀。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔藍白制服、暖棕桌、低彩度黃盒具有細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代家庭客廳、國小制服男孩與便服母親；依現代服裝及建築生活線索確認情境，兒童比例符合國小年齡（無人物者不適用）。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查人物領口：白藍制服或普通素色便服，均無紅領巾或紅圍巾；粉色玩偶蝴蝶結與衣物花色不是紅巾。"
+    }
+  }
+}

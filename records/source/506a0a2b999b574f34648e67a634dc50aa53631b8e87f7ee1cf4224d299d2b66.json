@@ -1,0 +1,44 @@
+{
+  "no": 1361,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2/1361.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "孩子摀著肚子低頭站在麵包店門外，母親拿空袋求助；店員想遞出麵包，老闆卻抱臂伸掌制止，冷淡地轉頭不理。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "飢餓孩子與母親求助、店員同情欲給麵包，老闆仍冷臉拒絕，清楚呈現不為感情所動，與菩薩心腸相反。 已視覺比對全站感知雜湊候選272、414、1279及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "求助者在左、拒絕者右側大幅面，店員提供態度對照，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對老闆攤掌五指與抱臂手、母親撐袋兩手、孩子按腹垂手及店員托麵包手，接肩與關節自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "麵包由雙手托住，空袋由兩邊握口下垂，櫃架支撐麵包盤，人物未懸浮。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "麵包店無招牌文字，包裝、廚師服及衣物無字母數字品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "暖棕麵包店、米白廚師服與淡紫衣服具鉛筆水彩色鉛筆及紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代街邊麵包店、白藍制服孩子與當代工作服便服符合情境。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "廚師立領無領巾、店員棕頭巾圍裙，母子衣領均無紅領巾或紅圍巾。"
+    }
+  }
+}

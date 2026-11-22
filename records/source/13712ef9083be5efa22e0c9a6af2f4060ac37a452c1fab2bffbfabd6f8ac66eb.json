@@ -1,0 +1,44 @@
+{
+  "no": 1326,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-1-134a449/batch-1/1326.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "全家因鑰匙不見而拿不到鎖櫃內的書包、雨傘和布袋；另一格母親找到鑰匙開門，三人各自取好用品，笑著準備出門。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一把鎖阻擋全家取三種用品，找到一把鑰匙開同一櫃後三項困擾同步解除，根源與連帶結果清楚，非各自完成無關工作。 已檢視全站感知雜湊候選300、1141、72及607、400等相關情境的既有圖；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右相同人物櫃位、左格可見物品與右格各人持物對照，手機可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "原尺寸核對孩子兩掌各五指、右格抓肩帶雙手、父親握傘與母親持鑰抓門手，各臂連肩；三人鞋腳踩地自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "掛鎖扣住雙門把、右格門有鉸鏈支撐，書包肩帶承重、雨傘握柄、布袋掛臂，無懸空物或工具錯接。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "鑰匙與鎖為正常物件輪廓，櫃子、布袋、書包及鞋面無字母數字、文字、品牌或浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔藍書包、暖棕櫃與淡粉罩衫採鉛筆線、水彩及色鉛筆疊色，米白紙紋清楚。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代家庭玄關、鞋架、國小白藍制服與父母普通便服符合情境。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "父親白襯衫、母親粉罩衫、孩子白藍衣領，兩格全體無紅巾。"
+    }
+  }
+}

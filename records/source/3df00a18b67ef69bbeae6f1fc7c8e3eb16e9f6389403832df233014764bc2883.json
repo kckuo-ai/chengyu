@@ -1,0 +1,44 @@
+{
+  "no": 1365,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2-cbee8cb/batch-2/1365.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "女孩拿海綿擦掉石頭表面的泥土，露出原本被遮住的螺旋化石；老師與男孩靠近觀看，驚喜地望向托盤中的新發現。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "泥土遮蔽到擦除露出本來面貌，呈現揭示真相，非僅字面山景。 已實際看過全圖、手腳泡泡原尺寸裁圖，並比對既有候選90、459、1022及相關語義插圖；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "海綿、泥面與化石對比集中，人物視線指向揭露處。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持海綿、扶托盤、老師及男孩手指核對正常，肩臂相接，鞋落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "海綿貼石，泥水留托盤，石塊及托盤由桌支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查衣鞋、道具、紙面及背景，未見可讀文字、字母數字或類文字標記，無品牌、浮水印及不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋；自然草綠、柔藍與暖棕，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小探究教室、白藍制服及教師；兒童頭身與身高符合國小年齡，場景及服裝支持台灣現代生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一核對全圖及細部的人物領口，均無紅領巾或紅圍巾；獎章掛帶、白色頸巾及道具不作紅巾判讀。"
+    }
+  }
+}

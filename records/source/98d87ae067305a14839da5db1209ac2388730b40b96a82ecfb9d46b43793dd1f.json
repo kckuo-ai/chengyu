@@ -1,0 +1,44 @@
+{
+  "no": 5120,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-12-703022e/extracted/batch-12/5120.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "水壺旁的桌面灑了水，男孩先扶穩壺身，再拿布從容擦拭；容易碰倒的玻璃花罩已安置在托盤，老師在旁欣賞他的處理。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "遇灑水不慌，扶穩水壺、保護易碎物並擦乾，孩子處理事務沉著有條理，成人讚許，呈年紀小卻穩重，非外貌蒼老。 已實際看全圖及六區原像素裁圖，另與更新後圖庫的五張對照表比較；感知雜湊候選1104、1457及相關語義候選未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "男孩扶壺擦水與教師欣賞同框，桌上處理優先順序可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男孩扶壺五指及壓布掌清楚，老師合掌為兩手正常重疊、指根腕臂相連，無多指；兩人雙鞋著地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "抹布貼水痕、壺底落桌、花罩在托盤有支撐，盆栽與木塊架落桌，無浮物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔藍壺、暖棕桌與自然盆綠；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小活動教室、適齡制服男孩與普通圍裙女教師；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

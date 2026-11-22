@@ -1,0 +1,46 @@
+{
+  "no": 1331,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-1/1331.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "老師指著一家人包餃子的圖畫，男孩卻拿出火箭與太空人的四格作品；同學都在畫餃子，他抓著後腦露出困惑。",
+  "issues": [
+    "男孩畫板後方書櫃的黃綠與紫色書脊帶有成列近似字形或數字的金色小記號；依無類文字門檻判不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "指定的包餃子圖、同學相符作品與男孩完全不同的太空四格形成題材不符的清楚對比；圖像敘事可代替不可出現的文章文字。 已檢視全站感知雜湊篩出的近構圖候選1299、443、509，以及同類道具與近義詞情境比較圖。未見同樣關鍵道具、人物關係與因果的近乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右主題圖相鄰，男孩抓頭與老師指示連起差異，手機能辨兩種題材。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "裁圖核對指示手、抓畫上緣手、各持筆手，指部與肩臂自然；腿腳多被桌面遮擋，未見額外肢體。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "畫板由手扶住、紙張置桌、筆尖接紙，桌椅腳落地，太空圖只在紙上。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "男孩畫板後方書櫃的黃綠與紫色書脊帶有成列近似字形或數字的金色小記號；依無類文字門檻判不通過。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "淡藍紫太空圖、暖棕桌與白制服有鉛筆線、水彩疊色、色鉛筆粒及米白紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代國小教室、白藍制服與家庭包餃子主題符合台灣兒童學習情境。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "教師棕罩衫、孩子白藍制服，所有頸部沒有紅巾。"
+    }
+  }
+}

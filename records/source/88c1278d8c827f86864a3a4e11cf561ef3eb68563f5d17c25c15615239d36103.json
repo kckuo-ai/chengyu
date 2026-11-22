@@ -1,0 +1,47 @@
+{
+  "no": 1342,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-1/1342.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "以中央公園為核心，多條道路通往學校、市場、公車站與住宅；人們步行往來，河邊另有孩子戴安全帽騎腳踏車。",
+  "issues": [
+    "原尺寸仍有市場、校門及公車站多名人物的手只有小色塊，無法核實每手五指；自行車上的腿腳也部分重疊難辨，依拿不準即失敗。",
+    "原尺寸檢查車輪、車把、腳踏接點及人行道；未發現確定懸浮，但微小車架與腳部交疊使物理細節確認受限。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "中央環路連接學校、市場、公車與住宅四向出口，交通便利的意思可從道路配置讀出，未畫成封閉死路。 已檢視全站感知雜湊篩出的近構圖候選981、958、66，以及同類道具與近義詞情境比較圖。未見同樣關鍵道具、人物關係與因果的近乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "道路放射結構清楚，但人物與交通工具眾多，手機上人體細節過小。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "原尺寸仍有市場、校門及公車站多名人物的手只有小色塊，無法核實每手五指；自行車上的腿腳也部分重疊難辨，依拿不準即失敗。"
+    },
+    "objects_contact_perspective": {
+      "passed": false,
+      "evidence": "原尺寸檢查車輪、車把、腳踏接點及人行道；未發現確定懸浮，但微小車架與腳部交疊使物理細節確認受限。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "招牌車牌均未印文字，路面虛線與斑馬線是交通設施，未見字母數字或品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "自然草綠、淡藍水面與棕建築採水彩、鉛筆及色鉛筆粒，紙底可見。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣校園、市場雨棚、低樓住宅、公車與河岸自行車道提供明確生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "近遠景人物均為素色便服或白藍制服，未見紅領巾或紅圍巾。"
+    }
+  }
+}

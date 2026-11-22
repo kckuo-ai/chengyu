@@ -1,0 +1,44 @@
+{
+  "no": 5133,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-12-703022e/extracted/batch-12/5133.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "雨水從破棚布不斷滴入育苗盤，幼苗泡在水中低垂；男子垂著雙手坐在旁邊，明明桌上有新棚布和空盤，卻沒有動作。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "災情正持續且有可用替換棚布、空盤能救苗，主人卻垂手消沉任其敗壞，呈危難中不設法而坐等毀敗的引申義，非已無工具可救。 已實際看全圖及六區原像素裁圖，另與更新後圖庫的五張對照表比較；感知雜湊候選1171、957及相關語義候選未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "破棚雨水、瀕危苗與閒置補救物分布清楚，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "兩張垂手各五指，肩肘腕連接正常；坐椅支身、兩鞋接地，無被綁手字面。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "水由棚洞落盤溢出再滴地，苗根在土盤，棚桿繩結連接、備布與空盤落桌，桌椅承托正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔藍灰雨布、自然綠苗與暖棕木桌；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣家庭育苗庭院、現代便服圍裙成人與家用棚架，無傷亡；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

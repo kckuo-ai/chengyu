@@ -1,0 +1,44 @@
+{
+  "no": 1406,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-3-25a2ef6/batch-3/1406.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "女孩坐在圓桌旁，笑著攤開手掌向老師說明樹蔭、長椅、水瓶和花圃等想法；老師雙手放桌，專心看著她，安靜聆聽。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "女孩自然張口攤掌，泡泡包含多項想法且教師耐心聽，呈自在充分表達，非吞吐畏縮。 已實際查看全圖及原尺寸手腳、泡泡、鞋面和道具裁圖，並比對全站感知雜湊候選417、1217、1077及相關語義圖116、647、682、1244、1286、505、1368；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "一人說一人聽與大型言語泡泡清楚，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女孩張掌各五指、另一手放桌，教師雙手交疊正常，肩臂連接、坐姿雙鞋踩地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "圓桌腿、椅腳落地，手肘靠桌，泡泡僅表達想法圖像，無物件錯接。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌、浮水印或不適內容；鞋面接縫與一般物件輪廓不作文字判讀。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔藍白制服、淡黃教師外套、暖棕桌具有細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小討論空間、國小女孩與便服教師；依現代服裝及建築生活線索確認情境，兒童比例符合國小年齡（無人物者不適用）。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查人物領口：白藍制服或普通素色便服，均無紅領巾或紅圍巾；粉色玩偶蝴蝶結與衣物花色不是紅巾。"
+    }
+  }
+}

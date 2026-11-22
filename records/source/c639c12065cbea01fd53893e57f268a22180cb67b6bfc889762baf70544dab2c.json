@@ -1,0 +1,23 @@
+{
+  "description": "Frozen batch of 1 independently reviewed and registered idiom illustrations, catalog 835 to 836. Prior backups retained.",
+  "baseline_catalog_count": 835,
+  "final_catalog_count": 836,
+  "count": 1,
+  "created_at": "2026-11-07T12:48:07.943952+00:00",
+  "entries": [
+    {
+      "no": 886,
+      "word": "馬革裹屍",
+      "original": "originals/886.png",
+      "original_source_path": "/workspace/generated_images/exec-35074e29-204a-4903-8482-580ec7774661.png",
+      "sha256": "b6e3bbeaa5fe8b77667aa243eb9bf8654476788ced1c65963911b78d49aaaa32",
+      "metadata": "metadata/886.json",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "歷史博物館的兒童展覽，以非血腥立體模型呈現：披甲騎士騎馬奔向遠方城堡，前景紅色披風包裹著空的儀仗鎧甲並置於紀念石旁，導覽員和孩子隔著繩索莊重觀看，表現英勇效命沙場與犧牲精神。",
+      "alt": "博物館裡，孩子觀看騎士奔赴城堡的模型，以及紀念石旁用披風包裹的空鎧甲。",
+      "review": "reviews/886.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/886.webp"
+    }
+  ]
+}

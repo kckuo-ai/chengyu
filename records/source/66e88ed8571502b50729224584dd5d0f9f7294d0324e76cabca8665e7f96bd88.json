@@ -1,0 +1,46 @@
+{
+  "no": 1586,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-13-3075d6c/extracted/batch-13/1586.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "山路被落石和倒木堵住，暴雨仍不停；兩名穿雨衣的成人放下背包，前傾用力推避難屋的木門，希望進屋取得庇護。",
+  "issues": [
+    "原尺寸另看門框裁圖，兩枚鉸鏈葉片只固定在門板，軸右側卻是通透門縫，沒有連到固定門框的另一葉片；門板缺少合理固定支撐，無法確認可按所畫方式被推開，objects_contact_perspective不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "後路被落石倒木完全堵住、暴雨中只能爭取避難，兩人全力推門求生，無退路而奮力一搏的引申義清楚，非普通落後球賽振作。 已實際看全圖及六區原像素裁圖，另與更新後圖庫的五張對照表比較；感知雜湊候選5120、516及相關語義候選，另已實際看5115與5144；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "阻斷後路在左、奮力求庇護在右，手機可辨絕境與行動。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男者兩推掌、女者可見推掌五指清楚，女者另一臂在軀幹後自然遮擋，雙臂肩連接正常；四鞋落地、弓步承重自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": false,
+      "evidence": "原尺寸另看門框裁圖，兩枚鉸鏈葉片只固定在門板，軸右側卻是通透門縫，沒有連到固定門框的另一葉片；門板缺少合理固定支撐，無法確認可按所畫方式被推開，objects_contact_perspective不通過。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔綠黃雨衣、暖棕木門與自然山綠；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣山區步道與避難屋、便服成年巡護人員，無受傷者或危險中的兒童；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

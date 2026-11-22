@@ -1,0 +1,46 @@
+{
+  "no": 1376,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2-cbee8cb/batch-2/1376.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "女孩掀開覆蓋模型的布，露出精緻的大城堡；男孩站在桌旁，雙眼睜大、嘴巴張開，雙手垂在身側，驚訝地看著新發現。",
+  "issues": [
+    "男孩深藍鞋外側後跟有金色V形字母標記，原尺寸及二倍裁圖可辨；不符合無類字母要求。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "突見大城堡後眼張口開，符合驚訝發愣，非恐懼失魂。 已實際看過全圖、手腳泡泡原尺寸裁圖，並比對既有候選1355、1240、391及相關語義插圖；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "揭布女孩與驚訝男孩夾住模型，焦點清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女孩持布雙手與男孩垂手五指正常，臂接肩，雙鞋落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "布由手掀起自然下垂，城堡底座及桌腳穩定，無懸浮結構。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "男孩深藍鞋外側後跟有金色V形字母標記，原尺寸及二倍裁圖可辨；不符合無類字母要求。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋；自然草綠、柔藍與暖棕，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小模型展示及白藍制服；兒童頭身與身高符合國小年齡，場景及服裝支持台灣現代生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一核對全圖及細部的人物領口，均無紅領巾或紅圍巾；獎章掛帶、白色頸巾及道具不作紅巾判讀。"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "no": 1340,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2/1340.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "兩名女孩各自支持種花與折紙提案，老師攤掌徵詢中間男孩；下一格大家等他回應，他仍閉口坐著，雙手放在膝上。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "上格兩邊已表示支持、教師徵詢男孩，下格眾人轉向等待而男孩仍閉口不支持任何方，補足受詢後不表態的前後因果。 已視覺比對全站感知雜湊候選1315、1167、188及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "上下對位、兩圖保留位置，中央平靜者清楚可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對兩女孩指圖與拇指、後格交握手、教師攤掌五指與男孩膝上雙手，肩肘相連自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "提案圖置桌、女孩肘靠桌、男孩手貼膝，坐椅與桌面支撐一致。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "兩圖只有花盆與紙鶴，黑板空白，未見文字字母數字品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "草綠黑板、暖棕桌與白藍衣服有細鉛筆線、水彩色鉛筆及紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代國小小組討論、白藍制服與便服教師符合台灣校園。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "學生白藍衣領、老師米白襯衫均無紅領巾或紅圍巾。"
+    }
+  }
+}

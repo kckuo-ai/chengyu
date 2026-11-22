@@ -1,0 +1,44 @@
+{
+  "no": 1378,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2-cbee8cb/batch-2/1378.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "高個男孩拿走女孩的粉紅鉛筆盒，女孩在後面哭泣；另一名男孩挺身張掌阻止，並伸手指向附近老師，老師轉頭關切。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "面對搶物挺身制止、尋求老師協助，清楚呈現看到不義勇於行動，非只爭玩具。 已實際看過全圖、手腳泡泡原尺寸裁圖，並比對既有候選545、496、1322及相關語義插圖；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "攔阻者前景最大，受害者、拿盒者與老師形成因果。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "張掌五指及指教師手、拿盒雙手與女孩合手自然，臂接肩且鞋踩地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "鉛筆盒由手握持，文具無懸浮，走廊桌椅支撐正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查衣鞋、道具、紙面及背景，未見可讀文字、字母數字或類文字標記，無品牌、浮水印及不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋；自然草綠、柔藍與暖棕，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小走廊、白藍制服及附近教師；兒童頭身與身高符合國小年齡，場景及服裝支持台灣現代生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一核對全圖及細部的人物領口，均無紅領巾或紅圍巾；獎章掛帶、白色頸巾及道具不作紅巾判讀。"
+    }
+  }
+}

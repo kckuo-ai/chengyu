@@ -1,0 +1,329 @@
+{
+  "description": "Frozen batch of 20 independently reviewed and registered idiom illustrations, catalog 690 to 710. Prior backup content retained.",
+  "baseline_catalog_count": 690,
+  "final_catalog_count": 710,
+  "count": 20,
+  "created_at": "2026-11-06T04:45:17.084298+00:00",
+  "entries": [
+    {
+      "no": 692,
+      "word": "朝秦暮楚",
+      "original": "originals/692.png",
+      "original_source_path": "/workspace/generated_images/exec-52704172-9e0f-4850-a76b-a31a8cfa607c.png",
+      "sha256": "4596cad046706bcb974a1c7deafbaa43519ce8c6f68f2fa815b542aa0ba35613",
+      "metadata": "metadata/692.json",
+      "prompt": {
+        "style_prompt": "Original landscape 3:2 picture-book illustration; delicate graphite pencil linework, soft watercolor and colored-pencil texture on warm ivory paper, muted natural colors, no 3D. No text, signs, letters, numbers, logos or watermark.",
+        "scene_prompt": "Meaning: fickle loyalties, repeatedly changing sides to suit oneself (negative). Modern school club election scene: one student in the center turns toward two rival club groups, secretly switching a plain colored team ribbon from one wrist to the other while smiling ingratiatingly at whichever group currently offers a prize. The two groups look disappointed and distrustful as they notice the repeated disloyalty. Show a single clear moment, only three or four students, no duplicated figures, no split panels. Make the self-serving change of allegiance visible, not normal exploration or friendly cooperation. Natural anatomy, hands and ribbon contact, grounded feet, coherent school courtyard."
+      },
+      "alt": "學生偷偷更換手腕上的隊伍色帶，兩邊社團同學發現後都露出失望神情。",
+      "review": "reviews/692.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/692.webp"
+    },
+    {
+      "no": 696,
+      "word": "鬼斧神工",
+      "original": "originals/696.png",
+      "original_source_path": "/workspace/generated_images/exec-b87d29a7-83f2-4524-8783-2a459b9dcc40.png",
+      "sha256": "6a7ab11292748579ff7ca41f294b72832f7c9a81ef7803f764504175ee84ea52",
+      "metadata": "metadata/696.json",
+      "prompt": {
+        "style_prompt": "Original landscape 3:2 picture-book illustration, delicate graphite pencil lines, soft translucent watercolor, colored-pencil grain on warm ivory textured paper, muted natural colors, no 3D or gloss, no text/letters/numbers/logo/watermark.",
+        "scene_prompt": "Meaning: craftsmanship so ingenious and refined it seems beyond ordinary human skill. Modern scene: an artisan carefully carving a beautiful flowing sculpture from a single piece of wood in a bright community workshop; the finished carving has delicate leaves and waves, with precise tool marks and curled shavings, while a child watches in awe. Emphasize skillful human workmanship, not supernatural beings or magic. One artisan and one child; natural hands holding a small safe carving tool, correct contact between tool and wood, stable workbench and clamped wood, no dangerous action."
+      },
+      "alt": "木雕師傅在工作桌前細心雕刻，孩子欣賞完成的精巧作品。",
+      "review": "reviews/696.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/696.webp"
+    },
+    {
+      "no": 718,
+      "word": "捨生取義",
+      "original": "originals/718.png",
+      "original_source_path": "/workspace/generated_images/exec-70f985ad-06dc-4630-adc3-5a8ec1322645.png",
+      "sha256": "80a1e1139f38f23c578da8106143bc57457f96519721430820c93a8169139217",
+      "metadata": "metadata/718.json",
+      "prompt": {
+        "style_prompt": "Children's picture book, landscape 3:2, graphite pencil contours, soft watercolor and colored-pencil grain on warm ivory paper; no logos or text.",
+        "scene_prompt": "Modern community flood rescue. A trained adult rescue volunteer in proper life vest and helmet stands securely on a rescue boat, extending a rope toward a stranded family on a stable raised platform while another rescuer supports them. Show courage and selfless duty with safe teamwork, no injury or death. Natural anatomy, plausible rope grips, boat and waterline."
+      },
+      "alt": "救援人員穿戴安全裝備，在同伴支援下從救援艇伸出繩索協助受困家庭。",
+      "review": "reviews/718.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/718.webp"
+    },
+    {
+      "no": 731,
+      "word": "長袖善舞",
+      "original": "originals/731.png",
+      "original_source_path": "/workspace/generated_images/exec-47d1f927-239f-4409-a04c-58b8275fabd6.png",
+      "sha256": "5b329d58ca34461823bb960a9db82595cbadef5b4c7ae8867974a52f9dcd8dab",
+      "metadata": "metadata/731.json",
+      "prompt": {
+        "style_prompt": "Children's picture book, landscape 3:2, graphite pencil contours, soft watercolor and colored-pencil grain on warm ivory textured paper, natural grass green, pale sky blue and earthy brown; no text, logos or watermarks.",
+        "scene_prompt": "Contemporary community courtyard. A warm, socially skilled adult organizer introduces a gardener carrying seedlings to a teacher holding a blank community garden model while another neighbor joins with a watering can. Their eye contact, open gestures and emerging cooperative garden plan convey an ability to connect people and opportunities rather than literal long-sleeve dancing. Exactly four adults; natural limbs, grips and ground contact."
+      },
+      "alt": "社區活動的協調者熱情介紹園丁與老師認識，鄰居帶著澆水壺加入，眾人開始合作規劃花園。",
+      "review": "reviews/731.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/731.webp"
+    },
+    {
+      "no": 732,
+      "word": "樹倒猢猻散",
+      "original": "originals/732.png",
+      "original_source_path": "/workspace/generated_images/exec-a5d3f4f8-8fa5-4c38-9abe-21216da6964e.png",
+      "sha256": "7361db198ceb62e8c1b6612cb61794373d39e6f8648db6956e35a6560b763c9f",
+      "metadata": "metadata/732.json",
+      "prompt": {
+        "style_prompt": "Original children's picture-book illustration, landscape 3:2, delicate graphite pencil linework, translucent watercolor and colored-pencil grain on warm ivory paper, restrained natural greens, blue and browns, no text, logos or watermarks.",
+        "scene_prompt": "A once-grand forest tree has already fallen safely in a quiet clearing, roots and broad trunk visible. Four small macaques that formerly gathered in its branches scatter away in different directions, looking back at the lost gathering place. The fallen tree and dispersal clearly express the idiom's patron-falls/dependents-scatter relationship. No monkey under the trunk, no falling motion or injury. Natural limbs, tails and ground contact."
+      },
+      "alt": "大樹倒在林間空地上，原本聚在樹上的四隻小猴各自奔向不同方向，邊跑邊回頭看。",
+      "review": "reviews/732.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/732.webp"
+    },
+    {
+      "no": 733,
+      "word": "洗耳恭聽",
+      "original": "originals/733.png",
+      "original_source_path": "/workspace/generated_images/exec-39b93041-c685-4ca2-bbcb-c3836f539b71.png",
+      "sha256": "2d03fade4c2db6844b2bfd59daa11e56de1fa74c01e07c46548eec9596e8a115",
+      "metadata": "metadata/733.json",
+      "prompt": {
+        "style_prompt": "鉛筆手繪線條、柔和水彩、彩色鉛筆疊色、米白紙張紋理；適合兒童閱讀，沒有文字、品牌或浮水印。",
+        "scene_prompt": "現代社區庭院裡，長者拿著老照片溫和講述往事，三名孩子端坐、望向他並專注聆聽；以眼神、姿態及交談關係呈現恭敬專心聽人說話。"
+      },
+      "alt": "社區庭院中，三名孩子安靜坐著，專注聽一位拿著老照片的長者分享故事。",
+      "review": "reviews/733.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/733.webp"
+    },
+    {
+      "no": 734,
+      "word": "靡靡之音",
+      "original": "originals/734.png",
+      "original_source_path": "/workspace/generated_images/exec-56350f81-c6da-48cc-9dbf-82f5cd883d2c.png",
+      "sha256": "df04c9da751f33cbf188871cdbe01ccb51b3e441efa3db1b7de14d275d50b2f0",
+      "metadata": "metadata/734.json",
+      "prompt": {
+        "style_prompt": "鉛筆手繪線條、柔和水彩、彩色鉛筆疊色、米白紙張紋理；適合兒童閱讀，沒有文字、品牌或浮水印。",
+        "scene_prompt": "現代居家書房裡，少年因沉迷喇叭傳出的慵懶迷幻音樂而無精打采，桌上模型和畫具停擺，門口家長露出擔憂神情；表現令人喪志的音樂與荒廢正事的因果。"
+      },
+      "alt": "書桌旁的少年聽著喇叭傳出的音樂，神情倦怠，桌上未完成的模型和畫具擱著，門口家長擔憂地望著他。",
+      "review": "reviews/734.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/734.webp"
+    },
+    {
+      "no": 735,
+      "word": "不勝枚舉",
+      "original": "originals/735.png",
+      "original_source_path": "/workspace/generated_images/exec-7fe422f0-3c63-4de7-add1-005806fcb358.png",
+      "sha256": "766f0fc42bc7860a1ff44b7dc657df635e091658daca27142393fa6dd2f71f83",
+      "metadata": "metadata/735.json",
+      "prompt": {
+        "style_prompt": "鉛筆手繪線條、柔和水彩、彩色鉛筆疊色、米白紙張紋理；適合兒童閱讀，沒有文字、品牌或浮水印。",
+        "scene_prompt": "現代客廳中祖父展示收藏的郵票，桌上與書架滿是郵冊、郵票盒和難以數清的郵票，孩子伸出手指逐一計數卻因數量太多而驚訝。"
+      },
+      "alt": "祖父展示滿桌郵冊與郵票盒，孩子伸出手指想計數，驚訝地望著數量繁多的收藏。",
+      "review": "reviews/735.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/735.webp"
+    },
+    {
+      "no": 736,
+      "word": "疾言厲色",
+      "original": "originals/736.png",
+      "original_source_path": "/workspace/generated_images/exec-fcfc4c89-f948-4f20-bef2-171b8885719e.png",
+      "sha256": "5f96f13cc53ab8c855d703a4ea4a7d34ede0110901b72603da05bb515470b790",
+      "metadata": "metadata/736.json",
+      "prompt": {
+        "style_prompt": "鉛筆手繪線條、柔和水彩、彩色鉛筆疊色、米白紙張紋理；適合兒童閱讀，沒有文字、品牌或浮水印。",
+        "scene_prompt": "現代辦公室裡，一位組長對散落桌上的專案文件皺眉、張口急促嚴厲地說話，伸手指向文件；同事坐在一旁驚訝聽著。以神色與手勢表現怒氣。"
+      },
+      "alt": "辦公室裡，一位男子皺眉、張口並伸手指向散落的文件，旁邊的同事驚訝地望著他。",
+      "review": "reviews/736.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/736.webp"
+    },
+    {
+      "no": 738,
+      "word": "亭亭玉立",
+      "original": "originals/738.png",
+      "original_source_path": "/workspace/generated_images/exec-f468223e-68a9-4388-b7b2-e42213afcdc5.png",
+      "sha256": "0f66b7e064d6898f0ce35941a19eb87224f579a106287b851c9b6e48a48079ac",
+      "metadata": "metadata/738.json",
+      "prompt": {
+        "style_prompt": "鉛筆手繪線條、柔和水彩、彩色鉛筆疊色、米白紙張紋理；適合兒童閱讀，沒有文字、品牌或浮水印。",
+        "scene_prompt": "現代社區池塘中，一朵粉紅荷花高高直立於水面與荷葉之上，旁邊幾個花苞襯托其挺拔優美，岸邊孩子安全地站著欣賞。採詞義中形容花木姿態挺拔的義項。"
+      },
+      "alt": "社區池塘裡，一朵粉紅荷花高高挺立在荷葉之上，岸邊的孩子抬頭欣賞。",
+      "review": "reviews/738.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/738.webp"
+    },
+    {
+      "no": 739,
+      "word": "不知所措",
+      "original": "originals/739.png",
+      "original_source_path": "/workspace/generated_images/exec-ec428ce8-7110-40bc-87da-38f897e8770a.png",
+      "sha256": "36de14bb2b50bce1fba1849681526683a8f6f5d0b94de3b7f88db79417e747f5",
+      "metadata": "metadata/739.json",
+      "prompt": {
+        "style_prompt": "鉛筆手繪線條、柔和水彩、彩色鉛筆疊色、米白紙張紋理；適合兒童閱讀，沒有文字、品牌或浮水印。",
+        "scene_prompt": "現代美術教室裡，孩子不小心打翻藍色顏料，顏料流到小組作品上；他驚慌地愣住、雙手懸在半空，不知道先擦桌子還是救作品，旁邊同學拿毛巾準備幫忙。"
+      },
+      "alt": "美術教室裡，藍色顏料流到畫紙上，一名孩子驚慌地舉著雙手，旁邊同學拿毛巾準備幫忙。",
+      "review": "reviews/739.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/739.webp"
+    },
+    {
+      "no": 740,
+      "word": "天作之合",
+      "original": "originals/740.png",
+      "original_source_path": "/workspace/generated_images/exec-ab6af7e3-838c-4547-9bbb-54f7adef701b.png",
+      "sha256": "19155aad4e17ef4f362c8308a841af0da69e304750406e01f69cd6820c4a8afb",
+      "metadata": "metadata/740.json",
+      "prompt": {
+        "style_prompt": "鉛筆手繪線條、柔和水彩、彩色鉛筆疊色、米白紙張紋理；適合兒童閱讀，沒有文字、品牌或浮水印。",
+        "scene_prompt": "現代小型花園婚禮中，一對新人在花枝自然形成的拱門下牽手相望，陽光照耀，兩旁親友微笑鼓掌，呈現美滿良緣。"
+      },
+      "alt": "花園婚禮上，一對新人在花枝拱門下牽手相望，兩旁親友微笑鼓掌。",
+      "review": "reviews/740.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/740.webp"
+    },
+    {
+      "no": 741,
+      "word": "淋漓盡致",
+      "original": "originals/741.png",
+      "original_source_path": "/workspace/generated_images/exec-6806558e-ec4b-440a-8eab-a157a24b0dd9.png",
+      "sha256": "9f29222fd25a0f5c24a5822d598d3ba5df4e89b7691dd077324acdcfabf330a8",
+      "metadata": "metadata/741.json",
+      "prompt": {
+        "style_prompt": "鉛筆手繪線條、柔和水彩、彩色鉛筆疊色、米白紙張紋理；適合兒童閱讀，沒有文字、品牌或浮水印。",
+        "scene_prompt": "現代社區劇場中，兩名演員以鮮明表情與自然動作表演久別重逢的戲，台下觀眾全神貫注、深受感動；採表現生動逼真的義項。"
+      },
+      "alt": "劇場舞台上，兩名演員生動演出重逢情景，台下觀眾專注觀看並露出感動神情。",
+      "review": "reviews/741.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/741.webp"
+    },
+    {
+      "no": 743,
+      "word": "迫不及待",
+      "original": "originals/743.png",
+      "original_source_path": "/workspace/generated_images/exec-b3a6b37c-9b69-439e-8143-5ba996e2f24e.png",
+      "sha256": "262daadd01b3b567f8194de6e6becd8d04c93d70b57d35757592d4be17391eaa",
+      "metadata": "metadata/743.json",
+      "prompt": {
+        "style_prompt": "鉛筆手繪線條、柔和水彩、彩色鉛筆疊色、米白紙張紋理；適合兒童閱讀，沒有文字、品牌或浮水印。",
+        "scene_prompt": "現代家庭生日聚會剛開始，蛋糕還由家長端著，孩子已興奮地俯身伸手拆桌上禮物的緞帶，家人微笑看著，表現急切、不願等待。"
+      },
+      "alt": "生日聚會中，家長還端著蛋糕，孩子已興奮地伸手拆桌上禮物的緞帶。",
+      "review": "reviews/743.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/743.webp"
+    },
+    {
+      "no": 744,
+      "word": "海誓山盟",
+      "original": "originals/744.png",
+      "original_source_path": "/workspace/generated_images/exec-c981930d-e40c-4728-aea6-5c123d35eb88.png",
+      "sha256": "21b3c1f03e196fda802477c0e7f252305a801296a4e6c0885e341be836f25783",
+      "metadata": "metadata/744.json",
+      "prompt": {
+        "style_prompt": "鉛筆手繪線條、柔和水彩、彩色鉛筆疊色、米白紙張紋理；適合兒童閱讀，沒有文字、品牌或浮水印。",
+        "scene_prompt": "現代濱海觀景台上，一對白髮夫妻在海與高山前握手相望，旁邊長椅上放著兩人年輕時的婚照，呈現經過歲月仍堅定不變的情意與承諾。"
+      },
+      "alt": "海與高山前，一對白髮夫妻握手相望，旁邊長椅上擺著他們年輕時的合照。",
+      "review": "reviews/744.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/744.webp"
+    },
+    {
+      "no": 745,
+      "word": "仁至義盡",
+      "original": "originals/745.png",
+      "original_source_path": "/workspace/generated_images/exec-c7e8096c-5108-463b-853f-08d01d015010.png",
+      "sha256": "ced26b504e1b085b4078ee67f5c7d43d9ee8aa253564130e53a6f8305b69ff1b",
+      "metadata": "metadata/745.json",
+      "prompt": {
+        "style_prompt": "鉛筆手繪線條、柔和水彩、彩色鉛筆疊色、米白紙張紋理；適合兒童閱讀，沒有文字、品牌或浮水印。",
+        "scene_prompt": "現代公寓中，朋友探望腳受傷的鄰居，送來食物和生活用品，細心整理毛毯並把水和熱食放在可拿到的小桌上；受助者感激地望著他，表現盡力照顧他人。"
+      },
+      "alt": "朋友替腳受傷、坐在扶手椅上的鄰居蓋好毛毯，並在桌上放水與熱食，旁邊還有採買的食物。",
+      "review": "reviews/745.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/745.webp"
+    },
+    {
+      "no": 746,
+      "word": "悲天憫人",
+      "original": "originals/746.png",
+      "original_source_path": "/workspace/generated_images/exec-e5a829a8-d64b-434a-ad5b-49348d08dc82.png",
+      "sha256": "e58bd1bce331bee099156821c769d287b926d01d359fec784a49b5864dbbc640",
+      "metadata": "metadata/746.json",
+      "prompt": {
+        "style_prompt": "鉛筆手繪線條、柔和水彩、彩色鉛筆疊色、米白紙張紋理；適合兒童閱讀，沒有文字、品牌或浮水印。",
+        "scene_prompt": "現代社區風雨後的避難所裡，志工關切暫時受災的家庭，蹲下送上毛毯與餐食，其他志工在後方整理物資；窗外雨雲表現時局艱難，人物相互尊重。"
+      },
+      "alt": "風雨中的社區避難所裡，志工蹲下向一家人送上毛毯，旁邊備有餐食與飲水。",
+      "review": "reviews/746.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/746.webp"
+    },
+    {
+      "no": 747,
+      "word": "面面俱到",
+      "original": "originals/747.png",
+      "original_source_path": "/workspace/generated_images/exec-5ee72cbe-97ce-429c-9c48-0abcad22e10d.png",
+      "sha256": "cb1d93dca0019d43ca5561efa6d05bfda4082781651c8003b7ea6b6792e1db71",
+      "metadata": "metadata/747.json",
+      "prompt": {
+        "style_prompt": "鉛筆手繪線條、柔和水彩、彩色鉛筆疊色、米白紙張紋理；適合兒童閱讀，沒有文字、品牌或浮水印。",
+        "scene_prompt": "現代社區花園活動前，主辦者依圖示清單檢查遮陽座位、飲水點心及無障礙坡道，兩名夥伴調整椅子與食物，呈現每個環節都照顧到。"
+      },
+      "alt": "社區活動主辦者拿著圖示清單，檢查遮陽座位、飲水、點心與坡道，夥伴在旁整理場地。",
+      "review": "reviews/747.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/747.webp"
+    },
+    {
+      "no": 748,
+      "word": "借刀殺人",
+      "original": "originals/748.png",
+      "original_source_path": "/workspace/generated_images/exec-55db847d-1b75-46b5-b7d2-c2ab0d5152a2.png",
+      "sha256": "2f1fc0a3f992faeaaa1e37624d5dcdad17f73eeb68682ef1eea840da03c16169",
+      "metadata": "metadata/748.json",
+      "prompt": {
+        "style_prompt": "鉛筆手繪線條、柔和水彩、彩色鉛筆疊色、米白紙張紋理；適合兒童閱讀，沒有文字、品牌或浮水印。",
+        "scene_prompt": "現代辦公室中恰好三名成人：左側短捲髮女子悄悄向中間主管耳語並指向右側同事，主管因此嚴厲責問無辜同事；以明確的單一操縱者與因果關係呈現利用他人傷害人的比喻義，不出現刀或暴力。重製理由：首版多出近似的微笑男子，令操縱者身分混亂。"
+      },
+      "alt": "辦公室裡，捲髮女子對主管耳語並指向同事，主管嚴厲責問那位難過的同事。",
+      "review": "reviews/748.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/748.webp"
+    },
+    {
+      "no": 749,
+      "word": "不見經傳",
+      "original": "originals/749.png",
+      "original_source_path": "/workspace/generated_images/exec-77999509-e777-4d92-98d3-63a212302328.png",
+      "sha256": "fd0dedcf77ea71396f484d5c8da0ac6fcd0e6e5227046691724962aaa2e2f998",
+      "metadata": "metadata/749.json",
+      "prompt": {
+        "style_prompt": "鉛筆手繪線條、柔和水彩、彩色鉛筆疊色、米白紙張紋理；適合兒童閱讀，沒有文字、品牌或浮水印。",
+        "scene_prompt": "現代社區畫展中，一名尚無名氣的年輕畫家在安靜角落展示優美風景畫，多數觀眾聚在遠方熱門展區，只有一位孩子發現並欣賞他的作品；採沒有名氣的義項。"
+      },
+      "alt": "畫展角落的年輕畫家展示風景畫，一名孩子駐足欣賞，其他觀眾聚在遠處展區。",
+      "review": "reviews/749.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/749.webp"
+    }
+  ]
+}

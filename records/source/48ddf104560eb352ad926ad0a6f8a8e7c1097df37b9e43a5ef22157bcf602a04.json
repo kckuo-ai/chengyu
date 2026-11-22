@@ -1,0 +1,18 @@
+{
+  "no": 810,
+  "word": "金科玉律",
+  "path": "/workspace/generated_images/exec-02c22fed-3572-4cdf-ba2e-6eb09b555a4b.png",
+  "passed": true,
+  "reviewer": "independent-visual-verifier-810-retry",
+  "reviewed_at": "2026-11-06T16:40:00Z",
+  "checks": {
+    "meaning": "pass: framed lab safety pictograms are treated as a firm common rule; all students don goggles and one puts food away before work",
+    "anatomy_pose_contact": "pass: students and teacher have coherent arms, hands, goggles and postures; foreground student grips snack and backpack naturally",
+    "objects_physics_perspective": "pass: goggles sit on faces, backpack rests on bench edge, and glassware and containers are supported by the workbench",
+    "style": "pass: graphite pencil outlines, soft watercolor and colored-pencil layers on warm paper texture",
+    "text_brand_safety": "pass: pictograms contain no legible writing; no brand, watermark or unsafe experiment",
+    "alt": "pass: accurately describes teacher, safety icons, goggles and food being put away without full idiom answer"
+  },
+  "issues": [],
+  "regenerate": false
+}

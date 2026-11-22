@@ -1,0 +1,46 @@
+{
+  "no": 1346,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-1-134a449/batch-1/1346.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "女孩戴著獎章跑在前方，彎腰笑著喘氣，幾名同學已到終點，更多跑者還在後面；老師拿夾板在旁記錄並微笑。",
+  "issues": [
+    "前景扶膝手已作原尺寸及四倍裁圖確認，其中一手指緣重疊難明；更遠跑者與觀眾手部為小色塊，無法可靠核實全體每手五指，依拿不準不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "前方完成者與後方仍跑者有位置對比，獎章表示成績優異；但終點帶未拆而已頒獎混合不同時間，閱讀需推斷。 已檢視全站感知雜湊候選459、396、625及607、400等相關情境的既有圖；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前景女孩清楚、後方跑者提供前列對比，手機主焦點可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "前景扶膝手已作原尺寸及四倍裁圖確認，其中一手指緣重疊難明；更遠跑者與觀眾手部為小色塊，無法可靠核實全體每手五指，依拿不準不通過。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "前景鞋底接跑道、老師持筆貼夾板；終點帶在兩柱間下垂，沒有懸浮工具，未見確定接觸錯位。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "獎章表面無數字、夾板無可讀文字，服裝鞋面無品牌字母數字浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔紅跑道、淡紫教師外套與綠樹維持鉛筆、水彩、色鉛筆及米白紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣國小運動場、適齡白藍運動服學生與教師符合校園情境。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "頸部紅白藍帶連著獎章、屬獎章掛帶而非紅領巾；無其他紅色領巾或圍巾。"
+    }
+  }
+}

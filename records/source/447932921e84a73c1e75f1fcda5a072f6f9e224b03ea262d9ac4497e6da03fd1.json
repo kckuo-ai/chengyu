@@ -1,0 +1,19 @@
+{
+  "no": 859,
+  "word": "大驚小怪",
+  "path": "/workspace/generated_images/exec-4547dc90-0d64-4892-8c69-91f0ad49a771.png",
+  "passed": true,
+  "reviewer": "independent visual reviewer /root/verify_859",
+  "reviewed_at": "2026-11-07T04:55:00+00:00",
+  "checks": {
+    "original_png_inspection": "passed: directly opened the original 1672x941 PNG with view_image",
+    "meaning_and_causality": "passed: one tiny harmless ladybug triggers an exaggerated startled leap while two classmates remain calm",
+    "anatomy_and_pose": "passed: all three children have plausible visible arms, hands and legs; startled jump and pointing pose read clearly",
+    "objects_and_physics": "passed: ladybug is grounded near the book edge, and book, desk, chair and shelf have coherent support and perspective",
+    "style": "passed: pencil linework, soft watercolor, colored-pencil detail and warm paper texture",
+    "text_brand_suitability": "passed: no legible writing, brand, watermark or inappropriate content",
+    "alt": "passed: accurately describes the ladybug, exaggerated jump and calm classmates, without the idiom answer"
+  },
+  "issues": [],
+  "regenerate": false
+}

@@ -1,0 +1,44 @@
+{
+  "no": 5389,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-14-c585355/extracted/batch-14/5389.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "會議開始前，男子靠近身旁女子，用手擋著嘴低聲說話，女子側身專心聽，後方有人正在準備投影設備。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "遮口貼近耳側說話、聽者靠近而後方人不參與，明確為私下低聲交談。 已實際看全圖與六區原像素裁圖，並看六張圖庫對照表及額外錢包、地形、山路候選表；感知候選241、260。與相關已發布插圖比對後未見近乎相同的關鍵構圖；MOE索引此筆syn與ant均空，依釋義判斷。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "兩人頭部與遮嘴手居中放大，背景投影不搶焦。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男子兩手五指自然，女子雙手放膝五指完整，後方準備者手由電腦桌遮蔽，站腳正常。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "摺椅框架連接，投影機及電腦在桌，女子手放膝無穿插。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。傘柄、鞋帶、器物結構與動作短線均依附物件，非獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "灰藍襯衫與奶白投影牆；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區會議室與成人便服；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅色圍裙或外衣不是領巾。"
+    }
+  }
+}

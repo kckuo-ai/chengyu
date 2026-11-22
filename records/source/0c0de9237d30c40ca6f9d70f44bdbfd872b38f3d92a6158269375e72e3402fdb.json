@@ -1,0 +1,19 @@
+{
+  "no": 824,
+  "word": "割雞焉用牛刀",
+  "path": "/workspace/generated_images/exec-6bf95eec-4426-4ef7-b4e2-1be4cc7bcd06.png",
+  "passed": true,
+  "reviewer": "independent visual reviewer /root/verify_824",
+  "reviewed_at": "2026-11-06T23:47:29.696011+00:00",
+  "checks": {
+    "original_png_inspection": "passed: opened and inspected the original PNG directly with view_image",
+    "meaning_and_causality": "passed: oversized professional cleaver for one cherry tomato contrasted with a suitable small knife clearly conveys the idiom",
+    "anatomy_and_pose": "passed: both adults have two visible arms with coherent hand positions and facial expressions",
+    "objects_and_physics": "passed: cleaver has continuous blade and attached handle, the chef grips the handle, small knife is held at handle, tomato rests on stable cutting board",
+    "style": "passed: pencil outlines, soft watercolor, colored-pencil grain and warm paper texture",
+    "text_brand_suitability": "passed: no legible text, brand, watermark, answer text or unsuitable content",
+    "alt": "passed: accurately describes visible action without the idiom answer"
+  },
+  "issues": [],
+  "regenerate": false
+}

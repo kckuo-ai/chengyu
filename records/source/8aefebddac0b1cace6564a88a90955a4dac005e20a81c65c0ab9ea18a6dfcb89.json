@@ -1,0 +1,46 @@
+{
+  "no": 1342,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-1-134a449/batch-1/1342.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "中央大樹廣場周圍，道路連向學校、市場、公園與車站；人們搭公車、騎車或步行往來，住宅散布在道路兩旁。",
+  "issues": [
+    "原尺寸仍有市場及遠處踢球者手部僅幾個像素的色塊，公車乘客也無從核實五指；無法完成每人手部的嚴格確認，依拿不準即不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "環路與各向學校、市場、公園、車站及住宅連通，可見交通便利與多方向往來，沒有封閉迷宮。 已檢視全站感知雜湊候選709、1156、1212及607、400等相關情境的既有圖；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "道路與中心樹占主要幅面，手機可讀路網，但人物細節很小。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "原尺寸仍有市場及遠處踢球者手部僅幾個像素的色塊，公車乘客也無從核實五指；無法完成每人手部的嚴格確認，依拿不準即不通過。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "近景自行車輪、腳踏與車架可辨、公車車輪落地、道路銜接及建築支撐合理；遠景接觸細節受尺寸限制。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "市場與車站未見可讀文字，公車車牌空白，無明顯字母數字品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "淡綠樹、暖棕建築與柔藍灰道路有鉛筆線、水彩色鉛筆及紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代學校、傳統小站、蔬果市場、公車與住宅符合社區設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "人物白藍制服或素色便服，未見紅領巾或紅圍巾。"
+    }
+  }
+}

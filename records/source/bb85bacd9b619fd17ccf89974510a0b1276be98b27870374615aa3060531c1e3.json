@@ -1,0 +1,44 @@
+{
+  "no": 1572,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-10-48cd224/batch-10-part-1/batch-10-part-1/1572.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "年輕夫妻一起種下小樹，另一格同一株樹已長得高大，兩人頭髮都白了，仍並肩坐在樹下，由妻子替丈夫整理衣領。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一夫妻由青春植樹到白髮相依、樹同步長大，呈夫妻相守到老，非只有長者坐一起。 已實際看全圖及六區原像素裁圖，另與七張既有圖庫對照表、1458原圖比較；感知雜湊候選1053、1006及相關語義候選未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "兩格年齡與樹成長對照，親暱動作大而明確。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "種樹扶苗與持鏟、老年整理衣領及放膝手五指結構自然，臂接肩；蹲姿與坐姿腳接地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "幼苗根入土、鏟頭接土，老樹根接地、長椅承托兩人，整理領手接布，結構合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔綠樹葉、暖棕土椅與淡藍衣；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代家庭庭院、便服夫妻連貫年齡變化；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

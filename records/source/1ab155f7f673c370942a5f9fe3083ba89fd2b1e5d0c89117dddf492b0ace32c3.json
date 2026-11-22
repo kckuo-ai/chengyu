@@ -1,0 +1,44 @@
+{
+  "no": 1424,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1424.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "女孩雙手捧著彩繪陶兔，花朵和釉色都很漂亮，卻有一隻耳尖缺了一小角；老師微笑伸指指出缺口，後方擺著其他陶器。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "整體精美的彩繪陶兔只有耳尖一處小缺口，清楚呈現好事物仍有缺陷，非整件損毀或完美無缺。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選623、1323、463及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "陶兔耳尖與教師指向集中，背景簡潔，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對托底雙手五指結構、教師指耳尖及垂手，臂接肩；雙方鞋腳著地自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "兔耳缺口為真實破損輪廓、陶偶與底板連接，雙掌托底，其他陶器在桌面，桌腳承重。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "淡粉兔耳、柔綠釉花、暖棕桌有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小陶藝展示、適齡白藍制服女孩與便服教師；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+    }
+  }
+}

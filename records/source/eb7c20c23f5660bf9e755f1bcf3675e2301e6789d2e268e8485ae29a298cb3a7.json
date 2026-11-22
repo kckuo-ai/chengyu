@@ -1,0 +1,44 @@
+{
+  "no": 1385,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2-cbee8cb/batch-2/1385.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "男孩指著同學做得歪斜的紙花，側著眼露出嘲笑表情；說話泡泡把紙花畫得更加垂頭，拿作品的同學低頭感到難過。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "嘲弄表情與誇大醜化作品的口述圖像使對方受傷，呈尖酸嘲諷，非善意指導。 已實際看過全圖、手腳泡泡原尺寸裁圖，並比對既有候選566、519、1204及相關語義插圖；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "兩人表情、指向與泡泡直連同一作品，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "指花及扶腰手、握花雙手五指自然，肩臂無增肢，鞋落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "紙花莖接花瓣，雙手握住花莖，桌面與作品支撐正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查衣鞋、道具、紙面及背景，未見可讀文字、字母數字或類文字標記，無品牌、浮水印及不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋；自然草綠、柔藍與暖棕，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小手作教室及適齡白藍制服孩子；兒童頭身與身高符合國小年齡，場景及服裝支持台灣現代生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一核對全圖及細部的人物領口，均無紅領巾或紅圍巾；獎章掛帶、白色頸巾及道具不作紅巾判讀。"
+    }
+  }
+}

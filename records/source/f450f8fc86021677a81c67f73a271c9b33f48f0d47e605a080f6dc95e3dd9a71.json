@@ -1,0 +1,37 @@
+{
+  "description": "Frozen batch of 2 independently reviewed and registered idiom illustrations, catalog 836 to 838. Prior backups retained.",
+  "baseline_catalog_count": 836,
+  "final_catalog_count": 838,
+  "count": 2,
+  "created_at": "2026-11-07T13:16:00.345504+00:00",
+  "entries": [
+    {
+      "no": 887,
+      "word": "旁敲側擊",
+      "original": "originals/887.png",
+      "original_source_path": "/workspace/generated_images/exec-9ef0f2ce-b7f9-4463-a1d5-75642b8e02ff.png",
+      "sha256": "58f25f369c2a5ced53e31ff39b661e2c39c45a6de50d174f4f6ad61c6bdc6fa3",
+      "metadata": "metadata/887.json",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "現代校園分組教室，一名學生想提醒同學別把回收桶弄得溢滿，沒有正面責備，而是指向旁邊整齊的分類桶與一張只畫著瓶子、紙張的圖卡；同學若有所思地理解暗示，桌下兩個桶的差異清楚呈現從旁比喻的表達方式。",
+      "alt": "學生指向整齊的分類桶和瓶紙圖卡，讓同學注意到另一個溢滿的回收桶，對方若有所思地理解暗示。",
+      "review": "reviews/887.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/887.webp"
+    },
+    {
+      "no": 888,
+      "word": "粉墨登場",
+      "original": "originals/888.png",
+      "original_source_path": "/workspace/generated_images/exec-bb44e41f-51da-4e93-97d0-18444851c5e5.png",
+      "sha256": "c494b9a34297b7570a680f2a53fc3499a2fba8a8acdd7ea010daa0f251d428a8",
+      "metadata": "metadata/888.json",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "現代社區劇場後台與舞台相連，年輕演員已在化妝鏡前完成戲劇妝，穿上角色服裝掀開紅幕走到聚光燈下表演，兩位同伴在幕後等待；化妝刷具與鏡台交代準備後登台，也表現正式擔任角色。",
+      "alt": "演員在化妝鏡前完成戲劇妝並穿上戲服，掀開紅幕走到聚光燈下表演，夥伴在幕後等待。",
+      "review": "reviews/888.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/888.webp"
+    }
+  ]
+}

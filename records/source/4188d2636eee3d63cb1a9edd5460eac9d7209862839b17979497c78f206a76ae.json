@@ -1,0 +1,46 @@
+{
+  "no": 1390,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2-cbee8cb/batch-2/1390.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "女孩在不同時段把硬幣一枚枚投入玻璃罐，罐內錢幣逐漸堆高；最後她抱著罐子拿起畫筆，桌面整齊放著其他繪畫用品。",
+  "issues": [
+    "三格投入硬幣由少變多，與既有933聚沙成塔的三格、同位置玻璃存幣罐、逐漸裝滿關鍵構圖近同；也未呈節約用財使長久不缺。 已實際看過全圖、手腳泡泡原尺寸裁圖，並比對既有候選644、129、8及相關語義插圖；與933關鍵構圖近同。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "三格投入硬幣由少變多，與既有933聚沙成塔的三格、同位置玻璃存幣罐、逐漸裝滿關鍵構圖近同；也未呈節約用財使長久不缺。 已實際看過全圖、手腳泡泡原尺寸裁圖，並比對既有候選644、129、8及相關語義插圖；與933關鍵構圖近同。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "三格相同主角與存罐連貫，累積變化清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "逐格捏幣、扶罐與握筆手五指結構自然，臂連肩，鞋著地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "硬幣從手入罐、罐底落桌，畫具受桌面支撐，無懸浮物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查衣鞋、道具、紙面及背景，未見可讀文字、字母數字或類文字標記，無品牌、浮水印及不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋；自然草綠、柔藍與暖棕，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代家庭書桌及適齡白藍制服女孩；兒童頭身與身高符合國小年齡，場景及服裝支持台灣現代生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一核對全圖及細部的人物領口，均無紅領巾或紅圍巾；獎章掛帶、白色頸巾及道具不作紅巾判讀。"
+    }
+  }
+}

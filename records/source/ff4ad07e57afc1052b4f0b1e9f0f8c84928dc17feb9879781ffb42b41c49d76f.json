@@ -1,0 +1,46 @@
+{
+  "no": 1347,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-1-134a449/batch-1/1347.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "男子困在堆滿文件、獎盃和錢箱的書桌前，伸手望向窗外野餐的家人；灰色寬帶盤旋纏繞桌邊與椅旁，令他無法離開。",
+  "issues": [
+    "灰色寬帶在桌前、椅邊及窗前凌空盤成數圈，缺少可辨固定點、張力來源或支架，也未明確綁住人物；無法確認物理支撐合理，按保守門檻失敗。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "獎盃錢幣象徵名利，室內受纏與窗外自由家庭活動對照，可表達名利牽絆；不是單純財富展示。 已檢視全站感知雜湊候選73、960、576及607、400等相關情境的既有圖；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "室內男子、名利物與右方自由景象構成對比，手機焦點可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對放文件五指、向窗攤掌五指及窗外持食物手，各臂接肩；男子腿被桌遮擋，未見增生肢體。"
+    },
+    "objects_contact_perspective": {
+      "passed": false,
+      "evidence": "灰色寬帶在桌前、椅邊及窗前凌空盤成數圈，缺少可辨固定點、張力來源或支架，也未明確綁住人物；無法確認物理支撐合理，按保守門檻失敗。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "紙張只見淡線、書脊主要裝訂色塊，筆電無商標，未見可讀文字字母數字品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "暖棕桌、柔灰帶與綠窗景採鉛筆水彩色鉛筆，紙紋可見，未呈3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代家庭書房、筆電與普通便服成人、窗外台北地標公園支持生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "男子淡藍襯衫、野餐家人白上衣及便服均無紅領巾或紅圍巾。"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "no": 1376,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-3-25a2ef6/batch-3/1376.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "女孩掀開素色布，露出桌上的精緻城堡模型；男孩在旁睜大眼睛張著嘴，雙手垂下，後方師長與同學微笑欣賞作品。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "首次見揭開的城堡而睜眼張嘴發愣，符合吃驚；與1286男孩開紙盒見森林、647火山實驗的關鍵動作及布局不同。 已實際查看全圖及原尺寸手腳、泡泡、鞋面和道具裁圖，並比對全站感知雜湊候選229、747、1206及相關語義圖116、647、682、1244、1286、505、1368；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "揭布女孩與驚訝男孩分居模型兩側，主次清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對男孩垂手五指、女孩兩握布手、母親交疊手、父親抱臂與後方孩子合掌，肩臂自然；全體可見鞋腳接地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "布由兩手掀起自然垂落，城堡及底板平放實桌，人物無穿過模型或桌面。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌、浮水印或不適內容；鞋面接縫與一般物件輪廓不作文字判讀。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "暖棕桌、淡米色布、柔藍白制服具有細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小作品展示、適齡孩子白藍制服及成人便服；依現代服裝及建築生活線索確認情境，兒童比例符合國小年齡（無人物者不適用）。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查人物領口：白藍制服或普通素色便服，均無紅領巾或紅圍巾；粉色玩偶蝴蝶結與衣物花色不是紅巾。"
+    }
+  }
+}

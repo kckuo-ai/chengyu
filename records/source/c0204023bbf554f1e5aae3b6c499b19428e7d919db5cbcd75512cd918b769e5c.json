@@ -1,0 +1,20 @@
+{
+  "no": 904,
+  "word": "按兵不動",
+  "path": "/workspace/generated_images/exec-7ccce7d4-b5ee-4cab-9032-d47c5881caa8.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-904",
+  "reviewed_at": "2026-11-08T03:00:00Z",
+  "checks": {
+    "meaning": "pass: the foreground team deliberately keeps its robot behind the starting line while studying strategy and signaling wait; another robot moves in the distance",
+    "anatomy": "pass: visible people have coherent heads, limbs, hands and feet; no extra or malformed limbs found",
+    "pose_contact": "pass: raised stop hand, seated poses, robot wheels and floor contact are plausible",
+    "objects_perspective_physics": "pass: robot wheels, starting line, strategy board, arena barriers and perspective are coherent",
+    "aspect_ratio": "pass: 1536x1024 3:2 landscape",
+    "style": "pass: graphite pencil linework, soft watercolor, colored-pencil layering and ivory paper texture",
+    "content": "pass: no readable text, answer, logo, brand, watermark or inappropriate content",
+    "alt": "pass: accurately describes the visible waiting team and strategy review without using the full idiom answer"
+  },
+  "issues": [],
+  "regenerate": false
+}

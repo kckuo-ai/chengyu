@@ -1,0 +1,44 @@
+{
+  "no": 5335,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-14-c585355/extracted/batch-14/5335.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "爺爺在庭院躺椅上微笑休息，雙腳放在軟墊腳凳，女孩盤腿坐草地玩風車，桌上備有水果與清涼飲水。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "祖孫在舒適安穩庭院無憂玩耍休憩，呈現非常快樂無憂的生活環境，未畫死亡或宗教場景。 已實際看全圖與六區原像素裁圖，並看六張圖庫對照表及額外錢包、地形、山路候選表；感知候選915、973。與相關已發布插圖比對後未見近乎相同的關鍵構圖；MOE索引此筆syn與ant均空，依釋義判斷。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "笑臉、躺椅與風車形成簡單生活焦點。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "老人兩手自然放扶手各五指，女孩握風車與放腳踝兩手合理，盤腿無多足。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "躺椅腳凳接地，杯水果桌穩固，風車中心接直桿且握手接觸桿。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。傘柄、鞋帶、器物結構與動作短線均依附物件，非獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "淡綠庭園與米棕木椅；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣住家庭院、祖孫便服與國小年齡女孩；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅色圍裙或外衣不是領巾。"
+    }
+  }
+}

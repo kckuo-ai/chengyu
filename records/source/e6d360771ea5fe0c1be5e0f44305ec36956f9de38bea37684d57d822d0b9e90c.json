@@ -1,0 +1,44 @@
+{
+  "no": 1332,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-1/1332.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "男孩站在舞台布幕旁緊握直笛，滿臉冒汗、肩膀縮起、雙腿發抖；老師蹲在旁邊鼓勵，外面觀眾已坐好等候。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "汗珠、驚惶面容、縮肩與腿邊抖動線共同呈現十分害怕，舞台等待上場提供觸發原因；不同於1093突然爆裂驚嚇的構圖。 已檢視全站感知雜湊篩出的近構圖候選618、876、978，以及同類道具與近義詞情境比較圖。未見同樣關鍵道具、人物關係與因果的近乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左側男孩大幅面、右方觀眾交代壓力來源，手機仍看得到表情及抖動。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "裁圖核對握直笛雙手與教師攤掌五指、男孩雙鞋及觀眾可見手臂；未見增生肢體，男孩腳靠攏著地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "直笛由兩手抓握、教師蹲姿有足部支撐，椅子落地；人物沒有真的失去平衡。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "直笛只見孔洞，舞台與器材箱無字母數字品牌，抖動線為連續波線，非獨立文字或字母。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "淡紅棕布幕、白藍制服與暖木地板保留鉛筆、水彩、色鉛筆紙紋，未用鮮豔扁平光效。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代校園表演、白藍制服國小生、便服教師與家長觀眾符合台灣設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "孩子白藍衣領、老師米白上衣與家長素色衣服均無紅巾；紅布幕不是人物衣物。"
+    }
+  }
+}

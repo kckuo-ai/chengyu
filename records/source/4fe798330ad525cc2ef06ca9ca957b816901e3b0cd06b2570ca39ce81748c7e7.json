@@ -1,0 +1,46 @@
+{
+  "no": 1316,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-1/1316.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "同一位女子分別縫補玩偶、替孩子合唱伴奏並修理金屬層架，動作從容熟練，周圍孩子與家長微笑欣賞她的本事。",
+  "issues": [
+    "三段僅呈現縫補、伴奏與修架三項普通才藝，沒有同時應付超常難題或力強可畏的視覺證據；較像多才多藝，不能把多種技能直接等同教育部所釋本領大、力強可畏。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "三段僅呈現縫補、伴奏與修架三項普通才藝，沒有同時應付超常難題或力強可畏的視覺證據；較像多才多藝，不能把多種技能直接等同教育部所釋本領大、力強可畏。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "三段以同一主角串連，縫補與修架位於兩側、伴奏居中，手機可辨三種工作。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "裁圖核對持針、托玩偶、鍵盤雙手、握層架與工具的手；每段各兩臂且握指自然，蹲姿雙腳及坐姿支撐無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "縫線連著玩偶接縫，雙手接觸琴鍵，工具貼層架接頭，金屬腳落草地；未見懸空受力。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "合唱本與琴架紙張無可讀字、樂譜符號，布偶及工具無品牌浮水印或字母數字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "淺藍上衣、暖棕琴與草綠地面採鉛筆、水彩與色鉛筆疊色，紙紋可見。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代校慶帳棚、白制服國小合唱團、普通工作服與家長衣著符合台灣校園活動。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "女子藍襯衫無巾物，孩子白制服及家長格紋上衣均無紅巾；玩偶頸上的粉色蝴蝶結不是人物領巾。"
+    }
+  }
+}

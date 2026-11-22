@@ -1,0 +1,23 @@
+{
+  "description": "Frozen batch of 1 independently reviewed and registered idiom illustrations, catalog 848 to 849. Prior backups retained.",
+  "baseline_catalog_count": 848,
+  "final_catalog_count": 849,
+  "count": 1,
+  "created_at": "2026-11-08T02:13:17.529465+00:00",
+  "entries": [
+    {
+      "no": 900,
+      "word": "輕舉妄動",
+      "original": "originals/900.png",
+      "original_source_path": "/workspace/generated_images/exec-560efa1a-ed87-43e1-a608-dedbbb5199db.png",
+      "sha256": "1be2b00ccb7d6baee1db8d25ad7c87734e01b4bec2b99dd8ee88a171d14c8e55",
+      "metadata": "metadata/900.json",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；主要採 3:2 橫向構圖；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "現代校園機器人實驗室，興奮的學生未經檢查就伸手要按大型機器的紅色啟動按鈕，導師及時輕輕攔住他的手並指向空白檢查表、量測工具和護目鏡；同學在旁觀察，清楚表現行動前應先慎重思考，畫面安全無傷害。",
+      "alt": "學生急著按下機器啟動按鈕時被導師攔住，導師指向檢查表和量測工具提醒他先確認。",
+      "review": "reviews/900.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/900.webp"
+    }
+  ]
+}

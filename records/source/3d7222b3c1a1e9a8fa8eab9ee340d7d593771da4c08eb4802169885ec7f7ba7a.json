@@ -1,0 +1,23 @@
+{
+  "description": "Frozen batch of 1 independently reviewed and registered idiom illustrations, catalog 846 to 847. Prior backups retained.",
+  "baseline_catalog_count": 846,
+  "final_catalog_count": 847,
+  "count": 1,
+  "created_at": "2026-11-08T02:07:57.768642+00:00",
+  "entries": [
+    {
+      "no": 898,
+      "word": "等量齊觀",
+      "original": "originals/898.png",
+      "original_source_path": "/workspace/generated_images/exec-d9cf2360-3da5-4190-8582-f9c2218488db.png",
+      "sha256": "fab6eacedca41fb1bb36a2bdb80bf271ac8773c552d17b5fd508375cb906cf1d",
+      "metadata": "metadata/898.json",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；主要採 3:2 橫向構圖；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "現代校園作品展，老師把一個小巧的紙屋模型和一台大型機器人模型並排放在同高度的展示桌上，分別頒給相同的金色獎章；孩子們在旁鼓掌，畫面清楚表現不分作品大小與輕重、一律平等看待。",
+      "alt": "老師把小紙屋模型和大型機器人模型並排展示並頒給相同獎章，孩子們在旁鼓掌。",
+      "review": "reviews/898.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/898.webp"
+    }
+  ]
+}

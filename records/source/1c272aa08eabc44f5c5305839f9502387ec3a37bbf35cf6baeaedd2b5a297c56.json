@@ -1,0 +1,46 @@
+{
+  "no": 1363,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2-cbee8cb/batch-2/1363.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "女孩與男孩低頭觀察桌上白紙附近的一隻麻雀，紙面周圍散著穀粒；鳥的身體和腳爪顯得立體，兩人露出驚喜神情。",
+  "issues": [
+    "麻雀有站立腳爪及立體陰影，未見明確畫筆或未完成線稿，可能是真鳥停在白紙上，無法確認描繪生動。 已實際看過全圖、手腳泡泡原尺寸裁圖，並比對既有候選841、529、494及相關語義插圖；未見近乎相同的關鍵構圖。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "麻雀有站立腳爪及立體陰影，未見明確畫筆或未完成線稿，可能是真鳥停在白紙上，無法確認描繪生動。 已實際看過全圖、手腳泡泡原尺寸裁圖，並比對既有候選841、529、494及相關語義插圖；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "白紙麻雀居中，兩名孩子視線集中，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "孩子扶桌及指向紙面各手指自然，肩臂完整，站姿無增肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "桌紙及穀粒受支撐；鳥爪立體站立造成真假紙上繪畫的語義歧義。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查衣鞋、道具、紙面及背景，未見可讀文字、字母數字或類文字標記，無品牌、浮水印及不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋；自然草綠、柔藍與暖棕，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代室內學習空間與適齡白藍制服孩子；兒童頭身與身高符合國小年齡，場景及服裝支持台灣現代生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一核對全圖及細部的人物領口，均無紅領巾或紅圍巾；獎章掛帶、白色頸巾及道具不作紅巾判讀。"
+    }
+  }
+}

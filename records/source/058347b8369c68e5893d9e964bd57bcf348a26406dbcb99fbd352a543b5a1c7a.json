@@ -1,0 +1,44 @@
+{
+  "no": 5118,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-12-703022e/extracted/batch-12/5118.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "母親買菜時緊盯手機，眉頭深鎖，懷裡抱著保溫罐；思緒泡泡裡，女孩躺在床上，額頭敷著濕毛巾，床邊放著水杯。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "母親人在市場仍憂心想到病床上的孩子，手機與緊眉呈放心不下的掛念，非一般思念或對菜價煩惱。 已實際看全圖及六區原像素裁圖，另與更新後圖庫的五張對照表比較；感知雜湊候選493、832及相關語義候選未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "憂慮臉、手機與病女泡泡同框，手機可辨心事對象。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "握手機與抱保溫罐兩手五指結構自然，拇指部分在物後遮擋；泡泡女孩手在被下，不增加小手，臂連肩無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "保溫罐由臂掌抱住、菜袋落攤檯，病女頭枕枕頭床承身、水杯在床邊桌，無浮物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "暖棕市場、柔綠菜葉與淡黃被單；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣傳統菜市場、紅磚鐵窗街屋與斜紋警示電桿、現代便服母親及適齡病童；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

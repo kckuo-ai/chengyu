@@ -1,0 +1,46 @@
+{
+  "no": 1339,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2/1339.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "青年在公園台階上舉手拿擴音器號召清理垃圾，居民戴手套拿夾子響應；前排男孩雙手握住裝著垃圾的提籃把手。",
+  "issues": [
+    "青年左側鞋面有明顯近似N的白色識別形狀；原尺寸可見，違反無字母及品牌標識要求。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "張口擴音器、舉臂與居民工具響應清楚呈現大力號召，不是默不作聲。 已視覺比對全站感知雜湊候選48、1259、679及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "青年站高處、眾人視線匯聚，圖板垃圾交代公益目的。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對青年舉掌五指與握器手、男孩提籃雙手、居民握夾子手及落地鞋；關節合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "提籃已有雙手握兩側把手支撐，夾子在手中、畫架及青年腳踩平台，已修復上批懸浮。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "青年左側鞋面有明顯近似N的白色識別形狀；原尺寸可見，違反無字母及品牌標識要求。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "灰藍上衣、草綠籃與自然棕階梯有鉛筆水彩色鉛筆紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區公園、白藍制服國小生及便服居民符合設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "青年藍襯衫、成人格紋及紫色上衣、孩子白藍衣領皆無紅巾。"
+    }
+  }
+}

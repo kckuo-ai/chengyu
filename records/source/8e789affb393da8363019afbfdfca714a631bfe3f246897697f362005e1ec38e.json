@@ -1,0 +1,46 @@
+{
+  "no": 1353,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-1-134a449/batch-1/1353.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "母親指著散落地面的積木詢問，男孩流汗指向窗外，頭上只有一團模糊思緒雲；他避開目光，沒有清楚回答眼前問題。",
+  "issues": [
+    "指外轉移注意、流汗與模糊想法雲可表達心虛或推託；雲是由頭部圓點連接的思緒泡泡，並非言說，未能明確呈現含混牽強言語，容易讀成顧左右而言他。 已檢視全站感知雜湊候選989、1、484及607、400等相關情境的既有圖；未見近乎相同的關鍵構圖。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "指外轉移注意、流汗與模糊想法雲可表達心虛或推託；雲是由頭部圓點連接的思緒泡泡，並非言說，未能明確呈現含混牽強言語，容易讀成顧左右而言他。 已檢視全站感知雜湊候選989、1、484及607、400等相關情境的既有圖；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "母親指散物與男孩指窗的對向手勢清楚，但焦點是轉移話題。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對母親指物放膝、男孩指窗與垂手各五指結構及雙鞋；肩臂連接自然，無多餘肢體。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "積木箱倒在地毯、玩具車四輪及桌沙發有支撐，人物鞋踩地面，泡泡是想法圖像。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "雲內只有色鉛筆亂線、書脊為淡色裝訂與小色塊，無可讀文字字母數字品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "暖米白沙發、淺藍白制服及柔綠窗景有鉛筆水彩色鉛筆與紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣家庭客廳、白藍國小運動服與便服母親符合情境。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "母親米白罩衫與男孩白藍領口皆無紅領巾或紅圍巾。"
+    }
+  }
+}

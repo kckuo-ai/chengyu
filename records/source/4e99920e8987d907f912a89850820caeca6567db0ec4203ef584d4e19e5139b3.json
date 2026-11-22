@@ -1,0 +1,44 @@
+{
+  "no": 1579,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-13-3075d6c/extracted/batch-13/1579.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "藍衣男孩拿著自己的藍紙飛機，查看藍、紅兩組飛行路線，又看向紅衣對手；紅衣男孩正握著紅紙機，準備在航道試飛。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "機色衣色分別對應自己與對手，圖示各自直穩較短與較遠但偏折的性能，主角兼看紀錄與對手，了解敵我實力的線索已建立。 已實際看全圖及六區原像素裁圖，另與更新後圖庫的五張對照表比較；感知雜湊候選826、453及相關語義候選，另已實際看5115與5144；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "藍衣近景、紅衣對手及兩色性能圖同框，手機可讀歸屬與比較。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "主角握機與伸指、對手握機與扶桌手五指屈伸正常，臂接肩；下肢桌後或取景外，不增加小人。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "折紙翼身連接、機腹由指夾持，路線圖紙落桌與桌墊相接；航道錐與旗有地面支撐，虛線箭頭為圖示無字。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔藍紅體育服、暖棕課桌與自然草綠；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小戶外紙飛機競賽、適齡體育服孩子與普通課桌，紅色為整件上衣非領巾；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

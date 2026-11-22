@@ -1,0 +1,44 @@
+{
+  "no": 1331,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2-cbee8cb/batch-2/1331.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "老師指向海底魚群參考圖，男孩卻用雙手拿著太空火箭畫，驚訝地望向老師；桌上其他作品都畫著海龜與水母。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "海洋指定題材與太空作品直接相反，清楚表達內容離題，非單純畫技差。 已實際看過全圖、手腳泡泡原尺寸裁圖，並比對既有候選666、1268、1233及相關語義插圖；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "兩幅大畫並列，教師手勢連結差異，手機可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男孩只有兩手握畫下角，教師指圖及扶腰手五指自然，各臂接肩。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "畫板下緣靠桌、兩手握角，顏料及作品平放桌面。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查衣鞋、道具、紙面及背景，未見可讀文字、字母數字或類文字標記，無品牌、浮水印及不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋；自然草綠、柔藍與暖棕，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小美術教室、白藍制服及教師便服；兒童頭身與身高符合國小年齡，場景及服裝支持台灣現代生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一核對全圖及細部的人物領口，均無紅領巾或紅圍巾；獎章掛帶、白色頸巾及道具不作紅巾判讀。"
+    }
+  }
+}

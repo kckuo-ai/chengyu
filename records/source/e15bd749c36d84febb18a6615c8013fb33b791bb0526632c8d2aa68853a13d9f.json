@@ -1,0 +1,44 @@
+{
+  "no": 1348,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2/1348.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "男孩捧著空托盤坐在椅上，雙眼失焦、張口發愣，面前的陶土小狗碎成幾塊；老師扶肩，同學端水，他仍沒有回應。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "破碎心愛作品交代打擊，呆滯眼神、下垂姿態與對端水無反應呈現精神恍惚，非只有一般傷心哭泣。 已視覺比對全站感知雜湊候選5、1030、199及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "失神男孩居中、碎物在前、安慰者兩側，手機可看清結果與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對扶肩放膝手、男孩托盤雙手、同學兩手持杯及教師蹲姿鞋，指部與肩肘連接合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "托盤在膝上由雙手扶、杯由兩手持、陶片在鋪布桌面，桌椅與鞋接地。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "水杯、托盤、書包及窗景無可讀文字字母數字品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "淡藍白制服、棕陶片與木桌保有鉛筆、水彩色鉛筆疊色及米白紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小走廊洗手台、白藍制服、便服教師符合現代校園。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "教師棕罩衫、同學白藍制服，均無紅領巾或紅圍巾。"
+    }
+  }
+}

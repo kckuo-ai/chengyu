@@ -1,0 +1,46 @@
+{
+  "no": 1370,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2-cbee8cb/batch-2/1370.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "男孩把散落玩具塞到地毯下面，地毯鼓起一大片；母親站在門邊查看客廳，他一手壓著地毯，流汗露出勉強的笑容。",
+  "issues": [
+    "原尺寸鞋側清楚有三條平行藍色斜紋，形成可辨識運動品牌式標記；不符合無品牌要求。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "刻意製造整潔外觀讓母親誤信，欺騙對象在場，非只欺騙自己。 已實際看過全圖、手腳泡泡原尺寸裁圖，並比對既有候選13、807、58及相關語義插圖；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "隆起地毯與偷藏動作突出，門邊母親形成查驗關係。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "壓毯及垂手、母親扶門手五指自然，腿腳落地未增肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "地毯由下方玩具頂起，玩具接地，門框支撐與手接觸正常。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "原尺寸鞋側清楚有三條平行藍色斜紋，形成可辨識運動品牌式標記；不符合無品牌要求。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋；自然草綠、柔藍與暖棕，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代客廳、白藍制服孩子與便服母親；兒童頭身與身高符合國小年齡，場景及服裝支持台灣現代生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一核對全圖及細部的人物領口，均無紅領巾或紅圍巾；獎章掛帶、白色頸巾及道具不作紅巾判讀。"
+    }
+  }
+}

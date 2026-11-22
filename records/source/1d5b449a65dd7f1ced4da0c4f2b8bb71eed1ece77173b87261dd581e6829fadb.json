@@ -1,0 +1,44 @@
+{
+  "no": 1512,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-10-48cd224/batch-10-part-1/batch-10-part-1/1512.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "兩名夥伴一起展示陶器，女子卻悄悄抽走桌腳下的墊片；桌面隨後歪斜，瓶罐往下滑，男子驚慌伸手想接住它們。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一團隊的女子暗中抽走桌腳支撐，直接造成己方陶器滑落，禍害由內部成員引起，非外人來破壞或單純意外。 已實際看全圖及六區原像素裁圖，另與七張既有圖庫對照表、1458原圖比較；感知雜湊候選614、575及相關語義候選未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右相同桌與陶器、抽墊片到傾落因果明確。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "抽片握指與男子伸接掌、前格展示掌均拇指四指正常，肩臂完整；站姿鞋腳落地，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "墊片確在桌腳下並由手抽出，桌失支撐歪斜、陶器在傾落瞬間，重力與接觸合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "暖棕桌陶器、柔藍紫衣與淡綠院景；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣社區陶藝展售、便服成人與現代庭院；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

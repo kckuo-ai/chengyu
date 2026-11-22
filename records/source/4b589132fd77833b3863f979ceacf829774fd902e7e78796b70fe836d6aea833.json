@@ -1,0 +1,44 @@
+{
+  "no": 5114,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-12-703022e/extracted/batch-12/5114.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "工匠扶著青綠色戲劇面具，面具皺眉瞪眼，嘴裡露出尖長牙齒；男孩縮起身體張開雙手，驚訝望著這張可怕的臉。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "面具的凶惡眉眼與外露長牙共同造成孩子驚懼，呈非常凶惡的面貌；採容貌義而非只湊青色物與牙齒。 已實際看全圖及六區原像素裁圖，另與更新後圖庫的五張對照表比較；感知雜湊候選484、476及相關語義候選未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "巨大面具居中、孩子受驚反應相鄰，手機可辨面貌特徵。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "工匠扶面具與介紹掌、男孩兩張掌各五指，臂連肩；坐姿椅承重、下腿取景外無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "面具有木架承托、工匠掌貼頂，繫帶垂桌；剪刀鉸接、筆杯與碗落桌，接觸正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "低飽和青綠面具、暖棕木架與淡藍白制服；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣傳統戲劇道具工作室、現代便服工匠與適齡制服男孩；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

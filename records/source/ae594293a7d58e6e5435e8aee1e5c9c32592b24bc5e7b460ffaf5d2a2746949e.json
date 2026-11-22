@@ -1,0 +1,44 @@
+{
+  "no": 5103,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-13-3075d6c/extracted/batch-13/5103.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "女孩的藍色紙花被撕掉一片，露出破口，她伸掌抗議；男孩卻把取走的藍花瓣貼到自己的粉紅紙花上，得意地笑著。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "女孩藍花的缺口與男孩手中同款藍瓣對應，男孩補大自己的花而女孩受損，損害直接轉為自己利益，已補足舊稿只有成品大小不同的缺失。 已實際看全圖及六區原像素裁圖，另與更新後圖庫的五張對照表比較；感知雜湊候選52、385及相關語義候選，另已實際看5115與5144；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "破口、同色轉移花瓣與抗議得意表情同框，手機可讀因果。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女孩張掌與扶花、男孩捏瓣與扶花手五指結構自然，拇指部分在紙後遮擋，臂接肩；下肢取景外無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "紙花底靠桌、花瓣由指捏接自己花心，撕裂白邊與缺口明確；剪刀鉸接雙刃、膠棒及蓋落桌。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔藍粉紙花、淡藍白制服與暖棕桌；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小紙藝手作課、適齡制服孩子與普通紙材膠具；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

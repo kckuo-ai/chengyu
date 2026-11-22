@@ -1,0 +1,44 @@
+{
+  "no": 1342,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2-cbee8cb/batch-2/1342.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "大樹廣場周圍的道路連向學校、住宅、市場與車站，遠處停著公車和火車；前景母親陪孩子觀察道路，孩子伸手指路。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "環路分接多個目的地且無封閉死巷，呈現交通便利，非迷宮。 已實際看過全圖、手腳泡泡原尺寸裁圖，並比對既有候選632、507、762及相關語義插圖；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "鳥瞰路網為主、近景只有兩人，手機能讀連通關係。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "母親垂手、孩子指路與另一手五指可辨，雙鞋落地，未有遠景小人物。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "車輪接道路、列車接軌，平台與道路銜接正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查衣鞋、道具、紙面及背景，未見可讀文字、字母數字或類文字標記，無品牌、浮水印及不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋；自然草綠、柔藍與暖棕，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣學校、市場、公車、車站和現代住宅；兒童頭身與身高符合國小年齡，場景及服裝支持台灣現代生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一核對全圖及細部的人物領口，均無紅領巾或紅圍巾；獎章掛帶、白色頸巾及道具不作紅巾判讀。"
+    }
+  }
+}

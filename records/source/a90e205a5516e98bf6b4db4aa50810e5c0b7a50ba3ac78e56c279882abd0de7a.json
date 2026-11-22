@@ -1,0 +1,44 @@
+{
+  "no": 1362,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2/1362.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "父親把新家的鑰匙放進小碟，母親在家替鄰居縫衣，孩子安心畫畫；屋裡有床鋪與餐桌，生活和工作都有了著落。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "鑰匙、安定住處的床與餐桌、母親縫衣工作、鄰居帶衣上門及孩子安心作畫，共同交代居所生活與寄託，不只搬家。 已視覺比對全站感知雜湊候選254、1271、779及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前景工作生活、背景整齊居所同框，鑰匙放碟動作交代安頓。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對父親持匙垂手、母親送布雙手、男孩握筆壓紙與鄰居抱衣手，肩臂相連，腿腳遮擋自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "縫衣針壓腳落布面、手在針外安全位置，鑰匙正落碟、紙筆接桌，桌椅床櫃有支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "縫紉機無廠牌、書脊純色、衣服和鑰匙無字母數字文字或浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "暖棕家具、淡藍衣布與自然綠盆栽有鉛筆、水彩色鉛筆疊色和米白紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代街屋家庭、普通家長便服、國小制服與居家縫衣工作符合生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "全體素色襯衫罩衫、母親棕圍裙及孩子白藍衣領皆無紅領巾或紅圍巾。"
+    }
+  }
+}

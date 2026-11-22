@@ -1,0 +1,19 @@
+{
+  "no": 827,
+  "word": "引狼入室",
+  "path": "/workspace/generated_images/exec-cd45e4e6-afcd-400f-af89-25ae5fb7f3b8.png",
+  "passed": true,
+  "reviewer": "independent visual reviewer /root/verify_827",
+  "reviewed_at": "2026-11-06T23:52:20.107379+00:00",
+  "checks": {
+    "meaning_and_causality": "passed: homeowner holds open the front door and gestures toward a gray, collarless wolf; the wolf is then rummaging in the pantry, making the self-caused trouble visible",
+    "human_and_wolf_anatomy": "passed: one adult has two arms, two legs, credible hand and door contact; wolf has four distinguishable legs/paws, two ears and one tail with plausible reach toward food",
+    "objects_and_physics": "passed: door hinges and swing, pantry shelves, jars, cabinet doors, fallen basket and food are coherent and supported by the scene",
+    "style": "passed: visible pencil outlines, soft watercolor and colored-pencil shading over textured warm paper",
+    "text_brand_suitability": "passed: packet decoration is not legible text; no readable captions, brand, watermark, violence, or unsuitable content",
+    "alt": "passed: accurately describes opened door, surprised homeowner, wolf at pantry, scattered food and basket; excludes idiom answer",
+    "original_png_inspection": "passed: directly opened full original PNG with view_image, not a prompt or thumbnail"
+  },
+  "issues": [],
+  "regenerate": false
+}

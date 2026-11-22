@@ -1,0 +1,20 @@
+{
+  "no": 833,
+  "word": "百步穿楊",
+  "path": "/workspace/generated_images/exec-01e2fa35-1a84-404b-8535-6973ac8c0a68.png",
+  "passed": true,
+  "reviewer": "independent visual reviewer /root/verify_833",
+  "reviewed_at": "2026-11-07T00:04:26Z",
+  "checks": {
+    "meaning_and_scene": "passed: arrow strikes a small willow leaf at the center of a distant target, clearly conveying exceptional archery accuracy",
+    "anatomy_and_pose": "passed: archer, coach and fellow archer have plausible visible arms, hands and postures; partial lower-body cropping is compositional rather than an extra limb",
+    "objects_and_physics": "passed: arrow points into the leaf and target with fletching to the left, bow has a string and is held by its grip, target board has a standing support and hay backstop",
+    "range_safety": "passed: all people are behind the visible shooting line, with nobody downrange",
+    "style": "passed: pencil outlines, soft watercolor, colored-pencil accents and cream paper texture",
+    "text_brand_suitability": "passed: no readable text, answer, logo, watermark or unsuitable content",
+    "alt": "passed: accurately describes arrow, leaf, target and observers without giving the idiom",
+    "original_png_inspection": "passed: directly opened the original PNG with view_image"
+  },
+  "issues": [],
+  "regenerate": false
+}

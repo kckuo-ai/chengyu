@@ -1,0 +1,46 @@
+{
+  "no": 1346,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2/1346.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "老師指向展示板最高一排的三張學生照片，女孩的照片就在其中；她站在詳實的植物觀察作品旁，同學們開心祝賀。",
+  "issues": [
+    "左後方小展示桌上的紫色及黃色直幅頁面仍有密集類文字、數字筆畫，原尺寸及二倍可見，不通過無類文字。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "最高排三張放大照片與月桂枝、下方較多較小照片形成前列名次，女孩作品及被指認對應成績優異。 已視覺比對全站感知雜湊候選374、65、1289及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "高排照片與女孩、作品互相對應，排名層次手機可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對老師指示、女孩放胸手與同學托腮鼓掌手，無明顯多指多臂；腿部多被展示桌遮擋。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "展示板有架、觀察本有木托、玻璃罐與放大鏡在桌面，支撐合理。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "左後方小展示桌上的紫色及黃色直幅頁面仍有密集類文字、數字筆畫，原尺寸及二倍可見，不通過無類文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔綠植物、暖棕板框及自然膚色採鉛筆水彩色鉛筆、米白紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代國小植物學習展示、白藍制服適齡孩子與教師吊牌符合台灣校園。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "教師米棕罩衫、學生白藍制服，所有人物無紅領巾或紅圍巾。"
+    }
+  }
+}

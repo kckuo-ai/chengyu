@@ -1,0 +1,44 @@
+{
+  "no": 1487,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-9-a0c4ede/batch-9/1487.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "女子先替男子鋼琴伴奏練唱，另一格男子拿著獎盃伸掌阻擋她入鏡；她抱著原先的樂譜失落站在旁邊，男子得意微笑。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "伴奏者先協助排練，獲獎後被同一男子排除在合照外，有功者遭疏遠而非只是遺棄工具，符合卸磨殺驢近義，與論功行賞相反。 已看全圖及原尺寸手腳、泡泡、鞋面和工具裁圖，並實際比較六張既有圖庫對照表，含感知雜湊候選1383、26、1037與相關語義候選；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右同衣色角色、琴與樂譜再接獎盃阻擋，手機可讀立功到排除。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對左格琴鍵雙手、男子打拍及持書掌，右格五指阻擋大掌、托獎盃掌與女子抱書雙手，指節彎曲遮擋自然，肩臂完整；腰下在取景外。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "指尖按鍵、書本被掌托、獎盃底座由手承托，琴椅舞臺支撐合理；譜架與書頁沒有字樣。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸逐區核對人物衣鞋、背景、器具與泡泡，未見可讀文字、字母、數字、類字形標記、品牌或浮水印，無不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔藍綠上衣、暖棕鋼琴與低飽和酒紅幕保留細鉛筆輪廓、透明柔和水彩與色鉛筆疊色顆粒、米白紙紋；非鮮豔扁平或3D，1536×1024為橫式3:2。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣成人社區歌唱活動、普通便服男女及現代鋼琴舞臺；以現代生活道具、建築與服裝確認情境，非僅從面孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "實際核對所有人物領口與全圖：制服、普通素色便服或圍裙，均無紅領巾或紅圍巾；紅色上衣、圍裙及舞臺幕不屬領巾。"
+    }
+  }
+}

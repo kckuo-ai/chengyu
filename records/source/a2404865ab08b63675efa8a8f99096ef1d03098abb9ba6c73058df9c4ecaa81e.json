@@ -1,0 +1,44 @@
+{
+  "no": 5156,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-14-c585355/extracted/batch-14/5156.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "女子跪坐客廳地毯，仰頭流淚張口哭喊並攤開雙手，同伴輕扶肩膀遞紙巾，旁邊放著狗的照片與空床。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "寵物遺照、白花與空床連結失去陪伴，仰頭大哭雙手求告表現極度悲痛，非一般難過。 已實際看全圖與六區原像素裁圖，並看六張圖庫對照表及額外錢包、地形、山路候選表；感知候選814、1278。與相關已發布插圖比對後未見近乎相同的關鍵構圖；MOE索引此筆syn與ant均空，依釋義判斷。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "哭泣者臉與雙掌最大，照片及空床輔助理解原因。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "哭者兩掌各五指彎曲合理，陪伴者扶肩及遞紙巾兩手連肩，跪坐腿部無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "扶肩接觸衣服，紙巾被手握住，花瓶相框與床由地面承托。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。傘柄、鞋帶、器物結構與動作短線均依附物件，非獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "紫灰衣服及淡棕客廳；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣家庭客廳、成人便服、寵物生活用品；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅色圍裙或外衣不是領巾。"
+    }
+  }
+}

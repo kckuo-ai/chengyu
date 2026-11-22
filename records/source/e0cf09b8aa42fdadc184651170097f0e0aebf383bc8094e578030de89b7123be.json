@@ -1,0 +1,18 @@
+{
+  "no": 805,
+  "word": "眼高手低",
+  "path": "/workspace/generated_images/exec-b6f8202d-35f9-48ee-8635-8033f9bc3754.png",
+  "passed": true,
+  "reviewer": "independent-visual-verifier-805",
+  "reviewed_at": "2026-11-06T16:23:05.961927+00:00",
+  "checks": {
+    "meaning": "pass: boastful learner points to an elaborate birdhouse plan while their actual birdhouse has crooked roof and misplaced screw; a neighbor holds a simpler sturdy birdhouse",
+    "anatomy_pose_contact": "pass: all foreground figures have coherent visible arms, hands and poses; neighbor supports her birdhouse and teacher gestures naturally",
+    "objects_physics_perspective": "pass: crooked birdhouse rests on the workbench, misaligned roof and protruding screw are plausible; screwdriver, spare boards and screw tray rest on table",
+    "style": "pass: pencil linework, soft watercolor and colored-pencil layering over warm paper grain",
+    "text_brand_safety": "pass: blueprint contains only drawings and drafting marks; no readable words, brands, watermark or inappropriate content",
+    "alt": "pass: accurately describes high ambition versus crooked result without stating the idiom"
+  },
+  "issues": [],
+  "regenerate": false
+}

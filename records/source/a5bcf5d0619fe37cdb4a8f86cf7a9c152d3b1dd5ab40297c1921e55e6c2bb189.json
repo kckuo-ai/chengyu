@@ -1,0 +1,44 @@
+{
+  "no": 5484,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-16-eccf5ab/extracted/batch-16/5484.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "社區聚會中許多人同時張口聊天，前方男子把手放到耳旁努力聽，女子也提高聲量說話，室內顯得熱鬧喧騰。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "後方眾人朝不同方向同時說話，前景須提高聲量並湊耳傾聽，明確呈現群聚喧譁而非只畫人多。 已實際看全圖與六區原像素裁圖，並看五張圖庫對照表、額外453、937、1229、1344、578、1061六圖，及已實際看完的batch-15六張新發布圖；感知候選1356、1164。與相關已發布插圖比對後未見近乎相同的關鍵構圖；MOE索引此筆syn與ant均空，依釋義判斷。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前景交談者與後景多人張嘴形成聲音來源因果，人物臉大易讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "前景四手各五指，靠耳手不穿耳，雙臂正常；後方人物全手臂由高木檯實體遮住，不留畸形小手。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "前景手肘與掌落桌，後景高木檯連續遮擋下身，椅背桌布盆栽支撐正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。縫補線、鞋帶、齒輪與動作短線均依附物件，非獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔藍紫便服與淡棕桌檯；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣社區室內聚會，現代成人長者與國小制服孩童比例合理；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅色圍裙或外衣不是領巾。"
+    }
+  }
+}

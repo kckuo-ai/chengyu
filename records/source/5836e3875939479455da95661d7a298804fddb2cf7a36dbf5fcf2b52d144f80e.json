@@ -1,0 +1,44 @@
+{
+  "no": 1473,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-9-a0c4ede/batch-9/1473.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "男孩抱著缺輪木車，伸掌要求同學拆下自己車上的輪子，泡泡畫出轉移過程；女孩緊護完整木車，皺眉搖頭拒絕。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "泡泡明示拆掉女孩正在用的車輪移給自己，損害對方利益而被護車搖頭拒絕，利害衝突導致不成，非一般借東西失敗。 已看全圖及原尺寸手腳、泡泡、鞋面和工具裁圖，並實際比較六張既有圖庫對照表，含感知雜湊候選1370、781、601與相關語義候選；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "缺輪車、完整車及拆輪泡泡串聯，手機可讀要求與拒絕。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對男孩托車掌與五指伸掌、女孩五指護輪及搭車頂掌，拇指與自然遮擋合理，臂連肩，腰下取景外無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "木車輪接軸、缺輪處露軸，車子由手或桌托住；泡泡輪的轉移是想法，不是實景漂浮物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸逐區核對人物衣鞋、背景、器具與泡泡，未見可讀文字、字母、數字、類字形標記、品牌或浮水印，無不適內容。搖頭弧線與轉移箭頭為動作圖示，非字母數字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "暖棕原木車、柔藍白制服與淡綠背景保留細鉛筆輪廓、透明柔和水彩與色鉛筆疊色顆粒、米白紙紋；非鮮豔扁平或3D，1536×1024為橫式3:2。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小手作教室、適齡制服學生與普通木工材料；以現代生活道具、建築與服裝確認情境，非僅從面孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "實際核對所有人物領口與全圖：制服、普通素色便服或圍裙，均無紅領巾或紅圍巾；紅色上衣、圍裙及舞臺幕不屬領巾。"
+    }
+  }
+}

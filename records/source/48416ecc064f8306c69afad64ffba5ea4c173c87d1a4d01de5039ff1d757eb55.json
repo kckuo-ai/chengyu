@@ -1,0 +1,44 @@
+{
+  "no": 5369,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-14-c585355/extracted/batch-14/5369.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "陶藝展場中，男子斜坐椅子，把空杯罩在鼻子上伸舌逗弄旁人，另一名拿托盤的男子皺眉伸手勸阻他的行為。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "正式展場中以杯罩鼻伸舌嘲弄而遭勸阻，表現不正經不像樣，非單純舒服休息。 已實際看全圖與六區原像素裁圖，並看六張圖庫對照表及額外錢包、地形、山路候選表；感知候選793、5120。與相關已發布插圖比對後未見近乎相同的關鍵構圖；MOE索引此筆syn與ant均空，依釋義判斷。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "怪相與旁人不悅對照明確，展品只作場景。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "罩杯手可辨五指及指人手正常，托盤者兩手正常，斜坐兩腿鞋均著地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "杯口套在鼻部且掌握杯身，椅四腳支撐，托盤由掌托，陶碗落展座。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。傘柄、鞋帶、器物結構與動作短線均依附物件，非獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "棕白展板與灰紫襯衫；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣社區陶藝展及成人日常服裝；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅色圍裙或外衣不是領巾。"
+    }
+  }
+}

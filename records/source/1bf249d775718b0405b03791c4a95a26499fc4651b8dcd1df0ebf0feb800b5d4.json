@@ -1,0 +1,44 @@
+{
+  "no": 5338,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-14-c585355/extracted/batch-14/5338.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "校園展覽上，男孩驚喜回頭看旋轉燈籠，又伸手朝展開的巨大紙花，老師正拉開長幅山水畫，讓他忙著欣賞。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "紙花展開、走馬燈旋轉與畫卷持續展出，男孩轉頭仍指另一件，呈現美好事物變化多而來不及看。 已實際看全圖與六區原像素裁圖，並看六張圖庫對照表及額外錢包、地形、山路候選表；感知候選28、659。與相關已發布插圖比對後未見近乎相同的關鍵構圖；MOE索引此筆syn與ant均空，依釋義判斷。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "三件大型展品分區清楚，男孩視線轉向凸顯看不過來。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男孩攤掌五指、握肩帶手合理，老師雙手各握畫卷軸，前臂連肩，鞋接地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "紙花鉸鏈接底座，燈籠有轉軸與座，畫卷沿兩軸展開且由手托住。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。傘柄、鞋帶、器物結構與動作短線均依附物件，非獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "淡粉紙花與水綠畫卷；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小藝術展、制服男孩與老師圍裙；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅色圍裙或外衣不是領巾。"
+    }
+  }
+}

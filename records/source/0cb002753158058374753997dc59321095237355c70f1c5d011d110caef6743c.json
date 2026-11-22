@@ -1,0 +1,46 @@
+{
+  "no": 1474,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-13-3075d6c/extracted/batch-13/1474.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "男孩只把書中漂亮的花和彩虹摹下拼貼，忽略種子與雨水的前因；老師指著原書提問時，他抱著拼貼作品，露出困惑神情。",
+  "issues": [
+    "另看原尺寸書本裁圖：同一藍色封面內有兩處厚頁疊與凹形書脊，三疊彎曲書頁同時連接，不是單張折頁；一般書籍結構不成立，objects_contact_perspective不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "完整種子到雨水再開花故事，男孩只摘漂亮末端圖像，教師問前因卻困惑，呈只取華麗片段未深入理解的無字閱讀類比，比舊稿空白色紙清楚。 已實際看全圖及六區原像素裁圖，另與更新後圖庫的五張對照表比較；感知雜湊候選302、150及相關語義候選，另已實際看5115與5144；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "三列摹取、只看漂亮拼貼、問因果不解，閱讀缺失手機可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "握筆扶紙、托腮手與持作品雙掌、教師伸指與扶書手五指結構自然，肩臂完整；下肢桌後取景外。"
+    },
+    "objects_contact_perspective": {
+      "passed": false,
+      "evidence": "另看原尺寸書本裁圖：同一藍色封面內有兩處厚頁疊與凹形書脊，三疊彎曲書頁同時連接，不是單張折頁；一般書籍結構不成立，objects_contact_perspective不通過。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔藍白制服、自然花綠與淡粉彩虹；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小閱讀教室、適齡制服男孩與便服教師、無字植物故事書；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

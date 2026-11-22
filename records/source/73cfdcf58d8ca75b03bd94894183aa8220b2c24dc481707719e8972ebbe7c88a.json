@@ -1,0 +1,44 @@
+{
+  "no": 1501,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-9-a0c4ede/batch-9/1501.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "父親陪女孩坐在行李旁，握著她的手安慰，她抱緊布偶；另一名婦人疲倦地抱住背包，後方帳篷成排，遠處住宅淹在水中。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "淹沒住宅、濕衣晾曬、行囊與多頂安置帳篷交代多人失去家園，三人疲憊暫居，呈流離失所者遍布，與安居樂業相反，非休閒露營。 已看全圖及原尺寸手腳、泡泡、鞋面和工具裁圖，並實際比較六張既有圖庫對照表，含感知雜湊候選1060、42、1127與相關語義候選；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前景受災家庭與後方住宅水患、帳篷互為因果，手機可讀安置處境。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對父親放袋五指、父女握手的指節與自然相遮、女孩抱偶手及婦人上下抱包五指，肩臂完整；三人鞋腳著地，無第四個孩子或遠景小人。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "行李放乾地、雙手握帶與玩偶接觸自然，帳篷支柱及曬衣繩有支撐，未讓人物坐洪水中。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸逐區核對人物衣鞋、背景、器具與泡泡，未見可讀文字、字母、數字、類字形標記、品牌或浮水印，無不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "淡灰藍衣物、暖棕行李與柔綠山地保留細鉛筆輪廓、透明柔和水彩與色鉛筆疊色顆粒、米白紙紋；非鮮豔扁平或3D，1536×1024為橫式3:2。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代山區豪雨後高地安置所、國小制服女孩與普通便服成人、淹水矮房；以現代生活道具、建築與服裝確認情境，非僅從面孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "實際核對所有人物領口與全圖：制服、普通素色便服或圍裙，均無紅領巾或紅圍巾；紅色上衣、圍裙及舞臺幕不屬領巾。"
+    }
+  }
+}

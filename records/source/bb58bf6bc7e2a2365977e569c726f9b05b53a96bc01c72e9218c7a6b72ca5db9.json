@@ -1,0 +1,44 @@
+{
+  "no": 5144,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-12-703022e/extracted/batch-12/5144.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "同一藍衣男孩和綠衣同學一起洗筆，桌面乾淨；換到紅衣同學旁邊，他也笑著放開髒畫筆，任由顏料盤翻倒、桌面弄髒。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "相同孩子與整潔同伴共同洗筆，換成亂扔筆同伴便跟著學，呈周遭伙伴影響習慣的正反對照，非朱砂墨水染色字面。 已實際看全圖及六區原像素裁圖，另與更新後圖庫的五張對照表比較；感知雜湊候選238、721及相關語義候選未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右同藍衣主角搭配不同同伴、桌況相反，手機可讀環境影響。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "洗筆握掌、扣杯手與右格張掌每掌五指清楚，右格放筆手為五指張開釋放而非握筆，臂接肩；下肢桌後無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "左格筆浸水且杯底落桌；右格兩手已放開筆，兩筆剛離指端下落、不是無指夾持卻宣稱拿穩；翻盤接桌、顏料順桌面流散。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "低飽和藍綠紅衣、柔和水彩顏料與暖棕桌；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小美術教室、適齡便服孩子、無字水彩盤與普通筆杯；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "no": 782,
+  "word": "兵荒馬亂",
+  "path": "/workspace/generated_images/exec-9461926c-b7c8-4ddc-9281-c8160f945308.png",
+  "passed": true,
+  "reviewer": "independent-visual-verifier-782",
+  "reviewed_at": "2026-11-06T14:33:36.827833+00:00",
+  "checks": {
+    "meaning": "pass: smoke, distant soldiers and fleeing villagers show war-caused disorder",
+    "anatomy_pose_contact": "pass: mother holds child hand; adult supports elder; cart puller and pusher have coherent limbs and contact",
+    "objects_physics_perspective": "pass: luggage rides on cart, visible wheels are aligned; spilled apples and tipped basket sit on ground; road perspective plausible",
+    "style": "pass: pencil contours, soft watercolor and paper texture",
+    "text_brand_safety": "pass: no legible text, brand or watermark; no gore or visible injury",
+    "alt": "pass: matches the pictured evacuation and omits the idiom answer"
+  },
+  "issues": [],
+  "regenerate": false
+}

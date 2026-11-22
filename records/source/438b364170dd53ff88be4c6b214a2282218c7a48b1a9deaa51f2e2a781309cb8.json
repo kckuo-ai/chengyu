@@ -1,0 +1,376 @@
+{
+  "batch": "batch-15",
+  "source_commit": "2342f1c23ca1143d0960876d1bc561357d9278d5",
+  "review_date": "2026-11-22",
+  "source_zip_sha256": {
+    "batch-15-redraw-6.zip": "9856749b2d0e77ed99079c71e438cdc34af5bee784aa59d7f768ed15b8cd32a5"
+  },
+  "entries": [
+    {
+      "no": 5116,
+      "word": "碩果僅存",
+      "meaning": "比喻經過世事汰換而極少數留存的可貴人物或成果。",
+      "png": "/workspace/idiom-review/batch-15-2342f1c/extracted/batch-15/5116.png",
+      "sha256": "e9302406b6e14a42e69e07719424c0504981ad296afd41685abf5a3de7fa33a3",
+      "width": 1536,
+      "height": 1024,
+      "scene_prompt": "成語：採『世事汰換後極少數留存的可貴成果』。【重點：原有多件珍貴成果，變故後只剩一件完整保存。】台灣地方文物館左右兩格，左格木櫃展示五塊精緻手工木刻版，圖案分別是花鳥山水，不含文字；右格暴雨滲水後，同一櫃中四塊已腐裂、圖紋模糊，只剩中央那塊完整，館員小心替它加上透明保護罩，女孩珍惜欣賞。兩格保留相同獨特圖紋與位置，不用關店鐵門或無關人物合照暗示凋零。每格最多兩名中近景人物，五指自然、物件有承托，無字品牌紅領巾。 橫式1536×1024；左格只畫五塊木刻版無人，右格館員雙手分握透明罩兩側、女孩雙手分開自然放胸前，各一拇指四指，人物中近景，不增遠景小人物。",
+      "alt": "文物館原本並列五塊完整木雕，漏水後四塊腐裂，只剩中央山水圖完好，館員替它加上透明罩，女孩珍惜欣賞。",
+      "review": {
+        "no": 5116,
+        "kind": "new",
+        "path": "/workspace/idiom-review/batch-15-2342f1c/extracted/batch-15/5116.png",
+        "passed": true,
+        "reviewer": "independent-visual-review-2026-11-22",
+        "alt": "文物館原本並列五塊完整木雕，漏水後四塊腐裂，只剩中央山水圖完好，館員替它加上透明罩，女孩珍惜欣賞。",
+        "issues": [],
+        "regenerate": false,
+        "checks": {
+          "meaning": {
+            "passed": true,
+            "evidence": "同一櫃五件精緻成果經漏水破壞只餘一件完整，呈現汰換後極少留存的可貴成果，已補足前次只有合照的不足。 已實際看全圖與六區原像素裁圖，並看五張更新後圖庫對照表，包含5115送花圖；感知候選1422、769。與相關已發布插圖比對後未見近乎相同的關鍵構圖；MOE索引此筆syn與ant均空，依釋義判斷。"
+          },
+          "composition": {
+            "passed": true,
+            "evidence": "兩格同位置木刻由五件完整變一件完整，存留反差明顯。"
+          },
+          "hands_feet_pose": {
+            "passed": true,
+            "evidence": "館員戴手套兩手各五指合理握罩，女孩胸前兩手重疊可辨掌指，兩臂連肩無多手。"
+          },
+          "objects_contact_perspective": {
+            "passed": true,
+            "evidence": "五木雕各有支架，透明罩有連續稜線落櫃面，指尖貼罩面，腐裂不誤認文字。"
+          },
+          "text_brand_watermark": {
+            "passed": true,
+            "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。傘柄、鞋帶、器物結構與動作短線均依附物件，非獨立字樣。"
+          },
+          "style": {
+            "passed": true,
+            "evidence": "暖棕木雕與透明罩灰白；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+          },
+          "taiwan_context": {
+            "passed": true,
+            "evidence": "台灣地方文物館有島形圖，現代館員與制服國小女孩；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+          },
+          "no_red_neckerchief": {
+            "passed": true,
+            "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅色圍裙或外衣不是領巾。"
+          }
+        }
+      },
+      "status": "published",
+      "webp": "img/idioms/5116.webp",
+      "webp_absolute_path": "/workspace/chengyu/img/idioms/5116.webp"
+    },
+    {
+      "no": 5140,
+      "word": "冰清玉潔",
+      "meaning": "如同冰一樣清澈晶瑩，如同玉一般潔淨無瑕。＆ 比喻品行高潔磊落。＆ 比喻女子堅守貞操。",
+      "png": "/workspace/idiom-review/batch-15-2342f1c/extracted/batch-15/5140.png",
+      "sha256": "a5ef31910609f4f836a96451117a7bb586a409801ed11275c6d52a414a5fa819",
+      "width": 1536,
+      "height": 1024,
+      "scene_prompt": "成語：採『品行高潔，不受利誘』。【重點：可辨的不當利益被明確拒絕，仍堅守正當職責。】台灣河川檢驗現場，排水管流出混濁污水，成年檢驗員握著剛採集的濁水瓶；另一名成人想用禮盒中的金色手錶交換，伸手要拿走污水樣本。檢驗員站姿端正，一手牢牢保留樣本，另一手張掌拒絕禮物，神情堅定。以拒絕掩蓋污染的利誘表現品格，不只畫拒絕普通交談。僅兩名中近景成人，錶面完全無數字、字母或品牌，瓶有瓶底支撐，五指清楚，無紅領巾。 橫式1536×1024。檢驗員只兩臂，一手握瓶底、一手五指拒絕。利誘者僅兩臂，一手托開啟錶盒、另一手伸向樣本；不另畫拿盒蓋的手。所有手掌中近景清楚，不增遠景人物。",
+      "alt": "河川檢驗員托著混濁水樣，面對男子遞來的金色手錶禮盒堅定張掌拒絕，後方排水口持續流出污水。",
+      "review": {
+        "no": 5140,
+        "kind": "new",
+        "path": "/workspace/idiom-review/batch-15-2342f1c/extracted/batch-15/5140.png",
+        "passed": true,
+        "reviewer": "independent-visual-review-2026-11-22",
+        "alt": "河川檢驗員托著混濁水樣，面對男子遞來的金色手錶禮盒堅定張掌拒絕，後方排水口持續流出污水。",
+        "issues": [],
+        "regenerate": false,
+        "checks": {
+          "meaning": {
+            "passed": true,
+            "evidence": "對方以昂貴手錶換取污染樣本而檢驗員拒絕，正當職責對抗利誘清楚，表達品行高潔非只清澈物品。 已實際看全圖與六區原像素裁圖，並看五張更新後圖庫對照表，包含5115送花圖；感知候選1449、1456。與相關已發布插圖比對後未見近乎相同的關鍵構圖；MOE索引此筆syn與ant均空，依釋義判斷。"
+          },
+          "composition": {
+            "passed": true,
+            "evidence": "拒絕掌、樣本與金錶成三角，污水口補足不當利益因果。"
+          },
+          "hands_feet_pose": {
+            "passed": true,
+            "evidence": "檢驗員張掌五指完整，托瓶手指受瓶身合理遮擋，送禮者伸手及托盒手均正常五指連肩。"
+          },
+          "objects_contact_perspective": {
+            "passed": true,
+            "evidence": "水瓶有底由掌承重，錶在盒枕上且錶面全空白，排水口接堤岸並流入河中。"
+          },
+          "text_brand_watermark": {
+            "passed": true,
+            "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。傘柄、鞋帶、器物結構與動作短線均依附物件，非獨立字樣。"
+          },
+          "style": {
+            "passed": true,
+            "evidence": "淡灰藍工作背心與棕色河水；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+          },
+          "taiwan_context": {
+            "passed": true,
+            "evidence": "現代台灣河川採樣現場、檢驗背心與成人西服；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+          },
+          "no_red_neckerchief": {
+            "passed": true,
+            "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅色圍裙或外衣不是領巾。"
+          }
+        }
+      },
+      "status": "published",
+      "webp": "img/idioms/5140.webp",
+      "webp_absolute_path": "/workspace/chengyu/img/idioms/5140.webp"
+    },
+    {
+      "no": 5148,
+      "word": "姑息養奸",
+      "meaning": "指過分縱容，助長壞人壞事。",
+      "png": "/workspace/idiom-review/batch-15-2342f1c/extracted/batch-15/5148.png",
+      "sha256": "602d200e3e95c5fa5777692a67260f271624a6903ac9438cde575731fac6aff4",
+      "width": 1536,
+      "height": 1024,
+      "scene_prompt": "成語：採『過分縱容，助長壞人壞事』。【重點：先確立物主，再呈現明知偷拿卻放過，終致變本加厲。】台灣家庭三格，首格姐姐把自己珍惜的餅乾裝進粉紅盒、綁上緞帶，放在自己的書包旁，父親看著；第二格姐姐已離開，弟弟偷偷解開盒子拿一塊並回望門口，父親明明看見卻笑著擺手；末格弟弟大膽把整盒倒進自己碗裡，父親驚愕。不要只靠女孩照片宣稱所有權。每格僅兩名中近景人物、父子衣色一致，手各五指且接盒碗合理，無字母數字品牌，全員無領巾。 橫式1536×1024，三格等寬；父親棕衣，弟弟綠衣，姐姐白衣，每人只有兩臂，每手一拇指四指。父親第一與三格兩手分開放桌，第二格一手擺掌另一手放桌。粉紅盒及藍書包跨格固定，不加遠景人物。",
+      "alt": "女孩先替餅乾盒綁上緞帶，弟弟趁她離開拿取點心，父親笑著擺手放過，後來弟弟把整盒倒入自己碗裡。",
+      "review": {
+        "no": 5148,
+        "kind": "new",
+        "path": "/workspace/idiom-review/batch-15-2342f1c/extracted/batch-15/5148.png",
+        "passed": true,
+        "reviewer": "independent-visual-review-2026-11-22",
+        "alt": "女孩先替餅乾盒綁上緞帶，弟弟趁她離開拿取點心，父親笑著擺手放過，後來弟弟把整盒倒入自己碗裡。",
+        "issues": [],
+        "regenerate": false,
+        "checks": {
+          "meaning": {
+            "passed": true,
+            "evidence": "首格女孩包好自己盒子，次格弟弟取物回望而父親笑著放任，末格整盒倒碗使父親驚愕，呈現縱容助長壞事的升級因果。 已實際看全圖與六區原像素裁圖，並看五張更新後圖庫對照表，包含5115送花圖；感知候選602、1279。與相關已發布插圖比對後未見近乎相同的關鍵構圖；MOE索引此筆syn與ant均空，依釋義判斷。"
+          },
+          "composition": {
+            "passed": true,
+            "evidence": "三格同盒同書包與父親衣色連續，少量偷拿變全部取走清楚。"
+          },
+          "hands_feet_pose": {
+            "passed": true,
+            "evidence": "各格兩人各兩臂，女孩綁帶、父親桌面與擺手、男孩握盒五指合理，無額外小手。"
+          },
+          "objects_contact_perspective": {
+            "passed": true,
+            "evidence": "盒蓋緞帶在次末格移開，餅乾從盒口落入桌上碗，手握盒壁並承重。"
+          },
+          "text_brand_watermark": {
+            "passed": true,
+            "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。傘柄、鞋帶、器物結構與動作短線均依附物件，非獨立字樣。"
+          },
+          "style": {
+            "passed": true,
+            "evidence": "淡粉盒與棕綠衣服；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+          },
+          "taiwan_context": {
+            "passed": true,
+            "evidence": "台灣現代家庭餐桌、國小女孩與男孩及父親；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+          },
+          "no_red_neckerchief": {
+            "passed": true,
+            "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅色圍裙或外衣不是領巾。"
+          }
+        }
+      },
+      "status": "published",
+      "webp": "img/idioms/5148.webp",
+      "webp_absolute_path": "/workspace/chengyu/img/idioms/5148.webp"
+    },
+    {
+      "no": 1586,
+      "word": "背水一戰",
+      "meaning": "比喻抱著必死的決心，奮戰取勝。",
+      "png": "/workspace/idiom-review/batch-15-2342f1c/extracted/batch-15/1586.png",
+      "sha256": "49f4f2b1f48e5fa33bfee95c55d9772b05a1d8c3f8910cde1dc4319549d91e16",
+      "width": 1536,
+      "height": 1024,
+      "scene_prompt": "成語：採『沒有退路，只能奮力一搏』。【重點：後路確實封死，求生行動與門的開向、支撐一致。】台灣山區暴雨中，兩名成年巡護員的返程被落石倒木完全阻斷，唯一前路是避難屋卡住的橫向滑門。兩人放下背包、雙腳站穩，一人握門把、一人推門側緣，共同用力把門沿軌道向右移，左側露出乾燥室內。上方軌道固定屋梁，兩個滾輪連門板，下方導槽固定地面；禁止懸空鉸鏈或把推拉方向畫反。僅兩名中近景成人，五指接觸清楚，無傷亡、文字品牌紅圍巾。 橫式1536×1024單幅，滑門在畫右半，門板垂直且平行屋牆，向右移動後左半門洞開啟。上軌道連續固定梁下，兩滾輪支架確實連門板頂，底槽在門板正下方。兩人各兩臂兩手各五指，雙手只作推拉動作，不畫動作箭頭或任何字形。",
+      "alt": "暴雨與落石倒木封住山路，兩名巡護員放下背包站穩腳步，一人握住門把，另一人推木門，努力打開避難屋。",
+      "review": {
+        "no": 1586,
+        "kind": "new",
+        "path": "/workspace/idiom-review/batch-15-2342f1c/extracted/batch-15/1586.png",
+        "passed": true,
+        "reviewer": "independent-visual-review-2026-11-22",
+        "alt": "暴雨與落石倒木封住山路，兩名巡護員放下背包站穩腳步，一人握住門把，另一人推木門，努力打開避難屋。",
+        "issues": [],
+        "regenerate": false,
+        "checks": {
+          "meaning": {
+            "passed": true,
+            "evidence": "後方落石倒木封路、身在暴雨而唯一可避難屋門卡住，兩人全力推門求生，呈現沒有退路只能奮力一搏。 已實際看全圖與六區原像素裁圖，並看五張更新後圖庫對照表，包含5115送花圖；感知候選1064、606。與相關已發布插圖比對後未見近乎相同的關鍵構圖；MOE索引此筆syn與ant均空，依釋義判斷。"
+          },
+          "composition": {
+            "passed": true,
+            "evidence": "推拉雙人、可入內門洞及封死後路同框易讀。"
+          },
+          "hands_feet_pose": {
+            "passed": true,
+            "evidence": "雙人各兩臂，握把與推門手各五指合理，兩腿跨步腳牢踏地面，成人重心前傾自然。"
+          },
+          "objects_contact_perspective": {
+            "passed": true,
+            "evidence": "已改為上下連續滑軌，兩滾輪支架固定門板，向右推後左側門洞露出，推拉方向與門開向一致，無懸空鉸鏈。"
+          },
+          "text_brand_watermark": {
+            "passed": true,
+            "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。傘柄、鞋帶、器物結構與動作短線均依附物件，非獨立字樣。"
+          },
+          "style": {
+            "passed": true,
+            "evidence": "灰綠雨衣與暖棕木屋；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+          },
+          "taiwan_context": {
+            "passed": true,
+            "evidence": "台灣山區現代成人巡護員裝備，屋內備用毛巾燈具符合避難用途；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+          },
+          "no_red_neckerchief": {
+            "passed": true,
+            "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅色圍裙或外衣不是領巾。"
+          }
+        }
+      },
+      "status": "published",
+      "webp": "img/idioms/1586.webp",
+      "webp_absolute_path": "/workspace/chengyu/img/idioms/1586.webp"
+    },
+    {
+      "no": 1608,
+      "word": "登徒子",
+      "meaning": "貪戀女色的人。貶義。",
+      "png": "/workspace/idiom-review/batch-15-2342f1c/extracted/batch-15/1608.png",
+      "sha256": "138f431888085d9c7f406f319ea622d3e74ac38a87ce54b06b36e6be41ad1728",
+      "width": 1536,
+      "height": 1024,
+      "scene_prompt": "成語：採『貪戀女色的男子』。【重點：以輕佻窺看女子的行為呈現，改掉連續送花構圖。】台灣社區圖書館，成年男子坐在長椅上，假裝看一本無字圖畫書，卻把書倒拿、眼神越過書緣，瞇眼壞笑地追看兩位成年女子；思緒小泡泡只有這兩名女子的胸像與小愛心，交代他心思全在女色。兩名女子穿正常便服，一人側身避開、另一人皺眉看他。全圖單一場景，不畫花束、不分兩格更換送花對象。所有人物中近景、手指自然，書與椅有支撐，無暴露、接觸、文字品牌或領巾。 橫式1536×1024。實景恰三名成人，中近景，男子兩手握正常單一書脊的書，書中無字樹木插畫樹根朝上顯示倒拿。女子一人雙手分開放身側，一人一手扶包另一手垂下；五指清楚，禁止背景小人物與書脊文字或符號。",
+      "alt": "男子坐在圖書館外長椅，把書倒拿卻瞇眼偷看兩位路過女子，腦中浮現她們與愛心，女子皺眉側身避開。",
+      "review": {
+        "no": 1608,
+        "kind": "new",
+        "path": "/workspace/idiom-review/batch-15-2342f1c/extracted/batch-15/1608.png",
+        "passed": true,
+        "reviewer": "independent-visual-review-2026-11-22",
+        "alt": "男子坐在圖書館外長椅，把書倒拿卻瞇眼偷看兩位路過女子，腦中浮現她們與愛心，女子皺眉側身避開。",
+        "issues": [],
+        "regenerate": false,
+        "checks": {
+          "meaning": {
+            "passed": true,
+            "evidence": "倒拿書卻追視兩名成年女子，壞笑與幻想泡泡及女子不悅明確貶斥貪戀女色，已改掉與5115相同的兩格送花構圖。 已實際看全圖與六區原像素裁圖，並看五張更新後圖庫對照表，包含5115送花圖；感知候選1462、1455。與相關已發布插圖比對後未見近乎相同的關鍵構圖；MOE索引此筆syn與ant均空，依釋義判斷。"
+          },
+          "composition": {
+            "passed": true,
+            "evidence": "一場景三成人，男方視線與女子迴避方向清楚。"
+          },
+          "hands_feet_pose": {
+            "passed": true,
+            "evidence": "男子兩手握書五指合理，女子扶包及三隻垂手正常五指，各兩臂，坐姿翹腳自然。"
+          },
+          "objects_contact_perspective": {
+            "passed": true,
+            "evidence": "書僅一書脊兩頁，倒置樹木具象可辨，握書邊與包帶接觸正確，椅板框架承重。"
+          },
+          "text_brand_watermark": {
+            "passed": true,
+            "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。傘柄、鞋帶、器物結構與動作短線均依附物件，非獨立字樣。"
+          },
+          "style": {
+            "passed": true,
+            "evidence": "淡藍男子衣與紫米女子上衣；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+          },
+          "taiwan_context": {
+            "passed": true,
+            "evidence": "台灣現代社區圖書館與成人日常便服，無暴露接觸；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+          },
+          "no_red_neckerchief": {
+            "passed": true,
+            "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅色圍裙或外衣不是領巾。"
+          }
+        }
+      },
+      "status": "published",
+      "webp": "img/idioms/1608.webp",
+      "webp_absolute_path": "/workspace/chengyu/img/idioms/1608.webp"
+    },
+    {
+      "no": 1474,
+      "word": "尋章摘句",
+      "meaning": "讀書時著重搜求、摘取漂亮詞句，而少深入研究。＆寫作時，多套用前人的章法、語句，而不講究創意。",
+      "png": "/workspace/idiom-review/batch-15-2342f1c/extracted/batch-15/1474.png",
+      "sha256": "6dd1dfa5369ae23b887130ba44ffc581a5d684bebdfeb8962c8c738c41ebf33a",
+      "width": 1536,
+      "height": 1024,
+      "scene_prompt": "成語：採『讀書只摘漂亮詞句，不深入理解』。【重點：保留只取漂亮片段卻不懂因果，修正書籍結構。】台灣國小閱讀課三格，男孩讀一本正常雙頁圖畫書：左頁上下兩幅畫種子和雨水，右頁畫花朵與彩虹；他只摹下右頁漂亮圖像拼貼。下一格得意展示，最後老師指左頁問花如何長出，他望著自己的拼貼困惑。每格書都只有一個中央書脊、左右各一疊書頁，三幅故事是頁面內圖框，禁止三疊頁或兩個書脊。人物中近景、五指自然，所有書頁只畫具象插圖，無文字假字、數字品牌與紅領巾。 橫式1536×1024三格；首格與次格只有同一男孩，末格男孩與老師。每格同一本書平放桌面，中央一道裝訂折縫，左單頁上下種子雨水兩畫框、右單頁花彩虹一畫框；書頁不外翻不折頁，紙片是獨立摹畫作業不接書。每人兩臂，手各一拇指四指，中近景可數。",
+      "alt": "男孩只照畫冊摹出漂亮花朵和彩虹，得意舉起作品，老師指著種子發芽與雨水的圖畫提問，他摸頭露出困惑。",
+      "review": {
+        "no": 1474,
+        "kind": "new",
+        "path": "/workspace/idiom-review/batch-15-2342f1c/extracted/batch-15/1474.png",
+        "passed": true,
+        "reviewer": "independent-visual-review-2026-11-22",
+        "alt": "男孩只照畫冊摹出漂亮花朵和彩虹，得意舉起作品，老師指著種子發芽與雨水的圖畫提問，他摸頭露出困惑。",
+        "issues": [],
+        "regenerate": false,
+        "checks": {
+          "meaning": {
+            "passed": true,
+            "evidence": "只摹漂亮花虹而面對種子雨水如何成花的提問困惑，呈現只取華美片段不深入理解，非單純繪畫練習。 已實際看全圖與六區原像素裁圖，並看五張更新後圖庫對照表，包含5115送花圖；感知候選717、1077。與相關已發布插圖比對後未見近乎相同的關鍵構圖；MOE索引此筆syn與ant均空，依釋義判斷。"
+          },
+          "composition": {
+            "passed": true,
+            "evidence": "前兩格摹圖展示、末格詢問困惑，故事順序清楚。"
+          },
+          "hands_feet_pose": {
+            "passed": true,
+            "evidence": "握筆壓紙、舉畫、摸頭與老師指書各手五指合理，兩臂皆接肩，桌後腿遮住。"
+          },
+          "objects_contact_perspective": {
+            "passed": true,
+            "evidence": "每格畫冊只有一道中央裝訂線、左右兩頁，左頁上下兩畫框右頁一框，作業紙獨立，已無前次兩書脊三疊頁。"
+          },
+          "text_brand_watermark": {
+            "passed": true,
+            "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。傘柄、鞋帶、器物結構與動作短線均依附物件，非獨立字樣。"
+          },
+          "style": {
+            "passed": true,
+            "evidence": "淡粉花虹與米棕桌面；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+          },
+          "taiwan_context": {
+            "passed": true,
+            "evidence": "台灣國小閱讀教室、制服男孩國小比例與老師；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+          },
+          "no_red_neckerchief": {
+            "passed": true,
+            "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅色圍裙或外衣不是領巾。"
+          }
+        }
+      },
+      "status": "published",
+      "webp": "img/idioms/1474.webp",
+      "webp_absolute_path": "/workspace/chengyu/img/idioms/1474.webp"
+    }
+  ],
+  "unprocessable": [],
+  "baseline_commit": "32d49b16a0547079e7d8531bc58ca3eb3cf26c41",
+  "publication": {
+    "commit": "9466d2b335fbf47bbb52000247e0bbc697781d55",
+    "backup": "backup/batch-15-20261122-081023",
+    "main": "9466d2b335fbf47bbb52000247e0bbc697781d55",
+    "passed": 6,
+    "failed": 0,
+    "unprocessable": 0,
+    "total_illustrations": 1459,
+    "pending": 7,
+    "sw_version": "v109",
+    "browser_tests": "passed",
+    "prior_1453_image_bytes_and_entries": "unchanged",
+    "source_zip_sha256": {
+      "batch-15-redraw-6.zip": "9856749b2d0e77ed99079c71e438cdc34af5bee784aa59d7f768ed15b8cd32a5"
+    }
+  }
+}

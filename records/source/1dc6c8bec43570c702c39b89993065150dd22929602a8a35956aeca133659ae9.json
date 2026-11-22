@@ -1,0 +1,46 @@
+{
+  "no": 1515,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-10-48cd224/batch-10-part-1/batch-10-part-1/1515.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "女孩雙手握棍，讓兩個藍色扯鈴在身前轉動；旁邊男孩仍練習單個扯鈴，張口看著她，兩人站在校園樹蔭下。",
+  "issues": [
+    "原尺寸追蹤繩路：右棍垂下的繩在上鈴右方形成三岔，另一細繩向女孩腿側無故中止；兩棍之間單一連續繩無法成立，objects_contact_perspective不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同類技藝中女孩雙鈴運轉對照男孩單鈴練習與驚訝，突出超越同類的能力，非僅兩人合作。 已實際看全圖及六區原像素裁圖，另與七張既有圖庫對照表、1458原圖比較；感知雜湊候選1、467及相關語義候選未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主角雙鈴居前大、旁人單鈴作對照，焦點清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女孩兩握棍手與男孩握棍手五指屈曲遮擋正常，手臂連肩；雙方鞋腳落地、站姿穩定。"
+    },
+    "objects_contact_perspective": {
+      "passed": false,
+      "evidence": "原尺寸追蹤繩路：右棍垂下的繩在上鈴右方形成三岔，另一細繩向女孩腿側無故中止；兩棍之間單一連續繩無法成立，objects_contact_perspective不通過。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔藍扯鈴、淡藍白制服與自然草綠；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小扯鈴練習區、適齡孩子、普通運動鞋；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

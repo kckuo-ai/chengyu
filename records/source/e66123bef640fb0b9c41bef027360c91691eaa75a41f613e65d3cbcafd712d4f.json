@@ -1,0 +1,46 @@
+{
+  "no": 1331,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-1-134a449/batch-1/1331.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "老師指著海底主題圖，男孩卻拿著太空火箭畫，驚訝抓頭；其他孩子都在畫魚群，但主角除了抓頭還多出兩手握畫板。",
+  "issues": [
+    "原尺寸確認男孩同時有一隻抓後腦的手臂、左下握畫板的另一手臂，以及右側握板手；教師另有兩手分別指兩圖，無法把額外手解釋為教師，人物有多餘手臂。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "指定海洋畫、同學相符作品與男孩太空畫形成內容離題的直接對照，題意本身清楚。 已檢視全站感知雜湊候選894、1248、874及607、400等相關情境的既有圖；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "大畫板與教師指向參考圖並排，手機可辨題材差異。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "原尺寸確認男孩同時有一隻抓後腦的手臂、左下握畫板的另一手臂，以及右側握板手；教師另有兩手分別指兩圖，無法把額外手解釋為教師，人物有多餘手臂。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "畫架有三角支撐、筆尖接畫紙、水杯顏料盒落桌；畫板握持本身存在，但增生手臂使人物接觸不可信。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "太空圖無太空衣徽記，書脊與顏料瓶未見字母數字文字或品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "淡藍海底畫與柔紫太空、暖棕教室有鉛筆水彩色鉛筆與米白紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小美術課、白藍制服及圍裙教師，窗外有台北地標，支持情境。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "師生白藍衣領、教師米白上衣藍圍裙均無紅領巾或紅圍巾。"
+    }
+  }
+}

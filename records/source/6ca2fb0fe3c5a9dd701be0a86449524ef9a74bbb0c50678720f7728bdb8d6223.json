@@ -1,0 +1,23 @@
+{
+  "description": "Frozen batch of 1 independently reviewed and registered idiom illustrations, catalog 845 to 846. Prior backups retained.",
+  "baseline_catalog_count": 845,
+  "final_catalog_count": 846,
+  "count": 1,
+  "created_at": "2026-11-08T02:04:29.937657+00:00",
+  "entries": [
+    {
+      "no": 897,
+      "word": "逃之夭夭",
+      "original": "originals/897.png",
+      "original_source_path": "/workspace/generated_images/exec-f5047c3c-d5cd-432b-9288-713214be2457.png",
+      "sha256": "ddc40291de8e28d48f0a40b1fee2fb6fd9663a95942c17756333618f41b0fd40",
+      "metadata": "metadata/897.json",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；主要採 3:2 橫向構圖；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "明亮的現代學校劇場排練走廊，一名穿紅色披風的學生從敞開的出口門向遠處跑去，兩位同學和老師在門內驚訝地追望；擺動的門、逐漸淡去的腳印和空蕩走廊強調他已逃得無影無蹤，畫面安全、無危險。",
+      "alt": "學生穿著紅披風跑出劇場走廊，留下擺動的門和淡去腳印，同學與老師在後方張望。",
+      "review": "reviews/897.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/897.webp"
+    }
+  ]
+}

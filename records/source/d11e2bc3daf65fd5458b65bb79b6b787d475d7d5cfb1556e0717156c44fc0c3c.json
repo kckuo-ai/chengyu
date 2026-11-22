@@ -1,0 +1,46 @@
+{
+  "no": 1323,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-1/1323.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "男孩坐在矮桌前專注拼接森林動物圖，沒有理會窗外抱球經過的同學；沙發上的平板與玩偶也未吸引他的目光。",
+  "issues": [
+    "與已發布607聚精會神同為近景孩子雙手對準拼片、背景玩球同學被忽略；即使拼圖圖案不同，關鍵道具與敘事構圖幾乎重複，依規則判失敗。 已檢視全站感知雜湊篩出的近構圖候選806、598、461，以及同類道具與近義詞情境比較圖。與607的拼圖專注構圖過度重複。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "與已發布607聚精會神同為近景孩子雙手對準拼片、背景玩球同學被忽略；即使拼圖圖案不同，關鍵道具與敘事構圖幾乎重複，依規則判失敗。 已檢視全站感知雜湊篩出的近構圖候選806、598、461，以及同類道具與近義詞情境比較圖。與607的拼圖專注構圖過度重複。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "男孩及大拼圖是明確焦點，桌面清楚，手機可看懂專注動作。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "裁圖核對男孩拼圖雙手五指、盤坐腿與襪腳、背景孩子持球手；無可見多肢或明顯關節錯接。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "拼片壓在拼板上、桌腳落地，男孩盤坐於地墊，平板與玩偶有沙發支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "拼圖和書脊只有自然圖案或純色面，未見可讀字母數字、品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "森林綠、暖棕桌、白藍衣服採細鉛筆線與柔淡水彩色鉛筆，紙紋可見。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代家庭式閱讀空間、白藍國小制服及窗外同齡孩子符合台灣兒童生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "男孩、窗外同學及後方成人穿普通上衣或白藍制服，頸部無紅巾。"
+    }
+  }
+}

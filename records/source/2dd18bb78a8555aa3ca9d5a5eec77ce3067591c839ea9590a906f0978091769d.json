@@ -1,0 +1,44 @@
+{
+  "no": 1356,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2/1356.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "女孩想像自己坐在輪椅上伸手也拿不到高桌畫具，於是把材料移到同學面前的低桌；坐輪椅的孩子笑著與她交談。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "短髮幫助者在想像泡泡裡親處輪椅位置、伸手拿不到，再移低材料給長髮同學，假想他人處境的關鍵清楚；不同於1275教師公平給材料。 已視覺比對全站感知雜湊候選1006、268、1272及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "大泡泡與實際低桌上下對照，兩種髮型可區分自己代入與實際同學。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對搬盤雙手、輪椅女孩攤掌五指及扶手放掌、泡泡伸手與輪椅上雙鞋，肩臂接續自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "輪椅大輪前輪、扶手腳踏結構可辨，雙腳放踏板；畫具盤落低桌、手扶兩側，無懸浮。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "畫具、制服、輪椅及牆上作品沒有文字字母數字品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔藍輪椅、自然綠窗景與暖棕桌有鉛筆水彩色鉛筆及米白紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代融合國小美術教室、白藍制服及適齡孩子符合情境。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "師生米白或白藍衣領，所有人物未戴紅領巾或紅圍巾。"
+    }
+  }
+}

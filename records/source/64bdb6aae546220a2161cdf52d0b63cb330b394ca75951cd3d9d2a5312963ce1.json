@@ -1,0 +1,18 @@
+{
+  "no": 801,
+  "word": "顛撲不破",
+  "path": "/workspace/generated_images/exec-4b9a127f-7405-486a-8610-b4cda665b78d.png",
+  "passed": true,
+  "reviewer": "independent-visual-verifier-801",
+  "reviewed_at": "2026-11-06T16:06:00Z",
+  "checks": {
+    "meaning": "pass: teacher and students compare a receding ship, globe, and orbital Earth view as mutually supporting observations for a reliable theory, rather than depicting an unbreakable object",
+    "anatomy_pose_contact": "pass: teacher and five students have coherent visible arms and hands, natural seated poses, and plausible pointing and notebook grips",
+    "objects_physics_perspective": "pass: globe rests on a stand, lamp illuminates a small sphere, distant ship lies near the horizon, and curved Earth imagery is plausible; ship sequence is simplified but progressively hides its lower portion",
+    "style": "pass: graphite pencil contours, soft watercolor, colored-pencil layers, and warm textured paper",
+    "text_brand_safety": "pass: no readable words, logo, watermark, or unsafe material",
+    "alt": "pass: accurately describes the compared observations without giving the full idiom answer"
+  },
+  "issues": [],
+  "regenerate": false
+}

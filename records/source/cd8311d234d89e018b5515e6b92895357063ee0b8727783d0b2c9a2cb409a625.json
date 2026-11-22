@@ -1,0 +1,44 @@
+{
+  "no": 1333,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-1/1333.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "左格女子與藍衫男子坐在長椅上握手收花；右格她轉而牽住另一名男子，原來的同伴錯愕坐著，花束留在椅上。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一綠裙女子從與藍衣者相好到轉牽棕衣者、原伴侶錯愕且花被留下，雙格清楚表達感情改變，與692換社團不同。 已檢視全站感知雜湊篩出的近構圖候選893、276、1059，以及同類道具與近義詞情境比較圖。未見同樣關鍵道具、人物關係與因果的近乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "兩格人物服裝一致、右格原伴侶與新伴侶同時可見，手機能讀出前後關係。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "裁圖核對接花、椅上握手、右格牽手及原伴侶放膝伸掌；每段各兩臂，鞋腳分別落地，無增生肢體。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "花束左格有人握、右格置椅面；長椅有腳支撐，牽手接觸、裙擺與步姿方向合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "花束、椅子、遠景建築無字母數字或文字，未見品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "淡綠裙、暖棕長椅與淡藍遠景用鉛筆、水彩、色鉛筆疊色，米白紙紋可見。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "成人比例人物穿現代便服，城市公園及台北地標遠景符合台灣當代情境，非把成人畫成國小生。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "女子綠裙、兩名男子藍襯衫與棕襯衫，均無紅領巾或紅圍巾。"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "no": 1323,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-1-134a449/batch-1/1323.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "女孩低頭專心畫花園，沒有理會弟弟捧來的兔子玩偶與窗外踢球同學；桌上排好彩色鉛筆，旁邊還放著未拆點心。",
+  "issues": [
+    "專注桌面作品、不理窗外玩球同學，與已發布607聚精會神的近景低頭、雙手作業及窗後球戲構圖高度重複；換成畫紙與加入玩偶仍缺乏足夠區別。 已檢視全站感知雜湊候選998、1103、102及607、400等相關情境的既有圖；與607關鍵構圖過度重複。",
+    "左側書櫃多本書脊有成列細記號及近似0等字母數字形狀，原尺寸可見，未達無類文字要求。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "專注桌面作品、不理窗外玩球同學，與已發布607聚精會神的近景低頭、雙手作業及窗後球戲構圖高度重複；換成畫紙與加入玩偶仍缺乏足夠區別。 已檢視全站感知雜湊候選998、1103、102及607、400等相關情境的既有圖；與607關鍵構圖過度重複。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "女孩與畫紙在前景、邀玩者在右、球戲在窗後，主次明確，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對握筆壓紙、弟弟雙手抱玩偶與跪坐腿腳，手腕連臂自然，未見增生手腳；背景球戲手部較小。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "筆尖接紙、玩偶由兩手抱持，女孩手臂靠桌、彩筆盒與點心落桌，支撐可辨。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "左側書櫃多本書脊有成列細記號及近似0等字母數字形狀，原尺寸可見，未達無類文字要求。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "淡綠花園、暖棕桌與藍白衣服具鉛筆描線、柔和水彩、色鉛筆顆粒及米白紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣家庭式閱讀空間、白藍國小制服與校園窗景符合生活設定，非僅據臉孔判國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "姊弟及窗外孩子白藍衣領無紅領巾；玩偶為藍色格紋蝴蝶結。"
+    }
+  }
+}

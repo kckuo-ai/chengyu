@@ -1,0 +1,44 @@
+{
+  "no": 1338,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-1/1338.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "同一對孩子在三格畫面裡一起背書包上學、坐在樹下共讀圖畫書，又到花圃合作澆花，始終親密地待在彼此身旁。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一髮型衣著兒童跨上學、閱讀、照顧花三種活動總是在一起，表達關係密切，沒有分開或獨自活動；不同於454的成人伴侶單景。 已檢視全站感知雜湊篩出的近構圖候選869、261、358，以及同類道具與近義詞情境比較圖。未見同樣關鍵道具、人物關係與因果的近乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "三個直幅格各保留一項清楚動作，人物一致，手機可辨連續相伴。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "裁圖核對抓肩帶、持書、提壺托壺與抱盆手、盤坐的四隻襪鞋；肩臂無錯接，五指在握持遮擋下結構合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "書被兩邊托住、壺有上提與下托、花盆放磚台且有人扶，水從壺嘴灑落，支撐合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "圖畫書全為動植物畫、制服與背包無字母數字或標誌，未見浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "自然綠樹、淺藍白制服與淡粉花朵有鉛筆細線、水彩及色鉛筆紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "國小比例孩子穿白藍制服與運動長褲，校門、樹下閱讀和校園花圃符合台灣設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩位主角及校門遠景孩子皆穿白藍衣服，無紅領巾或紅圍巾。"
+    }
+  }
+}

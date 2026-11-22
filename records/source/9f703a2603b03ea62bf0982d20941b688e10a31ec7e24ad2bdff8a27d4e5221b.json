@@ -1,0 +1,44 @@
+{
+  "no": 1335,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-1/1335.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "女孩雙手拿著小餅乾，閉眼微笑倚在父親身旁；桌上有剛烤好的點心與牛奶，父親輕搭她的肩，一起享受傍晚。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "女孩閉眼滿足笑、雙手珍惜拿點心，父親放鬆微笑與少量食物呈現願望已滿足，沒有456再伸手索取的動作。 已檢視全站感知雜湊篩出的近構圖候選260、207、609，以及同類道具與近義詞情境比較圖。未見同樣關鍵道具、人物關係與因果的近乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "父女臉部及手中餅乾集中於中央，桌面牛奶點心只作交代，手機容易看懂。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "裁圖核對女孩雙手拿餅、父親托腮及搭肩手，指部有自然遮擋，兩臂連接正常；下半身在桌後畫外。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "餅乾被指尖夾持、父親手貼肩，杯盤放桌、牛奶水平面合理，人物坐椅有支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "書脊只有色塊與幾何裝訂區、盤杯和餅乾無字母數字，未見品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔和夕照、暖棕桌與淡黃餅乾用鉛筆線、水彩、色鉛筆疊色及米白紙紋呈現。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代家庭餐桌、便服父親及穿白藍國小制服的女孩，窗外公寓符合台灣生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "父親藍襯衫與女孩白藍衣領均無紅領巾或紅圍巾。"
+    }
+  }
+}

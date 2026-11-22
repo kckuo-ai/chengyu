@@ -1,0 +1,46 @@
+{
+  "no": 1700,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-10-48cd224/batch-10-part-2/batch-10-part-2/1700.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "女孩和導覽員扶著欄杆，驚訝看水槽裡的強勁水流衝過擋板；幾片薄板接連傾倒，白色浪花沿透明槽壁翻湧向前。",
+  "issues": [
+    "水由右側牆孔湧出往左流，三片底軸固定擋板卻全朝右側上游傾倒，和水流推力相反；原尺寸核對轉軸與板頂方向後，objects_contact_perspective不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "強流持續通過多片阻擋可見，來勢猛烈難擋的方向成立，非普通水景。 已實際看全圖及六區原像素裁圖，另與七張既有圖庫對照表、1458原圖比較；感知雜湊候選81、1274及相關語義候選未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前景水槽擋板與後方驚訝表情集中，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女孩恰兩臂兩手同扶前欄，成人一手扶欄一手張掌各五指，臂接肩；未見多餘手。"
+    },
+    "objects_contact_perspective": {
+      "passed": false,
+      "evidence": "水由右側牆孔湧出往左流，三片底軸固定擋板卻全朝右側上游傾倒，和水流推力相反；原尺寸核對轉軸與板頂方向後，objects_contact_perspective不通過。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔藍水、米灰裝置與暖棕衣；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代自然科學館、適齡制服女孩與便服成人導覽員；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

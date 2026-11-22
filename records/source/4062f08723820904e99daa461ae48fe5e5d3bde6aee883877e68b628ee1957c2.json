@@ -1,0 +1,44 @@
+{
+  "no": 1301,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2/1301.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "工廠旁的男子把褐色污水排進清溪，污染處水草枯萎，居民舉起變色水壺一致伸掌制止，連工人也拒絕協助他。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "明知居民受害仍排污，清溪轉濁與水草枯萎、全體居民及助手制止，具備嚴重惡行不容於眾的因果，非單純群眾責備。 已視覺比對全站感知雜湊候選487、672、687及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "右方排污起點對照左方群眾，污染沿河展開，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "裁圖逐一核對居民攤掌五指、男子扶管雙手與蹲姿，肩臂相接；前排鞋踩河岸，未見多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "軟管接金屬口與固定架，水流由口落河；鞋腳與石岸接觸，桶立於平台，支撐合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "水瓶、桶身、工作服及廠房無字母數字、可讀文字、品牌或浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "自然綠與污水暖棕有細鉛筆線、水彩透明層、色鉛筆顆粒及米白紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣公寓、工廠河岸、白藍國小制服與便服居民，非僅據臉孔推定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "居民素色便服、孩子白藍制服及工人反光背心均無紅領巾或紅圍巾。"
+    }
+  }
+}

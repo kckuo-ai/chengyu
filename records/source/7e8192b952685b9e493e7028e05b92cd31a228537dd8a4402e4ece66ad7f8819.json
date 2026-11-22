@@ -1,0 +1,44 @@
+{
+  "no": 1310,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2/1310.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "老師在關上的門旁私下請男孩歸還彩筆，沒有讓同學圍觀；另一格男孩扶起同學，老師向全班介紹他的好行為。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "左格門遮住旁人、空筆盒和交還彩筆構成私下糾正；右格同一男孩助人受全班鼓掌，兼具不張揚與宣揚善行。 已視覺比對全站感知雜湊候選1221、1196、118及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右分格、同衣男孩與老師位置清楚，手機可辨兩種處理方式。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "原尺寸核對指筆盒、遞筆、扶起同學、持書及鼓掌手，露出攤掌為五指；肩臂連接與蹲坐鞋腳合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "筆盒置桌、書本由手收起、握手接觸明確，坐地孩子以另一手撐地，無懸浮物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "黑板空白、書脊純色，筆盒與衣物無字母數字或品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "紫灰罩衫、暖棕木桌及白藍制服有鉛筆線、柔水彩、色鉛筆與米白紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代國小教室、白藍制服和適齡兒童，教師便服符合台灣校園。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "教師紫色罩衫與孩子白藍衣領皆無紅領巾或紅圍巾。"
+    }
+  }
+}

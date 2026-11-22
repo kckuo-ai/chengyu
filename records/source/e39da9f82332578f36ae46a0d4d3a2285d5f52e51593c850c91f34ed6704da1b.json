@@ -1,0 +1,18 @@
+{
+  "no": 789,
+  "word": "咎由自取",
+  "path": "/workspace/generated_images/exec-29f6d017-fb36-464c-ac44-a1a9c4c297b1.png",
+  "passed": true,
+  "reviewer": "independent-visual-verifier-789",
+  "reviewed_at": "2026-11-06T14:54:34.233075+00:00",
+  "checks": {
+    "meaning": "pass: shopper overloads a paper bag despite vendor indicating the basket; bag breaks and shopper bears direct consequence",
+    "anatomy_pose_contact": "pass: shopper and vendor have coherent arms, hands, legs and natural gestures; hands hold the bag plausibly",
+    "objects_physics_perspective": "pass: bag tears at bottom under heavy apples; fruit falls downward and rests on ground; basket sits securely on stall",
+    "style": "pass: pencil outlines, soft watercolor, colored-pencil layering and warm paper texture",
+    "text_brand_safety": "pass: no readable lettering, branding, watermark or inappropriate material",
+    "alt": "pass: describes visible bag, apples and basket without the idiom answer"
+  },
+  "issues": [],
+  "regenerate": false
+}

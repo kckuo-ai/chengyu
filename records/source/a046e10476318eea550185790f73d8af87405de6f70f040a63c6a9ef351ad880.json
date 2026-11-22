@@ -1,0 +1,23 @@
+{
+  "description": "Frozen batch of 1 independently reviewed and registered idiom illustrations, catalog 838 to 839. Prior backups retained.",
+  "baseline_catalog_count": 838,
+  "final_catalog_count": 839,
+  "count": 1,
+  "created_at": "2026-11-07T13:20:29.953980+00:00",
+  "entries": [
+    {
+      "no": 889,
+      "word": "紙醉金迷",
+      "original": "originals/889.png",
+      "original_source_path": "/workspace/generated_images/exec-6a4a70b9-943e-407e-87b2-a945f76e3b17.png",
+      "sha256": "f37c69a952a9ea9446b623be49723e6ee2530b72bdbd88e6d9418c11ebbaad29",
+      "metadata": "metadata/889.json",
+      "style_prompt": "原創兒童插畫，鉛筆手繪線條、柔和水彩與彩色鉛筆疊色、米白紙張紋理；無可讀文字、品牌或浮水印。",
+      "scene_prompt": "現代購物中心的奢華休息廳，人物被璀璨燈光、蛋糕、無品牌購物袋、金色裝飾和昂貴物品包圍，興奮伸手追逐另一件閃亮物品；桌上打開的空錢包與堆積未使用物品，呈現沉溺奢華享樂的生活。",
+      "alt": "人物坐在璀璨購物廳裡，周圍堆滿購物袋、甜點和閃亮物品，仍伸手追逐另一件商品，空錢包放在桌上。",
+      "review": "reviews/889.review.json",
+      "review_passed": true,
+      "webp": "img/idioms/889.webp"
+    }
+  ]
+}

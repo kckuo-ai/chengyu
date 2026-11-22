@@ -1,0 +1,18 @@
+{
+  "no": 748,
+  "word": "借刀殺人",
+  "path": "/workspace/generated_images/exec-55db847d-1b75-46b5-b7d2-c2ab0d5152a2.png",
+  "passed": true,
+  "reviewer": "independent visual verifier /root/verify_748",
+  "reviewed_at": "2026-11-06T04:40:32+00:00",
+  "checks": {
+    "meaning": "pass: one scheming woman whispers and points at the coworker while the misled manager confronts that coworker; the indirect manipulation is clear without a literal weapon",
+    "anatomy": "pass: exactly three adults, each with plausible visible arm and hand positions; schemer's mouth-covering and pointing hands are distinct; manager points with one hand and rests the other on the desk; coworker clasps her hands",
+    "objects_physics": "pass: desk, laptop, papers and chairs are supported and perspective is coherent",
+    "style": "pass: pencil contours, translucent warm watercolor, colored-pencil layering and visible paper grain",
+    "text_brand_safety": "pass: no readable text, logo, watermark, weapon or graphic harm",
+    "alt": "pass: describes the three visible people and gestures without giving the full idiom answer"
+  },
+  "issues": [],
+  "regenerate": false
+}

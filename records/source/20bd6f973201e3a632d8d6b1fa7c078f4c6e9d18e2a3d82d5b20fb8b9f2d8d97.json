@@ -1,0 +1,46 @@
+{
+  "no": 1579,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-10-48cd224/batch-10-part-2/batch-10-part-2/1579.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "兩個孩子一起查看紙飛機照片和飛行路線圖，桌上放著不同折法的飛機；男孩指向圖面，女孩托著下巴認真思考。",
+  "issues": [
+    "未建立哪架屬自己、哪架屬對手，也沒有雙方優缺點的對比；可被理解為共同規劃飛行，無法確認了解自己與敵方，meaning不通過。 已實際看全圖及六區原像素裁圖，另與七張既有圖庫對照表、1458原圖比較；感知雜湊候選269、1105及相關語義候選未見近乎相同的關鍵構圖。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "未建立哪架屬自己、哪架屬對手，也沒有雙方優缺點的對比；可被理解為共同規劃飛行，無法確認了解自己與敵方，meaning不通過。 已實際看全圖及六區原像素裁圖，另與七張既有圖庫對照表、1458原圖比較；感知雜湊候選269、1105及相關語義候選未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "飛機圖和討論集中，但雙方身份歸屬缺席。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "指圖、托腮與扶桌手五指結構及屈曲正常，臂接肩；桌後下肢取景外。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "紙飛機折線與翼身合理、照片圖紙落桌、伸指接圖，無懸浮。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "米白紙機、淡藍制服與暖棕桌；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小紙飛機活動、適齡制服孩子與現代課桌；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

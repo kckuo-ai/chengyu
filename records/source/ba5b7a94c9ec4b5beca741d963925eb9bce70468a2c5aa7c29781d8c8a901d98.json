@@ -1,0 +1,46 @@
+{
+  "no": 1379,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2-cbee8cb/batch-2/1379.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "女孩伸手碰男孩正在搭的積木，男孩先皺眉觀看；下一格積木倒下，他生氣張嘴，抬起手掌要求停止，女孩站在桌旁。",
+  "issues": [
+    "只見一次碰積木及隨即發怒，沒有反覆忍受至極限，可能只是大發雷霆或一般爭執。 已實際看過全圖、手腳泡泡原尺寸裁圖，並比對既有候選821、785、571及相關語義插圖；未見近乎相同的關鍵構圖。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "只見一次碰積木及隨即發怒，沒有反覆忍受至極限，可能只是大發雷霆或一般爭執。 已實際看過全圖、手腳泡泡原尺寸裁圖，並比對既有候選821、785、571及相關語義插圖；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "兩格動作先後清楚，倒塌積木與生氣手勢突出。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女孩伸手與男孩張掌各五指自然，手臂連肩、腳踩地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "積木塔可站立，倒塌物落桌及地面，桌面與手接觸合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查衣鞋、道具、紙面及背景，未見可讀文字、字母數字或類文字標記，無品牌、浮水印及不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋；自然草綠、柔藍與暖棕，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣家庭積木遊戲、適齡孩子及普通衣著；兒童頭身與身高符合國小年齡，場景及服裝支持台灣現代生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一核對全圖及細部的人物領口，均無紅領巾或紅圍巾；獎章掛帶、白色頸巾及道具不作紅巾判讀。"
+    }
+  }
+}

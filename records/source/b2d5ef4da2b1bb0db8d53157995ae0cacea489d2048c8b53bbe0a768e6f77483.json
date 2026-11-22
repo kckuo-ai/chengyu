@@ -1,0 +1,44 @@
+{
+  "no": 1409,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-3-25a2ef6/batch-3/1409.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-17",
+  "alt": "女子穿著綠色圍裙，抱著一盆粉紅花站到聽眾面前介紹；兩名居民坐在前排看著她，後方桌上整齊擺著不同種類的盆栽。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "人物公開站在聽眾面前介紹，直接呈現出現在大眾面前，非只伸頭或躲在室內。 已實際查看全圖及原尺寸手腳、泡泡、鞋面和道具裁圖，並比對全站感知雜湊候選223、672、150及相關語義圖116、647、682、1244、1286、505、1368；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "講者全身正面居中、前景兩觀眾框出公開活動，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "講者兩手托盆、兩觀眾放膝雙手五指結構自然，肩臂相接，講者鞋踩地、觀眾坐姿合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "花盆底由掌托、其餘盆栽落桌，桌腳與椅腳接地，盆身透視正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌、浮水印或不適內容；鞋面接縫與一般物件輪廓不作文字判讀。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔綠圍裙、淡粉花、暖棕桌具有細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒和米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區園藝分享活動、成年講者與便服居民；依現代服裝及建築生活線索確認情境，兒童比例符合國小年齡（無人物者不適用）。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查人物領口：白藍制服或普通素色便服，均無紅領巾或紅圍巾；粉色玩偶蝴蝶結與衣物花色不是紅巾。"
+    }
+  }
+}

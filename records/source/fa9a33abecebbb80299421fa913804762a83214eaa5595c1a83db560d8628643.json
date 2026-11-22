@@ -1,0 +1,44 @@
+{
+  "no": 5332,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-14-c585355/extracted/batch-14/5332.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "女孩蹲在校園花圃旁閉眼聞花，兩隻綠色小鳥站在桂花枝頭張嘴鳴叫，周圍白花粉花盛開，景色清新。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "鳴叫小鳥、聞花女孩與繁盛校園共同表達自然景色美好，符合本義而非錯用典故。 已實際看全圖與六區原像素裁圖，並看六張圖庫對照表及額外錢包、地形、山路候選表；感知候選1177、972。與相關已發布插圖比對後未見近乎相同的關鍵構圖；MOE索引此筆syn與ant均空，依釋義判斷。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前景雙鳥與聞花側臉清楚，背景花圃不搶焦點。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女孩兩手五指自然放膝，雙腿蹲姿與鞋底接地；鳥爪握枝，無多腳。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "花枝相接、鳥足包覆枝條，女孩不扯花，近鳥遠人大小符合景深。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。傘柄、鞋帶、器物結構與動作短線均依附物件，非獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔綠花葉與淡粉白花；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小制服、桂花校園及國小女孩身形；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅色圍裙或外衣不是領巾。"
+    }
+  }
+}

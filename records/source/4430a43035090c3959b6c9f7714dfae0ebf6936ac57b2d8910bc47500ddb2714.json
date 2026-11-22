@@ -1,0 +1,44 @@
+{
+  "no": 1533,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-10-48cd224/batch-10-part-1/batch-10-part-1/1533.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "女孩把圖畫書闔上，拿起外套準備離開，臉上露出猶豫；另一格她又攤開同一本書看得入神，外套被擱在身旁。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "已準備停看離開卻忍不住重開，想停止與無法停止前後清楚，非只畫喜歡讀書或忘記回家。 已實際看全圖及六區原像素裁圖，另與七張既有圖庫對照表、1458原圖比較；感知雜湊候選1322、529及相關語義候選未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "闔書拿衣到重開同書，兩格焦點明確。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "闔書與持衣、翻頁手拇指四指及紙遮擋自然，臂接肩；坐姿由椅承托，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "書落桌或由手扶、外套落椅，椅與桌穩固，圖畫書僅具象插畫。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "暖棕桌、淡藍外套與柔黃書頁；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代家庭閱讀角、適齡便服女孩；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

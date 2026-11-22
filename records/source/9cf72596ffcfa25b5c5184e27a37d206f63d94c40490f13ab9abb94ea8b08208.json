@@ -1,0 +1,44 @@
+{
+  "no": 1357,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2/1357.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "晴朗公園花市裡，男子當著園丁、家長和孩子的面把盆花塞進大袋，眾人都清楚看見，園丁伸掌喝止，他驚慌回頭。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "明亮公共花市、多人視線直見與園丁制止，強調大白天人人看得清楚仍作違規事，不只是單畫日光或偷偷躲藏。 已視覺比對全站感知雜湊候選266、927、1148及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "偷花者與制止者近景相對、目擊者環繞，手機可讀眾目下行動。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對園丁舉掌放膝各五指、男子扶盆提袋手與各人落地鞋，肩臂未錯接。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "盆花在手與袋邊被托住、展示桌及花盆落地有支撐，無不合理懸空重物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "花盆、衣鞋與公園設施無文字字母數字品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔粉花、草綠葉與暖棕盆器採鉛筆水彩色鉛筆及紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代公園花市、白藍國小制服、普通便服成人與園丁圍裙符合設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "全體衣領無紅巾，園丁草帽繩為棕色細繩，不是紅領巾。"
+    }
+  }
+}

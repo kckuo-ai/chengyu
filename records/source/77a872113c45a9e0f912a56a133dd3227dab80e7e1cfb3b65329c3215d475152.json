@@ -1,0 +1,47 @@
+{
+  "no": 1326,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2/1326.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "左格家人忙著接水、拖地及搬開濕鞋，右格工人正在修水龍頭，地面已乾，孩子安心坐在旁邊，工具收在腰袋。",
+  "issues": [
+    "原尺寸及二倍核對，活動扳手開口停在出水嘴右側空處，未夾住螺帽；左格牆側接頭亦滴水，右格並未在該處修理，受力與維修接點不合理。",
+    "扳手頭下方有近似8的環狀記號，未達無類數字或品牌標記要求；鞋面已改素色。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "左右同一漏水源對應多項收拾工作解除，寓意可辨；但修理接點與工具接觸仍有物理疑點，不能只因結果乾燥放行。 已視覺比對全站感知雜湊候選664、372、313及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右同位水龍頭、濕乾地面與家人姿態方便手機比較。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對持盆、提鞋、拖把雙手及工人兩手；手指在握持下合理，鞋腳接地，無額外肢體。"
+    },
+    "objects_contact_perspective": {
+      "passed": false,
+      "evidence": "原尺寸及二倍核對，活動扳手開口停在出水嘴右側空處，未夾住螺帽；左格牆側接頭亦滴水，右格並未在該處修理，受力與維修接點不合理。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "扳手頭下方有近似8的環狀記號，未達無類數字或品牌標記要求；鞋面已改素色。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "淡藍水盆、暖棕磁磚及低飽和衣服維持鉛筆水彩色鉛筆紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台北地標、磁磚陽台、國小白藍制服及維修工作服支持台灣設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "家人白衣紫圍裙、工人藍服，均無紅領巾或紅圍巾。"
+    }
+  }
+}

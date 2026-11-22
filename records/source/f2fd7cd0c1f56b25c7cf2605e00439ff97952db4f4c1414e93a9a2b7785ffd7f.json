@@ -1,0 +1,46 @@
+{
+  "no": 1347,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2/1347.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "男子抱著獎盃和錢箱坐在室內，獎章緞帶纏住雙腳與椅腳；門外家人邀他出遊，他雖望向外面，卻仍緊抱財物。",
+  "issues": [
+    "上方書架多本書脊有近似字形的細記號，米色書脊底端有類似兩個0的環狀筆畫；按拿不準即失敗，未通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "獎盃與錢幣代表名利、相連緞帶綁住腳及椅，門外自由活動對比室內牽絆，沒有只畫吝嗇而缺失自由受限。 已視覺比對全站感知雜湊候選435、88、347及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前景名利和纏腿、右方門外邀請形成明確室內外對照。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對抱盃抓箱手、妻女攤掌五指及男子被纏雙腿、兒童鞋；各臂連肩，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "箱底落桌、獎盃由臂抱住，緞帶從桌面獎章連至腿椅，椅輪落地，接觸可讀。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "上方書架多本書脊有近似字形的細記號，米色書脊底端有類似兩個0的環狀筆畫；按拿不準即失敗，未通過。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔金獎盃、棕木桌及淡藍紅緞帶維持鉛筆水彩色鉛筆和米白紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣家庭書房、公園門景、國小制服孩子與便服父母符合情境。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "男子米白襯衫、妻子粉罩衫、孩子白制服無頸巾；腿上的紅緞帶是獎章帶而非紅領巾。"
+    }
+  }
+}

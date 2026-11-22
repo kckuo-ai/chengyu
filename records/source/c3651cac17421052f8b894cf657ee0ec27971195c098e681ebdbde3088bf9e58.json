@@ -1,0 +1,44 @@
+{
+  "no": 1432,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-5-9da33dc/batch-5/1432.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "男孩原本坐在地上玩紙團，掃把閒放旁邊；老師走到門口時，他立刻站起握住掃把，轉頭露出討好的笑容，地面仍很髒亂。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "無人時玩紙、被老師看見才擺掃地姿勢且髒亂未減，故意做作的前後對照明確，非自然認真打掃。 已實際查看全圖及原尺寸手腳、衣鞋、泡泡與道具裁圖，並比對全站感知雜湊候選1250、749、516及相關語義圖1380、406、611、444、1367、1403等；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右同角落、掃把位置與男孩動作改變清楚，手機可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對玩紙團雙握手、握掃把上下手、老師兩垂手指節正常，臂接肩；盤坐腿腳與站姿雙鞋自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "掃把頭貼地、桿連掃把頭，紙團落地，盤坐重心及桌椅支撐合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸核對衣鞋、道具、紙面、泡泡及背景，未見可讀文字、字母數字、類字形、品牌或浮水印；無不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔藍白制服、暖棕桌與淡綠牆有細鉛筆輪廓、柔和透明水彩及色鉛筆疊色顆粒，保留米白紙紋，非鮮豔扁平或3D；1536×1024符合橫式3:2。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小教室、適齡制服男孩及便服教師；依現代建築服裝與生活道具確認台灣情境，兒童比例符合國小年齡，非只憑臉孔判國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖與原尺寸人物領口：白藍制服或普通素面便服，無紅領巾或紅圍巾；裝備反光帶、圍裙及玩偶蝴蝶結不作紅巾判讀。"
+    }
+  }
+}

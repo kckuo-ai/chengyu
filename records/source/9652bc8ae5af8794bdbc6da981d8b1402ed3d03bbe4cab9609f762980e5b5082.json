@@ -1,0 +1,44 @@
+{
+  "no": 1586,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-15-2342f1c/extracted/batch-15/1586.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "暴雨與落石倒木封住山路，兩名巡護員放下背包站穩腳步，一人握住門把，另一人推木門，努力打開避難屋。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "後方落石倒木封路、身在暴雨而唯一可避難屋門卡住，兩人全力推門求生，呈現沒有退路只能奮力一搏。 已實際看全圖與六區原像素裁圖，並看五張更新後圖庫對照表，包含5115送花圖；感知候選1064、606。與相關已發布插圖比對後未見近乎相同的關鍵構圖；MOE索引此筆syn與ant均空，依釋義判斷。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "推拉雙人、可入內門洞及封死後路同框易讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "雙人各兩臂，握把與推門手各五指合理，兩腿跨步腳牢踏地面，成人重心前傾自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "已改為上下連續滑軌，兩滾輪支架固定門板，向右推後左側門洞露出，推拉方向與門開向一致，無懸空鉸鏈。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。傘柄、鞋帶、器物結構與動作短線均依附物件，非獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "灰綠雨衣與暖棕木屋；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣山區現代成人巡護員裝備，屋內備用毛巾燈具符合避難用途；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅色圍裙或外衣不是領巾。"
+    }
+  }
+}

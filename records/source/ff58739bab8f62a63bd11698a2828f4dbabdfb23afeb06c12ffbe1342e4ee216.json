@@ -1,0 +1,46 @@
+{
+  "no": 1353,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-2/1353.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "老師指著桌上未完成的積木屋追問，男孩把一塊紫色積木藏在背後，流汗回頭指向窗外，同學們皺眉看著他的反應。",
+  "issues": [
+    "藏證物、指窗外與流汗可表達轉移話題或說謊，卻沒有含混牽強言語的圖像線索，容易讀成顧左右而言他或推諉，按拿不準不通過。 已視覺比對全站感知雜湊候選1313、880、394及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "藏證物、指窗外與流汗可表達轉移話題或說謊，卻沒有含混牽強言語的圖像線索，容易讀成顧左右而言他或推諉，按拿不準不通過。 已視覺比對全站感知雜湊候選1313、880、394及同類情境比較圖，未見與已發布成語近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "追問、藏物與指外的關係清楚，但焦點偏向藏物行為。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對老師指示扶桌、男孩背後持積木與指窗外手、同學放掌；五指及肩臂連接未見異常。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "積木由手握，桌上屋體有底柱支撐，椅桌接地；未見物件懸浮。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "積木、制服、黑板與窗外建物無可讀文字字母數字品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "暖棕積木與柔綠窗景、白藍衣服採鉛筆水彩色鉛筆及紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代國小合作積木活動、白藍制服與便服教師符合台灣校園。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "教師棕罩衫、學生白藍上衣皆無紅領巾或紅圍巾。"
+    }
+  }
+}

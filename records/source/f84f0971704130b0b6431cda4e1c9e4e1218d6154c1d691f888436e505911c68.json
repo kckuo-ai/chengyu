@@ -1,0 +1,19 @@
+{
+  "no": 837,
+  "word": "近悅遠來",
+  "path": "/workspace/generated_images/exec-0dcb12c0-d05f-4769-9ca4-84d088c7d0a6.png",
+  "passed": true,
+  "reviewer": "independent visual reviewer /root/verify_837",
+  "reviewed_at": "2026-11-07T00:17:09.154928+00:00",
+  "checks": {
+    "original_png_inspection": "passed: directly opened original PNG and inspected full image",
+    "meaning_and_causality": "passed: nearby customers happily eat while luggage-carrying travelers come from the station to the same bakery and are welcomed",
+    "anatomy_and_contact": "passed: foreground people have plausible arms, hands, legs, food and luggage grips",
+    "objects_and_physics": "passed: four suitcase wheels are placed at the bag bases; train, counter, food trays and storefront have coherent support and perspective",
+    "style": "passed: pencil outlines, soft watercolor, colored-pencil texture and warm paper grain",
+    "text_brand_suitability": "passed: map is blank; no readable text, brand, watermark or inappropriate content",
+    "alt": "passed: matches local diners, travelers from station, baker greeting, and excludes full idiom"
+  },
+  "issues": [],
+  "regenerate": false
+}

@@ -1,0 +1,46 @@
+{
+  "no": 1522,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-10-48cd224/batch-10-part-1/batch-10-part-1/1522.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "白髮夫妻坐在昏暗樓梯上，婦人把麵包分給丈夫，他拿著手電筒替兩人照明；身邊放著布袋，窗外仍透出燈光。",
+  "issues": [
+    "互相分享麵包與照明可見，但沒有共同受困、匱乏或危難的具體線索；也可能只是普通夜間點心，無法確認困境中相互扶助，meaning不通過。 已實際看全圖及六區原像素裁圖，另與七張既有圖庫對照表、1458原圖比較；感知雜湊候選493、545及相關語義候選未見近乎相同的關鍵構圖。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "互相分享麵包與照明可見，但沒有共同受困、匱乏或危難的具體線索；也可能只是普通夜間點心，無法確認困境中相互扶助，meaning不通過。 已實際看全圖及六區原像素裁圖，另與七張既有圖庫對照表、1458原圖比較；感知雜湊候選493、545及相關語義候選未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "麵包與燈光居中，互助動作清楚但困境不明。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "分麵包、接食與握燈手拇指四指彎曲遮擋自然，肩臂完整；坐姿與鞋腳接階梯合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "手電筒握柄連燈頭、麵包由手托、布袋與鞋落階梯，無懸浮。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔灰藍暗部、暖黃燈光與棕色麵包；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代住宅樓梯、普通便服長者夫妻；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}

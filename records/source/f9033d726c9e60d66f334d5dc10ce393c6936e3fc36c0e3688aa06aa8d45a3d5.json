@@ -1,0 +1,44 @@
+{
+  "no": 1466,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-9-a0c4ede/batch-9/1466.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "男子抬起下巴，大步往敞開門口走，隨手向後擺掌；留在廚房的同伴伸手挽留，桌上兩大盆髒碗盤仍等著清洗。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同伴伸掌挽留、待洗餐具仍在，男子昂首不回應離開，呈掉頭不理、大模大樣，符合拂袖而去方向，不是急忙趕車。 已看全圖及原尺寸手腳、泡泡、鞋面和工具裁圖，並實際比較六張既有圖庫對照表，含感知雜湊候選370、438、335與相關語義候選；未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "髒餐具、挽留者與昂首離去者三者關係清楚，手機可讀態度。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對綠衣人扶桌拳及五指挽留掌、藍衣人五指後擺與屈指垂手，肩臂相連；跨步鞋腳重心自然無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "盆盤落料理桌、筷子在碗緣、廚具掛鉤及桌腿有支撐，手掌貼桌，門框透視一致。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸逐區核對人物衣鞋、背景、器具與泡泡，未見可讀文字、字母、數字、類字形標記、品牌或浮水印，無不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔藍綠上衣、暖棕褲與米灰廚具保留細鉛筆輪廓、透明柔和水彩與色鉛筆疊色顆粒、米白紙紋；非鮮豔扁平或3D，1536×1024為橫式3:2。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區廚房、不鏽鋼洗槽及料理桌、兩名便服成人；以現代生活道具、建築與服裝確認情境，非僅從面孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "實際核對所有人物領口與全圖：制服、普通素色便服或圍裙，均無紅領巾或紅圍巾；紅色上衣、圍裙及舞臺幕不屬領巾。"
+    }
+  }
+}

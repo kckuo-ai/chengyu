@@ -1,0 +1,46 @@
+{
+  "no": 1310,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-1/1310.png",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-16",
+  "alt": "左右兩格中，老師先遞抹布安慰打翻顏料的女孩，接著向全班介紹她幫同學收拾畫具的好行為，孩子們開心鼓掌。",
+  "issues": [
+    "左格以意外灑水代替惡行，且數名同學正圍觀，沒有隱藏或不張揚的清楚線索；右格稱讚善行清楚，但只能完整呈現揚善的一半。 已檢視全站感知雜湊篩出的近構圖候選1277、745、1224，以及同類道具與近義詞情境比較圖。未見同樣關鍵道具、人物關係與因果的近乎相同構圖。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "左格以意外灑水代替惡行，且數名同學正圍觀，沒有隱藏或不張揚的清楚線索；右格稱讚善行清楚，但只能完整呈現揚善的一半。 已檢視全站感知雜湊篩出的近構圖候選1277、745、1224，以及同類道具與近義詞情境比較圖。未見同樣關鍵道具、人物關係與因果的近乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右留白分格清晰、女孩髮型服裝一致，兩件事可在手機上辨識。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "裁圖核對女孩抬手、撿筆手、教師遞布與攤掌、同學鼓掌；可見指節與肩臂連接自然，右格跪姿有膝腳支撐。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "傾倒水杯與水漬相接、抹布垂落、筆盒落地；收筆者抓住筆桿，未見懸浮物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "兩格黑板與作品均無字，顏料管未見字母數字，無品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "淡藍窗光、棕圍裙及木桌使用鉛筆描線、柔和水彩、色鉛筆粒與暖紙紋。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "白色藍邊制服、國小身形、校舍窗景與美術教室符合台灣當代校園。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "女孩及同學穿白藍制服，老師米白襯衫配棕圍裙，未見紅領巾或紅圍巾。"
+    }
+  }
+}

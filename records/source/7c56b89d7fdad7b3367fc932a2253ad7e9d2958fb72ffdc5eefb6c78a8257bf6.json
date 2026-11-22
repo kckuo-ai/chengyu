@@ -1,0 +1,44 @@
+{
+  "no": 5113,
+  "kind": "new",
+  "path": "/workspace/idiom-review/batch-12-703022e/extracted/batch-12/5113.png",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-21",
+  "alt": "女子原本蹲著整理球具，牆上組織圖把她列在底層；另一格她已移到圖的最高處，接過管理鑰匙，伸手介紹體育館。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一女子從基層整理球具到組織最高位並接管理鑰匙，兩格直接晉升高位，非僅走上高樓或普通成就。 已實際看全圖及六區原像素裁圖，另與更新後圖庫的五張對照表比較；感知雜湊候選1311、103及相關語義候選未見近乎相同的關鍵構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前後圖中同一人圈色相同、職位高低與工作變化清楚，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "核對取球兩手、長者放膝兩手及交匙握指、女子握匙與攤掌，五指結構與遮擋自然，臂接肩；蹲姿鞋接地，坐者椅面承托。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "球由掌扶放籃內，鑰匙環雙方接持、模型置桌，籃輪與鞋底落地；頭像只畫胸像無小手。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐區看原尺寸衣鞋、工具、泡泡與背景，沒有可讀文字、字母、數字、類字形標記、品牌或浮水印，無血腥或不適內容。音孔、掛鉤、裂紋、鞋帶及轉盤線只在相應物件構造內，不是獨立字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "柔藍灰衣、暖棕桌與自然綠窗景；可見細鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及米白紙紋，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代體育館、便服成年管理人員及無字組織圖；依現代場景、服裝及道具確認設定，非僅以臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一查看全圖與原尺寸各人領口：穿普通制服、便服、運動衣或圍裙，均無紅領巾或紅圍巾；紅衣、外套領片或夢中紅沙發非領巾。"
+    }
+  }
+}
