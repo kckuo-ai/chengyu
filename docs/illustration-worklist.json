@@ -12,7 +12,7 @@
     "original_archive": {
       "repository": "kckuo-ai/chengyu",
       "branch": "illustration-archive",
-      "commit": "18a3ad244af4e1a783c2585ef77d6386361dd368",
+      "commit": "2e68b5d8a93418a6e3ed5cec17e3b38f543da057",
       "index_path": "index.json"
     }
   },
@@ -28,17 +28,17 @@
     "originals_missing": 221,
     "review_records": 950,
     "review_missing": 516,
-    "review_legacy": 570,
-    "review_eight_checks": 380,
-    "unique_task_idioms": 1086,
+    "review_legacy": 562,
+    "review_eight_checks": 388,
+    "unique_task_idioms": 1078,
     "action_counts": {
-      "review_legacy_checklist": 570,
-      "review_unresolved": 24,
-      "prompt_record_missing": 25,
       "original_archive_missing": 221,
-      "P3_optional_review": 42,
+      "review_legacy_checklist": 562,
+      "review_unresolved": 16,
+      "prompt_record_missing": 24,
       "alt_contains_idiom_bigram": 21,
       "review_record_missing": 516,
+      "P3_optional_review": 41,
       "legacy_format_review": 111,
       "P2_style_review": 48,
       "red_neckerchief_review": 10
@@ -64,11 +64,18 @@
       "img/idioms/1053.webp",
       "img/idioms/1157.webp",
       "img/idioms/149.webp",
+      "img/idioms/16.webp",
       "img/idioms/170-8d08cb7ec174.webp",
       "img/idioms/170.webp",
+      "img/idioms/18.webp",
+      "img/idioms/19.webp",
+      "img/idioms/2.webp",
+      "img/idioms/21.webp",
       "img/idioms/24.webp",
       "img/idioms/245.webp",
+      "img/idioms/25.webp",
       "img/idioms/3.webp",
+      "img/idioms/4.webp",
       "img/idioms/400.webp",
       "img/idioms/413.webp",
       "img/idioms/48.webp",
@@ -82,25 +89,13 @@
       "img/idioms/677.webp",
       "img/idioms/7.webp",
       "img/idioms/705.webp",
+      "img/idioms/8.webp",
       "img/idioms/88.webp",
       "img/idioms/976.webp"
     ],
     "historical_webps_action": "retain: outside temporary-branch cleanup scope"
   },
   "tasks": [
-    {
-      "no": 2,
-      "word": "掩耳盜鈴",
-      "actions": [
-        "review_legacy_checklist",
-        "review_unresolved",
-        "prompt_record_missing"
-      ],
-      "src": "img/idioms/2.webp",
-      "original_sha256": "e2c7989c606bcf66c6bd946019cb64dc196dec750f3497061a33f98b15eb5da8",
-      "original_available": true,
-      "original_archive_path": "originals/e2c7989c606bcf66c6bd946019cb64dc196dec750f3497061a33f98b15eb5da8.png"
-    },
     {
       "no": 3,
       "word": "一丘之貉",
@@ -111,18 +106,6 @@
       "src": "img/idioms/3-195fb0250ef0.webp",
       "original_sha256": "195fb0250ef04f78246d3695a302b0775313c84daed2def0803fddb7be713d40",
       "original_available": false
-    },
-    {
-      "no": 4,
-      "word": "囫圇吞棗",
-      "actions": [
-        "review_legacy_checklist",
-        "review_unresolved"
-      ],
-      "src": "img/idioms/4.webp",
-      "original_sha256": "36bcd8b3108b9e1e458fa3e89722bb87b61403406b9c73c611e74145de5b6e83",
-      "original_available": true,
-      "original_archive_path": "originals/36bcd8b3108b9e1e458fa3e89722bb87b61403406b9c73c611e74145de5b6e83.png"
     },
     {
       "no": 6,
@@ -147,18 +130,6 @@
       "original_available": false
     },
     {
-      "no": 8,
-      "word": "名落孫山",
-      "actions": [
-        "review_legacy_checklist",
-        "review_unresolved"
-      ],
-      "src": "img/idioms/8.webp",
-      "original_sha256": "cca147df0ccff72aa85e63795ec62fd75bc18ffd2d77a40fc81f5d975195fb71",
-      "original_available": true,
-      "original_archive_path": "originals/cca147df0ccff72aa85e63795ec62fd75bc18ffd2d77a40fc81f5d975195fb71.png"
-    },
-    {
       "no": 15,
       "word": "青出於藍",
       "actions": [
@@ -171,18 +142,6 @@
       "original_archive_path": "originals/e501ec268c0277dfc7398693bbcfeea95dae72cc0c023668d961c3ecce653af7.png"
     },
     {
-      "no": 16,
-      "word": "口若懸河",
-      "actions": [
-        "review_legacy_checklist",
-        "review_unresolved"
-      ],
-      "src": "img/idioms/16.webp",
-      "original_sha256": "2d5c6a264641ec216eea8ae7dd2a3307a76df6a01b2c93984da6252ba271f3d7",
-      "original_available": true,
-      "original_archive_path": "originals/2d5c6a264641ec216eea8ae7dd2a3307a76df6a01b2c93984da6252ba271f3d7.png"
-    },
-    {
       "no": 17,
       "word": "驚弓之鳥",
       "actions": [
@@ -193,43 +152,6 @@
       "original_sha256": "dc2f01d182e900a082630f6ab094813ae86103b7f9052224116a1d9d4bf48594",
       "original_available": true,
       "original_archive_path": "originals/dc2f01d182e900a082630f6ab094813ae86103b7f9052224116a1d9d4bf48594.png"
-    },
-    {
-      "no": 18,
-      "word": "含沙射影",
-      "actions": [
-        "review_legacy_checklist",
-        "review_unresolved",
-        "P3_optional_review"
-      ],
-      "src": "img/idioms/18.webp",
-      "original_sha256": "b40234ade3dfd677894488c13912dcf1c33de40b660f1f20e13f6adfd23f2205",
-      "original_available": true,
-      "original_archive_path": "originals/b40234ade3dfd677894488c13912dcf1c33de40b660f1f20e13f6adfd23f2205.png"
-    },
-    {
-      "no": 19,
-      "word": "一敗塗地",
-      "actions": [
-        "review_legacy_checklist",
-        "review_unresolved"
-      ],
-      "src": "img/idioms/19.webp",
-      "original_sha256": "fe1fc383f093936029d8facc7687e0b27157352ebbcf3d5e17c79ef4c77a0982",
-      "original_available": true,
-      "original_archive_path": "originals/fe1fc383f093936029d8facc7687e0b27157352ebbcf3d5e17c79ef4c77a0982.png"
-    },
-    {
-      "no": 21,
-      "word": "投筆從戎",
-      "actions": [
-        "review_legacy_checklist",
-        "review_unresolved"
-      ],
-      "src": "img/idioms/21.webp",
-      "original_sha256": "5485029abe3280e677ad34f3f191d3f9a24a3484fc5c8f02de15fc23bdfdd467",
-      "original_available": true,
-      "original_archive_path": "originals/5485029abe3280e677ad34f3f191d3f9a24a3484fc5c8f02de15fc23bdfdd467.png"
     },
     {
       "no": 23,
@@ -254,18 +176,6 @@
       "src": "img/idioms/24-cf8a4d790c16.webp",
       "original_sha256": "cf8a4d790c16d7c7ea43f7c4bc673b3bd1b2ace785df6c89ede504b37dfa090d",
       "original_available": false
-    },
-    {
-      "no": 25,
-      "word": "滄海桑田",
-      "actions": [
-        "review_legacy_checklist",
-        "review_unresolved"
-      ],
-      "src": "img/idioms/25.webp",
-      "original_sha256": "176fb1953893a45a8f85014c18a198c9c1aeb1860189c0c90118ae72628ffaf2",
-      "original_available": true,
-      "original_archive_path": "originals/176fb1953893a45a8f85014c18a198c9c1aeb1860189c0c90118ae72628ffaf2.png"
     },
     {
       "no": 26,
