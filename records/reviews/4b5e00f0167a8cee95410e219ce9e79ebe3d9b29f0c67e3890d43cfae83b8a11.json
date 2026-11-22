@@ -1,0 +1,68 @@
+{
+  "no": 15,
+  "kind": "regenerate",
+  "word": "青出於藍",
+  "path": "/workspace/chengyu-preservation/originals/5273ddc42fac77865dd1f6e9c14588e2f03dc3bb2a4f582d5e899a4dadbe08fa.png",
+  "original_sha256": "5273ddc42fac77865dd1f6e9c14588e2f03dc3bb2a4f582d5e899a4dadbe08fa",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-20-redraw-3",
+  "alt": "老師先握著陶杯示範，女孩在旁專心觀察；第二幕女孩展示勻整茶壺，老師把雙手放桌上微笑，面前是較粗糙的陶杯。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "先由老師示範、女孩觀察，再由女孩展示更完整精巧茶壺，對照老師的粗糙舊杯；有直接傳授與弟子超越關係，非一般年輕人炫耀。 已另看完整 1458：該圖是依教誨修補同一陶杯把手，本圖以學生精壺超過老師粗杯為結果，主要動作與成品關係可分；也避開 465 的鳥形作品。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "雙幕分明，同一師生先示範後成果對照，陶器和人物手部大幅可辨，手機看得清。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "左格老師兩手環杯、女孩兩掌各五指放桌；右格老師兩肩、袖口、肘到前臂腕掌皆各自可追，雙掌各五指分放自己身前，沒有伸到女孩背後或杯緣的第三掌。女孩兩手托壺、拇指四指隨壺底自然遮擋。下半身在框外不臆測。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "陶杯落轉盤，水碗、陶土及毛巾在桌面；女孩雙掌承托茶壺底部，壺把、壺嘴與蓋結構完整；老師粗杯獨立置桌，不遮手臂。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "背景只有素牆與窗框，陶器素面、圍裙污點為泥料，無書脊海報字形、可讀文字字母數字、品牌或水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣國小陶藝教室可成立，國小制服女孩與成人圍裙教師比例合理，無古裝異國地標。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩幕師生均普通襯衫／制服領口和藍圍裙肩帶，沒有紅領巾或紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "e501ec268c0277dfc7398693bbcfeea95dae72cc0c023668d961c3ecce653af7",
+  "previous_rejected_candidate_review_archive_path": "records/reviews/0fe259263dca20c073911071663e47ada4fd9c96ff61b0d6672f971fe34792e8.json",
+  "previous_review_archive_path": "records/reviews/7667134d39cc370b2bbfa3f60d3295a0ad559ffe2111d354f75155aa85d89f62.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; every teacher/student hand and blank background checked",
+    "comparison_candidates": 42,
+    "comparison_method": "Both comparison sheets and full 1458 actually viewed; candidates from full-catalog perceptual similarity and scene/meaning terms; this does not imply a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻弟子勝過老師，或後輩優於前輩。褒義。",
+    "syn": "冰寒於水、青藍冰水、後來居上、為青為冰",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/15-5273ddc42fac.webp",
+  "webp_sha256": "0843f11f93322e2fa588e57f8532aa18db9522c61b76cc7c07d6982e01fcaffd"
+}

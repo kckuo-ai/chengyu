@@ -36715,6 +36715,84 @@
         "records/reviews/5c120ceb04141c80ae286345d498c809e7778416c228b3f841a261c88244bbf9.json"
       ],
       "review_record_status": "existing_review_record_identified"
+    },
+    "5273ddc42fac77865dd1f6e9c14588e2f03dc3bb2a4f582d5e899a4dadbe08fa": {
+      "sha256": "5273ddc42fac77865dd1f6e9c14588e2f03dc3bb2a4f582d5e899a4dadbe08fa",
+      "path": "originals/5273ddc42fac77865dd1f6e9c14588e2f03dc3bb2a4f582d5e899a4dadbe08fa.png",
+      "bytes": 3301330,
+      "sources": [
+        {
+          "kind": "git_zip_member",
+          "zip_blob": "b81a85a55a984279f6c0a92b560da72fd6d3d727",
+          "zip_path": "batch-20-redraw-3.zip",
+          "commit": "1fed33a09b69776ac4c4cc6ea045cc4a7e085a33",
+          "member": "batch-20/15.png"
+        }
+      ],
+      "idiom_numbers": [
+        "15"
+      ],
+      "related_records": [
+        "records/prompts/8070474f65a66d38b6495bc64ede32e6b1f9ac7c26cdb5d2ddb11b8b924a4ea9.json",
+        "records/reviews/4b5e00f0167a8cee95410e219ce9e79ebe3d9b29f0c67e3890d43cfae83b8a11.json",
+        "records/source/45524d2c3abe25af9a6890ce8db1287891a8bcd2e7d41a611dfa6f301ed5f91e.json"
+      ],
+      "review_record_paths": [
+        "records/reviews/4b5e00f0167a8cee95410e219ce9e79ebe3d9b29f0c67e3890d43cfae83b8a11.json"
+      ],
+      "review_record_status": "existing_review_record_identified"
+    },
+    "abf457ace97ccdd139728dca2086c1240e0e918283014e4f7e6b917f1121908c": {
+      "sha256": "abf457ace97ccdd139728dca2086c1240e0e918283014e4f7e6b917f1121908c",
+      "path": "originals/abf457ace97ccdd139728dca2086c1240e0e918283014e4f7e6b917f1121908c.png",
+      "bytes": 3049303,
+      "sources": [
+        {
+          "kind": "git_zip_member",
+          "zip_blob": "b81a85a55a984279f6c0a92b560da72fd6d3d727",
+          "zip_path": "batch-20-redraw-3.zip",
+          "commit": "1fed33a09b69776ac4c4cc6ea045cc4a7e085a33",
+          "member": "batch-20/17.png"
+        }
+      ],
+      "idiom_numbers": [
+        "17"
+      ],
+      "related_records": [
+        "records/prompts/f6b048de1b6255dca8462d680ece0fa4528ab88227087eaed353f9f33e15ac4a.json",
+        "records/reviews/cf2618d41a19e3010ba75bc184a72dfe4025cc9f3642f2ab34181ec0c64360e2.json",
+        "records/source/f8e44160421ead1e0ca820cba90febeb043e382a6a0ce3c91a56a0a20f640465.json"
+      ],
+      "review_record_paths": [
+        "records/reviews/cf2618d41a19e3010ba75bc184a72dfe4025cc9f3642f2ab34181ec0c64360e2.json"
+      ],
+      "review_record_status": "existing_review_record_identified"
+    },
+    "08ac5449fa2dbd6a977f8aa6be9e1fad9409f8fd8e2f3e6886b7283dab7b8357": {
+      "sha256": "08ac5449fa2dbd6a977f8aa6be9e1fad9409f8fd8e2f3e6886b7283dab7b8357",
+      "path": "originals/08ac5449fa2dbd6a977f8aa6be9e1fad9409f8fd8e2f3e6886b7283dab7b8357.png",
+      "bytes": 3254127,
+      "sources": [
+        {
+          "kind": "git_zip_member",
+          "zip_blob": "b81a85a55a984279f6c0a92b560da72fd6d3d727",
+          "zip_path": "batch-20-redraw-3.zip",
+          "commit": "1fed33a09b69776ac4c4cc6ea045cc4a7e085a33",
+          "member": "batch-20/23.png"
+        }
+      ],
+      "idiom_numbers": [
+        "23"
+      ],
+      "related_records": [
+        "records/prompts/e265953460809c243ae781fd185db7c4c3a607c98512f431289d878d1fed8467.json",
+        "records/reviews/89e4428023bcd4542f00f480b3e28de9f86273f4f3085b7379afe6a3b731c832.json",
+        "records/source/f5ce62976f20b8c609805929d3a2d9209e8e5ba8fc1ba853122481ae39d96350.json"
+      ],
+      "review_record_paths": [
+        "records/reviews/89e4428023bcd4542f00f480b3e28de9f86273f4f3085b7379afe6a3b731c832.json"
+      ],
+      "review_record_status": "existing_review_record_identified"
     }
   },
   "records": {
@@ -66585,6 +66663,78 @@
       "path": "records/source/b6d042593efd734bce270a1537a80cd78165d4863dccb89ccdf03d14114b2779.json",
       "bytes": 508,
       "provenance": "records/provenance/b6.json#b6d042593efd734bce270a1537a80cd78165d4863dccb89ccdf03d14114b2779"
+    },
+    "f42059105d4d1329661a62987ac94371b40fc76344a19ae6e9e197cf93b988b1": {
+      "sha256": "f42059105d4d1329661a62987ac94371b40fc76344a19ae6e9e197cf93b988b1",
+      "path": "records/source/f42059105d4d1329661a62987ac94371b40fc76344a19ae6e9e197cf93b988b1.json",
+      "bytes": 4119,
+      "provenance": "records/provenance/f4.json#f42059105d4d1329661a62987ac94371b40fc76344a19ae6e9e197cf93b988b1"
+    },
+    "4b5e00f0167a8cee95410e219ce9e79ebe3d9b29f0c67e3890d43cfae83b8a11": {
+      "sha256": "4b5e00f0167a8cee95410e219ce9e79ebe3d9b29f0c67e3890d43cfae83b8a11",
+      "path": "records/reviews/4b5e00f0167a8cee95410e219ce9e79ebe3d9b29f0c67e3890d43cfae83b8a11.json",
+      "bytes": 3856,
+      "provenance": "records/provenance/4b.json#4b5e00f0167a8cee95410e219ce9e79ebe3d9b29f0c67e3890d43cfae83b8a11"
+    },
+    "45524d2c3abe25af9a6890ce8db1287891a8bcd2e7d41a611dfa6f301ed5f91e": {
+      "sha256": "45524d2c3abe25af9a6890ce8db1287891a8bcd2e7d41a611dfa6f301ed5f91e",
+      "path": "records/source/45524d2c3abe25af9a6890ce8db1287891a8bcd2e7d41a611dfa6f301ed5f91e.json",
+      "bytes": 2811,
+      "provenance": "records/provenance/45.json#45524d2c3abe25af9a6890ce8db1287891a8bcd2e7d41a611dfa6f301ed5f91e"
+    },
+    "8070474f65a66d38b6495bc64ede32e6b1f9ac7c26cdb5d2ddb11b8b924a4ea9": {
+      "sha256": "8070474f65a66d38b6495bc64ede32e6b1f9ac7c26cdb5d2ddb11b8b924a4ea9",
+      "path": "records/prompts/8070474f65a66d38b6495bc64ede32e6b1f9ac7c26cdb5d2ddb11b8b924a4ea9.json",
+      "bytes": 2820,
+      "provenance": "records/provenance/80.json#8070474f65a66d38b6495bc64ede32e6b1f9ac7c26cdb5d2ddb11b8b924a4ea9"
+    },
+    "cf2618d41a19e3010ba75bc184a72dfe4025cc9f3642f2ab34181ec0c64360e2": {
+      "sha256": "cf2618d41a19e3010ba75bc184a72dfe4025cc9f3642f2ab34181ec0c64360e2",
+      "path": "records/reviews/cf2618d41a19e3010ba75bc184a72dfe4025cc9f3642f2ab34181ec0c64360e2.json",
+      "bytes": 3729,
+      "provenance": "records/provenance/cf.json#cf2618d41a19e3010ba75bc184a72dfe4025cc9f3642f2ab34181ec0c64360e2"
+    },
+    "f8e44160421ead1e0ca820cba90febeb043e382a6a0ce3c91a56a0a20f640465": {
+      "sha256": "f8e44160421ead1e0ca820cba90febeb043e382a6a0ce3c91a56a0a20f640465",
+      "path": "records/source/f8e44160421ead1e0ca820cba90febeb043e382a6a0ce3c91a56a0a20f640465.json",
+      "bytes": 2736,
+      "provenance": "records/provenance/f8.json#f8e44160421ead1e0ca820cba90febeb043e382a6a0ce3c91a56a0a20f640465"
+    },
+    "f6b048de1b6255dca8462d680ece0fa4528ab88227087eaed353f9f33e15ac4a": {
+      "sha256": "f6b048de1b6255dca8462d680ece0fa4528ab88227087eaed353f9f33e15ac4a",
+      "path": "records/prompts/f6b048de1b6255dca8462d680ece0fa4528ab88227087eaed353f9f33e15ac4a.json",
+      "bytes": 2739,
+      "provenance": "records/provenance/f6.json#f6b048de1b6255dca8462d680ece0fa4528ab88227087eaed353f9f33e15ac4a"
+    },
+    "89e4428023bcd4542f00f480b3e28de9f86273f4f3085b7379afe6a3b731c832": {
+      "sha256": "89e4428023bcd4542f00f480b3e28de9f86273f4f3085b7379afe6a3b731c832",
+      "path": "records/reviews/89e4428023bcd4542f00f480b3e28de9f86273f4f3085b7379afe6a3b731c832.json",
+      "bytes": 3644,
+      "provenance": "records/provenance/89.json#89e4428023bcd4542f00f480b3e28de9f86273f4f3085b7379afe6a3b731c832"
+    },
+    "f5ce62976f20b8c609805929d3a2d9209e8e5ba8fc1ba853122481ae39d96350": {
+      "sha256": "f5ce62976f20b8c609805929d3a2d9209e8e5ba8fc1ba853122481ae39d96350",
+      "path": "records/source/f5ce62976f20b8c609805929d3a2d9209e8e5ba8fc1ba853122481ae39d96350.json",
+      "bytes": 2763,
+      "provenance": "records/provenance/f5.json#f5ce62976f20b8c609805929d3a2d9209e8e5ba8fc1ba853122481ae39d96350"
+    },
+    "e265953460809c243ae781fd185db7c4c3a607c98512f431289d878d1fed8467": {
+      "sha256": "e265953460809c243ae781fd185db7c4c3a607c98512f431289d878d1fed8467",
+      "path": "records/prompts/e265953460809c243ae781fd185db7c4c3a607c98512f431289d878d1fed8467.json",
+      "bytes": 2766,
+      "provenance": "records/provenance/e2.json#e265953460809c243ae781fd185db7c4c3a607c98512f431289d878d1fed8467"
+    },
+    "c9eac0c7fb4d2fd4c6ffa5a64d242413647f07781ef7fc75822796688c839329": {
+      "sha256": "c9eac0c7fb4d2fd4c6ffa5a64d242413647f07781ef7fc75822796688c839329",
+      "path": "records/source/c9eac0c7fb4d2fd4c6ffa5a64d242413647f07781ef7fc75822796688c839329.json",
+      "bytes": 1101,
+      "provenance": "records/provenance/c9.json#c9eac0c7fb4d2fd4c6ffa5a64d242413647f07781ef7fc75822796688c839329"
+    },
+    "c4d2c9e438d3549102ba3f38793b64b07e6089ce2a7bc4f6f04feda62bdd1e59": {
+      "sha256": "c4d2c9e438d3549102ba3f38793b64b07e6089ce2a7bc4f6f04feda62bdd1e59",
+      "path": "records/source/c4d2c9e438d3549102ba3f38793b64b07e6089ce2a7bc4f6f04feda62bdd1e59.json",
+      "bytes": 75,
+      "provenance": "records/provenance/c4.json#c4d2c9e438d3549102ba3f38793b64b07e6089ce2a7bc4f6f04feda62bdd1e59"
     }
   },
   "website_entries": {

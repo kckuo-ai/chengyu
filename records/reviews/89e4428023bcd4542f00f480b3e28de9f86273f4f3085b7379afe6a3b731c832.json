@@ -1,0 +1,68 @@
+{
+  "no": 23,
+  "kind": "regenerate",
+  "word": "畫蛇添足",
+  "path": "/workspace/chengyu-preservation/originals/08ac5449fa2dbd6a977f8aa6be9e1fad9409f8fd8e2f3e6886b7283dab7b8357.png",
+  "original_sha256": "08ac5449fa2dbd6a977f8aa6be9e1fad9409f8fd8e2f3e6886b7283dab7b8357",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-20-redraw-3",
+  "alt": "男孩先滿意地看著風扇吹動紙風車，接著在葉端加上黏土，葉片垂彎而停住，他懊惱望著被額外重量弄壞的成品。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "先有能轉動的成品，再因額外加黏土導致紙葉下折失去作用，清楚呈現不必要添加反壞事，不只畫字面蛇足故事。 比對 653、856 等風車模型展示，本圖先成功再加重失效的雙幕不同，無近乎相同主構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右維持同一男孩、風扇、底座和風車，旋轉重影與垂彎對比清楚，手機可辨前後結果。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "兩幕男孩各兩臂獨立接肩肘腕，四張掌各一拇指四指且分開放桌，不分岔或共掌；未見多指。腿足被桌與畫幅遮住，沒有假稱已看到腳。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "風扇完整護網與實體葉片、底座穩放桌面，電線接插座；風車軸心接支柱木座，葉端黏土壓彎紙葉的受力合理，沒有物件穿手。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "兩幕素牆、窗框及校舍無字，風扇按鍵無數字標誌，完全沒有書脊、海報或類字母裝飾，無品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小手作教室、國小制服男孩與窗外校舍樹景，符合現代生活與兒童比例。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "男孩兩幕都是白底藍邊制服，粉紅色只見於風車與紙張，沒有紅領巾或紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "e3fcb692228386ccc102adf74a989dc694abe363012d856c15248c9738af3b02",
+  "previous_rejected_candidate_review_archive_path": "records/reviews/b66a069a625800aee48c26aa40bd2206cd79aa792dff9e7cce03827fa490e1ec.json",
+  "previous_review_archive_path": "records/reviews/60bef2739509b2b5878a3bc2bdd3d184b139859d9b9796219b30fecbc740daad.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; every teacher/student hand and blank background checked",
+    "comparison_candidates": 42,
+    "comparison_method": "Both comparison sheets and full 1458 actually viewed; candidates from full-catalog perceptual similarity and scene/meaning terms; this does not imply a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻多此一舉，反將事情弄糟。貶義。",
+    "syn": "多此一舉、弄巧成拙",
+    "ant": "恰如其分、恰到好處"
+  },
+  "webp_src": "img/idioms/23-08ac5449fa2d.webp",
+  "webp_sha256": "581d583474012747582c463fa22f451b9617c45c2c2af828eaf174c1d87264fe"
+}

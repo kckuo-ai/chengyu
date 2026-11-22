@@ -9270,5 +9270,13 @@
       "commit": "0d0e1e63ad55ad71f676ff76a7e27920d2d40fc6",
       "path": "manifest.json"
     }
+  ],
+  "c9eac0c7fb4d2fd4c6ffa5a64d242413647f07781ef7fc75822796688c839329": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-20-redraw-3",
+      "source_file": "comparison-candidates.json",
+      "reviewer": "independent-visual-review-2026-11-22"
+    }
   ]
 }

@@ -2103,5 +2103,35 @@
         "record_path": "records/source/c930bb5b6406f83bc6531a7c18bbc147996fb4d2dc29cec9ccdc6dcece1105d1.json"
       }
     ]
+  },
+  {
+    "blob": "b81a85a55a984279f6c0a92b560da72fd6d3d727",
+    "path": "batch-20-redraw-3.zip",
+    "commit": "1fed33a09b69776ac4c4cc6ea045cc4a7e085a33",
+    "bytes": 9455142,
+    "sha256": "4ff04ad02247ed2aed32f7ccc44b8f2a34180c47a5e93dce27ff1c10f96ac96d",
+    "members": [
+      {
+        "member": "batch-20/15.png",
+        "sha256": "5273ddc42fac77865dd1f6e9c14588e2f03dc3bb2a4f582d5e899a4dadbe08fa",
+        "kind": "original"
+      },
+      {
+        "member": "batch-20/17.png",
+        "sha256": "abf457ace97ccdd139728dca2086c1240e0e918283014e4f7e6b917f1121908c",
+        "kind": "original"
+      },
+      {
+        "member": "batch-20/23.png",
+        "sha256": "08ac5449fa2dbd6a977f8aa6be9e1fad9409f8fd8e2f3e6886b7283dab7b8357",
+        "kind": "original"
+      },
+      {
+        "member": "batch-20/manifest.json",
+        "sha256": "f42059105d4d1329661a62987ac94371b40fc76344a19ae6e9e197cf93b988b1",
+        "kind": "record",
+        "record_path": "records/source/f42059105d4d1329661a62987ac94371b40fc76344a19ae6e9e197cf93b988b1.json"
+      }
+    ]
   }
 ]

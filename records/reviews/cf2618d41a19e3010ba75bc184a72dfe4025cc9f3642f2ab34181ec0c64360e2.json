@@ -1,0 +1,68 @@
+{
+  "no": 17,
+  "kind": "regenerate",
+  "word": "驚弓之鳥",
+  "path": "/workspace/chengyu-preservation/originals/abf457ace97ccdd139728dca2086c1240e0e918283014e4f7e6b917f1121908c.png",
+  "original_sha256": "abf457ace97ccdd139728dca2086c1240e0e918283014e4f7e6b917f1121908c",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-20-redraw-3",
+  "alt": "女孩想起氣球破裂後坐地哭泣的經過，現在看見綁在椅背的完整氣球就摀耳縮身，母親蹲在身旁，輕扶肩膀安慰。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同衣女孩在回憶中因破氣球哭泣，現在完整氣球未破卻已害怕，前次受驚到現在過度反應的因果清楚，並非無根據憂慮或單純不開心。 比對 1093 的多人課堂氣球反應，本圖只有母女及前次爆裂回憶，因果與主構圖不同。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前景母女、右側完整氣球、左上大回憶泡泡的次序明確，手機可辨完整與破裂差別。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "母親一手搭肩、一手落膝，兩臂接各肩肘腕；現景女孩遮耳四長指與側面拇指有頭部自然遮擋，回憶女孩雙掌各五指放膝。現景及回憶女孩各兩腿兩鞋落地，無模糊群眾小手。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "氣球綁線確實接椅背，椅腳接地，母親蹲姿有雙腳支撐，肩膀與膝的手掌接觸合理；破氣球僅在回憶，不是現景危險。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "整面牆與窗景沒有書架書脊、海報、招牌或類字形。爆裂放射短線是氣球事件圖像而非字母數字，衣鞋無品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代客廳、國小白底藍邊制服女孩與便服母親，年齡與家具符合現代生活。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "母親米色襯衫、女孩白底藍邊制服，粉紅髮圈和氣球不在頸部；現景與回憶均無紅領巾或紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "dc2f01d182e900a082630f6ab094813ae86103b7f9052224116a1d9d4bf48594",
+  "previous_rejected_candidate_review_archive_path": "records/reviews/2cbe2af2eae10305318f35783c79fb9ae6935cb39b075526bfa09f3a40071acd.json",
+  "previous_review_archive_path": "records/reviews/75b5d680f451b1bdf6c668eda3e7c628d877d4562b45566a6a0a375260a55261.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; every teacher/student hand and blank background checked",
+    "comparison_candidates": 42,
+    "comparison_method": "Both comparison sheets and full 1458 actually viewed; candidates from full-catalog perceptual similarity and scene/meaning terms; this does not imply a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻曾受打擊或驚嚇，心有餘悸，稍有動靜就害怕的人。",
+    "syn": "心有餘悸、談虎色變",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/17-abf457ace97c.webp",
+  "webp_sha256": "cee1fa54a708f2b9867d481d42a6a7a4586e4a4bef1d802844da705d211cedbe"
+}

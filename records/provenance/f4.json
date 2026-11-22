@@ -10639,5 +10639,14 @@
       "path": "backup/batches/2026-11-08-855-873/revisions/914-attempt2/914-review.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "f42059105d4d1329661a62987ac94371b40fc76344a19ae6e9e197cf93b988b1": [
+    {
+      "kind": "git_zip_member",
+      "zip_blob": "b81a85a55a984279f6c0a92b560da72fd6d3d727",
+      "zip_path": "batch-20-redraw-3.zip",
+      "commit": "1fed33a09b69776ac4c4cc6ea045cc4a7e085a33",
+      "member": "batch-20/manifest.json"
+    }
   ]
 }
