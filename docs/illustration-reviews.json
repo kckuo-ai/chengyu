@@ -27453,6 +27453,1213 @@
           "evidence": "全圖及原尺寸檢查兩人頸部，均為白色藍邊polo衣領，沒有紅領巾、紅圍巾或頸部紅色布件。"
         }
       }
+    },
+    "1": {
+      "no": 1,
+      "kind": "existing",
+      "word": "一毛不拔",
+      "path": "/workspace/chengyu-preservation/originals/f4f87de9d801f5e2e904dedac9a11bfe50b7e355156268119a16839afe60f478.png",
+      "original_sha256": "f4f87de9d801f5e2e904dedac9a11bfe50b7e355156268119a16839afe60f478",
+      "webp_src": "img/idioms/1.webp",
+      "webp_sha256": "6863f4e315b5f4a32bc35f26b831a59b7a052a4095c02e7c6abbf96c2a1d65a9",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-22",
+      "alt": "募捐桌旁，兩位民眾把硬幣投入玻璃罐，前方男子卻皺眉緊抱裝滿錢幣的皮夾，轉身不願分享。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "他人捐款與男子抱緊滿錢皮夾的拒絕動作直接對照，表現吝嗇，與慷慨解囊相反。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "捐款者拇指藏在硬幣後，男子各手的彎曲指節圍住皮夾；手腕接前臂、肩膀自然，裁切處不臆測腳部。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "硬幣由指端投入罐口，皮夾受雙臂支撐；桌面與罐底接觸合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "硬幣為空白圓面與同心紋，包裝只有素面與蝴蝶結，無字母數字或商標。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代街區募捐桌與便服成人，可作台灣社區場景。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+        }
+      },
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+        "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+      },
+      "meaning_reference": {
+        "meaning": "形容人非常吝嗇。貶義。",
+        "syn": "視錢如命、愛財如命、鐵公雞",
+        "ant": "一擲千金、仗義疏財、解囊相助、慷慨解囊"
+      }
+    },
+    "2": {
+      "no": 2,
+      "kind": "existing",
+      "word": "掩耳盜鈴",
+      "path": "/workspace/chengyu-preservation/originals/e2c7989c606bcf66c6bd946019cb64dc196dec750f3497061a33f98b15eb5da8.png",
+      "original_sha256": "e2c7989c606bcf66c6bd946019cb64dc196dec750f3497061a33f98b15eb5da8",
+      "webp_src": "img/idioms/2.webp",
+      "webp_sha256": "b59ded8b3073ec07a8de9709cba03ee1897204c98f3f7cb6e5f5f6f7b1c2212d",
+      "passed": false,
+      "reviewer": "independent-visual-review-2026-11-22",
+      "alt": "巷口男子閉眼摀住雙耳，腰邊大鐘晃動；屋內另一名男子驚訝張開雙手，已經察覺外頭的聲響。",
+      "issues": [
+        "text_brand_watermark: 鐘面兩塊方形裝飾有密集篆字般筆畫，不能排除類字形，依拿不準即不通過原則列失敗。",
+        "taiwan_context: 人物束髮、交領長袍與綁腿，場景是古代巷弄，缺少台灣現代情境。"
+      ],
+      "regenerate": true,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "男子聽不到便自以為沒人發現，但屋主已聽見，自己欺騙自己的因果清楚。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "摀耳手指貼頭部合理遮擋，屋主張手接腕；行走抬腳與另一支撐腳方向自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "鐘以繩掛腰間，擺動與步行一致，門框及地面透視合理。"
+        },
+        "text_brand_watermark": {
+          "passed": false,
+          "evidence": "鐘面兩塊方形裝飾有密集篆字般筆畫，不能排除類字形，依拿不準即不通過原則列失敗。"
+        },
+        "taiwan_context": {
+          "passed": false,
+          "evidence": "人物束髮、交領長袍與綁腿，場景是古代巷弄，缺少台灣現代情境。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+        }
+      },
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+        "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+      },
+      "meaning_reference": {
+        "meaning": "比喻妄想瞞騙他人，結果卻只是欺騙自己而已。貶義。",
+        "syn": "自欺欺人、掩目捕雀、掩鼻偷香",
+        "ant": ""
+      }
+    },
+    "4": {
+      "no": 4,
+      "kind": "existing",
+      "word": "囫圇吞棗",
+      "path": "/workspace/chengyu-preservation/originals/36bcd8b3108b9e1e458fa3e89722bb87b61403406b9c73c611e74145de5b6e83.png",
+      "original_sha256": "36bcd8b3108b9e1e458fa3e89722bb87b61403406b9c73c611e74145de5b6e83",
+      "webp_src": "img/idioms/4.webp",
+      "webp_sha256": "344c047662ac132e2c7c69222c5632e885f6864eb7cbbdf01f856649a4206d7e",
+      "passed": false,
+      "reviewer": "independent-visual-review-2026-11-22",
+      "alt": "男孩快速翻過植物圖畫書，腦中浮現葉子、根系、陽光與水滴等零散圖像，桌邊放著沒有使用的放大鏡。",
+      "issues": [
+        "meaning: 只有快速翻書與植物意象，沒有誤解或錯誤運用的結果，也可能是讀得快且理解良好，無法排除融會貫通的相反解讀。",
+        "text_brand_watermark: 泡泡內有獨立的 S、C 形波線，書頁底端另有類文字灰色短列，不能保證沒有類字形。"
+      ],
+      "regenerate": true,
+      "checks": {
+        "meaning": {
+          "passed": false,
+          "evidence": "只有快速翻書與植物意象，沒有誤解或錯誤運用的結果，也可能是讀得快且理解良好，無法排除融會貫通的相反解讀。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "翻頁手的指尖被紙頁遮住，持書手腕接臂自然；無多餘手臂，坐姿由椅面支撐。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "書頁連於書脊，放大鏡平放桌面，圖像泡泡不當作實體物件。"
+        },
+        "text_brand_watermark": {
+          "passed": false,
+          "evidence": "泡泡內有獨立的 S、C 形波線，書頁底端另有類文字灰色短列，不能保證沒有類字形。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "便服學童在現代居家書桌閱讀，比例與台灣國小高年級相容。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+        }
+      },
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+        "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+      },
+      "meaning_reference": {
+        "meaning": "比喻理解事物籠統含糊，或為學不求甚解。貶義。",
+        "syn": "不求甚解、生吞活剝",
+        "ant": "窮源竟委、融會貫通"
+      }
+    },
+    "5": {
+      "no": 5,
+      "kind": "existing",
+      "word": "班門弄斧",
+      "path": "/workspace/chengyu-preservation/originals/8fb9c0d1c7105d7302bbe8dd897445c06962ae2198c194ed9bd18c5e911e8bf6.png",
+      "original_sha256": "8fb9c0d1c7105d7302bbe8dd897445c06962ae2198c194ed9bd18c5e911e8bf6",
+      "webp_src": "img/idioms/5.webp",
+      "webp_sha256": "8b94156c7910b57b8817d9d0030df396c6215adfcb54b77c9eff3a6cbf557827",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-22",
+      "alt": "男孩得意展示簡單的房屋畫，另一手向前攤開；旁邊老師坐在精細的同景作品前，微笑看著他的展示。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "男孩得意炫耀粗略作品，面前成人已有明顯更高技巧的同景畫作，呈現向行家賣弄。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "展示手側向指節疊合，持紙手拇指在紙後；老師托腮與置桌手自然，雙臂皆接肩。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "紙由手托持，畫板有畫架支撐，老師坐於椅面；石膏像是教具，不當成現場人物。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "紙上只有房屋樹木線稿，畫室物件無可讀文字、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代畫室、便服兒童與成人指導者，符合台灣才藝教學場景。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+        }
+      },
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+        "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+      },
+      "meaning_reference": {
+        "meaning": "比喻在行家面前賣弄本事，不自量力。貶義。",
+        "syn": "布鼓雷門",
+        "ant": ""
+      }
+    },
+    "8": {
+      "no": 8,
+      "kind": "existing",
+      "word": "名落孫山",
+      "path": "/workspace/chengyu-preservation/originals/cca147df0ccff72aa85e63795ec62fd75bc18ffd2d77a40fc81f5d975195fb71.png",
+      "original_sha256": "cca147df0ccff72aa85e63795ec62fd75bc18ffd2d77a40fc81f5d975195fb71",
+      "webp_src": "img/idioms/8.webp",
+      "webp_sha256": "78b43d42cb6dd679c66251fe6bf207cfd6cc22b4c94dda27b097bca7deb9e38b",
+      "passed": false,
+      "reviewer": "independent-visual-review-2026-11-22",
+      "alt": "校門旁的男孩低頭拿著考卷與筆袋，母親輕扶他的肩膀；後方孩子開心交談，公告板貼著不同結果的照片。",
+      "issues": [
+        "text_brand_watermark: 公告板有四個明顯獨立 X 形標記，符合使用者禁止像字母符號的條件，不能通過。"
+      ],
+      "regenerate": true,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "考卷、低落男孩與榜上其照片的失敗標示，對照旁人喜悅，呈現應考未被錄取。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "母親搭肩手與男孩持紙持袋手指自然，遠處拿紙者拇指藏紙後；腳底與地面接觸合理。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "公告板固定在支架，紙與筆袋由手握住，校門與地面透視一致。"
+        },
+        "text_brand_watermark": {
+          "passed": false,
+          "evidence": "公告板有四個明顯獨立 X 形標記，符合使用者禁止像字母符號的條件，不能通過。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣校門、制服與便服學童，前景男孩約高年級比例。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+        }
+      },
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+        "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+      },
+      "meaning_reference": {
+        "meaning": "指應考不中。",
+        "syn": "榜上無名、曝鰓龍門",
+        "ant": "金榜題名、魚躍龍門、雁塔題名"
+      }
+    },
+    "9": {
+      "no": 9,
+      "kind": "existing",
+      "word": "胸有成竹",
+      "path": "/workspace/chengyu-preservation/originals/d4fb95fa237203a3b6fa86f69df7b3420969af994bfe85cc88907bb7218df21e.png",
+      "original_sha256": "d4fb95fa237203a3b6fa86f69df7b3420969af994bfe85cc88907bb7218df21e",
+      "webp_src": "img/idioms/9.webp",
+      "webp_sha256": "7a02b1fe7e71f3cb3c03defa9e09fcb3a77fcb1d13b3f6177699de6db6572a36",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-22",
+      "alt": "男孩神情篤定地為鳥屋木板上膠，腦中已有完成後的模樣；桌上攤著圖解書，旁邊整齊放著待用木片。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "施工前已想到完整鳥屋，材料與步驟備妥且神情從容，表現事前有完整打算，並非束手無策。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "一手握膠瓶另一手扶木板，拇指與四指順握物輪廓，兩臂接肩，坐姿穩定。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "膠落在板邊接縫，未完成屋體有底座支撐，圖解書書脊與木片透視合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "書中只有鳥屋示意與方向箭頭，無文字數字、商標或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代居家木工桌與便服學童，符合台灣生活與國小比例。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+        }
+      },
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+        "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+      },
+      "meaning_reference": {
+        "meaning": "比喻處事有定見。",
+        "syn": "",
+        "ant": "不知所措、束手無策、無計可施"
+      }
+    },
+    "11": {
+      "no": 11,
+      "kind": "existing",
+      "word": "指鹿為馬",
+      "path": "/workspace/chengyu-preservation/originals/bcb4a759401c0b05f26b07485933ca95e30413a64ebf16d911dc1279f9b5add2.png",
+      "original_sha256": "bcb4a759401c0b05f26b07485933ca95e30413a64ebf16d911dc1279f9b5add2",
+      "webp_src": "img/idioms/11.webp",
+      "webp_sha256": "04f7f6c7090c452aa0f714a36544c82fcaca32a621da838e9edaa11624767b43",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-22",
+      "alt": "教室裡的男孩一手插腰，一手堅定指向有角動物的圖畫，話語泡泡卻出現駿馬，旁邊同學驚訝地反駁。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "畫中明確是鹿，男孩卻以馬的圖像堅持另一說法，同學提出異議，呈現顛倒明確事實。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "指向的食指與收攏其餘手指自然，插腰手貼髖；同學手勢及手臂連接合理。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "畫板有畫架承托，動物圖各四足，畫框與地面方向一致。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "對話只有完整馬圖像，畫中無可讀字、字母、數字或品牌。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣可見的現代教室與便服學童，國小高年級比例合理。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+        }
+      },
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+        "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+      },
+      "meaning_reference": {
+        "meaning": "比喻人刻意混淆是非，顛倒黑白。",
+        "syn": "",
+        "ant": "循名責實"
+      }
+    },
+    "12": {
+      "no": 12,
+      "kind": "existing",
+      "word": "天衣無縫",
+      "path": "/workspace/chengyu-preservation/originals/4c40f367ae91ab4c85c64a74db218bf47bf381befe008f8ae554d9d9b833d834.png",
+      "original_sha256": "4c40f367ae91ab4c85c64a74db218bf47bf381befe008f8ae554d9d9b833d834",
+      "webp_src": "img/idioms/12.webp",
+      "webp_sha256": "5975b82d561725c196250693f0d864688ff143ddab8b5554dbfad00d685faf22",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-22",
+      "alt": "修復工作桌旁，男子拿放大鏡檢視完整的風景畫，女孩在旁讚嘆；角落小圖呈現同一幅作品原先破裂的樣子。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "破裂前圖與修好後找不到接縫的成品對照，表現周密完美、沒有破綻。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "女孩合攏雙手指節有自然遮擋，男子握鏡與扶框手指順物件，無多肢或脫肩。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "畫框下緣有桌面承托，放大鏡握柄相接，杯具與修復工具穩放桌面。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "風景畫及前後圖均只有圖像，工具容器素面，無字樣、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代修復工作室與便服成人、兒童，台灣場景可成立。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+        }
+      },
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+        "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+      },
+      "meaning_reference": {
+        "meaning": "比喻詩文渾然天成，沒有斧鑿痕跡。褒義。＆比喻事物或計畫周密完美，沒有一絲破綻或缺點。褒義。",
+        "syn": "渾然一體、渾然天成",
+        "ant": "破綻百出、漏洞百出"
+      }
+    },
+    "13": {
+      "no": 13,
+      "kind": "existing",
+      "word": "舉一反三",
+      "path": "/workspace/chengyu-preservation/originals/9763dd024188588eb765a7b47b9a213b3e831f50eed9413215997162ba676b9b.png",
+      "original_sha256": "9763dd024188588eb765a7b47b9a213b3e831f50eed9413215997162ba676b9b",
+      "webp_src": "img/idioms/13.webp",
+      "webp_sha256": "33c381f21b5479a78051c7a46fe64d727866bec2ee6d44b40f55f4727018e2a6",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-22",
+      "alt": "老師示範把藍色紙張對折，男孩想到新方法；桌上還有不同形狀的摺紙，顯示他把相同原理用在其他作品。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "由一個對折原理推到半圓、三角與不同形狀，呈現推廣運用，不只是依樣複製。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "師生持紙與指示手的五指順握姿，遮在紙後部分合理，肩肘連接正常。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "紙的摺線形成可閉合面，剪刀有共同軸，紙片平放桌面；非懸浮。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "燈泡是具燈座的完整物件圖示，紙張無文字與數字，無品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣手作教室與便服學童、老師，年齡角色合理。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+        }
+      },
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+        "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+      },
+      "meaning_reference": {
+        "meaning": "形容人於學習中善於觸類旁通。褒義。",
+        "syn": "聞一知十、觸類旁通",
+        "ant": ""
+      }
+    },
+    "14": {
+      "no": 14,
+      "kind": "existing",
+      "word": "江郎才盡",
+      "path": "/workspace/chengyu-preservation/originals/18e1c0bef38c547a250deb7487b6de1dbd77de07a67d4c541b64b26e3aa2877c.png",
+      "original_sha256": "18e1c0bef38c547a250deb7487b6de1dbd77de07a67d4c541b64b26e3aa2877c",
+      "webp_src": "img/idioms/14.webp",
+      "webp_sha256": "f7531be8e4c8a01a7617e2f473cb7a4e6a715deffff062ae9a4878c03c05908b",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-22",
+      "alt": "創作者坐在空白稿紙前抓頭苦思，桌邊散著揉皺的草稿，腦中一片空白，身後書架陳列過往完成的圖畫書。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "已有許多完成作品，現在卻空白、揉稿與苦思，呈現過去有才而如今創意枯竭。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "握筆手拇指與指節自然，抓頭手貼髮際，肘肩相接；坐姿有椅面支撐。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "燈具關節、筆筒、稿紙與桌面位置合理，書架承托直立書冊。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "圖畫書封面僅圖像，稿紙空白，無可讀文字、字母數字或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "便服成人於現代居家創作室，符合台灣圖畫書工作者情境。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+        }
+      },
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+        "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+      },
+      "meaning_reference": {
+        "meaning": "比喻文人的才思枯竭，無法再創佳句。",
+        "syn": "才思枯竭、枯腸渴肺",
+        "ant": "七步之才、七步成詩、下筆成章、文不加點、妙筆生花、思如泉湧、倚馬可待、萬斛泉源、錦心繡口"
+      }
+    },
+    "15": {
+      "no": 15,
+      "kind": "existing",
+      "word": "青出於藍",
+      "path": "/workspace/chengyu-preservation/originals/e501ec268c0277dfc7398693bbcfeea95dae72cc0c023668d961c3ecce653af7.png",
+      "original_sha256": "e501ec268c0277dfc7398693bbcfeea95dae72cc0c023668d961c3ecce653af7",
+      "webp_src": "img/idioms/15.webp",
+      "webp_sha256": "58288d9fd780897c8f6bd309d752040fab679d7fe16e02f12f8505283004342d",
+      "passed": false,
+      "reviewer": "independent-visual-review-2026-11-22",
+      "alt": "長者拿著簡單的藍色紙鳥示範，年輕學習者展示更精巧的大型鳳鳥作品，長者伸手微笑，稱讚她的成果。",
+      "issues": [
+        "meaning: 師生鳥形作品的精細程度可表現後輩超越，但與既有 465「後生可畏」長者持簡單鳥、青年持精巧鳥並獲讚的構圖近乎相同，依規則不通過。"
+      ],
+      "regenerate": true,
+      "checks": {
+        "meaning": {
+          "passed": false,
+          "evidence": "師生鳥形作品的精細程度可表現後輩超越，但與既有 465「後生可畏」長者持簡單鳥、青年持精巧鳥並獲讚的構圖近乎相同，依規則不通過。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "長者握紙鳥與攤掌手、學習者托鳳鳥手指自然分佈，遮擋合理，無額外肢體。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "鳥由多片紙組成，可由雙手托住，桌上紙材與指導圖攤平；不誤當真鳥。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "步驟圖僅摺線與箭頭，紙張素面，無文字數字或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣手作教室，成人師徒角色可成立；無古裝或異國地標。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+        }
+      },
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+        "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+      },
+      "meaning_reference": {
+        "meaning": "比喻弟子勝過老師，或後輩優於前輩。褒義。",
+        "syn": "冰寒於水、青藍冰水、後來居上、為青為冰",
+        "ant": ""
+      }
+    },
+    "16": {
+      "no": 16,
+      "kind": "existing",
+      "word": "口若懸河",
+      "path": "/workspace/chengyu-preservation/originals/2d5c6a264641ec216eea8ae7dd2a3307a76df6a01b2c93984da6252ba271f3d7.png",
+      "original_sha256": "2d5c6a264641ec216eea8ae7dd2a3307a76df6a01b2c93984da6252ba271f3d7",
+      "webp_src": "img/idioms/16.webp",
+      "webp_sha256": "3eabd41ebe66bb9e29c529044e0aa0e8d0d94ef9d04f5a02d9a68d4b356ddc9b",
+      "passed": false,
+      "reviewer": "independent-visual-review-2026-11-22",
+      "alt": "男子在戶外生動說故事，頭上連串泡泡畫著山林與旅行見聞，三名孩子坐在木樁上專心聆聽，後方可見城堡。",
+      "issues": [
+        "taiwan_context: 實際背景而非泡泡內出現歐式城堡與尖塔城鎮，無法確認台灣現代場景。"
+      ],
+      "regenerate": true,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "連續故事泡泡配流暢手勢與專心聽眾，能呈現能言善說、接連不停的談話。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "男子持杖與張掌手指自然，孩子托腮及放膝手有合理遮擋，坐於木樁、雙腳向地。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "木樁有承重底座，人物重心與杖著地合理，泡泡旅行片段屬敘事圖像。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "泡泡只有完整景物與動物，無字母數字或商標。"
+        },
+        "taiwan_context": {
+          "passed": false,
+          "evidence": "實際背景而非泡泡內出現歐式城堡與尖塔城鎮，無法確認台灣現代場景。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+        }
+      },
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+        "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+      },
+      "meaning_reference": {
+        "meaning": "比喻能言善辯。",
+        "syn": "能言善道",
+        "ant": "拙口鈍辭、笨口拙舌、張口結舌、期期艾艾、結結巴巴"
+      }
+    },
+    "17": {
+      "no": 17,
+      "kind": "existing",
+      "word": "驚弓之鳥",
+      "path": "/workspace/chengyu-preservation/originals/dc2f01d182e900a082630f6ab094813ae86103b7f9052224116a1d9d4bf48594.png",
+      "original_sha256": "dc2f01d182e900a082630f6ab094813ae86103b7f9052224116a1d9d4bf48594",
+      "webp_src": "img/idioms/17.webp",
+      "webp_sha256": "2400549a7b6cd63ffc57ca1c04a5adc620dec7132d802c83f2b46a30cd414683",
+      "passed": false,
+      "reviewer": "independent-visual-review-2026-11-22",
+      "alt": "女孩見到尚未破裂的氣球就摀耳害怕，腦中浮現上回氣球爆裂時哭泣的畫面，母親在身旁輕輕安撫她。",
+      "issues": [
+        "hands_feet_pose: 前景母女與泡泡人物手勢自然，但右後方綠衣男孩握杯手、紫衣女孩持杯手是模糊團塊，原尺寸仍無法確認五指，按不確定即失敗。"
+      ],
+      "regenerate": true,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "先前爆裂受驚與現在未破氣球引發恐懼有明確前後因果，不只是一般害怕。"
+        },
+        "hands_feet_pose": {
+          "passed": false,
+          "evidence": "前景母女與泡泡人物手勢自然，但右後方綠衣男孩握杯手、紫衣女孩持杯手是模糊團塊，原尺寸仍無法確認五指，按不確定即失敗。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "氣球有綁線，杯由手持，人物坐站與桌椅地面相接合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "派對裝飾沒有生日字母數字，只有色紙與氣球，無品牌水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代家庭庭院聚會、便服母女及同齡孩子，台灣生活可成立。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+        }
+      },
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+        "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+      },
+      "meaning_reference": {
+        "meaning": "比喻曾受打擊或驚嚇，心有餘悸，稍有動靜就害怕的人。",
+        "syn": "心有餘悸、談虎色變",
+        "ant": ""
+      }
+    },
+    "18": {
+      "no": 18,
+      "kind": "existing",
+      "word": "含沙射影",
+      "path": "/workspace/chengyu-preservation/originals/b40234ade3dfd677894488c13912dcf1c33de40b660f1f20e13f6adfd23f2205.png",
+      "original_sha256": "b40234ade3dfd677894488c13912dcf1c33de40b660f1f20e13f6adfd23f2205",
+      "webp_src": "img/idioms/18.webp",
+      "webp_sha256": "37374ddc59a8da4be945c5c36e746e25276b15a24dd10b39418a5f366c903561",
+      "passed": false,
+      "reviewer": "independent-visual-review-2026-11-22",
+      "alt": "畫室裡，一名女子摀嘴對同伴耳語，泡泡中出現另一位女子的剪影與黑色星芒；後方那人仍低頭繼續作畫。",
+      "issues": [
+        "meaning: 直接以對方剪影私下說壞話，只能看出耳語或傳閒話，缺少用別的事物間接影射、詆毀人的關鍵，容易混同竊竊私語。",
+        "text_brand_watermark: 左上牆面海報有獨立大幅中文字般灰色筆畫，不能排除可讀或類文字內容。"
+      ],
+      "regenerate": true,
+      "checks": {
+        "meaning": {
+          "passed": false,
+          "evidence": "直接以對方剪影私下說壞話，只能看出耳語或傳閒話，缺少用別的事物間接影射、詆毀人的關鍵，容易混同竊竊私語。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "遮口、托腮、握筆手均接腕臂自然，遮住的指節有物件依據，無額外手腳。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "畫架、桌面、坐椅有承托，畫筆被指端握住，透視沒有明顯衝突。"
+        },
+        "text_brand_watermark": {
+          "passed": false,
+          "evidence": "左上牆面海報有獨立大幅中文字般灰色筆畫，不能排除可讀或類文字內容。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代便服女性在畫室工作，台灣成人創作情境可成立。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+        }
+      },
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+        "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+      },
+      "meaning_reference": {
+        "meaning": "比喻間接地詆毀、陷害別人。貶義。",
+        "syn": "指桑罵槐、暗箭傷人",
+        "ant": "光明正大、光明磊落"
+      }
+    },
+    "19": {
+      "no": 19,
+      "kind": "existing",
+      "word": "一敗塗地",
+      "path": "/workspace/chengyu-preservation/originals/fe1fc383f093936029d8facc7687e0b27157352ebbcf3d5e17c79ef4c77a0982.png",
+      "original_sha256": "fe1fc383f093936029d8facc7687e0b27157352ebbcf3d5e17c79ef4c77a0982",
+      "webp_src": "img/idioms/19.webp",
+      "webp_sha256": "8d46099a1a18030dcce25497f319740ef32e96864f94e13730d488764ff37ca9",
+      "passed": false,
+      "reviewer": "independent-visual-review-2026-11-22",
+      "alt": "男孩望著棋盤抓頭發愁，自己多數白棋已被移到桌邊，對手從容托腮，盤面前方還躺著倒下的白色國王。",
+      "issues": [
+        "meaning: 白棋大量被吃原可顯示慘敗，但與既有 41「四面楚歌」男孩抓頭、白棋堆在左邊、黑棋包圍的棋局構圖高度相近，不能作獨立清楚辨義的插圖。",
+        "objects_contact_perspective: 棋盤前方倒下的白王頂有十字，左邊被吃白棋堆另有一顆同樣帶十字的白王，一局出現兩個白王，棋具結構錯誤。"
+      ],
+      "regenerate": true,
+      "checks": {
+        "meaning": {
+          "passed": false,
+          "evidence": "白棋大量被吃原可顯示慘敗，但與既有 41「四面楚歌」男孩抓頭、白棋堆在左邊、黑棋包圍的棋局構圖高度相近，不能作獨立清楚辨義的插圖。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "抓頭與托腮手的指節、遮擋自然，前臂接肩且坐姿有支撐，無多餘肢體。"
+        },
+        "objects_contact_perspective": {
+          "passed": false,
+          "evidence": "棋盤前方倒下的白王頂有十字，左邊被吃白棋堆另有一顆同樣帶十字的白王，一局出現兩個白王，棋具結構錯誤。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "王冠十字屬西洋棋棋子結構，並非獨立文字；其餘未見字母數字或品牌。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代校內棋藝活動與學童便服，台灣情境合理。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+        }
+      },
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+        "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+      },
+      "meaning_reference": {
+        "meaning": "形容做事失敗，到了無法收拾的地步。",
+        "syn": "一蹶不振",
+        "ant": "百戰百勝、所向披靡、所向無敵、勢如破竹"
+      }
+    },
+    "20": {
+      "no": 20,
+      "kind": "existing",
+      "word": "草木皆兵",
+      "path": "/workspace/chengyu-preservation/originals/7bb779734f36da21db03e5c2f5ba8739e8c8114afbe16f21ab9d8658d8bec432.png",
+      "original_sha256": "7bb779734f36da21db03e5c2f5ba8739e8c8114afbe16f21ab9d8658d8bec432",
+      "webp_src": "img/idioms/20.webp",
+      "webp_sha256": "502def30540f77d6b63e4e323a26130409a4b19c69475c1ab314a5d020207240",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-22",
+      "alt": "傍晚河岸邊，男孩拿手電筒驚慌縮身，把草叢想成成群士兵；女孩指著眼前植物，提醒他那只是普通灌木。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "實景只有植物，半透明士兵是恐懼想像，女孩指出真相，清楚呈現驚懼而疑神疑鬼。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "持燈、縮手與指示手順腕臂相接，指向手其餘手指自然收攏，人物鞋底落地。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "手電筒握柄與光束方向合理，草叢立於地面，幻想士兵不當作實體人員。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "手電筒素面，背景無招牌文字數字與品牌，無浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代河岸公園、城市建築及便服學童，符合台灣生活場景。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+        }
+      },
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+        "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+      },
+      "meaning_reference": {
+        "meaning": "形容疑神疑鬼、驚恐不安。",
+        "syn": "杯弓蛇影、風聲鶴唳、疑神疑鬼",
+        "ant": "處變不驚"
+      }
+    },
+    "21": {
+      "no": 21,
+      "kind": "existing",
+      "word": "投筆從戎",
+      "path": "/workspace/chengyu-preservation/originals/5485029abe3280e677ad34f3f191d3f9a24a3484fc5c8f02de15fc23bdfdd467.png",
+      "original_sha256": "5485029abe3280e677ad34f3f191d3f9a24a3484fc5c8f02de15fc23bdfdd467",
+      "webp_src": "img/idioms/21.webp",
+      "webp_sha256": "b7e17dea613631e44dafed07830944f2c85a93f78e33743a56679018ec6fffb6",
+      "passed": false,
+      "reviewer": "independent-visual-review-2026-11-22",
+      "alt": "左側青年坐在書桌前拿筆讀書，右側同一人穿上軍服，提著行囊與書本走進營區，遠方士兵正集合操練。",
+      "issues": [
+        "hands_feet_pose: 近景握筆、拿書與提袋手自然，但遠景整列士兵的手僅為小塊，最右下垂手無法確認五指，按不確定即失敗。"
+      ],
+      "regenerate": true,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "同一人由讀寫工作轉向入伍營區，棄文從軍的前後關係清楚。"
+        },
+        "hands_feet_pose": {
+          "passed": false,
+          "evidence": "近景握筆、拿書與提袋手自然，但遠景整列士兵的手僅為小塊，最右下垂手無法確認五指，按不確定即失敗。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "書桌承托書本，行囊帶連於肩，行走另一腳支撐地面，營舍透視合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "筆記本僅空白橫線，制服無字樣肩章，未見文字數字品牌或水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代軍營、山區建築與成年入伍角色可成立，沒有把幼童當士兵。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+        }
+      },
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+        "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+      },
+      "meaning_reference": {
+        "meaning": "比喻棄文從軍，以衛國立功。褒義。",
+        "syn": "棄文就武",
+        "ant": ""
+      }
+    },
+    "22": {
+      "no": 22,
+      "kind": "existing",
+      "word": "東窗事發",
+      "path": "/workspace/chengyu-preservation/originals/0af83e9f43b37c774e83aa544a0340e04e928ae3a9bb987fdf35545c0466309c.png",
+      "original_sha256": "0af83e9f43b37c774e83aa544a0340e04e928ae3a9bb987fdf35545c0466309c",
+      "webp_src": "img/idioms/22.webp",
+      "webp_sha256": "e1b85a4adb35700d7f46b5da210ee57dda6c853da718e5225a46a227b29bdbd1",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-22",
+      "alt": "老師拿著兩張圖形考卷比對，男孩緊張抓頭，抽屜裡露出相同圖案的小抄；後方同學停下筆，驚訝地望過來。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "隱藏小抄被露出，教師對照答案且孩子緊張，呈現不正當行為遭揭穿的因果。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "持紙手拇指在紙後，抓頭手貼髮際；後方女孩握筆手與另一支撐手自然，皆無多肢。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "小抄由抽屜底面支撐，桌腿著地，老師持紙受雙手固定，圖形相符。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "考卷只有圓形、三角與立體方塊圖，沒有題號字母文字，無品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣教室、教師與國小高年級學生比例合理。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+        }
+      },
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+        "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+      },
+      "meaning_reference": {
+        "meaning": "指陰謀或非法勾當敗漏。",
+        "syn": "露出馬腳",
+        "ant": "神不知鬼不覺、瞞天過海"
+      }
+    },
+    "23": {
+      "no": 23,
+      "kind": "existing",
+      "word": "畫蛇添足",
+      "path": "/workspace/chengyu-preservation/originals/e3fcb692228386ccc102adf74a989dc694abe363012d856c15248c9738af3b02.png",
+      "original_sha256": "e3fcb692228386ccc102adf74a989dc694abe363012d856c15248c9738af3b02",
+      "webp_src": "img/idioms/23.webp",
+      "webp_sha256": "9c1d810ccadd87d08ffec6f819fe38886c67bcbd3839726287810f58cd1cb292",
+      "passed": false,
+      "reviewer": "independent-visual-review-2026-11-22",
+      "alt": "古代庭院裡，男子蹲著替地上的長蛇圖案加上四隻腳；另一人留下沒有腳的蛇圖，抱著酒壺轉身離開。",
+      "issues": [
+        "meaning: 只畫古代蛇足典故片段，缺少原先成功、因多加而失去成果的清楚前後畫面，也可能被看成畫蜥蜴，無法穩定讀出多此一舉反壞事。",
+        "taiwan_context: 人物束髮、古代長袍與綁腿，庭院沒有現代台灣生活背景。"
+      ],
+      "regenerate": true,
+      "checks": {
+        "meaning": {
+          "passed": false,
+          "evidence": "只畫古代蛇足典故片段，缺少原先成功、因多加而失去成果的清楚前後畫面，也可能被看成畫蜥蜴，無法穩定讀出多此一舉反壞事。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "持細棒與托酒壺手指隨物遮擋自然，蹲姿膝踝方向合理，另一人行走有支撐腳。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "木棒接觸地面畫線，酒壺受手臂承托，蛇腳為故事中的刻意畫作，不當成人物畸形。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "地面只有動物圖，酒壺與服裝素面，無文字數字品牌或水印。"
+        },
+        "taiwan_context": {
+          "passed": false,
+          "evidence": "人物束髮、古代長袍與綁腿，庭院沒有現代台灣生活背景。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+        }
+      },
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+        "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+      },
+      "meaning_reference": {
+        "meaning": "比喻多此一舉，反將事情弄糟。貶義。",
+        "syn": "多此一舉、弄巧成拙",
+        "ant": "恰如其分、恰到好處"
+      }
+    },
+    "25": {
+      "no": 25,
+      "kind": "existing",
+      "word": "滄海桑田",
+      "path": "/workspace/chengyu-preservation/originals/176fb1953893a45a8f85014c18a198c9c1aeb1860189c0c90118ae72628ffaf2.png",
+      "original_sha256": "176fb1953893a45a8f85014c18a198c9c1aeb1860189c0c90118ae72628ffaf2",
+      "webp_src": "img/idioms/25.webp",
+      "webp_sha256": "dd34587a5f5712b9e47233d576a52c4481519d900492b6edf3dffc4e2c98b68d",
+      "passed": false,
+      "reviewer": "independent-visual-review-2026-11-22",
+      "alt": "老人拿著海岸舊照片回望家鄉，畫面接連呈現同一山頭前的海灣、農田與城鎮，遠方土地樣貌已完全改變。",
+      "issues": [
+        "hands_feet_pose: 老人持照手的指節自然，但中景農人的伸手與提籃手是模糊楔塊，原尺寸仍無法確認五指，不通過。"
+      ],
+      "regenerate": true,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "共同山峰與老人手上舊照把海灣、田地、城鎮連在一起，明確呈現環境經長時間劇烈變化。"
+        },
+        "hands_feet_pose": {
+          "passed": false,
+          "evidence": "老人持照手的指節自然，但中景農人的伸手與提籃手是模糊楔塊，原尺寸仍無法確認五指，不通過。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "海岸、田畦與城鎮沿同一地形展開，照片由手夾持，建築支撐合理。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "照片與地景均無文字、字母數字、品牌或浮水印。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "海岸農田、紅瓦房與平頂現代城鎮可作台灣家鄉變遷，沒有明確異國標誌。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+        }
+      },
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+        "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+      },
+      "meaning_reference": {
+        "meaning": "大海變為陸地，陸地淪為大海。比喻環境變化很大。＆比喻世事無常，變化很快。",
+        "syn": "白雲蒼狗、東海揚塵、高岸為谷、深谷為陵",
+        "ant": "一成不變、依然如故"
+      }
     }
   }
 }

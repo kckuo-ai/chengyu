@@ -26,6 +26,10 @@ def audit():
     catalog = read('data/illustrations.json')['entries']
     prompts = read('docs/illustration-prompts.json')['entries']
     reviews = read('docs/illustration-reviews.json')['entries']
+    inventory_path = ROOT / 'docs/illustration-originals.json'
+    inventory = read('docs/illustration-originals.json') if inventory_path.exists() else None
+    archived = set(inventory['sha256s']) if inventory else None
+    original_found = original_missing = 0
     p1 = read('docs/illustration-regeneration-queue.json')['entries']
     historical = read(SOURCE_REVIEW)
     revisions = read('docs/illustration-revisions.json')
@@ -37,6 +41,19 @@ def audit():
                 and review.get('passed') is True and not review.get('issues')
                 and not review.get('regenerate')):
             resolved.update((no, tag) for tag in revision.get('resolved_findings', []))
+    # A fresh explicit review can resolve findings on the unchanged image.
+    for no, review in reviews.items():
+        if (review.get('passed') is True and not review.get('issues')
+                and not review.get('regenerate')
+                and all(isinstance(review.get('checks', {}).get(k), dict)
+                        and review['checks'][k].get('passed') is True
+                        and str(review['checks'][k].get('evidence', '')).strip()
+                        for k in CHECKS)
+                and review.get('webp_sha256')
+                and catalog.get(no)
+                and hashlib.sha256((ROOT / catalog[no]['src']).read_bytes()).hexdigest()
+                    == review['webp_sha256']):
+            resolved.update((no, tag) for tag in review.get('resolved_findings', []))
     p1_done = {str(e['no']) for e in p1 if e.get('status') == 'published'}
     style = {str(n) for n in historical['P2_style_regenerate']['nos']}
     # The P1 replacement of 1046 includes the required no-red-scarf review.
@@ -67,14 +84,26 @@ def audit():
             srcs[art['src']].append(int(n))
             if art.get('originalSha256'):
                 originals[art['originalSha256']].append(int(n))
+            if archived is not None:
+                if art.get('originalSha256') in archived:
+                    original_found += 1
+                else:
+                    original_missing += 1
+                    actions.append('original_archive_missing')
             review = reviews.get(n)
+            review_matches_asset = not review or not review.get('webp_sha256') or (
+                path.is_file() and hashlib.sha256(path.read_bytes()).hexdigest()
+                == review['webp_sha256'])
+            if not review_matches_asset:
+                actions.append('review_asset_changed')
             if review is None:
                 unrecorded += 1
                 actions.append('review_record_missing')
             elif all(isinstance(review.get('checks', {}).get(k), dict)
                      and review['checks'][k].get('passed') is True
                      and str(review['checks'][k].get('evidence', '')).strip()
-                     for k in CHECKS) and review.get('passed') is True:
+                     for k in CHECKS) and review.get('passed') is True and not review.get('issues') \
+                    and not review.get('regenerate') and review_matches_asset:
                 strict += 1
             else:
                 legacy += 1
@@ -101,12 +130,18 @@ def audit():
             task = {'no': int(n), 'word': entry['w'], 'actions': actions}
             if art:
                 task['src'] = art['src']
+                task['original_sha256'] = art.get('originalSha256')
+                task['original_available'] = (art.get('originalSha256') in archived
+                                              if archived is not None else None)
+                if task['original_available']:
+                    task['original_archive_path'] = ('originals/'
+                        + art['originalSha256'] + '.png')
             tasks.append(task)
     unreferenced = sorted(str(p.relative_to(ROOT)) for p in
                           (ROOT / 'img/idioms').glob('*.webp')
                           if str(p.relative_to(ROOT)) not in srcs)
     report = {
-        'schema_version': 1,
+        'schema_version': 2,
         'sources': {
             'completion': 'data/illustrations.json',
             'scope': 'data/moe-index.json',
@@ -115,6 +150,9 @@ def audit():
             'P1': 'docs/illustration-regeneration-queue.json',
             'resolved_findings': 'docs/illustration-revisions.json',
             'historical_findings': SOURCE_REVIEW,
+            'original_availability': 'docs/illustration-originals.json',
+            'original_archive': ({k: inventory[k] for k in
+                ['repository', 'branch', 'commit', 'index_path']} if inventory else None),
         },
         'limits': 'Record and asset audit only; no new visual pass is implied. '
                   'Missing/legacy evidence is not a failed image. Task categories '
@@ -124,12 +162,17 @@ def audit():
             'missing_illustrations': len(index) - len(catalog),
             'coverage_percent': round(100 * len(catalog) / len(index), 2),
             'P1_published': len(p1_done), 'P1_total': len(p1),
+            'originals_found': original_found if archived is not None else None,
+            'originals_missing': original_missing if archived is not None else None,
             'review_records': len(reviews), 'review_missing': unrecorded,
             'review_legacy': legacy, 'review_eight_checks': strict,
             'unique_task_idioms': len(tasks), 'action_counts': dict(counts),
         },
         'priority': [
-            'create_new_art: complete all 1466 catalog entries first',
+            'review_unresolved: preserve installed images while awaiting reviewed replacements',
+            'review_record_missing: inspect originals first; use WebP when original is missing',
+            'original_archive_missing: recover source; do not substitute a WebP-to-PNG conversion',
+            'create_new_art: complete any missing catalog entries',
             'P1_replacement: resume only unresolved P1; published P1 is closed',
             'after full coverage: verify historical style/scarf findings, then '
             'optional P3, adding any confirmed failure to regeneration',

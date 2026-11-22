@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Check overlap handling and corruption detection on an isolated catalog."""
+import hashlib
 import importlib.util
 import json
 from pathlib import Path
@@ -71,6 +72,53 @@ class AuditTest(unittest.TestCase):
             self.assertNotIn('P2_style_review', actions)
             self.assertIn('P3_optional_review', actions)
             self.assertIn('red_neckerchief_review', actions)
+            # Source availability overlaps review findings; it never creates a
+            # second task, and a missing source is not a missing website image.
+            write('docs/illustration-originals.json', {
+                'repository': 'fixture/repo', 'branch': 'archive',
+                'commit': 'fixture', 'index_path': 'index.json',
+                'sha256s': ['same-original']})
+            second = dict(art, word='戊己庚辛', originalSha256='not-archived')
+            write('data/illustrations.json', {'entries': {'1': art, '2': second}})
+            try:
+                module.ROOT = root
+                source_report = module.audit()
+            finally:
+                module.ROOT = original_root
+            self.assertEqual([t['no'] for t in source_report['tasks']], [1, 2, 3])
+            self.assertEqual(source_report['summary']['originals_missing'], 1)
+            self.assertEqual(source_report['summary']['missing_illustrations'], 1)
+            self.assertEqual(source_report['tasks'][1]['actions'],
+                             ['original_archive_missing'])
+            self.assertFalse(source_report['tasks'][1]['original_available'])
+            # Passing check fields cannot override an unresolved issue, and
+            # approval of another asset does not count as approval of this one.
+            invalid = dict(strict, issues=['unresolved detail'], regenerate=True)
+            changed = dict(strict, webp_sha256='different-image-hash')
+            write('docs/illustration-reviews.json', {'entries': {
+                '1': invalid, '2': changed}})
+            try:
+                module.ROOT = root
+                stale_report = module.audit()
+            finally:
+                module.ROOT = original_root
+            self.assertEqual(stale_report['summary']['review_eight_checks'], 0)
+            self.assertIn('review_asset_changed', stale_report['tasks'][1]['actions'])
+            # A new review resolves only its explicit findings on the exact
+            # installed bytes, without requiring the image to be replaced.
+            fresh = dict(strict, issues=[], regenerate=False,
+                         webp_sha256=hashlib.sha256(image.read_bytes()).hexdigest(),
+                         resolved_findings=['P3_optional_review'])
+            write('docs/illustration-reviews.json', {'entries': {
+                '1': fresh, '2': changed}})
+            try:
+                module.ROOT = root
+                fresh_report = module.audit()
+            finally:
+                module.ROOT = original_root
+            self.assertNotIn('P3_optional_review', fresh_report['tasks'][0]['actions'])
+            self.assertIn('red_neckerchief_review', fresh_report['tasks'][0]['actions'])
+
 
 
 if __name__ == '__main__':

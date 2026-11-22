@@ -16,7 +16,7 @@
 - 兒童可理解的情境，避免血腥與危險動作；無標題、文字、浮水印，避免看圖題洩漏答案。
 - 不指定特定創作者的風格、不使用第三方插畫參考、不使用知名角色或商標。製作來源記錄不等於零侵權風險的法律保證。
 
-已生成插圖使用 image generation 工具，依各詞條的意義撰寫獨立場景提示。原始 PNG 保留在工作區 `/workspace/generated_images/`；網頁使用重新編碼的 WebP，不裁切或改動構圖。各張原圖 SHA-256 記在目錄中，可對照原始檔。
+已生成插圖使用 image generation 工具，依各詞條的意義撰寫獨立場景提示。原始 PNG 以 SHA-256 去重，保留於 `illustration-archive` 分支的 `originals/` 及工作區 `/workspace/chengyu-preservation/originals/`；舊 `/workspace/generated_images/` 路徑可為相容符號連結。網頁使用重新編碼的 WebP，不裁切或改動構圖。各張原圖 SHA-256 記在目錄中，可對照原始檔。
 
 從「一諾千金」開始的現代情境批次，完整共用畫風提示、個別場景提示與替代文字另存於 `docs/illustration-prompts.json`，便於追溯與後續調整。
 
@@ -68,3 +68,11 @@ node tests/illustrations.cjs
 新增兩項任一不符合即驗證失敗，不得登錄。metadata 的 `path` 必須與 review 的 `path` 完全一致，且 metadata 的 `style_prompt` 必須等於當前固定提示。登錄前執行 `python3 scripts/validate_illustration_review.py METADATA_JSON REVIEW_JSON`；此檢查只驗證紀錄門檻，實際看圖仍須由獨立驗證者完成。
 
 P1 排程及保留原圖、revisions、獨立驗證、每 50 張發布等規則見 `docs/illustration-goal.md` 與 `docs/illustration-regeneration-queue.json`。P2、P3 等全量 1,466 條完成後再處理。
+
+## 原圖保存與既有圖片複審
+
+`docs/illustration-originals.json` 僅記錄封存分支可取得的原圖雜湊，不是另一份待辦。`illustration_audit.py` 將原圖缺口與缺少審核、歷史品質候選合併到同一編號；WebP 轉存 PNG 不能視為補回原圖。
+
+既有圖片重新檢視後，將八項檢查與具體證據寫入 `illustration-reviews.json`，以 `kind: existing` 區分新圖登錄；`webp_sha256` 綁定實際受審網站檔，替換後須重新審核。新的 alt 是此次獨立觀察，不自動改寫網站的既有 alt。複審失敗的圖片仍保留在線上，待替代圖通過才覆寫；單一待辦列為 `review_unresolved`。缺少完整證據不能視為通過。
+
+2026-11-22 首批已實際檢視 20 張的全圖、原尺寸細節及 109 張相似／同義候選對照，9 張通過、11 張需重畫。逐張結果見目前審核紀錄；原圖與新紀錄另以雜湊去重封存在 `illustration-archive`，不保留檢視用裁切或拼圖。
