@@ -1,0 +1,68 @@
+{
+  "no": 15,
+  "kind": "existing",
+  "word": "青出於藍",
+  "path": "/workspace/chengyu-preservation/originals/e501ec268c0277dfc7398693bbcfeea95dae72cc0c023668d961c3ecce653af7.png",
+  "original_sha256": "e501ec268c0277dfc7398693bbcfeea95dae72cc0c023668d961c3ecce653af7",
+  "webp_src": "img/idioms/15.webp",
+  "webp_sha256": "58288d9fd780897c8f6bd309d752040fab679d7fe16e02f12f8505283004342d",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "長者拿著簡單的藍色紙鳥示範，年輕學習者展示更精巧的大型鳳鳥作品，長者伸手微笑，稱讚她的成果。",
+  "issues": [
+    "meaning: 師生鳥形作品的精細程度可表現後輩超越，但與既有 465「後生可畏」長者持簡單鳥、青年持精巧鳥並獲讚的構圖近乎相同，依規則不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "師生鳥形作品的精細程度可表現後輩超越，但與既有 465「後生可畏」長者持簡單鳥、青年持精巧鳥並獲讚的構圖近乎相同，依規則不通過。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "長者握紙鳥與攤掌手、學習者托鳳鳥手指自然分佈，遮擋合理，無額外肢體。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "鳥由多片紙組成，可由雙手托住，桌上紙材與指導圖攤平；不誤當真鳥。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "步驟圖僅摺線與箭頭，紙張素面，無文字數字或浮水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣手作教室，成人師徒角色可成立；無古裝或異國地標。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻弟子勝過老師，或後輩優於前輩。褒義。",
+    "syn": "冰寒於水、青藍冰水、後來居上、為青為冰",
+    "ant": ""
+  },
+  "latest_rejected_candidate": {
+    "batch": "batch-18-redraw-11",
+    "original_sha256": "2fcfc5da2ebae6fa254ff2ff508d94a3e4dcb1f8ddcff4409306e712fa68e68c",
+    "original_archive_path": "originals/2fcfc5da2ebae6fa254ff2ff508d94a3e4dcb1f8ddcff4409306e712fa68e68c.png",
+    "review_archive_path": "records/reviews/0fe259263dca20c073911071663e47ada4fd9c96ff61b0d6672f971fe34792e8.json",
+    "passed": false
+  }
+}

@@ -5,7 +5,14 @@
   "original_sha256": "e501ec268c0277dfc7398693bbcfeea95dae72cc0c023668d961c3ecce653af7",
   "original": "originals/e501ec268c0277dfc7398693bbcfeea95dae72cc0c023668d961c3ecce653af7.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/15aa02388fba5eea7a69a3915ba70eccd9018a4f11b8e9b5351f18c5332a1317.json",
+  "current_review_path": "records/reviews/7667134d39cc370b2bbfa3f60d3295a0ad559ffe2111d354f75155aa85d89f62.json",
   "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": "records/prompts/3bbcb9a532500c802d7382ec84f6a3e03619a49435592ad1fd32400c5f19efd4.json"
+  "current_prompt_path": "records/prompts/3bbcb9a532500c802d7382ec84f6a3e03619a49435592ad1fd32400c5f19efd4.json",
+  "latest_rejected_candidate": {
+    "batch": "batch-18-redraw-11",
+    "original_sha256": "2fcfc5da2ebae6fa254ff2ff508d94a3e4dcb1f8ddcff4409306e712fa68e68c",
+    "original_archive_path": "originals/2fcfc5da2ebae6fa254ff2ff508d94a3e4dcb1f8ddcff4409306e712fa68e68c.png",
+    "review_archive_path": "records/reviews/0fe259263dca20c073911071663e47ada4fd9c96ff61b0d6672f971fe34792e8.json",
+    "passed": false
+  }
 }
