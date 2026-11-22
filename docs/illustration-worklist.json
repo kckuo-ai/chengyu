@@ -12,16 +12,16 @@
   "limits": "Record and asset audit only; no new visual pass is implied. Missing/legacy evidence is not a failed image. Task categories overlap; count unique tasks, not the sum of action counts.",
   "summary": {
     "total_idioms": 1466,
-    "published_illustrations": 1424,
-    "missing_illustrations": 42,
-    "coverage_percent": 97.14,
+    "published_illustrations": 1453,
+    "missing_illustrations": 13,
+    "coverage_percent": 99.11,
     "P1_published": 21,
     "P1_total": 21,
-    "review_records": 868,
+    "review_records": 897,
     "review_missing": 556,
     "review_legacy": 546,
-    "review_eight_checks": 322,
-    "unique_task_idioms": 1144,
+    "review_eight_checks": 351,
+    "unique_task_idioms": 1115,
     "action_counts": {
       "review_record_missing": 556,
       "prompt_record_missing": 25,
@@ -31,7 +31,7 @@
       "legacy_format_review": 111,
       "P2_style_review": 48,
       "red_neckerchief_review": 10,
-      "create_new_art": 42
+      "create_new_art": 13
     }
   },
   "priority": [
@@ -9191,211 +9191,8 @@
       ]
     },
     {
-      "no": 5152,
-      "word": "弔民伐罪",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5155,
-      "word": "日暮途窮",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5156,
-      "word": "呼天搶地",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5157,
-      "word": "錦衣玉食",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5332,
-      "word": "鳥語花香",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5335,
-      "word": "極樂世界",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5336,
-      "word": "火燒眉毛",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5337,
-      "word": "正人君子",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5338,
-      "word": "目不暇給",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5347,
-      "word": "雀屏中選",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5354,
-      "word": "異口同聲",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5366,
-      "word": "千山萬水",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5369,
-      "word": "不三不四",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5371,
-      "word": "天長地久",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5376,
-      "word": "履險如夷",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
       "no": 5387,
       "word": "脣槍舌劍",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5389,
-      "word": "竊竊私語",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5398,
-      "word": "獨善其身",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5400,
-      "word": "張牙舞爪",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5416,
-      "word": "豈有此理",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5420,
-      "word": "龐然大物",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5421,
-      "word": "心無二用",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5425,
-      "word": "痴人說夢",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5427,
-      "word": "大失所望",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5431,
-      "word": "微不足道",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5433,
-      "word": "目不轉睛",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5439,
-      "word": "身體力行",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5446,
-      "word": "瞬息萬變",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5451,
-      "word": "大功告成",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5458,
-      "word": "禍從口出",
       "actions": [
         "create_new_art"
       ]
