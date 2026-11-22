@@ -2,7 +2,7 @@
   "schema_version": 1,
   "description": "Content-addressed original PNGs and source/review records. Preservation is not a new visual approval.",
   "source_repository": "kckuo-ai/chengyu",
-  "main_commit": "06dbb760a6cf7afa840bf8ca421396a0d865a8ab",
+  "main_commit": "354eba23a99f2391b72548036fe2931f203eaa84",
   "originals": {
     "ff8f5b88d4b5eb8c5b7e971c8b31cb8229333980e588e4dd1ca3ab31c0cdf5c2": {
       "sha256": "ff8f5b88d4b5eb8c5b7e971c8b31cb8229333980e588e4dd1ca3ab31c0cdf5c2",
@@ -67227,6 +67227,12 @@
       "path": "records/source/0b6ad5b4add2b346648a8cb35feed225af3316fe9e5723b7a9602781d3669ff7.json",
       "bytes": 5258,
       "provenance": "records/provenance/0b.json#0b6ad5b4add2b346648a8cb35feed225af3316fe9e5723b7a9602781d3669ff7"
+    },
+    "a88cdcd3de4e1b9951a724055cb2e716ae6a1ffa7cc2eea88f47d49d76288449": {
+      "sha256": "a88cdcd3de4e1b9951a724055cb2e716ae6a1ffa7cc2eea88f47d49d76288449",
+      "path": "records/source/a88cdcd3de4e1b9951a724055cb2e716ae6a1ffa7cc2eea88f47d49d76288449.json",
+      "bytes": 8670,
+      "provenance": "records/provenance/a8.json#a88cdcd3de4e1b9951a724055cb2e716ae6a1ffa7cc2eea88f47d49d76288449"
     }
   },
   "website_entries": {
@@ -67553,13 +67559,13 @@
     },
     "32": {
       "word": "狐假虎威",
-      "webp": "img/idioms/32.webp",
-      "original_sha256": "7daac63b0e034cc5a11147fbb4008fbd867354f8e6325aa5188dee5b827af2c3",
-      "original": "originals/7daac63b0e034cc5a11147fbb4008fbd867354f8e6325aa5188dee5b827af2c3.png",
+      "webp": "img/idioms/32-02be1d657bed.webp",
+      "original_sha256": "02be1d657bed04968275892d6064ac0eed533153bdc524058e3ec0abbd96618b",
+      "original": "originals/02be1d657bed04968275892d6064ac0eed533153bdc524058e3ec0abbd96618b.png",
       "review_record_present": true,
-      "current_review_path": "records/reviews/5831e0a927a4037e31abb8f0b9b51a9e05983444223d98e3b037751369353351.json",
-      "review_status": "failed_independent_visual_review_retained_pending_replacement",
-      "current_prompt_path": null,
+      "current_review_path": "records/reviews/4b9f9c27ec4c52d9eaedee113bba1f186ef26ef05eeb5d4a608742706a8b3cc2.json",
+      "review_status": "passed_independent_visual_review",
+      "current_prompt_path": "records/prompts/23138ca9d8c1a7bf45c30d777ebf056ef18c8aa5a5625b4084e76f1e1c9a0a57.json",
       "latest_rejected_candidate": {
         "batch": "batch-19-redraw-13",
         "original_sha256": "17a5f376f9b2cc2508f463e05d1cb9f6789450f5ddabbb99b0997b102949623d",
@@ -67610,13 +67616,13 @@
     },
     "37": {
       "word": "杞人憂天",
-      "webp": "img/idioms/37.webp",
-      "original_sha256": "117241ddcb607b7af396f65a1eebceb3118827e7dccd19f0a330e76c3db8785c",
-      "original": "originals/117241ddcb607b7af396f65a1eebceb3118827e7dccd19f0a330e76c3db8785c.png",
+      "webp": "img/idioms/37-e25a41712374.webp",
+      "original_sha256": "e25a4171237494eb0500e8da490ecb5400a643d1aee1beb2e65f689d4bd6a004",
+      "original": "originals/e25a4171237494eb0500e8da490ecb5400a643d1aee1beb2e65f689d4bd6a004.png",
       "review_record_present": true,
-      "current_review_path": "records/reviews/0f4cde0d0736748a847f786c764107252c1463221ca09b516919ac7dc3e1a051.json",
-      "review_status": "failed_independent_visual_review_retained_pending_replacement",
-      "current_prompt_path": null,
+      "current_review_path": "records/reviews/b2cb0bb48b39845a4c73305574067c24e57be65a5e2d6208d31f3d4ebc6f8379.json",
+      "review_status": "passed_independent_visual_review",
+      "current_prompt_path": "records/prompts/22b455d041816531026f66bdd10bd1212404119d1c67cfe1e59a2231a2ca6baa.json",
       "latest_rejected_candidate": {
         "batch": "batch-19-redraw-13",
         "original_sha256": "7e728729be9d9d7b3b35c02ea691b071f9a3fffefab5442d735b06b7172d3348",
@@ -67637,13 +67643,13 @@
     },
     "40": {
       "word": "不學無術",
-      "webp": "img/idioms/40.webp",
-      "original_sha256": "a1928571a2fee7bde95a9b28dabe8b5bfb8106dc368f7686080f7aadc832ec60",
-      "original": "originals/a1928571a2fee7bde95a9b28dabe8b5bfb8106dc368f7686080f7aadc832ec60.png",
+      "webp": "img/idioms/40-fd806a999f4f.webp",
+      "original_sha256": "fd806a999f4ff7ea00e501c3dead32d49b4d015f1def0e2328b301e9dff4b971",
+      "original": "originals/fd806a999f4ff7ea00e501c3dead32d49b4d015f1def0e2328b301e9dff4b971.png",
       "review_record_present": true,
-      "current_review_path": "records/reviews/817d4167ccf63556290b0510c4607d6307cedc7d7cf5b47de820b1912b76c410.json",
-      "review_status": "failed_independent_visual_review_retained_pending_replacement",
-      "current_prompt_path": "records/prompts/8b695d42eefc6af2a5250f17941ec6a55026c7d6018f554fed22dc0569232214.json",
+      "current_review_path": "records/reviews/39a4cf8ad3d6048a7aad7103c1fd89998c2c2e091a7cf92bfa5c5832a5ca9fa5.json",
+      "review_status": "passed_independent_visual_review",
+      "current_prompt_path": "records/prompts/8d2a7222f0b7f25befc9e05bdb3a3fd32108886e522658973ff41ca1141f4bb2.json",
       "latest_rejected_candidate": {
         "batch": "batch-19-redraw-13",
         "original_sha256": "da14c5e5084707775046fb3e1d1abf4835f93ac03fe4f4b0ad7c71536f00932c",
@@ -67684,13 +67690,13 @@
     },
     "44": {
       "word": "走馬看花",
-      "webp": "img/idioms/44.webp",
-      "original_sha256": "782129ba09641be32065ffc1b0cd6fc595aad5a9fd013fa27513bda37ab664ed",
-      "original": "originals/782129ba09641be32065ffc1b0cd6fc595aad5a9fd013fa27513bda37ab664ed.png",
+      "webp": "img/idioms/44-8e8ad329ae5d.webp",
+      "original_sha256": "8e8ad329ae5d7570137418fe3a72253c15a4a1ca11f7f7d4ddcccac4b9ce721f",
+      "original": "originals/8e8ad329ae5d7570137418fe3a72253c15a4a1ca11f7f7d4ddcccac4b9ce721f.png",
       "review_record_present": true,
-      "current_review_path": "records/reviews/b16b8068754bbe50509a4224b0caca2c5595e9521c03988ccaa4253e67757066.json",
-      "review_status": "failed_independent_visual_review_retained_pending_replacement",
-      "current_prompt_path": "records/prompts/ec072bf63a98e8fdc82a8a11444b36136bd7bdcfab69590cc0cd2e820d7cf2a2.json",
+      "current_review_path": "records/reviews/c8cb2683b63512f33f6a5ba108dc04d59f9ff89e7ef4ea1e68081c11baaa8400.json",
+      "review_status": "passed_independent_visual_review",
+      "current_prompt_path": "records/prompts/51e2f7ecab9dbc6e6d027c5f6b0ab998eb4d5dd0a9a21f46b77f9e2c2dc62a60.json",
       "latest_rejected_candidate": {
         "batch": "batch-19-redraw-13",
         "original_sha256": "fa43251fa77ce9c8739a3cd3541fa07514303e99482e182d6216eb9ed8fdc437",
@@ -67724,9 +67730,9 @@
       "webp": "img/idioms/47.webp",
       "original_sha256": "67ab3d83a007c89edf01ee434e1b94276849909291ab6efc34a745a8e73583ea",
       "original": "originals/67ab3d83a007c89edf01ee434e1b94276849909291ab6efc34a745a8e73583ea.png",
-      "review_record_present": false,
-      "current_review_path": null,
-      "review_status": "missing_historical_review_record",
+      "review_record_present": true,
+      "current_review_path": "records/reviews/8a055280dcbc8a40d0383aa6963fe654b2de1af339c70bcb94c896337a595fb6.json",
+      "review_status": "failed_independent_visual_review_retained_pending_replacement",
       "current_prompt_path": null
     },
     "48": {
@@ -67744,9 +67750,9 @@
       "webp": "img/idioms/49.webp",
       "original_sha256": "730cb9536f120341e84bf520721eef93b5c7516e20eb880e0cfc7c434e886ee8",
       "original": "originals/730cb9536f120341e84bf520721eef93b5c7516e20eb880e0cfc7c434e886ee8.png",
-      "review_record_present": false,
-      "current_review_path": null,
-      "review_status": "missing_historical_review_record",
+      "review_record_present": true,
+      "current_review_path": "records/reviews/020e5749f79cc249435fb96ed57cc77e04f7edeeefba5b2707a25ca19b881318.json",
+      "review_status": "failed_independent_visual_review_retained_pending_replacement",
       "current_prompt_path": null
     },
     "50": {
@@ -67754,9 +67760,9 @@
       "webp": "img/idioms/50.webp",
       "original_sha256": "16f42cb80af76ac9396ae6432b0a334002defd4c76558d2826295af8250c6063",
       "original": "originals/16f42cb80af76ac9396ae6432b0a334002defd4c76558d2826295af8250c6063.png",
-      "review_record_present": false,
-      "current_review_path": null,
-      "review_status": "missing_historical_review_record",
+      "review_record_present": true,
+      "current_review_path": "records/reviews/f6481d37d4b9de64581808116bf21162dc22a6aa4d90bf0326829421b14bed82.json",
+      "review_status": "failed_independent_visual_review_retained_pending_replacement",
       "current_prompt_path": null
     },
     "51": {
@@ -67764,9 +67770,9 @@
       "webp": "img/idioms/51.webp",
       "original_sha256": "80d9da8471fb0da11e71e70ac03c47ee44723e253d2a82a1539a25ab3c746a4d",
       "original": "originals/80d9da8471fb0da11e71e70ac03c47ee44723e253d2a82a1539a25ab3c746a4d.png",
-      "review_record_present": false,
-      "current_review_path": null,
-      "review_status": "missing_historical_review_record",
+      "review_record_present": true,
+      "current_review_path": "records/reviews/601863798b78596c1756827e206530aebb85eeb603a7e15e8a4c913feef8ee6a.json",
+      "review_status": "passed_independent_visual_review",
       "current_prompt_path": "records/prompts/9a761c800ed9b53cebd977c492a29ce1710601e1bdf249fa190a69019a3ee061.json"
     },
     "52": {
@@ -67774,9 +67780,9 @@
       "webp": "img/idioms/52.webp",
       "original_sha256": "cf03c52936137ec9b5011c102a70e21baa8fcc1606b6fe6e40e259558629cfb6",
       "original": "originals/cf03c52936137ec9b5011c102a70e21baa8fcc1606b6fe6e40e259558629cfb6.png",
-      "review_record_present": false,
-      "current_review_path": null,
-      "review_status": "missing_historical_review_record",
+      "review_record_present": true,
+      "current_review_path": "records/reviews/41d012a435838a643dcdefeb0cec7fd1af47843693dbff1bf9681cffdb97ff8a.json",
+      "review_status": "passed_independent_visual_review",
       "current_prompt_path": "records/prompts/c66ffbfcb055552c20269762a1efa8f880b1e3a74a6da6951c327622ffb115ae.json"
     },
     "53": {
@@ -67784,9 +67790,9 @@
       "webp": "img/idioms/53.webp",
       "original_sha256": "5ac35c8e19e7c89804cefff9d14189ddecf99548bd8f40d297993dd30d3e2237",
       "original": "originals/5ac35c8e19e7c89804cefff9d14189ddecf99548bd8f40d297993dd30d3e2237.png",
-      "review_record_present": false,
-      "current_review_path": null,
-      "review_status": "missing_historical_review_record",
+      "review_record_present": true,
+      "current_review_path": "records/reviews/79d82480468972329feeed107a68673cc77f3878ab2ec8728c2f57b655b971c7.json",
+      "review_status": "failed_independent_visual_review_retained_pending_replacement",
       "current_prompt_path": "records/prompts/f7219719e3c93094012d24c4599536da05dfa98a4e773fb93e11bf68641d8451.json"
     },
     "54": {
@@ -67794,9 +67800,9 @@
       "webp": "img/idioms/54.webp",
       "original_sha256": "9b9e8af2ca4d8f72029eef47ae919d05dd45043587708a1c272759712c02d5a4",
       "original": "originals/9b9e8af2ca4d8f72029eef47ae919d05dd45043587708a1c272759712c02d5a4.png",
-      "review_record_present": false,
-      "current_review_path": null,
-      "review_status": "missing_historical_review_record",
+      "review_record_present": true,
+      "current_review_path": "records/reviews/c113fbb863f92361c25a1333a3785ec0ca280fb115cf484762af0eb9cd0d590b.json",
+      "review_status": "failed_independent_visual_review_retained_pending_replacement",
       "current_prompt_path": null
     },
     "55": {
@@ -67804,9 +67810,9 @@
       "webp": "img/idioms/55.webp",
       "original_sha256": "f343fac85d2122cb58f3386cae97784697c84aacf358814ce742c00d972f3e82",
       "original": "originals/f343fac85d2122cb58f3386cae97784697c84aacf358814ce742c00d972f3e82.png",
-      "review_record_present": false,
-      "current_review_path": null,
-      "review_status": "missing_historical_review_record",
+      "review_record_present": true,
+      "current_review_path": "records/reviews/b649511f53a810b2570241bb3b51fc1bfadd9b0eb4aacfaae6e44e093b9ea249.json",
+      "review_status": "passed_independent_visual_review",
       "current_prompt_path": "records/prompts/e3e04898f757e6f6122e111766f0d8c683e5738371857b42ffdb4d472b383912.json"
     },
     "56": {
@@ -67814,9 +67820,9 @@
       "webp": "img/idioms/56.webp",
       "original_sha256": "d43c07af4eb452d6ded22663de356dac1c4ca7c645077ae28e51803e82b6ef80",
       "original": "originals/d43c07af4eb452d6ded22663de356dac1c4ca7c645077ae28e51803e82b6ef80.png",
-      "review_record_present": false,
-      "current_review_path": null,
-      "review_status": "missing_historical_review_record",
+      "review_record_present": true,
+      "current_review_path": "records/reviews/753a65abe9321f1f0ff4249c67739ec523fa4c8c3ae0b25d5086bb308e3afe64.json",
+      "review_status": "failed_independent_visual_review_retained_pending_replacement",
       "current_prompt_path": null
     },
     "57": {
@@ -67824,9 +67830,9 @@
       "webp": "img/idioms/57.webp",
       "original_sha256": "5b01021e3c45e27fc01f295f54ac506fc4308d1716fdf7bd728690147d4e6a4a",
       "original": "originals/5b01021e3c45e27fc01f295f54ac506fc4308d1716fdf7bd728690147d4e6a4a.png",
-      "review_record_present": false,
-      "current_review_path": null,
-      "review_status": "missing_historical_review_record",
+      "review_record_present": true,
+      "current_review_path": "records/reviews/5a287fb5164545edd98a59a20d07ee1d05f973b8d00b5bacce128ca61f700faf.json",
+      "review_status": "failed_independent_visual_review_retained_pending_replacement",
       "current_prompt_path": "records/prompts/d0aa317f00394ea06671155db2ada46ca2105733091355a82d18198ccbbab131.json"
     },
     "58": {
@@ -67834,9 +67840,9 @@
       "webp": "img/idioms/58-b1714dbb38.webp",
       "original_sha256": "b1714dbb38202659c47472b477c765af76f3df92ec072f0094b2e6783e964491",
       "original": "originals/b1714dbb38202659c47472b477c765af76f3df92ec072f0094b2e6783e964491.png",
-      "review_record_present": false,
-      "current_review_path": null,
-      "review_status": "missing_historical_review_record",
+      "review_record_present": true,
+      "current_review_path": "records/reviews/199b8d962cb5142f716d9125d44f026402ccbfceb5777a6275bc433b61a7aaa3.json",
+      "review_status": "passed_independent_visual_review",
       "current_prompt_path": "records/prompts/dfd6ac02851688898b05882a7f9a6bf86039bb0d82b72ed37921e6b2df878193.json"
     },
     "59": {
@@ -67844,9 +67850,9 @@
       "webp": "img/idioms/59.webp",
       "original_sha256": "a5c6e22c2424a057de6ddda534617b4b55b5fd99e9a10beadd77d798fb78d4b8",
       "original": "originals/a5c6e22c2424a057de6ddda534617b4b55b5fd99e9a10beadd77d798fb78d4b8.png",
-      "review_record_present": false,
-      "current_review_path": null,
-      "review_status": "missing_historical_review_record",
+      "review_record_present": true,
+      "current_review_path": "records/reviews/896f22863882e3ceddd33dfe8003bd07c83df69d3e58ab1aedd39d93e128648a.json",
+      "review_status": "passed_independent_visual_review",
       "current_prompt_path": "records/prompts/75ea2c4fe73f75e51df82e15df0d085ed07571a341129d098251a488f8f7d835.json"
     },
     "60": {
@@ -67854,9 +67860,9 @@
       "webp": "img/idioms/60.webp",
       "original_sha256": "7e44c2b4682f1731c12ecfe26f4adbfc1aed3532a4de1fd089667eade23b4f28",
       "original": "originals/7e44c2b4682f1731c12ecfe26f4adbfc1aed3532a4de1fd089667eade23b4f28.png",
-      "review_record_present": false,
-      "current_review_path": null,
-      "review_status": "missing_historical_review_record",
+      "review_record_present": true,
+      "current_review_path": "records/reviews/6ac6504f5b2fd3e929cfbf6b09d395c8d8fca06d99aac1d452570646c8f82bd3.json",
+      "review_status": "failed_independent_visual_review_retained_pending_replacement",
       "current_prompt_path": "records/prompts/c344930d5fef7cb02717869fd9242e6f149b466e033e47a74375a8c384d2f1d8.json"
     },
     "61": {
@@ -67874,9 +67880,9 @@
       "webp": "img/idioms/62.webp",
       "original_sha256": "92a49a2ec043ec8610e4c5435b147c5d649f6efb296d527e7c4d43dacc0ab683",
       "original": "originals/92a49a2ec043ec8610e4c5435b147c5d649f6efb296d527e7c4d43dacc0ab683.png",
-      "review_record_present": false,
-      "current_review_path": null,
-      "review_status": "missing_historical_review_record",
+      "review_record_present": true,
+      "current_review_path": "records/reviews/90f9ff3fc8611413d4f9ea262c4577effd334c357029726fd36b0a318793eff0.json",
+      "review_status": "passed_independent_visual_review",
       "current_prompt_path": "records/prompts/7cd676b4a1a0a001c8f296e8c6b00c60c6fe83964606b922fa90c63a5b68139e.json"
     },
     "63": {
@@ -67884,9 +67890,9 @@
       "webp": "img/idioms/63.webp",
       "original_sha256": "92eda05bf07a483b3f1d967f187f9105fce976b849d658d77ab3ff3e73bc8ea7",
       "original": "originals/92eda05bf07a483b3f1d967f187f9105fce976b849d658d77ab3ff3e73bc8ea7.png",
-      "review_record_present": false,
-      "current_review_path": null,
-      "review_status": "missing_historical_review_record",
+      "review_record_present": true,
+      "current_review_path": "records/reviews/9614da1f5a8212495e2ced0792e2521407a8420f492acef43a626401ce6f0758.json",
+      "review_status": "passed_independent_visual_review",
       "current_prompt_path": "records/prompts/7d007cb57199e5a61d35cfd14f0d20ff1d525afce183c55765737be38c5ab823.json"
     },
     "64": {
@@ -67894,9 +67900,9 @@
       "webp": "img/idioms/64.webp",
       "original_sha256": "6c26b2f0352f0de0227c500f7eb5c1b07c090c897adf66da2a8e68f51f1baeb5",
       "original": "originals/6c26b2f0352f0de0227c500f7eb5c1b07c090c897adf66da2a8e68f51f1baeb5.png",
-      "review_record_present": false,
-      "current_review_path": null,
-      "review_status": "missing_historical_review_record",
+      "review_record_present": true,
+      "current_review_path": "records/reviews/7e8b9840d6572bde778096557aab72c8f77392d7df365753221430e7a44531ae.json",
+      "review_status": "passed_independent_visual_review",
       "current_prompt_path": "records/prompts/42bae9ef19ee49b4a0a0ea85a15008d5edcede557c53f75cb999f4af54633be4.json"
     },
     "65": {
@@ -67904,9 +67910,9 @@
       "webp": "img/idioms/65.webp",
       "original_sha256": "00b3564fc7787753101dab37fccb0872703d37601afc8574eb0db30c653a9717",
       "original": "originals/00b3564fc7787753101dab37fccb0872703d37601afc8574eb0db30c653a9717.png",
-      "review_record_present": false,
-      "current_review_path": null,
-      "review_status": "missing_historical_review_record",
+      "review_record_present": true,
+      "current_review_path": "records/reviews/8578248ceada8fa6920170e113f21a10562747115b5081cbf093b7e0f755476c.json",
+      "review_status": "passed_independent_visual_review",
       "current_prompt_path": "records/prompts/464b4240dcf00d44f1f91af17921c820e1b3315ed965b57412089ed09adee3e2.json"
     },
     "66": {
@@ -67914,9 +67920,9 @@
       "webp": "img/idioms/66.webp",
       "original_sha256": "ee007803497cf9316abf033fe1a0096fafe791b4bfb9889c1f9e3345514f2d5f",
       "original": "originals/ee007803497cf9316abf033fe1a0096fafe791b4bfb9889c1f9e3345514f2d5f.png",
-      "review_record_present": false,
-      "current_review_path": null,
-      "review_status": "missing_historical_review_record",
+      "review_record_present": true,
+      "current_review_path": "records/reviews/674392030385eaf87743ed3e9abb4b73ba42747d9ae046b7e337bb3cb3bbcd75.json",
+      "review_status": "passed_independent_visual_review",
       "current_prompt_path": "records/prompts/3062fb96a44bbccc19a4698f9da5d72f0a97f3a8284f9b5a256f25cd7676e8d1.json"
     },
     "67": {
@@ -67924,9 +67930,9 @@
       "webp": "img/idioms/67.webp",
       "original_sha256": "3ba4a6b05281d7ecc4eceb0bdb174ec2a2ca7515f0f8a0049cb19d540b9339f1",
       "original": "originals/3ba4a6b05281d7ecc4eceb0bdb174ec2a2ca7515f0f8a0049cb19d540b9339f1.png",
-      "review_record_present": false,
-      "current_review_path": null,
-      "review_status": "missing_historical_review_record",
+      "review_record_present": true,
+      "current_review_path": "records/reviews/bbcf9320dc2a72d270ed4418f34bb1851697832ff5b652326485944c0286afdf.json",
+      "review_status": "passed_independent_visual_review",
       "current_prompt_path": "records/prompts/5f88e9e0aa4907c78af72b5fadf92817ba65de30de91b85690bd90965f054bca.json"
     },
     "68": {
@@ -67934,9 +67940,9 @@
       "webp": "img/idioms/68.webp",
       "original_sha256": "f229adebc4d2e54d257cbb1d08b1ff268aa56a8f31ba43569964f8439168552e",
       "original": "originals/f229adebc4d2e54d257cbb1d08b1ff268aa56a8f31ba43569964f8439168552e.png",
-      "review_record_present": false,
-      "current_review_path": null,
-      "review_status": "missing_historical_review_record",
+      "review_record_present": true,
+      "current_review_path": "records/reviews/3b015636ec754fe31835a5796574eb5bad16137ecdf4ac98c77ca5fad5a420d5.json",
+      "review_status": "failed_independent_visual_review_retained_pending_replacement",
       "current_prompt_path": "records/prompts/e8090fda4c4d436b1323a5e1b5dca4bd4af3f361020df4bf3d714fde92b51a0e.json"
     },
     "69": {

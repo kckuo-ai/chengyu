@@ -1,7 +1,7 @@
 {
   "original_count": 1498,
   "original_bytes": 5161234571,
-  "record_count": 5041,
+  "record_count": 5042,
   "scanned_git_blobs": 2302,
   "website_count": 1466,
   "website_originals_found": 1245,
@@ -2217,8 +2217,8 @@
       "review_status": "record_preserved_requires_future_review"
     }
   ],
-  "website_reviews_present": 950,
-  "historical_review_missing": 516,
+  "website_reviews_present": 970,
+  "historical_review_missing": 496,
   "archive_directory": "/workspace/chengyu-preservation",
   "remote_heads": {
     "refs/remotes/origin/backup-2026-11-12-938-988": "184cab5208d560783e7cc2a6ac03f0ea6e55a995",
@@ -2283,26 +2283,6 @@
     "refs/remotes/origin/main": "cb71c943ce49d2b54689619fde1a04a5072941bf"
   },
   "missing_historical_review_ids": [
-    47,
-    49,
-    50,
-    51,
-    52,
-    53,
-    54,
-    55,
-    56,
-    57,
-    58,
-    59,
-    60,
-    62,
-    63,
-    64,
-    65,
-    66,
-    67,
-    68,
     69,
     70,
     71,
@@ -2800,5 +2780,5 @@
     1305,
     1450
   ],
-  "note": "All available originals and records are preserved. Missing original hashes and missing historical reviews remain explicit; no visual approval was fabricated. Re-review 01 adds 20 actual visual reviews (9 passed, 11 failed); failed installed images are retained pending replacements. Re-review 02 adds 20 actual visual reviews (7 passed, 13 failed); all installed website assets remain unchanged. Batch 18 source preservation adds 11 originals and independently reviewed candidates (8 passed, 3 rejected); existing website mapping retained until publication. Eight passing batch 18 replacements published on main, three installed images retained. Website remains 1466 entries at v112. Batch 19 source preservation adds 13 originals and independently reviewed candidates (9 passed, 4 rejected); existing website mapping retained until publication. Nine passing batch 19 replacements published on main, four installed images retained. Website remains 1466 entries at v113. Batch 20 source preservation adds 3 originals and independently reviewed candidates (3 passed, 0 rejected); existing website mapping retained until publication. Three passing batch 20 replacements published on main, all candidates accepted. Website remains 1466 entries at v114. Batch 21 source preservation adds 4 originals and independently reviewed candidates (4 passed, 0 rejected); existing website mapping retained until publication."
+  "note": "All available originals and records are preserved. Missing original hashes and missing historical reviews remain explicit; no visual approval was fabricated. Re-review 01 adds 20 actual visual reviews (9 passed, 11 failed); failed installed images are retained pending replacements. Re-review 02 adds 20 actual visual reviews (7 passed, 13 failed); all installed website assets remain unchanged. Batch 18 source preservation adds 11 originals and independently reviewed candidates (8 passed, 3 rejected); existing website mapping retained until publication. Eight passing batch 18 replacements published on main, three installed images retained. Website remains 1466 entries at v112. Batch 19 source preservation adds 13 originals and independently reviewed candidates (9 passed, 4 rejected); existing website mapping retained until publication. Nine passing batch 19 replacements published on main, four installed images retained. Website remains 1466 entries at v113. Batch 20 source preservation adds 3 originals and independently reviewed candidates (3 passed, 0 rejected); existing website mapping retained until publication. Three passing batch 20 replacements published on main, all candidates accepted. Website remains 1466 entries at v114. Batch 21 source preservation adds 4 originals and independently reviewed candidates (4 passed, 0 rejected); existing website mapping retained until publication. Third re-review adds 20 actual reviews, 11 passed and 9 failed; website assets retained pending replacements. Four passing batch 21 replacements published on main, all candidates accepted. Website remains 1466 entries at v115."
 }
