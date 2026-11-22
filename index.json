@@ -2,7 +2,7 @@
   "schema_version": 1,
   "description": "Content-addressed original PNGs and source/review records. Preservation is not a new visual approval.",
   "source_repository": "kckuo-ai/chengyu",
-  "main_commit": "e38641926022991154ca53473bf346349ea28292",
+  "main_commit": "06dbb760a6cf7afa840bf8ca421396a0d865a8ab",
   "originals": {
     "ff8f5b88d4b5eb8c5b7e971c8b31cb8229333980e588e4dd1ca3ab31c0cdf5c2": {
       "sha256": "ff8f5b88d4b5eb8c5b7e971c8b31cb8229333980e588e4dd1ca3ab31c0cdf5c2",
@@ -66735,6 +66735,12 @@
       "path": "records/source/c4d2c9e438d3549102ba3f38793b64b07e6089ce2a7bc4f6f04feda62bdd1e59.json",
       "bytes": 75,
       "provenance": "records/provenance/c4.json#c4d2c9e438d3549102ba3f38793b64b07e6089ce2a7bc4f6f04feda62bdd1e59"
+    },
+    "32014058484080819e2fa43a060fb8b6f3e468ec94154b2087ba5fca46ac889f": {
+      "sha256": "32014058484080819e2fa43a060fb8b6f3e468ec94154b2087ba5fca46ac889f",
+      "path": "records/source/32014058484080819e2fa43a060fb8b6f3e468ec94154b2087ba5fca46ac889f.json",
+      "bytes": 6297,
+      "provenance": "records/provenance/32.json#32014058484080819e2fa43a060fb8b6f3e468ec94154b2087ba5fca46ac889f"
     }
   },
   "website_entries": {
@@ -66870,13 +66876,13 @@
     },
     "15": {
       "word": "青出於藍",
-      "webp": "img/idioms/15.webp",
-      "original_sha256": "e501ec268c0277dfc7398693bbcfeea95dae72cc0c023668d961c3ecce653af7",
-      "original": "originals/e501ec268c0277dfc7398693bbcfeea95dae72cc0c023668d961c3ecce653af7.png",
+      "webp": "img/idioms/15-5273ddc42fac.webp",
+      "original_sha256": "5273ddc42fac77865dd1f6e9c14588e2f03dc3bb2a4f582d5e899a4dadbe08fa",
+      "original": "originals/5273ddc42fac77865dd1f6e9c14588e2f03dc3bb2a4f582d5e899a4dadbe08fa.png",
       "review_record_present": true,
-      "current_review_path": "records/reviews/7667134d39cc370b2bbfa3f60d3295a0ad559ffe2111d354f75155aa85d89f62.json",
-      "review_status": "failed_independent_visual_review_retained_pending_replacement",
-      "current_prompt_path": "records/prompts/3bbcb9a532500c802d7382ec84f6a3e03619a49435592ad1fd32400c5f19efd4.json",
+      "current_review_path": "records/reviews/4b5e00f0167a8cee95410e219ce9e79ebe3d9b29f0c67e3890d43cfae83b8a11.json",
+      "review_status": "passed_independent_visual_review",
+      "current_prompt_path": "records/prompts/8070474f65a66d38b6495bc64ede32e6b1f9ac7c26cdb5d2ddb11b8b924a4ea9.json",
       "latest_rejected_candidate": {
         "batch": "batch-18-redraw-11",
         "original_sha256": "2fcfc5da2ebae6fa254ff2ff508d94a3e4dcb1f8ddcff4409306e712fa68e68c",
@@ -66897,13 +66903,13 @@
     },
     "17": {
       "word": "驚弓之鳥",
-      "webp": "img/idioms/17.webp",
-      "original_sha256": "dc2f01d182e900a082630f6ab094813ae86103b7f9052224116a1d9d4bf48594",
-      "original": "originals/dc2f01d182e900a082630f6ab094813ae86103b7f9052224116a1d9d4bf48594.png",
+      "webp": "img/idioms/17-abf457ace97c.webp",
+      "original_sha256": "abf457ace97ccdd139728dca2086c1240e0e918283014e4f7e6b917f1121908c",
+      "original": "originals/abf457ace97ccdd139728dca2086c1240e0e918283014e4f7e6b917f1121908c.png",
       "review_record_present": true,
-      "current_review_path": "records/reviews/75b5d680f451b1bdf6c668eda3e7c628d877d4562b45566a6a0a375260a55261.json",
-      "review_status": "failed_independent_visual_review_retained_pending_replacement",
-      "current_prompt_path": "records/prompts/c44687380882528e47eb5931973338ffaabf14d47e79caeffb108e0849db8f9a.json",
+      "current_review_path": "records/reviews/cf2618d41a19e3010ba75bc184a72dfe4025cc9f3642f2ab34181ec0c64360e2.json",
+      "review_status": "passed_independent_visual_review",
+      "current_prompt_path": "records/prompts/f6b048de1b6255dca8462d680ece0fa4528ab88227087eaed353f9f33e15ac4a.json",
       "latest_rejected_candidate": {
         "batch": "batch-18-redraw-11",
         "original_sha256": "8624d75d7a99757fe560c88cb9a3462fee5edcd87303f31aa7dfcaa655071e62",
@@ -66964,13 +66970,13 @@
     },
     "23": {
       "word": "畫蛇添足",
-      "webp": "img/idioms/23.webp",
-      "original_sha256": "e3fcb692228386ccc102adf74a989dc694abe363012d856c15248c9738af3b02",
-      "original": "originals/e3fcb692228386ccc102adf74a989dc694abe363012d856c15248c9738af3b02.png",
+      "webp": "img/idioms/23-08ac5449fa2d.webp",
+      "original_sha256": "08ac5449fa2dbd6a977f8aa6be9e1fad9409f8fd8e2f3e6886b7283dab7b8357",
+      "original": "originals/08ac5449fa2dbd6a977f8aa6be9e1fad9409f8fd8e2f3e6886b7283dab7b8357.png",
       "review_record_present": true,
-      "current_review_path": "records/reviews/60bef2739509b2b5878a3bc2bdd3d184b139859d9b9796219b30fecbc740daad.json",
-      "review_status": "failed_independent_visual_review_retained_pending_replacement",
-      "current_prompt_path": null,
+      "current_review_path": "records/reviews/89e4428023bcd4542f00f480b3e28de9f86273f4f3085b7379afe6a3b731c832.json",
+      "review_status": "passed_independent_visual_review",
+      "current_prompt_path": "records/prompts/e265953460809c243ae781fd185db7c4c3a607c98512f431289d878d1fed8467.json",
       "latest_rejected_candidate": {
         "batch": "batch-18-redraw-11",
         "original_sha256": "7fa0755cab5facfe083afcd60b6c16974f80d9e7d3b1dddd891351ba023afc8f",
