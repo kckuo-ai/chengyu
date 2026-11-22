@@ -17,13 +17,24 @@ export function syllables(zy) {
   const main = (zy || "").split("（")[0];
   return main.split(/[　\s]+/).filter(Boolean);
 }
+// 聲調符號改用畫的線條：二聲（ˊ）由左下往右上、四聲（ˋ）由左上往右下，
+// 比字型裡細小的符號更容易分辨。
+const TONE_SVG = {
+  "ˊ": '<path d="M2.5 11.5 L9.5 2.5"/>',
+  "ˋ": '<path d="M2.5 2.5 L9.5 11.5"/>',
+  "ˇ": '<path d="M1.8 3 L6 11 L10.2 3"/>',
+};
+const TONE_NAME = { "ˊ": "二聲", "ˇ": "三聲", "ˋ": "四聲" };
+function toneMark(t) {
+  return `<svg class="zy-tone" viewBox="0 0 12 14" role="img" aria-label="${TONE_NAME[t]}">${TONE_SVG[t]}</svg>`;
+}
 function zyHTML(syl) {
   let light = "";
   if (syl.startsWith("˙")) { light = "˙"; syl = syl.slice(1); }
   let tone = "";
   if (TONES.includes(syl.at(-1))) { tone = syl.at(-1); syl = syl.slice(0, -1); }
   const body = [...syl].map(esc).join("<br>");
-  return `<span class="zy-syl"><span class="zy-body">${light ? `<span class="zy-light">${light}</span>` : ""}${body}</span><span class="zy-tone">${tone}</span></span>`;
+  return `<span class="zy-syl"><span class="zy-body">${light ? `<span class="zy-light" aria-label="輕聲">●</span>` : ""}${body}</span>${tone ? toneMark(tone) : '<span class="zy-tone-gap"></span>'}</span>`;
 }
 const isHan = (c) => /\p{Script=Han}/u.test(c);
 

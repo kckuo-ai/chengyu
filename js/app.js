@@ -65,6 +65,10 @@ const THEMES = [
 ];
 const inTheme = (t, w) => (t.test ? t.test(w) : [...w].some((c) => t.chars.includes(c)));
 
+// ---------------- 瀏覽脈絡：從列表或搜尋點進成語頁時，可以直接看上一個／下一個 ----------------
+let CTX = null;
+const setCtx = (title, items) => { CTX = { title, nos: items.map((i) => i.no), back: location.hash }; };
+
 // ---------------- 工具 ----------------
 const shuffle = (a) => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
 const pick = (a) => a[Math.floor(Math.random() * a.length)];
@@ -132,7 +136,11 @@ async function home() {
   const t = todayIdiom();
   const e = await getEntry(t.no);
   const def = e.c?.[0]?.def || "";
+  // 搜尋放最上面：一打開就能找，不用先滑過今天的成語
   view.innerHTML = `
+    <form class="search search-top" action="#/find" onsubmit="return false">
+      <input id="q" type="search" placeholder="找成語：國字、注音或拼音" aria-label="找成語：可以打國字、注音或拼音" autocomplete="off" enterkeyhint="search">
+    </form>
     <section class="today">
       <h1>今天的成語</h1>
       ${cells(t.w, t.zy)}
@@ -147,10 +155,6 @@ async function home() {
     ${Object.keys(ILLUSTRATIONS).length ? `<section class="sec"><h2>看圖猜成語</h2>
       <p>看一幅圖，猜一個成語。你能認出幾個故事？</p>
       <a class="btn primary" href="#/quiz?mode=picture">來猜猜看</a></section>` : ""}
-    <form class="search" action="#/find" onsubmit="return false">
-      <label class="hint" for="q">找成語：可以打國字、注音或拼音</label>
-      <input id="q" type="search" placeholder="例如：兔、ㄕㄡˇ、shou" autocomplete="off" enterkeyhint="search">
-    </form>
     <h2>依主題找</h2>
     <nav class="shelf">${THEMES.map((th) => `<a class="tab-chip" href="#/list/${th.id}">${th.name}<small>${INDEX.filter((i) => inTheme(th, i.w)).length}</small></a>`).join("")}
       <a class="tab-chip" href="#/list/all">全部<small>${INDEX.length}</small></a>
@@ -182,7 +186,9 @@ function paged(items, title, extra = "") {
 function list(id) {
   const th = THEMES.find((t) => t.id === id);
   const items = th ? INDEX.filter((i) => inTheme(th, i.w)) : INDEX;
-  paged(items, th ? `${th.name}成語（${items.length}）` : `全部成語（${items.length}）`);
+  const title = th ? `${th.name}成語` : "全部成語";
+  setCtx(title, items);
+  paged(items, `${title}（${items.length}）`);
 }
 
 function find(q) {
@@ -197,11 +203,24 @@ function find(q) {
     const hit = (i) => i.w.includes(v) || plain(i.zy).includes(p) || plain(i.py).includes(p);
     const a = INDEX.filter(hit);
     const b = INDEX.filter((i) => !hit(i) && i.sem.includes(v));
+    setCtx(`搜尋「${v}」`, a.concat(b).slice(0, 120));
     $("#res").innerHTML = `<p class="hint">找到 ${a.length + b.length} 個</p>${listHTML(a.concat(b), 120)}`;
   };
   input.addEventListener("input", debounce(run, 150));
   input.focus(); input.setSelectionRange(q.length, q.length);
   run();
+}
+
+// 固定在下方的「上一個／下一個」，不用滑到頁尾或回列表
+function ctxNav(no) {
+  const pos = CTX ? CTX.nos.indexOf(no) : -1;
+  if (pos < 0 || CTX.nos.length < 2) return "";
+  const p = BYNO.get(CTX.nos[pos - 1]), n = BYNO.get(CTX.nos[pos + 1]);
+  return `<nav class="dock dock-nav" aria-label="${esc(CTX.title)}">
+    ${p ? `<a class="nav-step" href="#/w/${p.no}"><small>‹ 上一個</small><b>${esc(p.w)}</b></a>` : `<span class="nav-step" aria-hidden="true"></span>`}
+    <a class="nav-mid" href="${esc(CTX.back)}">${pos + 1} / ${CTX.nos.length}<small>回列表</small></a>
+    ${n ? `<a class="nav-step next" href="#/w/${n.no}"><small>下一個 ›</small><b>${esc(n.w)}</b></a>` : `<span class="nav-step" aria-hidden="true"></span>`}
+  </nav>`;
 }
 
 async function entry(no) {
@@ -280,7 +299,7 @@ async function entry(no) {
       </details>
 
       <p class="credit">資料來源：中華民國教育部《成語典》、《國語辭典簡編本》，依 CC BY-ND 3.0 臺灣授權使用，內容未經修改。<a href="#/about">授權說明</a></p>
-    </article>`;
+    </article>${ctxNav(no)}`;
 
   view.querySelector("[data-say-story]")?.addEventListener("click", () => speak(lines(e.story).join(""), 1));
   view.querySelector("[data-say-mine]")?.addEventListener("click", () => speak(lines(mine.story).join(""), 0.95));
@@ -359,13 +378,13 @@ function quizHome() {
   const counts = Object.fromEntries(["all", "fav", "learned", "wrong"].map((pool) => [pool, eligible(pool).length]));
   const count = Math.min(10, counts[quizCfg.pool]);
   view.innerHTML = `
-    <h2>選一種玩法</h2>
+    <h2 class="q-h">選一種玩法</h2>
     <div class="modes">${MODES.map((m) => `<button class="mode" data-mode="${m.id}" aria-pressed="${quizCfg.mode === m.id}"><b>${m.name}</b><span>${m.desc}</span></button>`).join("")}</div>
-    <h2>出題範圍</h2>
-    <div class="seg">${[["all", "全部"], ["fav", "我的收藏"], ["learned", "學會的"], ["wrong", "答錯過的"]].map(([id, n]) =>
-      `<button class="btn" data-pool="${id}" aria-pressed="${quizCfg.pool === id}" ${counts[id] < 1 ? "disabled" : ""}>${n}（${counts[id]}）</button>`).join("")}</div>
-    ${quizCfg.mode === "picture" ? `<p class="hint">目前有 ${Object.keys(ILLUSTRATIONS).length} 個成語插圖，可選擇下方範圍練習。</p>` : ""}
-    <button class="btn primary" id="go" ${count ? "" : "disabled"}>${count ? `開始 ${count} 題` : "這個範圍還沒有可練習的成語"}</button>`;
+    <div class="dock dock-start">
+      <div class="seg" role="group" aria-label="出題範圍">${[["all", "全部"], ["fav", "收藏"], ["learned", "學會"], ["wrong", "答錯"]].map(([id, n]) =>
+      `<button class="btn" data-pool="${id}" aria-pressed="${quizCfg.pool === id}" ${counts[id] < 1 ? "disabled" : ""}>${n} ${counts[id]}</button>`).join("")}</div>
+      <button class="btn primary big-btn" id="go" ${count ? "" : "disabled"}>${count ? `開始 ${count} 題：${MODES.find((m) => m.id === quizCfg.mode).name}` : "這個範圍還沒有可練習的成語"}</button>
+    </div>`;
   view.querySelectorAll("[data-mode]").forEach((b) => b.addEventListener("click", () => { quizCfg.mode = b.dataset.mode; quizHome(); }));
   view.querySelectorAll("[data-pool]").forEach((b) => b.addEventListener("click", () => { quizCfg.pool = b.dataset.pool; quizHome(); }));
   $("#go").addEventListener("click", startQuiz);
@@ -380,36 +399,65 @@ function startQuiz() {
   const qs = [];
   for (const t of shuffle(items)) { const q = makeQ(mode, t); if (q) qs.push(q); if (qs.length === 10) break; }
   if (!qs.length) { toast("這個範圍沒有適合這種玩法的題目，換一個範圍試試"); return; }
-  ACTIVE = qs;
+  ACTIVE = { qs, i: 0, score: 0, picked: null };
   if (location.hash === "#/quiz/play") runQuiz(); else location.hash = "#/quiz/play";
 }
+// 進行中的測驗：記住目前題號與作答，按「看成語」再返回時接著做，不會重來
 let ACTIVE = null;
 function runQuiz() {
-  const qs = ACTIVE;
-  if (!qs) return quizHome();
-  let i = 0, score = 0;
+  const st = ACTIVE;
+  if (!st) return quizHome();
+  const { qs } = st;
+  document.body.classList.add("playing");
+  const next = () => {
+    st.i++; st.picked = null;
+    st.i < qs.length ? draw() : done();
+    window.scrollTo(0, 0);
+  };
+  const mark = () => {
+    const q = qs[st.i];
+    const k = st.picked, ok = q.opts[k].ok;
+    view.querySelectorAll(".opt").forEach((x, j) => { x.disabled = true; if (q.opts[j].ok) x.classList.add("right"); });
+    if (!ok) view.querySelector(`.opt[data-k="${k}"]`).classList.add("wrong");
+    const answer = q.opts.find((o) => o.ok);
+    const last = st.i + 1 >= qs.length;
+    // 答完後，結果和「下一題」固定在畫面最下方，大拇指就按得到
+    $("#dock").innerHTML = `
+      <div class="q-result ${ok ? "ok" : "ng"}">${ok ? "答對了！" : `正確答案：${answer.big ? answer.label : `「${esc(q.target.w)}」`}`}</div>
+      <div class="q-dock-btns">
+        <a class="btn" href="#/w/${q.target.no}">看「${esc(q.target.w)}」</a>
+        <button class="btn primary big-btn" id="next">${last ? "看成績" : "下一題"}</button>
+      </div>`;
+    $("#dock").hidden = false;
+    $("#next").addEventListener("click", next);
+    $("#next").focus({ preventScroll: true });
+  };
   const draw = () => {
-    const q = qs[i];
+    const q = qs[st.i];
+    const twoCol = q.opts.every((o) => o.big);
     view.innerHTML = `
-      <p class="q-progress">第 ${i + 1} 題，共 ${qs.length} 題</p>
-      <div class="q-bar"><i style="width:${(i / qs.length) * 100}%"></i></div>
+      <div class="q-top">
+        <a class="q-quit" href="#/quiz" aria-label="結束測驗">✕ 結束</a>
+        <div class="q-bar" aria-hidden="true"><i style="width:${(st.i / qs.length) * 100}%"></i></div>
+        <span class="q-count">${st.i + 1} / ${qs.length}</span>
+      </div>
       <div class="q-prompt">${q.prompt}</div>
-      <div class="opts">${q.opts.map((o, k) => `<button class="opt ${o.big ? "big" : ""}" data-k="${k}">${o.label}</button>`).join("")}</div>
-      <div class="q-after" id="after"></div>`;
+      <div class="opts ${twoCol ? "two" : ""}">${q.opts.map((o, k) => `<button class="opt ${o.big ? "big" : ""}" data-k="${k}">${o.label}</button>`).join("")}</div>
+      <div class="dock dock-quiz" id="dock" hidden></div>`;
+    view.querySelector(".quiz-art img")?.addEventListener("click", (ev) => ev.currentTarget.closest(".quiz-art").classList.toggle("zoom"));
     view.querySelectorAll(".opt").forEach((b) => b.addEventListener("click", () => {
-      const k = +b.dataset.k, ok = q.opts[k].ok;
-      view.querySelectorAll(".opt").forEach((x, j) => { x.disabled = true; if (q.opts[j].ok) x.classList.add("right"); });
-      if (!ok) b.classList.add("wrong");
-      ok ? (score++, store.right(q.target.no)) : store.wrong(q.target.no);
-      $("#after").innerHTML = `<div class="actions">
-        <button class="btn primary" id="next">${i + 1 < qs.length ? "下一題" : "看成績"}</button>
-        <a class="btn" href="#/w/${q.target.no}" target="_self">看「${esc(q.target.w)}」</a></div>`;
-      $("#next").addEventListener("click", () => { i++; i < qs.length ? draw() : done(); });
-      $("#next").focus();
+      if (st.picked !== null) return;
+      st.picked = +b.dataset.k;
+      q.opts[st.picked].ok ? (st.score++, store.right(q.target.no)) : store.wrong(q.target.no);
+      mark();
     }));
+    if (st.picked !== null) mark();
   };
   const done = () => {
-    store.tally(score, qs.length);
+    document.body.classList.remove("playing");
+    store.tally(st.score, qs.length);
+    const score = st.score;
+    ACTIVE = null;
     view.innerHTML = `<div class="score">${Math.round(score / qs.length * 100)} 分</div>
       <p>答對 ${score} 題，共 ${qs.length} 題。${score === qs.length ? "全對！" : "答錯的成語已經放進「答錯過的」，可以再練一次。"}</p>
       <div class="actions"><button class="btn primary" id="again">再玩一次</button><a class="btn" href="#/quiz">換玩法</a></div>`;
@@ -513,6 +561,7 @@ async function about() {
 // ---------------- 路由 ----------------
 async function route() {
   if ("speechSynthesis" in window) speechSynthesis.cancel();
+  document.body.classList.remove("playing");
   const h = location.hash.slice(1) || "/";
   const [path, qs] = h.split("?");
   const parts = path.split("/").filter(Boolean);
