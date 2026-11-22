@@ -1,0 +1,65 @@
+{
+  "no": 64,
+  "kind": "existing",
+  "word": "出類拔萃",
+  "path": "/workspace/chengyu-preservation/originals/6c26b2f0352f0de0227c500f7eb5c1b07c090c897adf66da2a8e68f51f1baeb5.png",
+  "original_sha256": "6c26b2f0352f0de0227c500f7eb5c1b07c090c897adf66da2a8e68f51f1baeb5",
+  "webp_src": "img/idioms/64.webp",
+  "webp_sha256": "8e5d9e2dfe3f7e01290e8e7a71726a676c374ff577ca372a56259a996738b37e",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-03-20261122",
+  "alt": "孩子們圍著一排精緻紙鳥作品，中央女孩的展翅彩鳥格外醒目；老師指著作品微笑，同學望著她的成果讚賞。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同類紙鳥並列，中央作品規模、展翅和枝花結構更完整，教師指向中央作品、同學稱讚作者，表達才能在同儕中突出；不是鳥的外貌較高而已。須比對其他鳥作品展示構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「孩子們圍著一排精緻紙鳥作品，中央女孩的展翅彩鳥格外醒目；老師指著作品微笑，同學望著她的成果讚賞。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "前景五孩與兩成人的雙肩、手臂接袖正常，合掌者手指互遮、指向者一食指加三收指及拇指；黃衣女孩兩手置桌，背景人無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "五件紙鳥各有底座和腳爪／支架承托，中央作品站弧形樹枝接圓底，紙羽疊貼可辨，桌與人物前後遮擋一致。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "牆上鳥圖只有繪畫，作品與評審板背面無標號題字，衣物無品牌文字水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小手作展示，兒童穿帽衫、吊帶裙、素面上衣，成年教師正確比例且不搶主角。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領及頸部，未見紅領巾或紅圍巾；帽衫抽繩不是領巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crop for 57 book spines",
+    "comparison": "212 published candidates actually viewed in nine sheets; also full 12, 152 and 753 WebPs. Near-duplicate failures: 50 vs 753, 57 vs 152 and 68 vs 12.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "形容才能特出，超越眾人。褒義。",
+    "syn": "出人頭地、佼佼不群、卓爾不群、推群獨步、超群絕倫、頭角崢嶸、鶴立雞群",
+    "ant": "不稂不莠、碌碌無能"
+  }
+}

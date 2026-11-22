@@ -1,0 +1,65 @@
+{
+  "no": 59,
+  "kind": "existing",
+  "word": "一鳴驚人",
+  "path": "/workspace/chengyu-preservation/originals/a5c6e22c2424a057de6ddda534617b4b55b5fd99e9a10beadd77d798fb78d4b8.png",
+  "original_sha256": "a5c6e22c2424a057de6ddda534617b4b55b5fd99e9a10beadd77d798fb78d4b8",
+  "webp_src": "img/idioms/59.webp",
+  "webp_sha256": "5433ea318c6552adba3fb039748eb432e744394a5ef45970f647ed77718b93fc",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-03-20261122",
+  "alt": "男孩站在舞台上拉奏提琴，台下師生驚喜仰望並鼓掌；左上回憶裡，他曾獨自坐在空教室角落默默練習。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "回憶同一男孩獨自在空教室默默練琴，現時首次般的師生張口驚喜與鼓掌，表達平時不引人注意而突然有出色表現，兼有前後及旁人反應。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「男孩站在舞台上拉奏提琴，台下師生驚喜仰望並鼓掌；左上回憶裡，他曾獨自坐在空教室角落默默練習。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "舞台男孩兩臂由兩肩袖接至拉弓、按弦手，彎指與琴頸遮擋合理；兩鞋完整踩台。回憶男孩兩手持琴兩鞋接地；觀眾合掌及托下巴無多手。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "琴置肩下顎承托，左手持琴頸、右手拉弓，弓線通過弦面；鋼琴腳與舞台、觀眾椅接地。琴身音孔是樂器結構，不視為文字。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "譜架為背面黑板，書本與衣物沒有題字或數字；紅色是舞台帷幕，未見品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "白襯衫藍背心的國小男孩、同校學生與老師，在現代台灣學校表演場地，回憶穿帽衫，兒童比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領及頸部，未見紅領巾或紅圍巾；帽衫抽繩不是領巾。 紅色是舞台帷幕，沒有繫於人物頸部。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crop for 57 book spines",
+    "comparison": "212 published candidates actually viewed in nine sheets; also full 12, 152 and 753 WebPs. Near-duplicate failures: 50 vs 753, 57 vs 152 and 68 vs 12.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻平時默默無聞，而後卻突然有驚人的表現。",
+    "syn": "",
+    "ant": ""
+  }
+}

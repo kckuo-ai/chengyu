@@ -11937,5 +11937,13 @@
       "batch": "batch-19-redraw-13",
       "source": "docs/illustration-prompts.json#entries/36"
     }
+  ],
+  "5a287fb5164545edd98a59a20d07ee1d05f973b8d00b5bacce128ca61f700faf": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-21-redraw-4",
+      "source_file": "57.review.json",
+      "reviewer": "independent-visual-review-2026-11-22"
+    }
   ]
 }

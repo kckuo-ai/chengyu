@@ -1,0 +1,65 @@
+{
+  "no": 55,
+  "kind": "existing",
+  "word": "打草驚蛇",
+  "path": "/workspace/chengyu-preservation/originals/f343fac85d2122cb58f3386cae97784697c84aacf358814ce742c00d972f3e82.png",
+  "original_sha256": "f343fac85d2122cb58f3386cae97784697c84aacf358814ce742c00d972f3e82",
+  "webp_src": "img/idioms/55.webp",
+  "webp_sha256": "2024b8db9d97e30ee9da6bb1be0be09b01c336f780f4fec7a9ca82ee32f57b36",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-03-20261122",
+  "alt": "戴帽的攝影者握著相機彎身前進，鞋底踩斷枯枝；草叢旁的蛇立即昂頭警戒，遠方山河與城市籠罩在晴光裡。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "攝影者想靠近拍攝，卻踩枝發出聲響，蛇在草叢洞口昂頭並有移動線，呈現不慎讓目標先警覺的因果；不是單純悠閒看蛇。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「戴帽的攝影者握著相機彎身前進，鞋底踩斷枯枝；草叢旁的蛇立即昂頭警戒，遠方山河與城市籠罩在晴光裡。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "單一人物兩袖接兩腕，右手握機身、左手托鏡頭，指頭因機身遮擋而非缺失；兩膝彎曲、兩登山鞋一前一後接地。蛇為連續無肢體的身軀。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "相機握把與鏡頭都有手支撐、背帶自然垂下；鞋壓在折斷樹枝，蛇身接草地與洞口，無懸空道具。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "相機沒有品牌文字，鞋帽與背包素面；枯枝旁三根放射短線是聲響表現，非字母數字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代登山帽、襯衫長褲、相機背包及台灣河岸丘陵遠望都市的環境，服裝與比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領及頸部，未見紅領巾或紅圍巾；帽衫抽繩不是領巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crop for 57 book spines",
+    "comparison": "212 published candidates actually viewed in nine sheets; also full 12, 152 and 753 WebPs. Near-duplicate failures: 50 vs 753, 57 vs 152 and 68 vs 12.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "擊打草叢以嚇走蛇。＆比喻行事不密，致使對方有所警覺，而預先防備。",
+    "syn": "",
+    "ant": "不動聲色"
+  }
+}

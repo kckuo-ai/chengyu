@@ -1,0 +1,65 @@
+{
+  "no": 51,
+  "kind": "existing",
+  "word": "破鏡重圓",
+  "path": "/workspace/chengyu-preservation/originals/80d9da8471fb0da11e71e70ac03c47ee44723e253d2a82a1539a25ab3c746a4d.png",
+  "original_sha256": "80d9da8471fb0da11e71e70ac03c47ee44723e253d2a82a1539a25ab3c746a4d",
+  "webp_src": "img/idioms/51.webp",
+  "webp_sha256": "7bbf02afb0eac4cba71f328295d2216fa6ee903114ab9025195968f6f2d0d49e",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-03-20261122",
+  "alt": "一對男女在住家門口牽手微笑，桌上擺著兩人的合照；左上回憶裡，他們曾垂頭背向走開，如今相視同行。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一對男女由回憶中背向分開，到住家牽手相視，合照確認原有親密關係，呈現感情決裂後重新合好，不只是初次相遇。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「一對男女在住家門口牽手微笑，桌上擺著兩人的合照；左上回憶裡，他們曾垂頭背向走開，如今相視同行。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "兩人內側手臂自各自袖口接到交握雙手，指節交疊遮擋合理，無額外手指；外側手在身體遠側。回憶人物各兩臂，照片只截上身；下方腿腳由畫框及裙擺截去，沒有懸浮腳。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "合照框靠立桌面，桌腳與門框透視一致，包袋肩帶連至包身，手的交握接觸成立。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "照片不含題字、日期，門牌、衣服與肩袋全無文字數字品牌，未見水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "襯衫長褲、長裙與帆布肩袋的成年伴侶處於現代住家，回憶為都市河岸，適合台灣生活語境；題材不必硬改成兒童婚姻。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領及頸部，未見紅領巾或紅圍巾；帽衫抽繩不是領巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crop for 57 book spines",
+    "comparison": "212 published candidates actually viewed in nine sheets; also full 12, 152 and 753 WebPs. Near-duplicate failures: 50 vs 753, 57 vs 152 and 68 vs 12.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻夫妻離散或情感決裂後重新團圓合好。",
+    "syn": "言歸於好",
+    "ant": "分釵破鏡、分釵斷帶、勞燕分飛、覆水難收、鸞飄鳳泊"
+  }
+}

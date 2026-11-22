@@ -1,0 +1,65 @@
+{
+  "no": 62,
+  "kind": "existing",
+  "word": "咄咄逼人",
+  "path": "/workspace/chengyu-preservation/originals/92a49a2ec043ec8610e4c5435b147c5d649f6efb296d527e7c4d43dacc0ab683.png",
+  "original_sha256": "92a49a2ec043ec8610e4c5435b147c5d649f6efb296d527e7c4d43dacc0ab683",
+  "webp_src": "img/idioms/62.webp",
+  "webp_sha256": "58cf4bf91d1a4142fffc9938c6f13a2a7f4fbded2ff4c89ed8cfdafa7e598396",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-03-20261122",
+  "alt": "西裝男子俯身拍桌並指向坐著的女子，神情嚴厲；女子縮著肩膀雙手緊扣，旁邊同事伸掌勸阻，桌上放著文件。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "男子前傾、手指逼近對方臉且張口斥責，對方退縮、同事抬掌攔阻，明確是言語凌厲使人有壓力，與平易近人相反。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「西裝男子俯身拍桌並指向坐著的女子，神情嚴厲；女子縮著肩膀雙手緊扣，旁邊同事伸掌勸阻，桌上放著文件。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男子指向手食指伸出另三指收攏、拇指自然，拍桌掌五指；左女止掌五指、另一臂在筆電後；中女兩手交扣無多指，肩臂接續自然，下肢桌遮。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "男子攤掌接桌面、另一手指向但不戳入人臉；筆電、杯底及文件置桌面，椅背支撐坐姿。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "筆電蓋空白、文件為淡色紙面，書架無字，未見文字字母數字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代辦公會議室，素面西裝及襯衫成年職員，窗外台灣可見都市天際線；成人職場題材比例適當。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領及頸部，未見紅領巾或紅圍巾；帽衫抽繩不是領巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crop for 57 book spines",
+    "comparison": "212 published candidates actually viewed in nine sheets; also full 12, 152 and 753 WebPs. Near-duplicate failures: 50 vs 753, 57 vs 152 and 68 vs 12.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "形容言語凌厲，氣勢迫人。 ＆形容詩文字畫等的氣勢逼近或超越前人的作品，令人敬畏。",
+    "syn": "氣勢洶洶、盛氣凌人",
+    "ant": "平易近人、屈己從人"
+  }
+}

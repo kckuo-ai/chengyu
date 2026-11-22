@@ -1,0 +1,65 @@
+{
+  "no": 66,
+  "kind": "existing",
+  "word": "食古不化",
+  "path": "/workspace/chengyu-preservation/originals/ee007803497cf9316abf033fe1a0096fafe791b4bfb9889c1f9e3345514f2d5f.png",
+  "original_sha256": "ee007803497cf9316abf033fe1a0096fafe791b4bfb9889c1f9e3345514f2d5f",
+  "webp_src": "img/idioms/66.webp",
+  "webp_sha256": "5be5bb99889250011be98b1a3dd8d855f690f16a7d09f87d0792c28d776625e9",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-03-20261122",
+  "alt": "男子皺眉拿著舊木椅圖冊，試把木榫接進金屬摺椅；女子指向旁邊的新式組裝圖，桌上散放管件與綠色布面。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "男子仍照泛黃木榫椅圖把木料套在金屬椅管，旁人拿出新式摺椅圖提醒，呈現舊方法不適新情況仍堅持、不懂變通，與推陳出新相反。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「男子皺眉拿著舊木椅圖冊，試把木榫接進金屬摺椅；女子指向旁邊的新式組裝圖，桌上散放管件與綠色布面。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男子托書四長指及拇指被書遮擋合理，持管手彎指一拇指，女子指圖與放桌手均正常；兩人四袖四腕接肩，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "書本由手承托，木料抵金屬管口的錯誤接法是成語情節而非穿模；金屬椅腳接桌，交叉支架鉚釘、管件和座布結構清楚。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "書頁僅畫木榫／管件及流程箭頭，箭頭不是字母；圖內交叉支架是物體構造，不是 X 標號。器物與服裝無字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣家庭組裝露營摺椅，成人休閒毛衣與金屬管、合成布面情境清楚；舊書為被錯用道具，不是整幅古代設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領及頸部，未見紅領巾或紅圍巾；帽衫抽繩不是領巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crop for 57 book spines",
+    "comparison": "212 published candidates actually viewed in nine sheets; also full 12, 152 and 753 WebPs. Near-duplicate failures: 50 vs 753, 57 vs 152 and 68 vs 12.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻一味守舊而不知變通。貶義。",
+    "syn": "刻舟求劍、膠柱鼓瑟",
+    "ant": "日新又新、推陳出新"
+  }
+}

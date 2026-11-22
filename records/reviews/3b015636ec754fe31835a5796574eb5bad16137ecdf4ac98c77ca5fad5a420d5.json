@@ -1,0 +1,67 @@
+{
+  "no": 68,
+  "kind": "existing",
+  "word": "吹毛求疵",
+  "path": "/workspace/chengyu-preservation/originals/f229adebc4d2e54d257cbb1d08b1ff268aa56a8f31ba43569964f8439168552e.png",
+  "original_sha256": "f229adebc4d2e54d257cbb1d08b1ff268aa56a8f31ba43569964f8439168552e",
+  "webp_src": "img/idioms/68.webp",
+  "webp_sha256": "48edd54cc269dca3d4cd4e7fa14c7220eb3a1c4b999311ac960b9bafda2d6e07",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-03-20261122",
+  "alt": "男子俯身拿放大鏡找畫紙上的微小黑點，另一手指著作品；一旁女孩與同學托腮皺眉，桌上擺著畫筆和顏料。",
+  "issues": [
+    "meaning: 漂亮完整的風景作品上只有微小黑點，男子仍皺眉用放大鏡尋缺、其他人苦惱，表達刻意挑剔瑣小缺點，不是欣賞細節或稱讚精細。 另看 12「天衣無縫」全圖，同為右側戴眼鏡男子俯身持放大鏡檢查前景風景畫、左側女孩旁觀；雖表情和瑕點改變，核心人物道具及佈局高度重複，依要求不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "漂亮完整的風景作品上只有微小黑點，男子仍皺眉用放大鏡尋缺、其他人苦惱，表達刻意挑剔瑣小缺點，不是欣賞細節或稱讚精細。 另看 12「天衣無縫」全圖，同為右側戴眼鏡男子俯身持放大鏡檢查前景風景畫、左側女孩旁觀；雖表情和瑕點改變，核心人物道具及佈局高度重複，依要求不通過。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「男子俯身拿放大鏡找畫紙上的微小黑點，另一手指著作品；一旁女孩與同學托腮皺眉，桌上擺著畫筆和顏料。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男子握鏡手一拇指扣柄、四指自然彎曲，另一手食指指點、三指蜷曲；女孩雙手托頰，左男孩與後方成年女子手臂連接正常，桌遮下肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "放大鏡框連柄由手支撐，紙、筆筒與顏料置桌，鏡中花葉與黑點為放大效果；無虛構額外承重或穿模。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "畫作沒有落款，畫具、衣物與背景書本無字，未見字母數字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣美術教室，國小學童及成年男教師比例清楚；作品畫歐式花園是紙上主題，不把它誤當實際人物所在國家。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領及頸部，未見紅領巾或紅圍巾；帽衫抽繩不是領巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crop for 57 book spines",
+    "comparison": "212 published candidates actually viewed in nine sheets; also full 12, 152 and 753 WebPs. Near-duplicate failures: 50 vs 753, 57 vs 152 and 68 vs 12.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻刻意挑剔過失或缺點。貶義。",
+    "syn": "求全責備、洗垢求瘢",
+    "ant": ""
+  }
+}

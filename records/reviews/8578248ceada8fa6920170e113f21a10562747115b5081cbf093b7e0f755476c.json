@@ -1,0 +1,65 @@
+{
+  "no": 65,
+  "kind": "existing",
+  "word": "一竅不通",
+  "path": "/workspace/chengyu-preservation/originals/00b3564fc7787753101dab37fccb0872703d37601afc8574eb0db30c653a9717.png",
+  "original_sha256": "00b3564fc7787753101dab37fccb0872703d37601afc8574eb0db30c653a9717",
+  "webp_src": "img/idioms/65.webp",
+  "webp_sha256": "c50183d1745992be0869f03faaf460f8d73f4f0fcd93fe1eb3a6fdde19f5928a",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-03-20261122",
+  "alt": "男子面對電腦螢幕露出困惑表情，一手抓頭一手停在滑鼠旁；身邊女子指著畫面教他，桌上擺著鍵盤與茶杯。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "螢幕只有基本資料夾、照片與設定圖示，男子抓頭、不知如何操作，需旁人指引，呈現對電腦操作完全不懂的特定領域義，而非整個人沒有才學。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「男子面對電腦螢幕露出困惑表情，一手抓頭一手停在滑鼠旁；身邊女子指著畫面教他，桌上擺著鍵盤與茶杯。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男子抓頭手五指依頭髮遮擋，滑鼠旁手有拇指及四彎指，女子指向手食指伸出、其餘自然彎曲，另一臂到桌後；無多臂，腿被桌遮。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "滑鼠、鍵盤和螢幕底座在桌上，螢幕有支柱，女子手指停在螢幕前不穿透；杯、筆筒與筆記本均有支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "鍵帽無字，螢幕為物件式資料夾、山景照片及齒輪圖示，非字母；衣服器物無品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣住家或社區電腦學習場景，兩位成年人穿素面針織休閒衣，不誤畫成國小生成人比例。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領及頸部，未見紅領巾或紅圍巾；帽衫抽繩不是領巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crop for 57 book spines",
+    "comparison": "212 published candidates actually viewed in nine sheets; also full 12, 152 and 753 WebPs. Near-duplicate failures: 50 vs 753, 57 vs 152 and 68 vs 12.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻人昏昧不明事理。貶義。＆比喻人對某事完全不懂。貶義。",
+    "syn": "蒙昧無知、一無所知",
+    "ant": "無所不知"
+  }
+}

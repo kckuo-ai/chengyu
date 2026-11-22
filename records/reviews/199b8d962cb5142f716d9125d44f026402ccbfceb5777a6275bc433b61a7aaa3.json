@@ -1,0 +1,65 @@
+{
+  "no": 58,
+  "kind": "existing",
+  "word": "入木三分",
+  "path": "/workspace/chengyu-preservation/originals/b1714dbb38202659c47472b477c765af76f3df92ec072f0094b2e6783e964491.png",
+  "original_sha256": "b1714dbb38202659c47472b477c765af76f3df92ec072f0094b2e6783e964491",
+  "webp_src": "img/idioms/58-b1714dbb38.webp",
+  "webp_sha256": "9e8531d87cde3aaefdd1e5519ce5e0acead7a2713e542106d7ecf5a4c6a8f78b",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-03-20261122",
+  "alt": "女孩指著校園圖上腳印與垃圾聚集的交叉路口，同學和老師圍桌聆聽；左側有人掃地，窗外也散落著紙屑。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "實景有學生反覆通過且散落紙屑，女孩從圖中腳印交會與垃圾分布指出根源、老師同學恍然，呈現評論分析切中核心，不是把筆戳木板的字面圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「女孩指著校園圖上腳印與垃圾聚集的交叉路口，同學和老師圍桌聆聽；左側有人掃地，窗外也散落著紙屑。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "指圖女孩一臂伸向桌面、另一臂在後側遮住；食指伸出三指扣拳拇指合理。托頰男孩、合掌女孩、掃地兩童和遠處學生皆無多肢，掃地兩童四鞋落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "掃把刷毛接地、畚箕口落地，校園圖平置桌面，手指接近道路交會點；圖內腳印是圖示而非字母。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "校園圖沒有校名、數字或標註，只畫建築、腳印與紙屑；衣服與佈告處無字，未見品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "白襯衫藍背心裙／短褲的國小學生、成人教師、掃具與台灣校園走廊及垃圾桶，年齡與情境符合。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領及頸部，未見紅領巾或紅圍巾；帽衫抽繩不是領巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crop for 57 book spines",
+    "comparison": "212 published candidates actually viewed in nine sheets; also full 12, 152 and 753 WebPs. Near-duplicate failures: 50 vs 753, 57 vs 152 and 68 vs 12.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "形容筆力遒勁。＆比喻評論深刻中肯或描寫生動逼真。褒義。",
+    "syn": "力透紙背、鞭辟入裡",
+    "ant": "不著邊際"
+  }
+}

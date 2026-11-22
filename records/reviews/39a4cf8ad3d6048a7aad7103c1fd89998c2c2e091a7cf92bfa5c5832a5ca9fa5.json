@@ -1,0 +1,68 @@
+{
+  "no": 40,
+  "kind": "regenerate",
+  "word": "不學無術",
+  "path": "/workspace/chengyu-preservation/originals/fd806a999f4ff7ea00e501c3dead32d49b4d015f1def0e2328b301e9dff4b971.png",
+  "original_sha256": "fd806a999f4ff7ea00e501c3dead32d49b4d015f1def0e2328b301e9dff4b971",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-21-redraw-4",
+  "alt": "男孩在左幕背向摺盒教學玩木車，右幕面對揉爛的紙張發愁；同學捧著完成的盒子，老師指回牆上的物件圖解。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一藍衣男孩先背對示範、只顧玩車，後來不能摺出基本紙盒，同伴已完成且老師指回步驟，拒學到沒能力操作的因果明確，不僅一次失手。 與 466 不懂課本、1417 玩具分心候選相比，本圖包含拒學摺盒到不會做的直接前後因果，未見近乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右兩等大分鏡，藍衣男孩服裝一致，木車與紙團分別突出，老師與盒子位置形成前後連續，手機可分辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "左幕男孩兩手均在木車前，背後是椅背，沒有第三肘；右幕捏紙手拇食夾紙、其他三指彎曲，平放桌手一拇指四長指，已修正六指掌。老師各幕兩袖兩腕，持盒女孩各五指包住盒側，無共用掌或多臂。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "木車四輪壓桌、兩手接車身，紙團置桌由手捏角，成盒由同學兩手扶底側，老師攤手有桌面承托。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "牆圖只畫完整紙盒與展開盒片、虛線摺痕，中央交會是實體摺法結構而非十字標號；無箭頭假字，背景無書架書本，衣服與器物無品牌文字水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "國小男孩穿台灣素面運動上衣，女同學白襯衫，成人教師圍裙；現代教室手作課與年齡比例符合。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩幕男孩藍色運動上衣、同學白襯衫與教師圍裙皆無紅領巾；圍裙肩帶為藍色且接裙身。"
+    }
+  },
+  "previous_installed_original_sha256": "a1928571a2fee7bde95a9b28dabe8b5bfb8106dc368f7686080f7aadc832ec60",
+  "previous_rejected_candidate_review_archive_path": "records/reviews/182e23346ca2c02e1bf33a0adea0932daed60113534c0a8cf865fe9c48640868.json",
+  "previous_review_archive_path": "records/reviews/817d4167ccf63556290b0510c4607d6307cedc7d7cf5b47de820b1912b76c410.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; additional native crops for 37 mother and boy hands",
+    "comparison_candidates": 19,
+    "comparison_method": "One comparison sheet with 19 published candidates actually viewed; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "人未經學習而沒有學問才幹。貶義。",
+    "syn": "一無所長、才疏學淺、胸無點墨、庸庸碌碌",
+    "ant": "多才多藝、真才實學、博學多才、滿腹經綸、學富五車"
+  },
+  "webp_src": "img/idioms/40-fd806a999f4f.webp",
+  "webp_sha256": "f35166b7e716d599b1a62924740120dfc1ddfe17ae818ac9a381fd2ace8f5ba7"
+}

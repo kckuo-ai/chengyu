@@ -13757,5 +13757,21 @@
       "source_file": "14.review.json",
       "reviewer": "independent-visual-review-2026-11-22"
     }
+  ],
+  "5b492ad185953041e37a48df605f72ea7810525ca1cef7213af6b8b5423d809f": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-21-redraw-4",
+      "source_file": "52.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-22"
+    }
+  ],
+  "5bcbd07c9648d35ad6e9e76b8c1a8bbb24d47b7a7c614d502537d19c906d4612": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-21-redraw-4",
+      "source_file": "comparison-candidates.json",
+      "reviewer": "independent-visual-review-2026-11-22"
+    }
   ]
 }

@@ -1,0 +1,67 @@
+{
+  "no": 47,
+  "kind": "existing",
+  "word": "對牛彈琴",
+  "path": "/workspace/chengyu-preservation/originals/67ab3d83a007c89edf01ee434e1b94276849909291ab6efc34a745a8e73583ea.png",
+  "original_sha256": "67ab3d83a007c89edf01ee434e1b94276849909291ab6efc34a745a8e73583ea",
+  "webp_src": "img/idioms/47.webp",
+  "webp_sha256": "220cbbf97ef8cba13ec16aaf68244c51729d7d4c4e111fdfc2d80b71d96c5600",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-03-20261122",
+  "alt": "古裝男子坐在柳樹下撥弄長琴，轉頭望向身旁低頭吃草的黃牛；遠處河水、青山與村舍映在柔和日光裡。",
+  "issues": [
+    "taiwan_context: 主角髮髻、寬袖長袍及古琴鄉村是古代典故場景，沒有現代台灣服裝或生活線索，不符合目前固定設定。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "男子認真演奏卻只得到牛低頭吃草的反應，對象無法理解其內容，能呈現講話做事不看對象，並非只是音樂欣賞。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「古裝男子坐在柳樹下撥弄長琴，轉頭望向身旁低頭吃草的黃牛；遠處河水、青山與村舍映在柔和日光裡。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男子兩袖各接一手，琴上兩手均見一拇指與四長指，無多臂；盤坐下肢由長袍遮住。牛四腿依前後遮擋落草地，非額外肢體。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "琴平放四腳矮桌，雙手落於弦面，桌腳立於草地；牛頸向下啃草，身體及四腿支撐合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "琴弦旁白點是定位裝飾而非字母，屋牆與服裝未見文字、品牌或浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "主角髮髻、寬袖長袍及古琴鄉村是古代典故場景，沒有現代台灣服裝或生活線索，不符合目前固定設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領及頸部，未見紅領巾或紅圍巾；帽衫抽繩不是領巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crop for 57 book spines",
+    "comparison": "212 published candidates actually viewed in nine sheets; also full 12, 152 and 753 WebPs. Near-duplicate failures: 50 vs 753, 57 vs 152 and 68 vs 12.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻講話、做事不看對象。＆比喻對不懂道理的人講道理。",
+    "syn": "語不擇人",
+    "ant": ""
+  }
+}

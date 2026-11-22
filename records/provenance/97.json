@@ -15905,5 +15905,14 @@
       "path": "backup/batches/2026-11-08-855-873/alternatives/907/prompt.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "974cf593ae6330963773fc2b18ef8b41505897195334b2a4278e25c2a580cd9c": [
+    {
+      "kind": "git_zip_member",
+      "zip_blob": "7a28e8ef461dfc723681b33ede5efa6a827541b1",
+      "zip_path": "batch-21-redraw-4.zip",
+      "commit": "9b5ec8eac5b577ac82e3e7d31973efbf1733bf43",
+      "member": "batch-21/manifest.json"
+    }
   ]
 }

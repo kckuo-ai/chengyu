@@ -1,0 +1,65 @@
+{
+  "no": 52,
+  "kind": "existing",
+  "word": "東山再起",
+  "path": "/workspace/chengyu-preservation/originals/cf03c52936137ec9b5011c102a70e21baa8fcc1606b6fe6e40e259558629cfb6.png",
+  "original_sha256": "cf03c52936137ec9b5011c102a70e21baa8fcc1606b6fe6e40e259558629cfb6",
+  "webp_src": "img/idioms/52.webp",
+  "webp_sha256": "cf7b06def5468cf4c3e70fc0919bde564eab88eed2a24943432ebeb36adab445",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-03-20261122",
+  "alt": "穿綠圍裙的麵包師笑著把紙袋交給客人，店內重新擺滿麵包；左上回憶中，他曾坐在空蕩店門前垂頭失意。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一綠圍裙店主從空店枯葉、坐門階失意，轉為重新營業並交付麵包，失敗後恢復事業的前後對照明確，不只是一般開店。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「穿綠圍裙的麵包師笑著把紙袋交給客人，店內重新擺滿麵包；左上回憶中，他曾坐在空蕩店門前垂頭失意。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "店主交袋兩手分從各袖口伸出，客人兩手托袋底，手指握物遮擋自然；店員雙手在麵包架前部分遮蔽。回憶店主兩手兩膝及兩鞋完整落階。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "麵包紙袋由四手共同支撐，麵包、籃子及托盤落架，吊燈及植栽懸繩成立，門階兩鞋支撐自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "黑板是空白黑面，所有紙袋、麵包架與店門無字無價格，未見品牌或水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣可見的社區麵包店、遮陽棚、襯衫圍裙店主與針織衫客人，無古裝或外國制服。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領及頸部，未見紅領巾或紅圍巾；帽衫抽繩不是領巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crop for 57 book spines",
+    "comparison": "212 published candidates actually viewed in nine sheets; also full 12, 152 and 753 WebPs. Near-duplicate failures: 50 vs 753, 57 vs 152 and 68 vs 12.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻官員退隱後，再度出任官職。＆比喻失敗後重新崛起。",
+    "syn": "死灰復燃、捲土重來、重整旗鼓",
+    "ant": "息影園林、一蹶不振"
+  }
+}

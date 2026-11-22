@@ -1,0 +1,390 @@
+[
+  {
+    "no": 47,
+    "word": "對牛彈琴",
+    "actions": [
+      "review_record_missing",
+      "prompt_record_missing"
+    ],
+    "src": "img/idioms/47.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/67ab3d83a007c89edf01ee434e1b94276849909291ab6efc34a745a8e73583ea.png",
+    "original_sha256": "67ab3d83a007c89edf01ee434e1b94276849909291ab6efc34a745a8e73583ea",
+    "meaning": "比喻講話、做事不看對象。＆比喻對不懂道理的人講道理。",
+    "syn": "語不擇人",
+    "ant": "",
+    "alt": "古裝男子坐在柳樹下撥弄長琴，轉頭望向身旁低頭吃草的黃牛；遠處河水、青山與村舍映在柔和日光裡。",
+    "passed": false,
+    "failed_checks": [
+      "taiwan_context"
+    ],
+    "review": "47.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 49,
+    "word": "杯弓蛇影",
+    "actions": [
+      "review_record_missing",
+      "prompt_record_missing"
+    ],
+    "src": "img/idioms/49.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/730cb9536f120341e84bf520721eef93b5c7516e20eb880e0cfc7c434e886ee8.png",
+    "original_sha256": "730cb9536f120341e84bf520721eef93b5c7516e20eb880e0cfc7c434e886ee8",
+    "meaning": "比喻為不存在的事情枉自驚疑恐懼。",
+    "syn": "風聲鶴唳、草木皆兵、疑神疑鬼",
+    "ant": "",
+    "alt": "藍衣古裝男子坐在木桌前驚慌縮手，盯著碗內彎曲的深色形影；牆上懸著長弓，旁邊擺著茶壺與盆栽。",
+    "passed": false,
+    "failed_checks": [
+      "meaning",
+      "taiwan_context"
+    ],
+    "review": "49.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 50,
+    "word": "紙上談兵",
+    "actions": [
+      "review_record_missing",
+      "prompt_record_missing"
+    ],
+    "src": "img/idioms/50.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/16f42cb80af76ac9396ae6432b0a334002defd4c76558d2826295af8250c6063.png",
+    "original_sha256": "16f42cb80af76ac9396ae6432b0a334002defd4c76558d2826295af8250c6063",
+    "meaning": "比喻不切實際的議論。貶義。",
+    "syn": "光說不練、空言無補",
+    "ant": "",
+    "alt": "男孩舉起精美的拱橋圖紙自信講解，女孩望著桌上被小車壓垮的木片模型攤手；教室裡放著地球儀與畫具。",
+    "passed": false,
+    "failed_checks": [
+      "meaning"
+    ],
+    "review": "50.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 51,
+    "word": "破鏡重圓",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/51.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/80d9da8471fb0da11e71e70ac03c47ee44723e253d2a82a1539a25ab3c746a4d.png",
+    "original_sha256": "80d9da8471fb0da11e71e70ac03c47ee44723e253d2a82a1539a25ab3c746a4d",
+    "meaning": "比喻夫妻離散或情感決裂後重新團圓合好。",
+    "syn": "言歸於好",
+    "ant": "分釵破鏡、分釵斷帶、勞燕分飛、覆水難收、鸞飄鳳泊",
+    "alt": "一對男女在住家門口牽手微笑，桌上擺著兩人的合照；左上回憶裡，他們曾垂頭背向走開，如今相視同行。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "51.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 52,
+    "word": "東山再起",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/52.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/cf03c52936137ec9b5011c102a70e21baa8fcc1606b6fe6e40e259558629cfb6.png",
+    "original_sha256": "cf03c52936137ec9b5011c102a70e21baa8fcc1606b6fe6e40e259558629cfb6",
+    "meaning": "比喻官員退隱後，再度出任官職。＆比喻失敗後重新崛起。",
+    "syn": "死灰復燃、捲土重來、重整旗鼓",
+    "ant": "息影園林、一蹶不振",
+    "alt": "穿綠圍裙的麵包師笑著把紙袋交給客人，店內重新擺滿麵包；左上回憶中，他曾坐在空蕩店門前垂頭失意。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "52.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 53,
+    "word": "樂不思蜀",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/53.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/5ac35c8e19e7c89804cefff9d14189ddecf99548bd8f40d297993dd30d3e2237.png",
+    "original_sha256": "5ac35c8e19e7c89804cefff9d14189ddecf99548bd8f40d297993dd30d3e2237",
+    "meaning": "比喻人因留戀異地而不想返回故鄉。＆形容快樂得忘了歸去。",
+    "syn": "樂而忘返",
+    "ant": "",
+    "alt": "夕陽映著河岸與遠方城市，兩個孩子笑著追泡泡，男孩高舉彩色風車；背後父母背著行囊，一人指向前方。",
+    "passed": false,
+    "failed_checks": [
+      "meaning"
+    ],
+    "review": "53.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 54,
+    "word": "濫竽充數",
+    "actions": [
+      "review_record_missing",
+      "prompt_record_missing"
+    ],
+    "src": "img/idioms/54.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/9b9e8af2ca4d8f72029eef47ae919d05dd45043587708a1c272759712c02d5a4.png",
+    "original_sha256": "9b9e8af2ca4d8f72029eef47ae919d05dd45043587708a1c272759712c02d5a4",
+    "meaning": "比喻沒有真才實學的人，混在行家中充數。貶義。＆比喻拿不好的東西充場面。貶義。＆作為自謙之詞，比喻自己才德不足。",
+    "syn": "備位充數、魚目混珠",
+    "ant": "名副其實、名副其實、貨真價實",
+    "alt": "五名古裝樂師並排坐著演奏管樂，中央紅衣男子緊張側望，把樂器停在嘴巴下方，其他人都閉眼專注吹奏。",
+    "passed": false,
+    "failed_checks": [
+      "text_brand_watermark",
+      "taiwan_context"
+    ],
+    "review": "54.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 55,
+    "word": "打草驚蛇",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/55.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/f343fac85d2122cb58f3386cae97784697c84aacf358814ce742c00d972f3e82.png",
+    "original_sha256": "f343fac85d2122cb58f3386cae97784697c84aacf358814ce742c00d972f3e82",
+    "meaning": "擊打草叢以嚇走蛇。＆比喻行事不密，致使對方有所警覺，而預先防備。",
+    "syn": "",
+    "ant": "不動聲色",
+    "alt": "戴帽的攝影者握著相機彎身前進，鞋底踩斷枯枝；草叢旁的蛇立即昂頭警戒，遠方山河與城市籠罩在晴光裡。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "55.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 56,
+    "word": "揠苗助長",
+    "actions": [
+      "review_record_missing",
+      "prompt_record_missing"
+    ],
+    "src": "img/idioms/56.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/d43c07af4eb452d6ded22663de356dac1c4ca7c645077ae28e51803e82b6ef80.png",
+    "original_sha256": "d43c07af4eb452d6ded22663de356dac1c4ca7c645077ae28e51803e82b6ef80",
+    "meaning": "比喻為用不當的手段以求速成，結果不但無益，反而有害。貶義。",
+    "syn": "狃於急效、欲速不達",
+    "ant": "按部就班、盈科後進、循序漸進",
+    "alt": "古裝農夫跪在水田裡，雙手把整株稻苗連根拉出，神情焦急；田邊躺著數叢拔起的苗，旁邊仍有整齊綠株。",
+    "passed": false,
+    "failed_checks": [
+      "meaning",
+      "taiwan_context"
+    ],
+    "review": "56.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 57,
+    "word": "功虧一簣",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/57.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/5b01021e3c45e27fc01f295f54ac506fc4308d1716fdf7bd728690147d4e6a4a.png",
+    "original_sha256": "5b01021e3c45e27fc01f295f54ac506fc4308d1716fdf7bd728690147d4e6a4a",
+    "meaning": "比喻事情只差最後一步，卻因未能堅持到底而前功盡棄。",
+    "syn": "半途而廢、功敗垂成、前功盡棄",
+    "ant": "堅持不懈、善始善終",
+    "alt": "桌上的山水拼圖只缺中央一塊，最後碎片就放在旁邊；男孩卻抱臂轉身離開，窗邊陽光照亮尚未完成的作品。",
+    "passed": false,
+    "failed_checks": [
+      "text_brand_watermark",
+      "meaning"
+    ],
+    "review": "57.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 58,
+    "word": "入木三分",
+    "actions": [
+      "review_record_missing",
+      "P3_optional_review"
+    ],
+    "src": "img/idioms/58-b1714dbb38.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/b1714dbb38202659c47472b477c765af76f3df92ec072f0094b2e6783e964491.png",
+    "original_sha256": "b1714dbb38202659c47472b477c765af76f3df92ec072f0094b2e6783e964491",
+    "meaning": "形容筆力遒勁。＆比喻評論深刻中肯或描寫生動逼真。褒義。",
+    "syn": "力透紙背、鞭辟入裡",
+    "ant": "不著邊際",
+    "alt": "女孩指著校園圖上腳印與垃圾聚集的交叉路口，同學和老師圍桌聆聽；左側有人掃地，窗外也散落著紙屑。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "58.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 59,
+    "word": "一鳴驚人",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/59.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/a5c6e22c2424a057de6ddda534617b4b55b5fd99e9a10beadd77d798fb78d4b8.png",
+    "original_sha256": "a5c6e22c2424a057de6ddda534617b4b55b5fd99e9a10beadd77d798fb78d4b8",
+    "meaning": "比喻平時默默無聞，而後卻突然有驚人的表現。",
+    "syn": "",
+    "ant": "",
+    "alt": "男孩站在舞台上拉奏提琴，台下師生驚喜仰望並鼓掌；左上回憶裡，他曾獨自坐在空教室角落默默練習。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "59.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 60,
+    "word": "螳臂當車",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/60.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/7e44c2b4682f1731c12ecfe26f4adbfc1aed3532a4de1fd089667eade23b4f28.png",
+    "original_sha256": "7e44c2b4682f1731c12ecfe26f4adbfc1aed3532a4de1fd089667eade23b4f28",
+    "meaning": "比喻不自量力。",
+    "syn": "以卵擊石、自不量力、夸父逐日、蚍蜉撼樹",
+    "ant": "泰山壓卵、量力而行",
+    "alt": "小小綠色昆蟲在土路上抬起前肢，迎向高大的木製車輪；沉重車身與貨物壓在輪軸上，路旁散布草葉和石塊。",
+    "passed": false,
+    "failed_checks": [
+      "taiwan_context"
+    ],
+    "review": "60.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 62,
+    "word": "咄咄逼人",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/62.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/92a49a2ec043ec8610e4c5435b147c5d649f6efb296d527e7c4d43dacc0ab683.png",
+    "original_sha256": "92a49a2ec043ec8610e4c5435b147c5d649f6efb296d527e7c4d43dacc0ab683",
+    "meaning": "形容言語凌厲，氣勢迫人。 ＆形容詩文字畫等的氣勢逼近或超越前人的作品，令人敬畏。",
+    "syn": "氣勢洶洶、盛氣凌人",
+    "ant": "平易近人、屈己從人",
+    "alt": "西裝男子俯身拍桌並指向坐著的女子，神情嚴厲；女子縮著肩膀雙手緊扣，旁邊同事伸掌勸阻，桌上放著文件。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "62.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 63,
+    "word": "出奇制勝",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/63.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/92eda05bf07a483b3f1d967f187f9105fce976b849d658d77ab3ff3e73bc8ea7.png",
+    "original_sha256": "92eda05bf07a483b3f1d967f187f9105fce976b849d658d77ab3ff3e73bc8ea7",
+    "meaning": "發奇兵或用奇計制敵而獲勝。褒義。＆比喻用奇特、創新的方法取得好效果。褒義。",
+    "syn": "",
+    "ant": "",
+    "alt": "幾輛小車停在桌面斷口前，木製機關車卻沿自備木板跨到另一邊；圍觀孩子驚喜歡呼，綠衣男孩高舉雙拳。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "63.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 64,
+    "word": "出類拔萃",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/64.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/6c26b2f0352f0de0227c500f7eb5c1b07c090c897adf66da2a8e68f51f1baeb5.png",
+    "original_sha256": "6c26b2f0352f0de0227c500f7eb5c1b07c090c897adf66da2a8e68f51f1baeb5",
+    "meaning": "形容才能特出，超越眾人。褒義。",
+    "syn": "出人頭地、佼佼不群、卓爾不群、推群獨步、超群絕倫、頭角崢嶸、鶴立雞群",
+    "ant": "不稂不莠、碌碌無能",
+    "alt": "孩子們圍著一排精緻紙鳥作品，中央女孩的展翅彩鳥格外醒目；老師指著作品微笑，同學望著她的成果讚賞。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "64.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 65,
+    "word": "一竅不通",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/65.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/00b3564fc7787753101dab37fccb0872703d37601afc8574eb0db30c653a9717.png",
+    "original_sha256": "00b3564fc7787753101dab37fccb0872703d37601afc8574eb0db30c653a9717",
+    "meaning": "比喻人昏昧不明事理。貶義。＆比喻人對某事完全不懂。貶義。",
+    "syn": "蒙昧無知、一無所知",
+    "ant": "無所不知",
+    "alt": "男子面對電腦螢幕露出困惑表情，一手抓頭一手停在滑鼠旁；身邊女子指著畫面教他，桌上擺著鍵盤與茶杯。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "65.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 66,
+    "word": "食古不化",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/66.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/ee007803497cf9316abf033fe1a0096fafe791b4bfb9889c1f9e3345514f2d5f.png",
+    "original_sha256": "ee007803497cf9316abf033fe1a0096fafe791b4bfb9889c1f9e3345514f2d5f",
+    "meaning": "比喻一味守舊而不知變通。貶義。",
+    "syn": "刻舟求劍、膠柱鼓瑟",
+    "ant": "日新又新、推陳出新",
+    "alt": "男子皺眉拿著舊木椅圖冊，試把木榫接進金屬摺椅；女子指向旁邊的新式組裝圖，桌上散放管件與綠色布面。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "66.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 67,
+    "word": "一日千里",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/67.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/3ba4a6b05281d7ecc4eceb0bdb174ec2a2ca7515f0f8a0049cb19d540b9339f1.png",
+    "original_sha256": "3ba4a6b05281d7ecc4eceb0bdb174ec2a2ca7515f0f8a0049cb19d540b9339f1",
+    "meaning": "形容速度很快。＆比喻進步極快或進展迅速。褒義。",
+    "syn": "日新月異、日新月盛、突飛猛進",
+    "ant": "一落千丈",
+    "alt": "女孩從早晨畫樹的簡單線稿，到午後完成綠林，再於夕陽前畫出細緻山水；老師俯身微笑，身旁小貓安睡。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "67.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 68,
+    "word": "吹毛求疵",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/68.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/f229adebc4d2e54d257cbb1d08b1ff268aa56a8f31ba43569964f8439168552e.png",
+    "original_sha256": "f229adebc4d2e54d257cbb1d08b1ff268aa56a8f31ba43569964f8439168552e",
+    "meaning": "比喻刻意挑剔過失或缺點。貶義。",
+    "syn": "求全責備、洗垢求瘢",
+    "ant": "",
+    "alt": "男子俯身拿放大鏡找畫紙上的微小黑點，另一手指著作品；一旁女孩與同學托腮皺眉，桌上擺著畫筆和顏料。",
+    "passed": false,
+    "failed_checks": [
+      "meaning"
+    ],
+    "review": "68.review.json",
+    "retained_installed_webp": true
+  }
+]

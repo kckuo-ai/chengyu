@@ -1,0 +1,68 @@
+{
+  "no": 57,
+  "kind": "existing",
+  "word": "功虧一簣",
+  "path": "/workspace/chengyu-preservation/originals/5b01021e3c45e27fc01f295f54ac506fc4308d1716fdf7bd728690147d4e6a4a.png",
+  "original_sha256": "5b01021e3c45e27fc01f295f54ac506fc4308d1716fdf7bd728690147d4e6a4a",
+  "webp_src": "img/idioms/57.webp",
+  "webp_sha256": "7c92a81847f0c6ff5fa7accb7e76e402b69565a7febf5fe4827aee218a720a7b",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-03-20261122",
+  "alt": "桌上的山水拼圖只缺中央一塊，最後碎片就放在旁邊；男孩卻抱臂轉身離開，窗邊陽光照亮尚未完成的作品。",
+  "issues": [
+    "text_brand_watermark: 另裁右上書架原尺寸確認：米白書脊有多組上下排列的假漢字筆畫，藍色書脊也有小標記，並非全素面，按無類文字要求不通過。",
+    "meaning: 完整拼圖只剩一孔，正確末片近在旁邊，男孩賭氣抱臂離開，清楚呈現差最後一步卻不肯堅持而未完成，比一般半途停止更具體。 另看 152「半途而廢」全圖，同樣是前景大型山水拼圖、窗旁木桌、後景右方男孩離開拼圖活動；雖剩一塊與剩半幅不同，核心構圖仍高度重複且為近義詞，依要求不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "完整拼圖只剩一孔，正確末片近在旁邊，男孩賭氣抱臂離開，清楚呈現差最後一步卻不肯堅持而未完成，比一般半途停止更具體。 另看 152「半途而廢」全圖，同樣是前景大型山水拼圖、窗旁木桌、後景右方男孩離開拼圖活動；雖剩一塊與剩半幅不同，核心構圖仍高度重複且為近義詞，依要求不通過。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「桌上的山水拼圖只缺中央一塊，最後碎片就放在旁邊；男孩卻抱臂轉身離開，窗邊陽光照亮尚未完成的作品。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男孩雙臂交叉，露出手指正常、其餘被袖與對側臂遮住；兩腿方向符合轉身行走，下腿被前桌遮住，不是少腳。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "拼圖片平鋪桌面，空孔露出木桌，末片與孔形相應；椅子、窗台與盆栽均有承托，無浮物。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "另裁右上書架原尺寸確認：米白書脊有多組上下排列的假漢字筆畫，藍色書脊也有小標記，並非全素面，按無類文字要求不通過。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "國小男孩帽衫長褲在現代住家拼圖，木桌椅、窗與植栽可符合台灣家庭場景。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領及頸部，未見紅領巾或紅圍巾；帽衫抽繩不是領巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crop for 57 book spines",
+    "comparison": "212 published candidates actually viewed in nine sheets; also full 12, 152 and 753 WebPs. Near-duplicate failures: 50 vs 753, 57 vs 152 and 68 vs 12.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻事情只差最後一步，卻因未能堅持到底而前功盡棄。",
+    "syn": "半途而廢、功敗垂成、前功盡棄",
+    "ant": "堅持不懈、善始善終"
+  }
+}

@@ -9953,5 +9953,13 @@
       "batch": "batch-20-redraw-3",
       "source": "docs/illustration-prompts.json#entries/15"
     }
+  ],
+  "800924e24ee4957ccfccdf5545cfba48a10d3f3468eb29a2f10d241a1c935921": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-21-redraw-4",
+      "source_file": "64.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-22"
+    }
   ]
 }

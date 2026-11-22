@@ -1,0 +1,68 @@
+{
+  "no": 44,
+  "kind": "regenerate",
+  "word": "走馬看花",
+  "path": "/workspace/chengyu-preservation/originals/8e8ad329ae5d7570137418fe3a72253c15a4a1ca11f7f7d4ddcccac4b9ce721f.png",
+  "original_sha256": "8e8ad329ae5d7570137418fe3a72253c15a4a1ca11f7f7d4ddcccac4b9ce721f",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-21-redraw-4",
+  "alt": "男孩坐在遊覽車窗邊，先看濕地又迅速轉向紅磚街屋，腦中只留下簡略水岸；雙手放膝，安全帶繫在身前。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一孩子與座位由濕地迅速換到老街，轉頭和跨格動勢線表示匆匆看過，前景只有簡略濕地回憶、沒有水鳥細節，呈現受行程限制略看而不深入。已移除低頭讀圖冊的反義誤導。 與 751 浮光掠影的博物館拍展櫃構圖不同；本圖乘車略看景點且不讀書，避免反義誤解。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右分鏡沿同一車窗，兩個外景差異大，頭轉向窗外與小回憶泡泡清楚，主角全身放大而非遠景群像。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "兩幕男孩各兩臂自各肩連肘腕，兩掌各一拇指四長指自然平放各膝，兩腿接座面、兩鞋落車內地板；沒有雙手混用或多腿。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "安全帶從肩側跨胸連腰側紅色鎖扣，腰帶與座椅一致；椅腳接地，雙鞋在座前，空調出風口、扶手與窗框結構自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "濕地和紅磚騎樓均無招牌文字，圓形山牆窗為建築物件而非數字；上方圓形出風口是器材，完全無圖冊字母品牌或水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "國小男孩白色素面運動服深藍短褲，台灣遊覽車座椅、安全帶，沿途濕地與紅磚老街可辨現代台灣校外教學。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩幕男孩白色運動服衣領無紅領巾；斜灰帶連腰側鎖扣為安全帶，紅色只在安全扣按鍵，不在頸部。"
+    }
+  },
+  "previous_installed_original_sha256": "782129ba09641be32065ffc1b0cd6fc595aad5a9fd013fa27513bda37ab664ed",
+  "previous_rejected_candidate_review_archive_path": "records/reviews/8cb126256edb960373334c619af79560861fb7e3a82581c22a43689aa67cc96a.json",
+  "previous_review_archive_path": "records/reviews/b16b8068754bbe50509a4224b0caca2c5595e9521c03988ccaa4253e67757066.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; additional native crops for 37 mother and boy hands",
+    "comparison_candidates": 19,
+    "comparison_method": "One comparison sheet with 19 published candidates actually viewed; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻粗略、匆促地觀看，不能仔細深入。",
+    "syn": "浮光掠影、蜻蜓點水",
+    "ant": "觀察入微"
+  },
+  "webp_src": "img/idioms/44-8e8ad329ae5d.webp",
+  "webp_sha256": "b32f8c1079d074d6342b552683d99b74c799586cb73b1f81b8229f618152dad4"
+}

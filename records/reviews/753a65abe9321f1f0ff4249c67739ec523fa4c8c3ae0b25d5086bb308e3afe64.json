@@ -1,0 +1,68 @@
+{
+  "no": 56,
+  "kind": "existing",
+  "word": "揠苗助長",
+  "path": "/workspace/chengyu-preservation/originals/d43c07af4eb452d6ded22663de356dac1c4ca7c645077ae28e51803e82b6ef80.png",
+  "original_sha256": "d43c07af4eb452d6ded22663de356dac1c4ca7c645077ae28e51803e82b6ef80",
+  "webp_src": "img/idioms/56.webp",
+  "webp_sha256": "12d817f4537b7ddbf0ff2ca1a563e5db9ca84925b88f0d2da33f5f2413856cf3",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-03-20261122",
+  "alt": "古裝農夫跪在水田裡，雙手把整株稻苗連根拉出，神情焦急；田邊躺著數叢拔起的苗，旁邊仍有整齊綠株。",
+  "issues": [
+    "meaning: 只見連根拔苗，旁邊拔出植株仍綠，沒有為求長快的動機或拔後萎死對照；也可能是正常起苗移植，單靠典故姿勢不足以清楚呈現求速成反害的因果。",
+    "taiwan_context: 髮髻、寬袖古袍與茅屋的古代農夫，不符合目前現代台灣服裝場景要求。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "只見連根拔苗，旁邊拔出植株仍綠，沒有為求長快的動機或拔後萎死對照；也可能是正常起苗移植，單靠典故姿勢不足以清楚呈現求速成反害的因果。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「古裝農夫跪在水田裡，雙手把整株稻苗連根拉出，神情焦急；田邊躺著數叢拔起的苗，旁邊仍有整齊綠株。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男子兩袖各接一手，雙手拇指與彎指握苗無多肢，兩膝跪田中，小腿及腳合理沒入泥水，非少腿。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "雙手握莖根向下垂泥，完整根團與泥水接觸自然，兩旁田埂及水面倒影合理；不把正常拔苗操作當物理錯誤。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "屋舍、頭巾、田埂均無字，未見類字形、品牌浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "髮髻、寬袖古袍與茅屋的古代農夫，不符合目前現代台灣服裝場景要求。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領及頸部，未見紅領巾或紅圍巾；帽衫抽繩不是領巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crop for 57 book spines",
+    "comparison": "212 published candidates actually viewed in nine sheets; also full 12, 152 and 753 WebPs. Near-duplicate failures: 50 vs 753, 57 vs 152 and 68 vs 12.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻為用不當的手段以求速成，結果不但無益，反而有害。貶義。",
+    "syn": "狃於急效、欲速不達",
+    "ant": "按部就班、盈科後進、循序漸進"
+  }
+}

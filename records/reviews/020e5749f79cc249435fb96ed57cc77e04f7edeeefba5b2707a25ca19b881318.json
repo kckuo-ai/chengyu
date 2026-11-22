@@ -1,0 +1,68 @@
+{
+  "no": 49,
+  "kind": "existing",
+  "word": "杯弓蛇影",
+  "path": "/workspace/chengyu-preservation/originals/730cb9536f120341e84bf520721eef93b5c7516e20eb880e0cfc7c434e886ee8.png",
+  "original_sha256": "730cb9536f120341e84bf520721eef93b5c7516e20eb880e0cfc7c434e886ee8",
+  "webp_src": "img/idioms/49.webp",
+  "webp_sha256": "d6fdd1f1902ab3ac1c4754dfeb322f949629d6e6e1e9588d5c529f55562ad607",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-03-20261122",
+  "alt": "藍衣古裝男子坐在木桌前驚慌縮手，盯著碗內彎曲的深色形影；牆上懸著長弓，旁邊擺著茶壺與盆栽。",
+  "issues": [
+    "meaning: 人物確實害怕碗裡的蛇形，但碗中形體有類蛇頭尾，與牆上弓的輪廓缺少清楚對應；未呈現移開弓後形影消失，仍可能是真蛇，無法確定是為不存在之事枉自驚疑，亦易與疑神疑鬼泛化畫面混淆。",
+    "taiwan_context: 髮髻、藍色古袍、木格窗與古式長弓是古代室內情境，不符合現代台灣人物服裝設定。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "人物確實害怕碗裡的蛇形，但碗中形體有類蛇頭尾，與牆上弓的輪廓缺少清楚對應；未呈現移開弓後形影消失，仍可能是真蛇，無法確定是為不存在之事枉自驚疑，亦易與疑神疑鬼泛化畫面混淆。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「藍衣古裝男子坐在木桌前驚慌縮手，盯著碗內彎曲的深色形影；牆上懸著長弓，旁邊擺著茶壺與盆栽。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "桌前主要攤手有五指，後面露出的細指接另一腕部，為兩手重疊而非六指；雙肩袖口連接自然，下肢由桌椅遮蔽。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "碗底、茶壺與花盆均受桌面支撐；弓固定牆上。弓與碗影的因果不明記於詞義，不把未見光源直接推斷成物理錯誤。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "青花器物是植物與點紋，背景書脊空白，未見可讀字、字母數字或浮水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "髮髻、藍色古袍、木格窗與古式長弓是古代室內情境，不符合現代台灣人物服裝設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領及頸部，未見紅領巾或紅圍巾；帽衫抽繩不是領巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crop for 57 book spines",
+    "comparison": "212 published candidates actually viewed in nine sheets; also full 12, 152 and 753 WebPs. Near-duplicate failures: 50 vs 753, 57 vs 152 and 68 vs 12.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻為不存在的事情枉自驚疑恐懼。",
+    "syn": "風聲鶴唳、草木皆兵、疑神疑鬼",
+    "ant": ""
+  }
+}

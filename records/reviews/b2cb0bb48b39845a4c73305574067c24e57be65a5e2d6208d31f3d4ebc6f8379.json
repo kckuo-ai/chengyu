@@ -1,0 +1,68 @@
+{
+  "no": 37,
+  "kind": "regenerate",
+  "word": "杞人憂天",
+  "path": "/workspace/chengyu-preservation/originals/e25a4171237494eb0500e8da490ecb5400a643d1aee1beb2e65f689d4bd6a004.png",
+  "original_sha256": "e25a4171237494eb0500e8da490ecb5400a643d1aee1beb2e65f689d4bd6a004",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-21-redraw-4",
+  "alt": "男孩抱頭想像天空裂開、石塊落下，母親指向窗外完好的藍天安撫；矮桌上放著摺好衣物，兩人都站在室內。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "危險只在連著男孩的想像泡泡裡，現實窗外晴空與完整樹木無事，母親指向實景安撫，清楚呈現無根據的擔心，不是真實災害或合理預警。 與 1364 真實天候前後變化相比，本圖為憑空裂天想像對照晴空，不同關鍵因果；未重用 103 水缸桌旁構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左男孩與上方擔心泡泡、右母親與中央晴空分區清楚，母親手勢連回實景；矮桌未遮腳，手機縮圖仍能辨現實與想像。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男孩兩掌分開抱頭，各四長指與拇指在頭髮邊自然遮擋，肩袖肘腕獨立。母親指向手一食指、三收指及拇指，扶衣手四長指併放、拇指自然內側；另裁母子手部確認無多指，四腿四鞋著地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "小桌四腳獨立接地，摺衣由桌面承托，母親手掌接最上件衣服；男孩站地非蹲桌中，窗框與地面透視合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "前次書脊類文字問題已移除：全幅只有素淨米白牆、窗、無標衣物及矮桌，泡泡僅裂天空落石，無書本書架或裝飾字紋。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "母子現代素面便服，男孩為國小身高與年齡比例，台灣住家窗景及摺衣生活情境自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "男孩藍色條紋短袖圓領、母親米白便服領口均無領巾圍巾，衣物摺疊放桌，不繞人物頸部。"
+    }
+  },
+  "previous_installed_original_sha256": "117241ddcb607b7af396f65a1eebceb3118827e7dccd19f0a330e76c3db8785c",
+  "previous_rejected_candidate_review_archive_path": "records/reviews/506d0978fde47912ecd002bbc547ac339978455e0508d45759399a3ac88e514b.json",
+  "previous_review_archive_path": "records/reviews/0f4cde0d0736748a847f786c764107252c1463221ca09b516919ac7dc3e1a051.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; additional native crops for 37 mother and boy hands",
+    "comparison_candidates": 19,
+    "comparison_method": "One comparison sheet with 19 published candidates actually viewed; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻缺乏根據且不必要的憂慮。",
+    "syn": "庸人自擾、鰓鰓過慮",
+    "ant": "不憂不懼、無憂無慮"
+  },
+  "webp_src": "img/idioms/37-e25a41712374.webp",
+  "webp_sha256": "9fcf9debd45e24d39598b94a690cd7353ce0f8241d5ec8f97a97ff38dae4e406"
+}

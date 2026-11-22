@@ -1,0 +1,68 @@
+{
+  "no": 32,
+  "kind": "regenerate",
+  "word": "狐假虎威",
+  "path": "/workspace/chengyu-preservation/originals/02be1d657bed04968275892d6064ac0eed533153bdc524058e3ec0abbd96618b.png",
+  "original_sha256": "02be1d657bed04968275892d6064ac0eed533153bdc524058e3ec0abbd96618b",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-21-redraw-4",
+  "alt": "掛空白管理牌的男孩在器材室插腰指門，兩名同學抱球委屈退開；身後老師背向整理架上大球，沒有察覺他的霸道。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "男孩身佩老師授予管理工作的空白牌、倚著背後成人得意驅趕同伴，老師背向不知情，同伴畏懼退開，呈現借權勢欺人而非自己強壯；不同於同義仗勢欺人泛稱，借來的管理角色可見。 與 5157、5141 等權勢及威嚇候選對照，沒有相同器材室借老師角色的主構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "四人中景全身清楚，前景男孩伸臂指門，兩同學後退與背後老師形成權力關係；手機尺寸看得清管理牌、表情和指向。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "已修正前次六指掌：主角一食指伸出，三長指收攏、拇指扣住，插腰手五指。老師扶藍紅球各五指；抱球男孩雙手各一拇指四長指，女孩兩垂手各五指，四人各兩臂兩腿兩鞋，肩肘腕連續。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "老師雙掌接兩顆架上大球，球有架板承托；學生雙手包住籃球，架上鐵籃固定、球具不懸浮。四人八鞋落地，後退抬腳有自然承重。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "管理牌全白，球衣與鞋均無字，球縫是器材結構，沒有書架假字、品牌或水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小白色運動上衣、深藍短褲、素鞋和背心管理角色，器材室及窗外校舍現代，三名孩子與成人比例合理。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "四人衣領皆為白色素面運動衫，管理牌掛繩是細灰繩，沒有紅領巾或紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "7daac63b0e034cc5a11147fbb4008fbd867354f8e6325aa5188dee5b827af2c3",
+  "previous_rejected_candidate_review_archive_path": "records/reviews/3f9e9e3b7f6afb7d040a53840fea5cc6ebdb446db94f8ff5b5e0800843b6aa62.json",
+  "previous_review_archive_path": "records/reviews/5831e0a927a4037e31abb8f0b9b51a9e05983444223d98e3b037751369353351.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; additional native crops for 37 mother and boy hands",
+    "comparison_candidates": 19,
+    "comparison_method": "One comparison sheet with 19 published candidates actually viewed; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻藉著有權者的威勢欺壓他人、作威作福。",
+    "syn": "仗勢欺人、狐假鴟張、鼠憑社貴、驢蒙虎皮",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/32-02be1d657bed.webp",
+  "webp_sha256": "e30257698d7c9fb298a08556873d14ac31ee4603ff5a4443f0de3b409df3a0dd"
+}

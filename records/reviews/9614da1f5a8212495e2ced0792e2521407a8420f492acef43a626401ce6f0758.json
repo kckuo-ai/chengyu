@@ -1,0 +1,65 @@
+{
+  "no": 63,
+  "kind": "existing",
+  "word": "出奇制勝",
+  "path": "/workspace/chengyu-preservation/originals/92eda05bf07a483b3f1d967f187f9105fce976b849d658d77ab3ff3e73bc8ea7.png",
+  "original_sha256": "92eda05bf07a483b3f1d967f187f9105fce976b849d658d77ab3ff3e73bc8ea7",
+  "webp_src": "img/idioms/63.webp",
+  "webp_sha256": "9e5a757db22f6c2f1e387e670a3d87f407303a120d65174341729daabcd1d797",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-03-20261122",
+  "alt": "幾輛小車停在桌面斷口前，木製機關車卻沿自備木板跨到另一邊；圍觀孩子驚喜歡呼，綠衣男孩高舉雙拳。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "別組普通車停在缺口，帶折臂木板裝置的車先搭路跨過，同伴驚喜，能讀出以不同機關解決共同難題而勝出，非僅車速較快。須排除與其他搭橋模型構圖近似。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「幾輛小車停在桌面斷口前，木製機關車卻沿自備木板跨到另一邊；圍觀孩子驚喜歡呼，綠衣男孩高舉雙拳。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "高舉雙拳男孩各一拇指四彎指，兩肩兩肘清楚；其餘握拳、合掌、托頰及背景人物沒有多臂，腿均在桌後遮蔽。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "木板跨桌縫、兩端有桌緣承托，車輪壓在板上，折臂關節與車頭連接；模型小車無可疑懸空重物，跨越尺寸合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "車旗為葉片圖，車身、道路與教室無文字；黃色短線是驚喜放射線，不是字母數字或品牌。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "國小比例孩子穿現代帽衫、素面上衣，在台灣教室桌面進行機關車手作競賽；沒有古裝戰爭情境。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領及頸部，未見紅領巾或紅圍巾；帽衫抽繩不是領巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crop for 57 book spines",
+    "comparison": "212 published candidates actually viewed in nine sheets; also full 12, 152 and 753 WebPs. Near-duplicate failures: 50 vs 753, 57 vs 152 and 68 vs 12.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "發奇兵或用奇計制敵而獲勝。褒義。＆比喻用奇特、創新的方法取得好效果。褒義。",
+    "syn": "",
+    "ant": ""
+  }
+}

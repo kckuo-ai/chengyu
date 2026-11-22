@@ -1,0 +1,67 @@
+{
+  "no": 60,
+  "kind": "existing",
+  "word": "螳臂當車",
+  "path": "/workspace/chengyu-preservation/originals/7e44c2b4682f1731c12ecfe26f4adbfc1aed3532a4de1fd089667eade23b4f28.png",
+  "original_sha256": "7e44c2b4682f1731c12ecfe26f4adbfc1aed3532a4de1fd089667eade23b4f28",
+  "webp_src": "img/idioms/60.webp",
+  "webp_sha256": "22d3129dae8d57fd923da2ce2b37a91dc664b8d50894d1733b05f08acce506ff",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-03-20261122",
+  "alt": "小小綠色昆蟲在土路上抬起前肢，迎向高大的木製車輪；沉重車身與貨物壓在輪軸上，路旁散布草葉和石塊。",
+  "issues": [
+    "taiwan_context: 全圖是古式木製載貨車與無現代線索的土路，沒有台灣現代場景設定；雖動物寓言可理解，仍未達本輪固定現代場景門檻。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "微小昆蟲舉捕捉前足擋著遠大於自身的載貨車輪，力量懸殊清楚，能引出不自量力而非真能阻擋的意義；仍屬寓言式構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「小小綠色昆蟲在土路上抬起前肢，迎向高大的木製車輪；沉重車身與貨物壓在輪軸上，路旁散布草葉和石塊。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "無人物，五指規則無適用對象；昆蟲兩捕捉前足及四步行足可見或合理遮擋，各關節接身，四步足觸地，未見多腳。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "木輪輪輻接輪心及輪圈，輪軸連車架，載貨放車板，車輪底接土路，昆蟲站立支撐成立。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "木紋、石塊及葉脈均無字，沒有數字類字形或品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "全圖是古式木製載貨車與無現代線索的土路，沒有台灣現代場景設定；雖動物寓言可理解，仍未達本輪固定現代場景門檻。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "全圖無人物，昆蟲與車輪均未擬人穿戴領巾或圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crop for 57 book spines",
+    "comparison": "212 published candidates actually viewed in nine sheets; also full 12, 152 and 753 WebPs. Near-duplicate failures: 50 vs 753, 57 vs 152 and 68 vs 12.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻不自量力。",
+    "syn": "以卵擊石、自不量力、夸父逐日、蚍蜉撼樹",
+    "ant": "泰山壓卵、量力而行"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "no": 67,
+  "kind": "existing",
+  "word": "一日千里",
+  "path": "/workspace/chengyu-preservation/originals/3ba4a6b05281d7ecc4eceb0bdb174ec2a2ca7515f0f8a0049cb19d540b9339f1.png",
+  "original_sha256": "3ba4a6b05281d7ecc4eceb0bdb174ec2a2ca7515f0f8a0049cb19d540b9339f1",
+  "webp_src": "img/idioms/67.webp",
+  "webp_sha256": "aa46b80d8faa0c6cd2fe899eff07fbd86ceed6aa833aa9ee267fb5b6c90dc1f9",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-03-20261122",
+  "alt": "女孩從早晨畫樹的簡單線稿，到午後完成綠林，再於夕陽前畫出細緻山水；老師俯身微笑，身旁小貓安睡。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "三幕同一女孩從簡單樹稿到複雜綠林及精細山水，窗外太陽由晨至午至暮，構成短時間能力／成果快速提升的對照，可採進步極快義，非字面跑遠路。須核對其他學畫進步構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「女孩從早晨畫樹的簡單線稿，到午後完成綠林，再於夕陽前畫出細緻山水；老師俯身微笑，身旁小貓安睡。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "三幕女孩各兩袖兩腕，持筆手為拇食指夾筆其餘三指彎握，左幕另手平放紙上、中幕握拳、右幕老師合掌手無多指，腿在桌後遮住。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "畫筆接紙、紙張與顏料盒置桌，水碗有水面與桌底支撐，小貓趴窗台；太陽分三格屬時間分鏡而非同一天空三日。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "作品無題字、書脊素面、畫具無字；顏料格為色塊，未見字母數字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "國小女孩吊帶裙及素面上衣、成年老師在現代台灣美術教室，窗外都市山景、時序三幕比例一致。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領及頸部，未見紅領巾或紅圍巾；帽衫抽繩不是領巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crop for 57 book spines",
+    "comparison": "212 published candidates actually viewed in nine sheets; also full 12, 152 and 753 WebPs. Near-duplicate failures: 50 vs 753, 57 vs 152 and 68 vs 12.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "形容速度很快。＆比喻進步極快或進展迅速。褒義。",
+    "syn": "日新月異、日新月盛、突飛猛進",
+    "ant": "一落千丈"
+  }
+}

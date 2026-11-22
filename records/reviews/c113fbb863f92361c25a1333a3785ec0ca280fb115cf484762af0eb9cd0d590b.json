@@ -1,0 +1,68 @@
+{
+  "no": 54,
+  "kind": "existing",
+  "word": "濫竽充數",
+  "path": "/workspace/chengyu-preservation/originals/9b9e8af2ca4d8f72029eef47ae919d05dd45043587708a1c272759712c02d5a4.png",
+  "original_sha256": "9b9e8af2ca4d8f72029eef47ae919d05dd45043587708a1c272759712c02d5a4",
+  "webp_src": "img/idioms/54.webp",
+  "webp_sha256": "827d6121d2aba8bfe42fb95cefce1bee058bfa5e8676d6c6866786f8b4e247d7",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-03-20261122",
+  "alt": "五名古裝樂師並排坐著演奏管樂，中央紅衣男子緊張側望，把樂器停在嘴巴下方，其他人都閉眼專注吹奏。",
+  "issues": [
+    "text_brand_watermark: 原尺寸帽帶正中央及管束金飾反覆出現近似「回」的方框旋折符號，具有可辨漢字／類字形外觀，按無類文字要求不通過；沒有品牌水印。",
+    "taiwan_context: 五人黑冠、寬袖長袍與宮殿陳設屬古代典故情境，未符合現代台灣樂團服裝場景。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "中央人沒有含吹嘴而緊張偷看兩側，其他四人樂器接嘴正常演奏，清楚表達不會演奏者混入行家充數，沒有與劣品替代的另一義混淆。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「五名古裝樂師並排坐著演奏管樂，中央紅衣男子緊張側望，把樂器停在嘴巴下方，其他人都閉眼專注吹奏。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "五人各兩袖接持樂器雙手，長指彎握管身、拇指遠側合理遮住，無多肢；下半身跪坐由袍服遮住，五張譜架各有獨立支柱。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "樂器管束接共鳴座，吹嘴與演奏者嘴唇接觸、中央刻意不接；譜架及跪坐墊落平台，結構合理。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "原尺寸帽帶正中央及管束金飾反覆出現近似「回」的方框旋折符號，具有可辨漢字／類字形外觀，按無類文字要求不通過；沒有品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "五人黑冠、寬袖長袍與宮殿陳設屬古代典故情境，未符合現代台灣樂團服裝場景。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領及頸部，未見紅領巾或紅圍巾；帽衫抽繩不是領巾。 中央紅色是整件長袍，沒有頸前紅布結。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crop for 57 book spines",
+    "comparison": "212 published candidates actually viewed in nine sheets; also full 12, 152 and 753 WebPs. Near-duplicate failures: 50 vs 753, 57 vs 152 and 68 vs 12.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻沒有真才實學的人，混在行家中充數。貶義。＆比喻拿不好的東西充場面。貶義。＆作為自謙之詞，比喻自己才德不足。",
+    "syn": "備位充數、魚目混珠",
+    "ant": "名副其實、名副其實、貨真價實"
+  }
+}
