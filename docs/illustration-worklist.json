@@ -12,16 +12,16 @@
   "limits": "Record and asset audit only; no new visual pass is implied. Missing/legacy evidence is not a failed image. Task categories overlap; count unique tasks, not the sum of action counts.",
   "summary": {
     "total_idioms": 1466,
-    "published_illustrations": 1453,
-    "missing_illustrations": 13,
-    "coverage_percent": 99.11,
+    "published_illustrations": 1459,
+    "missing_illustrations": 7,
+    "coverage_percent": 99.52,
     "P1_published": 21,
     "P1_total": 21,
-    "review_records": 897,
+    "review_records": 903,
     "review_missing": 556,
     "review_legacy": 546,
-    "review_eight_checks": 351,
-    "unique_task_idioms": 1115,
+    "review_eight_checks": 357,
+    "unique_task_idioms": 1109,
     "action_counts": {
       "review_record_missing": 556,
       "prompt_record_missing": 25,
@@ -31,7 +31,7 @@
       "legacy_format_review": 111,
       "P2_style_review": 48,
       "red_neckerchief_review": 10,
-      "create_new_art": 13
+      "create_new_art": 7
     }
   },
   "priority": [
@@ -9147,48 +9147,6 @@
         "review_record_missing"
       ],
       "src": "img/idioms/1450.webp"
-    },
-    {
-      "no": 1474,
-      "word": "尋章摘句",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1586,
-      "word": "背水一戰",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 1608,
-      "word": "登徒子",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5116,
-      "word": "碩果僅存",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5140,
-      "word": "冰清玉潔",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5148,
-      "word": "姑息養奸",
-      "actions": [
-        "create_new_art"
-      ]
     },
     {
       "no": 5387,
