@@ -12,7 +12,7 @@
     "original_archive": {
       "repository": "kckuo-ai/chengyu",
       "branch": "illustration-archive",
-      "commit": "2e68b5d8a93418a6e3ed5cec17e3b38f543da057",
+      "commit": "2d04c4876187389fb7178fd9574f6f43fe70eeb7",
       "index_path": "index.json"
     }
   },
@@ -28,17 +28,17 @@
     "originals_missing": 221,
     "review_records": 950,
     "review_missing": 516,
-    "review_legacy": 562,
-    "review_eight_checks": 388,
-    "unique_task_idioms": 1078,
+    "review_legacy": 553,
+    "review_eight_checks": 397,
+    "unique_task_idioms": 1069,
     "action_counts": {
       "original_archive_missing": 221,
-      "review_legacy_checklist": 562,
-      "review_unresolved": 16,
-      "prompt_record_missing": 24,
-      "alt_contains_idiom_bigram": 21,
+      "review_legacy_checklist": 553,
+      "review_unresolved": 7,
+      "prompt_record_missing": 20,
       "review_record_missing": 516,
       "P3_optional_review": 41,
+      "alt_contains_idiom_bigram": 19,
       "legacy_format_review": 111,
       "P2_style_review": 48,
       "red_neckerchief_review": 10
@@ -74,10 +74,19 @@
       "img/idioms/24.webp",
       "img/idioms/245.webp",
       "img/idioms/25.webp",
+      "img/idioms/26.webp",
+      "img/idioms/27.webp",
       "img/idioms/3.webp",
+      "img/idioms/33.webp",
+      "img/idioms/35.webp",
+      "img/idioms/36.webp",
+      "img/idioms/39.webp",
       "img/idioms/4.webp",
       "img/idioms/400.webp",
+      "img/idioms/41.webp",
       "img/idioms/413.webp",
+      "img/idioms/43.webp",
+      "img/idioms/45.webp",
       "img/idioms/48.webp",
       "img/idioms/520-57f9f4829a.webp",
       "img/idioms/520.webp",
@@ -178,31 +187,6 @@
       "original_available": false
     },
     {
-      "no": 26,
-      "word": "望梅止渴",
-      "actions": [
-        "review_legacy_checklist",
-        "review_unresolved",
-        "prompt_record_missing"
-      ],
-      "src": "img/idioms/26.webp",
-      "original_sha256": "b716b4a4a460464717df36026e15d878d771f842f60f80263a55006229d21592",
-      "original_available": true,
-      "original_archive_path": "originals/b716b4a4a460464717df36026e15d878d771f842f60f80263a55006229d21592.png"
-    },
-    {
-      "no": 27,
-      "word": "司空見慣",
-      "actions": [
-        "review_legacy_checklist",
-        "review_unresolved"
-      ],
-      "src": "img/idioms/27.webp",
-      "original_sha256": "ff2c0938afc0cb874aa993ea5d266f6269f713ff50b5e63f1cd66e6404d9a6ce",
-      "original_available": true,
-      "original_archive_path": "originals/ff2c0938afc0cb874aa993ea5d266f6269f713ff50b5e63f1cd66e6404d9a6ce.png"
-    },
-    {
       "no": 32,
       "word": "狐假虎威",
       "actions": [
@@ -214,44 +198,6 @@
       "original_sha256": "7daac63b0e034cc5a11147fbb4008fbd867354f8e6325aa5188dee5b827af2c3",
       "original_available": true,
       "original_archive_path": "originals/7daac63b0e034cc5a11147fbb4008fbd867354f8e6325aa5188dee5b827af2c3.png"
-    },
-    {
-      "no": 33,
-      "word": "作法自斃",
-      "actions": [
-        "review_legacy_checklist",
-        "review_unresolved"
-      ],
-      "src": "img/idioms/33.webp",
-      "original_sha256": "d5d1c5d259d3ee1b9f6c17c9bb7af38121be9fab157790d7a469243a43d10900",
-      "original_available": true,
-      "original_archive_path": "originals/d5d1c5d259d3ee1b9f6c17c9bb7af38121be9fab157790d7a469243a43d10900.png"
-    },
-    {
-      "no": 35,
-      "word": "如火如荼",
-      "actions": [
-        "review_legacy_checklist",
-        "review_unresolved"
-      ],
-      "src": "img/idioms/35.webp",
-      "original_sha256": "ad2cb0b954028dd46e79d8a3cc9f1a6670028238d2a074cdddb92f964600bc0a",
-      "original_available": true,
-      "original_archive_path": "originals/ad2cb0b954028dd46e79d8a3cc9f1a6670028238d2a074cdddb92f964600bc0a.png"
-    },
-    {
-      "no": 36,
-      "word": "老馬識途",
-      "actions": [
-        "review_legacy_checklist",
-        "review_unresolved",
-        "prompt_record_missing",
-        "alt_contains_idiom_bigram"
-      ],
-      "src": "img/idioms/36.webp",
-      "original_sha256": "776ed2ed4f0556465fc98a96a2b69c418c826c6a17ae466a566bd85ae6ac4506",
-      "original_available": true,
-      "original_archive_path": "originals/776ed2ed4f0556465fc98a96a2b69c418c826c6a17ae466a566bd85ae6ac4506.png"
     },
     {
       "no": 37,
@@ -267,19 +213,6 @@
       "original_archive_path": "originals/117241ddcb607b7af396f65a1eebceb3118827e7dccd19f0a330e76c3db8785c.png"
     },
     {
-      "no": 39,
-      "word": "守株待兔",
-      "actions": [
-        "review_legacy_checklist",
-        "review_unresolved",
-        "prompt_record_missing"
-      ],
-      "src": "img/idioms/39.webp",
-      "original_sha256": "84c2ad86d160a47cbcd3174d54adc4a8b5c581a5477d672a50c1535246da623b",
-      "original_available": true,
-      "original_archive_path": "originals/84c2ad86d160a47cbcd3174d54adc4a8b5c581a5477d672a50c1535246da623b.png"
-    },
-    {
       "no": 40,
       "word": "不學無術",
       "actions": [
@@ -292,32 +225,6 @@
       "original_archive_path": "originals/a1928571a2fee7bde95a9b28dabe8b5bfb8106dc368f7686080f7aadc832ec60.png"
     },
     {
-      "no": 41,
-      "word": "四面楚歌",
-      "actions": [
-        "review_legacy_checklist",
-        "review_unresolved",
-        "alt_contains_idiom_bigram"
-      ],
-      "src": "img/idioms/41.webp",
-      "original_sha256": "92a240859f6acb0c3c3f5e665cda9578437333e45745c9fbfadcf2c17846c241",
-      "original_available": true,
-      "original_archive_path": "originals/92a240859f6acb0c3c3f5e665cda9578437333e45745c9fbfadcf2c17846c241.png"
-    },
-    {
-      "no": 43,
-      "word": "刻舟求劍",
-      "actions": [
-        "review_legacy_checklist",
-        "review_unresolved",
-        "prompt_record_missing"
-      ],
-      "src": "img/idioms/43.webp",
-      "original_sha256": "6b2144ddd6450eec562542161ef0b8cec96d81a4bcb63bfcf934d3889f73497d",
-      "original_available": true,
-      "original_archive_path": "originals/6b2144ddd6450eec562542161ef0b8cec96d81a4bcb63bfcf934d3889f73497d.png"
-    },
-    {
       "no": 44,
       "word": "走馬看花",
       "actions": [
@@ -328,18 +235,6 @@
       "original_sha256": "782129ba09641be32065ffc1b0cd6fc595aad5a9fd013fa27513bda37ab664ed",
       "original_available": true,
       "original_archive_path": "originals/782129ba09641be32065ffc1b0cd6fc595aad5a9fd013fa27513bda37ab664ed.png"
-    },
-    {
-      "no": 45,
-      "word": "後來居上",
-      "actions": [
-        "review_legacy_checklist",
-        "review_unresolved"
-      ],
-      "src": "img/idioms/45.webp",
-      "original_sha256": "9029906b27fe0460d2be760f478600a10099191701d423778f642eafd2d743a6",
-      "original_available": true,
-      "original_archive_path": "originals/9029906b27fe0460d2be760f478600a10099191701d423778f642eafd2d743a6.png"
     },
     {
       "no": 47,
