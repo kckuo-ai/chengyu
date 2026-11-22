@@ -1,0 +1,62 @@
+{
+  "no": 23,
+  "kind": "existing",
+  "word": "畫蛇添足",
+  "path": "/workspace/chengyu-preservation/originals/e3fcb692228386ccc102adf74a989dc694abe363012d856c15248c9738af3b02.png",
+  "original_sha256": "e3fcb692228386ccc102adf74a989dc694abe363012d856c15248c9738af3b02",
+  "webp_src": "img/idioms/23.webp",
+  "webp_sha256": "9c1d810ccadd87d08ffec6f819fe38886c67bcbd3839726287810f58cd1cb292",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "古代庭院裡，男子蹲著替地上的長蛇圖案加上四隻腳；另一人留下沒有腳的蛇圖，抱著酒壺轉身離開。",
+  "issues": [
+    "meaning: 只畫古代蛇足典故片段，缺少原先成功、因多加而失去成果的清楚前後畫面，也可能被看成畫蜥蜴，無法穩定讀出多此一舉反壞事。",
+    "taiwan_context: 人物束髮、古代長袍與綁腿，庭院沒有現代台灣生活背景。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "只畫古代蛇足典故片段，缺少原先成功、因多加而失去成果的清楚前後畫面，也可能被看成畫蜥蜴，無法穩定讀出多此一舉反壞事。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持細棒與托酒壺手指隨物遮擋自然，蹲姿膝踝方向合理，另一人行走有支撐腳。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "木棒接觸地面畫線，酒壺受手臂承托，蛇腳為故事中的刻意畫作，不當成人物畸形。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "地面只有動物圖，酒壺與服裝素面，無文字數字品牌或水印。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "人物束髮、古代長袍與綁腿，庭院沒有現代台灣生活背景。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻多此一舉，反將事情弄糟。貶義。",
+    "syn": "多此一舉、弄巧成拙",
+    "ant": "恰如其分、恰到好處"
+  }
+}

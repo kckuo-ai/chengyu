@@ -14574,5 +14574,13 @@
       "path": "backup/batches/2026-11-07-750-770/reviews/809.review.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "d916e4566d65c287506d5ebf84da7b3882889ccc6167cb60dec204332d817a12": [
+    {
+      "kind": "independent_re_review",
+      "batch": "re-review-01-20261122",
+      "source_file": "manifest.json",
+      "reviewer": "independent-visual-review-2026-11-22"
+    }
   ]
 }

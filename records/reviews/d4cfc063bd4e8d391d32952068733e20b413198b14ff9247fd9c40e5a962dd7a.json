@@ -1,0 +1,62 @@
+{
+  "no": 4,
+  "kind": "existing",
+  "word": "囫圇吞棗",
+  "path": "/workspace/chengyu-preservation/originals/36bcd8b3108b9e1e458fa3e89722bb87b61403406b9c73c611e74145de5b6e83.png",
+  "original_sha256": "36bcd8b3108b9e1e458fa3e89722bb87b61403406b9c73c611e74145de5b6e83",
+  "webp_src": "img/idioms/4.webp",
+  "webp_sha256": "344c047662ac132e2c7c69222c5632e885f6864eb7cbbdf01f856649a4206d7e",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "男孩快速翻過植物圖畫書，腦中浮現葉子、根系、陽光與水滴等零散圖像，桌邊放著沒有使用的放大鏡。",
+  "issues": [
+    "meaning: 只有快速翻書與植物意象，沒有誤解或錯誤運用的結果，也可能是讀得快且理解良好，無法排除融會貫通的相反解讀。",
+    "text_brand_watermark: 泡泡內有獨立的 S、C 形波線，書頁底端另有類文字灰色短列，不能保證沒有類字形。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "只有快速翻書與植物意象，沒有誤解或錯誤運用的結果，也可能是讀得快且理解良好，無法排除融會貫通的相反解讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "翻頁手的指尖被紙頁遮住，持書手腕接臂自然；無多餘手臂，坐姿由椅面支撐。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "書頁連於書脊，放大鏡平放桌面，圖像泡泡不當作實體物件。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "泡泡內有獨立的 S、C 形波線，書頁底端另有類文字灰色短列，不能保證沒有類字形。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "便服學童在現代居家書桌閱讀，比例與台灣國小高年級相容。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻理解事物籠統含糊，或為學不求甚解。貶義。",
+    "syn": "不求甚解、生吞活剝",
+    "ant": "窮源竟委、融會貫通"
+  }
+}

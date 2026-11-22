@@ -1,0 +1,61 @@
+{
+  "no": 16,
+  "kind": "existing",
+  "word": "口若懸河",
+  "path": "/workspace/chengyu-preservation/originals/2d5c6a264641ec216eea8ae7dd2a3307a76df6a01b2c93984da6252ba271f3d7.png",
+  "original_sha256": "2d5c6a264641ec216eea8ae7dd2a3307a76df6a01b2c93984da6252ba271f3d7",
+  "webp_src": "img/idioms/16.webp",
+  "webp_sha256": "3eabd41ebe66bb9e29c529044e0aa0e8d0d94ef9d04f5a02d9a68d4b356ddc9b",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "男子在戶外生動說故事，頭上連串泡泡畫著山林與旅行見聞，三名孩子坐在木樁上專心聆聽，後方可見城堡。",
+  "issues": [
+    "taiwan_context: 實際背景而非泡泡內出現歐式城堡與尖塔城鎮，無法確認台灣現代場景。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "連續故事泡泡配流暢手勢與專心聽眾，能呈現能言善說、接連不停的談話。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男子持杖與張掌手指自然，孩子托腮及放膝手有合理遮擋，坐於木樁、雙腳向地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "木樁有承重底座，人物重心與杖著地合理，泡泡旅行片段屬敘事圖像。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "泡泡只有完整景物與動物，無字母數字或商標。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "實際背景而非泡泡內出現歐式城堡與尖塔城鎮，無法確認台灣現代場景。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻能言善辯。",
+    "syn": "能言善道",
+    "ant": "拙口鈍辭、笨口拙舌、張口結舌、期期艾艾、結結巴巴"
+  }
+}

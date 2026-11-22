@@ -1,0 +1,62 @@
+{
+  "no": 19,
+  "kind": "existing",
+  "word": "一敗塗地",
+  "path": "/workspace/chengyu-preservation/originals/fe1fc383f093936029d8facc7687e0b27157352ebbcf3d5e17c79ef4c77a0982.png",
+  "original_sha256": "fe1fc383f093936029d8facc7687e0b27157352ebbcf3d5e17c79ef4c77a0982",
+  "webp_src": "img/idioms/19.webp",
+  "webp_sha256": "8d46099a1a18030dcce25497f319740ef32e96864f94e13730d488764ff37ca9",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "男孩望著棋盤抓頭發愁，自己多數白棋已被移到桌邊，對手從容托腮，盤面前方還躺著倒下的白色國王。",
+  "issues": [
+    "meaning: 白棋大量被吃原可顯示慘敗，但與既有 41「四面楚歌」男孩抓頭、白棋堆在左邊、黑棋包圍的棋局構圖高度相近，不能作獨立清楚辨義的插圖。",
+    "objects_contact_perspective: 棋盤前方倒下的白王頂有十字，左邊被吃白棋堆另有一顆同樣帶十字的白王，一局出現兩個白王，棋具結構錯誤。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "白棋大量被吃原可顯示慘敗，但與既有 41「四面楚歌」男孩抓頭、白棋堆在左邊、黑棋包圍的棋局構圖高度相近，不能作獨立清楚辨義的插圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "抓頭與托腮手的指節、遮擋自然，前臂接肩且坐姿有支撐，無多餘肢體。"
+    },
+    "objects_contact_perspective": {
+      "passed": false,
+      "evidence": "棋盤前方倒下的白王頂有十字，左邊被吃白棋堆另有一顆同樣帶十字的白王，一局出現兩個白王，棋具結構錯誤。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "王冠十字屬西洋棋棋子結構，並非獨立文字；其餘未見字母數字或品牌。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代校內棋藝活動與學童便服，台灣情境合理。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "形容做事失敗，到了無法收拾的地步。",
+    "syn": "一蹶不振",
+    "ant": "百戰百勝、所向披靡、所向無敵、勢如破竹"
+  }
+}

@@ -6811,5 +6811,21 @@
       "path": "backup/batches/2026-11-08-855-873/metadata/926.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "9d6005b337b14931623c8b2a74a0f69ffc6058632f3da129b4883471e74daab9": [
+    {
+      "kind": "independent_re_review",
+      "batch": "re-review-01-20261122",
+      "source_file": "9.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-22"
+    }
+  ],
+  "9df35a5b02c32123722b45a68b50cf88d2089bbcd25e5fa2733a15a3d9656e0b": [
+    {
+      "kind": "independent_re_review",
+      "batch": "re-review-01-20261122",
+      "source_file": "20.review.json",
+      "reviewer": "independent-visual-review-2026-11-22"
+    }
   ]
 }

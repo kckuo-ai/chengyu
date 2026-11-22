@@ -1,0 +1,61 @@
+{
+  "no": 8,
+  "kind": "existing",
+  "word": "名落孫山",
+  "path": "/workspace/chengyu-preservation/originals/cca147df0ccff72aa85e63795ec62fd75bc18ffd2d77a40fc81f5d975195fb71.png",
+  "original_sha256": "cca147df0ccff72aa85e63795ec62fd75bc18ffd2d77a40fc81f5d975195fb71",
+  "webp_src": "img/idioms/8.webp",
+  "webp_sha256": "78b43d42cb6dd679c66251fe6bf207cfd6cc22b4c94dda27b097bca7deb9e38b",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "校門旁的男孩低頭拿著考卷與筆袋，母親輕扶他的肩膀；後方孩子開心交談，公告板貼著不同結果的照片。",
+  "issues": [
+    "text_brand_watermark: 公告板有四個明顯獨立 X 形標記，符合使用者禁止像字母符號的條件，不能通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "考卷、低落男孩與榜上其照片的失敗標示，對照旁人喜悅，呈現應考未被錄取。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "母親搭肩手與男孩持紙持袋手指自然，遠處拿紙者拇指藏紙後；腳底與地面接觸合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "公告板固定在支架，紙與筆袋由手握住，校門與地面透視一致。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "公告板有四個明顯獨立 X 形標記，符合使用者禁止像字母符號的條件，不能通過。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣校門、制服與便服學童，前景男孩約高年級比例。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "指應考不中。",
+    "syn": "榜上無名、曝鰓龍門",
+    "ant": "金榜題名、魚躍龍門、雁塔題名"
+  }
+}

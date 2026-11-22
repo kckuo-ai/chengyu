@@ -1,0 +1,61 @@
+{
+  "no": 21,
+  "kind": "existing",
+  "word": "投筆從戎",
+  "path": "/workspace/chengyu-preservation/originals/5485029abe3280e677ad34f3f191d3f9a24a3484fc5c8f02de15fc23bdfdd467.png",
+  "original_sha256": "5485029abe3280e677ad34f3f191d3f9a24a3484fc5c8f02de15fc23bdfdd467",
+  "webp_src": "img/idioms/21.webp",
+  "webp_sha256": "b7e17dea613631e44dafed07830944f2c85a93f78e33743a56679018ec6fffb6",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "左側青年坐在書桌前拿筆讀書，右側同一人穿上軍服，提著行囊與書本走進營區，遠方士兵正集合操練。",
+  "issues": [
+    "hands_feet_pose: 近景握筆、拿書與提袋手自然，但遠景整列士兵的手僅為小塊，最右下垂手無法確認五指，按不確定即失敗。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一人由讀寫工作轉向入伍營區，棄文從軍的前後關係清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "近景握筆、拿書與提袋手自然，但遠景整列士兵的手僅為小塊，最右下垂手無法確認五指，按不確定即失敗。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "書桌承托書本，行囊帶連於肩，行走另一腳支撐地面，營舍透視合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "筆記本僅空白橫線，制服無字樣肩章，未見文字數字品牌或水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代軍營、山區建築與成年入伍角色可成立，沒有把幼童當士兵。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻棄文從軍，以衛國立功。褒義。",
+    "syn": "棄文就武",
+    "ant": ""
+  }
+}

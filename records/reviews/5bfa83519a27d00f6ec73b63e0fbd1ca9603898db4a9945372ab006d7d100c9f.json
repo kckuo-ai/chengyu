@@ -1,0 +1,59 @@
+{
+  "no": 14,
+  "kind": "existing",
+  "word": "江郎才盡",
+  "path": "/workspace/chengyu-preservation/originals/18e1c0bef38c547a250deb7487b6de1dbd77de07a67d4c541b64b26e3aa2877c.png",
+  "original_sha256": "18e1c0bef38c547a250deb7487b6de1dbd77de07a67d4c541b64b26e3aa2877c",
+  "webp_src": "img/idioms/14.webp",
+  "webp_sha256": "f7531be8e4c8a01a7617e2f473cb7a4e6a715deffff062ae9a4878c03c05908b",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "創作者坐在空白稿紙前抓頭苦思，桌邊散著揉皺的草稿，腦中一片空白，身後書架陳列過往完成的圖畫書。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "已有許多完成作品，現在卻空白、揉稿與苦思，呈現過去有才而如今創意枯竭。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "握筆手拇指與指節自然，抓頭手貼髮際，肘肩相接；坐姿有椅面支撐。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "燈具關節、筆筒、稿紙與桌面位置合理，書架承托直立書冊。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "圖畫書封面僅圖像，稿紙空白，無可讀文字、字母數字或浮水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "便服成人於現代居家創作室，符合台灣圖畫書工作者情境。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻文人的才思枯竭，無法再創佳句。",
+    "syn": "才思枯竭、枯腸渴肺",
+    "ant": "七步之才、七步成詩、下筆成章、文不加點、妙筆生花、思如泉湧、倚馬可待、萬斛泉源、錦心繡口"
+  }
+}

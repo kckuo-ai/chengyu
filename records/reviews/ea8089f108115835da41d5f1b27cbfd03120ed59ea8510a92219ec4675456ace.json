@@ -1,0 +1,59 @@
+{
+  "no": 12,
+  "kind": "existing",
+  "word": "天衣無縫",
+  "path": "/workspace/chengyu-preservation/originals/4c40f367ae91ab4c85c64a74db218bf47bf381befe008f8ae554d9d9b833d834.png",
+  "original_sha256": "4c40f367ae91ab4c85c64a74db218bf47bf381befe008f8ae554d9d9b833d834",
+  "webp_src": "img/idioms/12.webp",
+  "webp_sha256": "5975b82d561725c196250693f0d864688ff143ddab8b5554dbfad00d685faf22",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "修復工作桌旁，男子拿放大鏡檢視完整的風景畫，女孩在旁讚嘆；角落小圖呈現同一幅作品原先破裂的樣子。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "破裂前圖與修好後找不到接縫的成品對照，表現周密完美、沒有破綻。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女孩合攏雙手指節有自然遮擋，男子握鏡與扶框手指順物件，無多肢或脫肩。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "畫框下緣有桌面承托，放大鏡握柄相接，杯具與修復工具穩放桌面。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "風景畫及前後圖均只有圖像，工具容器素面，無字樣、品牌或浮水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代修復工作室與便服成人、兒童，台灣場景可成立。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻詩文渾然天成，沒有斧鑿痕跡。褒義。＆比喻事物或計畫周密完美，沒有一絲破綻或缺點。褒義。",
+    "syn": "渾然一體、渾然天成",
+    "ant": "破綻百出、漏洞百出"
+  }
+}

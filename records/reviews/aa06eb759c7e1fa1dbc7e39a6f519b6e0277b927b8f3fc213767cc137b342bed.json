@@ -1,0 +1,62 @@
+{
+  "no": 18,
+  "kind": "existing",
+  "word": "含沙射影",
+  "path": "/workspace/chengyu-preservation/originals/b40234ade3dfd677894488c13912dcf1c33de40b660f1f20e13f6adfd23f2205.png",
+  "original_sha256": "b40234ade3dfd677894488c13912dcf1c33de40b660f1f20e13f6adfd23f2205",
+  "webp_src": "img/idioms/18.webp",
+  "webp_sha256": "37374ddc59a8da4be945c5c36e746e25276b15a24dd10b39418a5f366c903561",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "畫室裡，一名女子摀嘴對同伴耳語，泡泡中出現另一位女子的剪影與黑色星芒；後方那人仍低頭繼續作畫。",
+  "issues": [
+    "meaning: 直接以對方剪影私下說壞話，只能看出耳語或傳閒話，缺少用別的事物間接影射、詆毀人的關鍵，容易混同竊竊私語。",
+    "text_brand_watermark: 左上牆面海報有獨立大幅中文字般灰色筆畫，不能排除可讀或類文字內容。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "直接以對方剪影私下說壞話，只能看出耳語或傳閒話，缺少用別的事物間接影射、詆毀人的關鍵，容易混同竊竊私語。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "遮口、托腮、握筆手均接腕臂自然，遮住的指節有物件依據，無額外手腳。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "畫架、桌面、坐椅有承托，畫筆被指端握住，透視沒有明顯衝突。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "左上牆面海報有獨立大幅中文字般灰色筆畫，不能排除可讀或類文字內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代便服女性在畫室工作，台灣成人創作情境可成立。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻間接地詆毀、陷害別人。貶義。",
+    "syn": "指桑罵槐、暗箭傷人",
+    "ant": "光明正大、光明磊落"
+  }
+}

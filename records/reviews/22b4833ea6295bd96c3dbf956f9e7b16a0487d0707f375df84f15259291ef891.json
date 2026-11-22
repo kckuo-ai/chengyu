@@ -1,0 +1,59 @@
+{
+  "no": 5,
+  "kind": "existing",
+  "word": "班門弄斧",
+  "path": "/workspace/chengyu-preservation/originals/8fb9c0d1c7105d7302bbe8dd897445c06962ae2198c194ed9bd18c5e911e8bf6.png",
+  "original_sha256": "8fb9c0d1c7105d7302bbe8dd897445c06962ae2198c194ed9bd18c5e911e8bf6",
+  "webp_src": "img/idioms/5.webp",
+  "webp_sha256": "8b94156c7910b57b8817d9d0030df396c6215adfcb54b77c9eff3a6cbf557827",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "男孩得意展示簡單的房屋畫，另一手向前攤開；旁邊老師坐在精細的同景作品前，微笑看著他的展示。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "男孩得意炫耀粗略作品，面前成人已有明顯更高技巧的同景畫作，呈現向行家賣弄。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "展示手側向指節疊合，持紙手拇指在紙後；老師托腮與置桌手自然，雙臂皆接肩。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "紙由手托持，畫板有畫架支撐，老師坐於椅面；石膏像是教具，不當成現場人物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "紙上只有房屋樹木線稿，畫室物件無可讀文字、品牌或浮水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代畫室、便服兒童與成人指導者，符合台灣才藝教學場景。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻在行家面前賣弄本事，不自量力。貶義。",
+    "syn": "布鼓雷門",
+    "ant": ""
+  }
+}

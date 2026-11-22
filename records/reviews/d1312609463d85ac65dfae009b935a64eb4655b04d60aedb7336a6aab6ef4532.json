@@ -1,0 +1,59 @@
+{
+  "no": 9,
+  "kind": "existing",
+  "word": "胸有成竹",
+  "path": "/workspace/chengyu-preservation/originals/d4fb95fa237203a3b6fa86f69df7b3420969af994bfe85cc88907bb7218df21e.png",
+  "original_sha256": "d4fb95fa237203a3b6fa86f69df7b3420969af994bfe85cc88907bb7218df21e",
+  "webp_src": "img/idioms/9.webp",
+  "webp_sha256": "7a02b1fe7e71f3cb3c03defa9e09fcb3a77fcb1d13b3f6177699de6db6572a36",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "男孩神情篤定地為鳥屋木板上膠，腦中已有完成後的模樣；桌上攤著圖解書，旁邊整齊放著待用木片。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "施工前已想到完整鳥屋，材料與步驟備妥且神情從容，表現事前有完整打算，並非束手無策。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "一手握膠瓶另一手扶木板，拇指與四指順握物輪廓，兩臂接肩，坐姿穩定。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "膠落在板邊接縫，未完成屋體有底座支撐，圖解書書脊與木片透視合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "書中只有鳥屋示意與方向箭頭，無文字數字、商標或浮水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代居家木工桌與便服學童，符合台灣生活與國小比例。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻處事有定見。",
+    "syn": "",
+    "ant": "不知所措、束手無策、無計可施"
+  }
+}

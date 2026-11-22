@@ -1,0 +1,59 @@
+{
+  "no": 11,
+  "kind": "existing",
+  "word": "指鹿為馬",
+  "path": "/workspace/chengyu-preservation/originals/bcb4a759401c0b05f26b07485933ca95e30413a64ebf16d911dc1279f9b5add2.png",
+  "original_sha256": "bcb4a759401c0b05f26b07485933ca95e30413a64ebf16d911dc1279f9b5add2",
+  "webp_src": "img/idioms/11.webp",
+  "webp_sha256": "04f7f6c7090c452aa0f714a36544c82fcaca32a621da838e9edaa11624767b43",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "教室裡的男孩一手插腰，一手堅定指向有角動物的圖畫，話語泡泡卻出現駿馬，旁邊同學驚訝地反駁。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "畫中明確是鹿，男孩卻以馬的圖像堅持另一說法，同學提出異議，呈現顛倒明確事實。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "指向的食指與收攏其餘手指自然，插腰手貼髖；同學手勢及手臂連接合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "畫板有畫架承托，動物圖各四足，畫框與地面方向一致。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "對話只有完整馬圖像，畫中無可讀字、字母、數字或品牌。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣可見的現代教室與便服學童，國小高年級比例合理。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻人刻意混淆是非，顛倒黑白。",
+    "syn": "",
+    "ant": "循名責實"
+  }
+}

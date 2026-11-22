@@ -1,0 +1,59 @@
+{
+  "no": 1,
+  "kind": "existing",
+  "word": "一毛不拔",
+  "path": "/workspace/chengyu-preservation/originals/f4f87de9d801f5e2e904dedac9a11bfe50b7e355156268119a16839afe60f478.png",
+  "original_sha256": "f4f87de9d801f5e2e904dedac9a11bfe50b7e355156268119a16839afe60f478",
+  "webp_src": "img/idioms/1.webp",
+  "webp_sha256": "6863f4e315b5f4a32bc35f26b831a59b7a052a4095c02e7c6abbf96c2a1d65a9",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "募捐桌旁，兩位民眾把硬幣投入玻璃罐，前方男子卻皺眉緊抱裝滿錢幣的皮夾，轉身不願分享。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "他人捐款與男子抱緊滿錢皮夾的拒絕動作直接對照，表現吝嗇，與慷慨解囊相反。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "捐款者拇指藏在硬幣後，男子各手的彎曲指節圍住皮夾；手腕接前臂、肩膀自然，裁切處不臆測腳部。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "硬幣由指端投入罐口，皮夾受雙臂支撐；桌面與罐底接觸合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "硬幣為空白圓面與同心紋，包裝只有素面與蝴蝶結，無字母數字或商標。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代街區募捐桌與便服成人，可作台灣社區場景。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "形容人非常吝嗇。貶義。",
+    "syn": "視錢如命、愛財如命、鐵公雞",
+    "ant": "一擲千金、仗義疏財、解囊相助、慷慨解囊"
+  }
+}

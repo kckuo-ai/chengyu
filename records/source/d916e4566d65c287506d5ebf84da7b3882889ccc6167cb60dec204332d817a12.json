@@ -1,0 +1,332 @@
+[
+  {
+    "no": 1,
+    "word": "一毛不拔",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/1.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/f4f87de9d801f5e2e904dedac9a11bfe50b7e355156268119a16839afe60f478.png",
+    "original_sha256": "f4f87de9d801f5e2e904dedac9a11bfe50b7e355156268119a16839afe60f478",
+    "alt": "募捐桌旁，兩位民眾把硬幣投入玻璃罐，前方男子卻皺眉緊抱裝滿錢幣的皮夾，轉身不願分享。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "1.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 2,
+    "word": "掩耳盜鈴",
+    "actions": [
+      "review_record_missing",
+      "prompt_record_missing"
+    ],
+    "src": "img/idioms/2.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/e2c7989c606bcf66c6bd946019cb64dc196dec750f3497061a33f98b15eb5da8.png",
+    "original_sha256": "e2c7989c606bcf66c6bd946019cb64dc196dec750f3497061a33f98b15eb5da8",
+    "alt": "巷口男子閉眼摀住雙耳，腰邊大鐘晃動；屋內另一名男子驚訝張開雙手，已經察覺外頭的聲響。",
+    "passed": false,
+    "failed_checks": [
+      "text_brand_watermark",
+      "taiwan_context"
+    ],
+    "review": "2.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 4,
+    "word": "囫圇吞棗",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/4.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/36bcd8b3108b9e1e458fa3e89722bb87b61403406b9c73c611e74145de5b6e83.png",
+    "original_sha256": "36bcd8b3108b9e1e458fa3e89722bb87b61403406b9c73c611e74145de5b6e83",
+    "alt": "男孩快速翻過植物圖畫書，腦中浮現葉子、根系、陽光與水滴等零散圖像，桌邊放著沒有使用的放大鏡。",
+    "passed": false,
+    "failed_checks": [
+      "meaning",
+      "text_brand_watermark"
+    ],
+    "review": "4.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 5,
+    "word": "班門弄斧",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/5.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/8fb9c0d1c7105d7302bbe8dd897445c06962ae2198c194ed9bd18c5e911e8bf6.png",
+    "original_sha256": "8fb9c0d1c7105d7302bbe8dd897445c06962ae2198c194ed9bd18c5e911e8bf6",
+    "alt": "男孩得意展示簡單的房屋畫，另一手向前攤開；旁邊老師坐在精細的同景作品前，微笑看著他的展示。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "5.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 8,
+    "word": "名落孫山",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/8.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/cca147df0ccff72aa85e63795ec62fd75bc18ffd2d77a40fc81f5d975195fb71.png",
+    "original_sha256": "cca147df0ccff72aa85e63795ec62fd75bc18ffd2d77a40fc81f5d975195fb71",
+    "alt": "校門旁的男孩低頭拿著考卷與筆袋，母親輕扶他的肩膀；後方孩子開心交談，公告板貼著不同結果的照片。",
+    "passed": false,
+    "failed_checks": [
+      "text_brand_watermark"
+    ],
+    "review": "8.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 9,
+    "word": "胸有成竹",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/9.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/d4fb95fa237203a3b6fa86f69df7b3420969af994bfe85cc88907bb7218df21e.png",
+    "original_sha256": "d4fb95fa237203a3b6fa86f69df7b3420969af994bfe85cc88907bb7218df21e",
+    "alt": "男孩神情篤定地為鳥屋木板上膠，腦中已有完成後的模樣；桌上攤著圖解書，旁邊整齊放著待用木片。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "9.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 11,
+    "word": "指鹿為馬",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/11.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/bcb4a759401c0b05f26b07485933ca95e30413a64ebf16d911dc1279f9b5add2.png",
+    "original_sha256": "bcb4a759401c0b05f26b07485933ca95e30413a64ebf16d911dc1279f9b5add2",
+    "alt": "教室裡的男孩一手插腰，一手堅定指向有角動物的圖畫，話語泡泡卻出現駿馬，旁邊同學驚訝地反駁。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "11.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 12,
+    "word": "天衣無縫",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/12.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/4c40f367ae91ab4c85c64a74db218bf47bf381befe008f8ae554d9d9b833d834.png",
+    "original_sha256": "4c40f367ae91ab4c85c64a74db218bf47bf381befe008f8ae554d9d9b833d834",
+    "alt": "修復工作桌旁，男子拿放大鏡檢視完整的風景畫，女孩在旁讚嘆；角落小圖呈現同一幅作品原先破裂的樣子。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "12.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 13,
+    "word": "舉一反三",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/13.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/9763dd024188588eb765a7b47b9a213b3e831f50eed9413215997162ba676b9b.png",
+    "original_sha256": "9763dd024188588eb765a7b47b9a213b3e831f50eed9413215997162ba676b9b",
+    "alt": "老師示範把藍色紙張對折，男孩想到新方法；桌上還有不同形狀的摺紙，顯示他把相同原理用在其他作品。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "13.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 14,
+    "word": "江郎才盡",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/14.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/18e1c0bef38c547a250deb7487b6de1dbd77de07a67d4c541b64b26e3aa2877c.png",
+    "original_sha256": "18e1c0bef38c547a250deb7487b6de1dbd77de07a67d4c541b64b26e3aa2877c",
+    "alt": "創作者坐在空白稿紙前抓頭苦思，桌邊散著揉皺的草稿，腦中一片空白，身後書架陳列過往完成的圖畫書。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "14.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 15,
+    "word": "青出於藍",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/15.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/e501ec268c0277dfc7398693bbcfeea95dae72cc0c023668d961c3ecce653af7.png",
+    "original_sha256": "e501ec268c0277dfc7398693bbcfeea95dae72cc0c023668d961c3ecce653af7",
+    "alt": "長者拿著簡單的藍色紙鳥示範，年輕學習者展示更精巧的大型鳳鳥作品，長者伸手微笑，稱讚她的成果。",
+    "passed": false,
+    "failed_checks": [
+      "meaning"
+    ],
+    "review": "15.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 16,
+    "word": "口若懸河",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/16.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/2d5c6a264641ec216eea8ae7dd2a3307a76df6a01b2c93984da6252ba271f3d7.png",
+    "original_sha256": "2d5c6a264641ec216eea8ae7dd2a3307a76df6a01b2c93984da6252ba271f3d7",
+    "alt": "男子在戶外生動說故事，頭上連串泡泡畫著山林與旅行見聞，三名孩子坐在木樁上專心聆聽，後方可見城堡。",
+    "passed": false,
+    "failed_checks": [
+      "taiwan_context"
+    ],
+    "review": "16.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 17,
+    "word": "驚弓之鳥",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/17.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/dc2f01d182e900a082630f6ab094813ae86103b7f9052224116a1d9d4bf48594.png",
+    "original_sha256": "dc2f01d182e900a082630f6ab094813ae86103b7f9052224116a1d9d4bf48594",
+    "alt": "女孩見到尚未破裂的氣球就摀耳害怕，腦中浮現上回氣球爆裂時哭泣的畫面，母親在身旁輕輕安撫她。",
+    "passed": false,
+    "failed_checks": [
+      "hands_feet_pose"
+    ],
+    "review": "17.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 18,
+    "word": "含沙射影",
+    "actions": [
+      "review_record_missing",
+      "P3_optional_review"
+    ],
+    "src": "img/idioms/18.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/b40234ade3dfd677894488c13912dcf1c33de40b660f1f20e13f6adfd23f2205.png",
+    "original_sha256": "b40234ade3dfd677894488c13912dcf1c33de40b660f1f20e13f6adfd23f2205",
+    "alt": "畫室裡，一名女子摀嘴對同伴耳語，泡泡中出現另一位女子的剪影與黑色星芒；後方那人仍低頭繼續作畫。",
+    "passed": false,
+    "failed_checks": [
+      "meaning",
+      "text_brand_watermark"
+    ],
+    "review": "18.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 19,
+    "word": "一敗塗地",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/19.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/fe1fc383f093936029d8facc7687e0b27157352ebbcf3d5e17c79ef4c77a0982.png",
+    "original_sha256": "fe1fc383f093936029d8facc7687e0b27157352ebbcf3d5e17c79ef4c77a0982",
+    "alt": "男孩望著棋盤抓頭發愁，自己多數白棋已被移到桌邊，對手從容托腮，盤面前方還躺著倒下的白色國王。",
+    "passed": false,
+    "failed_checks": [
+      "meaning",
+      "objects_contact_perspective"
+    ],
+    "review": "19.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 20,
+    "word": "草木皆兵",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/20.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/7bb779734f36da21db03e5c2f5ba8739e8c8114afbe16f21ab9d8658d8bec432.png",
+    "original_sha256": "7bb779734f36da21db03e5c2f5ba8739e8c8114afbe16f21ab9d8658d8bec432",
+    "alt": "傍晚河岸邊，男孩拿手電筒驚慌縮身，把草叢想成成群士兵；女孩指著眼前植物，提醒他那只是普通灌木。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "20.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 21,
+    "word": "投筆從戎",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/21.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/5485029abe3280e677ad34f3f191d3f9a24a3484fc5c8f02de15fc23bdfdd467.png",
+    "original_sha256": "5485029abe3280e677ad34f3f191d3f9a24a3484fc5c8f02de15fc23bdfdd467",
+    "alt": "左側青年坐在書桌前拿筆讀書，右側同一人穿上軍服，提著行囊與書本走進營區，遠方士兵正集合操練。",
+    "passed": false,
+    "failed_checks": [
+      "hands_feet_pose"
+    ],
+    "review": "21.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 22,
+    "word": "東窗事發",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/22.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/0af83e9f43b37c774e83aa544a0340e04e928ae3a9bb987fdf35545c0466309c.png",
+    "original_sha256": "0af83e9f43b37c774e83aa544a0340e04e928ae3a9bb987fdf35545c0466309c",
+    "alt": "老師拿著兩張圖形考卷比對，男孩緊張抓頭，抽屜裡露出相同圖案的小抄；後方同學停下筆，驚訝地望過來。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "22.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 23,
+    "word": "畫蛇添足",
+    "actions": [
+      "review_record_missing",
+      "prompt_record_missing"
+    ],
+    "src": "img/idioms/23.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/e3fcb692228386ccc102adf74a989dc694abe363012d856c15248c9738af3b02.png",
+    "original_sha256": "e3fcb692228386ccc102adf74a989dc694abe363012d856c15248c9738af3b02",
+    "alt": "古代庭院裡，男子蹲著替地上的長蛇圖案加上四隻腳；另一人留下沒有腳的蛇圖，抱著酒壺轉身離開。",
+    "passed": false,
+    "failed_checks": [
+      "meaning",
+      "taiwan_context"
+    ],
+    "review": "23.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 25,
+    "word": "滄海桑田",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/25.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/176fb1953893a45a8f85014c18a198c9c1aeb1860189c0c90118ae72628ffaf2.png",
+    "original_sha256": "176fb1953893a45a8f85014c18a198c9c1aeb1860189c0c90118ae72628ffaf2",
+    "alt": "老人拿著海岸舊照片回望家鄉，畫面接連呈現同一山頭前的海灣、農田與城鎮，遠方土地樣貌已完全改變。",
+    "passed": false,
+    "failed_checks": [
+      "hands_feet_pose"
+    ],
+    "review": "25.review.json",
+    "retained_installed_webp": true
+  }
+]

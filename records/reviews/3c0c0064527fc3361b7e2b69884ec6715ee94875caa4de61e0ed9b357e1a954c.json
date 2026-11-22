@@ -1,0 +1,61 @@
+{
+  "no": 17,
+  "kind": "existing",
+  "word": "驚弓之鳥",
+  "path": "/workspace/chengyu-preservation/originals/dc2f01d182e900a082630f6ab094813ae86103b7f9052224116a1d9d4bf48594.png",
+  "original_sha256": "dc2f01d182e900a082630f6ab094813ae86103b7f9052224116a1d9d4bf48594",
+  "webp_src": "img/idioms/17.webp",
+  "webp_sha256": "2400549a7b6cd63ffc57ca1c04a5adc620dec7132d802c83f2b46a30cd414683",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "女孩見到尚未破裂的氣球就摀耳害怕，腦中浮現上回氣球爆裂時哭泣的畫面，母親在身旁輕輕安撫她。",
+  "issues": [
+    "hands_feet_pose: 前景母女與泡泡人物手勢自然，但右後方綠衣男孩握杯手、紫衣女孩持杯手是模糊團塊，原尺寸仍無法確認五指，按不確定即失敗。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "先前爆裂受驚與現在未破氣球引發恐懼有明確前後因果，不只是一般害怕。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "前景母女與泡泡人物手勢自然，但右後方綠衣男孩握杯手、紫衣女孩持杯手是模糊團塊，原尺寸仍無法確認五指，按不確定即失敗。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "氣球有綁線，杯由手持，人物坐站與桌椅地面相接合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "派對裝飾沒有生日字母數字，只有色紙與氣球，無品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代家庭庭院聚會、便服母女及同齡孩子，台灣生活可成立。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻曾受打擊或驚嚇，心有餘悸，稍有動靜就害怕的人。",
+    "syn": "心有餘悸、談虎色變",
+    "ant": ""
+  }
+}

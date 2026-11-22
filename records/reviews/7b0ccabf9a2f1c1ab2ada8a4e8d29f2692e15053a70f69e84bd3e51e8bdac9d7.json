@@ -1,0 +1,59 @@
+{
+  "no": 22,
+  "kind": "existing",
+  "word": "東窗事發",
+  "path": "/workspace/chengyu-preservation/originals/0af83e9f43b37c774e83aa544a0340e04e928ae3a9bb987fdf35545c0466309c.png",
+  "original_sha256": "0af83e9f43b37c774e83aa544a0340e04e928ae3a9bb987fdf35545c0466309c",
+  "webp_src": "img/idioms/22.webp",
+  "webp_sha256": "e1b85a4adb35700d7f46b5da210ee57dda6c853da718e5225a46a227b29bdbd1",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "老師拿著兩張圖形考卷比對，男孩緊張抓頭，抽屜裡露出相同圖案的小抄；後方同學停下筆，驚訝地望過來。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "隱藏小抄被露出，教師對照答案且孩子緊張，呈現不正當行為遭揭穿的因果。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持紙手拇指在紙後，抓頭手貼髮際；後方女孩握筆手與另一支撐手自然，皆無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "小抄由抽屜底面支撐，桌腿著地，老師持紙受雙手固定，圖形相符。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "考卷只有圓形、三角與立體方塊圖，沒有題號字母文字，無品牌或浮水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣教室、教師與國小高年級學生比例合理。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "指陰謀或非法勾當敗漏。",
+    "syn": "露出馬腳",
+    "ant": "神不知鬼不覺、瞞天過海"
+  }
+}

@@ -15512,5 +15512,13 @@
       "path": "backup/batches/2026-11-08-855-873/alternatives/902/prompt.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "7d9a9b4fd0e642abb16e7db18b313706102282663694e0a51c7f94b6d4aa6007": [
+    {
+      "kind": "independent_re_review",
+      "batch": "re-review-01-20261122",
+      "source_file": "redraw-proposals.json",
+      "reviewer": "independent-visual-review-2026-11-22"
+    }
   ]
 }

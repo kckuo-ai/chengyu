@@ -1,0 +1,59 @@
+{
+  "no": 13,
+  "kind": "existing",
+  "word": "舉一反三",
+  "path": "/workspace/chengyu-preservation/originals/9763dd024188588eb765a7b47b9a213b3e831f50eed9413215997162ba676b9b.png",
+  "original_sha256": "9763dd024188588eb765a7b47b9a213b3e831f50eed9413215997162ba676b9b",
+  "webp_src": "img/idioms/13.webp",
+  "webp_sha256": "33c381f21b5479a78051c7a46fe64d727866bec2ee6d44b40f55f4727018e2a6",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "老師示範把藍色紙張對折，男孩想到新方法；桌上還有不同形狀的摺紙，顯示他把相同原理用在其他作品。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "由一個對折原理推到半圓、三角與不同形狀，呈現推廣運用，不只是依樣複製。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "師生持紙與指示手的五指順握姿，遮在紙後部分合理，肩肘連接正常。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "紙的摺線形成可閉合面，剪刀有共同軸，紙片平放桌面；非懸浮。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "燈泡是具燈座的完整物件圖示，紙張無文字與數字，無品牌或浮水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣手作教室與便服學童、老師，年齡角色合理。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "形容人於學習中善於觸類旁通。褒義。",
+    "syn": "聞一知十、觸類旁通",
+    "ant": ""
+  }
+}

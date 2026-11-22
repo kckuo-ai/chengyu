@@ -1,0 +1,59 @@
+{
+  "no": 20,
+  "kind": "existing",
+  "word": "草木皆兵",
+  "path": "/workspace/chengyu-preservation/originals/7bb779734f36da21db03e5c2f5ba8739e8c8114afbe16f21ab9d8658d8bec432.png",
+  "original_sha256": "7bb779734f36da21db03e5c2f5ba8739e8c8114afbe16f21ab9d8658d8bec432",
+  "webp_src": "img/idioms/20.webp",
+  "webp_sha256": "502def30540f77d6b63e4e323a26130409a4b19c69475c1ab314a5d020207240",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "alt": "傍晚河岸邊，男孩拿手電筒驚慌縮身，把草叢想成成群士兵；女孩指著眼前植物，提醒他那只是普通灌木。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "實景只有植物，半透明士兵是恐懼想像，女孩指出真相，清楚呈現驚懼而疑神疑鬼。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持燈、縮手與指示手順腕臂相接，指向手其餘手指自然收攏，人物鞋底落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "手電筒握柄與光束方向合理，草叢立於地面，幻想士兵不當作實體人員。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "手電筒素面，背景無招牌文字數字與品牌，無浮水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代河岸公園、城市建築及便服學童，符合台灣生活場景。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "形容疑神疑鬼、驚恐不安。",
+    "syn": "杯弓蛇影、風聲鶴唳、疑神疑鬼",
+    "ant": "處變不驚"
+  }
+}
