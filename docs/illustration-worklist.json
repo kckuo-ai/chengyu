@@ -12,16 +12,16 @@
   "limits": "Record and asset audit only; no new visual pass is implied. Missing/legacy evidence is not a failed image. Task categories overlap; count unique tasks, not the sum of action counts.",
   "summary": {
     "total_idioms": 1466,
-    "published_illustrations": 1459,
-    "missing_illustrations": 7,
-    "coverage_percent": 99.52,
+    "published_illustrations": 1465,
+    "missing_illustrations": 1,
+    "coverage_percent": 99.93,
     "P1_published": 21,
     "P1_total": 21,
-    "review_records": 903,
+    "review_records": 909,
     "review_missing": 556,
     "review_legacy": 546,
-    "review_eight_checks": 357,
-    "unique_task_idioms": 1109,
+    "review_eight_checks": 363,
+    "unique_task_idioms": 1103,
     "action_counts": {
       "review_record_missing": 556,
       "prompt_record_missing": 25,
@@ -31,7 +31,7 @@
       "legacy_format_review": 111,
       "P2_style_review": 48,
       "red_neckerchief_review": 10,
-      "create_new_art": 7
+      "create_new_art": 1
     }
   },
   "priority": [
@@ -9151,48 +9151,6 @@
     {
       "no": 5387,
       "word": "脣槍舌劍",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5459,
-      "word": "樂此不疲",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5467,
-      "word": "出人意表",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5477,
-      "word": "先見之明",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5479,
-      "word": "形形色色",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5484,
-      "word": "人聲鼎沸",
-      "actions": [
-        "create_new_art"
-      ]
-    },
-    {
-      "no": 5487,
-      "word": "似是而非",
       "actions": [
         "create_new_art"
       ]
