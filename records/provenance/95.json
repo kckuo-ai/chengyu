@@ -8752,5 +8752,13 @@
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470",
       "path": "backup/batches/2026-11-08-873-877/SHA256SUMS"
     }
+  ],
+  "95ebf5f4d46fd54d66410038596058983a72a01e7d5a50d90a95a40552f85e6c": [
+    {
+      "kind": "independent_re_review",
+      "batch": "re-review-02-20261122",
+      "source_file": "30.review.json",
+      "reviewer": "independent-visual-review-2026-11-22"
+    }
   ]
 }

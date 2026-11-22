@@ -1,0 +1,65 @@
+{
+  "no": 31,
+  "kind": "existing",
+  "word": "狼狽為奸",
+  "path": "/workspace/chengyu-preservation/originals/2eb24a69961f04c477e6a19a8147bbec6d2d2232d4b6d8fccb900decb5ca2bfd.png",
+  "original_sha256": "2eb24a69961f04c477e6a19a8147bbec6d2d2232d4b6d8fccb900decb5ca2bfd",
+  "webp_src": "img/idioms/31.webp",
+  "webp_sha256": "128670c0dbf78fb8da0d6149d919769cf312ab7d6b7dab7ec5bc58413c7136c4",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-02-20261122",
+  "alt": "雜貨店裡，女子趁店主背身整理貨架，把商品藏進提袋，並與站在門口張望的男子交換眼色，兩人暗中配合。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "一人藏商品、一人把風，彼此交換眼神，店主全不知情，互相勾結做壞事清楚；不是正常分工。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「雜貨店裡，女子趁店主背身整理貨架，把商品藏進提袋，並與站在門口張望的男子交換眼色，兩人暗中配合。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "門口男子握門框手、女子持包與探袋手隨物合理遮擋，店主握紙袋手接臂；未見額外肢體，腿部裁切不假稱見到腳。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "商品正放入打開袋口，袋帶連肩，貨架、玻璃罐與桌面都有支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "紙袋標籤是空白色塊，瓶身只有植物圖樣，無可讀文字、字母數字或商標。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣可見的生活雜貨店，成人便服、圍裙與提袋符合生活角色。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領與頸部，未見紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crops for 29 board and 45 feet",
+    "comparison": "110 published candidates actually viewed in five sheets; also full 751 WebP. Near-duplicate failures: 41 vs 19 and 44 vs 751.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻互相勾結做壞事。貶義。",
+    "syn": "同流合汙、朋比為奸",
+    "ant": ""
+  }
+}

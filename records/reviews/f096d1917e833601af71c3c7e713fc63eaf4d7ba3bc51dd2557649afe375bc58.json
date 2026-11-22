@@ -1,0 +1,68 @@
+{
+  "no": 40,
+  "kind": "existing",
+  "word": "不學無術",
+  "path": "/workspace/chengyu-preservation/originals/a1928571a2fee7bde95a9b28dabe8b5bfb8106dc368f7686080f7aadc832ec60.png",
+  "original_sha256": "a1928571a2fee7bde95a9b28dabe8b5bfb8106dc368f7686080f7aadc832ec60",
+  "webp_src": "img/idioms/40.webp",
+  "webp_sha256": "e07c81b257faceee757b7a7e20496af5984894bd1f09ea26827fdbdca8ab1cb0",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-02-20261122",
+  "alt": "男孩拿著遊戲機困惑攤手，桌上木凳模型歪倒，旁邊有組裝圖與散落零件；一旁堆著合上的書，牆上貼著照片。",
+  "issues": [
+    "meaning: 遊戲機、合起的書與組裝失敗只能表示暫時不會做，沒有拒絕學習到缺乏學問才幹的因果，容易被讀成笨手笨腳或手足無措。",
+    "text_brand_watermark: 右上牆面樹木照片下有兩列類字母灰色筆畫，不符合禁止類文字要求；遊戲機沒有可讀商標，不臆測品牌。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "遊戲機、合起的書與組裝失敗只能表示暫時不會做，沒有拒絕學習到缺乏學問才幹的因果，容易被讀成笨手笨腳或手足無措。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「男孩拿著遊戲機困惑攤手，桌上木凳模型歪倒，旁邊有組裝圖與散落零件；一旁堆著合上的書，牆上貼著照片。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持機手指繞機身、部分在背面合理遮擋，攤掌拇指與四指可辨，肩肘相接，身體坐在椅上。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "失敗模型的歪斜是故事內容，桌面支撐零件與圖紙；圖解無懸空實體。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "右上牆面樹木照片下有兩列類字母灰色筆畫，不符合禁止類文字要求；遊戲機沒有可讀商標，不臆測品牌。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣可見的學生臥室、便服學童與手作桌，人物比例約國小高年級。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領與頸部，未見紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crops for 29 board and 45 feet",
+    "comparison": "110 published candidates actually viewed in five sheets; also full 751 WebP. Near-duplicate failures: 41 vs 19 and 44 vs 751.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "人未經學習而沒有學問才幹。貶義。",
+    "syn": "一無所長、才疏學淺、胸無點墨、庸庸碌碌",
+    "ant": "多才多藝、真才實學、博學多才、滿腹經綸、學富五車"
+  }
+}

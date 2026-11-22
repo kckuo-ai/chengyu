@@ -1,0 +1,67 @@
+{
+  "no": 35,
+  "kind": "existing",
+  "word": "如火如荼",
+  "path": "/workspace/chengyu-preservation/originals/ad2cb0b954028dd46e79d8a3cc9f1a6670028238d2a074cdddb92f964600bc0a.png",
+  "original_sha256": "ad2cb0b954028dd46e79d8a3cc9f1a6670028238d2a074cdddb92f964600bc0a",
+  "webp_src": "img/idioms/35.webp",
+  "webp_sha256": "5a234196885ca4101852d2fc005c61e1f9c53c54af76ab98b1466f676ae10af3",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-02-20261122",
+  "alt": "校園市集裡，孩子在舞台上熱情跳舞，台下家長拍手欣賞，攤位有人選購花草與手作品，到處都是忙碌歡樂的活動。",
+  "issues": [
+    "hands_feet_pose: 前景交易手尚可辨握姿，但舞台最左男孩揚掌與右側帳棚女童的手形過小、指節黏合，原尺寸仍不能確認每手五指，依不確定即失敗。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "舞台、觀眾與攤位同時熱絡，表現活動興盛與氣氛熱烈，而非只有一人高興。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「校園市集裡，孩子在舞台上熱情跳舞，台下家長拍手欣賞，攤位有人選購花草與手作品，到處都是忙碌歡樂的活動。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "前景交易手尚可辨握姿，但舞台最左男孩揚掌與右側帳棚女童的手形過小、指節黏合，原尺寸仍不能確認每手五指，依不確定即失敗。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "舞台有木架承重，舞者腳接台面，攤架、桌面與長椅均支撐人物或物品。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "旗幟與攤位無標語，手作品無價目字樣，未見文字字母數字或品牌。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣可見的現代校園園遊會，舞台國小兒童與家長、攤商角色合理。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領與頸部，未見紅領巾或紅圍巾。 紅色僅出現在懸掛的三角旗，沒有繫在人物頸部。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crops for 29 board and 45 feet",
+    "comparison": "110 published candidates actually viewed in five sheets; also full 751 WebP. Near-duplicate failures: 41 vs 19 and 44 vs 751.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "形容事物的興盛或氣氛的熱烈。",
+    "syn": "",
+    "ant": ""
+  }
+}

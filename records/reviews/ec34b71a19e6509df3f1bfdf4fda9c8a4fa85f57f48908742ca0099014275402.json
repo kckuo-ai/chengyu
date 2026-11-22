@@ -1,0 +1,68 @@
+{
+  "no": 27,
+  "kind": "existing",
+  "word": "司空見慣",
+  "path": "/workspace/chengyu-preservation/originals/ff2c0938afc0cb874aa993ea5d266f6269f713ff50b5e63f1cd66e6404d9a6ce.png",
+  "original_sha256": "ff2c0938afc0cb874aa993ea5d266f6269f713ff50b5e63f1cd66e6404d9a6ce",
+  "webp_src": "img/idioms/27.webp",
+  "webp_sha256": "29f8deacfe9a7311385a5e48bff0c7222bc3c2d009d4356447430ac661e4fd89",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-02-20261122",
+  "alt": "噴泉旁，一家人驚喜拍照並指著水花；另一側居民繼續掃地、遛狗和讀書，對身邊熟悉的景物沒有特別反應。",
+  "issues": [
+    "text_brand_watermark: 花店門前小黑板有多列類文字灰白短劃；原尺寸仍無法排除字母狀筆畫，不能通過無類字形要求。",
+    "taiwan_context: 石鋪廣場、古典噴泉、歐式窗板與遮棚的組合呈歐洲旅遊場景，無法確認為台灣現代街區。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "遊客驚喜與居民照常做事形成對照，能讀出常見所以不覺得新奇，與少見多怪相反。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「噴泉旁，一家人驚喜拍照並指著水花；另一側居民繼續掃地、遛狗和讀書，對身邊熟悉的景物沒有特別反應。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "拍照與持圖手隨物遮擋自然，指向手與扶池手接腕，老人握書、女子握牽繩手姿正常；鞋底與地面相接。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "噴泉水落在池中，老人坐在長椅上，狗繩接項圈，掃帚接地，支持與透視合理。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "花店門前小黑板有多列類文字灰白短劃；原尺寸仍無法排除字母狀筆畫，不能通過無類字形要求。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "石鋪廣場、古典噴泉、歐式窗板與遮棚的組合呈歐洲旅遊場景，無法確認為台灣現代街區。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領與頸部，未見紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crops for 29 board and 45 feet",
+    "comparison": "110 published candidates actually viewed in five sheets; also full 751 WebP. Near-duplicate failures: 41 vs 19 and 44 vs 751.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻經常看到，不足為奇。",
+    "syn": "不足為奇、習以為常、屢見不鮮",
+    "ant": "少見多怪、見所未見"
+  }
+}

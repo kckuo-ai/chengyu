@@ -1,0 +1,67 @@
+{
+  "no": 33,
+  "kind": "existing",
+  "word": "作法自斃",
+  "path": "/workspace/chengyu-preservation/originals/d5d1c5d259d3ee1b9f6c17c9bb7af38121be9fab157790d7a469243a43d10900.png",
+  "original_sha256": "d5d1c5d259d3ee1b9f6c17c9bb7af38121be9fab157790d7a469243a43d10900",
+  "webp_src": "img/idioms/33.webp",
+  "webp_sha256": "f8bdc5fc579c17c887df6ef04e0e5db9c9e6930d2e95128e7dfc4e2d5d4f2c03",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-02-20261122",
+  "alt": "門口男孩抬腳時發現鞋底被黏在墊子上，驚慌抓頭，腦中浮現鞋子踩上墊子的畫面；同伴在旁指著他發笑。",
+  "issues": [
+    "meaning: 只能看出踩到黏墊而受困，回憶沒有畫他親手設陷阱，不能確認是自己訂出的做法害了自己，也可能是遭他人惡作劇。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "只能看出踩到黏墊而受困，回憶沒有畫他親手設陷阱，不能確認是自己訂出的做法害了自己，也可能是遭他人惡作劇。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「門口男孩抬腳時發現鞋底被黏在墊子上，驚慌抓頭，腦中浮現鞋子踩上墊子的畫面；同伴在旁指著他發笑。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "抓頭手貼髮際，另一臂在身後自然遮擋；同伴指向手與收拳手順腕，抬腳仍有另一腳承重。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "黏膠牽絲連鞋底與墊面，門框及花盆有承托，鞋與地面方向合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "門鎖是實際五金結構，泡泡只有鞋與墊子，無文字、字母數字或品牌。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代住宅入口、背書包的便服學童與盆栽街景，台灣居家環境可成立。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領與頸部，未見紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crops for 29 board and 45 feet",
+    "comparison": "110 published candidates actually viewed in five sheets; also full 751 WebP. Near-duplicate failures: 41 vs 19 and 44 vs 751.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻自作自受。",
+    "syn": "自作自受、作繭自縛、玩火自焚、咎由自取",
+    "ant": ""
+  }
+}

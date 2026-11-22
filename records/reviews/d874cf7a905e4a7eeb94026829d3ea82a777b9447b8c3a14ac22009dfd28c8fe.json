@@ -1,0 +1,68 @@
+{
+  "no": 26,
+  "kind": "existing",
+  "word": "望梅止渴",
+  "path": "/workspace/chengyu-preservation/originals/b716b4a4a460464717df36026e15d878d771f842f60f80263a55006229d21592.png",
+  "original_sha256": "b716b4a4a460464717df36026e15d878d771f842f60f80263a55006229d21592",
+  "webp_src": "img/idioms/26.webp",
+  "webp_sha256": "d63ecd903ffc4ebfc60c5e3dd0542d3cb76f093111435c48051b14044a994aea",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-02-20261122",
+  "alt": "幾名旅人手持空葫蘆走在乾燥山路上，領頭男子指向遠方，大家想到枝頭飽滿的青色果實，神情稍有振奮。",
+  "issues": [
+    "taiwan_context: 交領長袍、束髮與古代行旅裝扮明確，沒有台灣現代情境。",
+    "no_red_neckerchief: 領頭男子有赭紅長布自頸旁繞向胸前及背部，無法確定只是披風而非紅色圍巾，依拿不準即不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "空葫蘆、乾燥道路與想像酸果的泡泡連接，表現用想像安慰目前缺水的自己；不是已經得到食物。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「幾名旅人手持空葫蘆走在乾燥山路上，領頭男子指向遠方，大家想到枝頭飽滿的青色果實，神情稍有振奮。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "指向手食指伸出、其餘手指收攏，持葫蘆手指順瓶頸握持；摀額手貼前額，肩臂連接自然，腳部在畫框外不臆測。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "葫蘆頸部由手握住，背袋貼背；泡泡枝果是想像而非實體漂浮物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "果實與葫蘆素面，腰帶只有扣環，無文字、字母、數字或品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "交領長袍、束髮與古代行旅裝扮明確，沒有台灣現代情境。"
+    },
+    "no_red_neckerchief": {
+      "passed": false,
+      "evidence": "領頭男子有赭紅長布自頸旁繞向胸前及背部，無法確定只是披風而非紅色圍巾，依拿不準即不通過。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crops for 29 board and 45 feet",
+    "comparison": "110 published candidates actually viewed in five sheets; also full 751 WebP. Near-duplicate failures: 41 vs 19 and 44 vs 751.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻以空想來安慰自己。",
+    "syn": "畫餅充飢",
+    "ant": ""
+  }
+}

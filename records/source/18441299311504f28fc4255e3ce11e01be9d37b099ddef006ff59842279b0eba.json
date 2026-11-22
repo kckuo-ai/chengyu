@@ -1,0 +1,403 @@
+[
+  {
+    "no": 26,
+    "word": "望梅止渴",
+    "actions": [
+      "review_record_missing",
+      "prompt_record_missing"
+    ],
+    "src": "img/idioms/26.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/b716b4a4a460464717df36026e15d878d771f842f60f80263a55006229d21592.png",
+    "original_sha256": "b716b4a4a460464717df36026e15d878d771f842f60f80263a55006229d21592",
+    "meaning": "比喻以空想來安慰自己。",
+    "syn": "畫餅充飢",
+    "ant": "",
+    "alt": "幾名旅人手持空葫蘆走在乾燥山路上，領頭男子指向遠方，大家想到枝頭飽滿的青色果實，神情稍有振奮。",
+    "passed": false,
+    "failed_checks": [
+      "taiwan_context",
+      "no_red_neckerchief"
+    ],
+    "review": "26.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 27,
+    "word": "司空見慣",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/27.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/ff2c0938afc0cb874aa993ea5d266f6269f713ff50b5e63f1cd66e6404d9a6ce.png",
+    "original_sha256": "ff2c0938afc0cb874aa993ea5d266f6269f713ff50b5e63f1cd66e6404d9a6ce",
+    "meaning": "比喻經常看到，不足為奇。",
+    "syn": "不足為奇、習以為常、屢見不鮮",
+    "ant": "少見多怪、見所未見",
+    "alt": "噴泉旁，一家人驚喜拍照並指著水花；另一側居民繼續掃地、遛狗和讀書，對身邊熟悉的景物沒有特別反應。",
+    "passed": false,
+    "failed_checks": [
+      "text_brand_watermark",
+      "taiwan_context"
+    ],
+    "review": "27.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 28,
+    "word": "南轅北轍",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/28.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/b24cbf2151ec0a61d8da820015ec1ba1b0ad7a9ac340dc76c67db5f1004c9213.png",
+    "original_sha256": "b24cbf2151ec0a61d8da820015ec1ba1b0ad7a9ac340dc76c67db5f1004c9213",
+    "meaning": "比喻行動和想要達到的目的相反。 ＆比喻二者彼此背道而馳。＆比喻遙隔兩地。",
+    "syn": "背道而馳",
+    "ant": "",
+    "alt": "男孩騎著腳踏車朝山路前進，腦中想著海邊燈塔；路旁圖像指標卻指向另一條通往燈塔的岔路，方向完全相反。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "28.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 29,
+    "word": "夜郎自大",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/29.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/cb0228cdf0ffc891cad5057c72860bb6d4e1bcfac5aed0fb1babd67d19a631ea.png",
+    "original_sha256": "cb0228cdf0ffc891cad5057c72860bb6d4e1bcfac5aed0fb1babd67d19a631ea",
+    "meaning": "比喻人見識短淺，狂妄自大。貶義。",
+    "syn": "妄自尊大、自高自大、崖岸自高",
+    "ant": "妄自菲薄、自輕自賤、虛懷若谷",
+    "alt": "男孩戴著紙王冠，在小棋盤前得意插腰，幻想自己站上地球頂端；隔壁房間許多棋手仍在專心研究更複雜的對局。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "29.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 30,
+    "word": "信口雌黃",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/30.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/1ccbe7f27dd5df87daa1bac1063c309a91676aa044d4bd1df95449e753020ad8.png",
+    "original_sha256": "1ccbe7f27dd5df87daa1bac1063c309a91676aa044d4bd1df95449e753020ad8",
+    "meaning": "比喻不顧事實真相，隨口亂說或妄加批評。",
+    "syn": "口不擇言、信口開河",
+    "ant": "言之有物、言必有據、信而有徵",
+    "alt": "陶藝展場裡，女子抱著完好的花瓶，男子卻指著她高聲評論，話語泡泡出現同款花瓶破裂的樣子，與眼前事實不同。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "30.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 31,
+    "word": "狼狽為奸",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/31.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/2eb24a69961f04c477e6a19a8147bbec6d2d2232d4b6d8fccb900decb5ca2bfd.png",
+    "original_sha256": "2eb24a69961f04c477e6a19a8147bbec6d2d2232d4b6d8fccb900decb5ca2bfd",
+    "meaning": "比喻互相勾結做壞事。貶義。",
+    "syn": "同流合汙、朋比為奸",
+    "ant": "",
+    "alt": "雜貨店裡，女子趁店主背身整理貨架，把商品藏進提袋，並與站在門口張望的男子交換眼色，兩人暗中配合。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "31.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 32,
+    "word": "狐假虎威",
+    "actions": [
+      "review_record_missing",
+      "prompt_record_missing"
+    ],
+    "src": "img/idioms/32.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/7daac63b0e034cc5a11147fbb4008fbd867354f8e6325aa5188dee5b827af2c3.png",
+    "original_sha256": "7daac63b0e034cc5a11147fbb4008fbd867354f8e6325aa5188dee5b827af2c3",
+    "meaning": "比喻藉著有權者的威勢欺壓他人、作威作福。",
+    "syn": "仗勢欺人、狐假鴟張、鼠憑社貴、驢蒙虎皮",
+    "ant": "",
+    "alt": "山林小徑上，狐狸昂首得意走在老虎前方，鹿和兔子回頭驚慌逃走；後方老虎體形巨大，神情威嚴，緊跟著前進。",
+    "passed": false,
+    "failed_checks": [
+      "taiwan_context"
+    ],
+    "review": "32.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 33,
+    "word": "作法自斃",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/33.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/d5d1c5d259d3ee1b9f6c17c9bb7af38121be9fab157790d7a469243a43d10900.png",
+    "original_sha256": "d5d1c5d259d3ee1b9f6c17c9bb7af38121be9fab157790d7a469243a43d10900",
+    "meaning": "比喻自作自受。",
+    "syn": "自作自受、作繭自縛、玩火自焚、咎由自取",
+    "ant": "",
+    "alt": "門口男孩抬腳時發現鞋底被黏在墊子上，驚慌抓頭，腦中浮現鞋子踩上墊子的畫面；同伴在旁指著他發笑。",
+    "passed": false,
+    "failed_checks": [
+      "meaning"
+    ],
+    "review": "33.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 34,
+    "word": "為虎作倀",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/34.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/fead758fea41bc3433664a0e9679409aaae47307f0a2c76d42ccb2bcb2fed641.png",
+    "original_sha256": "fead758fea41bc3433664a0e9679409aaae47307f0a2c76d42ccb2bcb2fed641",
+    "meaning": "比喻幫惡人做壞事。貶義。",
+    "syn": "助紂為虐、助桀為虐、為虎傅翼",
+    "ant": "為民除害",
+    "alt": "畫室裡，一名男子故意用黑筆塗壞花卉畫，戴眼鏡的同伴幫忙按住畫紙，作者伸掌制止，焦急地看著作品被破壞。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "34.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 35,
+    "word": "如火如荼",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/35.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/ad2cb0b954028dd46e79d8a3cc9f1a6670028238d2a074cdddb92f964600bc0a.png",
+    "original_sha256": "ad2cb0b954028dd46e79d8a3cc9f1a6670028238d2a074cdddb92f964600bc0a",
+    "meaning": "形容事物的興盛或氣氛的熱烈。",
+    "syn": "",
+    "ant": "",
+    "alt": "校園市集裡，孩子在舞台上熱情跳舞，台下家長拍手欣賞，攤位有人選購花草與手作品，到處都是忙碌歡樂的活動。",
+    "passed": false,
+    "failed_checks": [
+      "hands_feet_pose"
+    ],
+    "review": "35.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 36,
+    "word": "老馬識途",
+    "actions": [
+      "review_record_missing",
+      "prompt_record_missing",
+      "alt_contains_idiom_bigram"
+    ],
+    "src": "img/idioms/36.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/776ed2ed4f0556465fc98a96a2b69c418c826c6a17ae466a566bd85ae6ac4506.png",
+    "original_sha256": "776ed2ed4f0556465fc98a96a2b69c418c826c6a17ae466a566bd85ae6ac4506",
+    "meaning": "比喻有經驗的人對情況比較熟悉，容易把工作做好。褒義。",
+    "syn": "熟門熟路",
+    "ant": "暗中摸索",
+    "alt": "山路上，一匹灰白鬃毛的馬領著三名旅人走向明亮村落，左側另有陰暗崎嶇的小路，眾人跟隨牠順利往前。",
+    "passed": false,
+    "failed_checks": [
+      "meaning",
+      "taiwan_context"
+    ],
+    "review": "36.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 37,
+    "word": "杞人憂天",
+    "actions": [
+      "review_record_missing",
+      "prompt_record_missing"
+    ],
+    "src": "img/idioms/37.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/117241ddcb607b7af396f65a1eebceb3118827e7dccd19f0a330e76c3db8785c.png",
+    "original_sha256": "117241ddcb607b7af396f65a1eebceb3118827e7dccd19f0a330e76c3db8785c",
+    "meaning": "比喻缺乏根據且不必要的憂慮。",
+    "syn": "庸人自擾、鰓鰓過慮",
+    "ant": "不憂不懼、無憂無慮",
+    "alt": "男子縮在木桌下抱頭，想像藍天裂開並落下石塊；外面天空晴朗，行人和孩子自在走過，小貓也在旁邊安心休息。",
+    "passed": false,
+    "failed_checks": [
+      "hands_feet_pose",
+      "taiwan_context"
+    ],
+    "review": "37.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 39,
+    "word": "守株待兔",
+    "actions": [
+      "review_record_missing",
+      "prompt_record_missing"
+    ],
+    "src": "img/idioms/39.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/84c2ad86d160a47cbcd3174d54adc4a8b5c581a5477d672a50c1535246da623b.png",
+    "original_sha256": "84c2ad86d160a47cbcd3174d54adc4a8b5c581a5477d672a50c1535246da623b",
+    "meaning": "比喻拘泥守成，不知變通。貶義。＆比喻妄想不勞而獲。貶義。＆等著目標自己送上門來。",
+    "syn": "刻舟求劍、食古不化、墨守成規、膠柱鼓瑟、不勞而獲、坐享其成",
+    "ant": "見風使舵、見機行事、通權達變、隨機應變",
+    "alt": "農夫把鋤頭丟在荒田旁，蹲坐樹樁邊托腮等待，空籃放在身邊；他想像兔子又會自己跑來，田地卻長滿雜草。",
+    "passed": false,
+    "failed_checks": [
+      "taiwan_context"
+    ],
+    "review": "39.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 40,
+    "word": "不學無術",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/40.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/a1928571a2fee7bde95a9b28dabe8b5bfb8106dc368f7686080f7aadc832ec60.png",
+    "original_sha256": "a1928571a2fee7bde95a9b28dabe8b5bfb8106dc368f7686080f7aadc832ec60",
+    "meaning": "人未經學習而沒有學問才幹。貶義。",
+    "syn": "一無所長、才疏學淺、胸無點墨、庸庸碌碌",
+    "ant": "多才多藝、真才實學、博學多才、滿腹經綸、學富五車",
+    "alt": "男孩拿著遊戲機困惑攤手，桌上木凳模型歪倒，旁邊有組裝圖與散落零件；一旁堆著合上的書，牆上貼著照片。",
+    "passed": false,
+    "failed_checks": [
+      "meaning",
+      "text_brand_watermark"
+    ],
+    "review": "40.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 41,
+    "word": "四面楚歌",
+    "actions": [
+      "review_record_missing",
+      "alt_contains_idiom_bigram"
+    ],
+    "src": "img/idioms/41.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/92a240859f6acb0c3c3f5e665cda9578437333e45745c9fbfadcf2c17846c241.png",
+    "original_sha256": "92a240859f6acb0c3c3f5e665cda9578437333e45745c9fbfadcf2c17846c241",
+    "meaning": "比喻四面受敵，孤立無援。",
+    "syn": "八方受敵、四面受敵、腹背受敵",
+    "ant": "",
+    "alt": "男孩抓頭望著棋盤，孤零零的白色國王被黑棋包圍，多數白棋倒在桌邊；旁邊三位同學也托腮，神情十分擔心。",
+    "passed": false,
+    "failed_checks": [
+      "meaning"
+    ],
+    "review": "41.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 42,
+    "word": "奇貨可居",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/42.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/d679c2dd4a8068d9948390cb8d66ec4edfd6db86d6db73c88cfc64d2b7607e05.png",
+    "original_sha256": "d679c2dd4a8068d9948390cb8d66ec4edfd6db86d6db73c88cfc64d2b7607e05",
+    "meaning": "比喻利用某種專長或有價值的東西以謀利。",
+    "syn": "囤積居奇、操奇計贏",
+    "ant": "",
+    "alt": "陶器店主守著玻璃櫃中的精巧鳥形作品，向拿錢包的顧客伸掌婉拒，腦中想著成堆金幣，似乎還在等待更高出價。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "42.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 43,
+    "word": "刻舟求劍",
+    "actions": [
+      "review_record_missing",
+      "prompt_record_missing"
+    ],
+    "src": "img/idioms/43.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/6b2144ddd6450eec562542161ef0b8cec96d81a4bcb63bfcf934d3889f73497d.png",
+    "original_sha256": "6b2144ddd6450eec562542161ef0b8cec96d81a4bcb63bfcf934d3889f73497d",
+    "meaning": "比喻拘泥固執，不知變通。貶義。",
+    "syn": "守株待兔、食古不化、膠柱鼓瑟",
+    "ant": "因時制宜、見機行事、見風使舵、通權達變、隨機應變",
+    "alt": "男子坐在前進的木船中，低頭用小刀在船邊留下缺口，水底遠處躺著掉落的長劍，船已逐漸離開原來的位置。",
+    "passed": false,
+    "failed_checks": [
+      "meaning",
+      "taiwan_context"
+    ],
+    "review": "43.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 44,
+    "word": "走馬看花",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/44.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/782129ba09641be32065ffc1b0cd6fc595aad5a9fd013fa27513bda37ab664ed.png",
+    "original_sha256": "782129ba09641be32065ffc1b0cd6fc595aad5a9fd013fa27513bda37ab664ed",
+    "meaning": "比喻粗略、匆促地觀看，不能仔細深入。",
+    "syn": "浮光掠影、蜻蜓點水",
+    "ant": "觀察入微",
+    "alt": "女孩快步穿過植物展場，只舉手機拍照，沒有停下研究展品；後方男孩蹲在花朵旁細看，桌上另有放大鏡與葉片圖解。",
+    "passed": false,
+    "failed_checks": [
+      "text_brand_watermark",
+      "meaning"
+    ],
+    "review": "44.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 45,
+    "word": "後來居上",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/45.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/9029906b27fe0460d2be760f478600a10099191701d423778f642eafd2d743a6.png",
+    "original_sha256": "9029906b27fe0460d2be760f478600a10099191701d423778f642eafd2d743a6",
+    "meaning": "形容後來的人或事物超越原領先者。褒義。",
+    "syn": "青出於藍、後發先至",
+    "ant": "",
+    "alt": "綠衣女孩原先落在兩名男孩後面，之後加速衝到最前方，舉起雙手越過終點紅帶，兩位原本領先的男孩驚訝望著她。",
+    "passed": false,
+    "failed_checks": [
+      "hands_feet_pose"
+    ],
+    "review": "45.review.json",
+    "retained_installed_webp": true
+  },
+  {
+    "no": 46,
+    "word": "負荊請罪",
+    "actions": [
+      "review_record_missing"
+    ],
+    "src": "img/idioms/46.webp",
+    "original_path": "/workspace/chengyu-preservation/originals/bcccaad3160693d8898344ad2f5f869fc7b8837329eaa711f34f7b18168c9e4c.png",
+    "original_sha256": "bcccaad3160693d8898344ad2f5f869fc7b8837329eaa711f34f7b18168c9e4c",
+    "meaning": "背著荊條，前往對方居所自請責罰。 ＆比喻主動向對方承認錯誤，請求責罰和原諒。",
+    "syn": "肉袒牽羊",
+    "ant": "",
+    "alt": "男孩低頭帶來修補材料，向女孩承認自己弄壞了紙屋；上方回憶畫出碰倒模型的經過，桌上還留著損壞的作品。",
+    "passed": true,
+    "failed_checks": [],
+    "review": "46.review.json",
+    "retained_installed_webp": true
+  }
+]

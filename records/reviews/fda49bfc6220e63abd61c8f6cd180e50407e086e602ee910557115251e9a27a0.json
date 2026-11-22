@@ -1,0 +1,68 @@
+{
+  "no": 43,
+  "kind": "existing",
+  "word": "刻舟求劍",
+  "path": "/workspace/chengyu-preservation/originals/6b2144ddd6450eec562542161ef0b8cec96d81a4bcb63bfcf934d3889f73497d.png",
+  "original_sha256": "6b2144ddd6450eec562542161ef0b8cec96d81a4bcb63bfcf934d3889f73497d",
+  "webp_src": "img/idioms/43.webp",
+  "webp_sha256": "d48a593031fab27a6fccc84e145450bda032d9b7c98bd2b07da8f5243ba21d67",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-02-20261122",
+  "alt": "男子坐在前進的木船中，低頭用小刀在船邊留下缺口，水底遠處躺著掉落的長劍，船已逐漸離開原來的位置。",
+  "issues": [
+    "meaning: 只見刻船和沉劍，沒有後來仍堅持按船上記號搜尋的行動；未交代記號與找劍的關係，可能看成另做船邊加工，典故片段不足以獨立表現不知變通。",
+    "taiwan_context: 束髮交領長袍、古代木船與傳統村落，沒有台灣現代生活設定。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "只見刻船和沉劍，沒有後來仍堅持按船上記號搜尋的行動；未交代記號與找劍的關係，可能看成另做船邊加工，典故片段不足以獨立表現不知變通。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「男子坐在前進的木船中，低頭用小刀在船邊留下缺口，水底遠處躺著掉落的長劍，船已逐漸離開原來的位置。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "握刀手的收指與扶船手接腕自然，身體坐在船內支撐，未見額外肢體，腳部由船舷遮擋。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "刀刃接木頭缺口，船浮在水面且有波紋，劍落水底岩石旁；船內物件有底板支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "船邊缺口是物理切口而非 V 字，劍柄僅五金紋理，無文字數字或品牌。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "束髮交領長袍、古代木船與傳統村落，沒有台灣現代生活設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領與頸部，未見紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crops for 29 board and 45 feet",
+    "comparison": "110 published candidates actually viewed in five sheets; also full 751 WebP. Near-duplicate failures: 41 vs 19 and 44 vs 751.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻拘泥固執，不知變通。貶義。",
+    "syn": "守株待兔、食古不化、膠柱鼓瑟",
+    "ant": "因時制宜、見機行事、見風使舵、通權達變、隨機應變"
+  }
+}

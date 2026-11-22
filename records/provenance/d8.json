@@ -20803,5 +20803,13 @@
       "path": "backup/batches/2026-11-06-710-730/reviews/766.review.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "d874cf7a905e4a7eeb94026829d3ea82a777b9447b8c3a14ac22009dfd28c8fe": [
+    {
+      "kind": "independent_re_review",
+      "batch": "re-review-02-20261122",
+      "source_file": "26.review.json",
+      "reviewer": "independent-visual-review-2026-11-22"
+    }
   ]
 }

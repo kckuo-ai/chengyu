@@ -1,0 +1,65 @@
+{
+  "no": 29,
+  "kind": "existing",
+  "word": "夜郎自大",
+  "path": "/workspace/chengyu-preservation/originals/cb0228cdf0ffc891cad5057c72860bb6d4e1bcfac5aed0fb1babd67d19a631ea.png",
+  "original_sha256": "cb0228cdf0ffc891cad5057c72860bb6d4e1bcfac5aed0fb1babd67d19a631ea",
+  "webp_src": "img/idioms/29.webp",
+  "webp_sha256": "b2d2aaa5345d921499a5eb31a70c001ef37445a8b6820144ed7eab1dbcbd3f0f",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-02-20261122",
+  "alt": "男孩戴著紙王冠，在小棋盤前得意插腰，幻想自己站上地球頂端；隔壁房間許多棋手仍在專心研究更複雜的對局。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "只在小棋局得意便幻想稱霸世界，卻未注意旁邊高手，呈現見識有限而自大，不是虛懷若谷。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「男孩戴著紙王冠，在小棋盤前得意插腰，幻想自己站上地球頂端；隔壁房間許多棋手仍在專心研究更複雜的對局。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "插腰手為收攏拳形，女孩托腮手被臉頰自然遮擋；後方棋手握棋、托腮手接前臂，坐站與椅面及地面相接。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "棋盤平放桌面、棋子底座接盤，桌椅腳著地；另裁原尺寸棋盤細查，未把少量練習棋子直接判為錯誤。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "書脊素面、王冠只有摺線，棋子無字母數字；王冠尖角與棋形不是文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代棋藝活動室、便服國小男孩與同伴及成人棋手，台灣社區教室可成立。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領與頸部，未見紅領巾或紅圍巾。 泡泡的紅布是有肩部覆蓋、向背後展開的披風，不是頸前紅領巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crops for 29 board and 45 feet",
+    "comparison": "110 published candidates actually viewed in five sheets; also full 751 WebP. Near-duplicate failures: 41 vs 19 and 44 vs 751.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻人見識短淺，狂妄自大。貶義。",
+    "syn": "妄自尊大、自高自大、崖岸自高",
+    "ant": "妄自菲薄、自輕自賤、虛懷若谷"
+  }
+}

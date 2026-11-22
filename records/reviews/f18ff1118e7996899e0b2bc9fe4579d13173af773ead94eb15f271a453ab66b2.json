@@ -1,0 +1,68 @@
+{
+  "no": 37,
+  "kind": "existing",
+  "word": "杞人憂天",
+  "path": "/workspace/chengyu-preservation/originals/117241ddcb607b7af396f65a1eebceb3118827e7dccd19f0a330e76c3db8785c.png",
+  "original_sha256": "117241ddcb607b7af396f65a1eebceb3118827e7dccd19f0a330e76c3db8785c",
+  "webp_src": "img/idioms/37.webp",
+  "webp_sha256": "e62809aa57d12f491232ff52f695b43078c380f87d509cc6c9c23975d1cea466",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-02-20261122",
+  "alt": "男子縮在木桌下抱頭，想像藍天裂開並落下石塊；外面天空晴朗，行人和孩子自在走過，小貓也在旁邊安心休息。",
+  "issues": [
+    "hands_feet_pose: 前景雙手抱頭、蹲坐姿合理；但後方提籃女子垂下的手與跑動孩子張掌以少量黏連線條表示，原尺寸不能確定五指。",
+    "taiwan_context: 古代束髮長袍、布鞋與村落，沒有台灣現代人物、服裝及場景。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "晴空與自在行人對照想像的天塌危險，沒有實際威脅卻害怕，清楚表現不必要的憂慮。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「男子縮在木桌下抱頭，想像藍天裂開並落下石塊；外面天空晴朗，行人和孩子自在走過，小貓也在旁邊安心休息。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "前景雙手抱頭、蹲坐姿合理；但後方提籃女子垂下的手與跑動孩子張掌以少量黏連線條表示，原尺寸不能確定五指。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "桌面有四角立柱支撐，人縮在桌下，籃由手提、手杖著地，貓趴地休息。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "天空裂紋與落石是想像中的具體景象，非字形；場景無文字數字或商標。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "古代束髮長袍、布鞋與村落，沒有台灣現代人物、服裝及場景。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領與頸部，未見紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crops for 29 board and 45 feet",
+    "comparison": "110 published candidates actually viewed in five sheets; also full 751 WebP. Near-duplicate failures: 41 vs 19 and 44 vs 751.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻缺乏根據且不必要的憂慮。",
+    "syn": "庸人自擾、鰓鰓過慮",
+    "ant": "不憂不懼、無憂無慮"
+  }
+}

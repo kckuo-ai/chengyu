@@ -4,8 +4,8 @@
   "webp": "img/idioms/36.webp",
   "original_sha256": "776ed2ed4f0556465fc98a96a2b69c418c826c6a17ae466a566bd85ae6ac4506",
   "original": "originals/776ed2ed4f0556465fc98a96a2b69c418c826c6a17ae466a566bd85ae6ac4506.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/12ac5176d9bdfb63417ec20b1b2ba537a5823ae8dc2d3ce361f666b808c5a82b.json",
+  "review_status": "failed_independent_visual_review_retained_pending_replacement",
   "current_prompt_path": null
 }

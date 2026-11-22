@@ -1,7 +1,7 @@
 {
   "original_count": 1467,
   "original_bytes": 5055569784,
-  "record_count": 4866,
+  "record_count": 4896,
   "scanned_git_blobs": {
     "json": 1160,
     "zip": 20,
@@ -2222,8 +2222,8 @@
       "review_status": "record_preserved_requires_future_review"
     }
   ],
-  "website_reviews_present": 930,
-  "historical_review_missing": 536,
+  "website_reviews_present": 950,
+  "historical_review_missing": 516,
   "archive_directory": "/workspace/chengyu-preservation",
   "remote_heads": {
     "refs/remotes/origin/backup-2026-11-12-938-988": "184cab5208d560783e7cc2a6ac03f0ea6e55a995",
@@ -2288,26 +2288,6 @@
     "refs/remotes/origin/main": "cb71c943ce49d2b54689619fde1a04a5072941bf"
   },
   "missing_historical_review_ids": [
-    26,
-    27,
-    28,
-    29,
-    30,
-    31,
-    32,
-    33,
-    34,
-    35,
-    36,
-    37,
-    39,
-    40,
-    41,
-    42,
-    43,
-    44,
-    45,
-    46,
     47,
     49,
     50,
@@ -2825,5 +2805,5 @@
     1305,
     1450
   ],
-  "note": "All available originals and records are preserved. Missing original hashes and missing historical reviews remain explicit; no visual approval was fabricated. Re-review 01 adds 20 actual visual reviews (9 passed, 11 failed); failed installed images are retained pending replacements."
+  "note": "All available originals and records are preserved. Missing original hashes and missing historical reviews remain explicit; no visual approval was fabricated. Re-review 01 adds 20 actual visual reviews (9 passed, 11 failed); failed installed images are retained pending replacements. Re-review 02 adds 20 actual visual reviews (7 passed, 13 failed); all installed website assets remain unchanged."
 }

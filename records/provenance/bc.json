@@ -13347,5 +13347,13 @@
       "path": "backup/manifest.json",
       "commit": "55b3496c1e47d6df34119824a25b1af1f828795c"
     }
+  ],
+  "bcd8f956ab67274878168fd492e71fe318a40b28213d4f8e1345bf5448eb10b5": [
+    {
+      "kind": "independent_re_review",
+      "batch": "re-review-02-20261122",
+      "source_file": "32.review.json",
+      "reviewer": "independent-visual-review-2026-11-22"
+    }
   ]
 }

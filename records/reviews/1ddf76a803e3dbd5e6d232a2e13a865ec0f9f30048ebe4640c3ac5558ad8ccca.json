@@ -1,0 +1,65 @@
+{
+  "no": 34,
+  "kind": "existing",
+  "word": "為虎作倀",
+  "path": "/workspace/chengyu-preservation/originals/fead758fea41bc3433664a0e9679409aaae47307f0a2c76d42ccb2bcb2fed641.png",
+  "original_sha256": "fead758fea41bc3433664a0e9679409aaae47307f0a2c76d42ccb2bcb2fed641",
+  "webp_src": "img/idioms/34.webp",
+  "webp_sha256": "83fb3b712664c773495aec0c069400bfa7ea738b4f51eb49a5f6289628d82776",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-02-20261122",
+  "alt": "畫室裡，一名男子故意用黑筆塗壞花卉畫，戴眼鏡的同伴幫忙按住畫紙，作者伸掌制止，焦急地看著作品被破壞。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "主動塗壞別人作品的人與明知故犯仍壓紙協助的人角色分明，呈現幫惡人做壞事，並非協助修畫。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「畫室裡，一名男子故意用黑筆塗壞花卉畫，戴眼鏡的同伴幫忙按住畫紙，作者伸掌制止，焦急地看著作品被破壞。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女子制止的張掌五指清楚，持筆手收指握筆；協助者兩掌按紙、拇指部分藏於掌側，肩臂連接自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "筆尖接觸紙上黑痕，畫紙受雙掌壓在桌面，筆筒、調色盤與桌椅有支撐；石膏頭是教具。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "黑痕是破壞畫面的密集亂塗，不是獨立文字；色環與畫作無文字數字品牌。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代畫室與便服青年成人，符合台灣藝術教室；不是將這些成人判成比例錯誤的國小生。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領與頸部，未見紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crops for 29 board and 45 feet",
+    "comparison": "110 published candidates actually viewed in five sheets; also full 751 WebP. Near-duplicate failures: 41 vs 19 and 44 vs 751.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻幫惡人做壞事。貶義。",
+    "syn": "助紂為虐、助桀為虐、為虎傅翼",
+    "ant": "為民除害"
+  }
+}

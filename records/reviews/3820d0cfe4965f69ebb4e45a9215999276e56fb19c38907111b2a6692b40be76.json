@@ -1,0 +1,65 @@
+{
+  "no": 28,
+  "kind": "existing",
+  "word": "南轅北轍",
+  "path": "/workspace/chengyu-preservation/originals/b24cbf2151ec0a61d8da820015ec1ba1b0ad7a9ac340dc76c67db5f1004c9213.png",
+  "original_sha256": "b24cbf2151ec0a61d8da820015ec1ba1b0ad7a9ac340dc76c67db5f1004c9213",
+  "webp_src": "img/idioms/28.webp",
+  "webp_sha256": "2ba166c2720385897454da481735b86c87e59ec02a14fba48269c83f4593c94c",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-02-20261122",
+  "alt": "男孩騎著腳踏車朝山路前進，腦中想著海邊燈塔；路旁圖像指標卻指向另一條通往燈塔的岔路，方向完全相反。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "想去燈塔的泡泡、指向右方的路牌與向左騎行相反，目的與實際行動衝突清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「男孩騎著腳踏車朝山路前進，腦中想著海邊燈塔；路旁圖像指標卻指向另一條通往燈塔的岔路，方向完全相反。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "雙手握車把、指尖被把手合理遮擋，手臂接肩；一腳踩踏板，另一腿在車身後，騎姿有座墊承托。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "車輪接觸土路，車架、踏板與後輪鏈條方向相連，路牌立柱固定地面。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "路牌僅完整燈塔圖像與箭頭，無文字題號、字母、品牌或水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "戴安全帽、背書包的國小學童在現代海岸自行車步道，場景可作台灣海岸公園。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領與頸部，未見紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crops for 29 board and 45 feet",
+    "comparison": "110 published candidates actually viewed in five sheets; also full 751 WebP. Near-duplicate failures: 41 vs 19 and 44 vs 751.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻行動和想要達到的目的相反。 ＆比喻二者彼此背道而馳。＆比喻遙隔兩地。",
+    "syn": "背道而馳",
+    "ant": ""
+  }
+}

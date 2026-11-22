@@ -9936,5 +9936,13 @@
       "path": "backup/batches/2026-11-07-750-770/manifest.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "32c6a357b3f4812d2a22be4d3451a4d13adb26c374f89aa6371583d34ea174c1": [
+    {
+      "kind": "independent_re_review",
+      "batch": "re-review-02-20261122",
+      "source_file": "30.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-22"
+    }
   ]
 }

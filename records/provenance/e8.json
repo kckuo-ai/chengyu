@@ -12840,5 +12840,21 @@
       "path": "backup/verified-originals/2026-11-06/manifest.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "e850db3d6a69f10edb23e3ad8f6da986eec646c9051c352aade5ed3bd3ac3ef6": [
+    {
+      "kind": "independent_re_review",
+      "batch": "re-review-02-20261122",
+      "source_file": "31.review.json",
+      "reviewer": "independent-visual-review-2026-11-22"
+    }
+  ],
+  "e8e8baf4bf1591cd8c233a34018a5b85fe345e88aa29bad758cfc08eb00ca7cc": [
+    {
+      "kind": "independent_re_review",
+      "batch": "re-review-02-20261122",
+      "source_file": "redraw-proposals.json",
+      "reviewer": "independent-visual-review-2026-11-22"
+    }
   ]
 }

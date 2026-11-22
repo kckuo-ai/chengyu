@@ -1,0 +1,67 @@
+{
+  "no": 39,
+  "kind": "existing",
+  "word": "守株待兔",
+  "path": "/workspace/chengyu-preservation/originals/84c2ad86d160a47cbcd3174d54adc4a8b5c581a5477d672a50c1535246da623b.png",
+  "original_sha256": "84c2ad86d160a47cbcd3174d54adc4a8b5c581a5477d672a50c1535246da623b",
+  "webp_src": "img/idioms/39.webp",
+  "webp_sha256": "40a3f7c8d084f1983460e283c82793c58b383edd81ea2940751441db88020818",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-02-20261122",
+  "alt": "農夫把鋤頭丟在荒田旁，蹲坐樹樁邊托腮等待，空籃放在身邊；他想像兔子又會自己跑來，田地卻長滿雜草。",
+  "issues": [
+    "taiwan_context: 束髮農夫穿交領古裝與編織草鞋，缺少台灣現代農作情境。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "放下農具任雜草生長，只幻想兔子送上門、空籃仍空，明確表現妄想不勞而獲，非勤勉耕作。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「農夫把鋤頭丟在荒田旁，蹲坐樹樁邊托腮等待，空籃放在身邊；他想像兔子又會自己跑來，田地卻長滿雜草。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "雙手托腮為自然彎指遮擋，兩臂接肩、肘靠膝；蹲姿與草鞋接地合理，兔子的四足屬泡泡動物。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "鋤頭木柄接金屬刃，空籃放地面，樹樁與農夫均接土面，無無支撐道具。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "竹籃、農具及泡泡只有具體物件，沒有字母數字文字或水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "束髮農夫穿交領古裝與編織草鞋，缺少台灣現代農作情境。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領與頸部，未見紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crops for 29 board and 45 feet",
+    "comparison": "110 published candidates actually viewed in five sheets; also full 751 WebP. Near-duplicate failures: 41 vs 19 and 44 vs 751.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻拘泥守成，不知變通。貶義。＆比喻妄想不勞而獲。貶義。＆等著目標自己送上門來。",
+    "syn": "刻舟求劍、食古不化、墨守成規、膠柱鼓瑟、不勞而獲、坐享其成",
+    "ant": "見風使舵、見機行事、通權達變、隨機應變"
+  }
+}

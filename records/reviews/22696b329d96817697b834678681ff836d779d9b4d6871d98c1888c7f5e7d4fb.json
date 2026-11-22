@@ -1,0 +1,65 @@
+{
+  "no": 42,
+  "kind": "existing",
+  "word": "奇貨可居",
+  "path": "/workspace/chengyu-preservation/originals/d679c2dd4a8068d9948390cb8d66ec4edfd6db86d6db73c88cfc64d2b7607e05.png",
+  "original_sha256": "d679c2dd4a8068d9948390cb8d66ec4edfd6db86d6db73c88cfc64d2b7607e05",
+  "webp_src": "img/idioms/42.webp",
+  "webp_sha256": "fb827754316a44043bb6179e983d8d57ae85b1988981ff9221fb47f853652973",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-02-20261122",
+  "alt": "陶器店主守著玻璃櫃中的精巧鳥形作品，向拿錢包的顧客伸掌婉拒，腦中想著成堆金幣，似乎還在等待更高出價。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "多名買家拿錢包爭購唯一精巧作品，店主暫不出售並想像金幣，利用有價值物件求利的意圖清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「陶器店主守著玻璃櫃中的精巧鳥形作品，向拿錢包的顧客伸掌婉拒，腦中想著成堆金幣，似乎還在等待更高出價。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "店主張掌五指清楚，另一手握櫃鎖；顧客指向手指收攏、握錢包手部分遮擋自然，肩臂連接合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "鳥形陶器有底座放在櫃內，玻璃框接木座，錢包由手握，杯碟平穩放架上。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "金幣表面空白，陶器只有花葉鳥紋，沒有金額文字數字或品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣陶藝店與成年店主、顧客，服裝和角色合理。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領與頸部，未見紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crops for 29 board and 45 feet",
+    "comparison": "110 published candidates actually viewed in five sheets; also full 751 WebP. Near-duplicate failures: 41 vs 19 and 44 vs 751.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻利用某種專長或有價值的東西以謀利。",
+    "syn": "囤積居奇、操奇計贏",
+    "ant": ""
+  }
+}

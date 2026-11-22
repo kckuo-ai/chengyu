@@ -1,0 +1,65 @@
+{
+  "no": 30,
+  "kind": "existing",
+  "word": "信口雌黃",
+  "path": "/workspace/chengyu-preservation/originals/1ccbe7f27dd5df87daa1bac1063c309a91676aa044d4bd1df95449e753020ad8.png",
+  "original_sha256": "1ccbe7f27dd5df87daa1bac1063c309a91676aa044d4bd1df95449e753020ad8",
+  "webp_src": "img/idioms/30.webp",
+  "webp_sha256": "804db57ee7a2a7454746a213561ffb2200b8c129234522031f406a55227fa7e0",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-02-20261122",
+  "alt": "陶藝展場裡，女子抱著完好的花瓶，男子卻指著她高聲評論，話語泡泡出現同款花瓶破裂的樣子，與眼前事實不同。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "現場花瓶完整，評論泡泡卻說成破損；同款花紋讓不顧眼前事實亂加批評的矛盾清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「陶藝展場裡，女子抱著完好的花瓶，男子卻指著她高聲評論，話語泡泡出現同款花瓶破裂的樣子，與眼前事實不同。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男子攤掌五指清楚，指向手其餘指節收攏；女子一手托底、一手扶瓶，手腕接臂自然，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "瓶底由手掌托住，展示品在台面上；泡泡破瓶為評論內容，不當作真實懸浮碎片。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "花瓶與掛畫只有花草圖案，展台無標牌字樣，無字母數字、品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代陶藝展示空間與便服成人角色，可作台灣文化展場。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領與頸部，未見紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crops for 29 board and 45 feet",
+    "comparison": "110 published candidates actually viewed in five sheets; also full 751 WebP. Near-duplicate failures: 41 vs 19 and 44 vs 751.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "比喻不顧事實真相，隨口亂說或妄加批評。",
+    "syn": "口不擇言、信口開河",
+    "ant": "言之有物、言必有據、信而有徵"
+  }
+}

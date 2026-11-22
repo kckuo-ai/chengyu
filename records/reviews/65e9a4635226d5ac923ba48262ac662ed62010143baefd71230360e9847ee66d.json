@@ -1,0 +1,65 @@
+{
+  "no": 46,
+  "kind": "existing",
+  "word": "負荊請罪",
+  "path": "/workspace/chengyu-preservation/originals/bcccaad3160693d8898344ad2f5f869fc7b8837329eaa711f34f7b18168c9e4c.png",
+  "original_sha256": "bcccaad3160693d8898344ad2f5f869fc7b8837329eaa711f34f7b18168c9e4c",
+  "webp_src": "img/idioms/46.webp",
+  "webp_sha256": "845d4ad3f35cfda44c8d933ec9ed955d2bbe6d34aa9428a0fe7655951d9ed581",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "re-review-02-20261122",
+  "alt": "男孩低頭帶來修補材料，向女孩承認自己弄壞了紙屋；上方回憶畫出碰倒模型的經過，桌上還留著損壞的作品。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "回憶顯示自己撞壞作品，現在主動低頭帶修補材料來面對作者，能讀出認錯求原諒，而非旁人強迫推責。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面主體為「男孩低頭帶來修補材料，向女孩承認自己弄壞了紙屋；上方回憶畫出碰倒模型的經過，桌上還留著損壞的作品。」中的前景動作；關鍵道具與前後／人物對照在手機寬度可辨。另檢視全圖與原尺寸六區塊，避免僅看縮圖。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "托盒一手四指從盒底露出、拇指在上側，另一手握盒角；女孩合手有合理互相遮擋，泡泡伸手五指輪廓與手臂相接。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "盒底受兩手托住，材料在盒中，破紙屋斷面與桌面接觸合理，剪刀兩柄連於轉軸。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "紙屋窗框為具體建築圖形，膠瓶素面，無可讀文字字母數字或品牌。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "實際可見鉛筆輪廓、柔和透明水彩、色鉛筆疊色顆粒及暖米白紙紋；配色為自然綠、淡藍與暖棕，不是扁平鮮豔色塊或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣可見的國小手作教室，男女學童年齡與便服、工具情境相容。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查衣領與頸部，未見紅領巾或紅圍巾。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "six 512x512 non-resized crops; additional native crops for 29 board and 45 feet",
+    "comparison": "110 published candidates actually viewed in five sheets; also full 751 WebP. Near-duplicate failures: 41 vs 19 and 44 vs 751.",
+    "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+  },
+  "meaning_reference": {
+    "meaning": "背著荊條，前往對方居所自請責罰。 ＆比喻主動向對方承認錯誤，請求責罰和原諒。",
+    "syn": "肉袒牽羊",
+    "ant": ""
+  }
+}
