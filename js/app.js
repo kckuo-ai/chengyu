@@ -501,7 +501,23 @@ function me() {
     <h2>重新開始</h2>
     <p class="hint">學習紀錄只存在這台裝置上。</p>
     <div class="actions"><button class="btn" id="reset">清除學習紀錄</button></div>
+    <h2>版本</h2>
+    <p class="hint" id="ver">目前版本：讀取中…</p>
+    <div class="actions"><button class="btn" id="check-update">檢查更新</button></div>
     <p class="hint"><a href="#/about">資料來源與授權</a></p>`;
+  currentVersion().then((v) => { const el = $("#ver"); if (el) el.textContent = `目前版本：${v || "（離線快取尚未啟用）"}`; });
+  $("#check-update").addEventListener("click", async (ev) => {
+    const b = ev.currentTarget;
+    if (!SW_REG) { toast("這個瀏覽器沒有啟用自動更新，請直接重新整理。"); return; }
+    b.disabled = true; b.textContent = "檢查中…";
+    try { await SW_REG.update(); } catch {}
+    // 新版下載需要一點時間；下載好會自動出現「有新版本了」
+    setTimeout(() => {
+      b.disabled = false; b.textContent = "檢查更新";
+      if (SW_REG.waiting || SW_REG.installing) { if (SW_REG.waiting) showUpdateBanner(SW_REG); else toast("正在下載新版本，好了會通知你"); }
+      else toast("已經是最新版本");
+    }, 1500);
+  });
   const fillVoices = () => {
     const sel = $("#voice");
     if (!sel) return;
@@ -624,11 +640,24 @@ function showUpdateBanner(reg) {
   });
 }
 let WANT_RELOAD = false;
+let SW_REG = null;
+// 問目前在運作的版本號（顯示在「我的」）
+function currentVersion() {
+  const ctl = navigator.serviceWorker?.controller;
+  if (!ctl) return Promise.resolve("");
+  return new Promise((resolve) => {
+    const on = (ev) => { if (ev.data?.type === "VERSION") { navigator.serviceWorker.removeEventListener("message", on); resolve(ev.data.version); } };
+    navigator.serviceWorker.addEventListener("message", on);
+    ctl.postMessage("VERSION");
+    setTimeout(() => resolve(""), 1500);
+  });
+}
 if ("serviceWorker" in navigator && (location.protocol === "https:" || location.hostname === "localhost")) {
   navigator.serviceWorker.addEventListener("controllerchange", () => {
     if (WANT_RELOAD) { WANT_RELOAD = false; location.reload(); }
   });
   navigator.serviceWorker.register("sw.js").then((reg) => {
+    SW_REG = reg;
     const hasOld = () => !!navigator.serviceWorker.controller;
     if (reg.waiting && hasOld()) showUpdateBanner(reg);
     reg.addEventListener("updatefound", () => {

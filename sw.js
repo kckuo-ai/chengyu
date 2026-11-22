@@ -1,5 +1,5 @@
 // 離線快取：先用快取，同時在背景更新。改了程式或資料後把 VERSION 加 1。
-const VERSION = "v118";
+const VERSION = "v119";
 const CACHE = `chengyu-${VERSION}`;
 const CONTENT_CACHE = "chengyu-offline-v1";
 const SHELL = [
@@ -21,6 +21,7 @@ self.addEventListener("install", (e) => {
 });
 self.addEventListener("message", (e) => {
   if (e.data === "SKIP_WAITING") self.skipWaiting();
+  if (e.data === "VERSION") e.source?.postMessage({ type: "VERSION", version: VERSION });
 });
 self.addEventListener("activate", (e) => {
   e.waitUntil(caches.keys()
