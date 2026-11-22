@@ -26,19 +26,19 @@
     "P1_total": 21,
     "originals_found": 1245,
     "originals_missing": 221,
-    "review_records": 930,
-    "review_missing": 536,
-    "review_legacy": 557,
-    "review_eight_checks": 373,
-    "unique_task_idioms": 1093,
+    "review_records": 950,
+    "review_missing": 516,
+    "review_legacy": 570,
+    "review_eight_checks": 380,
+    "unique_task_idioms": 1086,
     "action_counts": {
-      "review_legacy_checklist": 557,
-      "review_unresolved": 11,
+      "review_legacy_checklist": 570,
+      "review_unresolved": 24,
       "prompt_record_missing": 25,
       "original_archive_missing": 221,
       "P3_optional_review": 42,
-      "review_record_missing": 536,
       "alt_contains_idiom_bigram": 21,
+      "review_record_missing": 516,
       "legacy_format_review": 111,
       "P2_style_review": 48,
       "red_neckerchief_review": 10
@@ -271,7 +271,8 @@
       "no": 26,
       "word": "望梅止渴",
       "actions": [
-        "review_record_missing",
+        "review_legacy_checklist",
+        "review_unresolved",
         "prompt_record_missing"
       ],
       "src": "img/idioms/26.webp",
@@ -283,7 +284,8 @@
       "no": 27,
       "word": "司空見慣",
       "actions": [
-        "review_record_missing"
+        "review_legacy_checklist",
+        "review_unresolved"
       ],
       "src": "img/idioms/27.webp",
       "original_sha256": "ff2c0938afc0cb874aa993ea5d266f6269f713ff50b5e63f1cd66e6404d9a6ce",
@@ -291,54 +293,11 @@
       "original_archive_path": "originals/ff2c0938afc0cb874aa993ea5d266f6269f713ff50b5e63f1cd66e6404d9a6ce.png"
     },
     {
-      "no": 28,
-      "word": "南轅北轍",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/28.webp",
-      "original_sha256": "b24cbf2151ec0a61d8da820015ec1ba1b0ad7a9ac340dc76c67db5f1004c9213",
-      "original_available": true,
-      "original_archive_path": "originals/b24cbf2151ec0a61d8da820015ec1ba1b0ad7a9ac340dc76c67db5f1004c9213.png"
-    },
-    {
-      "no": 29,
-      "word": "夜郎自大",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/29.webp",
-      "original_sha256": "cb0228cdf0ffc891cad5057c72860bb6d4e1bcfac5aed0fb1babd67d19a631ea",
-      "original_available": true,
-      "original_archive_path": "originals/cb0228cdf0ffc891cad5057c72860bb6d4e1bcfac5aed0fb1babd67d19a631ea.png"
-    },
-    {
-      "no": 30,
-      "word": "信口雌黃",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/30.webp",
-      "original_sha256": "1ccbe7f27dd5df87daa1bac1063c309a91676aa044d4bd1df95449e753020ad8",
-      "original_available": true,
-      "original_archive_path": "originals/1ccbe7f27dd5df87daa1bac1063c309a91676aa044d4bd1df95449e753020ad8.png"
-    },
-    {
-      "no": 31,
-      "word": "狼狽為奸",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/31.webp",
-      "original_sha256": "2eb24a69961f04c477e6a19a8147bbec6d2d2232d4b6d8fccb900decb5ca2bfd",
-      "original_available": true,
-      "original_archive_path": "originals/2eb24a69961f04c477e6a19a8147bbec6d2d2232d4b6d8fccb900decb5ca2bfd.png"
-    },
-    {
       "no": 32,
       "word": "狐假虎威",
       "actions": [
-        "review_record_missing",
+        "review_legacy_checklist",
+        "review_unresolved",
         "prompt_record_missing"
       ],
       "src": "img/idioms/32.webp",
@@ -350,7 +309,8 @@
       "no": 33,
       "word": "作法自斃",
       "actions": [
-        "review_record_missing"
+        "review_legacy_checklist",
+        "review_unresolved"
       ],
       "src": "img/idioms/33.webp",
       "original_sha256": "d5d1c5d259d3ee1b9f6c17c9bb7af38121be9fab157790d7a469243a43d10900",
@@ -358,21 +318,11 @@
       "original_archive_path": "originals/d5d1c5d259d3ee1b9f6c17c9bb7af38121be9fab157790d7a469243a43d10900.png"
     },
     {
-      "no": 34,
-      "word": "為虎作倀",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/34.webp",
-      "original_sha256": "fead758fea41bc3433664a0e9679409aaae47307f0a2c76d42ccb2bcb2fed641",
-      "original_available": true,
-      "original_archive_path": "originals/fead758fea41bc3433664a0e9679409aaae47307f0a2c76d42ccb2bcb2fed641.png"
-    },
-    {
       "no": 35,
       "word": "如火如荼",
       "actions": [
-        "review_record_missing"
+        "review_legacy_checklist",
+        "review_unresolved"
       ],
       "src": "img/idioms/35.webp",
       "original_sha256": "ad2cb0b954028dd46e79d8a3cc9f1a6670028238d2a074cdddb92f964600bc0a",
@@ -383,7 +333,8 @@
       "no": 36,
       "word": "老馬識途",
       "actions": [
-        "review_record_missing",
+        "review_legacy_checklist",
+        "review_unresolved",
         "prompt_record_missing",
         "alt_contains_idiom_bigram"
       ],
@@ -396,7 +347,8 @@
       "no": 37,
       "word": "杞人憂天",
       "actions": [
-        "review_record_missing",
+        "review_legacy_checklist",
+        "review_unresolved",
         "prompt_record_missing"
       ],
       "src": "img/idioms/37.webp",
@@ -408,7 +360,8 @@
       "no": 39,
       "word": "守株待兔",
       "actions": [
-        "review_record_missing",
+        "review_legacy_checklist",
+        "review_unresolved",
         "prompt_record_missing"
       ],
       "src": "img/idioms/39.webp",
@@ -420,7 +373,8 @@
       "no": 40,
       "word": "不學無術",
       "actions": [
-        "review_record_missing"
+        "review_legacy_checklist",
+        "review_unresolved"
       ],
       "src": "img/idioms/40.webp",
       "original_sha256": "a1928571a2fee7bde95a9b28dabe8b5bfb8106dc368f7686080f7aadc832ec60",
@@ -431,7 +385,8 @@
       "no": 41,
       "word": "四面楚歌",
       "actions": [
-        "review_record_missing",
+        "review_legacy_checklist",
+        "review_unresolved",
         "alt_contains_idiom_bigram"
       ],
       "src": "img/idioms/41.webp",
@@ -440,21 +395,11 @@
       "original_archive_path": "originals/92a240859f6acb0c3c3f5e665cda9578437333e45745c9fbfadcf2c17846c241.png"
     },
     {
-      "no": 42,
-      "word": "奇貨可居",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/42.webp",
-      "original_sha256": "d679c2dd4a8068d9948390cb8d66ec4edfd6db86d6db73c88cfc64d2b7607e05",
-      "original_available": true,
-      "original_archive_path": "originals/d679c2dd4a8068d9948390cb8d66ec4edfd6db86d6db73c88cfc64d2b7607e05.png"
-    },
-    {
       "no": 43,
       "word": "刻舟求劍",
       "actions": [
-        "review_record_missing",
+        "review_legacy_checklist",
+        "review_unresolved",
         "prompt_record_missing"
       ],
       "src": "img/idioms/43.webp",
@@ -466,7 +411,8 @@
       "no": 44,
       "word": "走馬看花",
       "actions": [
-        "review_record_missing"
+        "review_legacy_checklist",
+        "review_unresolved"
       ],
       "src": "img/idioms/44.webp",
       "original_sha256": "782129ba09641be32065ffc1b0cd6fc595aad5a9fd013fa27513bda37ab664ed",
@@ -477,23 +423,13 @@
       "no": 45,
       "word": "後來居上",
       "actions": [
-        "review_record_missing"
+        "review_legacy_checklist",
+        "review_unresolved"
       ],
       "src": "img/idioms/45.webp",
       "original_sha256": "9029906b27fe0460d2be760f478600a10099191701d423778f642eafd2d743a6",
       "original_available": true,
       "original_archive_path": "originals/9029906b27fe0460d2be760f478600a10099191701d423778f642eafd2d743a6.png"
-    },
-    {
-      "no": 46,
-      "word": "負荊請罪",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/46.webp",
-      "original_sha256": "bcccaad3160693d8898344ad2f5f869fc7b8837329eaa711f34f7b18168c9e4c",
-      "original_available": true,
-      "original_archive_path": "originals/bcccaad3160693d8898344ad2f5f869fc7b8837329eaa711f34f7b18168c9e4c.png"
     },
     {
       "no": 47,
