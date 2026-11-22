@@ -1,0 +1,67 @@
+{
+  "no": 32,
+  "kind": "regenerate",
+  "word": "狐假虎威",
+  "path": "/workspace/chengyu-preservation/originals/17a5f376f9b2cc2508f463e05d1cb9f6789450f5ddabbb99b0997b102949623d.png",
+  "original_sha256": "17a5f376f9b2cc2508f463e05d1cb9f6789450f5ddabbb99b0997b102949623d",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-19-redraw-13",
+  "alt": "掛著空白管理牌的男孩得意攔住借球同學，同學委屈退開；身後老師背向整理器材，沒有看到他正用老師的身分逞威。",
+  "issues": [
+    "hands_feet_pose: 原尺寸另裁正前方阻擋掌，明確有一個右側拇指加五個長指，共六指；不是握物遮擋或另一手重疊，故不通過。其餘人物肩臂、站姿及鞋底支撐正常。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "男孩持管理牌，倚靠身後成人老師得意驅趕，借球者看老師又退開；借權勢欺人可辨，不是靠力氣或正常幫忙排隊。 已比對 1479 等器材室持球情境；本圖有借老師身勢的牌與驅趕行為，非普通領球。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "男孩大幅阻擋掌在前景，老師與退開同學之間的角色關係清楚，手機仍可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "原尺寸另裁正前方阻擋掌，明確有一個右側拇指加五個長指，共六指；不是握物遮擋或另一手重疊，故不通過。其餘人物肩臂、站姿及鞋底支撐正常。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "球由手臂持握、器材架接牆和地面，胸前空白牌由繩連頸，老師雙手接觸大球，結構支撐合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "管理牌全白，球與球衣無號碼，器材室無字樣，未見字母數字類字形或品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣國小器材室、素面制服學童與成人老師，年齡比例合理，無野獸寓言場景。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "學童白衫、老師藍襯衫，管理牌是素色細繩，四人均無紅領巾或紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "7daac63b0e034cc5a11147fbb4008fbd867354f8e6325aa5188dee5b827af2c3",
+  "previous_review_archive_path": "records/reviews/bcd8f956ab67274878168fd492e71fe318a40b28213d4f8e1345bf5448eb10b5.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops each; extra native crops of 32 and 40 hands, 35 dance hands, and 37 books",
+    "comparison_candidates": 107,
+    "comparison_method": "All five comparison sheets actually viewed; candidates from full-catalog perceptual similarity and scene/meaning terms; this does not imply a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻藉著有權者的威勢欺壓他人、作威作福。",
+    "syn": "仗勢欺人、狐假鴟張、鼠憑社貴、驢蒙虎皮",
+    "ant": ""
+  }
+}

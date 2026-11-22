@@ -7233,5 +7233,21 @@
       "path": "backup/batches/2026-11-06-730-750/metadata/783.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "5cf09e8afc4632df0bb64f20bc73b564426bac0888c6543d4122ec186d0ee6cc": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-19-redraw-13",
+      "source_file": "43.review.json",
+      "reviewer": "independent-visual-review-2026-11-22"
+    }
+  ],
+  "5c120ceb04141c80ae286345d498c809e7778416c228b3f841a261c88244bbf9": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-19-redraw-13",
+      "source_file": "45.review.json",
+      "reviewer": "independent-visual-review-2026-11-22"
+    }
   ]
 }

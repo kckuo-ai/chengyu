@@ -1,0 +1,67 @@
+{
+  "no": 35,
+  "kind": "regenerate",
+  "word": "如火如荼",
+  "path": "/workspace/chengyu-preservation/originals/e0cd93103aa393824cce3efd5363364a0093adc0215189042715b6e71e59eb01.png",
+  "original_sha256": "e0cd93103aa393824cce3efd5363364a0093adc0215189042715b6e71e59eb01",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-19-redraw-13",
+  "alt": "市集裡兩名孩子在低舞台熱情表演，家長開心拍手；旁邊孩子正向攤商接過花籃，彩旗與攤棚圍出熱鬧的活動場地。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "表演、拍手欣賞與交換手作同時熱絡，整個活動氣氛熱烈，並非僅一人開心。 與 1074 的密集市集群眾對照，本圖聚焦同深度五人大幅表演及交易，非小人群拼圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "五人均為大幅中景，表演與交易並排，不靠模糊遠景群眾表示熱鬧，手機動作可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "另裁舞者原尺寸逐指數：四隻張掌各一拇指四指；拍手者兩掌指節輪廓可辨，交易雙方各兩臂接肩、部分指節由籃底遮擋自然。舞者兩鞋落台，其他人雙鞋落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "花籃由兩方手掌托底，低舞台有實體台座，攤架、長桌及鞋底接觸合理，無懸浮道具。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "彩旗、遮棚及花盆無字樣價牌，蝴蝶結是籃把結構，無文字字母數字類字形、品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代校園園遊會，國小制服舞者與顧客、便服家長及圍裙攤商比例合理。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "白色制服、米色外套與綠圍裙肩帶均無紅領巾；紅色僅見於掛旗與棚布，不是頸部配件。"
+    }
+  },
+  "previous_installed_original_sha256": "ad2cb0b954028dd46e79d8a3cc9f1a6670028238d2a074cdddb92f964600bc0a",
+  "previous_review_archive_path": "records/reviews/a4486f352cc02cf711fcf5e07fdfd72fd17af521377453e9255902ef11514fd5.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops each; extra native crops of 32 and 40 hands, 35 dance hands, and 37 books",
+    "comparison_candidates": 107,
+    "comparison_method": "All five comparison sheets actually viewed; candidates from full-catalog perceptual similarity and scene/meaning terms; this does not imply a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容事物的興盛或氣氛的熱烈。",
+    "syn": "",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/35-e0cd93103aa3.webp",
+  "webp_sha256": "6e367f114f88f8d6fd0c0b4c264b6e87681615e031e3f195b7f581db70d48ade"
+}

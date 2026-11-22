@@ -1,0 +1,67 @@
+{
+  "no": 40,
+  "kind": "regenerate",
+  "word": "不學無術",
+  "path": "/workspace/chengyu-preservation/originals/da14c5e5084707775046fb3e1d1abf4835f93ac03fe4f4b0ad7c71536f00932c.png",
+  "original_sha256": "da14c5e5084707775046fb3e1d1abf4835f93ac03fe4f4b0ad7c71536f00932c",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-19-redraw-13",
+  "alt": "老師示範摺紙盒時，男孩背向教學玩木車；接著同學已做好盒子，他面對揉爛的紙攤手困惑，老師指回先前的基本步驟。",
+  "issues": [
+    "hands_feet_pose: 已另裁右格雙手：畫面右側攤掌為一個拇指加五個指頭，共六指，沒有遮擋混手的理由。左格第三臂問題已不見，但此新六指錯誤使本項不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "先忽略示範只玩玩具，後來別人做出成品而自己不會，未學基本方法導致缺乏能力的因果清楚，已非單一次失敗。 比對 66 守舊書本組裝與 1452 連續學做盒子，本圖是拒絕示範到不會做的兩幕，未混成練習成功。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "同一藍衣男孩左右並列，玩車與揉紙、別人成品對照明確，手機可辨課堂前後。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "已另裁右格雙手：畫面右側攤掌為一個拇指加五個指頭，共六指，沒有遮擋混手的理由。左格第三臂問題已不見，但此新六指錯誤使本項不通過。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "木車落桌且車輪接車軸，紙盒由掌承托，白板畫架與剪刀轉軸合理；紙張摺痕可形成盒面，無懸浮物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "方紙內對角交叉線是實際摺線，不當作獨立 X 字；白板只有紙盒步驟與箭頭，無可讀文字數字品牌或水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小手作教室，成人圍裙老師與國小制服同學比例合理，沒有品牌遊戲機。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "藍衣男孩、白衣女孩與棕圍裙老師皆為普通衣領，兩幕均無紅領巾或紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "a1928571a2fee7bde95a9b28dabe8b5bfb8106dc368f7686080f7aadc832ec60",
+  "previous_review_archive_path": "records/reviews/f096d1917e833601af71c3c7e713fc63eaf4d7ba3bc51dd2557649afe375bc58.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops each; extra native crops of 32 and 40 hands, 35 dance hands, and 37 books",
+    "comparison_candidates": 107,
+    "comparison_method": "All five comparison sheets actually viewed; candidates from full-catalog perceptual similarity and scene/meaning terms; this does not imply a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "人未經學習而沒有學問才幹。貶義。",
+    "syn": "一無所長、才疏學淺、胸無點墨、庸庸碌碌",
+    "ant": "多才多藝、真才實學、博學多才、滿腹經綸、學富五車"
+  }
+}

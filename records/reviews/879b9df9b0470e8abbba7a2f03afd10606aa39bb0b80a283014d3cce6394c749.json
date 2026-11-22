@@ -1,0 +1,67 @@
+{
+  "no": 26,
+  "kind": "regenerate",
+  "word": "望梅止渴",
+  "path": "/workspace/chengyu-preservation/originals/b4c2f4bae0931f6f3a27eb17e680bcca0ec9457fbdb1631969a59f6892fc1892.png",
+  "original_sha256": "b4c2f4bae0931f6f3a27eb17e680bcca0ec9457fbdb1631969a59f6892fc1892",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-19-redraw-13",
+  "alt": "男孩在山路旁倒拿空水壺，疲倦地等不到一滴水；接著閉眼微笑，想像剖開的多汁水果，手中的水壺仍然空空的。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "空壺仍倒置無水，疲累轉為閉眼想像酸果而暫時安心；需求沒有真正滿足，以空想安慰自己的前後因果清楚。 比對 5425 的想像食物／財富構圖，本圖以兩幕空水壺未解渴作獨立因果。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "相同衣著與場景左右並列，空壺和右格大水果泡泡可在手機寬度辨識。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "兩格各兩臂接肩肘腕，持壺四指在前、拇指在瓶後可追；垂掌四長指與拇指側面有自然遮擋。各兩腿兩鞋，坐石承重且鞋底落地，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "壺口朝下但無水，雙幕石塊與背包有承托；水果與水滴只在想像泡泡中，不當成實際供水。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "水壺、衣服及鞋面素面，窗景無招牌；台北地標是完整建築，不是數字，無文字字母數字、類字形及品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣郊山石階、護欄與遠處台北地標，國小比例便服男孩和背包合理，已去除古裝。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "白色短袖上衣與藍色背包，兩幕男孩頸部皆無紅領巾或紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "b716b4a4a460464717df36026e15d878d771f842f60f80263a55006229d21592",
+  "previous_review_archive_path": "records/reviews/d874cf7a905e4a7eeb94026829d3ea82a777b9447b8c3a14ac22009dfd28c8fe.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops each; extra native crops of 32 and 40 hands, 35 dance hands, and 37 books",
+    "comparison_candidates": 107,
+    "comparison_method": "All five comparison sheets actually viewed; candidates from full-catalog perceptual similarity and scene/meaning terms; this does not imply a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻以空想來安慰自己。",
+    "syn": "畫餅充飢",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/26-b4c2f4bae093.webp",
+  "webp_sha256": "8dd380c5a6593b0342ea18ee3a75675b482890703c64fee4350302a6094cb451"
+}

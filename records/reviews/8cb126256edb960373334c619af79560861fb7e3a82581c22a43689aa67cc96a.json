@@ -1,0 +1,67 @@
+{
+  "no": 44,
+  "kind": "regenerate",
+  "word": "走馬看花",
+  "path": "/workspace/chengyu-preservation/originals/fa43251fa77ce9c8739a3cd3541fa07514303e99482e182d6216eb9ed8fdc437.png",
+  "original_sha256": "fa43251fa77ce9c8739a3cd3541fa07514303e99482e182d6216eb9ed8fdc437",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-19-redraw-13",
+  "alt": "男孩繫著安全帶坐在遊覽車窗邊，低頭翻看水鳥圖冊，窗外是濕地白鷺與紅磚街屋，頭上的泡泡呈現模糊山水輪廓。",
+  "issues": [
+    "meaning: 主角視線集中於細節清楚的水鳥圖冊，沒有明顯匆促掃視不同景物，可能是專心研讀或比對窗外觀察；模糊泡泡不能充分證明只略看而不深入，甚至易讀成觀察入微。 雖已避開 751 手機掠過展櫃的重複構圖，但本張仍無法排除仔細研讀圖冊的反義解讀。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "主角視線集中於細節清楚的水鳥圖冊，沒有明顯匆促掃視不同景物，可能是專心研讀或比對窗外觀察；模糊泡泡不能充分證明只略看而不深入，甚至易讀成觀察入微。 雖已避開 751 手機掠過展櫃的重複構圖，但本張仍無法排除仔細研讀圖冊的反義解讀。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "窗邊男孩、圖冊與景色焦點明確，但構圖清楚不代表詞義因果成立，手機亦可辨他在看圖冊。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男孩兩手各四指在前抓紙邊、拇指在後側自然遮擋，兩臂接肩肘，兩腿兩鞋在座前地板，沒有遠景小人手。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "安全帶由肩跨胸接對側腰扣，不跨頸；圖冊有單一書脊，座椅固定底座，窗外水鳥兩足及飛翼合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "圖冊僅完整水鳥風景，座椅花紋為連續材質、老街無招牌，沒有文字字母數字、類字形或品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣校外教學遊覽車、國小制服男孩與濕地白鷺、紅磚街屋，現代台灣場景合理。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "制服男孩頸部沒有紅領巾或紅圍巾，灰色斜帶是跨胸安全帶，不繞頸。"
+    }
+  },
+  "previous_installed_original_sha256": "782129ba09641be32065ffc1b0cd6fc595aad5a9fd013fa27513bda37ab664ed",
+  "previous_review_archive_path": "records/reviews/ed1201d66b4085dba39eef6037eb4c2fd696611ed2e7be3049182bd1495047fb.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops each; extra native crops of 32 and 40 hands, 35 dance hands, and 37 books",
+    "comparison_candidates": 107,
+    "comparison_method": "All five comparison sheets actually viewed; candidates from full-catalog perceptual similarity and scene/meaning terms; this does not imply a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻粗略、匆促地觀看，不能仔細深入。",
+    "syn": "浮光掠影、蜻蜓點水",
+    "ant": "觀察入微"
+  }
+}

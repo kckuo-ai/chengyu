@@ -1,0 +1,67 @@
+{
+  "no": 39,
+  "kind": "regenerate",
+  "word": "守株待兔",
+  "path": "/workspace/chengyu-preservation/originals/cb37bb6edb8a71bed6b1172d013dd9196b25fbd80f9550e1be40d475f0addd9e.png",
+  "original_sha256": "cb37bb6edb8a71bed6b1172d013dd9196b25fbd80f9550e1be40d475f0addd9e",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-19-redraw-13",
+  "alt": "果農意外看見一顆熟果落進籃子，驚喜張掌；接著他坐著等更多果實自己掉下，工具閒置、雜草增多，籃內仍只有一顆。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "一開始風落熟果是偶然好處，之後停工守著同籃等掉果、草變長卻只有原先一顆，呈現想不工作再獲利而落空。 與 623 空等枯植物及 1405 盆栽期望對照，本圖先偶然落果後只等同一籃，兩幕因果與場景不同。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "同一樹、籃和果農左右對照，空等與草長差異大，手機可見前後關係。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "左格雙掌各一拇指四指，右格兩手五指分放膝，臂接肩腕；兩幕各兩腿兩靴，右格坐凳支撐自然，無額外肢體。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "籃接地、果實在籃中，修枝剪有共同轉軸與兩柄，右格合攏閒置；果農坐凳及工具接地，樹枝與未熟小果連接自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "風線隨落葉流動，不是獨立字母；果實強調短線為圖像效果，衣物、工具及房屋無文字數字、品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代芭樂果園、農舍、格衫雨靴及草帽；頸部是米白工作毛巾，沒有紅領巾或紅圍巾。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "格衫果農頸上是米白工作毛巾，兩幕沒有紅領巾或紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "84c2ad86d160a47cbcd3174d54adc4a8b5c581a5477d672a50c1535246da623b",
+  "previous_review_archive_path": "records/reviews/9e855a2db3b78608f1eafdd83f777753434838029541678c369ed75782fbffa4.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops each; extra native crops of 32 and 40 hands, 35 dance hands, and 37 books",
+    "comparison_candidates": 107,
+    "comparison_method": "All five comparison sheets actually viewed; candidates from full-catalog perceptual similarity and scene/meaning terms; this does not imply a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻拘泥守成，不知變通。貶義。＆比喻妄想不勞而獲。貶義。＆等著目標自己送上門來。",
+    "syn": "刻舟求劍、食古不化、墨守成規、膠柱鼓瑟、不勞而獲、坐享其成",
+    "ant": "見風使舵、見機行事、通權達變、隨機應變"
+  },
+  "webp_src": "img/idioms/39-cb37bb6edb8a.webp",
+  "webp_sha256": "41d168e519486c19d131696ef79f285fcd676975549a1c944d04085346a49b0b"
+}

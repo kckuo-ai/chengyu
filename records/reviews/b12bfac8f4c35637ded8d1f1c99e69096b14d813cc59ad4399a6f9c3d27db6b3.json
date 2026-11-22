@@ -1,0 +1,67 @@
+{
+  "no": 33,
+  "kind": "regenerate",
+  "word": "作法自斃",
+  "path": "/workspace/chengyu-preservation/originals/7798e297924154415b28dfb9b13f45a29a1907fc8f408445a86f49d164f1a100.png",
+  "original_sha256": "7798e297924154415b28dfb9b13f45a29a1907fc8f408445a86f49d164f1a100",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-19-redraw-13",
+  "alt": "男孩先偷偷把黏膠刷在門墊上，接著自己的鞋底卻被黏住，抬腳拉出長長膠絲；旁邊同伴安然走過，他驚慌張掌。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一男孩先親手塗膠設惡作劇，再由自己踩上受困，已補足自作自受的原因，不是踩到別人的陷阱。 比對 642 的綁椅自困及 1648 的噴水自受，本圖是自己刷膠再黏住自己的門墊雙幕，未重用相同主道具。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右保留同門與門墊，刷膠與抬鞋膠絲皆大幅可見，前後因果在手機尺寸清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "刷子手收指握柄、另一手五指放膝；右格白衣雙掌各五指且各接一臂，綠衣垂手與兩腿合理。抬鞋者另一腳著地，步行同伴有交替步伐。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "刷毛接膠面，後格膠絲連鞋底與同門墊；膠不碰皮膚，膠罐、門墊及花盆都有支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "郵箱小圓孔是五金鎖孔，黏膠紋是墊上材質，不是獨立字形；衣鞋和容器無文字字母數字或品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣住家鐵門、盆栽與國小白衫男孩、便服同伴，無古裝，人物比例合理。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩幕白衣男孩與綠衣同伴領口素淨，沒有紅領巾或紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "d5d1c5d259d3ee1b9f6c17c9bb7af38121be9fab157790d7a469243a43d10900",
+  "previous_review_archive_path": "records/reviews/4962aee81aca111b030d2be01b0c61911420c867a9246500d3f88bebc48d72ed.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops each; extra native crops of 32 and 40 hands, 35 dance hands, and 37 books",
+    "comparison_candidates": 107,
+    "comparison_method": "All five comparison sheets actually viewed; candidates from full-catalog perceptual similarity and scene/meaning terms; this does not imply a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻自作自受。",
+    "syn": "自作自受、作繭自縛、玩火自焚、咎由自取",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/33-7798e2979241.webp",
+  "webp_sha256": "45207e74927cf0adea3fa41c0f3170830a0132a94e4a93b91441081747241d47"
+}

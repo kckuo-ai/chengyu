@@ -15340,5 +15340,13 @@
       "path": "backup/batches/2026-11-08-855-873/prompts/927.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "879b9df9b0470e8abbba7a2f03afd10606aa39bb0b80a283014d3cce6394c749": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-19-redraw-13",
+      "source_file": "26.review.json",
+      "reviewer": "independent-visual-review-2026-11-22"
+    }
   ]
 }

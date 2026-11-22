@@ -9255,5 +9255,14 @@
       "source_file": "8.review.json",
       "reviewer": "independent-visual-review-2026-11-22"
     }
+  ],
+  "c930bb5b6406f83bc6531a7c18bbc147996fb4d2dc29cec9ccdc6dcece1105d1": [
+    {
+      "kind": "git_zip_member",
+      "zip_blob": "7ea109bdf0b93f2d25db91b4114ccab3978d293c",
+      "zip_path": "batch-19-redraw-13.zip",
+      "commit": "0d0e1e63ad55ad71f676ff76a7e27920d2d40fc6",
+      "member": "batch-19/manifest.json"
+    }
   ]
 }

@@ -1,0 +1,67 @@
+{
+  "no": 37,
+  "kind": "regenerate",
+  "word": "杞人憂天",
+  "path": "/workspace/chengyu-preservation/originals/7e728729be9d9d7b3b35c02ea691b071f9a3fffefab5442d735b06b7172d3348.png",
+  "original_sha256": "7e728729be9d9d7b3b35c02ea691b071f9a3fffefab5442d735b06b7172d3348",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-19-redraw-13",
+  "alt": "男孩站在窗旁抱頭害怕，想像天空裂開、石塊掉落；母親一手扶著衣物，一手指向窗外平靜藍天，提醒他眼前沒有危險。",
+  "issues": [
+    "text_brand_watermark: 另裁左下書架：米白書脊上有多條橫劃加直劃的 T／假字樣筆畫，不只是空白標籤，無法排除類文字，按要求不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "實際晴天完好、只有泡泡中有天裂落石，母親照常整理衣物，沒根據的憂慮與現實平安清楚對照，非有真實災害。 已比對 703 的桌邊黑雲想像，本圖母子站窗旁對照實際晴空，非相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "母子左右站立，泡泡和窗外晴空分開，手機尺寸仍能分辨想像與現實。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男孩兩手各接獨立肩肘，抱頭指尖由頭髮合理遮擋，母親指向收指自然、另一掌五指扶衣堆，兩人各兩鞋落地，無小人群。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "衣堆落桌、手掌接衣物，站姿重心與桌椅腳落地；石塊只在泡泡不是實體穿窗。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "另裁左下書架：米白書脊上有多條橫劃加直劃的 T／假字樣筆畫，不只是空白標籤，無法排除類文字，按要求不通過。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣居家客廳、便服國小男孩與母親比例合理，已去除古裝小手群眾。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "男孩藍白上衣、母親米色外套，兩人頸部沒有紅領巾或紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "117241ddcb607b7af396f65a1eebceb3118827e7dccd19f0a330e76c3db8785c",
+  "previous_review_archive_path": "records/reviews/f18ff1118e7996899e0b2bc9fe4579d13173af773ead94eb15f271a453ab66b2.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops each; extra native crops of 32 and 40 hands, 35 dance hands, and 37 books",
+    "comparison_candidates": 107,
+    "comparison_method": "All five comparison sheets actually viewed; candidates from full-catalog perceptual similarity and scene/meaning terms; this does not imply a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻缺乏根據且不必要的憂慮。",
+    "syn": "庸人自擾、鰓鰓過慮",
+    "ant": "不憂不懼、無憂無慮"
+  }
+}

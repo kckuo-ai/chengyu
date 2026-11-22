@@ -1,0 +1,67 @@
+{
+  "no": 41,
+  "kind": "regenerate",
+  "word": "四面楚歌",
+  "path": "/workspace/chengyu-preservation/originals/bd2ca1102e8f9a14c3f7a46ed87fa360a413c81d5b4199a9846f67e3c3b0b294.png",
+  "original_sha256": "bd2ca1102e8f9a14c3f7a46ed87fa360a413c81d5b4199a9846f67e3c3b0b294",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-19-redraw-13",
+  "alt": "藍衣男孩獨自站在場中央，前後左右四名橘衣對手各抱軟球，神情認真地包圍他；他緊張環顧，身旁沒有同隊夥伴。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "只有中央一名藍衣，其餘橘衣分站四方朝他戒備，無援且多方向受敵可辨，尚未呈現全面落敗；已不用棋盤或紙船。 與 1426 三人分色持球的三角站位比較，本圖為一藍對四橘菱形包圍；與 19 的現行沉爛紙船構圖也完全不同。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "略高視角、菱形四方站位與中央留白，五人全身入畫，手機也能辨四向包圍。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "五人均兩臂兩腿，中央垂手指節自然，橘衣各手沿球面收指、拇指部分在後側，沒有前景張掌六指；十隻鞋均完整著地，沒有遠景小手。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "四球由雙手抱於胸前，不在空中碰撞；地面站位有足底支撐，籃框與校舍立柱合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "球衣素面無隊名號碼，場線為運動場幾何線，球面空白，無字母數字類字形、品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小操場與校舍，國小學童素色運動服，比例合理，無紅領巾。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "五名孩子為藍、橘色素面上衣，領口均無紅領巾或紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "92a240859f6acb0c3c3f5e665cda9578437333e45745c9fbfadcf2c17846c241",
+  "previous_review_archive_path": "records/reviews/064e5ebe898c086b351bf4508e4c5b4389af393fef046a32273746270b93b3c0.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops each; extra native crops of 32 and 40 hands, 35 dance hands, and 37 books",
+    "comparison_candidates": 107,
+    "comparison_method": "All five comparison sheets actually viewed; candidates from full-catalog perceptual similarity and scene/meaning terms; this does not imply a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻四面受敵，孤立無援。",
+    "syn": "八方受敵、四面受敵、腹背受敵",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/41-bd2ca1102e8f.webp",
+  "webp_sha256": "9fd4ea2ef01f61500d00513a1d3e78dd3a716d1f62a6864411c2572d2da206c1"
+}

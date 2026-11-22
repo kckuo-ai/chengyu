@@ -13784,5 +13784,12 @@
       "commit": "f9bb678694850d9ae04b34f464ae9c0415cc4f78",
       "path": "backup/SHA256SUMS"
     }
+  ],
+  "0d3698e2b7e4e1c18541bb0b905400a426aa464a64be6b0e9b9e352e73aca486": [
+    {
+      "kind": "current_main_record",
+      "batch": "batch-19-redraw-13",
+      "source": "docs/illustration-prompts.json#entries/39"
+    }
   ]
 }

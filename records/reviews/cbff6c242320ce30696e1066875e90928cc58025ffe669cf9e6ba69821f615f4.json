@@ -1,0 +1,67 @@
+{
+  "no": 36,
+  "kind": "regenerate",
+  "word": "老馬識途",
+  "path": "/workspace/chengyu-preservation/originals/fb717a0298ae7ce966c80c630bd63c24716caaa309bd68846a23f92d05b53e08.png",
+  "original_sha256": "fb717a0298ae7ce966c80c630bd63c24716caaa309bd68846a23f92d05b53e08",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-19-redraw-13",
+  "alt": "灰髮山友拿著年輕時在同一巨石前的照片，從容指出平整步道，兩名孩子拿著登山杖和背包帶，聽他說明前進方向。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "老照片同一臉孔及缺角巨石，對照眼前同地形，證實曾走過而熟悉；老人從容指路、孩子尚猶豫，經驗帶來判斷的線索成立。 與 389 的洞穴引導及 973 的持舊照看街區對照，本圖同巨石照片與指岔路、兩童分工不同。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "大照片在胸前、手勢指向右路，左泥路與右平整路對比明顯，手機仍辨識經驗照片與指路。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "老人握照四指與紙後拇指遮擋自然，指向掌其餘指頭收攏；孩子握背包帶及登山杖，各兩臂接肩肘，六隻鞋落地，照片只有胸像沒有小手。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "照片有手夾持，手杖底端著地，路障繩繫木柱，石階與山徑有地面支撐，無浮石。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "照片無日期，路障為連續黑黃斜紋而非文字，腕錶無數字，服裝鞋無品牌字母或類字形。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代郊山步道、便服登山鞋與背包，國小孩子和成人老山友角色比例合理，已無馬與古裝。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "藍、粉紅外套與格衫為一般登山便服，照片胸像亦無紅領巾；粉紅帽緣不是紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "776ed2ed4f0556465fc98a96a2b69c418c826c6a17ae466a566bd85ae6ac4506",
+  "previous_review_archive_path": "records/reviews/12ac5176d9bdfb63417ec20b1b2ba537a5823ae8dc2d3ce361f666b808c5a82b.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops each; extra native crops of 32 and 40 hands, 35 dance hands, and 37 books",
+    "comparison_candidates": 107,
+    "comparison_method": "All five comparison sheets actually viewed; candidates from full-catalog perceptual similarity and scene/meaning terms; this does not imply a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻有經驗的人對情況比較熟悉，容易把工作做好。褒義。",
+    "syn": "熟門熟路",
+    "ant": "暗中摸索"
+  },
+  "webp_src": "img/idioms/36-fb717a0298ae.webp",
+  "webp_sha256": "f5e5f73f0275b91adfc116c6b231b6625f9bfb55abc4ec3800bc6c08a5062926"
+}

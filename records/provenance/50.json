@@ -10958,5 +10958,21 @@
       "path": "backup/batches/2026-11-07-848-849/manifest.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "506d0978fde47912ecd002bbc547ac339978455e0508d45759399a3ac88e514b": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-19-redraw-13",
+      "source_file": "37.review.json",
+      "reviewer": "independent-visual-review-2026-11-22"
+    }
+  ],
+  "50a570c49bf4a0b205fdc72429a00bef00df8fe040a524c587b1806b227d0dc5": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-19-redraw-13",
+      "source_file": "redraw-proposals.json",
+      "reviewer": "independent-visual-review-2026-11-22"
+    }
   ]
 }

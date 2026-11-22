@@ -7201,5 +7201,12 @@
       "path": "backup/batches/2026-11-08-873-877/metadata/932.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "5307ea08b79f6cd0878dc8474fb6518c7b602bb7fb18c1872a15dec3724b70eb": [
+    {
+      "kind": "current_main_record",
+      "batch": "batch-19-redraw-13",
+      "source": "docs/illustration-prompts.json#entries/41"
+    }
   ]
 }

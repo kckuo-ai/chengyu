@@ -1,0 +1,67 @@
+{
+  "no": 43,
+  "kind": "regenerate",
+  "word": "刻舟求劍",
+  "path": "/workspace/chengyu-preservation/originals/745db13b42a0b50a26b40e748cd6b578ab205e4f7fee6c8678029054722e4ef4.png",
+  "original_sha256": "745db13b42a0b50a26b40e748cd6b578ab205e4f7fee6c8678029054722e4ef4",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-19-redraw-13",
+  "alt": "旅客緊盯老樹旁舊站牌的照片，仍站在原地等車；旁人指向對街的新候車亭和公車，他卻不願轉頭，繼續照著舊照等待。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "照片站牌在原樹旁，現實站牌與公車已在對街；旁人指新址而旅客固執只看舊照，情況改變卻不變通的因果清楚，不是普通迷路。 與 863 執舊資料而未察覺環境及其他路線候選對照，本圖用同樹照片及公車移站作獨立因果。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "大照片及同樹地標在左，新站與指向手在右，手機可分照片過去與眼前改變。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "旅客兩手握紙角，四指前面、拇指後面合理遮擋；另一成人指物收指與垂掌五指自然，兩臂接肩，四鞋落地，照片完全無人。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "照片由雙手夾持，候車亭有立柱長椅，公車輪胎可作近遠側前軸投影，沒有僅因正面下緣露輪胎就判多輪；兩人腳底與路面相接。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "新站牌立柱完全素面，圓牌只有完整公車圖案，車號與車牌空白，舊照也無標字；無文字字母數字或商標水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代街道、紅磚立面、行道樹及候車亭，兩名成年便服旅客比例合理，沒有古裝刀劍船。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "格衫旅客與米色上衣成人只有背包帶，沒有紅領巾或紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "6b2144ddd6450eec562542161ef0b8cec96d81a4bcb63bfcf934d3889f73497d",
+  "previous_review_archive_path": "records/reviews/fda49bfc6220e63abd61c8f6cd180e50407e086e602ee910557115251e9a27a0.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops each; extra native crops of 32 and 40 hands, 35 dance hands, and 37 books",
+    "comparison_candidates": 107,
+    "comparison_method": "All five comparison sheets actually viewed; candidates from full-catalog perceptual similarity and scene/meaning terms; this does not imply a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻拘泥固執，不知變通。貶義。",
+    "syn": "守株待兔、食古不化、膠柱鼓瑟",
+    "ant": "因時制宜、見機行事、見風使舵、通權達變、隨機應變"
+  },
+  "webp_src": "img/idioms/43-745db13b42a0.webp",
+  "webp_sha256": "af1d7d5c0fb29bb04ec4e4ff4b71ddb69ce33aeea79ba38a8dbab58a51186842"
+}

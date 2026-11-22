@@ -1,0 +1,67 @@
+{
+  "no": 45,
+  "kind": "regenerate",
+  "word": "後來居上",
+  "path": "/workspace/chengyu-preservation/originals/9c6bc149f7ccf0b1e8157e1604e16cd08e0d0e3541c7a1922422941c1948667e.png",
+  "original_sha256": "9c6bc149f7ccf0b1e8157e1604e16cd08e0d0e3541c7a1922422941c1948667e",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-22",
+  "review_batch": "batch-19-redraw-13",
+  "alt": "綠衣女孩起先落在藍衣與棕衣男孩後方，第二幕已經追過兩人，率先跨過白色終點線，原本領先的男孩驚訝跟在後頭。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同服裝三人先後名次明確改變，綠衣由落後變領先，後來者超越原領先者的關係清楚，而非只顯示跑最快。 與 823 單幕衝線及 1160 同場賽跑對照，本圖以相同服裝三人兩幕名次翻轉表意，非只畫贏家。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右同向跑，兩個等大分格均完整容納三人，手機仍可辨名次翻轉與終點線。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "逐格數每人恰兩腿兩鞋，後腿從髖膝踝接鞋清楚，無多鞋影或越格腳；手掌各拇指與四指或自然收拳可辨，各臂接肩。跑步騰空是動態步幅，不誤判靜態漂浮。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "跑道線與終點白線接地，跑姿身體重心跟隨方向，人物不互相穿透，校舍立柱透視穩定。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "運動服只有連續肩側及褲側布條，沒有數字隊名；鞋帶為功能結構，無字母數字類字形、品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小跑道、校舍與國小比例男女學童，運動服合理，沒有紅領巾。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "綠、藍、棕運動服的連續白飾條只在衣肩與褲側，兩幕均無紅領巾或紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "9029906b27fe0460d2be760f478600a10099191701d423778f642eafd2d743a6",
+  "previous_review_archive_path": "records/reviews/68ce38415a7aa9e8b9d7ba552befdf529d33ede1d8ab5aa80dc7185071a19136.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops each; extra native crops of 32 and 40 hands, 35 dance hands, and 37 books",
+    "comparison_candidates": 107,
+    "comparison_method": "All five comparison sheets actually viewed; candidates from full-catalog perceptual similarity and scene/meaning terms; this does not imply a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容後來的人或事物超越原領先者。褒義。",
+    "syn": "青出於藍、後發先至",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/45-9c6bc149f7cc.webp",
+  "webp_sha256": "7628fcdc47992d4e2d49bada4dcbe2c349430669dda000cd2fca0f9b81341a54"
+}
