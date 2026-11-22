@@ -345,3 +345,16 @@ body.playing .dock { bottom: 0; padding-bottom: calc(10px + env(safe-area-inset-
 #view:has(.dock-start) { padding-bottom: 150px; }
 .dock-start .seg .btn { flex: 1 1 0; min-width: 0; padding: 4px 4px; font-size: 13px; }
 .opts.two .opt.right, .opts.two .opt.wrong { padding-right: 28px; }
+
+/* 新版通知：固定在畫面上方，不擋住下方的作答按鈕 */
+.update-bar {
+  position: fixed; z-index: 30; left: 50%; transform: translateX(-50%);
+  top: calc(8px + env(safe-area-inset-top)); width: min(560px, calc(100vw - 24px));
+  display: flex; align-items: center; gap: 8px; padding: 8px 8px 8px 16px;
+  background: var(--ink); color: var(--paper); border-radius: 14px;
+  font-family: var(--sans); font-size: 16px; box-shadow: 0 6px 20px rgba(0, 0, 0, .25);
+}
+.update-bar span { flex: 1; font-weight: 700; }
+.update-bar .btn { min-height: 40px; padding: 4px 14px; font-size: 15px; }
+.update-bar .btn:not(.primary) { background: transparent; color: var(--paper); border-color: var(--paper); }
+.update-bar .btn.primary { background: var(--hl); color: var(--hl-ink); border-color: var(--hl); }

@@ -596,6 +596,41 @@ await loadIndex();
 window.addEventListener("hashchange", route);
 route();
 
-if ("serviceWorker" in navigator && location.protocol === "https:") {
-  navigator.serviceWorker.register("sw.js").catch(() => {});
+// ---------------- 新版通知 ----------------
+// 有新版本時在畫面上方顯示通知，按「更新」就切換到新版並重新開啟。
+// 回到網站（從背景切回來）或每 30 分鐘會自動檢查一次。
+function showUpdateBanner(reg) {
+  if (document.getElementById("update-bar")) return;
+  const bar = document.createElement("div");
+  bar.id = "update-bar"; bar.className = "update-bar"; bar.setAttribute("role", "status");
+  bar.innerHTML = `<span>有新版本了</span>
+    <button class="btn" id="update-later">稍後</button>
+    <button class="btn primary" id="update-now">更新</button>`;
+  document.body.append(bar);
+  bar.querySelector("#update-later").addEventListener("click", () => bar.remove());
+  bar.querySelector("#update-now").addEventListener("click", (ev) => {
+    ev.currentTarget.disabled = true; ev.currentTarget.textContent = "更新中…";
+    WANT_RELOAD = true;
+    if (reg.waiting) reg.waiting.postMessage("SKIP_WAITING");
+    else location.reload();
+  });
+}
+let WANT_RELOAD = false;
+if ("serviceWorker" in navigator && (location.protocol === "https:" || location.hostname === "localhost")) {
+  navigator.serviceWorker.addEventListener("controllerchange", () => {
+    if (WANT_RELOAD) { WANT_RELOAD = false; location.reload(); }
+  });
+  navigator.serviceWorker.register("sw.js").then((reg) => {
+    const hasOld = () => !!navigator.serviceWorker.controller;
+    if (reg.waiting && hasOld()) showUpdateBanner(reg);
+    reg.addEventListener("updatefound", () => {
+      const w = reg.installing;
+      w?.addEventListener("statechange", () => {
+        if (w.state === "installed" && hasOld()) showUpdateBanner(reg);
+      });
+    });
+    const check = () => reg.update().catch(() => {});
+    document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") check(); });
+    setInterval(check, 30 * 60 * 1000);
+  }).catch(() => {});
 }

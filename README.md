@@ -51,7 +51,7 @@ python3 scripts/build_data.py \
   --pics     ~/Downloads/dict_idioms_pic_2020_XXXXXXXX/
 ```
 
-再把 `sw.js` 的 `VERSION` 加 1、更新 `NOTICE.md` 的版本編號。原始 xlsx 不用放進 repo。
+再把 `sw.js` 的 `VERSION` 加 1（使用者打開網站時會看到「有新版本了」通知，按「更新」即切換）、更新 `NOTICE.md` 的版本編號。原始 xlsx 不用放進 repo。
 
 ## 自己寫的內容（data/mine.json）
 
