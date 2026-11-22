@@ -12,7 +12,7 @@
     "original_archive": {
       "repository": "kckuo-ai/chengyu",
       "branch": "illustration-archive",
-      "commit": "2d04c4876187389fb7178fd9574f6f43fe70eeb7",
+      "commit": "e84f6f897d52de571cfb06257b0bf0090815c732",
       "index_path": "index.json"
     }
   },
@@ -28,14 +28,14 @@
     "originals_missing": 221,
     "review_records": 950,
     "review_missing": 516,
-    "review_legacy": 553,
-    "review_eight_checks": 397,
-    "unique_task_idioms": 1069,
+    "review_legacy": 550,
+    "review_eight_checks": 400,
+    "unique_task_idioms": 1066,
     "action_counts": {
       "original_archive_missing": 221,
-      "review_legacy_checklist": 553,
-      "review_unresolved": 7,
-      "prompt_record_missing": 20,
+      "review_legacy_checklist": 550,
+      "review_unresolved": 4,
+      "prompt_record_missing": 19,
       "review_record_missing": 516,
       "P3_optional_review": 41,
       "alt_contains_idiom_bigram": 19,
@@ -64,13 +64,16 @@
       "img/idioms/1053.webp",
       "img/idioms/1157.webp",
       "img/idioms/149.webp",
+      "img/idioms/15.webp",
       "img/idioms/16.webp",
+      "img/idioms/17.webp",
       "img/idioms/170-8d08cb7ec174.webp",
       "img/idioms/170.webp",
       "img/idioms/18.webp",
       "img/idioms/19.webp",
       "img/idioms/2.webp",
       "img/idioms/21.webp",
+      "img/idioms/23.webp",
       "img/idioms/24.webp",
       "img/idioms/245.webp",
       "img/idioms/25.webp",
@@ -137,43 +140,6 @@
       "src": "img/idioms/7-aa6ea79cf4e2.webp",
       "original_sha256": "aa6ea79cf4e21cdf2bc6584ccea974c73df79a029782718a135e1d9008ab0660",
       "original_available": false
-    },
-    {
-      "no": 15,
-      "word": "青出於藍",
-      "actions": [
-        "review_legacy_checklist",
-        "review_unresolved"
-      ],
-      "src": "img/idioms/15.webp",
-      "original_sha256": "e501ec268c0277dfc7398693bbcfeea95dae72cc0c023668d961c3ecce653af7",
-      "original_available": true,
-      "original_archive_path": "originals/e501ec268c0277dfc7398693bbcfeea95dae72cc0c023668d961c3ecce653af7.png"
-    },
-    {
-      "no": 17,
-      "word": "驚弓之鳥",
-      "actions": [
-        "review_legacy_checklist",
-        "review_unresolved"
-      ],
-      "src": "img/idioms/17.webp",
-      "original_sha256": "dc2f01d182e900a082630f6ab094813ae86103b7f9052224116a1d9d4bf48594",
-      "original_available": true,
-      "original_archive_path": "originals/dc2f01d182e900a082630f6ab094813ae86103b7f9052224116a1d9d4bf48594.png"
-    },
-    {
-      "no": 23,
-      "word": "畫蛇添足",
-      "actions": [
-        "review_legacy_checklist",
-        "review_unresolved",
-        "prompt_record_missing"
-      ],
-      "src": "img/idioms/23.webp",
-      "original_sha256": "e3fcb692228386ccc102adf74a989dc694abe363012d856c15248c9738af3b02",
-      "original_available": true,
-      "original_archive_path": "originals/e3fcb692228386ccc102adf74a989dc694abe363012d856c15248c9738af3b02.png"
     },
     {
       "no": 24,

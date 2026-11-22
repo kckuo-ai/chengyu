@@ -927,5 +927,74 @@
     "review": "docs/illustration-reviews.json#entries/45",
     "resolved_findings": [],
     "status": "registered"
+  },
+  {
+    "no": 15,
+    "batch": "batch-20-redraw-3",
+    "reason": "先前複審不通過項目重畫；已實際檢視全圖、原尺寸細節及構圖候選，八項檢查通過。",
+    "previousEntry": {
+      "word": "青出於藍",
+      "src": "img/idioms/15.webp",
+      "alt": "學生學會老師的摺紙方法後，進一步做出更精巧的作品，老師驚喜地欣賞學生超越原先示範的成果。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "e501ec268c0277dfc7398693bbcfeea95dae72cc0c023668d961c3ecce653af7"
+    },
+    "previousOriginalSha256": "e501ec268c0277dfc7398693bbcfeea95dae72cc0c023668d961c3ecce653af7",
+    "previousReviewArchivePath": "records/reviews/7667134d39cc370b2bbfa3f60d3295a0ad559ffe2111d354f75155aa85d89f62.json",
+    "previousPromptArchivePath": "records/prompts/3bbcb9a532500c802d7382ec84f6a3e03619a49435592ad1fd32400c5f19efd4.json",
+    "replacement": "img/idioms/15-5273ddc42fac.webp",
+    "replacementOriginal": "/workspace/chengyu-preservation/originals/5273ddc42fac77865dd1f6e9c14588e2f03dc3bb2a4f582d5e899a4dadbe08fa.png",
+    "originalSha256": "5273ddc42fac77865dd1f6e9c14588e2f03dc3bb2a4f582d5e899a4dadbe08fa",
+    "review": "docs/illustration-reviews.json#entries/15",
+    "resolved_findings": [],
+    "status": "registered"
+  },
+  {
+    "no": 17,
+    "batch": "batch-20-redraw-3",
+    "reason": "先前複審不通過項目重畫；已實際檢視全圖、原尺寸細節及構圖候選，八項檢查通過。",
+    "previousEntry": {
+      "word": "驚弓之鳥",
+      "src": "img/idioms/17.webp",
+      "alt": "孩子曾被突然爆掉的氣球嚇到，現在看見另一個普通氣球靠近，就立刻緊張地縮起身子。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "dc2f01d182e900a082630f6ab094813ae86103b7f9052224116a1d9d4bf48594"
+    },
+    "previousOriginalSha256": "dc2f01d182e900a082630f6ab094813ae86103b7f9052224116a1d9d4bf48594",
+    "previousReviewArchivePath": "records/reviews/75b5d680f451b1bdf6c668eda3e7c628d877d4562b45566a6a0a375260a55261.json",
+    "previousPromptArchivePath": "records/prompts/c44687380882528e47eb5931973338ffaabf14d47e79caeffb108e0849db8f9a.json",
+    "replacement": "img/idioms/17-abf457ace97c.webp",
+    "replacementOriginal": "/workspace/chengyu-preservation/originals/abf457ace97ccdd139728dca2086c1240e0e918283014e4f7e6b917f1121908c.png",
+    "originalSha256": "abf457ace97ccdd139728dca2086c1240e0e918283014e4f7e6b917f1121908c",
+    "review": "docs/illustration-reviews.json#entries/17",
+    "resolved_findings": [],
+    "status": "registered"
+  },
+  {
+    "no": 23,
+    "batch": "batch-20-redraw-3",
+    "reason": "先前複審不通過項目重畫；已實際檢視全圖、原尺寸細節及構圖候選，八項檢查通過。",
+    "previousEntry": {
+      "word": "畫蛇添足",
+      "src": "img/idioms/23.webp",
+      "alt": "男子在沙地上畫好的蛇身添上腳，另一人已拿走比賽的獎品。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "e3fcb692228386ccc102adf74a989dc694abe363012d856c15248c9738af3b02"
+    },
+    "previousOriginalSha256": "e3fcb692228386ccc102adf74a989dc694abe363012d856c15248c9738af3b02",
+    "previousReviewArchivePath": "records/reviews/60bef2739509b2b5878a3bc2bdd3d184b139859d9b9796219b30fecbc740daad.json",
+    "previousPromptArchivePath": null,
+    "replacement": "img/idioms/23-08ac5449fa2d.webp",
+    "replacementOriginal": "/workspace/chengyu-preservation/originals/08ac5449fa2dbd6a977f8aa6be9e1fad9409f8fd8e2f3e6886b7283dab7b8357.png",
+    "originalSha256": "08ac5449fa2dbd6a977f8aa6be9e1fad9409f8fd8e2f3e6886b7283dab7b8357",
+    "review": "docs/illustration-reviews.json#entries/23",
+    "resolved_findings": [],
+    "status": "registered"
   }
 ]

@@ -28070,71 +28070,71 @@
     },
     "15": {
       "no": 15,
-      "kind": "existing",
+      "kind": "regenerate",
       "word": "青出於藍",
-      "path": "/workspace/chengyu-preservation/originals/e501ec268c0277dfc7398693bbcfeea95dae72cc0c023668d961c3ecce653af7.png",
-      "original_sha256": "e501ec268c0277dfc7398693bbcfeea95dae72cc0c023668d961c3ecce653af7",
-      "webp_src": "img/idioms/15.webp",
-      "webp_sha256": "58288d9fd780897c8f6bd309d752040fab679d7fe16e02f12f8505283004342d",
-      "passed": false,
+      "path": "/workspace/chengyu-preservation/originals/5273ddc42fac77865dd1f6e9c14588e2f03dc3bb2a4f582d5e899a4dadbe08fa.png",
+      "original_sha256": "5273ddc42fac77865dd1f6e9c14588e2f03dc3bb2a4f582d5e899a4dadbe08fa",
+      "passed": true,
       "reviewer": "independent-visual-review-2026-11-22",
-      "alt": "長者拿著簡單的藍色紙鳥示範，年輕學習者展示更精巧的大型鳳鳥作品，長者伸手微笑，稱讚她的成果。",
-      "issues": [
-        "meaning: 師生鳥形作品的精細程度可表現後輩超越，但與既有 465「後生可畏」長者持簡單鳥、青年持精巧鳥並獲讚的構圖近乎相同，依規則不通過。"
-      ],
-      "regenerate": true,
+      "review_batch": "batch-20-redraw-3",
+      "alt": "老師先握著陶杯示範，女孩在旁專心觀察；第二幕女孩展示勻整茶壺，老師把雙手放桌上微笑，面前是較粗糙的陶杯。",
+      "issues": [],
+      "regenerate": false,
       "checks": {
         "meaning": {
-          "passed": false,
-          "evidence": "師生鳥形作品的精細程度可表現後輩超越，但與既有 465「後生可畏」長者持簡單鳥、青年持精巧鳥並獲讚的構圖近乎相同，依規則不通過。"
-        },
-        "hands_feet_pose": {
           "passed": true,
-          "evidence": "長者握紙鳥與攤掌手、學習者托鳳鳥手指自然分佈，遮擋合理，無額外肢體。"
-        },
-        "objects_contact_perspective": {
-          "passed": true,
-          "evidence": "鳥由多片紙組成，可由雙手托住，桌上紙材與指導圖攤平；不誤當真鳥。"
-        },
-        "text_brand_watermark": {
-          "passed": true,
-          "evidence": "步驟圖僅摺線與箭頭，紙張素面，無文字數字或浮水印。"
-        },
-        "taiwan_context": {
-          "passed": true,
-          "evidence": "現代台灣手作教室，成人師徒角色可成立；無古裝或異國地標。"
+          "evidence": "先由老師示範、女孩觀察，再由女孩展示更完整精巧茶壺，對照老師的粗糙舊杯；有直接傳授與弟子超越關係，非一般年輕人炫耀。 已另看完整 1458：該圖是依教誨修補同一陶杯把手，本圖以學生精壺超過老師粗杯為結果，主要動作與成品關係可分；也避開 465 的鳥形作品。"
         },
         "composition": {
           "passed": true,
-          "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+          "evidence": "雙幕分明，同一師生先示範後成果對照，陶器和人物手部大幅可辨，手機看得清。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "左格老師兩手環杯、女孩兩掌各五指放桌；右格老師兩肩、袖口、肘到前臂腕掌皆各自可追，雙掌各五指分放自己身前，沒有伸到女孩背後或杯緣的第三掌。女孩兩手托壺、拇指四指隨壺底自然遮擋。下半身在框外不臆測。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "陶杯落轉盤，水碗、陶土及毛巾在桌面；女孩雙掌承托茶壺底部，壺把、壺嘴與蓋結構完整；老師粗杯獨立置桌，不遮手臂。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "背景只有素牆與窗框，陶器素面、圍裙污點為泥料，無書脊海報字形、可讀文字字母數字、品牌或水印。"
         },
         "style": {
           "passed": true,
-          "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+          "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣國小陶藝教室可成立，國小制服女孩與成人圍裙教師比例合理，無古裝異國地標。"
         },
         "no_red_neckerchief": {
           "passed": true,
-          "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+          "evidence": "兩幕師生均普通襯衫／制服領口和藍圍裙肩帶，沒有紅領巾或紅圍巾。"
         }
       },
+      "previous_installed_original_sha256": "e501ec268c0277dfc7398693bbcfeea95dae72cc0c023668d961c3ecce653af7",
+      "previous_rejected_candidate_review_archive_path": "records/reviews/0fe259263dca20c073911071663e47ada4fd9c96ff61b0d6672f971fe34792e8.json",
+      "previous_review_archive_path": "records/reviews/7667134d39cc370b2bbfa3f60d3295a0ad559ffe2111d354f75155aa85d89f62.json",
       "inspection": {
         "full_image": true,
         "native_detail_crops": true,
-        "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
-        "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "six unresized 512x512 crops per image; every teacher/student hand and blank background checked",
+        "comparison_candidates": 42,
+        "comparison_method": "Both comparison sheets and full 1458 actually viewed; candidates from full-catalog perceptual similarity and scene/meaning terms; this does not imply a new review of every catalog image."
       },
       "meaning_reference": {
-        "meaning": "比喻弟子勝過老師，或後輩優於前輩。褒義。",
+        "moe_meaning": "比喻弟子勝過老師，或後輩優於前輩。褒義。",
         "syn": "冰寒於水、青藍冰水、後來居上、為青為冰",
         "ant": ""
       },
-      "latest_rejected_candidate": {
-        "batch": "batch-18-redraw-11",
-        "original_sha256": "2fcfc5da2ebae6fa254ff2ff508d94a3e4dcb1f8ddcff4409306e712fa68e68c",
-        "original_archive_path": "originals/2fcfc5da2ebae6fa254ff2ff508d94a3e4dcb1f8ddcff4409306e712fa68e68c.png",
-        "review_archive_path": "records/reviews/0fe259263dca20c073911071663e47ada4fd9c96ff61b0d6672f971fe34792e8.json",
-        "passed": false
-      }
+      "webp_src": "img/idioms/15-5273ddc42fac.webp",
+      "webp_sha256": "0843f11f93322e2fa588e57f8532aa18db9522c61b76cc7c07d6982e01fcaffd"
     },
     "16": {
       "no": 16,
@@ -28205,71 +28205,71 @@
     },
     "17": {
       "no": 17,
-      "kind": "existing",
+      "kind": "regenerate",
       "word": "驚弓之鳥",
-      "path": "/workspace/chengyu-preservation/originals/dc2f01d182e900a082630f6ab094813ae86103b7f9052224116a1d9d4bf48594.png",
-      "original_sha256": "dc2f01d182e900a082630f6ab094813ae86103b7f9052224116a1d9d4bf48594",
-      "webp_src": "img/idioms/17.webp",
-      "webp_sha256": "2400549a7b6cd63ffc57ca1c04a5adc620dec7132d802c83f2b46a30cd414683",
-      "passed": false,
+      "path": "/workspace/chengyu-preservation/originals/abf457ace97ccdd139728dca2086c1240e0e918283014e4f7e6b917f1121908c.png",
+      "original_sha256": "abf457ace97ccdd139728dca2086c1240e0e918283014e4f7e6b917f1121908c",
+      "passed": true,
       "reviewer": "independent-visual-review-2026-11-22",
-      "alt": "女孩見到尚未破裂的氣球就摀耳害怕，腦中浮現上回氣球爆裂時哭泣的畫面，母親在身旁輕輕安撫她。",
-      "issues": [
-        "hands_feet_pose: 前景母女與泡泡人物手勢自然，但右後方綠衣男孩握杯手、紫衣女孩持杯手是模糊團塊，原尺寸仍無法確認五指，按不確定即失敗。"
-      ],
-      "regenerate": true,
+      "review_batch": "batch-20-redraw-3",
+      "alt": "女孩想起氣球破裂後坐地哭泣的經過，現在看見綁在椅背的完整氣球就摀耳縮身，母親蹲在身旁，輕扶肩膀安慰。",
+      "issues": [],
+      "regenerate": false,
       "checks": {
         "meaning": {
           "passed": true,
-          "evidence": "先前爆裂受驚與現在未破氣球引發恐懼有明確前後因果，不只是一般害怕。"
-        },
-        "hands_feet_pose": {
-          "passed": false,
-          "evidence": "前景母女與泡泡人物手勢自然，但右後方綠衣男孩握杯手、紫衣女孩持杯手是模糊團塊，原尺寸仍無法確認五指，按不確定即失敗。"
-        },
-        "objects_contact_perspective": {
-          "passed": true,
-          "evidence": "氣球有綁線，杯由手持，人物坐站與桌椅地面相接合理。"
-        },
-        "text_brand_watermark": {
-          "passed": true,
-          "evidence": "派對裝飾沒有生日字母數字，只有色紙與氣球，無品牌水印。"
-        },
-        "taiwan_context": {
-          "passed": true,
-          "evidence": "現代家庭庭院聚會、便服母女及同齡孩子，台灣生活可成立。"
+          "evidence": "同衣女孩在回憶中因破氣球哭泣，現在完整氣球未破卻已害怕，前次受驚到現在過度反應的因果清楚，並非無根據憂慮或單純不開心。 比對 1093 的多人課堂氣球反應，本圖只有母女及前次爆裂回憶，因果與主構圖不同。"
         },
         "composition": {
           "passed": true,
-          "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+          "evidence": "前景母女、右側完整氣球、左上大回憶泡泡的次序明確，手機可辨完整與破裂差別。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "母親一手搭肩、一手落膝，兩臂接各肩肘腕；現景女孩遮耳四長指與側面拇指有頭部自然遮擋，回憶女孩雙掌各五指放膝。現景及回憶女孩各兩腿兩鞋落地，無模糊群眾小手。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "氣球綁線確實接椅背，椅腳接地，母親蹲姿有雙腳支撐，肩膀與膝的手掌接觸合理；破氣球僅在回憶，不是現景危險。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "整面牆與窗景沒有書架書脊、海報、招牌或類字形。爆裂放射短線是氣球事件圖像而非字母數字，衣鞋無品牌水印。"
         },
         "style": {
           "passed": true,
-          "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+          "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代客廳、國小白底藍邊制服女孩與便服母親，年齡與家具符合現代生活。"
         },
         "no_red_neckerchief": {
           "passed": true,
-          "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+          "evidence": "母親米色襯衫、女孩白底藍邊制服，粉紅髮圈和氣球不在頸部；現景與回憶均無紅領巾或紅圍巾。"
         }
       },
+      "previous_installed_original_sha256": "dc2f01d182e900a082630f6ab094813ae86103b7f9052224116a1d9d4bf48594",
+      "previous_rejected_candidate_review_archive_path": "records/reviews/2cbe2af2eae10305318f35783c79fb9ae6935cb39b075526bfa09f3a40071acd.json",
+      "previous_review_archive_path": "records/reviews/75b5d680f451b1bdf6c668eda3e7c628d877d4562b45566a6a0a375260a55261.json",
       "inspection": {
         "full_image": true,
         "native_detail_crops": true,
-        "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
-        "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "six unresized 512x512 crops per image; every teacher/student hand and blank background checked",
+        "comparison_candidates": 42,
+        "comparison_method": "Both comparison sheets and full 1458 actually viewed; candidates from full-catalog perceptual similarity and scene/meaning terms; this does not imply a new review of every catalog image."
       },
       "meaning_reference": {
-        "meaning": "比喻曾受打擊或驚嚇，心有餘悸，稍有動靜就害怕的人。",
+        "moe_meaning": "比喻曾受打擊或驚嚇，心有餘悸，稍有動靜就害怕的人。",
         "syn": "心有餘悸、談虎色變",
         "ant": ""
       },
-      "latest_rejected_candidate": {
-        "batch": "batch-18-redraw-11",
-        "original_sha256": "8624d75d7a99757fe560c88cb9a3462fee5edcd87303f31aa7dfcaa655071e62",
-        "original_archive_path": "originals/8624d75d7a99757fe560c88cb9a3462fee5edcd87303f31aa7dfcaa655071e62.png",
-        "review_archive_path": "records/reviews/2cbe2af2eae10305318f35783c79fb9ae6935cb39b075526bfa09f3a40071acd.json",
-        "passed": false
-      }
+      "webp_src": "img/idioms/17-abf457ace97c.webp",
+      "webp_sha256": "cee1fa54a708f2b9867d481d42a6a7a4586e4a4bef1d802844da705d211cedbe"
     },
     "18": {
       "no": 18,
@@ -28592,72 +28592,71 @@
     },
     "23": {
       "no": 23,
-      "kind": "existing",
+      "kind": "regenerate",
       "word": "畫蛇添足",
-      "path": "/workspace/chengyu-preservation/originals/e3fcb692228386ccc102adf74a989dc694abe363012d856c15248c9738af3b02.png",
-      "original_sha256": "e3fcb692228386ccc102adf74a989dc694abe363012d856c15248c9738af3b02",
-      "webp_src": "img/idioms/23.webp",
-      "webp_sha256": "9c1d810ccadd87d08ffec6f819fe38886c67bcbd3839726287810f58cd1cb292",
-      "passed": false,
+      "path": "/workspace/chengyu-preservation/originals/08ac5449fa2dbd6a977f8aa6be9e1fad9409f8fd8e2f3e6886b7283dab7b8357.png",
+      "original_sha256": "08ac5449fa2dbd6a977f8aa6be9e1fad9409f8fd8e2f3e6886b7283dab7b8357",
+      "passed": true,
       "reviewer": "independent-visual-review-2026-11-22",
-      "alt": "古代庭院裡，男子蹲著替地上的長蛇圖案加上四隻腳；另一人留下沒有腳的蛇圖，抱著酒壺轉身離開。",
-      "issues": [
-        "meaning: 只畫古代蛇足典故片段，缺少原先成功、因多加而失去成果的清楚前後畫面，也可能被看成畫蜥蜴，無法穩定讀出多此一舉反壞事。",
-        "taiwan_context: 人物束髮、古代長袍與綁腿，庭院沒有現代台灣生活背景。"
-      ],
-      "regenerate": true,
+      "review_batch": "batch-20-redraw-3",
+      "alt": "男孩先滿意地看著風扇吹動紙風車，接著在葉端加上黏土，葉片垂彎而停住，他懊惱望著被額外重量弄壞的成品。",
+      "issues": [],
+      "regenerate": false,
       "checks": {
         "meaning": {
-          "passed": false,
-          "evidence": "只畫古代蛇足典故片段，缺少原先成功、因多加而失去成果的清楚前後畫面，也可能被看成畫蜥蜴，無法穩定讀出多此一舉反壞事。"
-        },
-        "hands_feet_pose": {
           "passed": true,
-          "evidence": "持細棒與托酒壺手指隨物遮擋自然，蹲姿膝踝方向合理，另一人行走有支撐腳。"
-        },
-        "objects_contact_perspective": {
-          "passed": true,
-          "evidence": "木棒接觸地面畫線，酒壺受手臂承托，蛇腳為故事中的刻意畫作，不當成人物畸形。"
-        },
-        "text_brand_watermark": {
-          "passed": true,
-          "evidence": "地面只有動物圖，酒壺與服裝素面，無文字數字品牌或水印。"
-        },
-        "taiwan_context": {
-          "passed": false,
-          "evidence": "人物束髮、古代長袍與綁腿，庭院沒有現代台灣生活背景。"
+          "evidence": "先有能轉動的成品，再因額外加黏土導致紙葉下折失去作用，清楚呈現不必要添加反壞事，不只畫字面蛇足故事。 比對 653、856 等風車模型展示，本圖先成功再加重失效的雙幕不同，無近乎相同主構圖。"
         },
         "composition": {
           "passed": true,
-          "evidence": "主角與關鍵道具佔前景，縮至手機寬度仍能分辨人物動作；細節另以原尺寸六區塊檢查。"
+          "evidence": "左右維持同一男孩、風扇、底座和風車，旋轉重影與垂彎對比清楚，手機可辨前後結果。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "兩幕男孩各兩臂獨立接肩肘腕，四張掌各一拇指四指且分開放桌，不分岔或共掌；未見多指。腿足被桌與畫幅遮住，沒有假稱已看到腳。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "風扇完整護網與實體葉片、底座穩放桌面，電線接插座；風車軸心接支柱木座，葉端黏土壓彎紙葉的受力合理，沒有物件穿手。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "兩幕素牆、窗框及校舍無字，風扇按鍵無數字標誌，完全沒有書脊、海報或類字母裝飾，無品牌浮水印。"
         },
         "style": {
           "passed": true,
-          "evidence": "可見鉛筆輪廓、柔和水彩暈染與色鉛筆疊色，底色保留米白紙紋；不是鮮豔扁平或 3D。"
+          "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代國小手作教室、國小制服男孩與窗外校舍樹景，符合現代生活與兒童比例。"
         },
         "no_red_neckerchief": {
           "passed": true,
-          "evidence": "逐一檢視人物頸部；衣領、頭巾及外套均未出現紅領巾或紅圍巾。"
+          "evidence": "男孩兩幕都是白底藍邊制服，粉紅色只見於風車與紙張，沒有紅領巾或紅圍巾。"
         }
       },
+      "previous_installed_original_sha256": "e3fcb692228386ccc102adf74a989dc694abe363012d856c15248c9738af3b02",
+      "previous_rejected_candidate_review_archive_path": "records/reviews/b66a069a625800aee48c26aa40bd2206cd79aa792dff9e7cce03827fa490e1ec.json",
+      "previous_review_archive_path": "records/reviews/60bef2739509b2b5878a3bc2bdd3d184b139859d9b9796219b30fecbc740daad.json",
       "inspection": {
         "full_image": true,
         "native_detail_crops": true,
-        "comparison": "109 published candidates in five sheets; includes pHash nearest neighbours and semantic candidates. Similarity failures: 15 vs 465; 19 vs 41.",
-        "review_scope": "Existing published image; retain installed WebP pending a passing replacement."
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "six unresized 512x512 crops per image; every teacher/student hand and blank background checked",
+        "comparison_candidates": 42,
+        "comparison_method": "Both comparison sheets and full 1458 actually viewed; candidates from full-catalog perceptual similarity and scene/meaning terms; this does not imply a new review of every catalog image."
       },
       "meaning_reference": {
-        "meaning": "比喻多此一舉，反將事情弄糟。貶義。",
+        "moe_meaning": "比喻多此一舉，反將事情弄糟。貶義。",
         "syn": "多此一舉、弄巧成拙",
         "ant": "恰如其分、恰到好處"
       },
-      "latest_rejected_candidate": {
-        "batch": "batch-18-redraw-11",
-        "original_sha256": "7fa0755cab5facfe083afcd60b6c16974f80d9e7d3b1dddd891351ba023afc8f",
-        "original_archive_path": "originals/7fa0755cab5facfe083afcd60b6c16974f80d9e7d3b1dddd891351ba023afc8f.png",
-        "review_archive_path": "records/reviews/b66a069a625800aee48c26aa40bd2206cd79aa792dff9e7cce03827fa490e1ec.json",
-        "passed": false
-      }
+      "webp_src": "img/idioms/23-08ac5449fa2d.webp",
+      "webp_sha256": "581d583474012747582c463fa22f451b9617c45c2c2af828eaf174c1d87264fe"
     },
     "25": {
       "no": 25,
