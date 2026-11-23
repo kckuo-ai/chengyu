@@ -1,0 +1,84 @@
+{
+  "no": 317,
+  "kind": "existing",
+  "word": "兩全其美",
+  "path": "/workspace/chengyu-preservation/originals/0bf22ac21e7770c82004759802e2cfff379f5d4cf28cd56914d1cc42c2d033ce.png",
+  "original_sha256": "0bf22ac21e7770c82004759802e2cfff379f5d4cf28cd56914d1cc42c2d033ce",
+  "original_available": true,
+  "review_source_sha256": "0bf22ac21e7770c82004759802e2cfff379f5d4cf28cd56914d1cc42c2d033ce",
+  "webp_src": "img/idioms/317.webp",
+  "webp_sha256": "bc022640170d7b0df0fbff701a50728d7758bad4b4cb8446cade6089f06008b3",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "原先女孩讀書時被男孩做玩具的聲響打擾，後來兩張桌子之間加了屏風；女孩安靜閱讀，男孩和同伴開心製作，各自都得到合適的空間。",
+  "issues": [
+    "text_brand_watermark: 左上回憶攤開書本有整排仿文字短行，背景書脊亦有類標字，無文字要求不過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "加屏風後安靜閱讀與快樂手作雙方需求皆顧到，前後受益清楚，非只犧牲一方。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "回憶衝突對現實兩邊皆笑，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "摀耳握書、舉機持刷與女孩扶屋掌五指或物遮自然，臂肩連續、坐鞋落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "屏風腳與桌椅落地、模型受掌桌托，隔板在兩桌間支撐正常。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "左上回憶攤開書本有整排仿文字短行，背景書脊亦有類標字，無文字要求不過。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣家庭共用學習空間、國小孩童比例服飾自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有前景與回憶孩子衣領無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "做事顧全雙方，使兩方面都有獲益。",
+    "syn": "一箭雙鵰、一舉兩得",
+    "ant": "顧此失彼"
+  }
+}

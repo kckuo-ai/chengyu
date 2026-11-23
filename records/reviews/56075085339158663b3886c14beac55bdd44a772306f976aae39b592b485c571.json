@@ -1,0 +1,82 @@
+{
+  "no": 329,
+  "kind": "existing",
+  "word": "怨天尤人",
+  "path": "/workspace/chengyu-preservation/originals/2c2a79dbf8615a8084a3b17eabf6c0ef7c14ce7bc656885522d00176d98d71ae.png",
+  "original_sha256": "2c2a79dbf8615a8084a3b17eabf6c0ef7c14ce7bc656885522d00176d98d71ae",
+  "original_available": true,
+  "review_source_sha256": "2c2a79dbf8615a8084a3b17eabf6c0ef7c14ce7bc656885522d00176d98d71ae",
+  "webp_src": "img/idioms/329.webp",
+  "webp_sha256": "f224d66c4796d3be234ff1154cbfcab8ed7f555cdd84af19af1d27233c547cbc",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "男孩做的紙模型被風吹倒，卻指著窗外大聲抱怨；回憶裡他組裝時把夾子全放在一旁，現在散落的夾子仍沒用上，女孩擔心望著他。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "自己未用固定夾的回憶與當下只怪風、指外責怨對照，歸咎環境不自省清楚，不只是客觀說明風吹。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "未用夾回憶、倒作與指風因果集中，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "主角雙指示、回憶組裝及同伴握拳掌五指或紙遮自然，肩臂連續。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "模型倒裂受桌托、夾子有接軸置桌、風葉方向由窗入自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "分解圖只有零件幾何、模型窗與夾為實物結構，未見文字字母數字類字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代模型教室、國小孩童比例與便服自然；模型教堂非實地外國場景。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩人現實與回憶衣領無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻面對不如意時，一味地歸咎客觀環境，而不能自我檢討。",
+    "syn": "怨天怨地、埋天怨地",
+    "ant": "反求諸己、引咎自責"
+  }
+}

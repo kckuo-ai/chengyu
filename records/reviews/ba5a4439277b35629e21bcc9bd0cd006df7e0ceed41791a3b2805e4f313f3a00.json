@@ -1,0 +1,84 @@
+{
+  "no": 300,
+  "kind": "existing",
+  "word": "自怨自艾",
+  "path": "/workspace/chengyu-preservation/originals/b48b44a3e1f3edd47b251f641bf456e32900da766e280372819cd0d2861b28c9.png",
+  "original_sha256": "b48b44a3e1f3edd47b251f641bf456e32900da766e280372819cd0d2861b28c9",
+  "original_available": true,
+  "review_source_sha256": "b48b44a3e1f3edd47b251f641bf456e32900da766e280372819cd0d2861b28c9",
+  "webp_src": "img/idioms/300.webp",
+  "webp_sha256": "6eba421fb020c92b16ded709f79b7eaf5a340b8bd85abc1c2f71b8d1e19c045f",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "男子低著頭，一手抓住頭髮，一手按胸，反覆想起自己把小屋零件裝錯的經過；破損模型和零件散在桌上，女子在旁憂心望著他。",
+  "issues": [
+    "text_brand_watermark: 右後書架多本書脊有縱排碎筆畫類書名，並非單純紙紋或封面色塊，無類字要求不過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "一再回想自己的錯、按胸垂頭消極自責而不再修補，與怨別人及繼續努力可辨。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "內疚主角與兩段同錯回憶清楚，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "抓頭按胸、泡泡捏件與女子托腮握杯五指或遮擋合理、肩臂連續。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "零件模型杯瓶置桌、回憶手捏件自然，無漂浮實物。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "右後書架多本書脊有縱排碎筆畫類書名，並非單純紙紋或封面色塊，無類字要求不過。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代手作室、便服成年人與休息犬自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩人衣領圍裙無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容人消極的埋怨自責。",
+    "syn": "自嗟自嘆",
+    "ant": "自鳴得意"
+  }
+}

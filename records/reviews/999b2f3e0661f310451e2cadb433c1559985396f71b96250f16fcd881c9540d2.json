@@ -1,0 +1,86 @@
+{
+  "no": 323,
+  "kind": "existing",
+  "word": "以訛傳訛",
+  "path": "/workspace/chengyu-preservation/originals/63b6bc250a80e712c367e8fd41a06f940105c6ed99bc42582ccd167d0822f421.png",
+  "original_sha256": "63b6bc250a80e712c367e8fd41a06f940105c6ed99bc42582ccd167d0822f421",
+  "original_available": true,
+  "review_source_sha256": "63b6bc250a80e712c367e8fd41a06f940105c6ed99bc42582ccd167d0822f421",
+  "webp_src": "img/idioms/323.webp",
+  "webp_sha256": "b4e749ff637211626a82abb2a4996ef55eb316f1396f7ec854f44c32e725be1d",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "教室外的人們一個接一個低聲傳話，泡泡裡全是同一扇門；最後男孩滿臉疑惑，指向別處，教室裡老師仍在向坐著的學員講解。",
+  "issues": [
+    "meaning: 每個泡泡都是相同門圖，沒有證據第一則消息錯誤或傳播錯誤；可能正常傳話，未達將不正確消息續傳之義。",
+    "hands_feet_pose: 前景掩口指示手五指自然；教室內小老師招呼掌原尺寸仍無法辨五指。",
+    "text_brand_watermark: 室內投影或白板保留多行灰藍類文字，無文字要求不過；不把問號另當數字。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "每個泡泡都是相同門圖，沒有證據第一則消息錯誤或傳播錯誤；可能正常傳話，未達將不正確消息續傳之義。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "傳話長列與最後疑惑反應清楚，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "前景掩口指示手五指自然；教室內小老師招呼掌原尺寸仍無法辨五指。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "教室桌椅落地、人物鞋踏地、門扇合鉸鏈，物理合理。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "室內投影或白板保留多行灰藍類文字，無文字要求不過；不把問號另當數字。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區教室、成人與國小孩童比例服裝自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有真人可見頸口無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "指將不正確的訊息繼續傳播下去。",
+    "syn": "道聽塗說",
+    "ant": "言之鑿鑿"
+  }
+}

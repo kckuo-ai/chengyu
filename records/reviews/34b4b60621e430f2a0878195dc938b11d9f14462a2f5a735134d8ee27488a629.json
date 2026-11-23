@@ -1,0 +1,82 @@
+{
+  "no": 286,
+  "kind": "existing",
+  "word": "虎口餘生",
+  "path": "/workspace/chengyu-preservation/originals/a36f5c1a9c9f819bc93d47904407877914bb07806862cd18f112fb0660ef12ad.png",
+  "original_sha256": "a36f5c1a9c9f819bc93d47904407877914bb07806862cd18f112fb0660ef12ad",
+  "original_available": true,
+  "review_source_sha256": "a36f5c1a9c9f819bc93d47904407877914bb07806862cd18f112fb0660ef12ad",
+  "webp_src": "img/idioms/286.webp",
+  "webp_sha256": "85ae7af7ac2fcf8dbebf5db7d6596b21db7e698a0a25be92fec21136a1aa89cd",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "男子回想自己困在暴雨山洪旁的驚險經過，如今裹著毛毯坐在安全步道邊，手捧熱飲；救援夥伴扶著他的肩，他露出慶幸的笑容。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "洪流倒樹中孤身遇險，到安全處被照顧且慶幸，冒大險倖存清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "險境回憶與安全救援同人外衣對照，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "回憶手藏肘後合理，扶肩與雙捧杯、夥伴合手各五指或握物遮擋自然，坐姿合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "杯受掌托、毯披肩膝、凳地承重，山洪流向下坡自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "帽衣裝備無字牌數字，未見類字母品牌水印及血腥。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣山區現代登山步道與救援衣物、成年人比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "毛毯是全身披蓋非領巾；三人頸口無紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻冒大險而不死。",
+    "syn": "九死一生、死裡逃生、劫後餘生",
+    "ant": "在劫難逃、死於非命"
+  }
+}

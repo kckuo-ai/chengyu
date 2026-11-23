@@ -1,0 +1,84 @@
+{
+  "no": 305,
+  "kind": "existing",
+  "word": "指桑罵槐",
+  "path": "/workspace/chengyu-preservation/originals/b0a1b595d8290dd6d01cb1ba82834bcc823820ff8e209e0bf2b951c1dac31f4e.png",
+  "original_sha256": "b0a1b595d8290dd6d01cb1ba82834bcc823820ff8e209e0bf2b951c1dac31f4e",
+  "original_available": true,
+  "review_source_sha256": "b0a1b595d8290dd6d01cb1ba82834bcc823820ff8e209e0bf2b951c1dac31f4e",
+  "webp_src": "img/idioms/305.webp",
+  "webp_sha256": "477c9a0bb0f5fd8aa8ead73fce12e611c3ac139ece59c622d3a9ec1a6a2104e9",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "女子拿著抹布，指向空椅大聲談論懶散躺坐的人；旁邊男子正抱箱整理物品，卻心虛摸頭冒汗，其他同伴停下工作，驚訝望向兩人。",
+  "issues": [
+    "meaning: 指向空椅與男子同方向、泡泡又直接畫同衣男子偷懶，仍可能直接斥責本人；無法確定借罵別人暗諷目標的間接關係。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "指向空椅與男子同方向、泡泡又直接畫同衣男子偷懶，仍可能直接斥責本人；無法確定借罵別人暗諷目標的間接關係。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "責斥者與心虛者、空椅和泡泡集中，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "握布指示、摸頭托箱與其他握書捧盆掌五指或物遮自然，肩臂連續，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "箱盆受掌桌托、椅有軸底、書有木盒支撐，接觸自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "書脊僅色塊與裝訂短帶，未見確定字形數字品牌水印，泡泡只人物圖。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代整理工作室、便服圍裙成年人自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "五人前景及泡泡男子頸口無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻拐彎抹角地罵人。",
+    "syn": "",
+    "ant": "呼名叫陣、直言不諱、開門見山"
+  }
+}

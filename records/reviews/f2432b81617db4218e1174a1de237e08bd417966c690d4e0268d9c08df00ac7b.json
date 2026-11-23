@@ -1,0 +1,82 @@
+{
+  "no": 312,
+  "kind": "existing",
+  "word": "夜以繼日",
+  "path": "/workspace/chengyu-preservation/originals/c14f46a079ab53be47b047f867cf75f8ed111d34542befd97bedec3dc68f4de3.png",
+  "original_sha256": "c14f46a079ab53be47b047f867cf75f8ed111d34542befd97bedec3dc68f4de3",
+  "original_available": true,
+  "review_source_sha256": "c14f46a079ab53be47b047f867cf75f8ed111d34542befd97bedec3dc68f4de3",
+  "webp_src": "img/idioms/312.webp",
+  "webp_sha256": "076ee468eb847a7bc7d6269949977d54219c5349804bcc89dc378fc2c5107124",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "白天工匠們在窗邊拼貼精細紙景，後方有人送來餐盒；畫面轉到月亮升起的夜晚，另一組人仍在燈下接著製作，同樣的紙景尚未停工。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "白日日照到夜月仍製同件紙景，表達團隊工作日夜相繼，不必誤說同一人全程不休息。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "日夜窗景與連續作品、轉向箭頭清楚，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "剪貼握筆與遞餐盒、夜側扶紙持刷掌五指或物遮自然，臂肩連續。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "紙景底板置桌、筆尖觸紙、餐盒受雙方手托，工具盤杯有支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "紙雕僅山樹亭橋無字、文件僅空白紙疊，未見文字數字類字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代紙藝工作室、成年便服圍裙自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有白日夜晚人物領口圍裙無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容工作勤奮，日夜不停。",
+    "syn": "夙夜匪懈、通宵達旦、焚膏繼晷、廢寢忘食",
+    "ant": ""
+  }
+}

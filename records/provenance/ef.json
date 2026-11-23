@@ -9198,5 +9198,14 @@
       "path": "backup/batches/2026-11-07-828-835/reviews/880.review.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "ef706286eeced852b828e4c5ac1162440f59e8cc14a51257a466827d7e8386bf": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-05",
+      "source_file": "304.review.json",
+      "reviewer": "independent-visual-review-2026-11-23",
+      "reviewed_main": "1afe65a863c239cc160142d5c4d7e23a2b56643b"
+    }
   ]
 }

@@ -1,0 +1,82 @@
+{
+  "no": 327,
+  "kind": "existing",
+  "word": "巧取豪奪",
+  "path": "/workspace/chengyu-preservation/originals/357c21e0fa2cb527cf63bca472f4c18494ba4ccd3804f8bb131fc62ac7268927.png",
+  "original_sha256": "357c21e0fa2cb527cf63bca472f4c18494ba4ccd3804f8bb131fc62ac7268927",
+  "original_available": true,
+  "review_source_sha256": "357c21e0fa2cb527cf63bca472f4c18494ba4ccd3804f8bb131fc62ac7268927",
+  "webp_src": "img/idioms/327.webp",
+  "webp_sha256": "efaf67c487fab20096c37562ad75312001fa2aa89554e52ec21c0818f1df4934",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "男子先拿空盒與攤主交涉，轉眼又和兩名同伴強搶菇類，把東西塞進布袋；攤主伸手阻止，後方民眾也驚呼，原本整齊的攤位受到擾亂。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "先假意空盒換物得利、後結夥強拿，巧騙與強奪皆有分幕，不只一般討價還價。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "回憶騙取與現實搶奪同人對照，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持盒托袋及搶物、攤主阻止與旁人開掌五指或物遮自然，肩臂連續，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "菇受手袋籃托、袋口由手拉開、棚柱落地，接觸支撐自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "素袋菇籃與空盒無字，未見文字字母數字類字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代農市攤位、便服成年人與長者自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有人物領口無紅領巾圍巾，攤主頭巾是橘棕色非紅領巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容不擇手段的取得權利、財物。",
+    "syn": "",
+    "ant": "一介不取"
+  }
+}

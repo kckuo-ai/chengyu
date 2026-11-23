@@ -17775,5 +17775,23 @@
       "source_file": "/workspace/idiom-review/full-audit-20261123/group-02/157.review.json",
       "reviewer": "independent-visual-review-2026-11-23"
     }
+  ],
+  "56f978aea6d215dfc61e8f8554bb106e53fe86a403a2bffbe9c805f32f159665": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-05",
+      "source_file": "291.review.json",
+      "reviewer": "independent-visual-review-2026-11-23",
+      "reviewed_main": "1afe65a863c239cc160142d5c4d7e23a2b56643b"
+    }
+  ],
+  "56075085339158663b3886c14beac55bdd44a772306f976aae39b592b485c571": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-05",
+      "source_file": "329.review.json",
+      "reviewer": "independent-visual-review-2026-11-23",
+      "reviewed_main": "1afe65a863c239cc160142d5c4d7e23a2b56643b"
+    }
   ]
 }

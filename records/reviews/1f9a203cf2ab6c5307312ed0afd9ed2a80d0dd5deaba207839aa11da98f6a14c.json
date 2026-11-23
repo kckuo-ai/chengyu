@@ -1,0 +1,82 @@
+{
+  "no": 325,
+  "kind": "existing",
+  "word": "信口開河",
+  "path": "/workspace/chengyu-preservation/originals/3d4cf215fb72a034f1d658a3c4f2fc46fb2e0dc7b67dbbf9d447f2491ce21936.png",
+  "original_sha256": "3d4cf215fb72a034f1d658a3c4f2fc46fb2e0dc7b67dbbf9d447f2491ce21936",
+  "original_available": true,
+  "review_source_sha256": "3d4cf215fb72a034f1d658a3c4f2fc46fb2e0dc7b67dbbf9d447f2491ce21936",
+  "webp_src": "img/idioms/325.webp",
+  "webp_sha256": "e5e4d10b79f12fb1c08cb3efc1dda19edea3a358da9965dc0231c000c89378f2",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "男子指著桌上一盆小植物，興奮地宣稱它會變成大樹，還會像火車一樣帶著盆子行駛；女子托腮皺眉望著他，顯然不相信這番話。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "說話泡泡把同盆小植物說成大樹又成火車、聽者懷疑，毫無根據隨口亂說可讀，不是心內默想。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "不可能的說法泡泡對普通盆栽清楚，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男子兩開掌五指、女子托腮握拳和搭桌臂合理、臂肩連續。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "現實盆有托盤落桌、手未穿盆，幻想盆車有輪軌、與現實分泡泡。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "泡泡僅樹和玩具火車、書脊純色裝訂痕，無文字字母數字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代住家、便服成年人物與室內盆栽自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩人衣領無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻隨口亂說。",
+    "syn": "一簧兩舌、口不擇言、信口雌黃、胡言亂語、胡說八道",
+    "ant": "言之鑿鑿、言必有據"
+  }
+}

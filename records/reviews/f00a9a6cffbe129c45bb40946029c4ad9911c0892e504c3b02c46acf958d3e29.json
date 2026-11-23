@@ -1,0 +1,85 @@
+{
+  "no": 318,
+  "kind": "existing",
+  "word": "才高八斗",
+  "path": "/workspace/chengyu-preservation/originals/5afe41e948c4d300731df3461a2f5e2e087d77eea3f3193bf8aa87f16ae57e49.png",
+  "original_sha256": "5afe41e948c4d300731df3461a2f5e2e087d77eea3f3193bf8aa87f16ae57e49",
+  "original_available": true,
+  "review_source_sha256": "5afe41e948c4d300731df3461a2f5e2e087d77eea3f3193bf8aa87f16ae57e49",
+  "webp_src": "img/idioms/318.webp",
+  "webp_sha256": "159b60eb14174d671e5b28eb07bd30330cd537d7ac33dabfe27f83b1e8d985f8",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "男子在圖冊與地球儀旁介紹天文、海洋、動植物和歷史，聽眾專心圍坐；上方泡泡呈現各種知識，旁邊還有望遠鏡、骨骼模型與圖板。",
+  "issues": [
+    "hands_feet_pose: 前景開掌指圖托腮自然；右上故事泡泡與圖板裡微小人物露手原尺寸仍不分五指。",
+    "text_brand_watermark: 左側背景多本書脊有金白色縱排類字，無文字要求不過；圖冊主頁只有繪圖。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "天文自然史地多領域知識與有條理講解、聽眾欣賞，才學豐富可讀，不是腹中堆書字面。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主講者加跨領域泡泡與教材集中，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "前景開掌指圖托腮自然；右上故事泡泡與圖板裡微小人物露手原尺寸仍不分五指。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "地球儀接支架、望遠鏡與骨模底座落桌、冊圖受桌架托，支撐合理。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "左側背景多本書脊有金白色縱排類字，無文字要求不過；圖冊主頁只有繪圖。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣知識分享室、便服成年人；泡泡歷史圖不等於現實古裝場景。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有可見真人衣領無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻人才學極高。",
+    "syn": "立地書櫥、腹笥便便、飽學之士、滿腹經綸、學富五車",
+    "ant": "才疏學淺、不學無術、不識之無、目不識丁、胸無點墨、腹笥甚窘"
+  }
+}

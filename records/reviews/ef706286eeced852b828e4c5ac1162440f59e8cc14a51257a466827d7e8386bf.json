@@ -1,0 +1,82 @@
+{
+  "no": 304,
+  "kind": "existing",
+  "word": "良莠不齊",
+  "path": "/workspace/chengyu-preservation/originals/e0df62fa818d977f028a87b5870cac1c7458f49e4b4a6af599d9fef1d478c310.png",
+  "original_sha256": "e0df62fa818d977f028a87b5870cac1c7458f49e4b4a6af599d9fef1d478c310",
+  "original_available": true,
+  "review_source_sha256": "e0df62fa818d977f028a87b5870cac1c7458f49e4b4a6af599d9fef1d478c310",
+  "webp_src": "img/idioms/304.webp",
+  "webp_sha256": "edb13be91d5636b3eefa49458dab54fe92e3a695741f4af33649227b68d9c6b6",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "女子拿起一只木盒仔細檢查，桌上同批盒子有的平整光滑，有的邊角缺損、蓋子歪裂；各種品質混在一起，後方架上有貓正在睡覺。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同批盒有優良也有破損粗劣，素質好壞參差可讀，不只是尺寸不同。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "好壞同型木盒並排，手機可讀裂缺對比。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "雙持盒掌五指或盒遮自然，肩肘連續，下身桌遮合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "榫接盒蓋結構自然、木盒受手桌托，裂隙是品質問題非畫圖穿模。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "木紋與貓花紋非文字，無字母數字品牌水印類字。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代木作工作室、成年便服圍裙自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "領口圍裙無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "好壞參差，素質不一。",
+    "syn": "參差不齊、龍蛇混雜",
+    "ant": ""
+  }
+}

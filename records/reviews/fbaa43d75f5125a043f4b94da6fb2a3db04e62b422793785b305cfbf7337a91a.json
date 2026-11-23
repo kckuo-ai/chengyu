@@ -1,0 +1,82 @@
+{
+  "no": 289,
+  "kind": "existing",
+  "word": "海市蜃樓",
+  "path": "/workspace/chengyu-preservation/originals/6f0141712eec20e8e38a9f6c702176a8e6fb82b8fdf06d7a4afc55c4636b43c1.png",
+  "original_sha256": "6f0141712eec20e8e38a9f6c702176a8e6fb82b8fdf06d7a4afc55c4636b43c1",
+  "original_available": true,
+  "review_source_sha256": "6f0141712eec20e8e38a9f6c702176a8e6fb82b8fdf06d7a4afc55c4636b43c1",
+  "webp_src": "img/idioms/289.webp",
+  "webp_sha256": "62b55bf14261b92dc4e988d353fdcdf18fd36cc04df91e829571b7c57bc19df3",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "男子背著登山包坐在海岸岩石上，抬手遮光眺望遠方；海面浮現一座朦朧城市，建築被波動光線拉扭，下方映出不真實的倒影。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "採光線造成的虛幻影象義，城市浮於無島海面且波紋扭曲不實，可讀幻景，不是實體海港。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前景觀者對遠方幻城清楚，手機可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "遮光掌手指貼額部分遮擋合理、另一臂身後岩遮，肩臂自然，屈腿鞋受岩托。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "坐岩與背包肩帶受力正常，虛城是幻象不作實樓懸海判物理錯。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "衣包扣件與海城無字號品牌，未見文字數字類字水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "海岸步道與現代便服背包者可為台灣；遠方虛構城景不是實地外國場景證據。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "襯衣領口無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "由於光線折射造成的自然現象或虛幻的影象。＆比喻虛幻的事物。",
+    "syn": "空中樓閣、虛無縹緲、夢幻泡影、鏡花水月",
+    "ant": ""
+  }
+}

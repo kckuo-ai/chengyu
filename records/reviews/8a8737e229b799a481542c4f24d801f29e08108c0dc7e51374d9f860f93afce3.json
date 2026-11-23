@@ -1,0 +1,82 @@
+{
+  "no": 285,
+  "kind": "existing",
+  "word": "得隴望蜀",
+  "path": "/workspace/chengyu-preservation/originals/6e7077ec2304012145133c2d41e3849c65f15c74ace48406116c7a4a33763741.png",
+  "original_sha256": "6e7077ec2304012145133c2d41e3849c65f15c74ace48406116c7a4a33763741",
+  "original_available": true,
+  "review_source_sha256": "6e7077ec2304012145133c2d41e3849c65f15c74ace48406116c7a4a33763741",
+  "webp_src": "img/idioms/285.webp",
+  "webp_sha256": "3669ea8b69a0c93b89785a1d73e444f4eca79cf335d5f70de742d1637e83f0a9",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "女子懷裡的材料箱已裝滿布料和花材，仍伸長手要拿更多毛線；旁人指著她的箱子提醒，後方三人捧著空箱，驚訝望著她。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "已拿滿一箱仍貪取更多、他人空箱等待，貪得無厭不知滿足清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "滿箱貪伸手對空箱等待集中，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "伸取掌五指、抱箱掌與後方捧箱掌有自然遮擋、指示收指合理，肩臂連續。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "材料在有底箱籃、箱受臂桌或手托，紗球布捲透視自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "布紋是花朵格紋、器物無標字，未見文字字母數字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣手作課、便服成人比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "五人衣領及包帶均無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻貪得無厭，不知滿足。",
+    "syn": "巴蛇吞象、得一望十、得寸進尺、貪心不足、貪得無厭",
+    "ant": "知足不辱、知足常樂"
+  }
+}

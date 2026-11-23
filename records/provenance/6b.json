@@ -10094,5 +10094,32 @@
       "source_file": "/workspace/idiom-review/full-audit-20261123/group-02/165.review.json",
       "reviewer": "independent-visual-review-2026-11-23"
     }
+  ],
+  "6be764a4d5b6a00479a6800ad82a733f9280a86ed64c66056300c6de2875b779": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-05",
+      "source_file": "296.review.json",
+      "reviewer": "independent-visual-review-2026-11-23",
+      "reviewed_main": "1afe65a863c239cc160142d5c4d7e23a2b56643b"
+    }
+  ],
+  "6b1f994c1779dccfd1bd9b4b490ef26d55055346e97b4cf57b442e2fdbaacd90": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-05",
+      "source_file": "297.review.json",
+      "reviewer": "independent-visual-review-2026-11-23",
+      "reviewed_main": "1afe65a863c239cc160142d5c4d7e23a2b56643b"
+    }
+  ],
+  "6b59e44a1a9c3d9bc75b051aa93a4eda725dc22b7e87e7c70f5d960f4f1f4fa9": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-05",
+      "source_file": "313.review.json",
+      "reviewer": "independent-visual-review-2026-11-23",
+      "reviewed_main": "1afe65a863c239cc160142d5c4d7e23a2b56643b"
+    }
   ]
 }

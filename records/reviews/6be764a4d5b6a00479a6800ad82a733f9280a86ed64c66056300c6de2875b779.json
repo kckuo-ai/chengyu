@@ -1,0 +1,84 @@
+{
+  "no": 296,
+  "kind": "existing",
+  "word": "井井有條",
+  "path": "/workspace/chengyu-preservation/originals/c95f0bc33278cd2da1f5a5712ff319ab03842a51a6e61ccc7cf6ae2c5ce06c32.png",
+  "original_sha256": "c95f0bc33278cd2da1f5a5712ff319ab03842a51a6e61ccc7cf6ae2c5ce06c32",
+  "original_available": true,
+  "review_source_sha256": "c95f0bc33278cd2da1f5a5712ff319ab03842a51a6e61ccc7cf6ae2c5ce06c32",
+  "webp_src": "img/idioms/296.webp",
+  "webp_sha256": "d4cf08683e27b14c22cdfcf6a99b374f1c2171b86a939cb38ecd76ce522cca4f",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "男孩跪在書櫃前，把藍色書放回整齊的一排；下方文具依種類收進木盒，書本按顏色排列，書包掛好，桌椅和盆栽也各在固定位置。",
+  "issues": [
+    "text_brand_watermark: 書脊多處細碎金白類標字，直尺刻度旁亦有數碼式小筆畫；無類字要求不過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "書與筆剪尺分門別類整齊歸位，條理清楚可讀。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "書架和分類盒主體集中，手機可讀整齊。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "雙握書掌五指或書遮合理、肩臂連續、跪腿與襪腳落地自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "書架板承書、木盒托文具、包由掛鉤托，支撐合理。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "書脊多處細碎金白類標字，直尺刻度旁亦有數碼式小筆畫；無類字要求不過。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣家庭書房、國小男孩比例與便服自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "上衣領口無紅領巾圍巾；包上雙孔為功能裝飾不是領巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容整齊有序，條理分明。",
+    "syn": "井然有序、有條不紊",
+    "ant": "亂七八糟、雜亂無章"
+  }
+}

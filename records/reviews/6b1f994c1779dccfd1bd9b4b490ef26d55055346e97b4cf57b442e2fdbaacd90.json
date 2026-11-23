@@ -1,0 +1,84 @@
+{
+  "no": 297,
+  "kind": "existing",
+  "word": "六神無主",
+  "path": "/workspace/chengyu-preservation/originals/788661bec54786508e7a9a844a91a4fb9ebfb68f5cc451f96a076edb75a6e0ba.png",
+  "original_sha256": "788661bec54786508e7a9a844a91a4fb9ebfb68f5cc451f96a076edb75a6e0ba",
+  "original_available": true,
+  "review_source_sha256": "788661bec54786508e7a9a844a91a4fb9ebfb68f5cc451f96a076edb75a6e0ba",
+  "webp_src": "img/idioms/297.webp",
+  "webp_sha256": "9586eb4818c6d87d2e5770a3224423ae4ef220fdcecbcae16c6c39503372749f",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "原訂場地不能使用，男子慌張扶額，另一手僵在半空，腦中接連想著涼亭、餐廳與體育館；兩位夥伴在旁看著，等待他作決定。",
+  "issues": [
+    "text_brand_watermark: 左上泡泡有大型紅色X形符號，符合使用者禁止像字母符號條件；須改成不用X的可見場地失效事件。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "突失原場地後慌張、多方案無法選定，心慌意亂拿不定主意清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "危機泡泡與多選場地圍主角，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "扶額與僵掌五指、托腮及搭肩手五指或身遮自然，肩臂連續。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "筆電模型與物資落桌、紙捲有底支撐，場地泡泡是想像。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "左上泡泡有大型紅色X形符號，符合使用者禁止像字母符號條件；須改成不用X的可見場地失效事件。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣社區活動規劃、便服成年人自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "三人領口均無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容心慌意亂，拿不定主意。",
+    "syn": "不知所措、手足無措、心慌意亂、魂不守舍、張皇失措、驚慌失措",
+    "ant": "泰然自若、從容不迫"
+  }
+}

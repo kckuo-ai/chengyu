@@ -1,0 +1,33 @@
+{
+  "group": 5,
+  "reviewed": 50,
+  "passed": 24,
+  "failed": 26,
+  "unprocessable": 0,
+  "original_png_sources": 50,
+  "comparison_candidates": 212,
+  "comparison_sheets_actually_viewed": 9,
+  "extra_full_images": [
+    66,
+    619,
+    598
+  ],
+  "alt_constraints_verified": true,
+  "review_bindings_verified": true,
+  "scene_count": 26,
+  "scene_char_range": [
+    181,
+    214
+  ],
+  "website_count": 1466,
+  "website_version": "v122",
+  "website_head": "1afe65a863c239cc160142d5c4d7e23a2b56643b",
+  "website_unchanged": true,
+  "total_audited": 250,
+  "total_scope": 1042,
+  "remaining_unreviewed": 792,
+  "historical_passed": 91,
+  "historical_failed": 159,
+  "active_unresolved_redraws": 100,
+  "stopped_before_group": 6
+}

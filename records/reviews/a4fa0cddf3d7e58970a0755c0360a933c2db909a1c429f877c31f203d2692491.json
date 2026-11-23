@@ -1,0 +1,82 @@
+{
+  "no": 310,
+  "kind": "existing",
+  "word": "否極泰來",
+  "path": "/workspace/chengyu-preservation/originals/fc01f24c1839e24ed37496d7b6ec501270ba501382515d77f83f5b0fccc1345f.png",
+  "original_sha256": "fc01f24c1839e24ed37496d7b6ec501270ba501382515d77f83f5b0fccc1345f",
+  "original_available": true,
+  "review_source_sha256": "fc01f24c1839e24ed37496d7b6ec501270ba501382515d77f83f5b0fccc1345f",
+  "webp_src": "img/idioms/310.webp",
+  "webp_sha256": "e5aebe60c15363f4a6a47e62ff537fb564f8a19f78718104c448870edecbb3ad",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "女子回想工作室破敗冷清、自己托腮發愁的時候；如今屋內明亮，架上擺滿玩偶，一家人拿著圖卡來挑選，她笑著繼續縫製兔子。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同屋同人由破敗無客憂愁，到修好且作品多客來訂製，困境轉好因果與結果清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "灰暗過往對亮暖現況，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "回憶雙托腮、現實縫製與客人持卡指示掌五指或卡遮自然，臂肩連續。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "針線接布偶、圖卡受手托、椅桌玩偶有支撐，針墊線輪結構正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "圖卡僅兔熊形、桌架盒無文字字母數字類字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代手作店、國小女孩與父母、成年店主比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有真人領口無紅領巾或紅圍巾；玩偶的細裝飾繫帶未當作學童紅領巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "情況由壞逐漸好轉。",
+    "syn": "物極必反、苦盡甘來、時來運轉、雲開見日",
+    "ant": "泰極而否、福過災生、樂極生悲"
+  }
+}

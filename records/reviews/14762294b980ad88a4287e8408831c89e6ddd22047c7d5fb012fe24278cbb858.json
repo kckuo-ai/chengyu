@@ -1,0 +1,82 @@
+{
+  "no": 290,
+  "kind": "existing",
+  "word": "口是心非",
+  "path": "/workspace/chengyu-preservation/originals/cb837f34d9126c61bcde51f0065216771bdd9696c3245e53b8525f9f89051d1d.png",
+  "original_sha256": "cb837f34d9126c61bcde51f0065216771bdd9696c3245e53b8525f9f89051d1d",
+  "original_available": true,
+  "review_source_sha256": "cb837f34d9126c61bcde51f0065216771bdd9696c3245e53b8525f9f89051d1d",
+  "webp_src": "img/idioms/290.webp",
+  "webp_sha256": "f22a835c7fde90ae1c3e081dd03e47769d80af8eeaa96be2aed525b4d6cc1b12",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "女子面對朋友展示畫作，雙手推辭，嘴上表示不想畫畫；心中卻想像自己與朋友開心作畫的樣子，表情流露猶豫，兩種心意形成對照。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "說話泡泡斜槓否認畫畫，心中泡泡卻享受與友作畫，嘴上與內心不一致清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "說話與思想泡泡並列、同人衣髮一致，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "主角兩開掌五指，朋友握冊、泡泡持筆扶畫手五指或物遮自然，臂肩連續。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "畫冊受手托、想像中畫作與顏料落桌，杯冊有支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "拒絕符號為單斜槓非字母，畫紙僅花景，未見文字數字類字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣繪畫教室、便服成年朋友比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有前景與想像人物頸口無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "指心裡想的和嘴上說的不一致。貶義。",
+    "syn": "口蜜腹劍、心口不一、言不由衷、陽奉陰違",
+    "ant": "心口如一"
+  }
+}

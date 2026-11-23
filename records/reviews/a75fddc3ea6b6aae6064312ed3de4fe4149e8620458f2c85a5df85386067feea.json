@@ -1,0 +1,82 @@
+{
+  "no": 294,
+  "kind": "existing",
+  "word": "外強中乾",
+  "path": "/workspace/chengyu-preservation/originals/e97f9992467ed22992ca2adf40b3a4d0e3d7de1118bbacc15cafd6e81fd77423.png",
+  "original_sha256": "e97f9992467ed22992ca2adf40b3a4d0e3d7de1118bbacc15cafd6e81fd77423",
+  "original_available": true,
+  "review_source_sha256": "e97f9992467ed22992ca2adf40b3a4d0e3d7de1118bbacc15cafd6e81fd77423",
+  "webp_src": "img/idioms/294.webp",
+  "webp_sha256": "37ea6eb5a6070fa4bc9ae8dd9007382dfce49eeecef2b773cbd47449e2dcfbc5",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "華麗城堡模型看起來高大堅固，另一側男子掀開外殼，驚訝發現裡面是斷裂薄木條與空紙箱；外牆仍漂亮，內部支架卻已垮下。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "豪華強盛外觀對內部斷梁薄殼坍垮，空虛衰弱清楚；不只模型正常中空。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前面完整外觀對剖開壞架，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "露出扶殼掌五指或殼遮合理、另一臂藏模型後，肩臂連續無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "瓦楞殼受掌托、斷支架倒在底板、全模型落桌，透視合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "城窗旗是模型裝飾、切割墊僅格線，無文字數字字母類字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣模型工作室、成年便服圍裙自然；城堡是玩具非古代實景。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "男子領口無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻事物看似充實強盛，實則空虛衰弱。",
+    "syn": "色厲內荏、虛有其表",
+    "ant": "外柔內剛"
+  }
+}

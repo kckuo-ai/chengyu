@@ -12811,5 +12811,23 @@
       "batch": "batches-24-25",
       "source": "docs/illustration-prompts.json#entries/129"
     }
+  ],
+  "26dd818dda6225dc5c0e58d13a4da8872e8a61d7f75e6ddcf5a6263aba69c056": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-05",
+      "source_file": "302.review.json",
+      "reviewer": "independent-visual-review-2026-11-23",
+      "reviewed_main": "1afe65a863c239cc160142d5c4d7e23a2b56643b"
+    }
+  ],
+  "261c5730cf33c3c50892ad93c6936e86e53fa076242e7e258ce12a09bc728ac3": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-05",
+      "source_file": "303.review.json",
+      "reviewer": "independent-visual-review-2026-11-23",
+      "reviewed_main": "1afe65a863c239cc160142d5c4d7e23a2b56643b"
+    }
   ]
 }

@@ -1,0 +1,84 @@
+{
+  "no": 328,
+  "kind": "existing",
+  "word": "虎視眈眈",
+  "path": "/workspace/chengyu-preservation/originals/670de50dbf27f775aa19306dce3d8b33182ad8cfb6addfd61a8995909547cb56.png",
+  "original_sha256": "670de50dbf27f775aa19306dce3d8b33182ad8cfb6addfd61a8995909547cb56",
+  "original_available": true,
+  "review_source_sha256": "670de50dbf27f775aa19306dce3d8b33182ad8cfb6addfd61a8995909547cb56",
+  "webp_src": "img/idioms/328.webp",
+  "webp_sha256": "29d0ccf3b9c415bafb951997df142364a33d92aea03f01f5a9d8e9ee25cfc7be",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "男子壓低身子盯著攤主手中的木鹿，神情貪婪，一手抓住自己的空袋帶；心裡想著趁攤主轉身就把木鹿藏進袋裡，旁人也察覺不對。",
+  "issues": [
+    "hands_feet_pose: 前景扶鹿與抓帶掌自然；背景藍衣顧客露手與泡泡遠處小人物原尺寸呈模糊色塊，無法核實五指。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "緊盯木鹿、空袋待用與偷藏計畫，心懷不軌等機會奪物清楚，不只是欣賞商品。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "貪視與偷物泡泡、被覬覦木鹿集中，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "前景扶鹿與抓帶掌自然；背景藍衣顧客露手與泡泡遠處小人物原尺寸呈模糊色塊，無法核實五指。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "木鹿有底板由掌托、包帶連包、木鳥鹿擺件置桌，支撐正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "木紋與包縫為材質，背景小牌無確定可讀筆畫，未見文字字母數字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代戶外手作市集、便服成年攤客比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有真人領口背包帶無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻心懷不軌，伺機掠奪。",
+    "syn": "虎視鷹瞵、鷹瞵鶚視",
+    "ant": ""
+  }
+}

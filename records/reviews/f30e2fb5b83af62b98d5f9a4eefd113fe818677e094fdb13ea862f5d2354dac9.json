@@ -1,0 +1,82 @@
+{
+  "no": 321,
+  "kind": "existing",
+  "word": "因陋就簡",
+  "path": "/workspace/chengyu-preservation/originals/90b0947186171ceb87a150c46bedf81875b144843aabcef039dbf50fa285f8b6.png",
+  "original_sha256": "90b0947186171ceb87a150c46bedf81875b144843aabcef039dbf50fa285f8b6",
+  "original_available": true,
+  "review_source_sha256": "90b0947186171ceb87a150c46bedf81875b144843aabcef039dbf50fa285f8b6",
+  "webp_src": "img/idioms/321.webp",
+  "webp_sha256": "5d1805259a103e1b86e723a93fef5e306ffcef9af9ff2cfb3857f645ec1e5618",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "女子在簡樸工作室裡替小包裹綁繩，長木板架在舊木箱上當桌子，她也坐在箱子上；現有工具和材料整齊擺好，陽光從窗邊照進來。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "採遷就簡陋現實環境做事義，舊箱代桌凳仍完成包裝清楚，不硬套馬虎敷衍義。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "簡陋替代設備與認真工作集中，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "雙手綁繩五指或線遮自然，肩臂連續、坐姿臀腿受箱托，鞋地接觸自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "木板兩端穩架箱、繩繞包、工具落桌，堆箱底落地，無不合理懸空。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "包紙箱全素面、木紋非字，無文字字母數字類字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代小型工作室與公寓窗景、成年便服圍裙自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "領口圍裙無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻做事馬虎，不力求完善美備。＆比喻因循或遷就簡陋的現實環境去做事。",
+    "syn": "敷衍了事",
+    "ant": "鋪張浪費、繁文縟節"
+  }
+}

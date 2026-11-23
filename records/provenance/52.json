@@ -10401,5 +10401,14 @@
       "batch": "batches-24-25",
       "source": "docs/illustration-prompts.json#entries/91"
     }
+  ],
+  "528b2156db7abe76a7a83fd6c8af4a00814fda93e685ef2d641300a1ab58e4c1": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-05",
+      "source_file": "284.review.json",
+      "reviewer": "independent-visual-review-2026-11-23",
+      "reviewed_main": "1afe65a863c239cc160142d5c4d7e23a2b56643b"
+    }
   ]
 }

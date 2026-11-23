@@ -6631,5 +6631,14 @@
       "path": "backup/batches/2026-11-07-808-828/metadata/861.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "d58a30f213b4a31333a1532a7a126dd0d70be6adfe4c732f9eb25aecc7471c7a": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-05",
+      "source_file": "315.review.json",
+      "reviewer": "independent-visual-review-2026-11-23",
+      "reviewed_main": "1afe65a863c239cc160142d5c4d7e23a2b56643b"
+    }
   ]
 }

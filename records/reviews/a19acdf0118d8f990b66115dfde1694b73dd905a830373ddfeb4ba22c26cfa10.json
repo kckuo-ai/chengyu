@@ -1,0 +1,84 @@
+{
+  "no": 319,
+  "kind": "existing",
+  "word": "沽名釣譽",
+  "path": "/workspace/chengyu-preservation/originals/b3a2fb55b5fa71db31453cff2b989029b1e0f6fa2fbdbca924fa0197a4992479.png",
+  "original_sha256": "b3a2fb55b5fa71db31453cff2b989029b1e0f6fa2fbdbca924fa0197a4992479",
+  "original_available": true,
+  "review_source_sha256": "b3a2fb55b5fa71db31453cff2b989029b1e0f6fa2fbdbca924fa0197a4992479",
+  "webp_src": "img/idioms/319.webp",
+  "webp_sha256": "7e9469d6a647bfb71462572ff29c8d3fdda0c4f0e1eb12a618166bf8ad46e8b5",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "男子在鏡頭前搬箱接受掌聲，拍完後卻站著滑手機，想著自己的受讚照片；其他志工仍在貨車旁搬運物資，他身邊的箱子放著沒動。",
+  "issues": [
+    "hands_feet_pose: 前景托箱拍照合掌與滑手機自然；後方兩搬箱志工露出的白手套指節成模糊短塊，無法確認五指。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "鏡頭前刻意表演、拍後只顧照片不續勞動，做作謀讚清楚，非真心助人恰好被拍。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右拍照與停工自賞對照清楚，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "前景托箱拍照合掌與滑手機自然；後方兩搬箱志工露出的白手套指節成模糊短塊，無法確認五指。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "箱由手或地托、瓶罐成排落箱、相機受掌托，無漂浮。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "物資標籤主要圖案色塊未見確定字母數字，相機閃燈窗非標字，無品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區物資站、便服志工與攝影者自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "真人衣領及志工背心均無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容故意做作，用手段謀取名聲和讚譽。",
+    "syn": "欺世盜名、盜名竊譽",
+    "ant": "不求聞達、實至名歸"
+  }
+}

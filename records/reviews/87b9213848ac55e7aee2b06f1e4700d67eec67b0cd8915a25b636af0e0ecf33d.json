@@ -1,0 +1,85 @@
+{
+  "no": 320,
+  "kind": "existing",
+  "word": "盲人摸象",
+  "path": "/workspace/chengyu-preservation/originals/1f60398c9b292bee2fddab91bc14fcc93a8cf3b45a2b397376af4dddb1343f6c.png",
+  "original_sha256": "1f60398c9b292bee2fddab91bc14fcc93a8cf3b45a2b397376af4dddb1343f6c",
+  "original_available": true,
+  "review_source_sha256": "1f60398c9b292bee2fddab91bc14fcc93a8cf3b45a2b397376af4dddb1343f6c",
+  "webp_src": "img/idioms/320.webp",
+  "webp_sha256": "356fc27d7490d3434ba685c0fa9822fd42d8dd39d1ce2032823f4c3c6c36156d",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "四名男子閉著眼分別摸大象的鼻子、耳朵、腿和尾巴，每人只接觸一個部位；大象站在草地上，遠方有河流和青山，眾人穿著古代衣袍。",
+  "issues": [
+    "meaning: 只畫典故摸局部，未顯示各自錯將局部當整體的判斷與衝突；移除成語文字仍不足讀出以偏概全。",
+    "taiwan_context: 四人髮髻、繫帶長袍與古式鞋明確古裝，未達台灣現代生活場景要求。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "只畫典故摸局部，未顯示各自錯將局部當整體的判斷與衝突；移除成語文字仍不足讀出以偏概全。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "大象居中、四人分觸各部位清楚，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "觸鼻雙掌、摸耳露掌、扶腿掌與握尾手五指或物遮合理，肩臂連續，蹲站鞋落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "象四足承地、手觸各部位自然，象鼻尾連接身體無額外肢體。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "袍帶器物與環境無字母數字文字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "四人髮髻、繫帶長袍與古式鞋明確古裝，未達台灣現代生活場景要求。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "四人袍領無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻以偏概全，未能洞明真相。貶義。",
+    "syn": "",
+    "ant": ""
+  }
+}
