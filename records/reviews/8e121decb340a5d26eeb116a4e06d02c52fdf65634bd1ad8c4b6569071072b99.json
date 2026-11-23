@@ -1,0 +1,91 @@
+{
+  "no": 232,
+  "kind": "existing",
+  "word": "開誠布公",
+  "path": "/workspace/chengyu-preservation/originals/1ae0ec35c98c79dfbf6fe6c40829b5381cf3e198d66afa8fc65af914db78b6f4.png",
+  "original_sha256": "1ae0ec35c98c79dfbf6fe6c40829b5381cf3e198d66afa8fc65af914db78b6f4",
+  "original_available": true,
+  "review_source_sha256": "1ae0ec35c98c79dfbf6fe6c40829b5381cf3e198d66afa8fc65af914db78b6f4",
+  "webp_src": "img/idioms/232.webp",
+  "webp_sha256": "967b1e5ce407bea81415e95484cbb9280659cca33ae44eb22bbc33c92d0c624f",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-04",
+  "alt": "女子把庭園模型、材料樣本和多張設計圖全部攤開，張手和居民討論；老人、孩子與夥伴圍桌看圖，輪流指著植栽位置提出想法。",
+  "issues": [
+    "meaning: 看得到公開提案與和氣討論，但沒有需坦白而未隱瞞、無私處理的具體問題；普通共同規劃已可解釋，不能以張手微笑直接確證坦誠無私。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "看得到公開提案與和氣討論，但沒有需坦白而未隱瞞、無私處理的具體問題；普通共同規劃已可解釋，不能以張手微笑直接確證坦誠無私。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "中央介紹者與滿桌同主題模型材料明確，手機可辨分享設計。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "兩開掌各五指、托頰合掌與指圖手自然，前景背影另一手被桌遮，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "模型紙圖樣本落桌、盒內石材受底托、桌架與坐姿支撐自然，無穿透。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "圖紙只有庭園樹木桌椅，樣本是木紋與葉圖，無字母數字題字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區庭院討論、國小孩子成人長者便服比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有人物頸前無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 209,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        605,
+        1274
+      ],
+      "method": "All nine comparison sheets actually viewed after full and native-resolution details of all 50 targets. Full website images 605 and 1274 additionally inspected. Comparison candidates are not counted as audited targets.",
+      "near_duplicates": {
+        "248": "與605「十拿九穩」全圖比較，同為左側男孩出手投物、女孩站後方、右側圓洞目標收集已投中物，成功投擲的主構圖及故事可互換；僅換軟球和豆袋、網與籃不足以分辨成語，依近重複規則不通過。",
+        "260": "與1274「搖搖欲墜」全圖比較，兩位驚恐人物圍桌，中央高疊歪積木、一人伸手另一人縮手看塔將倒；換成木球底與蛋形旁件仍是同一失衡高塔主構圖，近義詞圖可互換，依近重複規則不通過。"
+      },
+      "distinguished_comparisons": "232與138同有園藝計畫但前者向眾人公開材料、後者圍圖分工，主動作不同，未另判近重複；246解除機關堵塞與273整理木片工具、278製作鳥飾流程不同；262站凳忘形與1106舉獎盃運動場慶祝，場景與動作不同。271全場可走入互動木景，與233投影影箱不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻誠意待人，坦白無私。",
+    "syn": "肝膽相照、推心置腹、開心見誠、推誠相見",
+    "ant": "明爭暗鬥、虛情假意、鉤心鬥角、爾虞我詐"
+  },
+  "latest_rejected_candidate": {
+    "batch": "batch-28-group-4-redraw-41",
+    "original_sha256": "02b099e628630d08e6cdb7d7429739a805bea8f4b4278191a408a967642fa6e5",
+    "original_archive_path": "originals/02b099e628630d08e6cdb7d7429739a805bea8f4b4278191a408a967642fa6e5.png",
+    "review_archive_path": "records/reviews/d418fe63781c0a13ef4e9b3122db98c20d071334761bfa45995324e3c9d08630.json",
+    "passed": false
+  }
+}

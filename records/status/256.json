@@ -1,11 +1,11 @@
 {
   "no": 256,
   "word": "家喻戶曉",
-  "webp": "img/idioms/256.webp",
-  "original_sha256": "64865d4a713e0ada93db80eb74e01fc8c1a3f305530993b6eaaf789dbe7b117a",
-  "original": "originals/64865d4a713e0ada93db80eb74e01fc8c1a3f305530993b6eaaf789dbe7b117a.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/cfb0bf59a030f7d1beb571b119c039570caa25e82cd072da940c01a570112991.json"
+  "webp": "img/idioms/256-e00ae6633485.webp",
+  "original_sha256": "e00ae6633485aa444c4a8a3168fa4e4c85a2e396bda069494d583779ffc275ec",
+  "original": "originals/e00ae6633485aa444c4a8a3168fa4e4c85a2e396bda069494d583779ffc275ec.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/992b1ee81bcca4078b63bbbf2ddf7dee57ef110f9d5c06763d55fcfa6aa75978.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/42130f7918ecd3eb891c558b1541ddbc4501dc06a01f34e25218be0c5bf1d630.json"
 }

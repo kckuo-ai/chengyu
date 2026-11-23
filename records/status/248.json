@@ -1,11 +1,11 @@
 {
   "no": 248,
   "word": "百發百中",
-  "webp": "img/idioms/248.webp",
-  "original_sha256": "b27bb7d5a0f1e0316023f1029c73e7e52011cce617ccfb60783f7acf6e610b2a",
-  "original": "originals/b27bb7d5a0f1e0316023f1029c73e7e52011cce617ccfb60783f7acf6e610b2a.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/1840835ac892a4e9229f75b9505c38227f0447f72808294274e31aca02960c14.json"
+  "webp": "img/idioms/248-08d93ad1411b.webp",
+  "original_sha256": "08d93ad1411b8866ae4e64b414eed5eb5c4c462322dbffb981d1a7848561f34e",
+  "original": "originals/08d93ad1411b8866ae4e64b414eed5eb5c4c462322dbffb981d1a7848561f34e.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/fd1da578ca06fb3f4a04f63121dbb9cbdfa08b7534c82a32adc09fe80cf46a88.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/69927c14a1382d98cef8a808740c6d4cf158d48544d5ea9d9e97dba7e39ca814.json"
 }

@@ -1,11 +1,11 @@
 {
   "no": 230,
   "word": "不速之客",
-  "webp": "img/idioms/230.webp",
-  "original_sha256": "f0beefdd4f5b93433461349bda151c1b80d6a730cf08c6862756e0926a6b1a0a",
-  "original": "originals/f0beefdd4f5b93433461349bda151c1b80d6a730cf08c6862756e0926a6b1a0a.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/d617f6371a528beb8d281fbed5eaa7605f31a169fbdf9dfd25a669660dcf85b0.json"
+  "webp": "img/idioms/230-2d103f9f5758.webp",
+  "original_sha256": "2d103f9f5758fb91cd65c1bae0eb761fd62b6390f0cbbc1d167465866ba90400",
+  "original": "originals/2d103f9f5758fb91cd65c1bae0eb761fd62b6390f0cbbc1d167465866ba90400.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/2d36b138b120214b0698077447ce4c02f98abcbfece94cb61e362b12ad72c3b9.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/d60739c3efc634d1e2db7e9cb1987f96a5b00985dd3a0589488b47cce735e31c.json"
 }

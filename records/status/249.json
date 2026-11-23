@@ -4,8 +4,15 @@
   "webp": "img/idioms/249.webp",
   "original_sha256": "71adf6842969b64d093f8e33e2eb7d992851ad3acbbd7be81ab328ed6089f305",
   "original": "originals/71adf6842969b64d093f8e33e2eb7d992851ad3acbbd7be81ab328ed6089f305.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/6da6fc506ee0f1c148a6797313e9f74a8ca080ffb8c25b93e893cd02022abe33.json"
+  "review_record_present": true,
+  "current_review_path": "records/reviews/fe968c9ac4a62e21d5dc4c9f7f9696c5c2ab585d125476509a0991b85601d56f.json",
+  "review_status": "failed_independent_visual_review_retained_pending_replacement",
+  "current_prompt_path": "records/prompts/6da6fc506ee0f1c148a6797313e9f74a8ca080ffb8c25b93e893cd02022abe33.json",
+  "latest_rejected_candidate": {
+    "batch": "batch-28-group-4-redraw-41",
+    "original_sha256": "3d597440e7fba40b5a4193568c5d86e5e0292e06a5d869245823582fa27eea79",
+    "original_archive_path": "originals/3d597440e7fba40b5a4193568c5d86e5e0292e06a5d869245823582fa27eea79.png",
+    "review_archive_path": "records/reviews/51d308cabc35de017b167989ffd07522ccf58bec3b646bc902fb9f62e7a7bfdc.json",
+    "passed": false
+  }
 }

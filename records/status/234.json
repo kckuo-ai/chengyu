@@ -1,11 +1,11 @@
 {
   "no": 234,
   "word": "大公無私",
-  "webp": "img/idioms/234.webp",
-  "original_sha256": "6f47a7128e37025a914d75b9cfab952e4ef144b391925698623d0978a81ef932",
-  "original": "originals/6f47a7128e37025a914d75b9cfab952e4ef144b391925698623d0978a81ef932.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/8e01e619e999541f3d189f6594e3b0d0a439667afa94a5a7dd833d09fb247336.json"
+  "webp": "img/idioms/234-e4a3e3bbab14.webp",
+  "original_sha256": "e4a3e3bbab143ad29bfe0fbc996debabdb28cfec3b9c789f0b2dfe421601d268",
+  "original": "originals/e4a3e3bbab143ad29bfe0fbc996debabdb28cfec3b9c789f0b2dfe421601d268.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/4828f0ed193539cfeeb1a6ced11bffe3f4aac102d37659a96d3f4e01b2fbbb16.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/5ce9bf89cca7dafab0a1e26618ab82214194012193f711bb0cd82ffad6f156ea.json"
 }

@@ -1,11 +1,11 @@
 {
   "no": 235,
   "word": "落井下石",
-  "webp": "img/idioms/235.webp",
-  "original_sha256": "278867e5e82dc828ccc16760df19b9a9190c7fb24f82c210be2cca899abe99f4",
-  "original": "originals/278867e5e82dc828ccc16760df19b9a9190c7fb24f82c210be2cca899abe99f4.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/a611a56ba3bfe29e77924f4fa6e5f3e3d4595f84e5a76651c617b2965c60b28f.json"
+  "webp": "img/idioms/235-2b3b0c47e088.webp",
+  "original_sha256": "2b3b0c47e0882cf9ab94056b8921de551eb19c82c9027462000e1612be5e3d38",
+  "original": "originals/2b3b0c47e0882cf9ab94056b8921de551eb19c82c9027462000e1612be5e3d38.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/bccb27876b7806ac12ac2d2c49081d9105b8776453d1b5abee3aa9304d116ea4.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/d2e8b1358e34add090c2c4857b3901751961cb2236773cdb2812f6be58fd4b0d.json"
 }

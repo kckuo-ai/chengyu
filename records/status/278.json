@@ -1,11 +1,11 @@
 {
   "no": 278,
   "word": "按部就班",
-  "webp": "img/idioms/278.webp",
-  "original_sha256": "ad3202a18f9649ae1a9084085d36c8cec2268c6b786ff9e6b75340da88b420d2",
-  "original": "originals/ad3202a18f9649ae1a9084085d36c8cec2268c6b786ff9e6b75340da88b420d2.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/9c56949e331e27df9f12e0df4ce733c94c3173f347f229284ae48b6004be4ff7.json"
+  "webp": "img/idioms/278-ce030924efb1.webp",
+  "original_sha256": "ce030924efb15d0b9f010efec6096a843ee64d7e73c652cf5ecbcb4a7fcbdd61",
+  "original": "originals/ce030924efb15d0b9f010efec6096a843ee64d7e73c652cf5ecbcb4a7fcbdd61.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/e05e665cfa4faba07daf570a09d007b501cd0772032922a44afbad3a9e661005.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/d93fa0258874bb7c61fa10cc4a417267f409652d38470b8e250081cab754b2f4.json"
 }

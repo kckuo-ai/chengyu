@@ -1,0 +1,91 @@
+{
+  "no": 249,
+  "kind": "existing",
+  "word": "罄竹難書",
+  "path": "/workspace/chengyu-preservation/originals/71adf6842969b64d093f8e33e2eb7d992851ad3acbbd7be81ab328ed6089f305.png",
+  "original_sha256": "71adf6842969b64d093f8e33e2eb7d992851ad3acbbd7be81ab328ed6089f305",
+  "original_available": true,
+  "review_source_sha256": "71adf6842969b64d093f8e33e2eb7d992851ad3acbbd7be81ab328ed6089f305",
+  "webp_src": "img/idioms/249.webp",
+  "webp_sha256": "1d39013f59664a1b2a4caa18743871f7158ec4145b4413de189f9e7863e84ac9",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-04",
+  "alt": "居民拿著被毀物品和照片指認男子，記錄者面前長卷紙越記越長；桌上、地上堆滿碎盆、斷燈與損壞用品，男子仍抱臂不理。",
+  "issues": [
+    "text_brand_watermark: 全部長卷旁有成行仿文字與列點記錄，明確違反無類文字。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "多位不同受害者指認同一人、各種毀損證物和長卷紀錄多到溢桌，罪狀極多而非只一次失手打破花盆。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "抱臂者、眾證物、極長紀錄三者關係清楚，手機可讀惡行累積。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持證物、指照片、握筆與抱臂手五指或物件遮擋自然，人物鞋腿著地無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "證物照片受手或桌承托、紙卷落地有捲曲，破盆是事件證據而非錯誤結構，物理合理。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "全部長卷旁有成行仿文字與列點記錄，明確違反無類文字。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區公共設施損壞指認、便服成人長者合理。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有人物領口無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 209,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        605,
+        1274
+      ],
+      "method": "All nine comparison sheets actually viewed after full and native-resolution details of all 50 targets. Full website images 605 and 1274 additionally inspected. Comparison candidates are not counted as audited targets.",
+      "near_duplicates": {
+        "248": "與605「十拿九穩」全圖比較，同為左側男孩出手投物、女孩站後方、右側圓洞目標收集已投中物，成功投擲的主構圖及故事可互換；僅換軟球和豆袋、網與籃不足以分辨成語，依近重複規則不通過。",
+        "260": "與1274「搖搖欲墜」全圖比較，兩位驚恐人物圍桌，中央高疊歪積木、一人伸手另一人縮手看塔將倒；換成木球底與蛋形旁件仍是同一失衡高塔主構圖，近義詞圖可互換，依近重複規則不通過。"
+      },
+      "distinguished_comparisons": "232與138同有園藝計畫但前者向眾人公開材料、後者圍圖分工，主動作不同，未另判近重複；246解除機關堵塞與273整理木片工具、278製作鳥飾流程不同；262站凳忘形與1106舉獎盃運動場慶祝，場景與動作不同。271全場可走入互動木景，與233投影影箱不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容罪狀極多。貶義。",
+    "syn": "擢髮難數",
+    "ant": ""
+  },
+  "latest_rejected_candidate": {
+    "batch": "batch-28-group-4-redraw-41",
+    "original_sha256": "3d597440e7fba40b5a4193568c5d86e5e0292e06a5d869245823582fa27eea79",
+    "original_archive_path": "originals/3d597440e7fba40b5a4193568c5d86e5e0292e06a5d869245823582fa27eea79.png",
+    "review_archive_path": "records/reviews/51d308cabc35de017b167989ffd07522ccf58bec3b646bc902fb9f62e7a7bfdc.json",
+    "passed": false
+  }
+}
