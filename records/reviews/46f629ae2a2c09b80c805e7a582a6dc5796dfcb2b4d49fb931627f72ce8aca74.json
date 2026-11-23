@@ -1,0 +1,84 @@
+{
+  "no": 231,
+  "kind": "existing",
+  "word": "勢不兩立",
+  "path": "/workspace/chengyu-preservation/originals/40d1d5555387860a082ecc5f4a8442b063356c292ca37aa1ab611c54e509ff59.png",
+  "original_sha256": "40d1d5555387860a082ecc5f4a8442b063356c292ca37aa1ab611c54e509ff59",
+  "original_available": true,
+  "review_source_sha256": "40d1d5555387860a082ecc5f4a8442b063356c292ca37aa1ab611c54e509ff59",
+  "webp_src": "img/idioms/231.webp",
+  "webp_sha256": "5b1fa64e1cfad4280c0ae5aef5312b41d425190f5f3f2365818d9fc10cbe2368",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-04",
+  "alt": "兩組人各捧一件房間模型，左邊是安靜閱覽區，右邊是樂器舞台；大家皺眉對望，都朝向地面同一塊空區，誰也不願退讓。",
+  "issues": [
+    "meaning: 兩組想用同一空間而對立，但只是可協商或分時使用的規劃分歧，沒有敵對雙方無法同時並存的關鍵，亦可能只是理念相反。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "兩組想用同一空間而對立，但只是可協商或分時使用的規劃分歧，沒有敵對雙方無法同時並存的關鍵，亦可能只是理念相反。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "兩派左右對稱、中間唯一空區醒目，手機可讀競爭位置。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "托板手四指托下拇指壓上、後排抓牆手指自然遮擋，六人各臂肩連續無多肢，鞋落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "大型模型由前後多人托持、模內家具樂器有底板支撐、地面虛線是空間標示非漂浮物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "模型書本只色面、樂器為結構，地面線段不構成字母數字，無品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區公共空間、便服成年人與現代室內設備合理。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有人領口無紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 209,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        605,
+        1274
+      ],
+      "method": "All nine comparison sheets actually viewed after full and native-resolution details of all 50 targets. Full website images 605 and 1274 additionally inspected. Comparison candidates are not counted as audited targets.",
+      "near_duplicates": {
+        "248": "與605「十拿九穩」全圖比較，同為左側男孩出手投物、女孩站後方、右側圓洞目標收集已投中物，成功投擲的主構圖及故事可互換；僅換軟球和豆袋、網與籃不足以分辨成語，依近重複規則不通過。",
+        "260": "與1274「搖搖欲墜」全圖比較，兩位驚恐人物圍桌，中央高疊歪積木、一人伸手另一人縮手看塔將倒；換成木球底與蛋形旁件仍是同一失衡高塔主構圖，近義詞圖可互換，依近重複規則不通過。"
+      },
+      "distinguished_comparisons": "232與138同有園藝計畫但前者向眾人公開材料、後者圍圖分工，主動作不同，未另判近重複；246解除機關堵塞與273整理木片工具、278製作鳥飾流程不同；262站凳忘形與1106舉獎盃運動場慶祝，場景與動作不同。271全場可走入互動木景，與233投影影箱不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻敵對的雙方不能同時並存。",
+    "syn": "水火不容、不共戴天、你死我活、誓不兩立、勢如水火",
+    "ant": "水乳交融、脣齒相依、親密無間"
+  }
+}

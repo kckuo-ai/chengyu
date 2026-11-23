@@ -1,0 +1,68 @@
+{
+  "no": 268,
+  "kind": "regenerate",
+  "word": "口蜜腹劍",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/268.png",
+  "original_sha256": "67921d7cd8f2d837320b6e23253265dad90267d0b65900f0ba17d489dbffde04",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "男孩笑著對女孩稱讚她手裡的玩具車，話泡畫著花束，心裡卻想趁她轉身時偷偷拔掉車輪，露出狡猾而得意的笑容。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "主景男孩笑著說好聽話、豎拇指，話泡是花束；連到他的想像框卻畫出趁女孩轉身偷偷拆車輪、露出惡笑，外在甜言與內在加害意圖對照清楚。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是男孩笑著對女孩稱讚她手裡的玩具車；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "主景女孩兩手托車、男孩扶桌與拇指手正常，想像格一手扶車另一手拔輪，手指被物件合理遮擋。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "想像框輪子沿車軸向外拔出，車體由另一手固定；主景車在掌上受支撐，泡泡分別用話尾與思考小圈區分。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小教室窗景，兩名孩子藍綠短袖、學齡頭身，使用木製教具車，沒有古裝或異國物件。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "990873279c7081a005f88fc1d5272f18c6eb8ec6f9c0e8a52404d25f6e9cacce",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/d7095731b5c9db1f48fa5e82173fd4729e8ba1bba0c9a2cc9b6f0fbdf71cf1ce.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻一個人嘴上說得好聽，事實上卻內心險惡，處處想陷害別人。",
+    "syn": "佛口蛇心、表裡不一、笑裡藏刀",
+    "ant": "表裡如一"
+  },
+  "webp_src": "img/idioms/268-67921d7cd8f2.webp",
+  "webp_sha256": "bd4428aa1dba0569f9fa55b570ae182c1631dc224adf10682456ad1f6a661f64"
+}

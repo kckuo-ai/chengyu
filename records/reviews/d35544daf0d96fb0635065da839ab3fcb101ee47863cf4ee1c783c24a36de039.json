@@ -1,0 +1,68 @@
+{
+  "no": 259,
+  "kind": "regenerate",
+  "word": "開門揖盜",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/259.png",
+  "original_sha256": "be25a68e50c7d3c73bff91dc655d9d359aa094ea55dd6d5bbec197c8f61a841a",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "女孩先拿照片提醒男孩小心偷筆的人，他卻開心迎那人入門，後來對方把畫筆裝進布袋，兩個孩子才驚慌地伸手阻止。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "女孩先拿照片警告某男子曾拿走畫筆，男孩擺手不理，下一格主動迎男子入內，末格男子再偷走畫筆、男孩驚慌，清楚是自己引進壞人而受害。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是女孩先拿照片提醒男孩小心偷筆的人；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "三格發警告、揮掌、開門與攤袋取筆的手可追蹤，男孩驚慌張掌五指，無增減肢體。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "畫筆罐從櫃上被放進布袋，手一撐袋口另一手持罐；門鉸方向、畫架支撐與櫃體透視一致。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣美術教室，國小孩子穿白綠短袖，陌生成人穿帽子外套布袋，成人與兒童頭身比例有別。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "5692c4fdefb6543d038b387c2819e4570d6fc4a80541ae219e8be5775fdc195d",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/e67b070803011976ba56f5d034d9ece21fdd31a73d151f7278dd45f4a453e5ce.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻引進壞人，自招禍患。",
+    "syn": "引水入牆、引狼入室",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/259-be25a68e50c7.webp",
+  "webp_sha256": "d61b2aa4e1b267f040b57dd85c07953232f5dfd7b7af9e1684aa99b634fa3c88"
+}

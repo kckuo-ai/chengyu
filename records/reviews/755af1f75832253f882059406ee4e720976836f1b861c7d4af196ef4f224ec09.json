@@ -1,0 +1,84 @@
+{
+  "no": 260,
+  "kind": "existing",
+  "word": "危如累卵",
+  "path": "/workspace/chengyu-preservation/originals/6ac3f6d56c1e1078947cf7a0cc3d603a53e8e1a41c15f295f5e972b83b88ff54.png",
+  "original_sha256": "6ac3f6d56c1e1078947cf7a0cc3d603a53e8e1a41c15f295f5e972b83b88ff54",
+  "original_available": true,
+  "review_source_sha256": "6ac3f6d56c1e1078947cf7a0cc3d603a53e8e1a41c15f295f5e972b83b88ff54",
+  "webp_src": "img/idioms/260.webp",
+  "webp_sha256": "65c47bf313ddc87af5eeb5cb22212c0da06dcbc4271d5e9bde10e01cec55ca19",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-04",
+  "alt": "男孩伸手靠近歪斜的積木高塔，塔底只靠一顆木球支撐，頂端木塊已晃動；女孩縮起雙手睜大眼睛，緊張看著即將倒下的塔。",
+  "issues": [
+    "meaning: 細小圓球撐住極高歪塔、晃動欲倒，極度不穩危險清楚，不只照字面疊雞蛋。 與1274「搖搖欲墜」全圖比較，兩位驚恐人物圍桌，中央高疊歪積木、一人伸手另一人縮手看塔將倒；換成木球底與蛋形旁件仍是同一失衡高塔主構圖，近義詞圖可互換，依近重複規則不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "細小圓球撐住極高歪塔、晃動欲倒，極度不穩危險清楚，不只照字面疊雞蛋。 與1274「搖搖欲墜」全圖比較，兩位驚恐人物圍桌，中央高疊歪積木、一人伸手另一人縮手看塔將倒；換成木球底與蛋形旁件仍是同一失衡高塔主構圖，近義詞圖可互換，依近重複規則不通過。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "高塔置中、兩人驚恐表情包圍，手機能看出失衡。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "伸手五指前後遮擋自然、握拳手指關節與臂肩連續，下肢受桌遮，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "球與底板、最下積木相觸，堆疊傾斜是故事將倒而非意外浮空，桌上蛋形木件有底板支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "積木衣物畫框無文字字母數字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代居家積木活動、國小男女孩年齡比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩人頸口無紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 209,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        605,
+        1274
+      ],
+      "method": "All nine comparison sheets actually viewed after full and native-resolution details of all 50 targets. Full website images 605 and 1274 additionally inspected. Comparison candidates are not counted as audited targets.",
+      "near_duplicates": {
+        "248": "與605「十拿九穩」全圖比較，同為左側男孩出手投物、女孩站後方、右側圓洞目標收集已投中物，成功投擲的主構圖及故事可互換；僅換軟球和豆袋、網與籃不足以分辨成語，依近重複規則不通過。",
+        "260": "與1274「搖搖欲墜」全圖比較，兩位驚恐人物圍桌，中央高疊歪積木、一人伸手另一人縮手看塔將倒；換成木球底與蛋形旁件仍是同一失衡高塔主構圖，近義詞圖可互換，依近重複規則不通過。"
+      },
+      "distinguished_comparisons": "232與138同有園藝計畫但前者向眾人公開材料、後者圍圖分工，主動作不同，未另判近重複；246解除機關堵塞與273整理木片工具、278製作鳥飾流程不同；262站凳忘形與1106舉獎盃運動場慶祝，場景與動作不同。271全場可走入互動木景，與233投影影箱不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻情況非常危險。",
+    "syn": "千鈞一髮、危在旦夕、岌岌可危、間不容髮、搖搖欲墜、積薪厝火",
+    "ant": "安如泰山、安如磐石、巋然不動"
+  }
+}

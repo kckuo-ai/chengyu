@@ -1,0 +1,84 @@
+{
+  "no": 227,
+  "kind": "existing",
+  "word": "強詞奪理",
+  "path": "/workspace/chengyu-preservation/originals/496cc34f50a70f4bf06b4c0a600ae2494da93f383b68f6cd0dd770b1d5723108.png",
+  "original_sha256": "496cc34f50a70f4bf06b4c0a600ae2494da93f383b68f6cd0dd770b1d5723108",
+  "original_available": true,
+  "review_source_sha256": "496cc34f50a70f4bf06b4c0a600ae2494da93f383b68f6cd0dd770b1d5723108",
+  "webp_src": "img/idioms/227.webp",
+  "webp_sha256": "3c2839c675fb9ee5db1d291c58d18439c0bef309aade1bdf0206a91bf008c6be",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-04",
+  "alt": "男子拿著一片明顯不合缺口的拼圖大聲辯說，另一人指向空缺，長者們困惑望著他；桌上幾乎拼好的湖景圖仍缺一角。",
+  "issues": [
+    "meaning: 錯片與辯說可見，但不知他究竟主張錯片必合、責怪別人還是單純找不到片，缺少明確反證下仍強辯的立場，不能只靠怒吼確認無理狡辯。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "錯片與辯說可見，但不知他究竟主張錯片必合、責怪別人還是單純找不到片，缺少明確反證下仍強辯的立場，不能只靠怒吼確認無理狡辯。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "持片大聲者與被指空缺都清楚，手機可讀爭執焦點。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持片四長指及遮後拇指、開掌五指、指缺口和長者交手托頰均正常，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "拼圖平放桌、手持片與盒中散片有厚度，缺口形與持片不同是故事問題非透視錯誤。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "頭上是連續雜亂圈而非可讀字符，杯與圖紙無字母數字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代家庭桌遊、便服成年人與長者比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "每人衣領無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 209,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        605,
+        1274
+      ],
+      "method": "All nine comparison sheets actually viewed after full and native-resolution details of all 50 targets. Full website images 605 and 1274 additionally inspected. Comparison candidates are not counted as audited targets.",
+      "near_duplicates": {
+        "248": "與605「十拿九穩」全圖比較，同為左側男孩出手投物、女孩站後方、右側圓洞目標收集已投中物，成功投擲的主構圖及故事可互換；僅換軟球和豆袋、網與籃不足以分辨成語，依近重複規則不通過。",
+        "260": "與1274「搖搖欲墜」全圖比較，兩位驚恐人物圍桌，中央高疊歪積木、一人伸手另一人縮手看塔將倒；換成木球底與蛋形旁件仍是同一失衡高塔主構圖，近義詞圖可互換，依近重複規則不通過。"
+      },
+      "distinguished_comparisons": "232與138同有園藝計畫但前者向眾人公開材料、後者圍圖分工，主動作不同，未另判近重複；246解除機關堵塞與273整理木片工具、278製作鳥飾流程不同；262站凳忘形與1106舉獎盃運動場慶祝，場景與動作不同。271全場可走入互動木景，與233投影影箱不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻人沒有道理卻強自狡辯。",
+    "syn": "",
+    "ant": "入情入理、理直氣壯、義正詞嚴"
+  }
+}

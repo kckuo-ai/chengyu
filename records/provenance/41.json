@@ -6519,5 +6519,13 @@
       "batch": "batches-24-25",
       "source": "docs/illustration-prompts.json#entries/154"
     }
+  ],
+  "41fdb25401073f64476cc4a7b528fb38a077699ce850a5eaa0abe047b15329e3": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-28-group-4-redraw-41",
+      "source_file": "review-manifest.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
   ]
 }

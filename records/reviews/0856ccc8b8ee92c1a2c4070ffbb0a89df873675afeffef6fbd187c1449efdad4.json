@@ -1,0 +1,68 @@
+{
+  "no": 272,
+  "kind": "regenerate",
+  "word": "枕戈待旦",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/272.png",
+  "original_sha256": "53c682124e7f573f84e201782b5bd6b16f36f2b7a8d1718c469c86364d2ae09a",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "暴雨深夜裡三名工作者仍留在室內待命，一人望窗監看、一人緊握手電筒，另一人核對河谷地圖，桌上備妥救援用品。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "深夜暴雨中三名工作者仍分別望窗監看、緊握手電筒待命、核對河谷地圖，雨衣繩索急救箱備齊，表現全神戒備不敢鬆懈。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是暴雨深夜裡三名工作者仍留在室內待命；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "望窗者雙手扶框台，女子雙手握筒，男子雙掌五指按圖，肩肘腕連續，腰下自然裁切。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "地圖是無字圖畫，摺痕隨桌面；手電筒受雙手握持，繩索雨衣急救箱平放桌面，窗外雨與光源一致。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣山區社區夜間防災待命，現代工作背心、襯衫與急救箱，窗外水泥村屋河谷，非古代守軍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "946cc888a89d53b4775909e184688786ff9c9808810575cdf943d23c498430f1",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/ac15ad8d5d56e0c67fef3b5aacd164cc523eecf1ca2124eed9ddb5529974ca15.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容殺敵報國之心急切，隨時準備作戰。＆形容人全神戒備，絲毫不敢鬆懈。",
+    "syn": "枕戈寢甲、蓄勢待發、嚴陣以待",
+    "ant": "高枕而臥、高枕無憂、醉生夢死"
+  },
+  "webp_src": "img/idioms/272-53c682124e7f.webp",
+  "webp_sha256": "edf94d7db1e3c36152b9f7b75aa1e2b5cb7d1143d008b6584986cd10d6a8ebee"
+}

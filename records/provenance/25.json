@@ -14274,5 +14274,21 @@
       "batch": "batches-24-25",
       "source": "docs/illustration-reviews.json#entries/141"
     }
+  ],
+  "2583a6ce2fcf4d23a4dea6b0b132a9348d12871994e1c8aace6338203caee455": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-04",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-04/234.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
+  ],
+  "25fd619ad0b45fec0f7ea3a700691e55cc21c7fec2f3ab8d1d8646a36ef3a27e": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-28-group-4-redraw-41",
+      "source_file": "268.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
   ]
 }

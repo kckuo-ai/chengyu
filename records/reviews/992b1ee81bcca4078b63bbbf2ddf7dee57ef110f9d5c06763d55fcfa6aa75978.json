@@ -1,0 +1,68 @@
+{
+  "no": 256,
+  "kind": "regenerate",
+  "word": "家喻戶曉",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/256.png",
+  "original_sha256": "e00ae6633485aa444c4a8a3168fa4e4c85a2e396bda069494d583779ffc275ec",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "三個有不同沙發與窗簾的家庭都拿著同一本兔子圖畫書，從長輩到孩子都笑著指認熟悉的角色，彼此熱烈分享故事。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "三個有不同窗簾沙發與年齡組合的家庭都拿同一本兔子圖畫，孩子主動指認且大家熟悉地微笑，表現從長輩到兒童各家皆知。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是三個有不同沙發與窗簾的家庭都拿著同一本兔子圖畫書；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "三格拿書與指認的手均可追蹤到人物，握上緣四指與背面拇指遮蔽正常，孩子扶桌手無多指。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "同一兔子封面前後一致，書本立在桌面由手扶持；家具、花盆有落點，無書名文字。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "三戶台灣現代家庭，不同窗簾與沙發、鋁窗公寓景；長輩成年家人與國小孩子比例可分，服裝為襯衫制服。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "64865d4a713e0ada93db80eb74e01fc8c1a3f305530993b6eaaf789dbe7b117a",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/6b2a37cd4836cd2423165f5f114b5ad0ad9ba52346baca237a3640976f0f7c09.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容事情、名聲傳播極廣。",
+    "syn": "名滿天下、眾所周知、婦孺皆知",
+    "ant": "不見經傳、沒沒無聞、聞所未聞"
+  },
+  "webp_src": "img/idioms/256-e00ae6633485.webp",
+  "webp_sha256": "d268eb16bd9463d8138cb9bdc6b7ee43a74fe0df0cd41eced26476524ec18409"
+}

@@ -1,0 +1,68 @@
+{
+  "no": 245,
+  "kind": "regenerate",
+  "word": "明日黃花",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/245.png",
+  "original_sha256": "0c8b511044c20b7b98abd001a351fa882fdcd4b8ec60153fbbd4fee1d1224869",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "同學原先圍著男孩手中的發條鳥讚嘆，後來改玩新的飛行玩具，他低頭把已積滿灰塵的舊鳥收進紙箱，神情失落。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "左格同學爭看發條鳥，右格同伴已改玩新飛行玩具，他把同一隻已積灰的鳥收進箱中；原本受歡迎的物品已被新潮流取代。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是同學原先圍著男孩手中的發條鳥讚嘆；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "兩格三名孩子的拍手、持鳥、握飛機與收箱手均可追蹤；張掌五指清楚，無增減手臂，膝下自然裁切。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "鳥的發條柄、座腳與外形前後對應，右格灰塵附著舊鳥；箱蓋由手扶住，鳥放入箱底。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小校園，三名孩子穿短袖白制服與深藍褲裙，玩具與紙飛行器適合國小年齡，背景現代教室。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "4b39e629f34ee10d31d5d22bdf239c83d8a684b8cae7349b3d00521c32f0fa6d",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/f1228e481ed98be32b97d99a8fd726a65bc5e9e978430aa9eda883b2539410ba.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻過時的事物。",
+    "syn": "時過境遷",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/245-0c8b511044c2.webp",
+  "webp_sha256": "1354768143185efce62c02bc344a3d6021f51c036318c6ddb4d8bd8de2c26753"
+}

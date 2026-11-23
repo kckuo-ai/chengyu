@@ -13307,5 +13307,13 @@
       "batch": "batches-26-27",
       "source": "docs/illustration-reviews.json#entries/156"
     }
+  ],
+  "f7e831ea1ee2eb30fe4dd3bda16624433e7cbf80ab1b71837e6daf65988fd57b": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-04",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-04/277.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

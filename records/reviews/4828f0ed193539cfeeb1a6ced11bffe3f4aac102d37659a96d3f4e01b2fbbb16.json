@@ -1,0 +1,68 @@
+{
+  "no": 234,
+  "kind": "regenerate",
+  "word": "大公無私",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/234.png",
+  "original_sha256": "e4a3e3bbab143ad29bfe0fbc996debabdb28cfec3b9c789f0b2dfe421601d268",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "發放物品的女子向拿合照求情的男子舉掌拒絕，同時把同樣大小的紙包交給背書包的孩子，桌上和籃內還有整齊包裹。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "男子拿著與發放者合照要求通融，她向男子張掌拒絕，同時給排到的學生與桌上同尺寸的包裹；拒絕人情而照規則分配清楚。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是發放物品的女子向拿合照求情的男子舉掌拒絕；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男子持照片與攤掌兩手、女子拒絕五指掌與托物手、學生接包雙手均可辨，肩肘連接自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "包裹在女方手掌與學生雙手之間受支撐，桌上及籃內包裹大小一致；照片被手指扣持而非懸浮。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣校園發放物品，女子穿襯衫圍裙，成人男子休閒上衣，學生白制服背書包，身高與頭身差明確。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "6f47a7128e37025a914d75b9cfab952e4ef144b391925698623d0978a81ef932",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/2583a6ce2fcf4d23a4dea6b0b132a9348d12871994e1c8aace6338203caee455.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "秉公處理，毫無偏私。褒義。",
+    "syn": "守正不阿、鐵面無私",
+    "ant": "自私自利、徇私舞弊、徇情枉法、假公濟私"
+  },
+  "webp_src": "img/idioms/234-e4a3e3bbab14.webp",
+  "webp_sha256": "afed18698d3f332508b1d8eafd51e20a66b47cfea2382ed194a281b9c8086f88"
+}

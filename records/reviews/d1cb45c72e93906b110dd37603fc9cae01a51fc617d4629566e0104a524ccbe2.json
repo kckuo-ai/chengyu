@@ -1,0 +1,68 @@
+{
+  "no": 263,
+  "kind": "regenerate",
+  "word": "小巫見大巫",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/263.png",
+  "original_sha256": "0bc150985d553e33c2a6fa48c5704fd184d6bb106b5c35756d170c1a4db21c85",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "男孩先得意展示只有一層的小書架，來到同伴家卻看見整面到頂的滿滿藏書，立刻收手驚望，同伴正微笑伸手介紹。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "左格男孩自豪介紹僅一層的小書架，右格到了同伴滿牆書架前縮手驚訝，兩份藏書規模與人物態度形成相形失色的明確對照。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是男孩先得意展示只有一層的小書架；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男孩攤掌五指、扶腰手、右格兩手交握及同伴雙手無增減，三人次的腿鞋均正常著地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "小書架與大書牆的層板、書本厚度、地板透視一致，所有書脊空白無文字。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代住家書房，兩位國小孩子藍綠短袖短褲、白襪運動鞋，身材相近且為學齡比例，普通書櫃與鋁窗。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "47174de68e064dff8aa926713bdb207c2562dbd6ba17aeb46e69ccaeb2378a6b",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/e3a9aeda11657641bcba8aa6a529cf0c7029d46004759f06c78f92071068de40.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻相形見絀，無法相提並論。",
+    "syn": "相形失色、相形見絀",
+    "ant": "不分軒輊、不相上下、半斤八兩、伯仲之間"
+  },
+  "webp_src": "img/idioms/263-0bc150985d55.webp",
+  "webp_sha256": "61eb3e60be55a6c7b1ee9f682b636ef482b5f03b7bca211425da62016dcf1aab"
+}

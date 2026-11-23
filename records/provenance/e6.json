@@ -7008,5 +7008,13 @@
       "batch": "batches-26-27",
       "source": "docs/illustration-reviews.json#entries/206"
     }
+  ],
+  "e67b070803011976ba56f5d034d9ece21fdd31a73d151f7278dd45f4a453e5ce": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-04",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-04/259.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

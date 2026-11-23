@@ -1,0 +1,85 @@
+{
+  "no": 258,
+  "kind": "existing",
+  "word": "乳臭未乾",
+  "path": "/workspace/chengyu-preservation/originals/dbc9850d6e91ee70bbb091c1bd7fe7b9ad4925174248963c34cc74714a862e32.png",
+  "original_sha256": "dbc9850d6e91ee70bbb091c1bd7fe7b9ad4925174248963c34cc74714a862e32",
+  "original_available": true,
+  "review_source_sha256": "dbc9850d6e91ee70bbb091c1bd7fe7b9ad4925174248963c34cc74714a862e32",
+  "webp_src": "img/idioms/258.webp",
+  "webp_sha256": "d1ebff7039748a3bd177ace90d85cb42001fb4e153b2dcf3d4c54d47305ba33f",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-04",
+  "alt": "烘焙課上，男子拿著蛋液碗，看著自己尚未拌好的材料抓頭發愁；旁邊女子熟練攪拌麵糊，桌上排著麵粉、雞蛋與一盤小餅乾。",
+  "issues": [
+    "meaning: 只有烘焙新手與熟手對照，男子看來已成年，也沒有被譏年幼無經驗的關係，易讀成初學或力不從心。",
+    "hands_feet_pose: 近景抓頭托碗攪拌手自然，背景攪拌者露手模糊無法核實每手五指。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "只有烘焙新手與熟手對照，男子看來已成年，也沒有被譏年幼無經驗的關係，易讀成初學或力不從心。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "兩份材料與困惑、熟練對照明確，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "近景抓頭托碗攪拌手自然，背景攪拌者露手模糊無法核實每手五指。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "玻璃碗底落板與桌、匙入糊、蛋液受碗盛、蛋殼托盤有支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "瓶罐圍裙烤盤均無文字字母數字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代烘焙教室、便服圍裙成人比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有人頸口無紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 209,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        605,
+        1274
+      ],
+      "method": "All nine comparison sheets actually viewed after full and native-resolution details of all 50 targets. Full website images 605 and 1274 additionally inspected. Comparison candidates are not counted as audited targets.",
+      "near_duplicates": {
+        "248": "與605「十拿九穩」全圖比較，同為左側男孩出手投物、女孩站後方、右側圓洞目標收集已投中物，成功投擲的主構圖及故事可互換；僅換軟球和豆袋、網與籃不足以分辨成語，依近重複規則不通過。",
+        "260": "與1274「搖搖欲墜」全圖比較，兩位驚恐人物圍桌，中央高疊歪積木、一人伸手另一人縮手看塔將倒；換成木球底與蛋形旁件仍是同一失衡高塔主構圖，近義詞圖可互換，依近重複規則不通過。"
+      },
+      "distinguished_comparisons": "232與138同有園藝計畫但前者向眾人公開材料、後者圍圖分工，主動作不同，未另判近重複；246解除機關堵塞與273整理木片工具、278製作鳥飾流程不同；262站凳忘形與1106舉獎盃運動場慶祝，場景與動作不同。271全場可走入互動木景，與233投影影箱不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "譏諷人年紀輕，沒有經驗與能力。貶義。",
+    "syn": "少不更事、羽毛未豐、乳臭小兒、黃口孺子",
+    "ant": "少年老成、老成持重、後生可畏"
+  }
+}

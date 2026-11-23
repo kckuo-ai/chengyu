@@ -1,0 +1,84 @@
+{
+  "no": 255,
+  "kind": "existing",
+  "word": "高枕無憂",
+  "path": "/workspace/chengyu-preservation/originals/8260070aa2b16dcdaa97da45b081d030d4ebe179ad7e32516fcc53ce1d424e24.png",
+  "original_sha256": "8260070aa2b16dcdaa97da45b081d030d4ebe179ad7e32516fcc53ce1d424e24",
+  "original_available": true,
+  "review_source_sha256": "8260070aa2b16dcdaa97da45b081d030d4ebe179ad7e32516fcc53ce1d424e24",
+  "webp_src": "img/idioms/255.webp",
+  "webp_sha256": "0a80bb0885bc1f2602986c3e52a10f7a2b7e15f634fd7e0e5af9951373748661",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-04",
+  "alt": "女子把旅途中要帶的物品都準備妥當，門窗也關好了，於是安心抱著枕頭入睡；床邊放著打開的行李箱，小貓蜷在她身旁睡覺。",
+  "issues": [
+    "text_brand_watermark: 清單中護照圖有金色字母樣印記、旁卡片有文字行，違反無文字字母要求。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "準備妥當、確認門窗而安心入睡，身心安適無掛慮清楚，不只是枕頭很高。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "確認小景、備妥清單與安睡主景因果明確，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "露出抱枕手指自然，其他肢體被被褥遮住符合躺臥，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "箱體鉸鏈拉鍊和網袋連接、枕被承托身體，床貓重力正常。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "清單中護照圖有金色字母樣印記、旁卡片有文字行，違反無文字字母要求。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代臥室、成人睡衣旅行用品自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "綠睡衣領口無紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 209,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        605,
+        1274
+      ],
+      "method": "All nine comparison sheets actually viewed after full and native-resolution details of all 50 targets. Full website images 605 and 1274 additionally inspected. Comparison candidates are not counted as audited targets.",
+      "near_duplicates": {
+        "248": "與605「十拿九穩」全圖比較，同為左側男孩出手投物、女孩站後方、右側圓洞目標收集已投中物，成功投擲的主構圖及故事可互換；僅換軟球和豆袋、網與籃不足以分辨成語，依近重複規則不通過。",
+        "260": "與1274「搖搖欲墜」全圖比較，兩位驚恐人物圍桌，中央高疊歪積木、一人伸手另一人縮手看塔將倒；換成木球底與蛋形旁件仍是同一失衡高塔主構圖，近義詞圖可互換，依近重複規則不通過。"
+      },
+      "distinguished_comparisons": "232與138同有園藝計畫但前者向眾人公開材料、後者圍圖分工，主動作不同，未另判近重複；246解除機關堵塞與273整理木片工具、278製作鳥飾流程不同；262站凳忘形與1106舉獎盃運動場慶祝，場景與動作不同。271全場可走入互動木景，與233投影影箱不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容身心安適，無憂無慮。",
+    "syn": "無憂無慮",
+    "ant": "危在旦夕、忐忑不安"
+  }
+}

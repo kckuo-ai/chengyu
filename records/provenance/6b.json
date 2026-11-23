@@ -10121,5 +10121,21 @@
       "reviewer": "independent-visual-review-2026-11-23",
       "reviewed_main": "1afe65a863c239cc160142d5c4d7e23a2b56643b"
     }
+  ],
+  "6b2a37cd4836cd2423165f5f114b5ad0ad9ba52346baca237a3640976f0f7c09": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-04",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-04/256.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
+  ],
+  "6bdd74c96b6b8b4b483ea7944995e4d3b747da8984ce3f8bc4d5b8e1bd436fa9": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-28-group-4-redraw-41",
+      "source_file": "271.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
   ]
 }

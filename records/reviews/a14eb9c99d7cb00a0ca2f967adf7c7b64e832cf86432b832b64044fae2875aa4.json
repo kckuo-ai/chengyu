@@ -1,0 +1,84 @@
+{
+  "no": 265,
+  "kind": "existing",
+  "word": "一塵不染",
+  "path": "/workspace/chengyu-preservation/originals/d2616fd9567eac91a1f6332e7d0ed924b4831edf19d49619d67d7d223a010501.png",
+  "original_sha256": "d2616fd9567eac91a1f6332e7d0ed924b4831edf19d49619d67d7d223a010501",
+  "original_available": true,
+  "review_source_sha256": "d2616fd9567eac91a1f6332e7d0ed924b4831edf19d49619d67d7d223a010501",
+  "webp_src": "img/idioms/265.webp",
+  "webp_sha256": "1c5adb90fc6b9672b699a460bec01ed03d1208f2f306362213128aaacda36d96",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-04",
+  "alt": "女子拿著抹布擦拭明亮窗臺，木桌、書架與地板都收拾得整整齊齊，陽光從窗邊照進屋內；盆栽和畫具各有位置，室內十分潔淨。",
+  "issues": [
+    "text_brand_watermark: 多本書脊有細小仿字直行、桌上攤書有淡色行文，無文字要求不過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "採非常乾淨毫無灰塵義，窗臺地板桌面明亮整潔、人物正在細擦，不宣稱品格義。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "明亮乾淨大面積與擦拭動作集中，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "擦布五指自然、手腕連袖，另一臂受身體遮、下腳畫外，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "布與掌壓窗臺、盆受臺桌托、書架層板相接、椅桌腳落地合理。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "多本書脊有細小仿字直行、桌上攤書有淡色行文，無文字要求不過。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代居家整理、便服圍裙女子比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "白領口無紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 209,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        605,
+        1274
+      ],
+      "method": "All nine comparison sheets actually viewed after full and native-resolution details of all 50 targets. Full website images 605 and 1274 additionally inspected. Comparison candidates are not counted as audited targets.",
+      "near_duplicates": {
+        "248": "與605「十拿九穩」全圖比較，同為左側男孩出手投物、女孩站後方、右側圓洞目標收集已投中物，成功投擲的主構圖及故事可互換；僅換軟球和豆袋、網與籃不足以分辨成語，依近重複規則不通過。",
+        "260": "與1274「搖搖欲墜」全圖比較，兩位驚恐人物圍桌，中央高疊歪積木、一人伸手另一人縮手看塔將倒；換成木球底與蛋形旁件仍是同一失衡高塔主構圖，近義詞圖可互換，依近重複規則不通過。"
+      },
+      "distinguished_comparisons": "232與138同有園藝計畫但前者向眾人公開材料、後者圍圖分工，主動作不同，未另判近重複；246解除機關堵塞與273整理木片工具、278製作鳥飾流程不同；262站凳忘形與1106舉獎盃運動場慶祝，場景與動作不同。271全場可走入互動木景，與233投影影箱不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "佛家修道的人，不被六塵（色、聲、香、味、觸、法）所玷汙。＆比喻人品純潔，絲毫不沾染壞習氣。＆形容非常乾淨，一點灰塵都沒有。",
+    "syn": "六根清淨、玉潔冰清、嶔崎磊落、窗明几淨",
+    "ant": "同流合汙"
+  }
+}

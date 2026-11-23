@@ -1,0 +1,68 @@
+{
+  "no": 257,
+  "kind": "regenerate",
+  "word": "安步當車",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/257.png",
+  "original_sha256": "6b63167c219282653c4aabc18048531f1b3747bf713bebb4c7c481318836f81d",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "男子提著布袋在樹蔭下慢慢走，微笑望著街邊花草，旁邊的公車已經開遠；整齊騎樓、花台與現代住宅沿路延伸。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "男子手提布袋在台灣街道樹蔭下微笑慢走，旁邊公車已離去仍毫不趕追，以步行的從容態度作主焦點。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是男子提著布袋在樹蔭下慢慢走；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "雙手一握袋帶一自然垂下，指節沒有增減；前後鞋沿步行方向接到雙腿，重心在前腳。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "袋帶在手內受力，布袋自然下垂，花盆置架、路樹植在花台，公車車輪接路面。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣騎樓、人行道花台、現代公寓與公車，男子穿短袖上衣長褲球鞋、提環保布袋，街景具當代生活特徵。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "e7345a9a8073ada56088aaf0a8bd1fe29a72052f1af4dabeb715117f2a4d7b2d",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/f95993f3b7bef5b132d1d89dc1f60d2b6b89e0690d3da8fe4ab6cab9704424fb.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻安貧樂賤。＆形容態度悠閒從容。",
+    "syn": "緩步徐行",
+    "ant": "駟馬高車、健步如飛、駟馬高車"
+  },
+  "webp_src": "img/idioms/257-6b63167c2192.webp",
+  "webp_sha256": "ecc507100433a192dd0f586da2aa455bec401adb2e83b1cf00d933c0eb3fecb2"
+}

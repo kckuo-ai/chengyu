@@ -1,0 +1,68 @@
+{
+  "no": 258,
+  "kind": "regenerate",
+  "word": "乳臭未乾",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/258.png",
+  "original_sha256": "05c8afc7dc771549516520085bf54d7ff325c7d437a8a6a39deaffe44ccd9258",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "小男孩得意仰頭，手中兩根木條卻把凸榫互對；旁邊同學已做好方框，老師拿著木槌，指向桌上的正確凹槽提醒他。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "小男孩仰頭得意卻把兩個凸榫互對，年長同學已有做好的框，老師指桌上正確榫卯提醒；用錯誤動作呈現年幼缺經驗與能力。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是小男孩得意仰頭；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男孩兩手分持木條，同學握框、扶桌，老師持木槌與指木料，各手無增減；桌後自然裁切。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "錯誤的兩凸榫刻意不吻合，桌上正確凹槽與凸榫對應，木槌柄與頭相連，框置桌受支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小木工課，孩子白短袖制服、教師襯衫工作圍裙，學生身高頭身與成人有別，教室窗與木桌現代。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "dbc9850d6e91ee70bbb091c1bd7fe7b9ad4925174248963c34cc74714a862e32",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/3306332c2bb60b325e810db051242ccb0b384eb20e127c26ed0df67460ee6266.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "譏諷人年紀輕，沒有經驗與能力。貶義。",
+    "syn": "少不更事、羽毛未豐、乳臭小兒、黃口孺子",
+    "ant": "少年老成、老成持重、後生可畏"
+  },
+  "webp_src": "img/idioms/258-05c8afc7dc77.webp",
+  "webp_sha256": "64df52d038e5900aa0986c7030bb725f5c3d785038b6871b7b80e89c89618135"
+}

@@ -1,0 +1,85 @@
+{
+  "no": 278,
+  "kind": "existing",
+  "word": "按部就班",
+  "path": "/workspace/chengyu-preservation/originals/ad3202a18f9649ae1a9084085d36c8cec2268c6b786ff9e6b75340da88b420d2.png",
+  "original_sha256": "ad3202a18f9649ae1a9084085d36c8cec2268c6b786ff9e6b75340da88b420d2",
+  "original_available": true,
+  "review_source_sha256": "ad3202a18f9649ae1a9084085d36c8cec2268c6b786ff9e6b75340da88b420d2",
+  "webp_src": "img/idioms/278.webp",
+  "webp_sha256": "e78a63c3130093d671c00fae8e11fd05882d717737d3a70d8d5a53e1bf5af1f5",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-04",
+  "alt": "女子先從分格木箱挑出材料，再把木鳥裝到圓底座上，最後雙手捧起完成的鳥屋擺飾欣賞；桌上留著木片、圓棒和幾件相似作品。",
+  "issues": [
+    "meaning: 三段雖有順序，但中段雙層圓板裝置在成品消失，步驟不能對應同一物件，難作依規定層次完成的清楚示例。",
+    "objects_contact_perspective: 中段木棒穿雙層圓板，末段只有單層底板，未畫拆卸就改變結構；各單景支撐正常但連續裝配不一致。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "三段雖有順序，但中段雙層圓板裝置在成品消失，步驟不能對應同一物件，難作依規定層次完成的清楚示例。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左中右箭頭和同人同衣清晰，手機可讀流程。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "選料、扶底座、裝鳥及雙掌捧作五指或物件遮擋合理，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": false,
+      "evidence": "中段木棒穿雙層圓板，末段只有單層底板，未畫拆卸就改變結構；各單景支撐正常但連續裝配不一致。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "木箱工具衣物無文字字母數字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代木作室、便服圍裙成人比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "白衣頸口無紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 209,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        605,
+        1274
+      ],
+      "method": "All nine comparison sheets actually viewed after full and native-resolution details of all 50 targets. Full website images 605 and 1274 additionally inspected. Comparison candidates are not counted as audited targets.",
+      "near_duplicates": {
+        "248": "與605「十拿九穩」全圖比較，同為左側男孩出手投物、女孩站後方、右側圓洞目標收集已投中物，成功投擲的主構圖及故事可互換；僅換軟球和豆袋、網與籃不足以分辨成語，依近重複規則不通過。",
+        "260": "與1274「搖搖欲墜」全圖比較，兩位驚恐人物圍桌，中央高疊歪積木、一人伸手另一人縮手看塔將倒；換成木球底與蛋形旁件仍是同一失衡高塔主構圖，近義詞圖可互換，依近重複規則不通過。"
+      },
+      "distinguished_comparisons": "232與138同有園藝計畫但前者向眾人公開材料、後者圍圖分工，主動作不同，未另判近重複；246解除機關堵塞與273整理木片工具、278製作鳥飾流程不同；262站凳忘形與1106舉獎盃運動場慶祝，場景與動作不同。271全場可走入互動木景，與233投影影箱不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻做事依照一定的層次、步驟進行。",
+    "syn": "循序漸進",
+    "ant": "越次超倫"
+  }
+}

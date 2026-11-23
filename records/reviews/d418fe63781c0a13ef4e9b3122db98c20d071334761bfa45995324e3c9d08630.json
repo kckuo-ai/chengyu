@@ -1,0 +1,68 @@
+{
+  "no": 232,
+  "kind": "regenerate",
+  "word": "開誠布公",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/232.png",
+  "original_sha256": "02b099e628630d08e6cdb7d7429739a805bea8f4b4278191a408a967642fa6e5",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "庭院裡男子按胸攤掌說明不同花盆，另外兩人皺眉傾聽；稍後大家笑著分工搬盆與裝土，桌邊放著花苗和園藝工具。",
+  "issues": [
+    "meaning: 左格男子手按胸口介紹兩種花盆，另兩人皺眉，右格三人微笑一起換盆；只能看出討論後合作，未明示坦白自己的想法且毫無私心。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "左格男子手按胸口介紹兩種花盆，另兩人皺眉，右格三人微笑一起換盆；只能看出討論後合作，未明示坦白自己的想法且毫無私心。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是庭院裡男子按胸攤掌說明不同花盆；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "手按胸、攤掌、抱臂、握鏟與扶盆各手接臂自然，器物遮住部分指尖無額外指；腰下裁切。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "陶盆套疊正常，花鏟入土袋與手柄接觸明確，盆口與底部透視一致。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣社區庭院或校園園藝活動，現代公寓、廊架與扶植花苗，成人穿襯衫休閒上衣，無古裝與異國標識。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "1ae0ec35c98c79dfbf6fe6c40829b5381cf3e198d66afa8fc65af914db78b6f4",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/0394470069bf37c1de5850674f164bd537595924f391ecfbf5f3add7828b4ee3.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻誠意待人，坦白無私。",
+    "syn": "肝膽相照、推心置腹、開心見誠、推誠相見",
+    "ant": "明爭暗鬥、虛情假意、鉤心鬥角、爾虞我詐"
+  }
+}

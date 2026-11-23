@@ -11180,5 +11180,13 @@
       "batch": "batches-26-27",
       "source": "docs/illustration-prompts.json#entries/195"
     }
+  ],
+  "1e10111f090b69354b1b92c319df263dcd9e6a3900f0f6a5f5dd76d53297a925": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-04",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-04/253.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

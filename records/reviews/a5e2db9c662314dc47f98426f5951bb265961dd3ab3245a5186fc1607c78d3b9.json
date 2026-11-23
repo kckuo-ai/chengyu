@@ -1,0 +1,68 @@
+{
+  "no": 236,
+  "kind": "regenerate",
+  "word": "一絲不苟",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/236.png",
+  "original_sha256": "7822b872033d416da9c06ab2b2f1d4a11a251004d421ba1ea3d23ed410059575",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "女子靠近檢查手工冊的整齊縫線，桌上排列多冊完成品、線圈與骨刀，角落放大框顯示她小心握針穿過紙頁邊緣。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "女子逐一貼近檢查手工冊的縫線，旁邊數冊針距整齊；局部放大一針一孔的操作，具體凸顯連細節都認真核對。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是女子靠近檢查手工冊的整齊縫線；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女子持冊兩手與放大框握針、扶紙兩手都各有手掌和合理遮蔽的五指，無多餘肢體；桌下自然裁切。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "放大框線沿孔穿冊、指腹夾針；線圈與骨刀平放桌面，冊頁厚度與裝訂方向一致。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣手作裝訂工作桌，成年女子穿襯衫圍裙，用線裝製冊而非古裝讀書人，無異國標識。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "eb857a18070876470186bc38e64d1208a90dfc56951c883a8abd2ce29e783a9a",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/fccf20c40d55ba5607ad13d0d7e74f328825e9e07549b8c533c89f9f4025870f.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容做事認真，一點也不馬虎。",
+    "syn": "一板一眼",
+    "ant": "草草了事、粗枝大葉、敷衍了事"
+  },
+  "webp_src": "img/idioms/236-7822b872033d.webp",
+  "webp_sha256": "1687ad4b254542b427233a7421dadb26ed1ddc9813847ac1867b672fb5db6ae0"
+}

@@ -1,0 +1,84 @@
+{
+  "no": 234,
+  "kind": "existing",
+  "word": "大公無私",
+  "path": "/workspace/chengyu-preservation/originals/6f47a7128e37025a914d75b9cfab952e4ef144b391925698623d0978a81ef932.png",
+  "original_sha256": "6f47a7128e37025a914d75b9cfab952e4ef144b391925698623d0978a81ef932",
+  "original_available": true,
+  "review_source_sha256": "6f47a7128e37025a914d75b9cfab952e4ef144b391925698623d0978a81ef932",
+  "webp_src": "img/idioms/234.webp",
+  "webp_sha256": "4d82d9c9b1272039b35bd5933002616a4feadd8bf3a677e90fbfe6165fd6f21f",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-04",
+  "alt": "女子按順序把材料分給排隊孩子，卻伸掌制止親人多拿；牆上全家照交代關係，桌前各人拿著不同作品圖，安靜等候自己的份量。",
+  "issues": [
+    "objects_contact_perspective: 另看完整原圖確認：女子雙手分別制止與發材料，竹籃卻懸在腰前，沒有手托、桌承或可見掛帶扣件，支撐不合理。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "全家照連親近者、女子仍阻止其額外拿材並照序給其他孩子，公正分配不徇私的關鍵可見，不只是所有人自己取材料。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "分材與阻止取多同時清楚，手機可辨公平與親情牽制。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "制止五指掌、夾木材、孩子持圖及拿盒指有自然遮擋，雙臂各接肩腕，未見第三手。"
+    },
+    "objects_contact_perspective": {
+      "passed": false,
+      "evidence": "另看完整原圖確認：女子雙手分別制止與發材料，竹籃卻懸在腰前，沒有手托、桌承或可見掛帶扣件，支撐不合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "作品卡只有物件圖、材料紙盒衣物無字母數字題字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代家庭社區手作課、國小孩子與便服成人比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有人物頸前均無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 209,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        605,
+        1274
+      ],
+      "method": "All nine comparison sheets actually viewed after full and native-resolution details of all 50 targets. Full website images 605 and 1274 additionally inspected. Comparison candidates are not counted as audited targets.",
+      "near_duplicates": {
+        "248": "與605「十拿九穩」全圖比較，同為左側男孩出手投物、女孩站後方、右側圓洞目標收集已投中物，成功投擲的主構圖及故事可互換；僅換軟球和豆袋、網與籃不足以分辨成語，依近重複規則不通過。",
+        "260": "與1274「搖搖欲墜」全圖比較，兩位驚恐人物圍桌，中央高疊歪積木、一人伸手另一人縮手看塔將倒；換成木球底與蛋形旁件仍是同一失衡高塔主構圖，近義詞圖可互換，依近重複規則不通過。"
+      },
+      "distinguished_comparisons": "232與138同有園藝計畫但前者向眾人公開材料、後者圍圖分工，主動作不同，未另判近重複；246解除機關堵塞與273整理木片工具、278製作鳥飾流程不同；262站凳忘形與1106舉獎盃運動場慶祝，場景與動作不同。271全場可走入互動木景，與233投影影箱不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "秉公處理，毫無偏私。褒義。",
+    "syn": "守正不阿、鐵面無私",
+    "ant": "自私自利、徇私舞弊、徇情枉法、假公濟私"
+  }
+}

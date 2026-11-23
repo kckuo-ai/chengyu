@@ -1,0 +1,87 @@
+{
+  "no": 245,
+  "kind": "existing",
+  "word": "明日黃花",
+  "path": "/workspace/chengyu-preservation/originals/4b39e629f34ee10d31d5d22bdf239c83d8a684b8cae7349b3d00521c32f0fa6d.png",
+  "original_sha256": "4b39e629f34ee10d31d5d22bdf239c83d8a684b8cae7349b3d00521c32f0fa6d",
+  "original_available": true,
+  "review_source_sha256": "4b39e629f34ee10d31d5d22bdf239c83d8a684b8cae7349b3d00521c32f0fa6d",
+  "webp_src": "img/idioms/245-4b39e629f3.webp",
+  "webp_sha256": "948473bdecaa9db9a73eae1b3d7f099f09b8a07b98e8e69cef5ad1764fc519f1",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-04",
+  "alt": "花會熱鬧時一家人開心賞菊，散場後只剩女子托腮望著衰敗花朵；人們搬走長凳、走出院門，地上散著落葉與枯萎花瓣。",
+  "issues": [
+    "meaning: 僅重現菊花盛開到花會散場的典故字面，沒有過時事物被淘汰的現代比喻，易只讀為花謝人散或好景不常。",
+    "hands_feet_pose: 前景托頰與近景指蝶手正常，但回憶與遠處搬凳、離場小人露掌無法確認五指。",
+    "text_brand_watermark: 花會旗幟有大型黃色仿漢字標記，無類文字要求不過。",
+    "taiwan_context: 明確古代長袍、髮髻與傳統花會人物，非台灣現代人物服裝情境。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "僅重現菊花盛開到花會散場的典故字面，沒有過時事物被淘汰的現代比喻，易只讀為花謝人散或好景不常。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "回憶熱鬧與眼前散場衰花對照，手機可辨時序。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "前景托頰與近景指蝶手正常，但回憶與遠處搬凳、離場小人露掌無法確認五指。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "花莖連根、凳受搬運者手托、人物鞋落地、牆門有結構，未見明顯穿透。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "花會旗幟有大型黃色仿漢字標記，無類文字要求不過。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "明確古代長袍、髮髻與傳統花會人物，非台灣現代人物服裝情境。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "紅色是女孩頭髮繫帶與整件衣服，未見獨立紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 209,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        605,
+        1274
+      ],
+      "method": "All nine comparison sheets actually viewed after full and native-resolution details of all 50 targets. Full website images 605 and 1274 additionally inspected. Comparison candidates are not counted as audited targets.",
+      "near_duplicates": {
+        "248": "與605「十拿九穩」全圖比較，同為左側男孩出手投物、女孩站後方、右側圓洞目標收集已投中物，成功投擲的主構圖及故事可互換；僅換軟球和豆袋、網與籃不足以分辨成語，依近重複規則不通過。",
+        "260": "與1274「搖搖欲墜」全圖比較，兩位驚恐人物圍桌，中央高疊歪積木、一人伸手另一人縮手看塔將倒；換成木球底與蛋形旁件仍是同一失衡高塔主構圖，近義詞圖可互換，依近重複規則不通過。"
+      },
+      "distinguished_comparisons": "232與138同有園藝計畫但前者向眾人公開材料、後者圍圖分工，主動作不同，未另判近重複；246解除機關堵塞與273整理木片工具、278製作鳥飾流程不同；262站凳忘形與1106舉獎盃運動場慶祝，場景與動作不同。271全場可走入互動木景，與233投影影箱不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻過時的事物。",
+    "syn": "時過境遷",
+    "ant": ""
+  }
+}

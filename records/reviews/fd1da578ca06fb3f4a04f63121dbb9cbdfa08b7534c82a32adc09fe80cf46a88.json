@@ -1,0 +1,68 @@
+{
+  "no": 248,
+  "kind": "regenerate",
+  "word": "百發百中",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/248.png",
+  "original_sha256": "08d93ad1411b8866ae4e64b414eed5eb5c4c462322dbffb981d1a7848561f34e",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "女孩站在操場握著玩具弓，靶面上的多支吸盤箭全都集中中央紅圈，旁邊老師彎身豎起拇指，她抬頭露出開心笑容。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "多支安全吸盤箭全落在靶心，女孩持弓、老師豎拇指稱讚，沒有落靶箭，連續命中直接對應技術準確。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是女孩站在操場握著玩具弓；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "老師拇指手與扶膝手、女孩握弓與垂手均可追蹤，兩人四腳自然站立。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "追加放大確認弓弦只有一條直線連上下弓梢，另一條細線是裙褶，未多弦。吸盤箭與桿尾羽相連，靶架腳落地，弓有握柄與固定弦端。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小操場安全玩具弓活動，成人老師穿體育上衣長褲，女孩白制服藍裙白襪球鞋，兒童比例與老師分明。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "b27bb7d5a0f1e0316023f1029c73e7e52011cce617ccfb60783f7acf6e610b2a",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/894ef9707de6b235faefd9d15d5c70a649b4780d81e07ca2b54203fbe4a51976.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容技術高妙，能命中目標。＆形容料事、用計、施藥等相當準確。",
+    "syn": "矢無虛發、百步穿楊、彈無虛發、十拿九穩、料事如神",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/248-08d93ad1411b.webp",
+  "webp_sha256": "84ae19435e3d26fc2897b77ab4f983ecabafb5e29c8db1f741728d7160c9c596"
+}

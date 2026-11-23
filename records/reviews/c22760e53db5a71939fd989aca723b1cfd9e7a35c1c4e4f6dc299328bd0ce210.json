@@ -1,0 +1,68 @@
+{
+  "no": 266,
+  "kind": "regenerate",
+  "word": "三令五申",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/266.png",
+  "original_sha256": "9d5390bd71e59f556123e1d6b7d080bc988269b8a83452db7bfbcd2025a7c055",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "老師連續在三個畫格中嚴肅舉掌，指示把水瓶移到旁桌，孩子先停下捏陶仔細聽，最後伸出雙手，依照要求搬動瓶子。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "三格老師持續嚴肅張掌重申把水瓶移到旁邊桌的要求，孩子由未反應到最後照做；同一命令再三告誡有連續呈現。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是老師連續在三個畫格中嚴肅舉掌；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "每格老師指示手與張掌五指正常，孩子捏陶、托腮、最後搬水瓶的手接臂合理，無多手；下身裁切自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "水瓶示意框屬圖解而非懸浮實物，末格實瓶移到老師旁桌；瓶蓋把手連續，陶土與墊板置桌。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小捏陶教室，學生藍綠短袖與現代水瓶，教師襯衫工作圍裙，兒童頭身比成人小且沒有古裝。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "7f59571dee1e13391877679979586b8b83ef3f934274589c0280da3466cdb1ee",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/e22a5b07a2848dd514baa88bff1bcc81361e8ece74b08bacb55b1400c2efe0c8.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "再三命令告誡。",
+    "syn": "耳提面命",
+    "ant": "不言之教"
+  },
+  "webp_src": "img/idioms/266-9d5390bd71e5.webp",
+  "webp_sha256": "f47676f770c51eecd0f92b177ad4da76b7cf1c5325e1328783ad04c30ed8b126"
+}

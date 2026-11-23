@@ -1,0 +1,85 @@
+{
+  "no": 273,
+  "kind": "existing",
+  "word": "事半功倍",
+  "path": "/workspace/chengyu-preservation/originals/161a6dcc18d798106ea8ac5e63be75b237a45050ff32c0e70e24d86692f93be6.png",
+  "original_sha256": "161a6dcc18d798106ea8ac5e63be75b237a45050ff32c0e70e24d86692f93be6",
+  "original_available": true,
+  "review_source_sha256": "161a6dcc18d798106ea8ac5e63be75b237a45050ff32c0e70e24d86692f93be6",
+  "webp_src": "img/idioms/273.webp",
+  "webp_sha256": "1570bc193d83bcb683854d3e8790ed23775cb88cc123e9c114f438ca3f462b18",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-04",
+  "alt": "女子原先埋頭從混亂木片堆裡逐個挑選，後來改用竹篩和分格木箱整理，笑著把圓片倒進格內；各種形狀的木片漸漸各就各位。",
+  "issues": [
+    "meaning: 由亂到整齊可見，但只畫已挑好的圓片倒入格，未顯示篩子如何減少篩選工夫，普通整理也能解釋，費力少收效大關鍵不足。",
+    "objects_contact_perspective: 篩孔遠小於全部木片，不能靠此孔分開圖中不同木片；若意在機械分類，所畫結構不能解釋效率來源。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "由亂到整齊可見，但只畫已挑好的圓片倒入格，未顯示篩子如何減少篩選工夫，普通整理也能解釋，費力少收效大關鍵不足。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "亂堆小景到分格大景清楚，手機可見整理前後。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "拿片、翻找、握篩雙手五指或合理物件遮擋，臂肩自然無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": false,
+      "evidence": "篩孔遠小於全部木片，不能靠此孔分開圖中不同木片；若意在機械分類，所畫結構不能解釋效率來源。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "木箱木片衣物無文字字母數字品牌水印，亂圈非字。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代木作活動、便服圍裙女子比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "頸口無紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 209,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        605,
+        1274
+      ],
+      "method": "All nine comparison sheets actually viewed after full and native-resolution details of all 50 targets. Full website images 605 and 1274 additionally inspected. Comparison candidates are not counted as audited targets.",
+      "near_duplicates": {
+        "248": "與605「十拿九穩」全圖比較，同為左側男孩出手投物、女孩站後方、右側圓洞目標收集已投中物，成功投擲的主構圖及故事可互換；僅換軟球和豆袋、網與籃不足以分辨成語，依近重複規則不通過。",
+        "260": "與1274「搖搖欲墜」全圖比較，兩位驚恐人物圍桌，中央高疊歪積木、一人伸手另一人縮手看塔將倒；換成木球底與蛋形旁件仍是同一失衡高塔主構圖，近義詞圖可互換，依近重複規則不通過。"
+      },
+      "distinguished_comparisons": "232與138同有園藝計畫但前者向眾人公開材料、後者圍圖分工，主動作不同，未另判近重複；246解除機關堵塞與273整理木片工具、278製作鳥飾流程不同；262站凳忘形與1106舉獎盃運動場慶祝，場景與動作不同。271全場可走入互動木景，與233投影影箱不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容費力少而收效大。",
+    "syn": "一舉數得",
+    "ant": "力倍功半、力倍功寡、事倍功半"
+  }
+}

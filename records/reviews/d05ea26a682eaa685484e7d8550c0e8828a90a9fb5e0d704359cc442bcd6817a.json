@@ -1,0 +1,85 @@
+{
+  "no": 267,
+  "kind": "existing",
+  "word": "愚公移山",
+  "path": "/workspace/chengyu-preservation/originals/b469d74cd5cc784bfffec9815e91ebd55ac3b712bf26624b3c954563f8613daa.png",
+  "original_sha256": "b469d74cd5cc784bfffec9815e91ebd55ac3b712bf26624b3c954563f8613daa",
+  "original_available": true,
+  "review_source_sha256": "b469d74cd5cc784bfffec9815e91ebd55ac3b712bf26624b3c954563f8613daa",
+  "webp_src": "img/idioms/267.webp",
+  "webp_sha256": "f015ff57de84880a789399e372f89bd2703264b06563f26fa5fe198ce38b0d7b",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-04",
+  "alt": "老人握著鐵鏟在山腳挖石，孩子蹲下抱起石塊，另一位家人背著裝滿石頭的竹簍走來；三人沿著高大岩壁努力搬運，屋舍在遠處。",
+  "issues": [
+    "meaning: 只畫老人家人挖山的典故當下，未呈現長期不懈與最後達成目標，也可能只是一日清石勞動。",
+    "taiwan_context: 古代髮髻、交領布衣綁腿與典故山居，非台灣現代場景服裝。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "只畫老人家人挖山的典故當下，未呈現長期不懈與最後達成目標，也可能只是一日清石勞動。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "老人挖石與家人搬運集中，手機可辨合作。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "握鏟雙掌、托石與握背帶五指或物件遮擋自然、腳踏實地，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "鏟頭與柄連接接土、石受掌托、簍帶在肩、鞋地接觸合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "工具衣物屋舍無文字字母數字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "古代髮髻、交領布衣綁腿與典故山居，非台灣現代場景服裝。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有人頸口無紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 209,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        605,
+        1274
+      ],
+      "method": "All nine comparison sheets actually viewed after full and native-resolution details of all 50 targets. Full website images 605 and 1274 additionally inspected. Comparison candidates are not counted as audited targets.",
+      "near_duplicates": {
+        "248": "與605「十拿九穩」全圖比較，同為左側男孩出手投物、女孩站後方、右側圓洞目標收集已投中物，成功投擲的主構圖及故事可互換；僅換軟球和豆袋、網與籃不足以分辨成語，依近重複規則不通過。",
+        "260": "與1274「搖搖欲墜」全圖比較，兩位驚恐人物圍桌，中央高疊歪積木、一人伸手另一人縮手看塔將倒；換成木球底與蛋形旁件仍是同一失衡高塔主構圖，近義詞圖可互換，依近重複規則不通過。"
+      },
+      "distinguished_comparisons": "232與138同有園藝計畫但前者向眾人公開材料、後者圍圖分工，主動作不同，未另判近重複；246解除機關堵塞與273整理木片工具、278製作鳥飾流程不同；262站凳忘形與1106舉獎盃運動場慶祝，場景與動作不同。271全場可走入互動木景，與233投影影箱不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻努力不懈，終能達成目標。＆比喻效率不佳。",
+    "syn": "有志者事竟成、精衛填海、鐵杵磨針",
+    "ant": "半途而廢"
+  }
+}

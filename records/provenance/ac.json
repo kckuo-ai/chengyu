@@ -8509,5 +8509,13 @@
       "batch": "batches-24-25",
       "source": "docs/illustration-prompts.json#entries/151"
     }
+  ],
+  "ac15ad8d5d56e0c67fef3b5aacd164cc523eecf1ca2124eed9ddb5529974ca15": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-04",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-04/272.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

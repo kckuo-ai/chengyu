@@ -1,0 +1,68 @@
+{
+  "no": 255,
+  "kind": "regenerate",
+  "word": "高枕無憂",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/255.png",
+  "original_sha256": "fad489def6832337505128468bdeff6eab16795332a0b35250979df61a24aa6f",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "房間裡門窗鎖妥、行李與生活用品也已備齊，女子抱著柔軟靠枕安心熟睡，旁邊小貓蜷伏在床上，氣氛溫暖安適。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "上方小景顯示門鎖妥、窗閂固定、行李與衣物用品備好，下方女子抱枕安睡、貓也熟睡，身心安適沒有憂慮。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是房間裡門窗鎖妥、行李與生活用品也已備齊；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女子雙臂抱枕，兩手五指輪廓清楚，肘與肩位置合理；身體與腿由被子正常遮蓋。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "窗閂橫跨窗框扣座，床枕承頭、貓伏床面，行李輪接地，物品沒有字樣。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代臥室，女子短袖居家服，普通木床、鋁窗安全閂、行李與盥洗用品，無古裝或異國標誌。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "8260070aa2b16dcdaa97da45b081d030d4ebe179ad7e32516fcc53ce1d424e24",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/cf0fc3e8c0eb03a0278fef90b732f470413a7a52e9b25eaaf013934ad147144d.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容身心安適，無憂無慮。",
+    "syn": "無憂無慮",
+    "ant": "危在旦夕、忐忑不安"
+  },
+  "webp_src": "img/idioms/255-fad489def683.webp",
+  "webp_sha256": "c1e9c19b5a921b342a63bc37fd8cf0d6284e4373ba8a3dc9dd91b3df17b08794"
+}

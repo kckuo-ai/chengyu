@@ -1,0 +1,68 @@
+{
+  "no": 254,
+  "kind": "regenerate",
+  "word": "仰人鼻息",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/254.png",
+  "original_sha256": "b72e017e229b7ffc7fdb069566d1e7e95ba6192d88ebc3f3bb6ae1bf03d7b748",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "店門前男子拿著藍杯看向掌鑰匙的女子，遭她舉掌制止後便垂頭放回箱中，女子再指向架上的棕杯，要求他照做。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "男子選藍杯先看掌鑰匙女子的臉色，被張掌阻止後垂頭放回箱中，女子再指定棕杯；選擇受人控制、不能自主的關係清楚。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是店門前男子拿著藍杯看向掌鑰匙的女子；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "兩格持杯、拒絕五指掌、握鑰匙與指物手連臂正常，男子雙手放杯各有拇指與四指；下身自然裁切。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "杯耳與杯口一致，杯由手掌托持後放回箱底，鑰匙串被手指環握，貨架有支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣社區家用品店，玻璃木門與遮陽棚、店員圍裙，兩人現代襯衫長褲，情境無異國標誌。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "4838cfc286d56c9546f340cb0a2b0e89ec30e840883fde310043f7a87810df1e",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/cd2e0bf183720011aa954be62c4ce16d9028f4b8cee9cd22b17e953c3c469c99.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻依靠他人生活。＆比喻看別人的臉色行事，不能自主。",
+    "syn": "仰給於人、寄人籬下、俯仰由人、聽人穿鼻",
+    "ant": "自立門戶、自力更生、自立門戶"
+  },
+  "webp_src": "img/idioms/254-b72e017e229b.webp",
+  "webp_sha256": "926a5928890a4bb20337acf3a7eea2983bc466f7e6f5b1a55ca755e8876a8f2c"
+}

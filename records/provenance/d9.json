@@ -14618,5 +14618,20 @@
       "reviewer": "independent-visual-review-2026-11-23",
       "reviewed_main": "1afe65a863c239cc160142d5c4d7e23a2b56643b"
     }
+  ],
+  "d93fa0258874bb7c61fa10cc4a417267f409652d38470b8e250081cab754b2f4": [
+    {
+      "kind": "current_main_record",
+      "batch": "batch-28-group-4-redraw-41",
+      "source": "docs/illustration-prompts.json#entries/278"
+    }
+  ],
+  "d9c624d642832be82acd968d1c21f3c8833f67ac0a3857bd313dd40a76c9cc33": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-28-group-4-redraw-41",
+      "source_file": "comparison-candidates.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
   ]
 }

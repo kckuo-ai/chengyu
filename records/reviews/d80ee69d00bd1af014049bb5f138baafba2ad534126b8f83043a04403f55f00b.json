@@ -1,0 +1,68 @@
+{
+  "no": 261,
+  "kind": "regenerate",
+  "word": "一見如故",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/261.png",
+  "original_sha256": "3c32ffc57dee75d70f668879062278b392b8929141acf9c7e4918ecf31ced18d",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "兩位參加者經中間人介紹後笑著握手，接著便並肩看鳥類圖鑑，一人扶書一人指圖，神情親切自然，話題十分投契。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "左格中間人向兩位彼此初識的參加者介紹、兩人握手，右格立刻並肩興奮討論同一本鳥圖鑑，表現初見即有老朋友般的融洽。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是兩位參加者經中間人介紹後笑著握手；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "介紹者雙掌、握手兩人的交疊拇指與四指、右格持書指鳥扶桌三手都正常；其餘手由書遮住，無多臂。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "名牌無字且掛帶連續，書攤在桌上由左手扶持，鳥圖畫沒有文字，握手兩腕對接自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣賞鳥或社區活動，三位成人穿襯衫外套與空白掛牌，桌上鳥類圖鑑及本地山景，無古裝標識。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "65c8e9db64b449a4ec78f74b345da32ab5d5496eccf70a269c218d34c786b969",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/e5c5fc5bfe0545b2064206bf1222484f08fe6c8161ed99fb9c904b4c822edfb5.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "初次見面就相處融洽，如同老朋友一般。",
+    "syn": "",
+    "ant": "白頭如新"
+  },
+  "webp_src": "img/idioms/261-3c32ffc57dee.webp",
+  "webp_sha256": "c4f2aa8e866ddea3f95a1f3d9675355de8536b78d7d82194ea030739560b9de5"
+}

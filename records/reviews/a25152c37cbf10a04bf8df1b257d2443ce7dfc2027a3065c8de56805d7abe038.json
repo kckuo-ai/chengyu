@@ -1,0 +1,68 @@
+{
+  "no": 251,
+  "kind": "regenerate",
+  "word": "自暴自棄",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/251.png",
+  "original_sha256": "2ac1a44ac6ceb94ce5b3634caedab97eebc1f5c79d2fc7d9cc825225c3a37245",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "男孩生氣撕掉紙張後躺在沙發，拒絕家人送來的手作材料，也不理同伴伸手邀請，到了傍晚仍抱著雙臂閉眼躺著。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "男孩先撕掉自己的作品，之後躺著拒絕家人送來的材料，到了傍晚仍抱臂拒絕同伴邀請；持續放棄而不是一次休息。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是男孩生氣撕掉紙張後躺在沙發；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "撕紙雙手四指握紙、拇指內扣；沙發上兩腿與襪腳可追蹤，指門、抱臂與來客持盒手連接正常。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "撕紙裂口相合、廢紙落籃，材料盒由雙手托住，沙發與靠枕承重正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代住家，國小男孩穿藍色短袖、深藍短褲，家人與同伴穿日常上衣；沙發木桌和窗景自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "6dc1698c1d10b7e3b61c90fb682ac9002543be06f444f4a4c5e76e5567469fb4",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/1bd15f4587d5c61af8fabe7e28c92abed76a4627ef569aa6250cec2f19034bd8.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "指自甘墮落，不求上進。",
+    "syn": "自甘墮落、妄自菲薄、自輕自賤",
+    "ant": "力爭上游、自強不息、發奮圖強、奮發圖強"
+  },
+  "webp_src": "img/idioms/251-2ac1a44ac6ce.webp",
+  "webp_sha256": "9b2b91fcda355175a10259f40bc746876520632dee6621bc5e76da557cdf1a4c"
+}

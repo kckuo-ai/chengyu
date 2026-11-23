@@ -1,0 +1,84 @@
+{
+  "no": 242,
+  "kind": "existing",
+  "word": "八面玲瓏",
+  "path": "/workspace/chengyu-preservation/originals/925255d17ed9805d799f5132a58170fbd995b6590a0c63453bb04973f1133193.png",
+  "original_sha256": "925255d17ed9805d799f5132a58170fbd995b6590a0c63453bb04973f1133193",
+  "original_available": true,
+  "review_source_sha256": "925255d17ed9805d799f5132a58170fbd995b6590a0c63453bb04973f1133193",
+  "webp_src": "img/idioms/242.webp",
+  "webp_sha256": "6f6ef207dadc9f8925a2b250551ea9cde9052bfd3a2389cd111d472fc1a2e250",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-04",
+  "alt": "女子在展場張手迎接各方來賓，一邊回應拿筆記本的訪客，一邊為輪椅長者引路；旁邊不同年齡客人都自在交談，氣氛和樂。",
+  "issues": [
+    "text_brand_watermark: 桌上相機頂部有白色品牌樣字母印記，明確違反無品牌與文字要求；筆記本本身接近空白。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "居中接待者兼顧記錄訪客、輪椅長者及不同來賓、各方互動融洽，採處世應對巧妙圓融義，不只屋子採光好。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "人物置中、左右服務對象清晰，手機可見應對各方。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "兩開掌各五指、訪客握筆及托本、推輪椅握柄與長者搭扶手指正常，其餘手受身體遮，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "相機落桌、筆記本受掌托、輪椅輪軸扶手接合且落斜坡，推者手握把，支撐合理。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "桌上相機頂部有白色品牌樣字母印記，明確違反無品牌與文字要求；筆記本本身接近空白。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代藝廊與無障礙入口、便服工作牌接待者及長者成人自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有人物領口無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 209,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        605,
+        1274
+      ],
+      "method": "All nine comparison sheets actually viewed after full and native-resolution details of all 50 targets. Full website images 605 and 1274 additionally inspected. Comparison candidates are not counted as audited targets.",
+      "near_duplicates": {
+        "248": "與605「十拿九穩」全圖比較，同為左側男孩出手投物、女孩站後方、右側圓洞目標收集已投中物，成功投擲的主構圖及故事可互換；僅換軟球和豆袋、網與籃不足以分辨成語，依近重複規則不通過。",
+        "260": "與1274「搖搖欲墜」全圖比較，兩位驚恐人物圍桌，中央高疊歪積木、一人伸手另一人縮手看塔將倒；換成木球底與蛋形旁件仍是同一失衡高塔主構圖，近義詞圖可互換，依近重複規則不通過。"
+      },
+      "distinguished_comparisons": "232與138同有園藝計畫但前者向眾人公開材料、後者圍圖分工，主動作不同，未另判近重複；246解除機關堵塞與273整理木片工具、278製作鳥飾流程不同；262站凳忘形與1106舉獎盃運動場慶祝，場景與動作不同。271全場可走入互動木景，與233投影影箱不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容屋子四面八方敞亮通明。＆形容人言行手段，十分巧妙，處世圓融。",
+    "syn": "八面見光、面面俱到",
+    "ant": ""
+  }
+}

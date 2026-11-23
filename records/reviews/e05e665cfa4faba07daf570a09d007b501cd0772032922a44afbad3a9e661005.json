@@ -1,0 +1,68 @@
+{
+  "no": 278,
+  "kind": "regenerate",
+  "word": "按部就班",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/278.png",
+  "original_sha256": "ce030924efb15d0b9f010efec6096a843ee64d7e73c652cf5ecbcb4a7fcbdd61",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "女孩先看圖板整理木座、直桿與鳥形零件，再把木桿插進底座，最後裝好小鳥，用雙手托起完成品，開心欣賞成果。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "圖板依序畫零件、插桿、裝鳥，女孩三格也照相同次序從散件到插桿再到完成，明確依照層次步驟操作。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是女孩先看圖板整理木座、直桿與鳥形零件；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "三格女孩取零件、插桿扶底座、雙手托成品各有正常五指與腕臂連接，無額外手臂，桌後裁切自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "圓座孔與木桿匹配，小鳥在桿頂固定，完成品由雙手承重；圖板支腳、鉗具與工具架有支撐，流程箭頭非文字。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小手作課，女孩白短袖深藍工作圍裙、學齡頭身，普通木工桌鋁窗與工具櫃，沒有古裝異國標識。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "ad3202a18f9649ae1a9084085d36c8cec2268c6b786ff9e6b75340da88b420d2",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/1bbf4e708015495379bfcaab2be424a7eda65475628310149bca103743cb3f0d.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻做事依照一定的層次、步驟進行。",
+    "syn": "循序漸進",
+    "ant": "越次超倫"
+  },
+  "webp_src": "img/idioms/278-ce030924efb1.webp",
+  "webp_sha256": "19dde124f582d29a1fecf47d441e5716d17427c65666b315d41e5dc5613ccb05"
+}

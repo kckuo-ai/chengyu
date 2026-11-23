@@ -1,0 +1,68 @@
+{
+  "no": 228,
+  "kind": "regenerate",
+  "word": "投鞭斷流",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/228.png",
+  "original_sha256": "39187f31543304cdd337ccc9a3f27f2ca2547685dd771ede38f1aac61095db90",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "操場上五名藍衣孩子合力拉著粗繩，對面兩名綠衣孩子咬牙後傾抵抗，老師站在中央舉手示意，兩隊雙腳踩穩地面。",
+  "issues": [
+    "meaning: 五名藍衣學生與兩名綠衣學生拔河，只能辨認人數不均的競賽，未呈現軍旅眾多、兵力強大，容易理解成以多欺少。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "五名藍衣學生與兩名綠衣學生拔河，只能辨認人數不均的競賽，未呈現軍旅眾多、兵力強大，容易理解成以多欺少。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是操場上五名藍衣孩子合力拉著粗繩；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "七名學生雙手握繩，教師張掌五指清楚；交疊腿可沿短褲追到各鞋，鞋底著地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "繩索連續穿過手掌，繩與學生傾斜受力方向一致；未見懸浮器材。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小磚花台、連廊與操場，學生穿藍綠體育上衣、短褲白襪運動鞋；成人老師身高明顯較高。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "af93c91ba35bef4acee24194efed0e8abca29cf780f0bbc1ad8411d23f13b906",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/c9b9b3b0bc4d6f5af9aa04cbba6873e81874c926261432cd913d02dc462899a0.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻軍旅眾多，兵力強大。",
+    "syn": "兵多將廣、旌旗蔽空、舳艫千里、百萬雄師",
+    "ant": "老弱殘兵、兵微將寡"
+  }
+}

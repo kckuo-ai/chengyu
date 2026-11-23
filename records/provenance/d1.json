@@ -17187,5 +17187,20 @@
       "batch": "batches-26-27",
       "source": "docs/illustration-reviews.json#entries/207"
     }
+  ],
+  "d13efb4e2933f0dd35c89611180907f1d4127d8a3fc599cbca428d436a70ec47": [
+    {
+      "kind": "current_main_record",
+      "batch": "batch-28-group-4-redraw-41",
+      "source": "docs/illustration-prompts.json#entries/259"
+    }
+  ],
+  "d1cb45c72e93906b110dd37603fc9cae01a51fc617d4629566e0104a524ccbe2": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-28-group-4-redraw-41",
+      "source_file": "263.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
   ]
 }

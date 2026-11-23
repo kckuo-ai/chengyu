@@ -1,0 +1,68 @@
+{
+  "no": 242,
+  "kind": "regenerate",
+  "word": "八面玲瓏",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/242.png",
+  "original_sha256": "5f8cfa3f6044d970a6168b60b953fea8fe2f7ff3617e808f98823784a325f68e",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "展場導覽者微笑兼顧木雕作者、坐輪椅的長者與持相機的青年，一手介紹作品一手指引坡道，大家融洽地參與活動。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "導覽者同時向雕刻師介紹作品、向輪椅長者指引可通行的坡道，攝影者也笑著參與；她顧到不同對象的需要並讓眾人融洽互動。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是展場導覽者微笑兼顧木雕作者、坐輪椅的長者與持相機的青年；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "導覽者兩掌五指、雕刻者扶座雙手、長者扶把雙手與攝影者持機雙手連接正常；站者鞋著地、長者兩腳在踏板。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "輪椅座背、扶把、輪軸與踏板連續，坡道有扶手；相機由兩手承重，木雕座落展台。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代無障礙展場，導覽員、工藝師與訪客都穿現代上衣長褲，輪椅長者與坡道扶手符合日常場景。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "925255d17ed9805d799f5132a58170fbd995b6590a0c63453bb04973f1133193",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/b99c0f011336c2876f0b57e19301c1a29d518e61d0f04eb8c6e84492f4639c98.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容屋子四面八方敞亮通明。＆形容人言行手段，十分巧妙，處世圓融。",
+    "syn": "八面見光、面面俱到",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/242-5f8cfa3f6044.webp",
+  "webp_sha256": "659bbac8be992314fbc499b0894df2dc0f953f842746fd1901fb83e43193eba5"
+}

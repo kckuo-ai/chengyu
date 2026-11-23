@@ -1,0 +1,84 @@
+{
+  "no": 272,
+  "kind": "existing",
+  "word": "枕戈待旦",
+  "path": "/workspace/chengyu-preservation/originals/946cc888a89d53b4775909e184688786ff9c9808810575cdf943d23c498430f1.png",
+  "original_sha256": "946cc888a89d53b4775909e184688786ff9c9808810575cdf943d23c498430f1",
+  "original_available": true,
+  "review_source_sha256": "946cc888a89d53b4775909e184688786ff9c9808810575cdf943d23c498430f1",
+  "webp_src": "img/idioms/272.webp",
+  "webp_sha256": "e18363fae47feea1b2ebddc6b1912bc19330538e079e92a1eb8e5cc6e877ac9e",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-04",
+  "alt": "風雨夜裡，幾位救援人員守在窗前觀察山村，一人拿望遠鏡、一人握手電筒，女子在地圖上記錄；旁邊備好繩索、雨衣與背包。",
+  "issues": [
+    "text_brand_watermark: 左後紫衣者背心與前景綠衣者背帶有黑色字母樣標記，不能確認全無文字品牌。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "風雨中全員守望、器材備妥、持續觀測和規畫，採全神戒備絲毫不懈義，非只是夜晚不睡。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "守窗者與地圖器材形成戒備活動，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "望遠鏡握筒、持燈與握筆持杯五指或自然遮擋、臂肩接合，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "望遠鏡在眼前、筆觸地圖、裝備箱底落桌、燈具支撐正常。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "左後紫衣者背心與前景綠衣者背帶有黑色字母樣標記，不能確認全無文字品牌。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代防災待命、山村風雨與救援背心裝備合理。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有人頸口無紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 209,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        605,
+        1274
+      ],
+      "method": "All nine comparison sheets actually viewed after full and native-resolution details of all 50 targets. Full website images 605 and 1274 additionally inspected. Comparison candidates are not counted as audited targets.",
+      "near_duplicates": {
+        "248": "與605「十拿九穩」全圖比較，同為左側男孩出手投物、女孩站後方、右側圓洞目標收集已投中物，成功投擲的主構圖及故事可互換；僅換軟球和豆袋、網與籃不足以分辨成語，依近重複規則不通過。",
+        "260": "與1274「搖搖欲墜」全圖比較，兩位驚恐人物圍桌，中央高疊歪積木、一人伸手另一人縮手看塔將倒；換成木球底與蛋形旁件仍是同一失衡高塔主構圖，近義詞圖可互換，依近重複規則不通過。"
+      },
+      "distinguished_comparisons": "232與138同有園藝計畫但前者向眾人公開材料、後者圍圖分工，主動作不同，未另判近重複；246解除機關堵塞與273整理木片工具、278製作鳥飾流程不同；262站凳忘形與1106舉獎盃運動場慶祝，場景與動作不同。271全場可走入互動木景，與233投影影箱不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容殺敵報國之心急切，隨時準備作戰。＆形容人全神戒備，絲毫不敢鬆懈。",
+    "syn": "枕戈寢甲、蓄勢待發、嚴陣以待",
+    "ant": "高枕而臥、高枕無憂、醉生夢死"
+  }
+}

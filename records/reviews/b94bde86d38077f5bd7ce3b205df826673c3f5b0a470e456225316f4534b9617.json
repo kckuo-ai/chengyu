@@ -1,0 +1,84 @@
+{
+  "no": 230,
+  "kind": "existing",
+  "word": "不速之客",
+  "path": "/workspace/chengyu-preservation/originals/f0beefdd4f5b93433461349bda151c1b80d6a730cf08c6862756e0926a6b1a0a.png",
+  "original_sha256": "f0beefdd4f5b93433461349bda151c1b80d6a730cf08c6862756e0926a6b1a0a",
+  "original_available": true,
+  "review_source_sha256": "f0beefdd4f5b93433461349bda151c1b80d6a730cf08c6862756e0926a6b1a0a",
+  "webp_src": "img/idioms/230.webp",
+  "webp_sha256": "6cae610e774c094d31dca72b60a545f265aca0212b3d789b65810d955d100497",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-04",
+  "alt": "一家人正準備吃飯，門外男子提袋揮手出現，父親開門回望，母親端著菜露出驚訝；孩子們停下筷子，齊看向來客。",
+  "issues": [
+    "meaning: 來客突然出現和家人驚訝可見，但桌上已備多個空餐位，也可能本就邀了人、只是提早到；未邀請的關鍵不確定。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "來客突然出現和家人驚訝可見，但桌上已備多個空餐位，也可能本就邀了人、只是提早到；未邀請的關鍵不確定。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "門口招呼者與家人回望形成焦點，手機可讀有人來訪。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "揮手掌五指、持袋握把、開門抓柄、端碗和持筷手各正常或受物遮，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "餐碗盤落桌、端碗雙手托邊、門把接門、提袋受手支撐，筷子方向自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "桌器衣包與信物無題字數字字母品牌水印，後景櫃書未見明確仿字。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代住家餐桌、家長國小孩子與成人訪客便服，比例合理。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有人物頸口均無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 209,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        605,
+        1274
+      ],
+      "method": "All nine comparison sheets actually viewed after full and native-resolution details of all 50 targets. Full website images 605 and 1274 additionally inspected. Comparison candidates are not counted as audited targets.",
+      "near_duplicates": {
+        "248": "與605「十拿九穩」全圖比較，同為左側男孩出手投物、女孩站後方、右側圓洞目標收集已投中物，成功投擲的主構圖及故事可互換；僅換軟球和豆袋、網與籃不足以分辨成語，依近重複規則不通過。",
+        "260": "與1274「搖搖欲墜」全圖比較，兩位驚恐人物圍桌，中央高疊歪積木、一人伸手另一人縮手看塔將倒；換成木球底與蛋形旁件仍是同一失衡高塔主構圖，近義詞圖可互換，依近重複規則不通過。"
+      },
+      "distinguished_comparisons": "232與138同有園藝計畫但前者向眾人公開材料、後者圍圖分工，主動作不同，未另判近重複；246解除機關堵塞與273整理木片工具、278製作鳥飾流程不同；262站凳忘形與1106舉獎盃運動場慶祝，場景與動作不同。271全場可走入互動木景，與233投影影箱不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "沒有邀請就自己來的客人。",
+    "syn": "不請自來",
+    "ant": "座上客"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "no": 240,
+  "kind": "regenerate",
+  "word": "臨渴掘井",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/240.png",
+  "original_sha256": "688690babdd4c2b480edcce1df7a94a4ba3a0dd2c189d5821ff0adaecdbb9ec8",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "男孩白天只顧在草地玩木車，傍晚觀眾已在布幕前坐好，他才拆開空手電筒與器材箱，發現沒有電池而露出慌張神情。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "回想框是白天男孩只顧玩玩具、未檢查器材；主景天已暗、觀眾已坐好，他才拆開空手電筒並發現器材箱也空，演出準備太遲。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是男孩白天只顧在草地玩木車；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男孩回想框跪坐，主景蹲姿雙鞋著地，雙手分持筒身與端蓋；兩名觀眾雙手在腿上，無異常手腳。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "手電筒身空腔與端蓋分離，器材箱空；布幕以繩綁支柱與斜撐固定，折椅支腳落地。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代校園戶外小演出，孩子穿藍色體育服短褲運動鞋，觀眾穿日常衣褲，校舍和草地可辨。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "76b8ba33489bb8ba08c1a7fd164c09c67baabfbf92bf6939910ec6beaae89db0",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/fbb129732cd7689711df5a77d5ab25a9d507a762810e0affa97506e852b61e21.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻事到臨頭才著手準備，為時已晚，無濟於事。",
+    "syn": "江心補漏、鬥而鑄錐、臨陣磨槍",
+    "ant": "未雨綢繆、曲突徙薪、有備無患、防患未然"
+  },
+  "webp_src": "img/idioms/240-688690babdd4.webp",
+  "webp_sha256": "e089d0c0cef919e594f67ad52fd88bc02ee5efd9baf947a08e1504bc227c98b7"
+}

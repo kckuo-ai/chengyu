@@ -1,0 +1,68 @@
+{
+  "no": 260,
+  "kind": "regenerate",
+  "word": "危如累卵",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/260.png",
+  "original_sha256": "74f05dc1d7015ab01fc869098b7fd7606c7aa03957402193ed89a2563039649e",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "室內屋頂裂開露出鋼筋，一端鬆脫的燈具斜吊半空，出口被倒櫃與瓦礫堵住，兩人護著頭往窗邊逃，神情十分驚恐。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "屋頂大片裂開露鋼筋，燈具一端斷落、出口被倒櫃瓦礫堵住，兩人護頭驚逃；危險已迫近人物而非單純堆高玩具。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是室內屋頂裂開露出鋼筋；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "兩人各一手護頭一手前伸，張掌五指；四腿四鞋與身體連接正常，屈膝分腳著地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "倒櫃靠碎石木料支撐，燈具一端固定已脫落、另一端尚有鋼索，碎塊落地，損壞狀態有物理依據。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代老舊建物遇險，水泥牆鋼筋與鋁窗、日光燈，兩人現代襯衫長褲運動鞋，無古裝或異國脈絡。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "6ac3f6d56c1e1078947cf7a0cc3d603a53e8e1a41c15f295f5e972b83b88ff54",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/755af1f75832253f882059406ee4e720976836f1b861c7d4af196ef4f224ec09.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻情況非常危險。",
+    "syn": "千鈞一髮、危在旦夕、岌岌可危、間不容髮、搖搖欲墜、積薪厝火",
+    "ant": "安如泰山、安如磐石、巋然不動"
+  },
+  "webp_src": "img/idioms/260-74f05dc1d701.webp",
+  "webp_sha256": "6ee875abd8c8d8eac19a5049a428544ac18ee881c60290ae8ba91e5825e95d87"
+}

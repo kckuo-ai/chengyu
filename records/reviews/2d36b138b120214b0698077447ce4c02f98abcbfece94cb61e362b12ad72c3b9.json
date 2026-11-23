@@ -1,0 +1,68 @@
+{
+  "no": 230,
+  "kind": "regenerate",
+  "word": "不速之客",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/230.png",
+  "original_sha256": "2d103f9f5758fb91cd65c1bae0eb761fd62b6390f0cbbc1d167465866ba90400",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "母親把花形邀請卡交給兩名孩子，另一名男孩從門外探頭觀看；稍後他自行推門走進生日聚會，桌邊三人驚訝回望。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "左格母親只發兩張花形邀請卡給兩位孩子，門外第三名男孩未領卡；右格第三人自行推門進入，三個已備餐位的主人驚訝回望，交代未邀請而來。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是母親把花形邀請卡交給兩名孩子；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "發卡的四手以手指夾卡；右格來客張掌五指，桌邊三人各兩手連臂正常；下身自然裁切。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "花卡在發送與桌面上前後對應，桌面只有原先三套餐具；門扇沿框開啟，沒有穿透人物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代住家生日聚會，母親穿一般襯衫，孩子穿短袖休閒上衣，成人與兒童頭身有別，居家餐桌木門與校舍窗景自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "f0beefdd4f5b93433461349bda151c1b80d6a730cf08c6862756e0926a6b1a0a",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/b94bde86d38077f5bd7ce3b205df826673c3f5b0a470e456225316f4534b9617.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "沒有邀請就自己來的客人。",
+    "syn": "不請自來",
+    "ant": "座上客"
+  },
+  "webp_src": "img/idioms/230-2d103f9f5758.webp",
+  "webp_sha256": "01abf3043f247e205be4533d2da670555a6e7f2928443b145b142f4428a057ad"
+}

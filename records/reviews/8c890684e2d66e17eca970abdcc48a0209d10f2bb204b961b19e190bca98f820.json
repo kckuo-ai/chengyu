@@ -1,0 +1,68 @@
+{
+  "no": 265,
+  "kind": "regenerate",
+  "word": "一塵不染",
+  "path": "/workspace/idiom-review/batch-28-group-4-redraw-41/batch-28/265.png",
+  "original_sha256": "5aebb9e0b96e1137f45cb56597ae65f5d62c796e1f46d8bda6b603ea7a7546f2",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-28-group-4-redraw-41",
+  "alt": "女子站在明亮窗前，用抹布仔細擦拭窗台，房裡的桌面、櫃面與木地板都乾淨反光，盆栽與家具擺放整齊舒適。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "女子擦窗台，整個房間的窗、桌面、櫃面與地板都潔淨反光，沒有灰塵與垃圾，採非常乾淨的義項。 已實際看過六張比較表共130張既有插圖候選，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主焦點是女子站在明亮窗前；人物與關鍵物件輪廓分明，前後格界清楚，縮至手機寬度仍能辨識動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "扶窗框與壓布的兩手五指輪廓正常，雙臂接肩，兩腿分立、鞋底落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "抹布壓在窗台下，手與布接觸自然；盆栽在櫃面、椅腿桌腳支撐正常，反光隨表面方向。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐格與原尺寸檢查書脊、紙面、器材、服裝及背景，未見可讀文字、字母、數字或仿字串，沒有品牌、浮水印或不適內容；縫線、車軸與功能標線不作文字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代住家鋁窗、木地板與盆栽，女子襯衫長褲圍裙平底鞋，服裝與清潔方式屬日常生活。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "d2616fd9567eac91a1f6332e7d0ed924b4831edf19d49619d67d7d223a010501",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/a14eb9c99d7cb00a0ca2f967adf7c7b64e832cf86432b832b64044fae2875aa4.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "佛家修道的人，不被六塵（色、聲、香、味、觸、法）所玷汙。＆比喻人品純潔，絲毫不沾染壞習氣。＆形容非常乾淨，一點灰塵都沒有。",
+    "syn": "六根清淨、玉潔冰清、嶔崎磊落、窗明几淨",
+    "ant": "同流合汙"
+  },
+  "webp_src": "img/idioms/265-5aebb9e0b96e.webp",
+  "webp_sha256": "9a08cf605e2a05980ee2f4cde5277491f185e7d19e4081347d868eb7287cc7c9"
+}
