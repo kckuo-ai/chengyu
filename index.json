@@ -2,7 +2,7 @@
   "schema_version": 1,
   "description": "Content-addressed original PNGs and source/review records. Preservation is not a new visual approval.",
   "source_repository": "kckuo-ai/chengyu",
-  "main_commit": "354eba23a99f2391b72548036fe2931f203eaa84",
+  "main_commit": "2bebd6da4a988ef9b49debf99f2dc334da1a3343",
   "originals": {
     "ff8f5b88d4b5eb8c5b7e971c8b31cb8229333980e588e4dd1ca3ab31c0cdf5c2": {
       "sha256": "ff8f5b88d4b5eb8c5b7e971c8b31cb8229333980e588e4dd1ca3ab31c0cdf5c2",
@@ -67661,6 +67661,12 @@
       "path": "records/source/81f70a6b82f2970b154f6f937821f2df7ed3889dd70c1cc0d75afc5e8653ddce.json",
       "bytes": 16932,
       "provenance": "records/provenance/81.json#81f70a6b82f2970b154f6f937821f2df7ed3889dd70c1cc0d75afc5e8653ddce"
+    },
+    "46a23f0ed9b598721b7bfc733b0a2070efc6e11905d376be5317bd505ab28690": {
+      "sha256": "46a23f0ed9b598721b7bfc733b0a2070efc6e11905d376be5317bd505ab28690",
+      "path": "records/source/46a23f0ed9b598721b7bfc733b0a2070efc6e11905d376be5317bd505ab28690.json",
+      "bytes": 18795,
+      "provenance": "records/provenance/46.json#46a23f0ed9b598721b7bfc733b0a2070efc6e11905d376be5317bd505ab28690"
     }
   },
   "website_entries": {
@@ -68155,13 +68161,13 @@
     },
     "47": {
       "word": "對牛彈琴",
-      "webp": "img/idioms/47.webp",
-      "original_sha256": "67ab3d83a007c89edf01ee434e1b94276849909291ab6efc34a745a8e73583ea",
-      "original": "originals/67ab3d83a007c89edf01ee434e1b94276849909291ab6efc34a745a8e73583ea.png",
+      "webp": "img/idioms/47-b09ffd51c9f0.webp",
+      "original_sha256": "b09ffd51c9f021243c76c083cf7f641c7147abf24c8a79ab221bd517b499b025",
+      "original": "originals/b09ffd51c9f021243c76c083cf7f641c7147abf24c8a79ab221bd517b499b025.png",
       "review_record_present": true,
-      "current_review_path": "records/reviews/8a055280dcbc8a40d0383aa6963fe654b2de1af339c70bcb94c896337a595fb6.json",
-      "review_status": "failed_independent_visual_review_retained_pending_replacement",
-      "current_prompt_path": null
+      "current_review_path": "records/reviews/71858d0ae7204e042a56e81cd19601c59c47b743d1b847957a992b84d2310340.json",
+      "review_status": "passed_independent_visual_review",
+      "current_prompt_path": "records/prompts/350eee421799748a3150aba637b804322151307c741c7fe012a2394c4a175ebe.json"
     },
     "48": {
       "word": "一鼓作氣",
@@ -68175,23 +68181,23 @@
     },
     "49": {
       "word": "杯弓蛇影",
-      "webp": "img/idioms/49.webp",
-      "original_sha256": "730cb9536f120341e84bf520721eef93b5c7516e20eb880e0cfc7c434e886ee8",
-      "original": "originals/730cb9536f120341e84bf520721eef93b5c7516e20eb880e0cfc7c434e886ee8.png",
+      "webp": "img/idioms/49-7d87ddaf1d58.webp",
+      "original_sha256": "7d87ddaf1d5802ccd2c17b715842d1a85759a8aa9c68a58f03cac53405cdb91c",
+      "original": "originals/7d87ddaf1d5802ccd2c17b715842d1a85759a8aa9c68a58f03cac53405cdb91c.png",
       "review_record_present": true,
-      "current_review_path": "records/reviews/020e5749f79cc249435fb96ed57cc77e04f7edeeefba5b2707a25ca19b881318.json",
-      "review_status": "failed_independent_visual_review_retained_pending_replacement",
-      "current_prompt_path": null
+      "current_review_path": "records/reviews/f0a25acd548d9e0c9058ab9f36ef065715e3842a5690afd5431a7b2f1f54572c.json",
+      "review_status": "passed_independent_visual_review",
+      "current_prompt_path": "records/prompts/ad1b5a7fd850ce0614ab7bd6cced0761dd59f70086301b93353d5aced65c007a.json"
     },
     "50": {
       "word": "紙上談兵",
-      "webp": "img/idioms/50.webp",
-      "original_sha256": "16f42cb80af76ac9396ae6432b0a334002defd4c76558d2826295af8250c6063",
-      "original": "originals/16f42cb80af76ac9396ae6432b0a334002defd4c76558d2826295af8250c6063.png",
+      "webp": "img/idioms/50-b0724b83719a.webp",
+      "original_sha256": "b0724b83719afb9f96bd08557972464ddabf2605ea7d0f48fc27933b98c2829a",
+      "original": "originals/b0724b83719afb9f96bd08557972464ddabf2605ea7d0f48fc27933b98c2829a.png",
       "review_record_present": true,
-      "current_review_path": "records/reviews/f6481d37d4b9de64581808116bf21162dc22a6aa4d90bf0326829421b14bed82.json",
-      "review_status": "failed_independent_visual_review_retained_pending_replacement",
-      "current_prompt_path": null
+      "current_review_path": "records/reviews/23956bd6c56eb9e4324ad8bb55cf358f0631d34e5a21e5b2b90e1df6ecdf19d1.json",
+      "review_status": "passed_independent_visual_review",
+      "current_prompt_path": "records/prompts/562aa5485bc2993675c927293799ae1c1d3e72a757ee444d64e5615022cc36c1.json"
     },
     "51": {
       "word": "破鏡重圓",
@@ -68215,23 +68221,23 @@
     },
     "53": {
       "word": "樂不思蜀",
-      "webp": "img/idioms/53.webp",
-      "original_sha256": "5ac35c8e19e7c89804cefff9d14189ddecf99548bd8f40d297993dd30d3e2237",
-      "original": "originals/5ac35c8e19e7c89804cefff9d14189ddecf99548bd8f40d297993dd30d3e2237.png",
+      "webp": "img/idioms/53-8e4cf3a6784f.webp",
+      "original_sha256": "8e4cf3a6784fd4e3bcde36c1fadc2c411c7bfd40b93f402f6aee621b22b36e69",
+      "original": "originals/8e4cf3a6784fd4e3bcde36c1fadc2c411c7bfd40b93f402f6aee621b22b36e69.png",
       "review_record_present": true,
-      "current_review_path": "records/reviews/79d82480468972329feeed107a68673cc77f3878ab2ec8728c2f57b655b971c7.json",
-      "review_status": "failed_independent_visual_review_retained_pending_replacement",
-      "current_prompt_path": "records/prompts/f7219719e3c93094012d24c4599536da05dfa98a4e773fb93e11bf68641d8451.json"
+      "current_review_path": "records/reviews/bb0a225117caa39625bb7892b304d417de401905d553ce0daf477555b487093c.json",
+      "review_status": "passed_independent_visual_review",
+      "current_prompt_path": "records/prompts/7a417b8bb9d87aef6275d5de0097b2f7a7c17152ed3f0b7d36df3c945c2bc3e8.json"
     },
     "54": {
       "word": "濫竽充數",
-      "webp": "img/idioms/54.webp",
-      "original_sha256": "9b9e8af2ca4d8f72029eef47ae919d05dd45043587708a1c272759712c02d5a4",
-      "original": "originals/9b9e8af2ca4d8f72029eef47ae919d05dd45043587708a1c272759712c02d5a4.png",
+      "webp": "img/idioms/54-cc8646596874.webp",
+      "original_sha256": "cc8646596874ea604ea361e0312da27d03d08c48c23aebb4d0054ea7dfe79961",
+      "original": "originals/cc8646596874ea604ea361e0312da27d03d08c48c23aebb4d0054ea7dfe79961.png",
       "review_record_present": true,
-      "current_review_path": "records/reviews/c113fbb863f92361c25a1333a3785ec0ca280fb115cf484762af0eb9cd0d590b.json",
-      "review_status": "failed_independent_visual_review_retained_pending_replacement",
-      "current_prompt_path": null
+      "current_review_path": "records/reviews/3a33b695be234b3c4341f104c049f338df771fafc40d683ddfa4d6bbbe09b741.json",
+      "review_status": "passed_independent_visual_review",
+      "current_prompt_path": "records/prompts/1828b2fdd7c27c184f8191353d48d34a53bdcb815771d574482a4dc148692e86.json"
     },
     "55": {
       "word": "打草驚蛇",
@@ -68245,23 +68251,23 @@
     },
     "56": {
       "word": "揠苗助長",
-      "webp": "img/idioms/56.webp",
-      "original_sha256": "d43c07af4eb452d6ded22663de356dac1c4ca7c645077ae28e51803e82b6ef80",
-      "original": "originals/d43c07af4eb452d6ded22663de356dac1c4ca7c645077ae28e51803e82b6ef80.png",
+      "webp": "img/idioms/56-03521aa29106.webp",
+      "original_sha256": "03521aa291064b82218f8da39815a777db5feeec9c195e761cd113dbb0f6605a",
+      "original": "originals/03521aa291064b82218f8da39815a777db5feeec9c195e761cd113dbb0f6605a.png",
       "review_record_present": true,
-      "current_review_path": "records/reviews/753a65abe9321f1f0ff4249c67739ec523fa4c8c3ae0b25d5086bb308e3afe64.json",
-      "review_status": "failed_independent_visual_review_retained_pending_replacement",
-      "current_prompt_path": null
+      "current_review_path": "records/reviews/0888d19919dd8ed6f3b5f4fc54fe4a704aab13d33752dfc1f877e0b08ccaab39.json",
+      "review_status": "passed_independent_visual_review",
+      "current_prompt_path": "records/prompts/fb82d60b48b73f14fda397411e08f525d674915d2accf9f44cf0995180adadb6.json"
     },
     "57": {
       "word": "功虧一簣",
-      "webp": "img/idioms/57.webp",
-      "original_sha256": "5b01021e3c45e27fc01f295f54ac506fc4308d1716fdf7bd728690147d4e6a4a",
-      "original": "originals/5b01021e3c45e27fc01f295f54ac506fc4308d1716fdf7bd728690147d4e6a4a.png",
+      "webp": "img/idioms/57-0ff5db985821.webp",
+      "original_sha256": "0ff5db9858216e8be8ae26e11eeee1671c4af756a19d0a49ff6a2ab07d8fa0e4",
+      "original": "originals/0ff5db9858216e8be8ae26e11eeee1671c4af756a19d0a49ff6a2ab07d8fa0e4.png",
       "review_record_present": true,
-      "current_review_path": "records/reviews/5a287fb5164545edd98a59a20d07ee1d05f973b8d00b5bacce128ca61f700faf.json",
-      "review_status": "failed_independent_visual_review_retained_pending_replacement",
-      "current_prompt_path": "records/prompts/d0aa317f00394ea06671155db2ada46ca2105733091355a82d18198ccbbab131.json"
+      "current_review_path": "records/reviews/685e40fb7f0b65214471cf5c3010003cfb3ab4106a9171607b78ec82fdfa3429.json",
+      "review_status": "passed_independent_visual_review",
+      "current_prompt_path": "records/prompts/d9d2c041a9502430fd5aec53ca44983f91f005e5abe6b23d55f3db2e87af94a5.json"
     },
     "58": {
       "word": "入木三分",
@@ -68285,13 +68291,13 @@
     },
     "60": {
       "word": "螳臂當車",
-      "webp": "img/idioms/60.webp",
-      "original_sha256": "7e44c2b4682f1731c12ecfe26f4adbfc1aed3532a4de1fd089667eade23b4f28",
-      "original": "originals/7e44c2b4682f1731c12ecfe26f4adbfc1aed3532a4de1fd089667eade23b4f28.png",
+      "webp": "img/idioms/60-7652b0366092.webp",
+      "original_sha256": "7652b0366092607ae52bb455ccea05f3482f9f6bd49693a1a971c824390727bc",
+      "original": "originals/7652b0366092607ae52bb455ccea05f3482f9f6bd49693a1a971c824390727bc.png",
       "review_record_present": true,
-      "current_review_path": "records/reviews/6ac6504f5b2fd3e929cfbf6b09d395c8d8fca06d99aac1d452570646c8f82bd3.json",
-      "review_status": "failed_independent_visual_review_retained_pending_replacement",
-      "current_prompt_path": "records/prompts/c344930d5fef7cb02717869fd9242e6f149b466e033e47a74375a8c384d2f1d8.json"
+      "current_review_path": "records/reviews/d0ec4f86b2fc030d7a4abdfc8ace614cffa3a196db7e0d7f5641b36a2de6f7a3.json",
+      "review_status": "passed_independent_visual_review",
+      "current_prompt_path": "records/prompts/1660f960ae36db511ef70689996d681fe6b928db8b5806237d5a3bf53abffd45.json"
     },
     "61": {
       "word": "死灰復燃",
@@ -68365,13 +68371,13 @@
     },
     "68": {
       "word": "吹毛求疵",
-      "webp": "img/idioms/68.webp",
-      "original_sha256": "f229adebc4d2e54d257cbb1d08b1ff268aa56a8f31ba43569964f8439168552e",
-      "original": "originals/f229adebc4d2e54d257cbb1d08b1ff268aa56a8f31ba43569964f8439168552e.png",
+      "webp": "img/idioms/68-e0eb7c55e5e6.webp",
+      "original_sha256": "e0eb7c55e5e6ba24e4199516dc5ad93b9b5b35b348804d0be269dbb773c72a90",
+      "original": "originals/e0eb7c55e5e6ba24e4199516dc5ad93b9b5b35b348804d0be269dbb773c72a90.png",
       "review_record_present": true,
-      "current_review_path": "records/reviews/3b015636ec754fe31835a5796574eb5bad16137ecdf4ac98c77ca5fad5a420d5.json",
-      "review_status": "failed_independent_visual_review_retained_pending_replacement",
-      "current_prompt_path": "records/prompts/e8090fda4c4d436b1323a5e1b5dca4bd4af3f361020df4bf3d714fde92b51a0e.json"
+      "current_review_path": "records/reviews/5897a17ebd93944feba477012c6e30337be21ffe772d8baf98ad53077ac7207c.json",
+      "review_status": "passed_independent_visual_review",
+      "current_prompt_path": "records/prompts/9c6575e536a0e9bf8f45ad008fee1ed23387b1162e87640b6009ceea31d11dc2.json"
     },
     "69": {
       "word": "一諾千金",
