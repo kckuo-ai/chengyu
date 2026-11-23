@@ -1,0 +1,87 @@
+{
+  "no": 141,
+  "kind": "existing",
+  "word": "裹足不前",
+  "path": "/workspace/chengyu-preservation/originals/46811770ce312a2ab354eac2a84b0f8595b8f592194d593bd3f95cfc2d89e8bf.png",
+  "original_sha256": "46811770ce312a2ab354eac2a84b0f8595b8f592194d593bd3f95cfc2d89e8bf",
+  "original_available": true,
+  "review_source_sha256": "46811770ce312a2ab354eac2a84b0f8595b8f592194d593bd3f95cfc2d89e8bf",
+  "webp_src": "img/idioms/141.webp",
+  "webp_sha256": "ec4f58d2f9a48fa505c9da8645244309cafc3d8b54343ff907cffa6dc5fd4cf5",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-02",
+  "alt": "背包男子停在手作教室門口，想著做壞的陶杯而皺眉摸下巴；裡面的老師和同學拿著作品，笑著招手邀他一起加入。",
+  "issues": [
+    "text_brand_watermark: 壞杯旁分離的雙彎情緒記號近似數字3，原尺寸可見，依不得有類數字符號不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "因害怕做壞作品而停門外，內有人招手卻猶豫不進，顧忌與不敢向前清楚，不是外人單純等候。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "門內邀請與門外退縮形成對比，手機可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "主角握背帶、托頰五指合理；老師捧陶作、同學持杯與伸掌均正常，椅後腳有遮擋。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "壞杯在想像泡泡、現場作品由桌或手托，門窗桌椅支撐正常。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "壞杯旁分離的雙彎情緒記號近似數字3，原尺寸可見，依不得有類數字符號不通過。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區手作教室、便服教師成人與國小孩子比例合理。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "衣領均無紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 201,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        1151,
+        430,
+        989
+      ],
+      "method": "All nine candidate sheets actually viewed: three nearest installed artworks per target plus available MOE synonyms and antonyms. Full 1151, 430 and 989 additionally viewed to resolve near-composition matches. Candidates are not counted as audited artworks. Group targets 125 and 139 were also compared at full and native detail sizes.",
+      "near_duplicates": {
+        "125": "與139及另看全圖430「忘恩負義」同為左上受助、右側或前景開店成功後抬掌拒恩人於門外，主要事件與構圖近乎可互換。",
+        "139": "與125及430同樣受助後店成、在門口抬掌拒恩人；工作類別改變仍未區分主構圖。",
+        "127": "另看1151「絡繹不絕」全圖，同樣店員在左側開門迎接、訪客曲線長隊延伸到右後方，手持盆栽改書本仍是近乎相同的上門排隊構圖。",
+        "172": "另看989「分崩離析」全圖，同樣大型桌面破散模型置前景、同伴抱私人物品離散、空椅和失落表情置後方；人物年齡與模型形狀不同，主構圖與團隊潰散故事仍高度重複。"
+      },
+      "distinguished_comparisons": "150的師生作品水準差距、168的朽毀橋無從修復，雖也用木橋，與114/598的反覆試作堅持有不同人物關係與動作；未僅因共享木橋道具直接判構圖相同。126的簡陋提案引來增補與138多人商議並分工實作也有不同因果，不把同是園藝桌視為自動重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容有所顧忌，而停止腳步，不敢向前。",
+    "syn": "畏縮不前、停滯不前、躊躇不前",
+    "ant": "一往無前、勇往直前"
+  }
+}

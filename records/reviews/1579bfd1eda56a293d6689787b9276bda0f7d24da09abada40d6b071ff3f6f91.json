@@ -1,0 +1,68 @@
+{
+  "no": 156,
+  "kind": "regenerate",
+  "word": "莫逆之交",
+  "path": "/workspace/idiom-review/batch-24-group-2-redraw-31/batch-24/156.png",
+  "original_sha256": "0ab11b7ca972b13a79cf46b961b2197e98d6b14299094f0d008b965a295a00fa",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-24-group-2-redraw-31",
+  "alt": "男孩拿著布帆，女孩抱著木桿，兩人笑著準備材料；下一幕他們一起替小車綁好帆桿，後方另一對同學也正在討論製作方法。",
+  "issues": [
+    "meaning: 只能看出兩人順利合作做帆車，沒有彼此理解心意或長久相知的線索；易只解作同心協力，未能確定知己朋友之義。 已實際看過六張比較表共131張候選及139/430、153/220全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "只能看出兩人順利合作做帆車，沒有彼此理解心意或長久相知的線索；易只解作同心協力，未能確定知己朋友之義。 已實際看過六張比較表共131張候選及139/430、153/220全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "上下備料與製作清楚，背景另組不搶主體。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持布握桿、背景托腮開掌與下方綁繩各五指或握物遮擋自然，肩臂連續，下身桌遮合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "帆繩繫桿、桿插車箱、車輪落桌，剪刀軸與輪軸連接正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "物件衣鞋無文字字母數字類字品牌水印，帆結屬綁繩結構。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小戶外手作課、制服學童比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "021538918ad4aab9a2f2b7332a2f7ee1ebc2e6420c3f65e641085d882bbd9090",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/49e27d83350ffb780def16b903d53ff240a915b8daa5f1cc15295367b04720e9.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 131,
+    "comparison_method": "Six sheets with131 current catalog candidates actually viewed; additional full139/430 and153/220 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "心意相投的朋友。",
+    "syn": "刎頸之交、金石之交、管鮑之交",
+    "ant": "一面之交、泛泛之交、酒肉朋友、點頭之交"
+  }
+}

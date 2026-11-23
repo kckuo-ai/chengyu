@@ -12685,5 +12685,20 @@
       "commit": "184cab5208d560783e7cc2a6ac03f0ea6e55a995",
       "no": "1060"
     }
+  ],
+  "a60a22a2b3e6c8718242a8317a11e9ea33ec0ce4427efa3bdb0c19efb9d9cbb6": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-24-group-2-redraw-31",
+      "source_file": "121.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
+  ],
+  "a61e29553fb45a128eed859f734a80f3d28ed77d24dd680b63776a689caf3da6": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-24-25",
+      "source": "docs/illustration-prompts.json#entries/145"
+    }
   ]
 }

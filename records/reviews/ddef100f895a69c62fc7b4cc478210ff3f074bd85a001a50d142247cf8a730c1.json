@@ -1,0 +1,68 @@
+{
+  "no": 91,
+  "kind": "regenerate",
+  "word": "舉案齊眉",
+  "path": "/workspace/idiom-review/batch-25-redraw-8/batch-25/91.png",
+  "original_sha256": "624fcca8e7cfa2c2b94eb1bbc655c87a8c48176b52b62179ea84c8a8c34b7983",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-25-redraw-8",
+  "alt": "妻子微微欠身，把熱湯用雙手遞給丈夫，他也雙手接過；另一幕丈夫同樣恭敬送上茶杯，妻子微笑相迎，牆上掛著兩人的結婚合照。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "婚照確立夫妻、雙方先後欠身雙手敬遞敬接，互敬而非單向伺候或泛愛情可讀。 已實際看過六張比較表共131張候選及139/430、153/220全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右雙向禮待與中間婚照清楚，手機可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "夫妻兩幕遞接共八手各五指或杯碗遮擋自然，臂肩連續、四人次雙鞋落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "杯碗受手托、椅座托臀、桌椅腿接地，無穿手或浮物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "婚照杯碗衣鞋家飾無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代住家、成年夫妻便服與婚照自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "6390247806988a3686c6bb5462bf282ae51bc9cf4feed4b77f40572884a6a1a6",
+  "previous_rejected_candidate_review_archive_path": "records/reviews/48d682484d7114809c29dd578fa80b8846ef279216df84834f8c0938edec4fe9.json",
+  "previous_review_archive_path": "records/reviews/a87f74716ba767f8acada60f28d1602c0f5d18b4c58128b3b1c18be1edf6b346.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 131,
+    "comparison_method": "Six sheets with131 current catalog candidates actually viewed; additional full139/430 and153/220 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻夫妻相敬如賓。褒義。",
+    "syn": "相敬如賓、魚水和諧、琴瑟和鳴",
+    "ant": "琴瑟不和"
+  },
+  "webp_src": "img/idioms/91-624fcca8e7cf.webp",
+  "webp_sha256": "e7d4f59c8922646815f39981d13677802d695ee03e1ff1046ee2845f74573642"
+}

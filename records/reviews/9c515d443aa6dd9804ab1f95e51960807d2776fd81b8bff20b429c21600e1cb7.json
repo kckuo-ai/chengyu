@@ -1,0 +1,68 @@
+{
+  "no": 169,
+  "kind": "regenerate",
+  "word": "河東獅吼",
+  "path": "/workspace/idiom-review/batch-24-group-2-redraw-31/batch-24/169.png",
+  "original_sha256": "721b2afdb1de67c36c4cd01f2638a6971f934ca979d92c33ddd8366b9567dac8",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-24-group-2-redraw-31",
+  "alt": "客廳裡，女子一手叉腰，一手指著丈夫大聲斥責；丈夫縮肩合手，露出害怕神情，牆上的結婚合照清楚顯示兩人的夫妻關係。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "婚照確立夫妻，妻子發怒指責丈夫、丈夫畏縮，妻凶悍發威清楚，非獅子字面。 已實際看過六張比較表共131張候選及139/430、153/220全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "夫妻怒懼反差及婚照集中，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "叉腰指掌、丈夫合掌五指或掌互遮自然，肩肘連續，四鞋著地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "椅桌花盆照片有支撐，婚照框連牆、人物站姿重心合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "相框無題字、衣鞋家飾無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代客廳、成年夫妻便服與婚照自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "445997acbd82904aeee61c225f0f1d82a2117c39b04d721dba14a02005ed7768",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/84b37325d429babc76f63671cdf34c13696cdfd8a031c164620ae7b5beb97e22.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 131,
+    "comparison_method": "Six sheets with131 current catalog candidates actually viewed; additional full139/430 and153/220 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻妻子凶悍發威。",
+    "syn": "",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/169-721b2afdb1de.webp",
+  "webp_sha256": "617c4d562e48ae1b40706c8db1e4033142ad0e36ce8047e1cca2ebcb031e50d6"
+}

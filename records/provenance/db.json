@@ -8041,5 +8041,20 @@
       "batch": "batch-23-group-1-redraw-35",
       "source": "docs/illustration-reviews.json#entries/77"
     }
+  ],
+  "db8a67f09b43d07c32126405b397eafe5fb9ef08cab500c3f9e2abd1ea98cd6d": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-24-25",
+      "source": "docs/illustration-prompts.json#entries/89"
+    }
+  ],
+  "db78896c63f901f5b8aab037eaba7183f1638490639892b5a9eb568be4c3c69c": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-25-redraw-8",
+      "source_file": "108.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

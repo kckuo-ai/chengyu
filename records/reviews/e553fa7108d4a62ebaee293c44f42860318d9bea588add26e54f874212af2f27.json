@@ -1,0 +1,68 @@
+{
+  "no": 167,
+  "kind": "regenerate",
+  "word": "不恥下問",
+  "path": "/workspace/idiom-review/batch-24-group-2-redraw-31/batch-24/167.png",
+  "original_sha256": "3829bc29e9833364c7e8f52694627c476d0cda3048741e53aa69f225d461f62a",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-24-group-2-redraw-31",
+  "alt": "老師原本教男孩畫花，後來男孩介紹平板的畫筆功能，她便彎身專心請教；最後老師照著操作，兩人開心看著螢幕上的花朵畫作。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "先教紙筆畫建立老師身份、後轉向學生學平板繪畫且欣然實作，不恥向學問較淺者請教清楚。 已實際看過六張比較表共131張候選及139/430、153/220全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "紙筆授課轉學生教平板三幕，手機可讀角色交換。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持筆、指螢幕、扶平板與老師搭膝掌、孩子合掌各五指或自然遮擋，臂肩連續。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "平板有支架落桌、筆尖觸螢幕、花盆畫冊受桌托，物理合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "螢幕只花圖與三種畫筆圖示、畫冊僅花葉，無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小美術教室、成年老師與國小男孩制服比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "32e153a2de6d4f8912843dd47bd7183e7cdf9dcfcaf07d207b2419eb7d4dcc79",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/e33386582a3bc17bc462815c8503a56870de6493b48ab7bbb068b2fec72b7951.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 131,
+    "comparison_method": "Six sheets with131 current catalog candidates actually viewed; additional full139/430 and153/220 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "不以向身分較低微或是學問較自己淺陋的人求教為羞恥。褒義。",
+    "syn": "虛懷若谷、詢於芻蕘",
+    "ant": "恥下問、師心自用"
+  },
+  "webp_src": "img/idioms/167-3829bc29e983.webp",
+  "webp_sha256": "6b5a7ad901d5a9bd79335ec7d21f33f825bbfc32fa20f41541d5d75979c0182d"
+}

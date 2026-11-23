@@ -1,0 +1,68 @@
+{
+  "no": 89,
+  "kind": "regenerate",
+  "word": "自相矛盾",
+  "path": "/workspace/idiom-review/batch-25-redraw-8/batch-25/89.png",
+  "original_sha256": "616638be9616f2c0204fd0a7a8c118515ecc90fdeb60871b8e2398f0df563211",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-25-redraw-8",
+  "alt": "男孩介紹桌上的水壺，卻同時說出兩種互相衝突的狀況：一個泡泡裡壺邊乾燥，另一個卻流滿水；女孩托腮攤手，疑惑望著他。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同人同壺同時兩個說法、一幅密閉不漏一幅周邊漏水，聽者困惑，言語互牴觸清楚，非只有實測失敗。 已實際看過六張比較表共131張候選及139/430、153/220全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "同壺對立泡泡與聽者反應集中，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男孩兩指示掌、女孩托腮與攤掌五指或收指自然，肩臂連續，四鞋踏地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "現實壺置桌、泡泡壺有平面底，圖示水自然攤流，無不合理懸物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "水壺素面無刻度品牌，泡泡與衣鞋無文字字母數字類字水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小校園、國小便服與制服學童自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "38fe6f1653d8c3815db14a84f22bf27f10cf12e98427c6c4e375f99a3df58511",
+  "previous_rejected_candidate_review_archive_path": "records/reviews/041524e95b1c4f29fd321fbc08ce109f2ba9bbfee08716a03e43d8f226efe99a.json",
+  "previous_review_archive_path": "records/reviews/202db56354172443ed73f616deaf382e1503d8696ccbabdf67f22945cde2dc16.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 131,
+    "comparison_method": "Six sheets with131 current catalog candidates actually viewed; additional full139/430 and153/220 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻言語或行事前後無法呼應，互相牴觸。",
+    "syn": "",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/89-616638be9616.webp",
+  "webp_sha256": "94d813cd4fde847a652ebeb273314a6051450b032c52663fcac968c43206050f"
+}

@@ -8308,5 +8308,12 @@
       "path": "backup/batches/2026-11-07-770-790/reviews/818.review.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "828aee65c64328f704a153bd605d9368d2e8b89c0f1f2d81fe5a20f5e40ed76c": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-24-25",
+      "source": "docs/illustration-prompts.json#entries/137"
+    }
   ]
 }

@@ -1,0 +1,68 @@
+{
+  "no": 93,
+  "kind": "regenerate",
+  "word": "歧路亡羊",
+  "path": "/workspace/idiom-review/batch-25-redraw-8/batch-25/93.png",
+  "original_sha256": "dc1d0b6dc3178a23b88ad22a21a4fdafd145dd5a48003988fcf757e058364ab4",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-25-redraw-8",
+  "alt": "兩名學生想整理葉片，卻同時考慮外形、顏色與葉脈等不同分類方式；後來葉子越堆越多，兩人抓頭發愁，面前分格盒始終空著。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "多種分類方向在泡泡並行、後被繁雜差異困住，葉堆變大仍一格未成，求道迷失終無所成清楚，非實際岔路找羊。 已實際看過六張比較表共131張候選及139/430、153/220全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "多方向想法到空盒困惑雙幕清楚，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持葉開掌、搭桌、抓頭與攤桌五指或葉遮合理，肩臂連續、八鞋坐姿有地支撐。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "葉片受手桌托、盒格結構連底，椅桌承重與透視自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "泡泡只葉形顏色葉脈，衣鞋盒無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小自然課、制服學童年齡比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "180dabf1f138977ec40dfb736aa52eaf5a7fd2bc2ff6a33eec02d89674535cb2",
+  "previous_rejected_candidate_review_archive_path": "records/reviews/da814d662505018922abb537cbaecfde38825f39bcb6532d86cefc9db839c7bb.json",
+  "previous_review_archive_path": "records/reviews/5d15e2bb5adb8b154e5b7e0c589a2efa4bf5b7bf43a517c68486e8ed63bb6424.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 131,
+    "comparison_method": "Six sheets with131 current catalog candidates actually viewed; additional full139/430 and153/220 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻事理繁雜多變，求道者誤入迷途，而終無所成。",
+    "syn": "",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/93-dc1d0b6dc317.webp",
+  "webp_sha256": "2061bf09ec521ec0d3a72cc24129ff0d7036e60b19b672cfe517700eee1c3556"
+}

@@ -1,0 +1,87 @@
+{
+  "no": 169,
+  "kind": "existing",
+  "word": "河東獅吼",
+  "path": "/workspace/chengyu-preservation/originals/445997acbd82904aeee61c225f0f1d82a2117c39b04d721dba14a02005ed7768.png",
+  "original_sha256": "445997acbd82904aeee61c225f0f1d82a2117c39b04d721dba14a02005ed7768",
+  "original_available": true,
+  "review_source_sha256": "445997acbd82904aeee61c225f0f1d82a2117c39b04d721dba14a02005ed7768",
+  "webp_src": "img/idioms/169.webp",
+  "webp_sha256": "2c11d3d640019fe8e4d62adde23b3a0dbeceb9862b40d23e81ebf4ccb4ea95b2",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-02",
+  "alt": "女子在客廳一手叉腰，一手指著男子大聲斥責；男子縮肩交握雙手，驚慌地望著她，後方掛著兩人親密合照。",
+  "issues": [
+    "text_brand_watermark: 左側書架淺色書脊有直排仿字及圓形類字印記，無類文字要求不過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一男女的親密合照連結夫妻，妻子怒吼叉腰、丈夫畏縮，符合妻子凶悍發威，不只是老師責學生。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "雙人怒與怕對照明確，照片補足關係，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "指人食指伸出四指收握、叉腰指被衣遮、男子交握五指自然，臂腕各接袖。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "桌杯盆栽落檯、相框掛牆、人物站姿合理，無接觸穿透。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "左側書架淺色書脊有直排仿字及圓形類字印記，無類文字要求不過。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代夫妻客廳、便服開襟衫長褲自然，人物非兒童或古人。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "女子紅棕整件外套不是紅領巾，兩人頸前均無紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 201,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        1151,
+        430,
+        989
+      ],
+      "method": "All nine candidate sheets actually viewed: three nearest installed artworks per target plus available MOE synonyms and antonyms. Full 1151, 430 and 989 additionally viewed to resolve near-composition matches. Candidates are not counted as audited artworks. Group targets 125 and 139 were also compared at full and native detail sizes.",
+      "near_duplicates": {
+        "125": "與139及另看全圖430「忘恩負義」同為左上受助、右側或前景開店成功後抬掌拒恩人於門外，主要事件與構圖近乎可互換。",
+        "139": "與125及430同樣受助後店成、在門口抬掌拒恩人；工作類別改變仍未區分主構圖。",
+        "127": "另看1151「絡繹不絕」全圖，同樣店員在左側開門迎接、訪客曲線長隊延伸到右後方，手持盆栽改書本仍是近乎相同的上門排隊構圖。",
+        "172": "另看989「分崩離析」全圖，同樣大型桌面破散模型置前景、同伴抱私人物品離散、空椅和失落表情置後方；人物年齡與模型形狀不同，主構圖與團隊潰散故事仍高度重複。"
+      },
+      "distinguished_comparisons": "150的師生作品水準差距、168的朽毀橋無從修復，雖也用木橋，與114/598的反覆試作堅持有不同人物關係與動作；未僅因共享木橋道具直接判構圖相同。126的簡陋提案引來增補與138多人商議並分工實作也有不同因果，不把同是園藝桌視為自動重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻妻子凶悍發威。",
+    "syn": "",
+    "ant": ""
+  }
+}

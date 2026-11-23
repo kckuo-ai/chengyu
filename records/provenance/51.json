@@ -7812,5 +7812,13 @@
       "batch": "batch-23-group-1-redraw-35",
       "source": "docs/illustration-reviews.json#entries/105"
     }
+  ],
+  "514975177a0c06b4ec773d958a401f464dbc759d5747c6964f25d457146dd2f3": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-02",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-02/136.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

@@ -1,0 +1,68 @@
+{
+  "no": 154,
+  "kind": "regenerate",
+  "word": "抱薪救火",
+  "path": "/workspace/idiom-review/batch-24-group-2-redraw-31/batch-24/154.png",
+  "original_sha256": "21df00e4b1d6f90154a52fb71eb1a801eea7515797f79f6fa53f7770e6cdb35d",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-24-group-2-redraw-31",
+  "alt": "男孩面對混濁顏色，想靠再擠顏料來補救，卻越加越多；調色盤最後滿是髒色並流到桌上，同學急忙張掌阻止，他仍焦急擠著黃色。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "先已有混灰的一格、男孩皺眉添藍補救，之後再添黃成整盤污色外溢，錯法救急使更糟清楚。 已實際看過六張比較表共131張候選及139/430、153/220全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "少量混色到整盤溢出雙景，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "擠管握指、搭桌掌與女孩阻止開掌各五指或管遮自然，肩臂連續。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "顏料出管嘴落盤後溢邊、盤杯筆管受桌托，支撐與流向自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "顏料管僅純色色帶無標字，畫作是山景，無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小美術教室、圍裙學童比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "ef51a504db318d09a6b4cd43eaa0d7bc7d1684e3d1893f371d2e82844558aecc",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/50a9363210b1565830b6aefb3c75a68e1888ced583e2a33a9d348bf8a89ed4bc.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 131,
+    "comparison_method": "Six sheets with131 current catalog candidates actually viewed; additional full139/430 and153/220 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻用錯方法，而致禍害加深。貶義。",
+    "syn": "火上加油、以火救火、揚湯止沸",
+    "ant": "釜底抽薪"
+  },
+  "webp_src": "img/idioms/154-21df00e4b1d6.webp",
+  "webp_sha256": "42a4c8f56cda8c36dfd1de2086a117b1b933eb8938b6571e3f64774a44053166"
+}

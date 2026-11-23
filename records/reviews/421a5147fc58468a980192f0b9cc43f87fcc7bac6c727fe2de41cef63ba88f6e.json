@@ -1,0 +1,87 @@
+{
+  "no": 135,
+  "kind": "existing",
+  "word": "雪中送炭",
+  "path": "/workspace/chengyu-preservation/originals/c45a19dee54f028c312d8757b67dd82e44339d06d5b1b0904fdbcded5ac2a967.png",
+  "original_sha256": "c45a19dee54f028c312d8757b67dd82e44339d06d5b1b0904fdbcded5ac2a967",
+  "original_available": true,
+  "review_source_sha256": "c45a19dee54f028c312d8757b67dd82e44339d06d5b1b0904fdbcded5ac2a967",
+  "webp_src": "img/idioms/135.webp",
+  "webp_sha256": "6b46c8d418e701bf3385a0855930f849df31fd5443b8c3a21183be3db37cbcfb",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-02",
+  "alt": "冒著寒風的女子帶著熱飲與厚毯進屋，坐在沙發上的母子縮著身子取暖，抬頭露出感激微笑；窗外和門邊積著白雪。",
+  "issues": [
+    "no_red_neckerchief: 母親頸部明顯圍著磚紅色針織圍巾，雖非紅領巾仍觸犯禁紅圍巾。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "母子縮身發冷，訪客適時送來冒熱氣飲品和毯，困境與所需援助相符，並非已富足者再添裝飾。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "寒冷窗外、縮身母子與送暖物形成清晰焦點，手機可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "母親兩手抱臂、孩子合掌與訪客握杯戴手套均有合理五指及遮擋，訪客下肢被門檻裁去非多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "保溫杯握在手中、毯子搭臂、沙發桌與花盆支撐正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "杯、衣服及毯面只有材質色塊，未見文字數字商標或水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代便服木屋可在台灣高山成立，畫面無足夠依據判外國；兒童比例正常。"
+    },
+    "no_red_neckerchief": {
+      "passed": false,
+      "evidence": "母親頸部明顯圍著磚紅色針織圍巾，雖非紅領巾仍觸犯禁紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 201,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        1151,
+        430,
+        989
+      ],
+      "method": "All nine candidate sheets actually viewed: three nearest installed artworks per target plus available MOE synonyms and antonyms. Full 1151, 430 and 989 additionally viewed to resolve near-composition matches. Candidates are not counted as audited artworks. Group targets 125 and 139 were also compared at full and native detail sizes.",
+      "near_duplicates": {
+        "125": "與139及另看全圖430「忘恩負義」同為左上受助、右側或前景開店成功後抬掌拒恩人於門外，主要事件與構圖近乎可互換。",
+        "139": "與125及430同樣受助後店成、在門口抬掌拒恩人；工作類別改變仍未區分主構圖。",
+        "127": "另看1151「絡繹不絕」全圖，同樣店員在左側開門迎接、訪客曲線長隊延伸到右後方，手持盆栽改書本仍是近乎相同的上門排隊構圖。",
+        "172": "另看989「分崩離析」全圖，同樣大型桌面破散模型置前景、同伴抱私人物品離散、空椅和失落表情置後方；人物年齡與模型形狀不同，主構圖與團隊潰散故事仍高度重複。"
+      },
+      "distinguished_comparisons": "150的師生作品水準差距、168的朽毀橋無從修復，雖也用木橋，與114/598的反覆試作堅持有不同人物關係與動作；未僅因共享木橋道具直接判構圖相同。126的簡陋提案引來增補與138多人商議並分工實作也有不同因果，不把同是園藝桌視為自動重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻在人艱困危急之時，給予適時的援助。",
+    "syn": "急人之難、寒中送衣",
+    "ant": "趁火打劫、落井下石、錦上添花"
+  }
+}

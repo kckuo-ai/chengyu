@@ -1,0 +1,68 @@
+{
+  "no": 173,
+  "kind": "regenerate",
+  "word": "愛屋及烏",
+  "path": "/workspace/idiom-review/batch-24-group-2-redraw-31/batch-24/173.png",
+  "original_sha256": "b65658e2124347acde7544a45aef89ee6583e4a7d5ac4aadbeca0855dca4a323",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-24-group-2-redraw-31",
+  "alt": "女孩接過好友託付的烏龜時有些遲疑，後來卻細心替牠擺石頭、整理水草；一旁放著兩人的開心合照，她帶著微笑照料小缸。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "好友合照建立親密，原本遲疑接受對方烏龜後用心照料，因愛朋友連帶關愛其寵物可讀，非房屋烏鴉字面。 已實際看過六張比較表共131張候選及139/430、153/220全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "交接與照料雙景、合照串連人物關係，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "交接托缸四手與擺石扶草雙手五指或缸遮合理，臂肩連續，站姿鞋踏地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "缸受交接雙方掌托或落桌，龜站石、草根入砂石，水位與玻璃透視合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "相框無字、缸器皿衣鞋無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代住家、國小制服女孩身形年齡自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "c9267154dbb9f905fc993f609dcb34f3092b8b4f5bba80475e2b92d941ac6a28",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/8c0742cb0b19320e6fd825e73404a7622a162589801474da4e8a33aec198aae1.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 131,
+    "comparison_method": "Six sheets with131 current catalog candidates actually viewed; additional full139/430 and153/220 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻愛一個人也連帶地關愛與他有關的一切。",
+    "syn": "",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/173-b65658e21243.webp",
+  "webp_sha256": "e65d69af637c9d3edbbf7fb770280b2102ffc90520d6d478d7e5a8e4dec8e00a"
+}

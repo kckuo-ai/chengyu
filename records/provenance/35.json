@@ -12928,5 +12928,13 @@
       "batch": "batch-22-redraw-9",
       "source": "docs/illustration-prompts.json#entries/47"
     }
+  ],
+  "354f114a85b01516f73def3f8d60a7ee3844cacc5a78b2e647f3707eba75d56a": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batches-24-25",
+      "source_file": "redraw-proposals.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

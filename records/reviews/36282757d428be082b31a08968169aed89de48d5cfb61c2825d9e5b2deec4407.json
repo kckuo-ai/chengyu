@@ -1,0 +1,68 @@
+{
+  "no": 131,
+  "kind": "regenerate",
+  "word": "天經地義",
+  "path": "/workspace/idiom-review/batch-24-group-2-redraw-31/batch-24/131.png",
+  "original_sha256": "b8c133109e13262a7e1290ce72e50f587e23bf7ef9bef89a83a0faee1793c6c3",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-24-group-2-redraw-31",
+  "alt": "女子和女孩攤開雙手，看著鬆手後落到地上的球與木塊；旁邊果樹也有熟果落回盆土，呈現不同物品都自然往下落的現象。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "球、木塊與熟果均向地面落，不隨人喜好改變，採天地間本來如此的自然道理義，非只表揚好行為。 已實際看過六張比較表共131張候選及139/430、153/220全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "兩人開掌對不同落地物與樹果對照，手機可讀共通現象。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "四開掌一拇四指清楚、臂肩連續，四鞋踏地無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "球塊落地有支撐、熟果受盆土托、枝果連續、水槽桌腳合理，重力方向自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "衣鞋球縫木紋與盆樹無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代自然教室、國小女孩制服及便服成人比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "82270c8cf9336285c4c73f9401fa9b026234349cd955f78b852f6a147b4054db",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/93011782c00f58f0f36645c9f585b3ae8e199f52c6cb0426ce14d8a50e13b2f0.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 131,
+    "comparison_method": "Six sheets with131 current catalog candidates actually viewed; additional full139/430 and153/220 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "天地間原本如此而不容改變的道理。",
+    "syn": "不移至理、金科玉律、理所當然",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/131-b8c133109e13.webp",
+  "webp_sha256": "fc7b84821a92126892915648bbce84926797d0b4d48eff4eec226797e0110af6"
+}

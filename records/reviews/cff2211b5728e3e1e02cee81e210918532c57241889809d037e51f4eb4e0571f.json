@@ -1,0 +1,68 @@
+{
+  "no": 139,
+  "kind": "regenerate",
+  "word": "過河拆橋",
+  "path": "/workspace/idiom-review/batch-24-group-2-redraw-31/batch-24/139.png",
+  "original_sha256": "86190c4cbc1aac181f580860faa473b08e34d33860c61d41a831b8340cc116fb",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-24-group-2-redraw-31",
+  "alt": "女子借同伴推來的升降臺，把大陶器放上高架；完成後，她卻把升降臺鎖在門內，同伴抱著自己的作品站在外面，神情失望。",
+  "issues": [
+    "meaning: 與現行 430 忘恩負義同為工作室先受工具協助、再把幫手拒於門外，重複工具與關門謝客的核心敘事構圖；無法作獨立辨識圖。 已實際看過六張比較表共131張候選及139/430、153/220全圖對照，亦比對本批其他圖；重複構圖已列為本項不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "與現行 430 忘恩負義同為工作室先受工具協助、再把幫手拒於門外，重複工具與關門謝客的核心敘事構圖；無法作獨立辨識圖。 已實際看過六張比較表共131張候選及139/430、153/220全圖對照，亦比對本批其他圖；重複構圖已列為本項不通過。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右同人同升降臺、由助到拒對照，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "雙扶陶、扶臺邊、後托作品與轉匙護門各五指或物件遮擋自然，臂肩連續、鞋有臺或地支撐。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "陶器受手架托、剪式升降桿有轉軸、臺輪落地、鑰匙接門鎖，無明顯懸空。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "陶器鏤空為形狀非字，門架衣鞋無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代陶藝工作室、便服成年夥伴自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "b4c587e026f602c34a6d4490bf036cf0c08f3610f0efabe5e0eea009336bec30",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/64e644d43d5553bc69373b72e37d62045343d5f5eb271e1a41c307fa3bac07c7.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 131,
+    "comparison_method": "Six sheets with131 current catalog candidates actually viewed; additional full139/430 and153/220 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻不念舊情，忘恩負義。貶義。",
+    "syn": "忘恩負義、兔死狗烹、卸磨殺驢、鳥盡弓藏",
+    "ant": "投桃報李、沒齒不忘、結草銜環、感恩圖報、感恩戴德"
+  }
+}

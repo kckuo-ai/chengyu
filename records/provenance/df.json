@@ -18364,5 +18364,12 @@
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470",
       "path": "backup/batches/2026-11-07-846-847/SHA256SUMS"
     }
+  ],
+  "df581618fb2ef943f46a89baae7ef3ea2f03ed3390555142909dcbe59747f1cb": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-24-25",
+      "source": "docs/illustration-prompts.json#entries/114"
+    }
   ]
 }

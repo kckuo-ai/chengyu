@@ -19142,5 +19142,21 @@
       "source_file": "review-manifest.json",
       "reviewer": "independent-visual-review-2026-11-23"
     }
+  ],
+  "4645fe2f1ae5e39bac67cc3a3b103d7abe47421f602dc58121155c68ebda3fe2": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-02",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-02/134.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
+  ],
+  "461cc3afbb08bb9551cb507c2bf9425611254f4349cad833ee7e266799ef6f1f": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-25-redraw-8",
+      "source_file": "91.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

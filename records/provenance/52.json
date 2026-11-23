@@ -10381,5 +10381,20 @@
       "path": "backup/batches/2026-11-06-710-730/metadata/757.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "527e3e5e48588bf907934bac82505db4f3baaf1038b5cdcea5d4ef8d1ff5e65f": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-24-group-2-redraw-31",
+      "source_file": "137.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
+  ],
+  "521f5a5e9a70ca6c17e8f4d7ea6bd75d41da701fd34bdf6ef4f7ba7c22305151": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-24-25",
+      "source": "docs/illustration-prompts.json#entries/91"
+    }
   ]
 }

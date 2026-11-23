@@ -1,0 +1,87 @@
+{
+  "no": 120,
+  "kind": "existing",
+  "word": "車載斗量",
+  "path": "/workspace/chengyu-preservation/originals/067ef505f63cdd356ef0ab9c8fe886b919312cd266a98ae79adcf2cdae909d30.png",
+  "original_sha256": "067ef505f63cdd356ef0ab9c8fe886b919312cd266a98ae79adcf2cdae909d30",
+  "original_available": true,
+  "review_source_sha256": "067ef505f63cdd356ef0ab9c8fe886b919312cd266a98ae79adcf2cdae909d30",
+  "webp_src": "img/idioms/120.webp",
+  "webp_sha256": "5eda10be7f0ae34fc3c5606ebc38310f8ebf1b9ce31c1f3057b0f0aead2221b9",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-02",
+  "alt": "工作人員推著裝滿木塊的箱車走出倉庫，場地上同款箱子一列接著一列；前景木塊堆滿，遠處仍延伸出大量庫存。",
+  "issues": [
+    "hands_feet_pose: 前景戴手套握柄五指自然，後方最遠推車者露出的手只有色塊、不能確認五指，故不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "密集箱列與成堆同款木塊延伸遠方，數量多不可數清楚，不只是單一搬運。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前景大堆與遠景重複箱列呈數量，手機可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "前景戴手套握柄五指自然，後方最遠推車者露出的手只有色塊、不能確認五指，故不通過。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "箱子落車板、輪軸接架、木塊受箱底承托，倉庫架板接柱。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "木箱手孔與木紋為結構，未見文字字母數字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代倉儲院落、便服圍裙成人與推車自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有人物頸部無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 201,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        1151,
+        430,
+        989
+      ],
+      "method": "All nine candidate sheets actually viewed: three nearest installed artworks per target plus available MOE synonyms and antonyms. Full 1151, 430 and 989 additionally viewed to resolve near-composition matches. Candidates are not counted as audited artworks. Group targets 125 and 139 were also compared at full and native detail sizes.",
+      "near_duplicates": {
+        "125": "與139及另看全圖430「忘恩負義」同為左上受助、右側或前景開店成功後抬掌拒恩人於門外，主要事件與構圖近乎可互換。",
+        "139": "與125及430同樣受助後店成、在門口抬掌拒恩人；工作類別改變仍未區分主構圖。",
+        "127": "另看1151「絡繹不絕」全圖，同樣店員在左側開門迎接、訪客曲線長隊延伸到右後方，手持盆栽改書本仍是近乎相同的上門排隊構圖。",
+        "172": "另看989「分崩離析」全圖，同樣大型桌面破散模型置前景、同伴抱私人物品離散、空椅和失落表情置後方；人物年齡與模型形狀不同，主構圖與團隊潰散故事仍高度重複。"
+      },
+      "distinguished_comparisons": "150的師生作品水準差距、168的朽毀橋無從修復，雖也用木橋，與114/598的反覆試作堅持有不同人物關係與動作；未僅因共享木橋道具直接判構圖相同。126的簡陋提案引來增補與138多人商議並分工實作也有不同因果，不把同是園藝桌視為自動重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容數量很多，不可勝數。",
+    "syn": "比比皆是、不計其數、汗牛充棟、多如牛毛、恆河沙數",
+    "ant": "屈指可數、碩果僅存、寥寥無幾、鳳毛麟角"
+  }
+}

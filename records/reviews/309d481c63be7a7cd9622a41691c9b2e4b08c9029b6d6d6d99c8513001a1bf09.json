@@ -1,0 +1,87 @@
+{
+  "no": 160,
+  "kind": "existing",
+  "word": "一網打盡",
+  "path": "/workspace/chengyu-preservation/originals/792ad7d3449dce07ed7eda3794fdad6702eca1993e96d692079dc37ffab564f4.png",
+  "original_sha256": "792ad7d3449dce07ed7eda3794fdad6702eca1993e96d692079dc37ffab564f4",
+  "original_available": true,
+  "review_source_sha256": "792ad7d3449dce07ed7eda3794fdad6702eca1993e96d692079dc37ffab564f4",
+  "webp_src": "img/idioms/160.webp",
+  "webp_sha256": "50e372996ee03c8f162a8bc5945fef9420b2dff2600c041e3d2e76eb126c50c1",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-02",
+  "alt": "兩位員警站在一群低頭居民兩旁，記錄並詢問情況；居民身前集中放著推車、袋子和許多盆栽，有人抓頭，有人雙手交握。",
+  "issues": [
+    "meaning: 只能看出警方盤問一群帶盆栽的人，缺少網捕或全體異己一個不留的來源與結果；無法判斷是否尚有遺漏、甚至是否抓人，不足全部抓住義。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "只能看出警方盤問一群帶盆栽的人，缺少網捕或全體異己一個不留的來源與結果；無法判斷是否尚有遺漏、甚至是否抓人，不足全部抓住義。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "員警包圍中間人群、盆栽集中前景，手機可辨詢問情境。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "員警握筆和攤掌、居民抓頭交手五指合理，部分手被身體盆栽遮，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "花盆袋箱放地、推車輪軸接箱體、夾板受掌托，沒有穿透懸空。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "夾板是空白紙、制服只有簡單幾何徽章，未見字母數字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區與合理員警制服、成年人便服，無古代捕人場面。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有制服便服頸前均無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 201,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        1151,
+        430,
+        989
+      ],
+      "method": "All nine candidate sheets actually viewed: three nearest installed artworks per target plus available MOE synonyms and antonyms. Full 1151, 430 and 989 additionally viewed to resolve near-composition matches. Candidates are not counted as audited artworks. Group targets 125 and 139 were also compared at full and native detail sizes.",
+      "near_duplicates": {
+        "125": "與139及另看全圖430「忘恩負義」同為左上受助、右側或前景開店成功後抬掌拒恩人於門外，主要事件與構圖近乎可互換。",
+        "139": "與125及430同樣受助後店成、在門口抬掌拒恩人；工作類別改變仍未區分主構圖。",
+        "127": "另看1151「絡繹不絕」全圖，同樣店員在左側開門迎接、訪客曲線長隊延伸到右後方，手持盆栽改書本仍是近乎相同的上門排隊構圖。",
+        "172": "另看989「分崩離析」全圖，同樣大型桌面破散模型置前景、同伴抱私人物品離散、空椅和失落表情置後方；人物年齡與模型形狀不同，主構圖與團隊潰散故事仍高度重複。"
+      },
+      "distinguished_comparisons": "150的師生作品水準差距、168的朽毀橋無從修復，雖也用木橋，與114/598的反覆試作堅持有不同人物關係與動作；未僅因共享木橋道具直接判構圖相同。126的簡陋提案引來增補與138多人商議並分工實作也有不同因果，不把同是園藝桌視為自動重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "用網子全部抓住。＆比喻排斥異己，不留孑遺。",
+    "syn": "一掃而空、誅殛滅絕",
+    "ant": "網開一面"
+  }
+}

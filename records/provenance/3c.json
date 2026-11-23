@@ -8687,5 +8687,20 @@
       "batch": "batch-23-group-1-redraw-35",
       "source": "docs/illustration-prompts.json#entries/98"
     }
+  ],
+  "3c0d119d0b3056768430582654efa98a4a9c70d356733e37369b6a4daa43ebe7": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-02",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-02/133.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
+  ],
+  "3cd6928dc0191943abb2f8dd92b42304891390b4ae4145697c1c0740af7b074a": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-24-25",
+      "source": "docs/illustration-prompts.json#entries/169"
+    }
   ]
 }

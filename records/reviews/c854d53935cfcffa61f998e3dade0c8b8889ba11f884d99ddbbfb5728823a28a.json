@@ -1,0 +1,87 @@
+{
+  "no": 130,
+  "kind": "existing",
+  "word": "空中樓閣",
+  "path": "/workspace/chengyu-preservation/originals/3070698df71aac89013995d679b196608acf269babaf4ebd637982b725d4fea4.png",
+  "original_sha256": "3070698df71aac89013995d679b196608acf269babaf4ebd637982b725d4fea4",
+  "original_available": true,
+  "review_source_sha256": "3070698df71aac89013995d679b196608acf269babaf4ebd637982b725d4fea4",
+  "webp_src": "img/idioms/130.webp",
+  "webp_sha256": "bfad3d485a02302e10020255f7401d974881662a4b7231b586f03e817998f364",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-02",
+  "alt": "男子望著屋頂空地，想像建成湖泊、球場和大片綠地；女子抱著小小基地模型攤手疑問，現場只有雜草、磚塊與帆布。",
+  "issues": [
+    "hands_feet_pose: 現實兩人托頰、抱模型和開掌合理，但幻想園區眾多小人物只剩短線手腳，無法確認每手五指。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "小屋頂卻幻想巨大湖泊球場和多棟建築，女子拿小基地攤手，規模不切實際而非正常可行規劃。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "大想像泡泡壓過小現場，手機可辨規模落差。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "現實兩人托頰、抱模型和開掌合理，但幻想園區眾多小人物只剩短線手腳，無法確認每手五指。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "現實模型承托於臂掌、磚塊受地板支撐；幻想巨型景觀不是現實懸空物件。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "球場線是場地邊線，圖中未見題字標籤品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代屋頂空地與城市遠景、便服成年人自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩人領口無紅領巾圍巾，背景小人亦無明顯紅頸布。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 201,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        1151,
+        430,
+        989
+      ],
+      "method": "All nine candidate sheets actually viewed: three nearest installed artworks per target plus available MOE synonyms and antonyms. Full 1151, 430 and 989 additionally viewed to resolve near-composition matches. Candidates are not counted as audited artworks. Group targets 125 and 139 were also compared at full and native detail sizes.",
+      "near_duplicates": {
+        "125": "與139及另看全圖430「忘恩負義」同為左上受助、右側或前景開店成功後抬掌拒恩人於門外，主要事件與構圖近乎可互換。",
+        "139": "與125及430同樣受助後店成、在門口抬掌拒恩人；工作類別改變仍未區分主構圖。",
+        "127": "另看1151「絡繹不絕」全圖，同樣店員在左側開門迎接、訪客曲線長隊延伸到右後方，手持盆栽改書本仍是近乎相同的上門排隊構圖。",
+        "172": "另看989「分崩離析」全圖，同樣大型桌面破散模型置前景、同伴抱私人物品離散、空椅和失落表情置後方；人物年齡與模型形狀不同，主構圖與團隊潰散故事仍高度重複。"
+      },
+      "distinguished_comparisons": "150的師生作品水準差距、168的朽毀橋無從修復，雖也用木橋，與114/598的反覆試作堅持有不同人物關係與動作；未僅因共享木橋道具直接判構圖相同。126的簡陋提案引來增補與138多人商議並分工實作也有不同因果，不把同是園藝桌視為自動重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻虛構的事物或不切實際的幻想。",
+    "syn": "鏡花水月、虛無縹緲、海市蜃樓、夢幻泡影",
+    "ant": ""
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "no": 131,
+  "kind": "existing",
+  "word": "天經地義",
+  "path": "/workspace/chengyu-preservation/originals/82270c8cf9336285c4c73f9401fa9b026234349cd955f78b852f6a147b4054db.png",
+  "original_sha256": "82270c8cf9336285c4c73f9401fa9b026234349cd955f78b852f6a147b4054db",
+  "original_available": true,
+  "review_source_sha256": "82270c8cf9336285c4c73f9401fa9b026234349cd955f78b852f6a147b4054db",
+  "webp_src": "img/idioms/131.webp",
+  "webp_sha256": "2ca25898246def610e63f555a3ffe03812dc9755c66a8e13c94c8b2562e91c91",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-02",
+  "alt": "女子在鄰家庭院把澆水壺交還婆婆，角落小畫面顯示先前借壺的情景；男孩與兩位長者站在旁邊，笑著看她們交接。",
+  "issues": [
+    "meaning: 借壺後還壺能表示守信或物歸原主，但不能單靠這件個人禮貌行為呈現不可改變的公認道理；容易讀成其他守信成語。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "借壺後還壺能表示守信或物歸原主，但不能單靠這件個人禮貌行為呈現不可改變的公認道理；容易讀成其他守信成語。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左上借、前景還同一壺有時序，手機看得懂交接。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "前景兩雙手各握把或托底，五指可循；男子交疊握工具手自然，其他手藏身後或矮牆非缺肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "兩人共同托壺底、壺嘴壺把接身，男子工具直立受手扶、盆栽置地。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "壺面是金屬斑點、衣服是花紋，沒有字母數字標籤水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區庭院、祖孫及便服圍裙人物，無古裝。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有人物頸口無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 201,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        1151,
+        430,
+        989
+      ],
+      "method": "All nine candidate sheets actually viewed: three nearest installed artworks per target plus available MOE synonyms and antonyms. Full 1151, 430 and 989 additionally viewed to resolve near-composition matches. Candidates are not counted as audited artworks. Group targets 125 and 139 were also compared at full and native detail sizes.",
+      "near_duplicates": {
+        "125": "與139及另看全圖430「忘恩負義」同為左上受助、右側或前景開店成功後抬掌拒恩人於門外，主要事件與構圖近乎可互換。",
+        "139": "與125及430同樣受助後店成、在門口抬掌拒恩人；工作類別改變仍未區分主構圖。",
+        "127": "另看1151「絡繹不絕」全圖，同樣店員在左側開門迎接、訪客曲線長隊延伸到右後方，手持盆栽改書本仍是近乎相同的上門排隊構圖。",
+        "172": "另看989「分崩離析」全圖，同樣大型桌面破散模型置前景、同伴抱私人物品離散、空椅和失落表情置後方；人物年齡與模型形狀不同，主構圖與團隊潰散故事仍高度重複。"
+      },
+      "distinguished_comparisons": "150的師生作品水準差距、168的朽毀橋無從修復，雖也用木橋，與114/598的反覆試作堅持有不同人物關係與動作；未僅因共享木橋道具直接判構圖相同。126的簡陋提案引來增補與138多人商議並分工實作也有不同因果，不把同是園藝桌視為自動重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "天地間原本如此而不容改變的道理。",
+    "syn": "不移至理、金科玉律、理所當然",
+    "ant": ""
+  }
+}

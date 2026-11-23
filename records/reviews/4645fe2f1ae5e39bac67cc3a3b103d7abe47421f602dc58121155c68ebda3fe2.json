@@ -1,0 +1,89 @@
+{
+  "no": 134,
+  "kind": "existing",
+  "word": "一視同仁",
+  "path": "/workspace/chengyu-preservation/originals/716a22ccdaee1e030a6f224056a147096dbe3b801e752e4d150aad1e3954e22c.png",
+  "original_sha256": "716a22ccdaee1e030a6f224056a147096dbe3b801e752e4d150aad1e3954e22c",
+  "original_available": true,
+  "review_source_sha256": "716a22ccdaee1e030a6f224056a147096dbe3b801e752e4d150aad1e3954e22c",
+  "webp_src": "img/idioms/134.webp",
+  "webp_sha256": "81701ed0f542b03fdecc67252e693367eaf54db31c4bf4fccbe422debe4f63a3",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-02",
+  "alt": "圖書館員微笑接過女孩的書，後方不同年齡與膚色的讀者抱著書排隊；館內有人坐著閱讀，也有人站在書架前挑書。",
+  "issues": [
+    "meaning: 讀者多元但只有第一人正在被服務，缺少對不同身分給予同等待遇的可見比較，普通借書排隊不足確證平等不分厚薄。",
+    "hands_feet_pose: 前景抱書指有遮擋合理，後方書架前挑書者露手過小、不能確認每手五指。",
+    "text_brand_watermark: 女孩書封、前景展示書封及書脊出現成行仿字標題和標籤，明確違反無類文字。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "讀者多元但只有第一人正在被服務，缺少對不同身分給予同等待遇的可見比較，普通借書排隊不足確證平等不分厚薄。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "借還書主角醒目，多元排隊讀者次序清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "前景抱書指有遮擋合理，後方書架前挑書者露手過小、不能確認每手五指。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "書由手托、電腦與筆筒落櫃台，書架層板結構正常。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "女孩書封、前景展示書封及書脊出現成行仿字標題和標籤，明確違反無類文字。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代公共圖書館可有不同膚色讀者，女孩及長者比例與便服正常。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "黃帽衣、紫外套與綠藍便服頸口皆無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 201,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        1151,
+        430,
+        989
+      ],
+      "method": "All nine candidate sheets actually viewed: three nearest installed artworks per target plus available MOE synonyms and antonyms. Full 1151, 430 and 989 additionally viewed to resolve near-composition matches. Candidates are not counted as audited artworks. Group targets 125 and 139 were also compared at full and native detail sizes.",
+      "near_duplicates": {
+        "125": "與139及另看全圖430「忘恩負義」同為左上受助、右側或前景開店成功後抬掌拒恩人於門外，主要事件與構圖近乎可互換。",
+        "139": "與125及430同樣受助後店成、在門口抬掌拒恩人；工作類別改變仍未區分主構圖。",
+        "127": "另看1151「絡繹不絕」全圖，同樣店員在左側開門迎接、訪客曲線長隊延伸到右後方，手持盆栽改書本仍是近乎相同的上門排隊構圖。",
+        "172": "另看989「分崩離析」全圖，同樣大型桌面破散模型置前景、同伴抱私人物品離散、空椅和失落表情置後方；人物年齡與模型形狀不同，主構圖與團隊潰散故事仍高度重複。"
+      },
+      "distinguished_comparisons": "150的師生作品水準差距、168的朽毀橋無從修復，雖也用木橋，與114/598的反覆試作堅持有不同人物關係與動作；未僅因共享木橋道具直接判構圖相同。126的簡陋提案引來增補與138多人商議並分工實作也有不同因果，不把同是園藝桌視為自動重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "指平等待人，不分親疏厚薄。",
+    "syn": "貴賤無二",
+    "ant": "另眼相看、厚此薄彼"
+  }
+}

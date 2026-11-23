@@ -1,0 +1,87 @@
+{
+  "no": 122,
+  "kind": "existing",
+  "word": "燃眉之急",
+  "path": "/workspace/chengyu-preservation/originals/34a434bc67342fe048f6f1792a45a630545583df6cc45843c9c8fd34f517d4b5.png",
+  "original_sha256": "34a434bc67342fe048f6f1792a45a630545583df6cc45843c9c8fd34f517d4b5",
+  "original_available": true,
+  "review_source_sha256": "34a434bc67342fe048f6f1792a45a630545583df6cc45843c9c8fd34f517d4b5",
+  "webp_src": "img/idioms/122.webp",
+  "webp_sha256": "94125e0bdc337b5f102a0fd40530b6090a3a4f2f911a8f4cb95a1e32f2384c26",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-02",
+  "alt": "書店水管突然破漏，女子急忙指向閥門催促關水，男子趕緊抱開書堆；地面積水已漫向一箱箱書，情況十分緊迫。",
+  "issues": [
+    "text_brand_watermark: 右前米白書脊有成列仿漢字，其他書脊亦有標記，原尺寸明顯不符合無類文字。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "漏水正逼近大量書籍，人物立刻搶救並指關閥，急需處理的嚴重事態清楚，不是普通等待。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "噴水、積水與搶書同時呈現，手機可辨緊急因果。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女子一掌五指平衡、一手伸食指其餘彎曲，男子兩手抱書自然遮住部分指，兩人肩肘腕連續、鞋底接地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "水從接頭破口向下落地，書堆被雙手搬離水面，箱底置地，閥門接管。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "右前米白書脊有成列仿漢字，其他書脊亦有標記，原尺寸明顯不符合無類文字。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代書店、便服圍裙成人、管線生活情境自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩人領口無紅領巾圍巾，紅色是閥門。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 201,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        1151,
+        430,
+        989
+      ],
+      "method": "All nine candidate sheets actually viewed: three nearest installed artworks per target plus available MOE synonyms and antonyms. Full 1151, 430 and 989 additionally viewed to resolve near-composition matches. Candidates are not counted as audited artworks. Group targets 125 and 139 were also compared at full and native detail sizes.",
+      "near_duplicates": {
+        "125": "與139及另看全圖430「忘恩負義」同為左上受助、右側或前景開店成功後抬掌拒恩人於門外，主要事件與構圖近乎可互換。",
+        "139": "與125及430同樣受助後店成、在門口抬掌拒恩人；工作類別改變仍未區分主構圖。",
+        "127": "另看1151「絡繹不絕」全圖，同樣店員在左側開門迎接、訪客曲線長隊延伸到右後方，手持盆栽改書本仍是近乎相同的上門排隊構圖。",
+        "172": "另看989「分崩離析」全圖，同樣大型桌面破散模型置前景、同伴抱私人物品離散、空椅和失落表情置後方；人物年齡與模型形狀不同，主構圖與團隊潰散故事仍高度重複。"
+      },
+      "distinguished_comparisons": "150的師生作品水準差距、168的朽毀橋無從修復，雖也用木橋，與114/598的反覆試作堅持有不同人物關係與動作；未僅因共享木橋道具直接判構圖相同。126的簡陋提案引來增補與138多人商議並分工實作也有不同因果，不把同是園藝桌視為自動重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容事態嚴重，情況危急。",
+    "syn": "十萬火急、火燒眉毛、刻不容緩、迫不及待、急如星火、迫在眉睫、當務之急",
+    "ant": "不急之務"
+  }
+}

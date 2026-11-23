@@ -8023,5 +8023,20 @@
       "commit": "c074e79f991b922a048481e6be65f4157ac1943f",
       "no": "947"
     }
+  ],
+  "d33367105579a3c3b11ede4666148dbb97e91c27089c89d9aad65c0a1b2600c7": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-24-25",
+      "source": "docs/illustration-prompts.json#entries/120"
+    }
+  ],
+  "d3b447b2bc09504e9676f0bb3decb8a8c36a2188598457e2216d54c56658d655": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-02",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-02/121.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

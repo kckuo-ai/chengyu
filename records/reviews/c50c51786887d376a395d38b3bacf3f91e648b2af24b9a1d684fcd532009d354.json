@@ -1,0 +1,68 @@
+{
+  "no": 151,
+  "kind": "regenerate",
+  "word": "水到渠成",
+  "path": "/workspace/idiom-review/batch-24-group-2-redraw-31/batch-24/151.png",
+  "original_sha256": "40de9f7eaeb903ed028d14eafc3a7d70ba0689812c18a23a00c7b27160a5cd1e",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-24-group-2-redraw-31",
+  "alt": "男孩把種子放進土裡，準備好盆土、水分與陽光，耐心照顧；另一幕他安靜坐在旁邊，望著同一盆自然長出整齊翠綠的幼苗。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "種土水陽光條件備好，之後不硬拉強求而自然出苗，採條件完備自然成功義，非只疏水字面。 已實際看過六張比較表共131張候選及139/430、153/220全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "同盆種下到自然成長雙景、工具退到旁邊，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "握壺與按土指、後雙搭膝掌五指或物遮自然，臂肩連續、四鞋有地支撐。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "水自壺嘴落土、苗根在盆土、盆盤鏟落桌、椅腿接地，物理正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "種子天然臍孔非數字，器具衣鞋背景無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小種植活動、制服男孩身形年齡自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "a77d802291e015ae1308aa0e1f361e2fff68084fc2812f655b1bca0d34c4d5d8",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/83b51a7932cb3817cbb66071020155d801690ca84b3fe0054fdc3b57a1397fd4.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 131,
+    "comparison_method": "Six sheets with131 current catalog candidates actually viewed; additional full139/430 and153/220 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻事情自然發展，結果自成。＆比喻事情條件完備則自然成功，不須強求。",
+    "syn": "瓜熟蒂落、迎刃而解",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/151-40de9f7eaeb9.webp",
+  "webp_sha256": "ce55ecc70ef2d280712507e1890ad4ecef80d0e8b805f79a6038eb1224e7534b"
+}

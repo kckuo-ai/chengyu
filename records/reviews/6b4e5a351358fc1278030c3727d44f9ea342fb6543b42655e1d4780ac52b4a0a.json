@@ -1,0 +1,87 @@
+{
+  "no": 165,
+  "kind": "existing",
+  "word": "居安思危",
+  "path": "/workspace/chengyu-preservation/originals/6eb782f918d1bc10b9e4ab38c8506c61ecf7312894d14305f79fa76ecef957a2.png",
+  "original_sha256": "6eb782f918d1bc10b9e4ab38c8506c61ecf7312894d14305f79fa76ecef957a2",
+  "original_available": true,
+  "review_source_sha256": "6eb782f918d1bc10b9e4ab38c8506c61ecf7312894d14305f79fa76ecef957a2",
+  "webp_src": "img/idioms/165.webp",
+  "webp_sha256": "59788814f955ecc9851e2b588ccf377e12501460408d1366198002ed727bd458",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-02",
+  "alt": "晴天客廳裡，全家討論停電和暴雨可能帶來的危險，桌上備好飲水、燈具與毯子；父親拿圖說明，孩子專心看著逃生路線。",
+  "issues": [
+    "text_brand_watermark: 左後書架有縱排仿字書脊，原尺寸可見，不能滿足無類文字。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "現實晴朗安穩但主動想到停電風雨、討論逃生備品，安時想到危險的時點清楚，不是已遭災才補救。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "明亮住家對比兩個危機想像泡泡，手機可辨預想風險。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "父親持圖和食指、母親托頰、孩子托腮交手均五指或正常遮擋，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "備品落桌、圖由手握、逃生紙平放，想像中的風雨停電非現場物理異常。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "左後書架有縱排仿字書脊，原尺寸可見，不能滿足無類文字。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代防災家庭、便服父母與國小兒童比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有人衣領無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 201,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        1151,
+        430,
+        989
+      ],
+      "method": "All nine candidate sheets actually viewed: three nearest installed artworks per target plus available MOE synonyms and antonyms. Full 1151, 430 and 989 additionally viewed to resolve near-composition matches. Candidates are not counted as audited artworks. Group targets 125 and 139 were also compared at full and native detail sizes.",
+      "near_duplicates": {
+        "125": "與139及另看全圖430「忘恩負義」同為左上受助、右側或前景開店成功後抬掌拒恩人於門外，主要事件與構圖近乎可互換。",
+        "139": "與125及430同樣受助後店成、在門口抬掌拒恩人；工作類別改變仍未區分主構圖。",
+        "127": "另看1151「絡繹不絕」全圖，同樣店員在左側開門迎接、訪客曲線長隊延伸到右後方，手持盆栽改書本仍是近乎相同的上門排隊構圖。",
+        "172": "另看989「分崩離析」全圖，同樣大型桌面破散模型置前景、同伴抱私人物品離散、空椅和失落表情置後方；人物年齡與模型形狀不同，主構圖與團隊潰散故事仍高度重複。"
+      },
+      "distinguished_comparisons": "150的師生作品水準差距、168的朽毀橋無從修復，雖也用木橋，與114/598的反覆試作堅持有不同人物關係與動作；未僅因共享木橋道具直接判構圖相同。126的簡陋提案引來增補與138多人商議並分工實作也有不同因果，不把同是園藝桌視為自動重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "處於安樂的時候，要想到危險可能隨時出現。",
+    "syn": "安不忘危",
+    "ant": "居安忘危、燕雀處堂"
+  }
+}

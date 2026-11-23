@@ -1,0 +1,68 @@
+{
+  "no": 84,
+  "kind": "regenerate",
+  "word": "蕭規曹隨",
+  "path": "/workspace/idiom-review/batch-25-redraw-8/batch-25/84.png",
+  "original_sha256": "6750eaf472f1e2767b8bfe20a74d703c90bc7ecbf287484f6452c62745d0aba5",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-25-redraw-8",
+  "alt": "男孩先示範把不同顏色的紙球放進對應盆裡，再把白杯交給女孩接班；女孩接手後，依照桌上樣本與原來分法，繼續把藍球放進藍盆。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "前任示範三色樣本配同色盆、交杯接班後新任沿用分類，後人依循前人辦法可讀，非兩人只並肩分工。 已實際看過六張比較表共131張候選及139/430、153/220全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "三幕示範交接沿用同盆同樣本，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "握球扶盆、遞接杯雙方掌、叉腰及握球扶盆五指或物遮自然，肩臂連續。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "杯球由手托、盆受桌托，桌腳連接自然、分類前後一致。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "色球樣本無字母數字，器具衣服校舍無文字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小活動桌、制服學童比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "82e2c3ab955eda895c461ca82db1f511892274d23e7860d60fa7963f384770f9",
+  "previous_rejected_candidate_review_archive_path": "records/reviews/728fd37e4ae6abc71cb25a3ff0656f9e9a4d0d8d0cb545205ff91ea78ca17d68.json",
+  "previous_review_archive_path": "records/reviews/00f14dc33d7f13e64b1b41e7165297a1a801e2db70879d7b9070434cefdbfd8e.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 131,
+    "comparison_method": "Six sheets with131 current catalog candidates actually viewed; additional full139/430 and153/220 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻後人依循前人所訂的規章辦事。",
+    "syn": "因循守舊、率由舊章、陳陳相因",
+    "ant": "不主故常、改弦更張、改弦易轍、鼎新革故、棄舊圖新"
+  },
+  "webp_src": "img/idioms/84-6750eaf472f1.webp",
+  "webp_sha256": "1b4298a8f458d1f004c526d53e6ef3b1f31b825a2b90ba3dc1e5b9bfa9911814"
+}

@@ -1,0 +1,68 @@
+{
+  "no": 125,
+  "kind": "regenerate",
+  "word": "兔死狗烹",
+  "path": "/workspace/idiom-review/batch-24-group-2-redraw-31/batch-24/125.png",
+  "original_sha256": "020a7b007b972cab3d871630b77f2c65884b97d61e2d9be90cee658c596f4b26",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-24-group-2-redraw-31",
+  "alt": "男孩幫同伴完成舞臺布景，大家一度開心慶祝；演出成功後，另兩人只顧合照，還伸手擋住這位幫手，他抱著道具失落站到一旁。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "先靠藍衣幫手完成布景、成功後綠衣者拒他入照，功成便棄有功者因果可見，非兔狗字面。 已實際看過六張比較表共131張候選及139/430、153/220全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "製作、成功、排斥三幕同人同衣，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "扶景、介紹開掌、歡呼雙臂、拒掌與手機握指、比手勢五指或遮擋自然，肩肘連續、站鞋受臺托。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "布景板有地支撐，手機被手握、道具受臂托，無共用掌或浮物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "手機僅鏡頭幾何外形無字品牌，布景衣鞋無文字字母數字類字水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小舞臺活動、學童便服身形自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "f9411cbcdbfd0e51294731a269fa258da6027610510f0479ac0c09730f6edfbe",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/b0888f29f9a610f9c8bf60b5b4a37dced9c81daed69da4304a1742c8ec737d40.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 131,
+    "comparison_method": "Six sheets with131 current catalog candidates actually viewed; additional full139/430 and153/220 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻事成之後，有功之人即遭到殺戮或見棄的命運。",
+    "syn": "忘恩負義、卸磨殺驢、鳥盡弓藏、過河拆橋",
+    "ant": "論功行賞"
+  },
+  "webp_src": "img/idioms/125-020a7b007b97.webp",
+  "webp_sha256": "3c0729dca69c2c47d4f3b54be3a9158ec8b79377f2cf482dc7669200256b8608"
+}

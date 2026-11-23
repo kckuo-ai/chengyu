@@ -11976,5 +11976,21 @@
       "batch": "batch-23-group-1-redraw-35",
       "source": "docs/illustration-prompts.json#entries/96"
     }
+  ],
+  "209134a2f87132c0edea76489146872fa996ba2448c62a15a38e4e00fb39947b": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-02",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-02/122.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
+  ],
+  "20f57c7dc1bbaf93038ce013e4236ca4dea306750b46acddd7b542cb2db6f219": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-24-group-2-redraw-31",
+      "source_file": "160.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

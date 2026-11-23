@@ -8495,5 +8495,19 @@
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470",
       "path": "backup/batches/2026-11-08-849-850/SHA256SUMS"
     }
+  ],
+  "ac14790ec858f9789d6560468b437f5dcaa4b20d7442571a6fc09436530bbf5d": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-24-25",
+      "source": "docs/illustration-prompts.json#entries/131"
+    }
+  ],
+  "ac152c33f02bbdc6da577546390826d71b18bde46366500afa26de87c491818c": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-24-25",
+      "source": "docs/illustration-prompts.json#entries/151"
+    }
   ]
 }

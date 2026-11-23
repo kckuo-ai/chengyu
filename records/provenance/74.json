@@ -24272,5 +24272,27 @@
       "path": "backup/manifest.json",
       "commit": "66c4e91ff35aa1dc41b79e4560a6ac5f661a4c94"
     }
+  ],
+  "747a4ec8a6d21d6412da4d71535e3410885a766d1aa7232de2952c5bf3b6f04d": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-24-25",
+      "source": "docs/illustration-prompts.json#entries/134"
+    }
+  ],
+  "74c00d7516db0a1072d2b53cd4069676f4a3c1027bdcd3c0bb52453848f47d49": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-24-group-2-redraw-31",
+      "source_file": "146.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
+  ],
+  "745130b9a6ca0e8e527b4f3321b127d80be374efeaad013487daea7c7a188805": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-24-25",
+      "source": "docs/illustration-prompts.json#entries/93"
+    }
   ]
 }

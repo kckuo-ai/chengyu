@@ -1,0 +1,68 @@
+{
+  "no": 112,
+  "kind": "regenerate",
+  "word": "偃旗息鼓",
+  "path": "/workspace/idiom-review/batch-25-redraw-8/batch-25/112.png",
+  "original_sha256": "f9ea326201c2e29e8c97e1a6097d0ab8d2574250a6e2dc2c48f88362f5113d03",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-25-redraw-8",
+  "alt": "兩人在花圃旁打鼓舉旗，準備展開活動；忽然下起大雨，他們垂頭收起鼓與旗，尚未種完的幼苗仍擺在花圃邊，活動因此停下。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "晴天熱鬧宣傳活動、雨來收鼓捲旗且苗未種完留旁，採事情中斷聲勢減弱義，有活動停止因果而非古軍裝典故。 已實際看過六張比較表共131張候選及139/430、153/220全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "晴雨雙幕同人同花圃、由熱鬧到收場清楚，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "握鼓棒旗桿、抱鼓與捲旗四手五指或物遮自然，臂肩連續，站蹲鞋受地托。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "鼓有肩帶、後入有底箱、旗布繞桿受地托，盆苗落地、雨下方向自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "旗全素色、鼓箱衣鞋無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區花圃、便服成年活動者自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "78c26af3aebc1aeaa30a11c951b8571a17d0cc9fbbb4f124d62ab1f7eeac093a",
+  "previous_rejected_candidate_review_archive_path": "records/reviews/ee4e47bb39195f2d30bad1351878c36c5857ec8e342e26e604a30f1305a2e055.json",
+  "previous_review_archive_path": "records/reviews/e582f031e10d69cc3b7187db33e9bfa5cb5000fbc49727658514e734ec0061e8.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 131,
+    "comparison_method": "Six sheets with131 current catalog candidates actually viewed; additional full139/430 and153/220 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "軍隊放倒旌旗，停止戰鼓。形容不露行蹤。＆比喻事情中斷或聲勢減弱。",
+    "syn": "偃兵息甲、鳴金收兵、銷聲匿跡、銷聲匿跡",
+    "ant": "大張旗鼓、重整旗鼓"
+  },
+  "webp_src": "img/idioms/112-f9ea326201c2.webp",
+  "webp_sha256": "9e13a25595aa93c093decf7486453d05cf099bc4cac04c6948cd9a71f65e77fd"
+}

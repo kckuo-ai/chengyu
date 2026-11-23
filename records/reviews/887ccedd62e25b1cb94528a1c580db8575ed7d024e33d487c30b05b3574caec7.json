@@ -1,0 +1,68 @@
+{
+  "no": 120,
+  "kind": "regenerate",
+  "word": "車載斗量",
+  "path": "/workspace/idiom-review/batch-24-group-2-redraw-31/batch-24/120.png",
+  "original_sha256": "9e6b714e01e458a66e74a3315b6246cc394e2ae9d07b47c8832415c510e39fe1",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-24-group-2-redraw-31",
+  "alt": "倉庫裡一排排木箱裝滿小木塊，貨架一路延伸到遠處，地面也堆著整箱貨物；男子推著滿載的小車，女子張手指向更多存貨。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "滿車滿架與長列箱貨延伸至遠處，數量極多可讀，不只一車幾箱。 已實際看過六張比較表共131張候選及139/430、153/220全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "近車遠貨架形成量感，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "雙握車柄、女子指示與垂掌五指或合理收指遮擋，臂肩連續、四鞋踏地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "箱受車板架板托，車輪接軸落地、木塊在箱內，透視支撐自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "木箱素面無編碼，衣鞋架燈無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代倉庫與便服工作者比例自然；頸上是白毛巾而非紅巾。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "067ef505f63cdd356ef0ab9c8fe886b919312cd266a98ae79adcf2cdae909d30",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/866fea2bc5509f74059fdd6982f602ec873e70f43c3567bebe5af32bbcda6e35.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 131,
+    "comparison_method": "Six sheets with131 current catalog candidates actually viewed; additional full139/430 and153/220 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容數量很多，不可勝數。",
+    "syn": "比比皆是、不計其數、汗牛充棟、多如牛毛、恆河沙數",
+    "ant": "屈指可數、碩果僅存、寥寥無幾、鳳毛麟角"
+  },
+  "webp_src": "img/idioms/120-9e6b714e01e4.webp",
+  "webp_sha256": "96fafaaa17651fdc56462a59977358e66b2664c7a34b0aeead1575ca475e9599"
+}

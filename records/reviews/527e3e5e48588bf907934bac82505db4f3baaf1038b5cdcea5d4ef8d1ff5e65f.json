@@ -1,0 +1,68 @@
+{
+  "no": 137,
+  "kind": "regenerate",
+  "word": "無地自容",
+  "path": "/workspace/idiom-review/batch-24-group-2-redraw-31/batch-24/137.png",
+  "original_sha256": "f0b43703cf5523c8af0364f693427d471f62bb3de0d61ee1a02d25003a63eca6",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-24-group-2-redraw-31",
+  "alt": "男孩趁同學洗筆時，把她的花朵作品藏進自己袋裡；被發現後，女孩指著袋中花朵質問，他雙手掩面、臉頰發紅，羞愧得不敢抬頭。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "偷拿被當面揭穿、臉紅掩面縮身，羞愧至極而非一般做錯失望清楚。 已實際看過六張比較表共131張候選及139/430、153/220全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右偷拿與揭穿同花同袋對應，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "握袋放花、女孩洗筆指物搭桌、男孩掩面各五指或遮擋自然，肩肘連續，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "作品受掌袋承托、筆入水杯、袋底落桌，接觸支撐自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "作品花形非文字，陶罐衣物書包全無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小陶藝美術教室、學童制服比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "2b0ef71a287c126d9077c2500baceb33b4565e33467ae85c6644179b1093a877",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/91f76b1c1b72bb8dd8d91a80a7dd61b45cf141e0ec5f1470f3b2e60a221f19de.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 131,
+    "comparison_method": "Six sheets with131 current catalog candidates actually viewed; additional full139/430 and153/220 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容羞愧至極。",
+    "syn": "",
+    "ant": "問心無愧、理直氣壯"
+  },
+  "webp_src": "img/idioms/137-f0b43703cf55.webp",
+  "webp_sha256": "ca4897f662190262f92aad0c40122555fcc2b8cf8a282dc471a5ea8d48d59ed5"
+}

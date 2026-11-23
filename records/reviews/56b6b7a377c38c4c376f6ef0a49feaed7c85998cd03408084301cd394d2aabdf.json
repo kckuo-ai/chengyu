@@ -1,0 +1,87 @@
+{
+  "no": 157,
+  "kind": "existing",
+  "word": "芒刺在背",
+  "path": "/workspace/chengyu-preservation/originals/4ba74bf83f5e6aaf48052149b260a50800624830ca54313d7d10e9184fa72d3c.png",
+  "original_sha256": "4ba74bf83f5e6aaf48052149b260a50800624830ca54313d7d10e9184fa72d3c",
+  "original_available": true,
+  "review_source_sha256": "4ba74bf83f5e6aaf48052149b260a50800624830ca54313d7d10e9184fa72d3c",
+  "webp_src": "img/idioms/157.webp",
+  "webp_sha256": "aca2f084efc0a9fb1423ad814f4b840152e419058d6c72af545df16006741cc8",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-02",
+  "alt": "男子坐在模型桌前，發現主管抱臂站在身後，緊張回頭、額頭冒汗，手中的零件也停住；桌邊擺著工具與盆栽。",
+  "issues": [
+    "text_brand_watermark: 主角肩後的獨立折線有明顯N形結構，並非物件構造，依無類字母符號要求不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "背後主管冷臉注視，主角縮肩回望冒汗停工，因畏忌而不安的原因和反應清楚，不靠真刺入背。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主角回望主管形成近距離壓力，手機可見表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "捏零件雙手五指可循且遮擋正常、主管交臂手指接掌，無額外手臂。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "零件被指夾持、模型工具與花盆落桌、主管站姿連續，無穿透。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "主角肩後的獨立折線有明顯N形結構，並非物件構造，依無類字母符號要求不通過。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代模型設計辦公室、便服男子與西裝外套主管自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩人領口均無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 201,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        1151,
+        430,
+        989
+      ],
+      "method": "All nine candidate sheets actually viewed: three nearest installed artworks per target plus available MOE synonyms and antonyms. Full 1151, 430 and 989 additionally viewed to resolve near-composition matches. Candidates are not counted as audited artworks. Group targets 125 and 139 were also compared at full and native detail sizes.",
+      "near_duplicates": {
+        "125": "與139及另看全圖430「忘恩負義」同為左上受助、右側或前景開店成功後抬掌拒恩人於門外，主要事件與構圖近乎可互換。",
+        "139": "與125及430同樣受助後店成、在門口抬掌拒恩人；工作類別改變仍未區分主構圖。",
+        "127": "另看1151「絡繹不絕」全圖，同樣店員在左側開門迎接、訪客曲線長隊延伸到右後方，手持盆栽改書本仍是近乎相同的上門排隊構圖。",
+        "172": "另看989「分崩離析」全圖，同樣大型桌面破散模型置前景、同伴抱私人物品離散、空椅和失落表情置後方；人物年齡與模型形狀不同，主構圖與團隊潰散故事仍高度重複。"
+      },
+      "distinguished_comparisons": "150的師生作品水準差距、168的朽毀橋無從修復，雖也用木橋，與114/598的反覆試作堅持有不同人物關係與動作；未僅因共享木橋道具直接判構圖相同。126的簡陋提案引來增補與138多人商議並分工實作也有不同因果，不把同是園藝桌視為自動重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻因畏忌而極度不安。",
+    "syn": "如坐針氈、坐立不安",
+    "ant": "心安神泰、行若無事、若無其事、氣定神閒、泰然自若"
+  }
+}

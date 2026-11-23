@@ -1,0 +1,68 @@
+{
+  "no": 153,
+  "kind": "regenerate",
+  "word": "一籌莫展",
+  "path": "/workspace/idiom-review/batch-24-group-2-redraw-31/batch-24/153.png",
+  "original_sha256": "18b8b5a470fe0718c58b92cc9a101a2eea7bddf74c66e2d4ed3437fcfee2b7ed",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-24-group-2-redraw-31",
+  "alt": "四位老師圍著桌上的教室配置圖，試過不同桌椅安排仍沒有辦法；有人抓頭，有人托腮，女子攤手發愁，周圍堆著揉掉的紙團。",
+  "issues": [
+    "meaning: 與現行 220 山窮水盡同為四人圍桌、多份失敗圖稿、後方男子抓頭、前景女子托腮的構圖；僅換桌面道具，易與近義詞互認，未獨立呈現毫無辦法。 已實際看過六張比較表共131張候選及139/430、153/220全圖對照，亦比對本批其他圖；重複構圖已列為本項不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "與現行 220 山窮水盡同為四人圍桌、多份失敗圖稿、後方男子抓頭、前景女子托腮的構圖；僅換桌面道具，易與近義詞互認，未獨立呈現毫無辦法。 已實際看過六張比較表共131張候選及139/430、153/220全圖對照，亦比對本批其他圖；重複構圖已列為本項不通過。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "人物困惑與多張圖集中，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "抓頭托腮、搭桌兩掌、指圖攤掌各五指或收指遮擋自然，肩肘連續，下身桌遮合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "圖紙平放桌、紙團受桌托、椅背連座，平面門扇弧線屬圖示非字母。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "配置圖只桌椅平面形狀，衣物識別帶無字、無字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小辦公室、成年教師便服自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "719f549b518f2a20af8d7fd17e139b05022b2a67d826b7873e89ee628c27ea80",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/a4f7e52ec09979d2f970a93d4330c52442405ce048ff66810a894b1875972cd3.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 131,
+    "comparison_method": "Six sheets with131 current catalog candidates actually viewed; additional full139/430 and153/220 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻毫無辦法。",
+    "syn": "束手無策、無計可施",
+    "ant": "胸有成竹"
+  }
+}

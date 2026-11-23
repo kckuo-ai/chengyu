@@ -1,0 +1,68 @@
+{
+  "no": 172,
+  "kind": "regenerate",
+  "word": "土崩瓦解",
+  "path": "/workspace/idiom-review/batch-24-group-2-redraw-31/batch-24/172.png",
+  "original_sha256": "1d136779835be48c4587702bbc45cb10eca7795879568fd2a23f4f5ce0a955cb",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-24-group-2-redraw-31",
+  "alt": "活動場地的帳棚全部倒塌，椅子和空箱散落草地，三位夥伴低著頭各自背包離開；負責男子垂手留在中央，神情沮喪而無助。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "不只一棚故障，整場棚架倒、物散人各自離去，團隊徹底潰敗不可收拾可讀。 已實際看過六張比較表共131張候選及139/430、153/220全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "倒棚與分散離去者包圍中央沮喪者，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "三人握包帶五指或收指自然、中央垂掌五指，肩臂連續，八鞋受草地支撐步向自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "倒棚桿管與帆布自然攤地、翻椅露架、箱包有地或肩托，無浮物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "帆布紙張箱衣服全無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區活動草地及公寓背景、便服成年人自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "a6a319570a9333452779e684941620408400af85121f6d5be0212202daede713",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/0b931b3a0fe1a747a26758824705dfbb31bd0148e5c5573f7a636e951a4da8d8.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 131,
+    "comparison_method": "Six sheets with131 current catalog candidates actually viewed; additional full139/430 and153/220 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容土石崩塌、磚瓦破碎的情景。＆比喻澈底潰敗，不可收拾。",
+    "syn": "支離破碎、分崩離析、四分五裂",
+    "ant": "牢不可破、固若金湯、堅不可摧、堅如磐石"
+  },
+  "webp_src": "img/idioms/172-1d136779835b.webp",
+  "webp_sha256": "cc6ba536823c07c5d415c60504b05a1ff5df207f2df18ca4110de7e8921a0a0e"
+}

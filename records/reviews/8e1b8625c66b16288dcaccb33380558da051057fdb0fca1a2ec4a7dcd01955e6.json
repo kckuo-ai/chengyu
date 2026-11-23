@@ -1,0 +1,87 @@
+{
+  "no": 129,
+  "kind": "existing",
+  "word": "虎頭蛇尾",
+  "path": "/workspace/chengyu-preservation/originals/54d2c99ca37d2a2a151a5dec53a38eed06e0af4448edfb42e1f61fdcbb47e72b.png",
+  "original_sha256": "54d2c99ca37d2a2a151a5dec53a38eed06e0af4448edfb42e1f61fdcbb47e72b",
+  "original_available": true,
+  "review_source_sha256": "54d2c99ca37d2a2a151a5dec53a38eed06e0af4448edfb42e1f61fdcbb47e72b",
+  "webp_src": "img/idioms/129.webp",
+  "webp_sha256": "a2408fca559ff54ef17ed01660adac2340e512e1c894945f44fd6bf75b2dee8e",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-02",
+  "alt": "庭園一端花朵茂盛，另一端留下未種完的泥土、空盆和工具；男子拿著手套沿小路離去，身後的花圃仍有大片空缺。",
+  "issues": [
+    "meaning: 花圃由精緻到未完工雖有落差，但男子微笑離開可能只是當日收工；缺少起初積極後來敷衍放棄的因果，不能確定有始無終。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "花圃由精緻到未完工雖有落差，但男子微笑離開可能只是當日收工；缺少起初積極後來敷衍放棄的因果，不能確定有始無終。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "完整到凌亂的花床斜線與離去人物清楚，手機可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "握手套五指彎曲有遮擋，另一手自然垂下、雙肩袖腕連續，走路一腳抬起正常。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "花盆各有厚度口沿、土袋木箱置地、鏟子橫放泥面，無穿透。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "工具盆面及衣物皆無標籤，未見文字字母數字水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代都市社區園圃、成人襯衫長褲與休閒鞋合理。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "男子藍衫領口沒有紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 201,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        1151,
+        430,
+        989
+      ],
+      "method": "All nine candidate sheets actually viewed: three nearest installed artworks per target plus available MOE synonyms and antonyms. Full 1151, 430 and 989 additionally viewed to resolve near-composition matches. Candidates are not counted as audited artworks. Group targets 125 and 139 were also compared at full and native detail sizes.",
+      "near_duplicates": {
+        "125": "與139及另看全圖430「忘恩負義」同為左上受助、右側或前景開店成功後抬掌拒恩人於門外，主要事件與構圖近乎可互換。",
+        "139": "與125及430同樣受助後店成、在門口抬掌拒恩人；工作類別改變仍未區分主構圖。",
+        "127": "另看1151「絡繹不絕」全圖，同樣店員在左側開門迎接、訪客曲線長隊延伸到右後方，手持盆栽改書本仍是近乎相同的上門排隊構圖。",
+        "172": "另看989「分崩離析」全圖，同樣大型桌面破散模型置前景、同伴抱私人物品離散、空椅和失落表情置後方；人物年齡與模型形狀不同，主構圖與團隊潰散故事仍高度重複。"
+      },
+      "distinguished_comparisons": "150的師生作品水準差距、168的朽毀橋無從修復，雖也用木橋，與114/598的反覆試作堅持有不同人物關係與動作；未僅因共享木橋道具直接判構圖相同。126的簡陋提案引來增補與138多人商議並分工實作也有不同因果，不把同是園藝桌視為自動重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻做事有始無終。貶義。",
+    "syn": "有始無終、有頭無尾",
+    "ant": "全始全終、有始有終、有頭有尾、首尾一貫、貫徹始終"
+  }
+}

@@ -20758,5 +20758,13 @@
       "path": "backup/batches/2026-11-07-808-828/metadata/857.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "c7a849829cd5f200a1d4b0503ce53559dba07cd94cce27f23f58193ed58cf03f": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-25-redraw-8",
+      "source_file": "102.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

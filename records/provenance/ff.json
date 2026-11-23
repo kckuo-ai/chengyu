@@ -18121,5 +18121,29 @@
       "batch": "batch-19-redraw-13",
       "source": "docs/illustration-prompts.json#entries/35"
     }
+  ],
+  "ff3963cbc171a361ad84e501ee0d784a705654b0818c5ad8fe7c384e4c8374a0": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-24-group-2-redraw-31",
+      "source_file": "136.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
+  ],
+  "fff37d0a9f36be590a8c0794a4f5daff84f4e51ec93fade9c56b77be031f73cc": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-02",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-02/143.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
+  ],
+  "ffea288dafd15b96aee7abb274563ed6c730d7bf61ce9901dd1610427e7c7b29": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-25-redraw-8",
+      "source_file": "93.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

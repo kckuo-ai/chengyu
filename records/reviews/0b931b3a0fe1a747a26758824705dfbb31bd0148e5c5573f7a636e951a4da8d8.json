@@ -1,0 +1,89 @@
+{
+  "no": 172,
+  "kind": "existing",
+  "word": "土崩瓦解",
+  "path": "/workspace/chengyu-preservation/originals/a6a319570a9333452779e684941620408400af85121f6d5be0212202daede713.png",
+  "original_sha256": "a6a319570a9333452779e684941620408400af85121f6d5be0212202daede713",
+  "original_available": true,
+  "review_source_sha256": "a6a319570a9333452779e684941620408400af85121f6d5be0212202daede713",
+  "webp_src": "img/idioms/172.webp",
+  "webp_sha256": "b7d814326779bd74d3f19ccfcaee970d860cf642f19da23fbdf44463f702381e",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-02",
+  "alt": "模型散成碎塊留在桌上，女子獨自托腮坐著；同事們抱起私人物品、背包或拉行李陸續離開，空椅子留在凌亂的工作室裡。",
+  "issues": [
+    "hands_feet_pose: 前景托頰、近處抱箱手合理，但後方長髮女子垂手太小不能確認五指，全人物門檻不過。",
+    "text_brand_watermark: 牆上規劃板多張紙有整段仿字小筆畫與表格題記，違反無類文字。",
+    "meaning: 整個模型毀散、多人各自收私人物離開、唯一留者低落，團隊整體潰散而非單一局部損壞，採徹底潰敗義。 另看989「分崩離析」全圖，同樣大型桌面破散模型置前景、同伴抱私人物品離散、空椅和失落表情置後方；人物年齡與模型形狀不同，主構圖與團隊潰散故事仍高度重複。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "整個模型毀散、多人各自收私人物離開、唯一留者低落，團隊整體潰散而非單一局部損壞，採徹底潰敗義。 另看989「分崩離析」全圖，同樣大型桌面破散模型置前景、同伴抱私人物品離散、空椅和失落表情置後方；人物年齡與模型形狀不同，主構圖與團隊潰散故事仍高度重複。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "碎模型大前景連空椅與離開人群，手機可辨整體散去。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "前景托頰、近處抱箱手合理，但後方長髮女子垂手太小不能確認五指，全人物門檻不過。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "碎片落桌、抱箱雙手承重、行李輪置地，模型斷裂有碎屑，無浮物。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "牆上規劃板多張紙有整段仿字小筆畫與表格題記，違反無類文字。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代設計工作室、便服成年人搬私人物，無古代戰場。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有人物頸口均無紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 201,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        1151,
+        430,
+        989
+      ],
+      "method": "All nine candidate sheets actually viewed: three nearest installed artworks per target plus available MOE synonyms and antonyms. Full 1151, 430 and 989 additionally viewed to resolve near-composition matches. Candidates are not counted as audited artworks. Group targets 125 and 139 were also compared at full and native detail sizes.",
+      "near_duplicates": {
+        "125": "與139及另看全圖430「忘恩負義」同為左上受助、右側或前景開店成功後抬掌拒恩人於門外，主要事件與構圖近乎可互換。",
+        "139": "與125及430同樣受助後店成、在門口抬掌拒恩人；工作類別改變仍未區分主構圖。",
+        "127": "另看1151「絡繹不絕」全圖，同樣店員在左側開門迎接、訪客曲線長隊延伸到右後方，手持盆栽改書本仍是近乎相同的上門排隊構圖。",
+        "172": "另看989「分崩離析」全圖，同樣大型桌面破散模型置前景、同伴抱私人物品離散、空椅和失落表情置後方；人物年齡與模型形狀不同，主構圖與團隊潰散故事仍高度重複。"
+      },
+      "distinguished_comparisons": "150的師生作品水準差距、168的朽毀橋無從修復，雖也用木橋，與114/598的反覆試作堅持有不同人物關係與動作；未僅因共享木橋道具直接判構圖相同。126的簡陋提案引來增補與138多人商議並分工實作也有不同因果，不把同是園藝桌視為自動重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容土石崩塌、磚瓦破碎的情景。＆比喻澈底潰敗，不可收拾。",
+    "syn": "支離破碎、分崩離析、四分五裂",
+    "ant": "牢不可破、固若金湯、堅不可摧、堅如磐石"
+  }
+}

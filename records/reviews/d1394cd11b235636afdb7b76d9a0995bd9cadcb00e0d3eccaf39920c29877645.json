@@ -1,0 +1,68 @@
+{
+  "no": 127,
+  "kind": "regenerate",
+  "word": "門庭若市",
+  "path": "/workspace/idiom-review/batch-24-group-2-redraw-31/batch-24/127.png",
+  "original_sha256": "27ffc2b19b7c081bb9e2b962aa906d686ad04a43f030b9babede6411c6c0ad24",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-24-group-2-redraw-31",
+  "alt": "修理師傅坐在屋前，許多訪客拿著壞椅、水壺、檯燈與布玩偶上門請教，圍在工作桌旁熱切交談；師傅微笑招呼大家靠近。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "各種訪客持待修物上門圍師傅，採上門人多義，無重用長隊進店構圖。 已實際看過六張比較表共131張候選及139/430、153/220全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "五人環繞工作桌、來客物品清楚，手機可讀熱絡。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "握椅扶底、持壺抱玩偶托燈與師傅招呼掌五指或物遮自然、肩肘連續，各鞋落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "破椅斷口屬事件、椅受雙手托；燈架鉸接插頭線連續，桌架支撐合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "工具衣鞋器物無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區維修空間、國小孩童及便服成年人自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "34276695a1964bc24f3391e0da8d193da6a09b00610a4cce200d8ea2f19fd7f6",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/83f72f0b0f3714b937fb5795d62a110b17760a4d899ad4ecc1c798a48f5fa986.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 131,
+    "comparison_method": "Six sheets with131 current catalog candidates actually viewed; additional full139/430 and153/220 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻上門來的人很多。",
+    "syn": "戶限為穿、車馬盈門、絡繹不絕",
+    "ant": "門可羅雀、門庭冷落"
+  },
+  "webp_src": "img/idioms/127-27ffc2b19b7c.webp",
+  "webp_sha256": "9fa2f9c410bc193cf9a4b2cba255dd12389d332405f7231950e026f8726bff8f"
+}

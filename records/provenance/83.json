@@ -18746,5 +18746,21 @@
       "source_file": "comparison-candidates.json",
       "reviewer": "independent-visual-review-2026-11-22"
     }
+  ],
+  "83f72f0b0f3714b937fb5795d62a110b17760a4d899ad4ecc1c798a48f5fa986": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-02",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-02/127.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
+  ],
+  "83b51a7932cb3817cbb66071020155d801690ca84b3fe0054fdc3b57a1397fd4": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-02",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-02/151.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

@@ -1,0 +1,88 @@
+{
+  "no": 125,
+  "kind": "existing",
+  "word": "兔死狗烹",
+  "path": "/workspace/chengyu-preservation/originals/f9411cbcdbfd0e51294731a269fa258da6027610510f0479ac0c09730f6edfbe.png",
+  "original_sha256": "f9411cbcdbfd0e51294731a269fa258da6027610510f0479ac0c09730f6edfbe",
+  "original_available": true,
+  "review_source_sha256": "f9411cbcdbfd0e51294731a269fa258da6027610510f0479ac0c09730f6edfbe",
+  "webp_src": "img/idioms/125.webp",
+  "webp_sha256": "128a2f8e6eac86318505d64ab34c71567d58dddcf3528af68fbab7f880f936d0",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-02",
+  "alt": "綠衣男子先幫朋友搬箱子布置店面，開店熱鬧後卻被朋友抬掌拒在門外；他仍拿著工作布巾，神情失落地站著。",
+  "issues": [
+    "text_brand_watermark: 店內白色商品包裝上有小型仿字標籤，原尺寸不能排除類文字，違反無字要求。",
+    "meaning: 同一幫忙者先有功、店成後被拒棄，時序與角色一致，能採事成見棄義而非單純拒陌生人。另與139同為左幫忙、右成功後抬掌拒於門口的雙段構圖，近乎可互換，須重新區分。 與139及另看全圖430「忘恩負義」同為左上受助、右側或前景開店成功後抬掌拒恩人於門外，主要事件與構圖近乎可互換。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "同一幫忙者先有功、店成後被拒棄，時序與角色一致，能採事成見棄義而非單純拒陌生人。另與139同為左幫忙、右成功後抬掌拒於門口的雙段構圖，近乎可互換，須重新區分。 與139及另看全圖430「忘恩負義」同為左上受助、右側或前景開店成功後抬掌拒恩人於門外，主要事件與構圖近乎可互換。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左上幫忙與右邊拒門兩階段，手機可追蹤同款衣服與工作物。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "搬箱戴手套彎指、拒掌五指、握門框指節自然，持布手握物有遮擋，無第三臂。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "箱體由手托、店架接地，拒者手扶門框、其他掌示停止，無穿透門扇。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "店內白色商品包裝上有小型仿字標籤，原尺寸不能排除類文字，違反無字要求。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區店面與便服圍裙成人，古代獵殺情節已避免。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "各人衣領無紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 201,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        1151,
+        430,
+        989
+      ],
+      "method": "All nine candidate sheets actually viewed: three nearest installed artworks per target plus available MOE synonyms and antonyms. Full 1151, 430 and 989 additionally viewed to resolve near-composition matches. Candidates are not counted as audited artworks. Group targets 125 and 139 were also compared at full and native detail sizes.",
+      "near_duplicates": {
+        "125": "與139及另看全圖430「忘恩負義」同為左上受助、右側或前景開店成功後抬掌拒恩人於門外，主要事件與構圖近乎可互換。",
+        "139": "與125及430同樣受助後店成、在門口抬掌拒恩人；工作類別改變仍未區分主構圖。",
+        "127": "另看1151「絡繹不絕」全圖，同樣店員在左側開門迎接、訪客曲線長隊延伸到右後方，手持盆栽改書本仍是近乎相同的上門排隊構圖。",
+        "172": "另看989「分崩離析」全圖，同樣大型桌面破散模型置前景、同伴抱私人物品離散、空椅和失落表情置後方；人物年齡與模型形狀不同，主構圖與團隊潰散故事仍高度重複。"
+      },
+      "distinguished_comparisons": "150的師生作品水準差距、168的朽毀橋無從修復，雖也用木橋，與114/598的反覆試作堅持有不同人物關係與動作；未僅因共享木橋道具直接判構圖相同。126的簡陋提案引來增補與138多人商議並分工實作也有不同因果，不把同是園藝桌視為自動重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻事成之後，有功之人即遭到殺戮或見棄的命運。",
+    "syn": "忘恩負義、卸磨殺驢、鳥盡弓藏、過河拆橋",
+    "ant": "論功行賞"
+  }
+}
