@@ -12921,5 +12921,12 @@
       "path": "backup/batches/2026-11-08-855-873/prompts/915.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "350eee421799748a3150aba637b804322151307c741c7fe012a2394c4a175ebe": [
+    {
+      "kind": "current_main_record",
+      "batch": "batch-22-redraw-9",
+      "source": "docs/illustration-prompts.json#entries/47"
+    }
   ]
 }

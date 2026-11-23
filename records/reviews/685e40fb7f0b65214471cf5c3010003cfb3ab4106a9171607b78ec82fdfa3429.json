@@ -1,0 +1,68 @@
+{
+  "no": 57,
+  "kind": "regenerate",
+  "word": "功虧一簣",
+  "path": "/workspace/idiom-review/batch-22-redraw-9/batch-22/57.png",
+  "original_sha256": "0ff5db9858216e8be8ae26e11eeee1671c4af756a19d0a49ff6a2ab07d8fa0e4",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-22-redraw-9",
+  "alt": "男孩原先把帆架放入幾乎完成的小船，膠罐和刷子就在旁邊；後來他賭氣抱臂不肯繼續，未固定的船帆倒在桌上，同伴十分惋惜。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "船體船帆皆做好、只待膠固定到最後卻抱臂拒繼續，未固定帆倒而作品不能完成，具體區分一般做到一半的半途停止。 已對照152半途而廢山水拼圖、222倒橋及378多次拼圖，船帆最後固定未做是不同主道具及事件，無近重複。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右同船同人與未用膠刷清楚，手機可辨最後一步未成。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男孩扶帆兩握指、後抱臂兩掌、女孩兩幕搭桌五指自然，兩臂無分岔共掌，桌下身體遮擋合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "帆桿插合底座孔、未黏時可取倒、膠瓶刷置桌且無溢漏，船與帆受桌面承托，結構連續。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "船帆只有藍白條紋、膠瓶無標籤，衣物鞋窗牆無文字字母數字類字、品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小美術課、素面運動服男孩女孩年齡比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "5b01021e3c45e27fc01f295f54ac506fc4308d1716fdf7bd728690147d4e6a4a",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/5a287fb5164545edd98a59a20d07ee1d05f973b8d00b5bacce128ca61f700faf.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; additional crops for adult hands in 47,54,68",
+    "comparison_candidates": 40,
+    "comparison_method": "Two comparison sheets with 40 published candidates actually viewed, plus full 367; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻事情只差最後一步，卻因未能堅持到底而前功盡棄。",
+    "syn": "半途而廢、功敗垂成、前功盡棄",
+    "ant": "堅持不懈、善始善終"
+  },
+  "webp_src": "img/idioms/57-0ff5db985821.webp",
+  "webp_sha256": "0322e3692a7c8b2ae457224d846248ea660963b52808d33973c3878fe621fe7e"
+}

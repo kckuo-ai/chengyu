@@ -14026,5 +14026,13 @@
       "path": "backup/batches/2026-11-08-855-873/metadata/923.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "8b224437290989ab90f7ddcc6ac909945fd3efb66e0bf05716e83be235c289dc": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-22-redraw-9",
+      "source_file": "comparison-candidates.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

@@ -1,0 +1,68 @@
+{
+  "no": 49,
+  "kind": "regenerate",
+  "word": "杯弓蛇影",
+  "path": "/workspace/idiom-review/batch-22-redraw-9/batch-22/49.png",
+  "original_sha256": "7d87ddaf1d5802ccd2c17b715842d1a85759a8aa9c68a58f03cac53405cdb91c",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-22-redraw-9",
+  "alt": "男孩先被布簾上的巨大恐龍影嚇得縮身，母親拉開布簾後，才看見桌上玩具、枝葉與檯燈；他鬆開雙臂，開心笑了起來。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "先怕巨大恐龍形影、揭簾見小玩具與照射光源後放鬆，恐懼對象只是影子而非真怪物，與一般疑懼不同。 與462虛張聲勢的孩子主動製造嚇人影子相比，本圖是誤認影子後揭曉小玩具，兩幕因果不同；與20及94逃跑疑懼亦不同。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右相同母子、布簾與形影來源的對照，手機可見恐懼到釋然。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "左右孩子兩掌各五指、母親垂掌及拉布握指合理，另一臂受母子身體遮擋，兩人膝腳姿勢自然、鞋落地無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "右側燈在玩具右後方朝左照往布簾，玩具、葉枝和桌形對應左影；燈座、鵝頸、電線插座與桌腳有接合及支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "布簾素面、玩具燈具衣鞋無文字字母數字類字、品牌水印，驚訝放射線非字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代居家、素面國小運動服男孩及便服母親，年齡比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "730cb9536f120341e84bf520721eef93b5c7516e20eb880e0cfc7c434e886ee8",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/020e5749f79cc249435fb96ed57cc77e04f7edeeefba5b2707a25ca19b881318.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; additional crops for adult hands in 47,54,68",
+    "comparison_candidates": 40,
+    "comparison_method": "Two comparison sheets with 40 published candidates actually viewed, plus full 367; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻為不存在的事情枉自驚疑恐懼。",
+    "syn": "風聲鶴唳、草木皆兵、疑神疑鬼",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/49-7d87ddaf1d58.webp",
+  "webp_sha256": "6c9af6b163acb8e29133338ca0c0463c8bc1aafaa1766b65ba62147d62f0cca4"
+}

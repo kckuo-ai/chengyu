@@ -1,0 +1,68 @@
+{
+  "no": 68,
+  "kind": "regenerate",
+  "word": "吹毛求疵",
+  "path": "/workspace/idiom-review/batch-22-redraw-9/batch-22/68.png",
+  "original_sha256": "e0eb7c55e5e6ba24e4199516dc5ad93b9b5b35b348804d0be269dbb773c72a90",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-22-redraw-9",
+  "alt": "男孩扶著一盆花葉茂盛的盆栽，女孩卻皺眉指著陶盆側面極小泥點，另一手放腰；老師看著完整漂亮的花與小瑕點，無奈攤手。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "完好花盆僅一小泥點，女孩仍皺眉拒納、老師無奈對照，刻意挑瑣小缺點清楚，不是花盆有裂口必須檢查。 已對照350挑米、478手作指導、682驚喜木雕，主場景為茂盛花盆的小泥點被故意挑剔；不再重用12放大鏡檢查畫作構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "健康大花叢與極小泥點及挑剔姿態同場，手機可讀不成比例。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "扶盆雙掌一受盆葉遮、女孩指點掌與腰掌、老師攤掌及搭桌掌五指合理；額外放大攤掌一拇四指清楚，各肩肘連續、六鞋落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "盆底落桌、花莖接盆土，老師壓桌及孩子扶盆接觸正常；桌四腿橫檔穩固，無懸空承托。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "盆上只有不規則泥點不是字，棚布、衣鞋、桌面與背景無文字字母數字類字、品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小園遊會花盆展示、運動服學童與成年老師比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "f229adebc4d2e54d257cbb1d08b1ff268aa56a8f31ba43569964f8439168552e",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/3b015636ec754fe31835a5796574eb5bad16137ecdf4ac98c77ca5fad5a420d5.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; additional crops for adult hands in 47,54,68",
+    "comparison_candidates": 40,
+    "comparison_method": "Two comparison sheets with 40 published candidates actually viewed, plus full 367; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻刻意挑剔過失或缺點。貶義。",
+    "syn": "求全責備、洗垢求瘢",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/68-e0eb7c55e5e6.webp",
+  "webp_sha256": "6a9be0ec6a240d41c99758b7b5ae91465baca05a77e45e49e6c16c258eeee55f"
+}

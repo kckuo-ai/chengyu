@@ -10707,5 +10707,13 @@
       "batch": "batch-19-redraw-13",
       "source": "docs/illustration-reviews.json#entries/44"
     }
+  ],
+  "b14c92c3168a0bc44aa980bb7c2a3d138f5e216b58ae6b056901fbcc58a09ae4": [
+    {
+      "kind": "git_zip_member",
+      "commit": "03e0b95050ca8391e880c2e4bb2e0d764f22da77",
+      "zip_path": "batch-22-redraw-9.zip",
+      "member": "batch-22/manifest.json"
+    }
   ]
 }

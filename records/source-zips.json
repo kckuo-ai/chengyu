@@ -2168,5 +2168,65 @@
         "record_path": "records/source/974cf593ae6330963773fc2b18ef8b41505897195334b2a4278e25c2a580cd9c.json"
       }
     ]
+  },
+  {
+    "blob": "dd7c12c979bb5bf9cfbf9ff1572e93a321fdecbb",
+    "path": "batch-22-redraw-9.zip",
+    "commit": "03e0b95050ca8391e880c2e4bb2e0d764f22da77",
+    "bytes": 29474034,
+    "sha256": "c5a5cbf70436bf81d929714433a40018a3a062b0f89e338a3dc06928a5d51871",
+    "members": [
+      {
+        "member": "batch-22/47.png",
+        "sha256": "b09ffd51c9f021243c76c083cf7f641c7147abf24c8a79ab221bd517b499b025",
+        "kind": "original"
+      },
+      {
+        "member": "batch-22/49.png",
+        "sha256": "7d87ddaf1d5802ccd2c17b715842d1a85759a8aa9c68a58f03cac53405cdb91c",
+        "kind": "original"
+      },
+      {
+        "member": "batch-22/50.png",
+        "sha256": "b0724b83719afb9f96bd08557972464ddabf2605ea7d0f48fc27933b98c2829a",
+        "kind": "original"
+      },
+      {
+        "member": "batch-22/53.png",
+        "sha256": "8e4cf3a6784fd4e3bcde36c1fadc2c411c7bfd40b93f402f6aee621b22b36e69",
+        "kind": "original"
+      },
+      {
+        "member": "batch-22/54.png",
+        "sha256": "cc8646596874ea604ea361e0312da27d03d08c48c23aebb4d0054ea7dfe79961",
+        "kind": "original"
+      },
+      {
+        "member": "batch-22/56.png",
+        "sha256": "03521aa291064b82218f8da39815a777db5feeec9c195e761cd113dbb0f6605a",
+        "kind": "original"
+      },
+      {
+        "member": "batch-22/57.png",
+        "sha256": "0ff5db9858216e8be8ae26e11eeee1671c4af756a19d0a49ff6a2ab07d8fa0e4",
+        "kind": "original"
+      },
+      {
+        "member": "batch-22/60.png",
+        "sha256": "7652b0366092607ae52bb455ccea05f3482f9f6bd49693a1a971c824390727bc",
+        "kind": "original"
+      },
+      {
+        "member": "batch-22/68.png",
+        "sha256": "e0eb7c55e5e6ba24e4199516dc5ad93b9b5b35b348804d0be269dbb773c72a90",
+        "kind": "original"
+      },
+      {
+        "member": "batch-22/manifest.json",
+        "sha256": "b14c92c3168a0bc44aa980bb7c2a3d138f5e216b58ae6b056901fbcc58a09ae4",
+        "kind": "record",
+        "record_path": "records/source/b14c92c3168a0bc44aa980bb7c2a3d138f5e216b58ae6b056901fbcc58a09ae4.json"
+      }
+    ]
   }
 ]

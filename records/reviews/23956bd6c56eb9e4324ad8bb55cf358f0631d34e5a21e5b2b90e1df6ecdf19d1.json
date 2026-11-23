@@ -1,0 +1,68 @@
+{
+  "no": 50,
+  "kind": "regenerate",
+  "word": "紙上談兵",
+  "path": "/workspace/idiom-review/batch-22-redraw-9/batch-22/50.png",
+  "original_sha256": "b0724b83719afb9f96bd08557972464ddabf2605ea7d0f48fc27933b98c2829a",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-22-redraw-9",
+  "alt": "男孩閉眼自信介紹滿籃蔬菜的漂亮圖畫，同伴抱著根部積水、葉片垂倒的透明盆向他求助；腳邊另一盆幼苗也正黃萎。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "只談漂亮豐收圖卻不正視無孔積水盆的失敗與求助，空談不能處理實際栽種問題的因果清楚；不再重複橋梁承重模型。 與5賣畫自誇、1097種植計畫、1142群組企畫等不同，核心是只談豐收而無法處理積水，已避開50舊稿及753橋模型構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "健康圖與兩盆萎苗、說者得意和聽者困惑對比，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持紙四收指與拇指、指圖掌、同伴托盆與扶側掌五指或物件遮擋自然，臂肩連續、四鞋落地，沒有第三手。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "盆為完整透明容器，底部平整、根浸水且葉垂符合排水失敗；手托底及扶側、地盆落地、紙受手持，結構自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "蔬菜畫只有實物圖案，盆架衣鞋和背景無文字字母數字類字、品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代校園菜圃、國小男孩素面運動服與適齡比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "16f42cb80af76ac9396ae6432b0a334002defd4c76558d2826295af8250c6063",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/f6481d37d4b9de64581808116bf21162dc22a6aa4d90bf0326829421b14bed82.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; additional crops for adult hands in 47,54,68",
+    "comparison_candidates": 40,
+    "comparison_method": "Two comparison sheets with 40 published candidates actually viewed, plus full 367; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻不切實際的議論。貶義。",
+    "syn": "光說不練、空言無補",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/50-b0724b83719a.webp",
+  "webp_sha256": "e6cf0ea5f0f5121c2bd93eece4198653482f866909797dbb522d1bf1bd0a3093"
+}

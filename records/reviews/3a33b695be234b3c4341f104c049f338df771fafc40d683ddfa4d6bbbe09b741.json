@@ -1,0 +1,68 @@
+{
+  "no": 54,
+  "kind": "regenerate",
+  "word": "濫竽充數",
+  "path": "/workspace/idiom-review/batch-22-redraw-9/batch-22/54.png",
+  "original_sha256": "cc8646596874ea604ea361e0312da27d03d08c48c23aebb4d0054ea7dfe79961",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-22-redraw-9",
+  "alt": "四個孩子並排練唱，三人專注拿著相同方向的圖卡，中間男孩卻拿反、冒汗偷瞄別人，嘴形也跟不上；老師正轉身操作播放器。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "三名熟練一致對中央拿倒卡、口形不合、冒汗偷瞄，老師背身未察，呈不會卻混在隊伍模仿充數，不只是所有人都初學。 與1129舞臺音樂團表演及1038觀賞演出不同，本圖單排練唱混入不會者、卡片倒置和偷瞄構成核心。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "四童同排、中央異常口形和倒卡最突出，手機仍能分辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "八持卡手四指握邊、拇指在背面合理，老師上手握柄、下手扶器材；額外放大下掌可辨一拇四指自然貼扶，十臂連肩、十鞋落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "圖卡受雙掌握持、播放器落布桌且有把手喇叭結構、桌腳著地，沒有手穿器材。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "卡僅大小藍圓、播放器面板純色無字品牌，制服鞋牆面無文字字母數字類字或水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小教室，白藍運動服孩童與便服老師年齡身高自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "9b9e8af2ca4d8f72029eef47ae919d05dd45043587708a1c272759712c02d5a4",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/c113fbb863f92361c25a1333a3785ec0ca280fb115cf484762af0eb9cd0d590b.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; additional crops for adult hands in 47,54,68",
+    "comparison_candidates": 40,
+    "comparison_method": "Two comparison sheets with 40 published candidates actually viewed, plus full 367; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻沒有真才實學的人，混在行家中充數。貶義。＆比喻拿不好的東西充場面。貶義。＆作為自謙之詞，比喻自己才德不足。",
+    "syn": "備位充數、魚目混珠",
+    "ant": "名副其實、名副其實、貨真價實"
+  },
+  "webp_src": "img/idioms/54-cc8646596874.webp",
+  "webp_sha256": "a0b18ea27e39523712a1c18b1601602581c5160b2494bd03713f4b9594450366"
+}

@@ -1,0 +1,68 @@
+{
+  "no": 47,
+  "kind": "regenerate",
+  "word": "對牛彈琴",
+  "path": "/workspace/idiom-review/batch-22-redraw-9/batch-22/47.png",
+  "original_sha256": "b09ffd51c9f021243c76c083cf7f641c7147abf24c8a79ab221bd517b499b025",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-22-redraw-9",
+  "alt": "大男孩興奮指著複雜齒輪圖向小男孩解說，小男孩卻滿臉茫然；老師彎腰指向地上的簡單積木，提醒他換個適合聽者的方式。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "複雜齒輪對只玩基礎積木的低年級孩子，大男孩興奮講解而聽者茫然，成人指簡單積木提醒，講話不看對象的程度落差清楚。 已比複雜教學、實作指導及一般作品展示候選，未見同樣高低年級認知落差配積木的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "三人與齒輪圖、簡單積木形成單一焦點，手機可讀年齡與理解差距。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "逐看持紙、指圖、小孩兩搭膝掌及成人指積木與垂掌；伸掌五指，握紙和指示的收指有合理重疊；額外放大成人指示手確認無分岔，肩肘腕連續，坐蹲站姿鞋地接觸自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "紙被手夾持、積木紅拱受黃柱承托、男孩盤坐地與成人鞋落地，機械紙僅示意圖而非可動實物，無懸空承托。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "齒輪紙只有輪軸與支架輪廓，鞋服窗牆及所有角落無文字字母數字類字、品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代校園窗景、素面運動服，約高低年級男孩及成年老師身形差距自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "67ab3d83a007c89edf01ee434e1b94276849909291ab6efc34a745a8e73583ea",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/8a055280dcbc8a40d0383aa6963fe654b2de1af339c70bcb94c896337a595fb6.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; additional crops for adult hands in 47,54,68",
+    "comparison_candidates": 40,
+    "comparison_method": "Two comparison sheets with 40 published candidates actually viewed, plus full 367; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻講話、做事不看對象。＆比喻對不懂道理的人講道理。",
+    "syn": "語不擇人",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/47-b09ffd51c9f0.webp",
+  "webp_sha256": "770158cdbfde8f968af6b4cd740cf9783ce22336328ed9e5625aac1ec2190f89"
+}

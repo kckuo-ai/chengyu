@@ -1,0 +1,68 @@
+{
+  "no": 53,
+  "kind": "regenerate",
+  "word": "樂不思蜀",
+  "path": "/workspace/idiom-review/batch-22-redraw-9/batch-22/53.png",
+  "original_sha256": "8e4cf3a6784fd4e3bcde36c1fadc2c411c7bfd40b93f402f6aee621b22b36e69",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-22-redraw-9",
+  "alt": "夕陽下，父親拿起背包站在出口旁，行李已收好，張手催女孩離開；女孩仍蹲著堆貝殼沙堡，笑著擺手，捨不得結束遊玩。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "已收妥行李、父親在出口催走，女孩仍扶沙堡並回頭擺手拒走，採快樂留戀而忘返義，不只一般快樂出遊。 對照1032家庭郊遊與1381獨坐等待，新增父親行李出口催回及女孩擺手留玩，未見近乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前景玩沙女孩與後景行李出口父親方向相反，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女孩擺掌一拇四長指清楚、扶堡手五指自然，父親開掌與提袋握指合理；各兩臂，女孩蹲姿雙鞋與父親站姿雙鞋落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "沙堡置沙地、貝殼靠沙面、桶鏟籃有支撐，行李輪及袋底落地、背包受手提，無漂浮。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "民宿無牌字，衣鞋行李、窗簾沙具全無文字字母數字類字、品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代海岸民宿庭院、便服父親與國小女孩比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "5ac35c8e19e7c89804cefff9d14189ddecf99548bd8f40d297993dd30d3e2237",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/79d82480468972329feeed107a68673cc77f3878ab2ec8728c2f57b655b971c7.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; additional crops for adult hands in 47,54,68",
+    "comparison_candidates": 40,
+    "comparison_method": "Two comparison sheets with 40 published candidates actually viewed, plus full 367; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻人因留戀異地而不想返回故鄉。＆形容快樂得忘了歸去。",
+    "syn": "樂而忘返",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/53-8e4cf3a6784f.webp",
+  "webp_sha256": "5bae4b8867711b93838778aa7742b7edaec80ddd5969f419b864136aab4c00f8"
+}
