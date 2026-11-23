@@ -1,18 +1,11 @@
 {
   "no": 122,
   "word": "燃眉之急",
-  "webp": "img/idioms/122.webp",
-  "original_sha256": "34a434bc67342fe048f6f1792a45a630545583df6cc45843c9c8fd34f517d4b5",
-  "original": "originals/34a434bc67342fe048f6f1792a45a630545583df6cc45843c9c8fd34f517d4b5.png",
+  "webp": "img/idioms/122-1aee2741ba02.webp",
+  "original_sha256": "1aee2741ba029e2ece412fb4d5c68759685109a73123bbeee4aae39a9d5f10aa",
+  "original": "originals/1aee2741ba029e2ece412fb4d5c68759685109a73123bbeee4aae39a9d5f10aa.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/880885bb6c9647cb45eea7464bcea3762c1494766d54dec1300da264ce29437c.json",
-  "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": "records/prompts/f8e0b96d728813a6e911767c7c07006e609537e301aa0a85a4307408229544cd.json",
-  "latest_rejected_candidate": {
-    "batch": "batch-24-group-2-redraw-31",
-    "original_sha256": "8f5ea91651ecbf44eb6f398ee030937e7b370031b1878672b0e24bc91e5f6f10",
-    "original_archive_path": "originals/8f5ea91651ecbf44eb6f398ee030937e7b370031b1878672b0e24bc91e5f6f10.png",
-    "review_archive_path": "records/reviews/cbd9c83465ef33b2c61c012b42b83098bf1cedeaf3529b014d2991e3b042eb74.json",
-    "passed": false
-  }
+  "current_review_path": "records/reviews/f7e2b6cc1870c2aa1704755ff8ac0828abf1fffaa00b57b34b52bf881f1ea72d.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/19e3c3b632a78b4333a9a48f5891825b7fe9aca12c22317cc400887d7d92c4d2.json"
 }

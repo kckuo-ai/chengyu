@@ -1,18 +1,11 @@
 {
   "no": 139,
   "word": "過河拆橋",
-  "webp": "img/idioms/139.webp",
-  "original_sha256": "b4c587e026f602c34a6d4490bf036cf0c08f3610f0efabe5e0eea009336bec30",
-  "original": "originals/b4c587e026f602c34a6d4490bf036cf0c08f3610f0efabe5e0eea009336bec30.png",
+  "webp": "img/idioms/139-8c2c28159560.webp",
+  "original_sha256": "8c2c28159560e6f4df542b8a6eb10ada0334f9bd768419afd5fcb2b6b24a00b9",
+  "original": "originals/8c2c28159560e6f4df542b8a6eb10ada0334f9bd768419afd5fcb2b6b24a00b9.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/e530f18b61f5d621fb9839aacc002460c090dd40a856b00be8e4e1f000eb2ea3.json",
-  "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": "records/prompts/534414cd883d071c49242ed96035cf46f36ccd3c6f390f4f0b23ce7b95a14db2.json",
-  "latest_rejected_candidate": {
-    "batch": "batch-24-group-2-redraw-31",
-    "original_sha256": "86190c4cbc1aac181f580860faa473b08e34d33860c61d41a831b8340cc116fb",
-    "original_archive_path": "originals/86190c4cbc1aac181f580860faa473b08e34d33860c61d41a831b8340cc116fb.png",
-    "review_archive_path": "records/reviews/cff2211b5728e3e1e02cee81e210918532c57241889809d037e51f4eb4e0571f.json",
-    "passed": false
-  }
+  "current_review_path": "records/reviews/cef657766b9da7b7a2ec85028a7837a79423c0a5e0560c906c619e7248535f14.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/16e92332486aaefb158ee8a27700b690031e381def90f04cbe8baa7dfa68a0a2.json"
 }

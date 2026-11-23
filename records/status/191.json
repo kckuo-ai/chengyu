@@ -1,11 +1,11 @@
 {
   "no": 191,
   "word": "南柯一夢",
-  "webp": "img/idioms/191.webp",
-  "original_sha256": "022255166766f3ed7c3649ad67563ead617967e32d97d73592a2f9e4328e2a1d",
-  "original": "originals/022255166766f3ed7c3649ad67563ead617967e32d97d73592a2f9e4328e2a1d.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/84cc71e63ecb8309e1df1d0e49c70d8dba8fa82de574cdab001897f836a04158.json"
+  "webp": "img/idioms/191-59e4fccdedd8.webp",
+  "original_sha256": "59e4fccdedd853613c7604e4dcd55254525aec2ec628575b7497360864bcefee",
+  "original": "originals/59e4fccdedd853613c7604e4dcd55254525aec2ec628575b7497360864bcefee.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/fe38c9c54af4d50369e92b1fd795fa8b9b56a8cdeb83208c93de086b86d1277e.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/1a45d1b78cfe112649fcc0525c60fbe982bc8c70fa686ea8f4d1972884f6526c.json"
 }

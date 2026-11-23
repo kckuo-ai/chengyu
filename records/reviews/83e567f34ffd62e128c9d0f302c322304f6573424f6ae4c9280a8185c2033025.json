@@ -1,0 +1,94 @@
+{
+  "no": 200,
+  "kind": "existing",
+  "word": "作威作福",
+  "path": "/workspace/chengyu-preservation/originals/3283db4ae6d2ebf4f64ddd5b0cb4663718fca51c062d678b37b5ad37a31f9237.png",
+  "original_sha256": "3283db4ae6d2ebf4f64ddd5b0cb4663718fca51c062d678b37b5ad37a31f9237",
+  "original_available": true,
+  "review_source_sha256": "3283db4ae6d2ebf4f64ddd5b0cb4663718fca51c062d678b37b5ad37a31f9237",
+  "webp_src": "img/idioms/200.webp",
+  "webp_sha256": "76b13c3108c3de1694ecfb1b29198768a2f1f499338e3fc44f2fe2e0f743086e",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-03",
+  "alt": "男子翹腳喝茶，坐在物資桌旁抬手使喚，周圍夥伴皺眉搬著沉重箱子；後方眾人仍在棚下整理用品，他卻顯得十分得意。",
+  "issues": [
+    "meaning: 使喚人與別人辛苦可見，但未交代他掌何權力或如何利用權勢脅迫，普通懶惰或自私不幫忙也成立，仗勢欺壓因果不足。",
+    "hands_feet_pose: 前景持杯、攤掌和抱箱手五指正常或遮擋合理，但棚內小人物手過小無法確認五指。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "使喚人與別人辛苦可見，但未交代他掌何權力或如何利用權勢脅迫，普通懶惰或自私不幫忙也成立，仗勢欺壓因果不足。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "坐享其成者與搬物者對比清楚，手機可讀工作不均。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "前景持杯、攤掌和抱箱手五指正常或遮擋合理，但棚內小人物手過小無法確認五指。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "箱由雙手托、翹腳落桌沿、椅腿桌腳接地，物資有承托。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "用品瓶盒均無字標、衣物無字母數字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區物資整理、成人長者便服工作圍裙自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "人物領口均無紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 216,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598,
+        153,
+        489,
+        150
+      ],
+      "method": "All nine sheets of 216 nearest/semantic candidate artworks actually viewed. Full 598,153,489,150 additionally inspected. The whole-source native sheets for all 50 group targets were viewed first. Candidate comparisons do not count as completed audits of those candidates.",
+      "near_duplicates": {
+        "198": "另看598「不屈不撓」全圖並比本輪已審114「百折不撓」，同樣工作桌前專注搭木橋、旁置倒塌失敗模型、材料工具與圖紙，持續努力的核心故事與構圖近乎相同；必須改為別種刻苦自勵情境。",
+        "220": "另看153「一籌莫展」全圖，同樣四人愁眉抓頭托頰圍工作桌，中央模型，前景多張打紅叉方案與零散材料，主視覺可互換且義偏無計可施，須改真正陷入絕境情境。"
+      },
+      "distinguished_comparisons": "另看489的戶外植樹者雕像獻花與188室內老師多代教學相簿，主場景及動作不同，未因同有紀念像直接判近重複。另看150師生木橋水準差距，與217多件同類木屋中唯一精工大屋、多人分享展示不同；192具明確傳聞期待再驗證的泡泡序列，亦與217單場作品群對比不同。208是同樣精作品被自己低估、209是比較不同作品後藏拙，人物動作與因果不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "仗著權勢欺壓別人。貶義。",
+    "syn": "飛揚跋扈、無法無天、橫行霸道、耀武揚威",
+    "ant": "為民請命、愛民如子"
+  },
+  "latest_rejected_candidate": {
+    "batch": "batch-27-group-3-redraw-26",
+    "original_sha256": "49a63a69c0342d72a9bd01d99d50666c2b24bbd868a572cd0fb56ac0dafc2492",
+    "original_archive_path": "originals/49a63a69c0342d72a9bd01d99d50666c2b24bbd868a572cd0fb56ac0dafc2492.png",
+    "review_archive_path": "records/reviews/e3e58ade57c53359c90f0819248bc7c69a1358083f463578925c6892bd89c6cc.json",
+    "passed": false
+  }
+}

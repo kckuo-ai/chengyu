@@ -1,11 +1,11 @@
 {
   "no": 187,
   "word": "如魚得水",
-  "webp": "img/idioms/187.webp",
-  "original_sha256": "490b981bfc27ee69965463f0f967d33c6b1f508b00e456b6c878a4ffc93a65d7",
-  "original": "originals/490b981bfc27ee69965463f0f967d33c6b1f508b00e456b6c878a4ffc93a65d7.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/9f2b3eeb4005573b861c5d06c4b3bce3503940d9acc41cd93e90a136467370d3.json"
+  "webp": "img/idioms/187-8b04435de189.webp",
+  "original_sha256": "8b04435de189813ea2c68a8abe35a4e431740acc69a3833b665e3d2323b96285",
+  "original": "originals/8b04435de189813ea2c68a8abe35a4e431740acc69a3833b665e3d2323b96285.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/a59f548ddb8c8c44d1d27a1de2f0bfd4f9c62c68fcc97fbbbefce2ced7240302.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/2332c9053322acc762a9216fa419d7285394cd9108e1f92a0a1abd4b5e137d22.json"
 }

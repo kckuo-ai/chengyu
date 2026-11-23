@@ -1,0 +1,94 @@
+{
+  "no": 216,
+  "kind": "existing",
+  "word": "相敬如賓",
+  "path": "/workspace/chengyu-preservation/originals/b52ecaf831b202c0b14b28274c386332b47f6bdb5cc9b51d2a068080c7d5d198.png",
+  "original_sha256": "b52ecaf831b202c0b14b28274c386332b47f6bdb5cc9b51d2a068080c7d5d198",
+  "original_available": true,
+  "review_source_sha256": "b52ecaf831b202c0b14b28274c386332b47f6bdb5cc9b51d2a068080c7d5d198",
+  "webp_src": "img/idioms/216.webp",
+  "webp_sha256": "c84cf6df620328e214cb76f12db62c865da2adf94a4c1bdfe56cf8ede04a4423",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-03",
+  "alt": "丈夫微笑把外套遞給妻子，妻子輕扶外套回望他，桌上攤著出遊地圖與筆記本；後牆掛著結婚照，貓狗安靜待在身旁。",
+  "issues": [
+    "meaning: 結婚照確認夫妻、遞衣表體貼，但只單向交外套及微笑，尚未呈雙方互相恭敬禮遇的行為，可能只是平常出遊準備。",
+    "text_brand_watermark: 書架淺色書脊縱排仿字、筆記本多行小筆畫，無類文字要求不過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "結婚照確認夫妻、遞衣表體貼，但只單向交外套及微笑，尚未呈雙方互相恭敬禮遇的行為，可能只是平常出遊準備。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "夫妻交衣與合照關係清楚，手機可辨相處融洽。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "丈夫抓外套手四長指及藏布拇指合理、妻子扶衣與貼胸五指正常，其他臂藏衣後，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "外套由手握、茶杯地圖落桌、貓趴桌狗站桌後，支撐自然。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "書架淺色書脊縱排仿字、筆記本多行小筆畫，無類文字要求不過。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代夫妻住家、便服與出遊用品合理，貓狗比例正常。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "妻子圍巾為淡紫色非紅色，兩人頸前均無紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 216,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598,
+        153,
+        489,
+        150
+      ],
+      "method": "All nine sheets of 216 nearest/semantic candidate artworks actually viewed. Full 598,153,489,150 additionally inspected. The whole-source native sheets for all 50 group targets were viewed first. Candidate comparisons do not count as completed audits of those candidates.",
+      "near_duplicates": {
+        "198": "另看598「不屈不撓」全圖並比本輪已審114「百折不撓」，同樣工作桌前專注搭木橋、旁置倒塌失敗模型、材料工具與圖紙，持續努力的核心故事與構圖近乎相同；必須改為別種刻苦自勵情境。",
+        "220": "另看153「一籌莫展」全圖，同樣四人愁眉抓頭托頰圍工作桌，中央模型，前景多張打紅叉方案與零散材料，主視覺可互換且義偏無計可施，須改真正陷入絕境情境。"
+      },
+      "distinguished_comparisons": "另看489的戶外植樹者雕像獻花與188室內老師多代教學相簿，主場景及動作不同，未因同有紀念像直接判近重複。另看150師生木橋水準差距，與217多件同類木屋中唯一精工大屋、多人分享展示不同；192具明確傳聞期待再驗證的泡泡序列，亦與217單場作品群對比不同。208是同樣精作品被自己低估、209是比較不同作品後藏拙，人物動作與因果不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容夫妻間相處融洽，互相敬愛。褒義。",
+    "syn": "舉案齊眉、琴瑟和鳴",
+    "ant": "琴瑟不和"
+  },
+  "latest_rejected_candidate": {
+    "batch": "batch-27-group-3-redraw-26",
+    "original_sha256": "48304bae0e509dd65b32a8fa619fe9c23131a8b5b513a8865d1b2544229a68d1",
+    "original_archive_path": "originals/48304bae0e509dd65b32a8fa619fe9c23131a8b5b513a8865d1b2544229a68d1.png",
+    "review_archive_path": "records/reviews/3350f6d4cd0baa4eefb93409e38a502a3bbf301f4132c38537abfd310cde01a7.json",
+    "passed": false
+  }
+}

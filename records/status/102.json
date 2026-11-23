@@ -1,18 +1,11 @@
 {
   "no": 102,
   "word": "滿腹經綸",
-  "webp": "img/idioms/102.webp",
-  "original_sha256": "d3c26b622c0ed8810dacc9d035feaa9fa0f0278ef930dd368031f9a6bbffe769",
-  "original": "originals/d3c26b622c0ed8810dacc9d035feaa9fa0f0278ef930dd368031f9a6bbffe769.png",
+  "webp": "img/idioms/102-294caf848273.webp",
+  "original_sha256": "294caf84827326acb4430f86def996dabf6bb2f9dfab0894d6cd67ef1e6a21b3",
+  "original": "originals/294caf84827326acb4430f86def996dabf6bb2f9dfab0894d6cd67ef1e6a21b3.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/e8ed6a3f1e95a592dc10f14359c4421a13fabed3aca07aa7587410ebc1a33dbc.json",
-  "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": "records/prompts/433ad2c400eede1a0ef012629940a33222fd04ae0b4d02412dd6f3cd84022738.json",
-  "latest_rejected_candidate": {
-    "batch": "batch-25-redraw-8",
-    "original_sha256": "5de0bed853b083b1f561b6681586c06178c29d22f0625f8e085576f0850e1a30",
-    "original_archive_path": "originals/5de0bed853b083b1f561b6681586c06178c29d22f0625f8e085576f0850e1a30.png",
-    "review_archive_path": "records/reviews/446492f08b38ec362a4b84a972a1f5c4d664026927f7ec474fd328f7dc6f5f09.json",
-    "passed": false
-  }
+  "current_review_path": "records/reviews/e679278c7b6cb2531e58ac7652b258a0a432aeb6b53466e394ebb1cb41e966cc.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/f5b4250086aea5fc7bb175e42f6d8d96ec79af835476fbf8f3d644c6f8fae05c.json"
 }

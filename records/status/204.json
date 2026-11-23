@@ -1,11 +1,11 @@
 {
   "no": 204,
   "word": "不求甚解",
-  "webp": "img/idioms/204.webp",
-  "original_sha256": "179c10d19251cc88df44161ef4f6b5a3831a4270ee7e56f6a62ac22cfee4ff23",
-  "original": "originals/179c10d19251cc88df44161ef4f6b5a3831a4270ee7e56f6a62ac22cfee4ff23.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/a2b4e0ece3b150480bfdf30cc080e2b392d6cfb1d55e470ff53ab9332f4f082d.json"
+  "webp": "img/idioms/204-0264e08aa004.webp",
+  "original_sha256": "0264e08aa0042ec4eb8fd0520cc1c12f12649b0b0d2a7d165472d64187bf74d7",
+  "original": "originals/0264e08aa0042ec4eb8fd0520cc1c12f12649b0b0d2a7d165472d64187bf74d7.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/4f13e90c851ebbba4439c23791ed993621b38f04d079625319cbdd186a6f737d.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/a2109261cca5556485b213f3984f0851bdcaf39386d6a6be13535033681094fb.json"
 }

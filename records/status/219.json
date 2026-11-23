@@ -1,11 +1,11 @@
 {
   "no": 219,
   "word": "格格不入",
-  "webp": "img/idioms/219.webp",
-  "original_sha256": "ce4a1792877771587705442d33847526fbf49371e5b59ba125ea8b7704c0683c",
-  "original": "originals/ce4a1792877771587705442d33847526fbf49371e5b59ba125ea8b7704c0683c.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/db88e7ca56fb3b9fa19088d3b59fab50feebf3645c38a82089581bcb753cddb0.json"
+  "webp": "img/idioms/219-75cb9fc163bd.webp",
+  "original_sha256": "75cb9fc163bdd1fbea1e4e7e93eee55b37f0fbaa8963f17db151c95b8f123ed8",
+  "original": "originals/75cb9fc163bdd1fbea1e4e7e93eee55b37f0fbaa8963f17db151c95b8f123ed8.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/35a28397b54fccb073e5af8c0b005598a42402ab16b60b340bbaab511d617a5c.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/0e87bb4624476f8db732a2474ea68d1e727d9843d94cc6cd532f1ed678f6e3b4.json"
 }

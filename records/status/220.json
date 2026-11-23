@@ -1,11 +1,11 @@
 {
   "no": 220,
   "word": "山窮水盡",
-  "webp": "img/idioms/220.webp",
-  "original_sha256": "f6ea091df712f3ef937481b63e824a19891e473c6c41a84659ebcdb6817e739d",
-  "original": "originals/f6ea091df712f3ef937481b63e824a19891e473c6c41a84659ebcdb6817e739d.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/e5dd801b9b5708fdafe8790f466385edde40e5c7d49c1d9c792db57e3fd2eb14.json"
+  "webp": "img/idioms/220-e7324f73d40c.webp",
+  "original_sha256": "e7324f73d40c260428367039fcfc44fd67925c1d3ac822ab7077ff1b47e54bdd",
+  "original": "originals/e7324f73d40c260428367039fcfc44fd67925c1d3ac822ab7077ff1b47e54bdd.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/7607a4ccd538e56f8bb80c2ee59e16ee0d31e92fadf777daddacfa03c9003a88.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/76189b72bf3dd9d6e0987e008399afe0c55e8baa8e930a8bebc690c9ea4c8dc5.json"
 }

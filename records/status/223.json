@@ -1,11 +1,11 @@
 {
   "no": 223,
   "word": "旁若無人",
-  "webp": "img/idioms/223.webp",
-  "original_sha256": "1db914c7f62b6e442ab7112e167c996d5c71b0ecbfe989ad27106991d77b45c2",
-  "original": "originals/1db914c7f62b6e442ab7112e167c996d5c71b0ecbfe989ad27106991d77b45c2.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/59f68b6335aa7838e6892a5719eb1c6599cedf318c179d76414b7c0b97d16988.json"
+  "webp": "img/idioms/223-f31cb7f89233.webp",
+  "original_sha256": "f31cb7f892333d52056a68dbf302f77c7e02152c56e4a624369bc71142912ee6",
+  "original": "originals/f31cb7f892333d52056a68dbf302f77c7e02152c56e4a624369bc71142912ee6.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/67c33b611bce2c693326ea7ae2b1592ba56c52d307b7641d6ccc577bb83bc0a7.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/e786a426c290abf9108188d845a7926278dda523468b6d8557a691a3e1256d14.json"
 }

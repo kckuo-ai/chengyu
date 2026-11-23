@@ -1,0 +1,93 @@
+{
+  "no": 182,
+  "kind": "existing",
+  "word": "因噎廢食",
+  "path": "/workspace/chengyu-preservation/originals/3e1e339ff34c246c38f51dfe0aaa19bc7894d1dd2594d1f7b93efecac1352e48.png",
+  "original_sha256": "3e1e339ff34c246c38f51dfe0aaa19bc7894d1dd2594d1f7b93efecac1352e48",
+  "original_available": true,
+  "review_source_sha256": "3e1e339ff34c246c38f51dfe0aaa19bc7894d1dd2594d1f7b93efecac1352e48",
+  "webp_src": "img/idioms/182.webp",
+  "webp_sha256": "b67a0e7edd4e42fcf13fb4f9fcb56d2c48541deb1f88aca84d78981e82a20b48",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-03",
+  "alt": "男孩想到先前組木屋時的失誤，皺眉把木片和膠水收進箱子；老師拿著小木片耐心示範，桌旁還有木屋、小車與帆船作品。",
+  "issues": [
+    "meaning: 回憶持木片不順與收箱可見，但沒有具體害怕再錯而連該做之事都放棄的態度，亦可只是課程結束或半途不想做，指定因果不確定。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "回憶持木片不順與收箱可見，但沒有具體害怕再錯而連該做之事都放棄的態度，亦可只是課程結束或半途不想做，指定因果不確定。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "失誤回憶與收箱主景連貫、老師示範在旁，手機可辨停做。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "兩手扶箱蓋五指自然、回憶持片握屋和老師指片均正常遮擋，無多手腳。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "箱蓋鉸接箱體、木片工具受箱底托、成品落桌，老師示範木片夾在掌指間。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "膠瓶素面、模型工具與衣服無文字字母數字商標水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代手作課、國小男孩與成人老師便服圍裙，背景人物只背部自然遮手。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "男孩與老師領口均無紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 216,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598,
+        153,
+        489,
+        150
+      ],
+      "method": "All nine sheets of 216 nearest/semantic candidate artworks actually viewed. Full 598,153,489,150 additionally inspected. The whole-source native sheets for all 50 group targets were viewed first. Candidate comparisons do not count as completed audits of those candidates.",
+      "near_duplicates": {
+        "198": "另看598「不屈不撓」全圖並比本輪已審114「百折不撓」，同樣工作桌前專注搭木橋、旁置倒塌失敗模型、材料工具與圖紙，持續努力的核心故事與構圖近乎相同；必須改為別種刻苦自勵情境。",
+        "220": "另看153「一籌莫展」全圖，同樣四人愁眉抓頭托頰圍工作桌，中央模型，前景多張打紅叉方案與零散材料，主視覺可互換且義偏無計可施，須改真正陷入絕境情境。"
+      },
+      "distinguished_comparisons": "另看489的戶外植樹者雕像獻花與188室內老師多代教學相簿，主場景及動作不同，未因同有紀念像直接判近重複。另看150師生木橋水準差距，與217多件同類木屋中唯一精工大屋、多人分享展示不同；192具明確傳聞期待再驗證的泡泡序列，亦與217單場作品群對比不同。208是同樣精作品被自己低估、209是比較不同作品後藏拙，人物動作與因果不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻曾經出過差錯，唯恐再錯而不去做該做的事。",
+    "syn": "矯枉過正",
+    "ant": ""
+  },
+  "latest_rejected_candidate": {
+    "batch": "batch-27-group-3-redraw-26",
+    "original_sha256": "f1d17e918a328dfa732883167811c5efc3883202df4ccc3289d460f5a8120227",
+    "original_archive_path": "originals/f1d17e918a328dfa732883167811c5efc3883202df4ccc3289d460f5a8120227.png",
+    "review_archive_path": "records/reviews/cd8fab22cb04f0b4aa3e30829e5cbcab9143a3a5744d7a4682793af488f28bb9.json",
+    "passed": false
+  }
+}

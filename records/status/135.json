@@ -1,18 +1,11 @@
 {
   "no": 135,
   "word": "雪中送炭",
-  "webp": "img/idioms/135.webp",
-  "original_sha256": "c45a19dee54f028c312d8757b67dd82e44339d06d5b1b0904fdbcded5ac2a967",
-  "original": "originals/c45a19dee54f028c312d8757b67dd82e44339d06d5b1b0904fdbcded5ac2a967.png",
+  "webp": "img/idioms/135-0d4b065b7246.webp",
+  "original_sha256": "0d4b065b72465683d2e707e902e648d640f69a62b778d6be44b760630ae51fdf",
+  "original": "originals/0d4b065b72465683d2e707e902e648d640f69a62b778d6be44b760630ae51fdf.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/011c7032609bc39bd906080e99a275ea162ebfdb847746acafbc605b01f37a15.json",
-  "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": "records/prompts/2dd70f2650da98aab1b588cec2c5d7b7d39363754a028776618d1e68612feb7a.json",
-  "latest_rejected_candidate": {
-    "batch": "batch-24-group-2-redraw-31",
-    "original_sha256": "380613aff537b49374d57dd93c0af69fe19ec8b3c90d5fa6b601b90f2d98c2a9",
-    "original_archive_path": "originals/380613aff537b49374d57dd93c0af69fe19ec8b3c90d5fa6b601b90f2d98c2a9.png",
-    "review_archive_path": "records/reviews/2fbe42a68e039a3e8bd55b632080ab79b0cc395ae3981d2ff778b4736b8070c6.json",
-    "passed": false
-  }
+  "current_review_path": "records/reviews/d0172db467ccdfafd34fdb8eae278882f9c94d06064ba0d5e806588e9119547e.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/160af607266aa9d4f7abc378b13ec985dc50f71890e41dd17bb29f161f783d76.json"
 }
