@@ -70,7 +70,7 @@ const base = process.env.TEST_BASE_URL || 'http://127.0.0.1:8000';
     await page.reload();
     await page.locator('[data-mode="picture"]').click();
     await page.locator('[data-pool="fav"]').click();
-    assert.equal(await page.locator('#go').innerText(),'開始 1 題');
+    assert.equal(await page.locator('#go').innerText(),'開始 1 題：看圖猜成語');
     await page.locator('#go').click();
     await page.getByRole('button',{name:first[1].word,exact:true}).click();
     await page.locator('#next').click();
