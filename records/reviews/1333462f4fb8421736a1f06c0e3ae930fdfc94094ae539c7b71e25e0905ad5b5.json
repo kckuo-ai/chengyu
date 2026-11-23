@@ -1,0 +1,87 @@
+{
+  "no": 220,
+  "kind": "existing",
+  "word": "山窮水盡",
+  "path": "/workspace/chengyu-preservation/originals/f6ea091df712f3ef937481b63e824a19891e473c6c41a84659ebcdb6817e739d.png",
+  "original_sha256": "f6ea091df712f3ef937481b63e824a19891e473c6c41a84659ebcdb6817e739d",
+  "original_available": true,
+  "review_source_sha256": "f6ea091df712f3ef937481b63e824a19891e473c6c41a84659ebcdb6817e739d",
+  "webp_src": "img/idioms/220.webp",
+  "webp_sha256": "b44ce9e5057a11338441e37854ad0e91e1c628e20a1c56d438084bba4d0e7722",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-03",
+  "alt": "四位手作者面對多次失敗的設計和空材料盒發愁，有人抓頭，有人托腮；桌中央的燈架仍未完成，周圍工具與紙團散放。",
+  "issues": [
+    "meaning: 空材料盒和多方案被否決表無計可施，但缺少真正已無任何出路的絕境；也與153同樣四人愁眉圍桌、模型在中、紅叉方案在前的構圖接近，須區分。 另看153「一籌莫展」全圖，同樣四人愁眉抓頭托頰圍工作桌，中央模型，前景多張打紅叉方案與零散材料，主視覺可互換且義偏無計可施，須改真正陷入絕境情境。",
+    "text_brand_watermark: 設計紙上多個巨大X形紅叉與尺寸類字註記，違反無類字母和類文字。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "空材料盒和多方案被否決表無計可施，但缺少真正已無任何出路的絕境；也與153同樣四人愁眉圍桌、模型在中、紅叉方案在前的構圖接近，須區分。 另看153「一籌莫展」全圖，同樣四人愁眉抓頭托頰圍工作桌，中央模型，前景多張打紅叉方案與零散材料，主視覺可互換且義偏無計可施，須改真正陷入絕境情境。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "多張否決設計與四人愁容、空盒清楚，手機可讀受困。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "抓頭撐桌、雙手托頰、持筆與交握五指合理，袖腕相接，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "燈架木條接環、盒盤和紙團落桌、鉛筆接紙，支撐合理。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "設計紙上多個巨大X形紅叉與尺寸類字註記，違反無類字母和類文字。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代手作工作室、成人便服圍裙與自然比例。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "女子紅色髮帶在頭頂不是領巾，所有人頸前均無紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 216,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598,
+        153,
+        489,
+        150
+      ],
+      "method": "All nine sheets of 216 nearest/semantic candidate artworks actually viewed. Full 598,153,489,150 additionally inspected. The whole-source native sheets for all 50 group targets were viewed first. Candidate comparisons do not count as completed audits of those candidates.",
+      "near_duplicates": {
+        "198": "另看598「不屈不撓」全圖並比本輪已審114「百折不撓」，同樣工作桌前專注搭木橋、旁置倒塌失敗模型、材料工具與圖紙，持續努力的核心故事與構圖近乎相同；必須改為別種刻苦自勵情境。",
+        "220": "另看153「一籌莫展」全圖，同樣四人愁眉抓頭托頰圍工作桌，中央模型，前景多張打紅叉方案與零散材料，主視覺可互換且義偏無計可施，須改真正陷入絕境情境。"
+      },
+      "distinguished_comparisons": "另看489的戶外植樹者雕像獻花與188室內老師多代教學相簿，主場景及動作不同，未因同有紀念像直接判近重複。另看150師生木橋水準差距，與217多件同類木屋中唯一精工大屋、多人分享展示不同；192具明確傳聞期待再驗證的泡泡序列，亦與217單場作品群對比不同。208是同樣精作品被自己低估、209是比較不同作品後藏拙，人物動作與因果不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "水陸交通阻斷，無法通行。＆比喻走投無路，陷入絕境。",
+    "syn": "日暮途窮、走投無路、窮途末路",
+    "ant": "柳暗花明、絕處逢生"
+  }
+}

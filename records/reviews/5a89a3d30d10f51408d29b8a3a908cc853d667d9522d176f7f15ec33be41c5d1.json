@@ -1,0 +1,68 @@
+{
+  "no": 213,
+  "kind": "regenerate",
+  "word": "休戚相關",
+  "path": "/workspace/idiom-review/batch-27-group-3-redraw-26/batch-27/213.png",
+  "original_sha256": "63a10824957ab69de931a27af9f4f11bf770b67042998e2f95a558b3a1fc8918",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-27-group-3-redraw-26",
+  "alt": "果農、攤商與果醬店都因水果豐收而開心，三人一起搬送鮮果、展示果醬；後來果樹不結果，空籃空箱和空罐排在眼前，三人同樣發愁。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一果物產銷鏈豐收三方皆益、歉收三方皆損，彼此利害一致清楚，不只是朋友同樂。 已實際看過六張比較表共130張候選及216/91、200/594全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "上下豐收與歉收、三人同衣同工具對照，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "交接箱、捧罐及空箱托腮手五指或物遮自然，肩臂連續無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "水果在有底籃箱、果醬罐受掌桌托，樹枝果物連接自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "瓶罐盒帽衣全部無字牌、無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代果園產銷場景、便服果農商家比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "cafe01a4c16ed563819a0b78d2f3d6532b478b504e4ecc9928f271971c836e3a",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/7f007502d92758ce163554cd268f01f9c803c6aed61ffc72910576a4878a49db.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; additional full216/91 and200/594 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容彼此間的關係密切，利害一致。",
+    "syn": "休戚與共、相依為命、息息相關、脣亡齒寒、禍福與共",
+    "ant": "渺不相涉、漠不相關"
+  },
+  "webp_src": "img/idioms/213-63a10824957a.webp",
+  "webp_sha256": "a3d04e0ec57879b1b9c10444003697489544c99ebe7b8696a46fb7045919f934"
+}

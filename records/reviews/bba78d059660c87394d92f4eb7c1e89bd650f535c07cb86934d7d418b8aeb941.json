@@ -1,0 +1,68 @@
+{
+  "no": 181,
+  "kind": "regenerate",
+  "word": "炙手可熱",
+  "path": "/workspace/idiom-review/batch-27-group-3-redraw-26/batch-27/181.png",
+  "original_sha256": "78ef5497759b7398adcf6e14a6befd8d8f6e30719c0aab2cedde4c648f6368ab",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-27-group-3-redraw-26",
+  "alt": "男子坐在寬大辦公椅裡接電話，神情自信，三名來訪者各拿文件彎身靠近，等他回應；桌上放著多棟建築模型，窗外可見城市高樓。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "主位大椅、建築項目及多人傾身爭候回應，採地位尊貴勢燄熾盛義，非只畫人氣明星。 已實際看過六張比較表共130張候選及216/91、200/594全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "權力中心與周圍等候者清楚，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持話筒搭桌、三組持紙雙掌五指或紙遮自然，臂肩連續，坐姿受椅托。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "電話卷線接機、模型底板落桌、文件受掌托，無浮物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全部文件與識別區空白、建築窗是結構，無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代辦公室、台北高樓與成年便服西裝自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "d41adec7baed99649e9f383cd558fd8cf6b5e4330d4c824bc4365b8221c65c15",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/86e6c2230bb56da503c72175f8a869fb0db87ea0d35ad049bc248c19e4258e2e.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; additional full216/91 and200/594 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻地位尊貴，勢燄熾盛。＆比喻廣受歡迎，名聲極盛。",
+    "syn": "如日中天、勢燄熏天",
+    "ant": "乏人問津"
+  },
+  "webp_src": "img/idioms/181-78ef5497759b.webp",
+  "webp_sha256": "a94e892e3bfb3d0a1b138c4f024a14e9d87a324d3ea1b057cc19384a5f0490a8"
+}

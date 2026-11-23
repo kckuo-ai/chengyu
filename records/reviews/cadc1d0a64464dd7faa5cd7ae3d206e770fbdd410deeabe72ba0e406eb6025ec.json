@@ -1,0 +1,86 @@
+{
+  "no": 175,
+  "kind": "existing",
+  "word": "大義滅親",
+  "path": "/workspace/chengyu-preservation/originals/e2f5157df2466860da4c66d96a9bfd79d5e0e70354d28b82d16a7e41b7309d5b.png",
+  "original_sha256": "e2f5157df2466860da4c66d96a9bfd79d5e0e70354d28b82d16a7e41b7309d5b",
+  "original_available": true,
+  "review_source_sha256": "e2f5157df2466860da4c66d96a9bfd79d5e0e70354d28b82d16a7e41b7309d5b",
+  "webp_src": "img/idioms/175.webp",
+  "webp_sha256": "a2ffc81d62a25c8b8e15e52957d570bc07d7edc8c40cf08cd6e069961f2339bd",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-03",
+  "alt": "男子帶著低頭的親近夥伴向員警交出照片，照片中夥伴正在花圃取花；角落合照裡，兩人曾笑著搭肩，現在神情嚴肅難過。",
+  "issues": [
+    "meaning: 合照搭肩只能確認親近，不能確立犯罪者為親人；取花照片亦可能一般園藝。缺少親屬關係及明確違法行為，無法確認為正義不徇親情。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "合照搭肩只能確認親近，不能確立犯罪者為親人；取花照片亦可能一般園藝。缺少親屬關係及明確違法行為，無法確認為正義不徇親情。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "親密舊照、低頭現況與交證物對照清楚，手機可讀揭發難過。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "主角持照片四指遮後拇指壓前、低頭者交握指、員警雙手托盆自然，照片人物手有盆株遮擋，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "盆栽由警員雙手托、照片由手持，花土接盆、制服無穿透。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "照片僅畫取花行為、制服幾何徽章與器材無字母數字商標水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區公園、便服成年男子與現代警員制服合理。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩男子和員警頸前均無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 216,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598,
+        153,
+        489,
+        150
+      ],
+      "method": "All nine sheets of 216 nearest/semantic candidate artworks actually viewed. Full 598,153,489,150 additionally inspected. The whole-source native sheets for all 50 group targets were viewed first. Candidate comparisons do not count as completed audits of those candidates.",
+      "near_duplicates": {
+        "198": "另看598「不屈不撓」全圖並比本輪已審114「百折不撓」，同樣工作桌前專注搭木橋、旁置倒塌失敗模型、材料工具與圖紙，持續努力的核心故事與構圖近乎相同；必須改為別種刻苦自勵情境。",
+        "220": "另看153「一籌莫展」全圖，同樣四人愁眉抓頭托頰圍工作桌，中央模型，前景多張打紅叉方案與零散材料，主視覺可互換且義偏無計可施，須改真正陷入絕境情境。"
+      },
+      "distinguished_comparisons": "另看489的戶外植樹者雕像獻花與188室內老師多代教學相簿，主場景及動作不同，未因同有紀念像直接判近重複。另看150師生木橋水準差距，與217多件同類木屋中唯一精工大屋、多人分享展示不同；192具明確傳聞期待再驗證的泡泡序列，亦與217單場作品群對比不同。208是同樣精作品被自己低估、209是比較不同作品後藏拙，人物動作與因果不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻為了維護公理正義，不徇私情，滅了犯罪的親人，或讓他們接受法律制裁。褒義。",
+    "syn": "以義割恩",
+    "ant": "公報私仇"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "no": 207,
+  "kind": "regenerate",
+  "word": "明哲保身",
+  "path": "/workspace/idiom-review/batch-27-group-3-redraw-26/batch-27/207.png",
+  "original_sha256": "0e864c887264a3bbd9060fe2eaee83454b5b4a9a178c50e0404d5e7b06b28254",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-27-group-3-redraw-26",
+  "alt": "女子仔細看見杯口裂痕，旁邊同事還想把這批杯子裝箱；她皺眉判斷後改拿自己的水壺，張掌拒絕參與，另外兩人驚訝望著她。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "察覺尖裂杯有風險後拒參與、改自備安全瓶，採明辨風險不參與危險事義，非盲目跟從。 已實際看過六張比較表共130張候選及216/91、200/594全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "檢查裂杯到拒絕同箱工作兩幕，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持杯、同事招呼掌與裝杯手、女子拒掌握瓶五指或物遮自然，臂肩連續。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "裂口是待檢物件問題、杯落桌入箱、瓶受掌托，無穿模懸空。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "杯瓶與箱素面，識別帶無標字，無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代辦公室用品檢查空間、成年便服自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "007e07fb11e1225aa12dcc66e3fa8f8c10cad0237c2ee62738f2ed977402cc41",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/d6605f60e1471e3d39f6f43dc8b772977fc2952e652427a6c20c4b6927d5e34a.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; additional full216/91 and200/594 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "明達事理、洞見時勢的人，不參與會帶給自己危險的事。＆為了個人得失而喪失原則的庸俗處世態度。",
+    "syn": "潔身自好、獨善其身",
+    "ant": "同流合汙、隨波逐流"
+  },
+  "webp_src": "img/idioms/207-0e864c887264.webp",
+  "webp_sha256": "fcde37df308434e3317e77787158f77bbb80c53cf9d91f94e07ab786171ed5cd"
+}

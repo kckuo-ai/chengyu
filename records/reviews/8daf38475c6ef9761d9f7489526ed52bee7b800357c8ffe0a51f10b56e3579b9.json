@@ -1,0 +1,86 @@
+{
+  "no": 187,
+  "kind": "existing",
+  "word": "如魚得水",
+  "path": "/workspace/chengyu-preservation/originals/490b981bfc27ee69965463f0f967d33c6b1f508b00e456b6c878a4ffc93a65d7.png",
+  "original_sha256": "490b981bfc27ee69965463f0f967d33c6b1f508b00e456b6c878a4ffc93a65d7",
+  "original_available": true,
+  "review_source_sha256": "490b981bfc27ee69965463f0f967d33c6b1f508b00e456b6c878a4ffc93a65d7",
+  "webp_src": "img/idioms/187.webp",
+  "webp_sha256": "b15629fec01bc0372bffc6a60ed5e9505d161280f6cde0750eaaa1b10b891afb",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-03",
+  "alt": "女子以前在冷清桌前托腮發愁，如今來到明亮溫室，和夥伴一起翻看植物圖、照顧盆栽；她專心微笑，身邊同伴熱切交流。",
+  "issues": [
+    "text_brand_watermark: 圖鑑右頁植物旁有細小筆畫註記，非純葉片輪廓，違反無類文字。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "原環境孤單不適到適合植物興趣的溫室、得到合作夥伴而自在投入，採得到適合發展環境與同道義，不靠魚入水字面。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "灰冷舊環境與明亮新環境、大人物放鬆合作對照，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "捏葉、托盆、指圖和捧圖鑑五指或遮擋合理，後人持小盆指有盆遮正常，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "盆由手托底、工具水壺落桌、吊盆連繩掛架，圖鑑由兩掌承托。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "圖鑑右頁植物旁有細小筆畫註記，非純葉片輪廓，違反無類文字。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代溫室工作夥伴、便服圍裙成人及都市遠景合理。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "每人衣領無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 216,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598,
+        153,
+        489,
+        150
+      ],
+      "method": "All nine sheets of 216 nearest/semantic candidate artworks actually viewed. Full 598,153,489,150 additionally inspected. The whole-source native sheets for all 50 group targets were viewed first. Candidate comparisons do not count as completed audits of those candidates.",
+      "near_duplicates": {
+        "198": "另看598「不屈不撓」全圖並比本輪已審114「百折不撓」，同樣工作桌前專注搭木橋、旁置倒塌失敗模型、材料工具與圖紙，持續努力的核心故事與構圖近乎相同；必須改為別種刻苦自勵情境。",
+        "220": "另看153「一籌莫展」全圖，同樣四人愁眉抓頭托頰圍工作桌，中央模型，前景多張打紅叉方案與零散材料，主視覺可互換且義偏無計可施，須改真正陷入絕境情境。"
+      },
+      "distinguished_comparisons": "另看489的戶外植樹者雕像獻花與188室內老師多代教學相簿，主場景及動作不同，未因同有紀念像直接判近重複。另看150師生木橋水準差距，與217多件同類木屋中唯一精工大屋、多人分享展示不同；192具明確傳聞期待再驗證的泡泡序列，亦與217單場作品群對比不同。208是同樣精作品被自己低估、209是比較不同作品後藏拙，人物動作與因果不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻得到與自己志同道合的人或適合於自己發展的環境。＆比喻兩人間情愛親密。",
+    "syn": "志同道合、意氣相投",
+    "ant": "格格不入、龍困淺灘"
+  }
+}

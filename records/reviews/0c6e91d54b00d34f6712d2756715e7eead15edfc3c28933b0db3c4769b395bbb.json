@@ -1,0 +1,68 @@
+{
+  "no": 180,
+  "kind": "regenerate",
+  "word": "袖手旁觀",
+  "path": "/workspace/idiom-review/batch-27-group-3-redraw-26/batch-27/180.png",
+  "original_sha256": "2b953fbd821103e50fb6d330c57cc51a1dbbee30445e43e046b87988d3ac98d2",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-27-group-3-redraw-26",
+  "alt": "風吹散活動桌上的紙張，兩人彎腰急忙撿拾，花布也被吹得翻起；另一名男子把雙手插在口袋，抬起下巴看向別處，對眼前忙亂毫不理會。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "他人急撿飛散物、男子近處空手插袋刻意轉頭不問，置身事外清楚。 已實際看過六張比較表共130張候選及216/91、200/594全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "忙亂兩人對閒立旁觀者集中，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "拾紙與扶膝掌五指或紙遮自然，插袋手合理全遮，肩臂連續六鞋著地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "飛紙布向同風、棚骨接柱落地、拾紙手指接紙，籃有地托。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "紙張完全空白、花布為花圖非字，無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區活動草地、便服成年人自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "244a90f2db662a83a97c7781e5005cd02a82f6a715101657176a4543b43de7d1",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/9cc94dca318230036f00e66f85bee6e29317d345e4d0e3ecfddda48da4a67482.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; additional full216/91 and200/594 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容置身事外，不予過問。",
+    "syn": "冷眼旁觀、坐視不救、作壁上觀、漠不關心、置身事外、隔岸觀火",
+    "ant": "打抱不平、見義勇為、拔刀相助"
+  },
+  "webp_src": "img/idioms/180-2b953fbd8211.webp",
+  "webp_sha256": "3bcb7a78a222735a5026aefa3410531a594a060366231d8338162b26f4002461"
+}

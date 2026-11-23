@@ -1,0 +1,87 @@
+{
+  "no": 212,
+  "kind": "existing",
+  "word": "背道而馳",
+  "path": "/workspace/chengyu-preservation/originals/465de51884e0b3e6220cc3177e53d09290b222fe246ea9a0e7796a3ac073895d.png",
+  "original_sha256": "465de51884e0b3e6220cc3177e53d09290b222fe246ea9a0e7796a3ac073895d",
+  "original_available": true,
+  "review_source_sha256": "465de51884e0b3e6220cc3177e53d09290b222fe246ea9a0e7796a3ac073895d",
+  "webp_src": "img/idioms/212.webp",
+  "webp_sha256": "4adcdfea5d0e46ad7e456d1f2a2f2f818bddc230851b4df393157284700b7577",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-03",
+  "alt": "老師和孩子指著紙張再利用的圖示討論，另一名男孩卻把整疊仍能畫的紙往垃圾桶丟；眾人驚訝看著他，桌上還留著大片空白紙。",
+  "issues": [
+    "meaning: 可見回收教導與孩子浪費的不同行為，但未交代彼此各持完全相反的目標理想，也可能只是尚未理解課堂要求，容易讀作不環保而非理念相反。",
+    "text_brand_watermark: 桌面左側紙張邊緣有一行類文字筆畫，不能確認全無類文字；其他葉圖箭頭為物件與流程。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "可見回收教導與孩子浪費的不同行為，但未交代彼此各持完全相反的目標理想，也可能只是尚未理解課堂要求，容易讀作不環保而非理念相反。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "再用圖示與丟紙動作並列，手機能辨行為差異。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "指圖兩手各五指、托腮及抱紙握邊自然，肩肘連續，沒有多手腳。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "紙堆受臂托、鬆手紙往桶掉、桶落地，圖示箭頭為概念流程非實物。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "桌面左側紙張邊緣有一行類文字筆畫，不能確認全無類文字；其他葉圖箭頭為物件與流程。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代課堂手作討論、國小孩童與成年老師便服比例合理。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有人物頸口無紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 216,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598,
+        153,
+        489,
+        150
+      ],
+      "method": "All nine sheets of 216 nearest/semantic candidate artworks actually viewed. Full 598,153,489,150 additionally inspected. The whole-source native sheets for all 50 group targets were viewed first. Candidate comparisons do not count as completed audits of those candidates.",
+      "near_duplicates": {
+        "198": "另看598「不屈不撓」全圖並比本輪已審114「百折不撓」，同樣工作桌前專注搭木橋、旁置倒塌失敗模型、材料工具與圖紙，持續努力的核心故事與構圖近乎相同；必須改為別種刻苦自勵情境。",
+        "220": "另看153「一籌莫展」全圖，同樣四人愁眉抓頭托頰圍工作桌，中央模型，前景多張打紅叉方案與零散材料，主視覺可互換且義偏無計可施，須改真正陷入絕境情境。"
+      },
+      "distinguished_comparisons": "另看489的戶外植樹者雕像獻花與188室內老師多代教學相簿，主場景及動作不同，未因同有紀念像直接判近重複。另看150師生木橋水準差距，與217多件同類木屋中唯一精工大屋、多人分享展示不同；192具明確傳聞期待再驗證的泡泡序列，亦與217單場作品群對比不同。208是同樣精作品被自己低估、209是比較不同作品後藏拙，人物動作與因果不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻彼此的目標或理想完全相反。",
+    "syn": "南轅北轍",
+    "ant": ""
+  }
+}

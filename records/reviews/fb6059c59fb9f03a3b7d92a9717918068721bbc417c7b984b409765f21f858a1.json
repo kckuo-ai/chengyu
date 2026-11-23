@@ -1,0 +1,68 @@
+{
+  "no": 175,
+  "kind": "regenerate",
+  "word": "大義滅親",
+  "path": "/workspace/idiom-review/batch-27-group-3-redraw-26/batch-27/175.png",
+  "original_sha256": "0884eba96a9a1ecf62b717fa68ca06bd8a4d8275a96537a3ae15510b7f2d36e3",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-27-group-3-redraw-26",
+  "alt": "父母望著全家合照，想起兒子竟拿走長者遺在公園的皮夾；他們難過落淚，仍帶著兒子到警員面前，陪他交出皮夾，接受處理。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "家照確立親屬、父親目擊兒子偷物仍忍痛帶去警員前，為義讓親人受法處理清楚，非普通還失物。 已實際看過六張比較表共130張候選及216/91、200/594全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "親情、犯罪、交法三幕同衣人物，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "握照搭臂、伸掌取物、搭肩掩口及交接皮夾掌五指或遮擋自然，肩臂連續。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "皮夾受手凳托、照片受雙掌托，公園長凳與警局桌景有支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "照片無題字、警服無徽號字碼，無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代家庭公園與警務空間、成年父母青年兒子自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "e2f5157df2466860da4c66d96a9bfd79d5e0e70354d28b82d16a7e41b7309d5b",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/cadc1d0a64464dd7faa5cd7ae3d206e770fbdd410deeabe72ba0e406eb6025ec.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; additional full216/91 and200/594 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻為了維護公理正義，不徇私情，滅了犯罪的親人，或讓他們接受法律制裁。褒義。",
+    "syn": "以義割恩",
+    "ant": "公報私仇"
+  },
+  "webp_src": "img/idioms/175-0884eba96a9a.webp",
+  "webp_sha256": "f4590fdfd4601645f161c2ced7f25c4573067ec161cf3002f3077f9616033c50"
+}

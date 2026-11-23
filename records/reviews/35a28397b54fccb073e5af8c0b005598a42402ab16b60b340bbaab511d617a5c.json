@@ -1,0 +1,68 @@
+{
+  "no": 219,
+  "kind": "regenerate",
+  "word": "格格不入",
+  "path": "/workspace/idiom-review/batch-27-group-3-redraw-26/batch-27/219.png",
+  "original_sha256": "75cb9fc163bdd1fbea1e4e7e93eee55b37f0fbaa8963f17db151c95b8f123ed8",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-27-group-3-redraw-26",
+  "alt": "女子坐在簡樸木凳上，望著屋裡巨大華麗的金色高背椅，托腮發愁；其餘矮桌、凳子和櫃子都樸素平直，只有那把椅子顯得突兀。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "豪華巨椅與全室簡樸小木家具在尺度風格上不相合，採事物抵觸不合義清楚，非只人物不喜歡坐椅。 已實際看過六張比較表共130張候選及216/91、200/594全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "唯一華椅對素家具清楚，手機可讀突兀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女子托腮掌搭膝掌五指或頭遮自然，臂肩連續，雙鞋踏地、臀受凳托。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "椅腿桌凳接地、盆受櫃托，曲面雕花連接椅體，無漂浮。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "椅面花飾為植物雕紋、衣物背景無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代住家與便服成年女子自然；歐式椅是家具非外國實景。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "ce4a1792877771587705442d33847526fbf49371e5b59ba125ea8b7704c0683c",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/6ff06bdc9ed60f8181bc3d81f1b2fb5dd924ca0efa03e0d9cadf9064ce7e189d.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; additional full216/91 and200/594 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻抵觸阻隔而不相合。",
+    "syn": "水火不容、方枘圓鑿、方底圓蓋、鑿枘不入",
+    "ant": "水乳交融、行合趨同、沆瀣一氣、氣味相投、情投意合、融為一體"
+  },
+  "webp_src": "img/idioms/219-75cb9fc163bd.webp",
+  "webp_sha256": "82b22eaa58bdb51f6a5555404bc2e4e37c942b0b493fb06d1f8438244ff29b2e"
+}

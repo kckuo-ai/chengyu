@@ -10549,5 +10549,21 @@
       "path": "backup/batches/2026-11-08-855-873/alternatives/908/metadata.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "21b0060c8ac7da4a04fb2bc8ef1ba1f3d4a38de51f550fac400c05df5fe3c91b": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-27-group-3-redraw-26",
+      "source_file": "207.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
+  ],
+  "21329004184d64786e7a0a11de3f4297c7a9adef08207d5eb81c23f8651d7df1": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-03",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-03/212.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

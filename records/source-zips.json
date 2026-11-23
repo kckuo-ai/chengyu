@@ -2648,5 +2648,202 @@
         "record_path": "records/source/e7f0d0ef8c79081b6b0d1867c9863e3759f4394968378db0e6b6b97e17f11e8a.json"
       }
     ]
+  },
+  {
+    "blob": "8b4988c58522d374b5f15fbdbdfd2c67963328a5",
+    "path": "batch-26-redraw-7.zip",
+    "commit": "a6ae33315ec1229d7dab3ad417c0f2355da15723",
+    "bytes": 23705825,
+    "sha256": "852710534c16b05e97a48fbcc63614082198aecb9a66d527cf4bd4a5a6385e71",
+    "git_blob_is_lfs_pointer": false,
+    "members": [
+      {
+        "member": "batch-26/122.png",
+        "sha256": "1aee2741ba029e2ece412fb4d5c68759685109a73123bbeee4aae39a9d5f10aa",
+        "kind": "original"
+      },
+      {
+        "member": "batch-26/135.png",
+        "sha256": "0d4b065b72465683d2e707e902e648d640f69a62b778d6be44b760630ae51fdf",
+        "kind": "original"
+      },
+      {
+        "member": "batch-26/139.png",
+        "sha256": "8c2c28159560e6f4df542b8a6eb10ada0334f9bd768419afd5fcb2b6b24a00b9",
+        "kind": "original"
+      },
+      {
+        "member": "batch-26/153.png",
+        "sha256": "892d7d53ad376aa39a7fb79113aac6d7f87179aaaa52c24622b0bfed56e02c6c",
+        "kind": "original"
+      },
+      {
+        "member": "batch-26/156.png",
+        "sha256": "bf0c5a421fad0a845fc62d9e6f35b7056845479f9f7b1d686cec46e9955d27ec",
+        "kind": "original"
+      },
+      {
+        "member": "batch-26/102.png",
+        "sha256": "294caf84827326acb4430f86def996dabf6bb2f9dfab0894d6cd67ef1e6a21b3",
+        "kind": "original"
+      },
+      {
+        "member": "batch-26/108.png",
+        "sha256": "b37593610cd52e0c1d232ab2116b36bbabf77af95637a95ef05f3c9b9e4efbec",
+        "kind": "original"
+      },
+      {
+        "member": "batch-26/manifest.json",
+        "sha256": "b0f0ac8d69bea18c714a1a6c7bb3fb0a231a4a8442e105df8981291e86275f58",
+        "kind": "record",
+        "record_path": "records/source/b0f0ac8d69bea18c714a1a6c7bb3fb0a231a4a8442e105df8981291e86275f58.json"
+      }
+    ]
+  },
+  {
+    "blob": "eb170edec3af29e8de185d92d333e31a5df60081",
+    "path": "batch-27-group-3-redraw-26.zip",
+    "commit": "b305bd19b2b4554fec8864b235c5268662aa57ef",
+    "bytes": 88816696,
+    "sha256": "4506e0c43a68be36e450f2ab39be8c8c1727a40e0a6de83f34df1d5e749121dc",
+    "git_blob_is_lfs_pointer": false,
+    "members": [
+      {
+        "member": "batch-27/174.png",
+        "sha256": "5f7262270f38f212b8419254ecf018f813ea9b82ea67d135a231cbf5b0f28846",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/175.png",
+        "sha256": "0884eba96a9a1ecf62b717fa68ca06bd8a4d8275a96537a3ae15510b7f2d36e3",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/178.png",
+        "sha256": "dee7e33d360f0ee82cc6ba27946df54bfd5a9ca05d5f1dd22deb7b38a945a723",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/180.png",
+        "sha256": "2b953fbd821103e50fb6d330c57cc51a1dbbee30445e43e046b87988d3ac98d2",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/181.png",
+        "sha256": "78ef5497759b7398adcf6e14a6befd8d8f6e30719c0aab2cedde4c648f6368ab",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/182.png",
+        "sha256": "f1d17e918a328dfa732883167811c5efc3883202df4ccc3289d460f5a8120227",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/187.png",
+        "sha256": "8b04435de189813ea2c68a8abe35a4e431740acc69a3833b665e3d2323b96285",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/188.png",
+        "sha256": "1aa25fad00e2ef9fd01761d5d81c24092fd01ca096f51e70cd616b7522c9ee5e",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/191.png",
+        "sha256": "59e4fccdedd853613c7604e4dcd55254525aec2ec628575b7497360864bcefee",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/193.png",
+        "sha256": "46f7a3d865f21062e661acea1a519b2d4e2902d5a99d8b9874a09f9d72d9149f",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/195.png",
+        "sha256": "50b293e0e0a56a4ec5bc9e04c278e3e7531fad5630caa545f431bc3eabb03cc6",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/197.png",
+        "sha256": "c5aa92e7b80cc891d17163eef3492d5b717ab9fd2a25cd8c9789189005c1c574",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/198.png",
+        "sha256": "a9bf8a338df4af49e1e7bcdbf3aab81ed77b695b8521b831f5078776c684a59d",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/200.png",
+        "sha256": "49a63a69c0342d72a9bd01d99d50666c2b24bbd868a572cd0fb56ac0dafc2492",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/201.png",
+        "sha256": "907296e50e14d82df37b567ce8d5d6493b9082a084134943e7f532f59d3499da",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/203.png",
+        "sha256": "9643403eb31ba1fd576f85357b050c1e4b1670c887b7cc60fcfe3ef0b1fa5b2a",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/204.png",
+        "sha256": "0264e08aa0042ec4eb8fd0520cc1c12f12649b0b0d2a7d165472d64187bf74d7",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/206.png",
+        "sha256": "e6f8740310ce540b07b4bec1835d4520d7d658d4b5b5aaf31cedc04ae08297ac",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/207.png",
+        "sha256": "0e864c887264a3bbd9060fe2eaee83454b5b4a9a178c50e0404d5e7b06b28254",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/212.png",
+        "sha256": "2acd3d83b6e0d96c998e8744d8d526202f84a33af9633a55731954fdf7743b33",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/213.png",
+        "sha256": "63a10824957ab69de931a27af9f4f11bf770b67042998e2f95a558b3a1fc8918",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/214.png",
+        "sha256": "2f7da3584867c2d1d24cd6707a6bdab1e04b1ecb02a2f22e5f065a3e4b7507ba",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/216.png",
+        "sha256": "48304bae0e509dd65b32a8fa619fe9c23131a8b5b513a8865d1b2544229a68d1",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/219.png",
+        "sha256": "75cb9fc163bdd1fbea1e4e7e93eee55b37f0fbaa8963f17db151c95b8f123ed8",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/220.png",
+        "sha256": "e7324f73d40c260428367039fcfc44fd67925c1d3ac822ab7077ff1b47e54bdd",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/223.png",
+        "sha256": "f31cb7f892333d52056a68dbf302f77c7e02152c56e4a624369bc71142912ee6",
+        "kind": "original"
+      },
+      {
+        "member": "batch-27/manifest.json",
+        "sha256": "4dc15aceb36ee5d7ebd3697e00579ea20142b15a4e604988dbbc0f9bec423512",
+        "kind": "record",
+        "record_path": "records/source/4dc15aceb36ee5d7ebd3697e00579ea20142b15a4e604988dbbc0f9bec423512.json"
+      }
+    ]
   }
 ]

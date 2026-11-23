@@ -1,0 +1,87 @@
+{
+  "no": 203,
+  "kind": "existing",
+  "word": "肝膽相照",
+  "path": "/workspace/chengyu-preservation/originals/ff92ad0c12b9a33b307e705bdf17dcba4788bdf59478841bf69d153708a50633.png",
+  "original_sha256": "ff92ad0c12b9a33b307e705bdf17dcba4788bdf59478841bf69d153708a50633",
+  "original_available": true,
+  "review_source_sha256": "ff92ad0c12b9a33b307e705bdf17dcba4788bdf59478841bf69d153708a50633",
+  "webp_src": "img/idioms/203.webp",
+  "webp_sha256": "eb3b9d86e09414f59d689ba3274adaaf41f9a04bb754ff84b84b3f071d6bec18",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-03",
+  "alt": "兩位設計夥伴坐在桌前談話，一人手按胸口攤掌說明，另一人扶著他的肩膀微笑回應；桌上攤滿草圖、色筆和風景畫。",
+  "issues": [
+    "meaning: 按胸攤掌與拍肩可以表示熱情談設計，卻沒有坦露內心難處、無所隱瞞或赤誠互信的具體行為，普通聊天或安慰亦成立。",
+    "text_brand_watermark: 左頁草圖上方與黃色便條上有多行仿書寫筆畫，無類文字不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "按胸攤掌與拍肩可以表示熱情談設計，卻沒有坦露內心難處、無所隱瞞或赤誠互信的具體行為，普通聊天或安慰亦成立。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "兩人眼神和扶肩手為焦點，手機可辨友善互動。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "按胸、開掌、扶肩與另一手落桌均五指或有合理遮擋，肩臂連續，無第三手。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "茶杯筆筒書圖放桌、手掌搭肩不穿衣，筆電有鍵盤螢幕連接，物理自然。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "左頁草圖上方與黃色便條上有多行仿書寫筆畫，無類文字不通過。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代設計工作室、便服成年朋友與自然身體比例。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "綠襯衫藍毛衣白內衣領口均無紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 216,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598,
+        153,
+        489,
+        150
+      ],
+      "method": "All nine sheets of 216 nearest/semantic candidate artworks actually viewed. Full 598,153,489,150 additionally inspected. The whole-source native sheets for all 50 group targets were viewed first. Candidate comparisons do not count as completed audits of those candidates.",
+      "near_duplicates": {
+        "198": "另看598「不屈不撓」全圖並比本輪已審114「百折不撓」，同樣工作桌前專注搭木橋、旁置倒塌失敗模型、材料工具與圖紙，持續努力的核心故事與構圖近乎相同；必須改為別種刻苦自勵情境。",
+        "220": "另看153「一籌莫展」全圖，同樣四人愁眉抓頭托頰圍工作桌，中央模型，前景多張打紅叉方案與零散材料，主視覺可互換且義偏無計可施，須改真正陷入絕境情境。"
+      },
+      "distinguished_comparisons": "另看489的戶外植樹者雕像獻花與188室內老師多代教學相簿，主場景及動作不同，未因同有紀念像直接判近重複。另看150師生木橋水準差距，與217多件同類木屋中唯一精工大屋、多人分享展示不同；192具明確傳聞期待再驗證的泡泡序列，亦與217單場作品群對比不同。208是同樣精作品被自己低估、209是比較不同作品後藏拙，人物動作與因果不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻赤忱相處。",
+    "syn": "披肝瀝膽、坦誠相待、推心置腹、推誠相與",
+    "ant": "鉤心鬥角、各懷鬼胎、虛情假意、爾虞我詐"
+  }
+}

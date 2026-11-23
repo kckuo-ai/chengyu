@@ -12325,5 +12325,20 @@
       "path": "backup/batches/2026-11-07-808-828/metadata/867.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "d6df5845fb2f95e30d16ab52d98fa760c63beca2a5056e5702e0e62d24e115ea": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-26-27",
+      "source": "docs/illustration-prompts.json#entries/193"
+    }
+  ],
+  "d6605f60e1471e3d39f6f43dc8b772977fc2952e652427a6c20c4b6927d5e34a": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-03",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-03/207.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

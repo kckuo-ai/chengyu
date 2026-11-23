@@ -15633,5 +15633,21 @@
       "reviewer": "independent-visual-review-2026-11-23",
       "reviewed_main": "1afe65a863c239cc160142d5c4d7e23a2b56643b"
     }
+  ],
+  "8daf38475c6ef9761d9f7489526ed52bee7b800357c8ffe0a51f10b56e3579b9": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-03",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-03/187.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
+  ],
+  "8db47bd1f81a0b0c8fc9ae0ee76644bb27dc2a7df9133ef7709bfcbedff5ef4a": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-27-group-3-redraw-26",
+      "source_file": "212.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
   ]
 }

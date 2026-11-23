@@ -1,0 +1,87 @@
+{
+  "no": 201,
+  "kind": "existing",
+  "word": "兩袖清風",
+  "path": "/workspace/chengyu-preservation/originals/19a671c818f84e76efd8169c3721195d2a411abc3790e51f8c402009f2b53a75.png",
+  "original_sha256": "19a671c818f84e76efd8169c3721195d2a411abc3790e51f8c402009f2b53a75",
+  "original_available": true,
+  "review_source_sha256": "19a671c818f84e76efd8169c3721195d2a411abc3790e51f8c402009f2b53a75",
+  "webp_src": "img/idioms/201.webp",
+  "webp_sha256": "f8c48d99161153db8c812d0932f52a1bc583095eb3d23c6c858b55835f0691c5",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-03",
+  "alt": "男子在辦公室把資料交給同事，肩上只背舊布包；左側小畫面裡，他抬掌婉拒別人遞來的華麗禮盒，仍保持平和微笑。",
+  "issues": [
+    "meaning: 拒禮與簡樸穿著可見，但沒有官職或禮物為求違法通融的脈絡，也可一般退休者不收餞別禮，不能確證做官廉潔；亦非瀟灑超俗表現。",
+    "text_brand_watermark: 前景書脊與資料夾有直排仿字及書名標記，不能滿足無類文字。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "拒禮與簡樸穿著可見，但沒有官職或禮物為求違法通融的脈絡，也可一般退休者不收餞別禮，不能確證做官廉潔；亦非瀟灑超俗表現。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "拒禮小景與簡樸交接主景清楚，手機可讀不同選擇。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "拒掌五指、遞盒握側及托資料手指正常，接待者兩開掌可循五指，無多臂。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "資料落收納盤、提包背帶接肩、禮盒由手托，桌椅器具受支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "前景書脊與資料夾有直排仿字及書名標記，不能滿足無類文字。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代辦公室與便服成人合理，沒有古代官服。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有人襯衫外套領口無紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 216,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598,
+        153,
+        489,
+        150
+      ],
+      "method": "All nine sheets of 216 nearest/semantic candidate artworks actually viewed. Full 598,153,489,150 additionally inspected. The whole-source native sheets for all 50 group targets were viewed first. Candidate comparisons do not count as completed audits of those candidates.",
+      "near_duplicates": {
+        "198": "另看598「不屈不撓」全圖並比本輪已審114「百折不撓」，同樣工作桌前專注搭木橋、旁置倒塌失敗模型、材料工具與圖紙，持續努力的核心故事與構圖近乎相同；必須改為別種刻苦自勵情境。",
+        "220": "另看153「一籌莫展」全圖，同樣四人愁眉抓頭托頰圍工作桌，中央模型，前景多張打紅叉方案與零散材料，主視覺可互換且義偏無計可施，須改真正陷入絕境情境。"
+      },
+      "distinguished_comparisons": "另看489的戶外植樹者雕像獻花與188室內老師多代教學相簿，主場景及動作不同，未因同有紀念像直接判近重複。另看150師生木橋水準差距，與217多件同類木屋中唯一精工大屋、多人分享展示不同；192具明確傳聞期待再驗證的泡泡序列，亦與217單場作品群對比不同。208是同樣精作品被自己低估、209是比較不同作品後藏拙，人物動作與因果不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容瀟灑飄逸、超脫凡俗的樣子。＆形容做官廉潔，毫無貪贓枉法之事。",
+    "syn": "一清如水、洗手奉職、廉潔奉公、囊空如洗",
+    "ant": "中飽私囊、徇私舞弊、貪贓枉法"
+  }
+}

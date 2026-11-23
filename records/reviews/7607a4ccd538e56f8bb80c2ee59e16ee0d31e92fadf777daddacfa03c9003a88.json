@@ -1,0 +1,68 @@
+{
+  "no": 220,
+  "kind": "regenerate",
+  "word": "山窮水盡",
+  "path": "/workspace/idiom-review/batch-27-group-3-redraw-26/batch-27/220.png",
+  "original_sha256": "e7324f73d40c260428367039fcfc44fd67925c1d3ac822ab7077ff1b47e54bdd",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-27-group-3-redraw-26",
+  "alt": "男子到港邊才發現風浪使船無法開航，轉走山路又遇大石坍方堵住；最後回到空蕩店裡，貨架、紙箱和瓶籃都已空了，他攤手發愁。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "海路風浪阻、陸路坍方堵且存貨用盡，雙路皆斷陷困境，兼呈教育部水陸交通阻斷義，非只是想不出方法。 已實際看過六張比較表共130張候選及216/91、200/594全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "兩條補貨路失效對全空現況三幕，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "捧空袋、抓頭叉腰與攤掌五指或物遮自然，臂肩連續、站姿合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "船繫纜於樁、浪受岸擋、石落路、空箱落桌空籃落地，支撐自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "船無船名號碼、路櫃衣物全無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代漁港山路與小店、便服圍裙成年店主自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "f6ea091df712f3ef937481b63e824a19891e473c6c41a84659ebcdb6817e739d",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/1333462f4fb8421736a1f06c0e3ae930fdfc94094ae539c7b71e25e0905ad5b5.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; additional full216/91 and200/594 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "水陸交通阻斷，無法通行。＆比喻走投無路，陷入絕境。",
+    "syn": "日暮途窮、走投無路、窮途末路",
+    "ant": "柳暗花明、絕處逢生"
+  },
+  "webp_src": "img/idioms/220-e7324f73d40c.webp",
+  "webp_sha256": "5058829ae065e9b89c88f2618439751ddc69401a0a7422b837dc82ab748be733"
+}

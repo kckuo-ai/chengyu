@@ -9800,5 +9800,13 @@
       "source_file": "review-manifest.json",
       "reviewer": "independent-visual-review-2026-11-23"
     }
+  ],
+  "4dc15aceb36ee5d7ebd3697e00579ea20142b15a4e604988dbbc0f9bec423512": [
+    {
+      "kind": "git_zip_member",
+      "commit": "b305bd19b2b4554fec8864b235c5268662aa57ef",
+      "zip_path": "batch-27-group-3-redraw-26.zip",
+      "member": "batch-27/manifest.json"
+    }
   ]
 }

@@ -1,0 +1,87 @@
+{
+  "no": 204,
+  "kind": "existing",
+  "word": "不求甚解",
+  "path": "/workspace/chengyu-preservation/originals/179c10d19251cc88df44161ef4f6b5a3831a4270ee7e56f6a62ac22cfee4ff23.png",
+  "original_sha256": "179c10d19251cc88df44161ef4f6b5a3831a4270ee7e56f6a62ac22cfee4ff23",
+  "original_available": true,
+  "review_source_sha256": "179c10d19251cc88df44161ef4f6b5a3831a4270ee7e56f6a62ac22cfee4ff23",
+  "webp_src": "img/idioms/204.webp",
+  "webp_sha256": "a4fcb58cb81248d72a85459baa76744953c43d882f6cc3f760722f9f52641679",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-03",
+  "alt": "男孩快速翻完說明書便閉眼豎拇指，女孩卻拿著零件困惑地看他；桌上留著多片模型框架與散件，另有一架完成的飛機。",
+  "issues": [
+    "meaning: 翻書自滿與同伴疑問可暗示只看皮毛，但沒有錯組或不懂原理的具體後果，桌上飛機反已完整，無法確證不深入理解；亦未表現理解義理的正義。",
+    "text_brand_watermark: 翻開書頁滿是成片仿書寫紋，無類文字要求不過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "翻書自滿與同伴疑問可暗示只看皮毛，但沒有錯組或不懂原理的具體後果，桌上飛機反已完整，無法確證不深入理解；亦未表現理解義理的正義。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "翻書者與提問者並列，手機可讀自信和困惑對照。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "翻頁持書、豎拇指、托零件與開掌五指合理，手臂接袖，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "零件框平鋪桌、模型輪接桌、女孩手握機殼，接觸支撐正常。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "翻開書頁滿是成片仿書寫紋，無類文字要求不過。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代居家模型活動、便服國小孩子比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "綠帽衣白內衣領口均無紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 216,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598,
+        153,
+        489,
+        150
+      ],
+      "method": "All nine sheets of 216 nearest/semantic candidate artworks actually viewed. Full 598,153,489,150 additionally inspected. The whole-source native sheets for all 50 group targets were viewed first. Candidate comparisons do not count as completed audits of those candidates.",
+      "near_duplicates": {
+        "198": "另看598「不屈不撓」全圖並比本輪已審114「百折不撓」，同樣工作桌前專注搭木橋、旁置倒塌失敗模型、材料工具與圖紙，持續努力的核心故事與構圖近乎相同；必須改為別種刻苦自勵情境。",
+        "220": "另看153「一籌莫展」全圖，同樣四人愁眉抓頭托頰圍工作桌，中央模型，前景多張打紅叉方案與零散材料，主視覺可互換且義偏無計可施，須改真正陷入絕境情境。"
+      },
+      "distinguished_comparisons": "另看489的戶外植樹者雕像獻花與188室內老師多代教學相簿，主場景及動作不同，未因同有紀念像直接判近重複。另看150師生木橋水準差距，與217多件同類木屋中唯一精工大屋、多人分享展示不同；192具明確傳聞期待再驗證的泡泡序列，亦與217單場作品群對比不同。208是同樣精作品被自己低估、209是比較不同作品後藏拙，人物動作與因果不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "讀書著重理解義理，而不過度鑽研字句上的解釋。＆形容學習或工作的態度不認真，只求略懂皮毛而不深入理解。",
+    "syn": "一知半解、生吞活剝、囫圇吞棗",
+    "ant": "尋根究底、窮源竟委、窮源溯流、融會貫通"
+  }
+}

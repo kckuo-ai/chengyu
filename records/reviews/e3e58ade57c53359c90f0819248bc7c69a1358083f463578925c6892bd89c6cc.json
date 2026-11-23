@@ -1,0 +1,68 @@
+{
+  "no": 200,
+  "kind": "regenerate",
+  "word": "作威作福",
+  "path": "/workspace/idiom-review/batch-27-group-3-redraw-26/batch-27/200.png",
+  "original_sha256": "49a63a69c0342d72a9bd01d99d50666c2b24bbd868a572cd0fb56ac0dafc2492",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-27-group-3-redraw-26",
+  "alt": "掌管物資的男子舉著鑰匙，翹腳壓在米袋上，傲慢指使兩名志工搬箱；志工疲憊皺眉，另一位等候女子憂心站著，物資櫃明明滿滿。",
+  "issues": [
+    "meaning: 雖有物資控制權與使喚他人，但與現行594飛揚跋扈同為主角左側仰靠椅背、雙腳架桌、伸指右側下屬的核心構圖；換物資背景仍近乎相同，容易互認。 已實際看過六張比較表共130張候選及216/91、200/594全圖對照，亦比對本批其他圖；重複構圖已列為本項不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "雖有物資控制權與使喚他人，但與現行594飛揚跋扈同為主角左側仰靠椅背、雙腳架桌、伸指右側下屬的核心構圖；換物資背景仍近乎相同，容易互認。 已實際看過六張比較表共130張候選及216/91、200/594全圖對照，亦比對本批其他圖；重複構圖已列為本項不通過。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "控制者翹腳與辛苦搬運者反差集中，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "捏鑰指掌、兩人托箱與等待合掌五指或物遮自然，肩臂連續、六鞋與椅凳承重合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "箱袋瓶罐受手櫃桌托、櫃門有鉸鏈、摺椅交叉架落地，翹腳壓物是行為非結構錯。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "物資包瓶與識別牌素面，無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區物資站、成年便服志工自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "3283db4ae6d2ebf4f64ddd5b0cb4663718fca51c062d678b37b5ad37a31f9237",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/b762bcdf0bca79c7c7144dd3965e45a76c1819e9d30bfe677e6747dcf9229c1e.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; additional full216/91 and200/594 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "仗著權勢欺壓別人。貶義。",
+    "syn": "飛揚跋扈、無法無天、橫行霸道、耀武揚威",
+    "ant": "為民請命、愛民如子"
+  }
+}

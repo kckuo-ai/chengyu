@@ -9438,5 +9438,27 @@
       "source_file": "/workspace/idiom-review/full-audit-20261123/group-01/90.review.json",
       "reviewer": "independent-visual-review-2026-11-23"
     }
+  ],
+  "160af607266aa9d4f7abc378b13ec985dc50f71890e41dd17bb29f161f783d76": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-26-27",
+      "source": "docs/illustration-prompts.json#entries/135"
+    }
+  ],
+  "16e92332486aaefb158ee8a27700b690031e381def90f04cbe8baa7dfa68a0a2": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-26-27",
+      "source": "docs/illustration-prompts.json#entries/139"
+    }
+  ],
+  "16318843d9125bf5db5c3b6b03186352630645ad144889fd8a5e0f27545d283c": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-27-group-3-redraw-26",
+      "source_file": "204.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
   ]
 }

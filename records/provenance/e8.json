@@ -12880,5 +12880,21 @@
       "reviewer": "independent-visual-review-2026-11-23",
       "reviewed_main": "1afe65a863c239cc160142d5c4d7e23a2b56643b"
     }
+  ],
+  "e889289e6911ac9cd2f9e27b4bc161220e886442281b73c2bb1de78c3f9d018b": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-27-group-3-redraw-26",
+      "source_file": "188.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
+  ],
+  "e82b46d60d389711687408807b996d89271f975c4f1837558ad9e48029799c9b": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-03",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-03/201.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

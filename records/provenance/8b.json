@@ -14034,5 +14034,20 @@
       "source_file": "comparison-candidates.json",
       "reviewer": "independent-visual-review-2026-11-23"
     }
+  ],
+  "8b3966c89df74a97f5745da9e2a4f8e7b9f090400511084b878a4aeca0fb4f4a": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-27-group-3-redraw-26",
+      "source_file": "188.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
+  ],
+  "8b3e1a6243b1436ae1172f1c2268ac1eb4e5ff31a009cd656d0c0e570c9ca943": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-26-27",
+      "source": "docs/illustration-prompts.json#entries/188"
+    }
   ]
 }

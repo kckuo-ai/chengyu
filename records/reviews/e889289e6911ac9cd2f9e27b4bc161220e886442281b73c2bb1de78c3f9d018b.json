@@ -1,0 +1,68 @@
+{
+  "no": 188,
+  "kind": "regenerate",
+  "word": "流芳百世",
+  "path": "/workspace/idiom-review/batch-27-group-3-redraw-26/batch-27/188.png",
+  "original_sha256": "1aa25fad00e2ef9fd01761d5d81c24092fd01ca096f51e70cd616b7522c9ee5e",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-27-group-3-redraw-26",
+  "alt": "長者帶女孩觀看恩人的銅像，拿出昔日受贈書本的合照，笑著介紹她的善行；照片裡的女子與銅像相同，女孩專心聽著，敬佩望向雕像。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "曾受捐書的男孩如今已成長者，仍向下一代傳頌相同女子善行，跨代美名流傳清楚。 已實際看過六張比較表共130張候選及216/91、200/594全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "童年照片與銅像、老幼觀看集中，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "老人指示扶框與女孩搭膝雙掌、照片贈書接書掌五指或框書遮合理，肩臂連續。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "相框下緣落地由手扶、銅像接臺座、跪坐鞋腿受地托，無浮物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "銅像臺座和照片全無題字、衣鞋書封無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代校園紀念空間、國小女孩制服與長者便服自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "de04c178f2b10636079b5c4d0931c4f6d4bacdf7199876eb882964cae7e0f97b",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/b36a6eb279727c283020b76a501054f52a3cef5985d55b49ba7a7b10d044de17.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; additional full216/91 and200/594 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "美名流傳後世為人所稱頌。褒義。",
+    "syn": "永垂不朽、名垂青史、萬古留芳",
+    "ant": "遺臭萬年"
+  },
+  "webp_src": "img/idioms/188-1aa25fad00e2.webp",
+  "webp_sha256": "0c86242b1e0db146e380e1a0a79945cc7914bdb21848968826db963b30928be3"
+}

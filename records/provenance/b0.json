@@ -14295,5 +14295,20 @@
       "batch": "batches-24-25",
       "source": "docs/illustration-reviews.json#entries/129"
     }
+  ],
+  "b0f0ac8d69bea18c714a1a6c7bb3fb0a231a4a8442e105df8981291e86275f58": [
+    {
+      "kind": "git_zip_member",
+      "commit": "a6ae33315ec1229d7dab3ad417c0f2355da15723",
+      "zip_path": "batch-26-redraw-7.zip",
+      "member": "batch-26/manifest.json"
+    }
+  ],
+  "b07912e24d52cff2e24c9785ddd8b5da7466edfb02111682f279c43692256419": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-26-27",
+      "source": "docs/illustration-prompts.json#entries/203"
+    }
   ]
 }

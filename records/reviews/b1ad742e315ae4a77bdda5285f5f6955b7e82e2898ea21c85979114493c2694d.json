@@ -1,0 +1,68 @@
+{
+  "no": 214,
+  "kind": "regenerate",
+  "word": "同舟共濟",
+  "path": "/workspace/idiom-review/batch-27-group-3-redraw-26/batch-27/214.png",
+  "original_sha256": "2f7da3584867c2d1d24cd6707a6bdab1e04b1ecb02a2f22e5f065a3e4b7507ba",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-27-group-3-redraw-26",
+  "alt": "暴雨積水時，兩人合力把擋水板裝到門口，一人扶門框準備關門，另一人清掉排水溝堵葉；四人分工互相接應，保護屋內的物資免於水害。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "面對同一淹水困境分工擋水、清溝關門保物資，團結克服困難清楚，非只同船字面。 已實際看過六張比較表共130張候選及216/91、200/594全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "四種接應動作圍共同門口與水患，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "扶板四掌、扶框轉鎖與握鏟掌五指或物遮自然，臂肩連續、八靴受地托。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "板落門軌受地與手托、鏟端入格柵夾葉、溝水下流、玻璃門有框鉸鎖，物理合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "門板衣器箱皆素面、落葉雨線非字，無文字字母數字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區防水救災、成年便服雨衣長靴自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "4ac92485654b38a143590ea2f9e68b2ee1d4175fd6761bc1d84720d41b2909b8",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/cad0eefd0de46c6ce0df4eee9376938c6b80f7b84805eea4a7288117bd22baa2.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; additional full216/91 and200/594 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻同心協力，戰勝困難。",
+    "syn": "同心同德、同心協力、同甘共苦、休戚相關、休戚與共、和衷共濟、禍福與共",
+    "ant": "分崩離析、各行其是、同床異夢、離心離德"
+  },
+  "webp_src": "img/idioms/214-2f7da3584867.webp",
+  "webp_sha256": "0968ed6d5c807e7be1450b946ee101827b5c05fdd9803809f83af792e62fe8fa"
+}

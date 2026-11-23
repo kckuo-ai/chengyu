@@ -1,0 +1,68 @@
+{
+  "no": 156,
+  "kind": "regenerate",
+  "word": "莫逆之交",
+  "path": "/workspace/idiom-review/batch-26-redraw-7/batch-26/156.png",
+  "original_sha256": "bf0c5a421fad0a845fc62d9e6f35b7056845479f9f7b1d686cec46e9955d27ec",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-26-redraw-7",
+  "alt": "兩名孩子都帶著鳥類圖冊，相見時會心微笑；女孩適時遞出男孩想用的望遠鏡，雨來時男孩也領會她的擔心，主動替鳥巢加遮雨板。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同好相遇、未開口便遞望遠鏡、領會憂心即護鳥，三幕呈理解彼此心意，較一般合作有更明確默契。 已實際看過六張比較表共130張候選及216/91、200/594全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "相遇到互知心意兩事件清楚，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "雙扶書、搭膝掌、遞鏡、指巢與扶板掌五指或物遮自然，臂肩連續，坐鞋落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "望遠鏡鏡筒有橋接與吊帶、鳥在枝或巢，遮雨板靠木托樹枝由手扶，物理合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "圖冊只有鳥葉、無書脊字號，場地器具服裝無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小校園、制服學童身形年齡自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "021538918ad4aab9a2f2b7332a2f7ee1ebc2e6420c3f65e641085d882bbd9090",
+  "previous_rejected_candidate_review_archive_path": "records/reviews/1579bfd1eda56a293d6689787b9276bda0f7d24da09abada40d6b071ff3f6f91.json",
+  "previous_review_archive_path": "records/reviews/49e27d83350ffb780def16b903d53ff240a915b8daa5f1cc15295367b04720e9.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; additional full216/91 and200/594 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "心意相投的朋友。",
+    "syn": "刎頸之交、金石之交、管鮑之交",
+    "ant": "一面之交、泛泛之交、酒肉朋友、點頭之交"
+  },
+  "webp_src": "img/idioms/156-bf0c5a421fad.webp",
+  "webp_sha256": "25afa26400c907e136937ad0d8ab8174592f8010419708d86c1cbf63cd645e3f"
+}

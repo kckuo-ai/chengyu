@@ -1,0 +1,87 @@
+{
+  "no": 197,
+  "kind": "existing",
+  "word": "忍辱負重",
+  "path": "/workspace/chengyu-preservation/originals/3cbdf150f129aafb01d6d0111c6b65aa72305ff34c87528a8804d15c89c32360.png",
+  "original_sha256": "3cbdf150f129aafb01d6d0111c6b65aa72305ff34c87528a8804d15c89c32360",
+  "original_available": true,
+  "review_source_sha256": "3cbdf150f129aafb01d6d0111c6b65aa72305ff34c87528a8804d15c89c32360",
+  "webp_src": "img/idioms/197.webp",
+  "webp_sha256": "3f5aff450b5b082fa0bbbb4dd694e132d97e232fd5a9c3db6193698e0d0c5e79",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-03",
+  "alt": "男子抱著社區工程圖，在居民指責和質問下抬掌解釋，神情克制；後方工人仍在搬木料鋪石，周圍放著待用的建材。",
+  "issues": [
+    "meaning: 有居民質問與男子壓抑反應，但未見受辱誣謗的具體內容，也未見他因重大任務忍下屈辱後持續承擔，普通工地溝通也成立。",
+    "text_brand_watermark: 後方女子夾板上的工程紙有細小類書寫標記，不能確認完全無類文字。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "有居民質問與男子壓抑反應，但未見受辱誣謗的具體內容，也未見他因重大任務忍下屈辱後持續承擔，普通工地溝通也成立。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "質問人群圍主角、施工在後，手機可見壓力來源。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "前景指人、開掌和抱圖五指自然，後方工人戴手套抓木料有合理遮擋，肩肘腕正常。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "石料疊棧板、木料受手托、圖紙夾在臂掌，建材與地面支撐正常。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "後方女子夾板上的工程紙有細小類書寫標記，不能確認完全無類文字。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區施工、便服居民工程人員與安全帽合理。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有人頸口均無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 216,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598,
+        153,
+        489,
+        150
+      ],
+      "method": "All nine sheets of 216 nearest/semantic candidate artworks actually viewed. Full 598,153,489,150 additionally inspected. The whole-source native sheets for all 50 group targets were viewed first. Candidate comparisons do not count as completed audits of those candidates.",
+      "near_duplicates": {
+        "198": "另看598「不屈不撓」全圖並比本輪已審114「百折不撓」，同樣工作桌前專注搭木橋、旁置倒塌失敗模型、材料工具與圖紙，持續努力的核心故事與構圖近乎相同；必須改為別種刻苦自勵情境。",
+        "220": "另看153「一籌莫展」全圖，同樣四人愁眉抓頭托頰圍工作桌，中央模型，前景多張打紅叉方案與零散材料，主視覺可互換且義偏無計可施，須改真正陷入絕境情境。"
+      },
+      "distinguished_comparisons": "另看489的戶外植樹者雕像獻花與188室內老師多代教學相簿，主場景及動作不同，未因同有紀念像直接判近重複。另看150師生木橋水準差距，與217多件同類木屋中唯一精工大屋、多人分享展示不同；192具明確傳聞期待再驗證的泡泡序列，亦與217單場作品群對比不同。208是同樣精作品被自己低估、209是比較不同作品後藏拙，人物動作與因果不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "忍受屈辱怨謗而承擔重任。",
+    "syn": "含垢忍辱、忍氣吞聲、臥薪嘗膽",
+    "ant": ""
+  }
+}

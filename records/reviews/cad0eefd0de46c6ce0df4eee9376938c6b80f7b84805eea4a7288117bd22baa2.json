@@ -1,0 +1,87 @@
+{
+  "no": 214,
+  "kind": "existing",
+  "word": "同舟共濟",
+  "path": "/workspace/chengyu-preservation/originals/4ac92485654b38a143590ea2f9e68b2ee1d4175fd6761bc1d84720d41b2909b8.png",
+  "original_sha256": "4ac92485654b38a143590ea2f9e68b2ee1d4175fd6761bc1d84720d41b2909b8",
+  "original_available": true,
+  "review_source_sha256": "4ac92485654b38a143590ea2f9e68b2ee1d4175fd6761bc1d84720d41b2909b8",
+  "webp_src": "img/idioms/214.webp",
+  "webp_sha256": "51a6c5eb32d31489c7ea017745a301eb83c8cc75bc9da2e40864a44b4121330f",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-03",
+  "alt": "一家四口穿著救生衣坐在木船上，笑著朝岸邊一起划槳；湖面起伏帶著白色浪花，遠處有山林、木屋與小碼頭。",
+  "issues": [
+    "meaning: 主要是微笑同船划行，雖有浪花卻沒有清楚需共同克服的難題或困境，偏重同船字面，亦可普通親子遊湖，指定寓意不確定。",
+    "objects_contact_perspective: 最前女子握處另有一根斜桿往船內伸下，與向近側的槳交叉卻缺獨立握持；多槳全在近側、固定與划法不明，不能確認器具操作合理。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "主要是微笑同船划行，雖有浪花卻沒有清楚需共同克服的難題或困境，偏重同船字面，亦可普通親子遊湖，指定寓意不確定。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "四個大人物同方向、槳與岸目標清楚，手機易辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "四人握桿各五指或正常遮擋、救生衣下雙臂接肩，船遮下肢合理，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": false,
+      "evidence": "最前女子握處另有一根斜桿往船內伸下，與向近側的槳交叉卻缺獨立握持；多槳全在近側、固定與划法不明，不能確認器具操作合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "船槳救生衣均無文字字母數字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代湖區親子便服救生衣、國小孩子比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "橘紅是整件救生衣、黑帶確實固定衣身，非紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 216,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598,
+        153,
+        489,
+        150
+      ],
+      "method": "All nine sheets of 216 nearest/semantic candidate artworks actually viewed. Full 598,153,489,150 additionally inspected. The whole-source native sheets for all 50 group targets were viewed first. Candidate comparisons do not count as completed audits of those candidates.",
+      "near_duplicates": {
+        "198": "另看598「不屈不撓」全圖並比本輪已審114「百折不撓」，同樣工作桌前專注搭木橋、旁置倒塌失敗模型、材料工具與圖紙，持續努力的核心故事與構圖近乎相同；必須改為別種刻苦自勵情境。",
+        "220": "另看153「一籌莫展」全圖，同樣四人愁眉抓頭托頰圍工作桌，中央模型，前景多張打紅叉方案與零散材料，主視覺可互換且義偏無計可施，須改真正陷入絕境情境。"
+      },
+      "distinguished_comparisons": "另看489的戶外植樹者雕像獻花與188室內老師多代教學相簿，主場景及動作不同，未因同有紀念像直接判近重複。另看150師生木橋水準差距，與217多件同類木屋中唯一精工大屋、多人分享展示不同；192具明確傳聞期待再驗證的泡泡序列，亦與217單場作品群對比不同。208是同樣精作品被自己低估、209是比較不同作品後藏拙，人物動作與因果不同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻同心協力，戰勝困難。",
+    "syn": "同心同德、同心協力、同甘共苦、休戚相關、休戚與共、和衷共濟、禍福與共",
+    "ant": "分崩離析、各行其是、同床異夢、離心離德"
+  }
+}

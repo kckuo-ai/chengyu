@@ -1,0 +1,68 @@
+{
+  "no": 135,
+  "kind": "regenerate",
+  "word": "雪中送炭",
+  "path": "/workspace/idiom-review/batch-26-redraw-7/batch-26/135.png",
+  "original_sha256": "0d4b065b72465683d2e707e902e648d640f69a62b778d6be44b760630ae51fdf",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-26-redraw-7",
+  "alt": "母子在陰雨寒冷的屋裡抱著身子發抖，鄰居見狀送來厚毛毯，替兩人披好；最後母子裹著同一條毯子放鬆微笑，感激望著她。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "先薄衣抱臂受凍、空毯籃無暖器熱茶，後送毯解除困境，適時救助清楚。 已實際看過六張比較表共130張候選及216/91、200/594全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "受凍、披毯到改善三幕同衣同人，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "抱臂掌、托毯雙方與孩童握毯掌五指或衣毯遮合理，肩臂連續，坐站雙鞋有地支撐。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "毛毯由雙手及肩膝托、籃凳桌落地，無浮物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "毯只有格紋、衣鞋燈家具無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣山區陰雨住家、國小男孩與成年母親鄰居便服比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "c45a19dee54f028c312d8757b67dd82e44339d06d5b1b0904fdbcded5ac2a967",
+  "previous_rejected_candidate_review_archive_path": "records/reviews/2fbe42a68e039a3e8bd55b632080ab79b0cc395ae3981d2ff778b4736b8070c6.json",
+  "previous_review_archive_path": "records/reviews/421a5147fc58468a980192f0b9cc43f87fcc7bac6c727fe2de41cef63ba88f6e.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; additional full216/91 and200/594 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻在人艱困危急之時，給予適時的援助。",
+    "syn": "急人之難、寒中送衣",
+    "ant": "趁火打劫、落井下石、錦上添花"
+  },
+  "webp_src": "img/idioms/135-0d4b065b7246.webp",
+  "webp_sha256": "7326072153a42563657f2d462cd41f20f953280e4b9a006f3a0f4efd1fd9bb6f"
+}

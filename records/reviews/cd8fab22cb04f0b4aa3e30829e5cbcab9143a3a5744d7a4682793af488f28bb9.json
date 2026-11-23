@@ -1,0 +1,68 @@
+{
+  "no": 182,
+  "kind": "regenerate",
+  "word": "因噎廢食",
+  "path": "/workspace/idiom-review/batch-27-group-3-redraw-26/batch-27/182.png",
+  "original_sha256": "f1d17e918a328dfa732883167811c5efc3883202df4ccc3289d460f5a8120227",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-27-group-3-redraw-26",
+  "alt": "男孩看著貼了膠布的手指，對桌上的剪刀露出害怕神情；老師示範剪紙花想請他再試，他卻縮身張掌拒絕，連安全的新剪刀也不願碰。",
+  "issues": [
+    "hands_feet_pose: 下幕畫面左側張開掌僅三根長指加拇指，共四指，無物遮；原尺寸及另放大均確認。另一開掌五指正常，其餘臂肩連續。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "曾受剪刀傷便完全拒絕該做的剪紙，老師示範仍不做，怕再出差錯過度停做清楚。 已實際看過六張比較表共130張候選及216/91、200/594全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "上下受傷到一概拒絕同物同人清楚，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "下幕畫面左側張開掌僅三根長指加拇指，共四指，無物遮；原尺寸及另放大均確認。另一開掌五指正常，其餘臂肩連續。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "剪刀刃軸有連接、剪花紙與工具落桌、傷貼包指自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "花形剪紙純色、板牆空白，無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小美術課、制服男孩與成年教師比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "3e1e339ff34c246c38f51dfe0aaa19bc7894d1dd2594d1f7b93efecac1352e48",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/70b9d7e1f9ee863754c9d76b80abea29b3199d21bef28b5a313e886b42af5cf3.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; additional full216/91 and200/594 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻曾經出過差錯，唯恐再錯而不去做該做的事。",
+    "syn": "矯枉過正",
+    "ant": ""
+  }
+}

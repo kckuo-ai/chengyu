@@ -1,0 +1,68 @@
+{
+  "no": 197,
+  "kind": "regenerate",
+  "word": "忍辱負重",
+  "path": "/workspace/idiom-review/batch-27-group-3-redraw-26/batch-27/197.png",
+  "original_sha256": "c5aa92e7b80cc891d17163eef3492d5b717ab9fd2a25cd8c9789189005c1c574",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-27-group-3-redraw-26",
+  "alt": "男子滿身泥污，被兩名旁人捂鼻指點嘲笑，仍壓下怒氣，蹲下接好抽水管；水被送入排水溝，他繼續替淹水的街道工作，沒有回頭爭辯。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "受嘲嫌惡仍忍氣修接泵管、承擔街道排洪重任，屈辱與重責同時清楚，非普通沉默。 已實際看過六張比較表共130張候選及216/91、200/594全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左嘲辱到右繼續排水、同人同泵連續，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "捂鼻指點、握拳扶架、接管握卡箍掌五指或物遮自然，肩臂連續、蹲站鞋受地托。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "泵前吸管入積水、側排管對溝出水、管口箍接泵，機架與鞋接地，水向合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "泵器無字牌品牌，衣鞋牆面無文字字母數字類字水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代街區排水事故、便服成年人與工作靴自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "3cbdf150f129aafb01d6d0111c6b65aa72305ff34c87528a8804d15c89c32360",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/290df8b58050e84eeba9774e5a6d7420e26b7785710e3a87ec2cbbb621bb5094.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; additional full216/91 and200/594 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "忍受屈辱怨謗而承擔重任。",
+    "syn": "含垢忍辱、忍氣吞聲、臥薪嘗膽",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/197-c5aa92e7b80c.webp",
+  "webp_sha256": "4faffbe709de02d98f9d8522c8a2c9191a9e17a29aa17e03f25da1ffb7d0322f"
+}

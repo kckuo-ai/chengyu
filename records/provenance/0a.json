@@ -16760,5 +16760,21 @@
       "path": "backup/batches/2026-11-07-770-790/reviews/825.review.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "0aa240957582795133985dd2eba3a626a1baaf300be85fe14fc72e9aab930de1": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-26-redraw-7",
+      "source_file": "153.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
+  ],
+  "0ae639e073f4ca7b6fedee2116947bb04dda3cc9c0d6adf1be87f5f7f8a4ad74": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-27-group-3-redraw-26",
+      "source_file": "213.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
   ]
 }

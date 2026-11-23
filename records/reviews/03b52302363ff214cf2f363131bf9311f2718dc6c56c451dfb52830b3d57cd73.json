@@ -1,0 +1,68 @@
+{
+  "no": 212,
+  "kind": "regenerate",
+  "word": "背道而馳",
+  "path": "/workspace/idiom-review/batch-27-group-3-redraw-26/batch-27/212.png",
+  "original_sha256": "2acd3d83b6e0d96c998e8744d8d526202f84a33af9633a55731954fdf7743b33",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-27-group-3-redraw-26",
+  "alt": "女孩端著種滿花草、蝴蝶環繞的園地模型，男孩則捧著鋪滿地磚的遊具模型，兩人皺眉互看、張腿站定，為各自想做的校園空間爭論。",
+  "issues": [
+    "meaning: 只顯示花園與遊戲場兩種不同方案，兩者可並存，也未指明爭同一塊地或完全相反理想；怒目不能代替目標相反的證據，仍拿不準。 已實際看過六張比較表共130張候選及216/91、200/594全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "只顯示花園與遊戲場兩種不同方案，兩者可並存，也未指明爭同一塊地或完全相反理想；怒目不能代替目標相反的證據，仍拿不準。 已實際看過六張比較表共130張候選及216/91、200/594全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "雙方方案與對立表情清楚，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "四托底板掌五指或板遮合理、臂肩連續，四鞋踏地自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "園景與遊具在有底模型板上、模型受雙掌托、鞦韆滑梯有連接支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "模型及衣鞋校舍全無文字字母數字類字品牌水印，蝴蝶為真實小動物形。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小校園、制服學童身形比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；紅布景、白毛巾、背包帶皆非紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "465de51884e0b3e6220cc3177e53d09290b222fe246ea9a0e7796a3ac073895d",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/21329004184d64786e7a0a11de3f4297c7a9adef08207d5eb81c23f8651d7df1.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 130,
+    "comparison_method": "Six sheets with130 current catalog candidates actually viewed; additional full216/91 and200/594 comparisons; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻彼此的目標或理想完全相反。",
+    "syn": "南轅北轍",
+    "ant": ""
+  }
+}
