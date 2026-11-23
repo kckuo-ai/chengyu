@@ -1,11 +1,11 @@
 {
   "no": 103,
   "word": "飲鴆止渴",
-  "webp": "img/idioms/103.webp",
-  "original_sha256": "1335406b8d219f5c5bd2e3c2d566af6364bc066772b4c71c833b6a41e23be5bd",
-  "original": "originals/1335406b8d219f5c5bd2e3c2d566af6364bc066772b4c71c833b6a41e23be5bd.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/442787763dceecd691e1c8b776b0887ec04766848b747c1fdd52c986c17e8fbb.json"
+  "webp": "img/idioms/103-e5d2388fbb02.webp",
+  "original_sha256": "e5d2388fbb02f27f9c8077554a9323044042ac5a5b69a182f4351493ad26c58b",
+  "original": "originals/e5d2388fbb02f27f9c8077554a9323044042ac5a5b69a182f4351493ad26c58b.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/a0bf7bf53893edd90b028bd0ea3646038d308a03ae0f0f74ea883691ddb779ad.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/b3d3e6b3116d64f47fb049ceae9ab0fb4d9b5affacceec757a4342d86264258c.json"
 }

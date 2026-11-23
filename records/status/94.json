@@ -1,11 +1,11 @@
 {
   "no": 94,
   "word": "風聲鶴唳",
-  "webp": "img/idioms/94.webp",
-  "original_sha256": "7f0175413239b92b17ecd6475381a3f1d54274dbee7432eed4289eca764f2f95",
-  "original": "originals/7f0175413239b92b17ecd6475381a3f1d54274dbee7432eed4289eca764f2f95.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/3eba653ad3f0c3967ff4d638ffdada98d75146330ebba5e0dbf9ceefea16ce39.json"
+  "webp": "img/idioms/94-03c88d27ed77.webp",
+  "original_sha256": "03c88d27ed77689f4c429523c98a1c372aec8bdd0acf89ed9acdf96de8ba5fd8",
+  "original": "originals/03c88d27ed77689f4c429523c98a1c372aec8bdd0acf89ed9acdf96de8ba5fd8.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/6c55427c23c6e90e2e20a7ad25c6fcca7962aa5b8d1efee84f3344294b41feb5.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/a5ce602de718d8b892bd37100906e90c587ed63f7fc893182068182990574c7e.json"
 }

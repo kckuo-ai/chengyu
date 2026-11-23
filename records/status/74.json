@@ -1,11 +1,11 @@
 {
   "no": 74,
   "word": "滄海一粟",
-  "webp": "img/idioms/74.webp",
-  "original_sha256": "7a6739bdbd4e466cb1077b0aca3b5a6c2ffc3b4dce780a3571eae0841120c6d8",
-  "original": "originals/7a6739bdbd4e466cb1077b0aca3b5a6c2ffc3b4dce780a3571eae0841120c6d8.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/2a74447b57578b219ad6bbd86353368d20c296994b51bf429a2dfcd9fd5f1de2.json"
+  "webp": "img/idioms/74-37e849c1d270.webp",
+  "original_sha256": "37e849c1d27070eb3da3ec4b1cd9b218fabc2c198d800cc8b9ee44dcb9e37f16",
+  "original": "originals/37e849c1d27070eb3da3ec4b1cd9b218fabc2c198d800cc8b9ee44dcb9e37f16.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/d46b0795feee73d12c7a3e7d459eefe7a8744439f2f04fe79decf9407b7774f7.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/f690d403474e25dca1941abe449ef5f27ed35df520d4950d0652ac85b92eef86.json"
 }

@@ -1,11 +1,11 @@
 {
   "no": 75,
   "word": "門可羅雀",
-  "webp": "img/idioms/75.webp",
-  "original_sha256": "cf9c42aef8548b410885056a0b6f01818406d5da3c1ac75b099316f9a66b0166",
-  "original": "originals/cf9c42aef8548b410885056a0b6f01818406d5da3c1ac75b099316f9a66b0166.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/43bb48fa1f77b95e4b56a3095e46e2c7157a07df863a17f56c13fdd35bbeeeb4.json"
+  "webp": "img/idioms/75-45e84b9e4dcf.webp",
+  "original_sha256": "45e84b9e4dcfc5fd8698d6215d63e51b8834152d78e3d167fb87b523be104c34",
+  "original": "originals/45e84b9e4dcfc5fd8698d6215d63e51b8834152d78e3d167fb87b523be104c34.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/07689761ae1104705ab84122071c1fefce6445919d26222bee32968956499285.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/6614ec1cf3a79fd1be2578faeb53f8b1eedc64346876ce3da1b104cce9f9b188.json"
 }

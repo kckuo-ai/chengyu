@@ -1,11 +1,11 @@
 {
   "no": 83,
   "word": "病入膏肓",
-  "webp": "img/idioms/83.webp",
-  "original_sha256": "9a8f7ea3b2a191417f0aae99efb1583975c2578c68b6aa98820a0b4d4cc817aa",
-  "original": "originals/9a8f7ea3b2a191417f0aae99efb1583975c2578c68b6aa98820a0b4d4cc817aa.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/92d5f2fb512f29ef94656ca03a1e0fc102c36b515fb0c0554f6ad0452770a6d6.json"
+  "webp": "img/idioms/83-62dcbd4bac2e.webp",
+  "original_sha256": "62dcbd4bac2e5be7def90f1132c35adfdb21837f4e7360202a675e53fb2ad4f6",
+  "original": "originals/62dcbd4bac2e5be7def90f1132c35adfdb21837f4e7360202a675e53fb2ad4f6.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/fb706cc24a2af6d678e56e0c20dcbe5e4add913152d93ad0644392e0dd909417.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/0c0c017dd69ea094d0aa6dd1ab966108774fb08d5f0742a5e88aeadde57c011a.json"
 }

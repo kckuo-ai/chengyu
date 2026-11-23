@@ -1,0 +1,88 @@
+{
+  "no": 93,
+  "kind": "existing",
+  "word": "歧路亡羊",
+  "path": "/workspace/chengyu-preservation/originals/180dabf1f138977ec40dfb736aa52eaf5a7fd2bc2ff6a33eec02d89674535cb2.png",
+  "original_sha256": "180dabf1f138977ec40dfb736aa52eaf5a7fd2bc2ff6a33eec02d89674535cb2",
+  "original_available": true,
+  "review_source_sha256": "180dabf1f138977ec40dfb736aa52eaf5a7fd2bc2ff6a33eec02d89674535cb2",
+  "webp_src": "img/idioms/93.webp",
+  "webp_sha256": "da58d79fe34120baf9efe626673c79ce2540512dacc006bae97f356b81a52ad3",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "四人拿著複雜地圖站在岔路旁，各自指向不同方向；一人想著走失的羊，眼前小路繞過山坡、溪流與多個路牌。",
+  "issues": [
+    "meaning: 只呈現多人因岔路找不到羊的字面情節，沒有求學求道的目標、選錯方法及終無所成結果，容易是一般迷路，未清楚表達教育部引申義。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "只呈現多人因岔路找不到羊的字面情節，沒有求學求道的目標、選錯方法及終無所成結果，容易是一般迷路，未清楚表達教育部引申義。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "四人指不同路與羊泡泡清楚，遠景岔路繁多，手機可辨混亂。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "四人各兩袖，持圖四指被紙遮、拇指托圖，指路手食指伸出三指扣握，扶帽手正常，腿由石牆遮住。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "地圖有手握持，木路牌接柱插地，橋樑跨溪、石牆承托成立。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "地圖及路牌完全無地名編號，只有道路樹林圖示，未見文字字母數字水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代棒球帽、背包與便服，在台灣牧場步道可成立，不僅憑羊或草帽判外國。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "紅色是帽子，不是領巾；四人頸部均無紅色圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻事理繁雜多變，求道者誤入迷途，而終無所成。",
+    "syn": "",
+    "ant": ""
+  },
+  "latest_rejected_candidate": {
+    "batch": "batch-23-group-1-redraw-35",
+    "original_sha256": "4174d24fe49a2241be7d41f6040510ad9a872880e66ceca693a5a31bbe7d973c",
+    "original_archive_path": "originals/4174d24fe49a2241be7d41f6040510ad9a872880e66ceca693a5a31bbe7d973c.png",
+    "review_archive_path": "records/reviews/da814d662505018922abb537cbaecfde38825f39bcb6532d86cefc9db839c7bb.json",
+    "passed": false
+  }
+}

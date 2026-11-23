@@ -1,11 +1,11 @@
 {
   "no": 100,
   "word": "孤陋寡聞",
-  "webp": "img/idioms/100.webp",
-  "original_sha256": "ad848fe8039928923a19f400d11c3253b1b52cb5d30697d0ac4b3c431bca846a",
-  "original": "originals/ad848fe8039928923a19f400d11c3253b1b52cb5d30697d0ac4b3c431bca846a.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/3a82f327b5ed13dd4a87444ef1fe437c80a36a5d0a4037447e316e16e3775e29.json"
+  "webp": "img/idioms/100-7383de1448f9.webp",
+  "original_sha256": "7383de1448f94998c43f35c768c5063dc4b6c12c61780d8aa173e4edf8afc901",
+  "original": "originals/7383de1448f94998c43f35c768c5063dc4b6c12c61780d8aa173e4edf8afc901.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/0c66ffcec1f380d4950f8ce7b4687b73711d7b1c9b275227a481b1f5e9ce6079.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/430f4eb4ccc62c97da88df9fc7a03803e5cf5996d4705952bd72d733d2c36538.json"
 }

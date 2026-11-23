@@ -1,11 +1,11 @@
 {
   "no": 105,
   "word": "世外桃源",
-  "webp": "img/idioms/105.webp",
-  "original_sha256": "a6593f24b817795fc5d0da0172e311794f22032ad1c2c40e38de6dc5aebe3a44",
-  "original": "originals/a6593f24b817795fc5d0da0172e311794f22032ad1c2c40e38de6dc5aebe3a44.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/327fbe0e88f46872b485b54c62c8196faaf5d01720c6c024c91af5fca3611f19.json"
+  "webp": "img/idioms/105-11c43a7a2d18.webp",
+  "original_sha256": "11c43a7a2d18e11fe26fc00615e6f4c5f797fe9e40c132e09067d9b919c672f7",
+  "original": "originals/11c43a7a2d18e11fe26fc00615e6f4c5f797fe9e40c132e09067d9b919c672f7.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/516cfed0ee094dd8e5e8b5481d03a866164e8b5cfd8cf079855fa888f5957758.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/c27d1aa3a97ca36509725ab2652d5b4eebc531c8ea1e843bb494a389f918e18e.json"
 }

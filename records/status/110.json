@@ -1,11 +1,11 @@
 {
   "no": 110,
   "word": "假公濟私",
-  "webp": "img/idioms/110.webp",
-  "original_sha256": "eb3158831960d255e32d8110ad26475576c304b3884ac88752b473a92a21b6ef",
-  "original": "originals/eb3158831960d255e32d8110ad26475576c304b3884ac88752b473a92a21b6ef.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/dc816e52f2f61791c108338f99295d1caef1612122c922f003e9dd57b04c7ffc.json"
+  "webp": "img/idioms/110-c8a2b6339e6b.webp",
+  "original_sha256": "c8a2b6339e6b9058d5fd89e3b0d2fb49b0f77e3a971fd8b00401513e907ef922",
+  "original": "originals/c8a2b6339e6b9058d5fd89e3b0d2fb49b0f77e3a971fd8b00401513e907ef922.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/d108dbb95acf5f7c6eb9569f1e31b8efff2aab0507b50713ef0aa249ce49e99e.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/beea9bf20ce68ef48ec8f882df4d8d800fc370dc62a604f2ec2085b12519a25a.json"
 }

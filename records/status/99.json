@@ -1,11 +1,11 @@
 {
   "no": 99,
   "word": "洛陽紙貴",
-  "webp": "img/idioms/99.webp",
-  "original_sha256": "3ff9bc75d6ed98e558efbec2ca0068751a0e361ed5f69fa2319c80c8ce91cc54",
-  "original": "originals/3ff9bc75d6ed98e558efbec2ca0068751a0e361ed5f69fa2319c80c8ce91cc54.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/1da274401b2be661388c1c6dd852b24b454744a046cb74cf181cd61d03135c90.json"
+  "webp": "img/idioms/99-bb1a0aa550b1.webp",
+  "original_sha256": "bb1a0aa550b10e2572746eff6f8d80bb5446000429abe41d3503de1b661cf873",
+  "original": "originals/bb1a0aa550b10e2572746eff6f8d80bb5446000429abe41d3503de1b661cf873.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/b9b4bcd865c0409aba452474441a1848961ea1b880d8a3d90179a43da95bd7bf.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/2299db0e21281edda7f6ee21455ab5c6cc408eba96ef9e3444b6d97c970a549e.json"
 }

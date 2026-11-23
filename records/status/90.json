@@ -1,11 +1,11 @@
 {
   "no": 90,
   "word": "扶搖直上",
-  "webp": "img/idioms/90.webp",
-  "original_sha256": "03ce68d6f655ebe30276aa2c82b3b8d56fb5e5c1068fc531f845f64148071cf0",
-  "original": "originals/03ce68d6f655ebe30276aa2c82b3b8d56fb5e5c1068fc531f845f64148071cf0.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/375b5e8bcaeb1369e6e4e5695917d778e95cc0cdd6a820086f9ceff2e46e65ea.json"
+  "webp": "img/idioms/90-abcea5c2af61.webp",
+  "original_sha256": "abcea5c2af615f87fe62a374cbb3cf7cc6af216e0509a9ef8da138bf196d285c",
+  "original": "originals/abcea5c2af615f87fe62a374cbb3cf7cc6af216e0509a9ef8da138bf196d285c.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/c12c339e55e49cf516f7d3e7dd71dbf947f9b221cc4943c97fadff50d053b51f.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/58d3bc9214649defafde66e9332e4d3a581fe7a7461d70785829c19873581b7f.json"
 }

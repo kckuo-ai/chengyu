@@ -1,11 +1,11 @@
 {
   "no": 87,
   "word": "雙管齊下",
-  "webp": "img/idioms/87.webp",
-  "original_sha256": "3ee1c293a6eefc19242d2a7c5904d1bb98334313029e31883edb82cfd2ae7e4a",
-  "original": "originals/3ee1c293a6eefc19242d2a7c5904d1bb98334313029e31883edb82cfd2ae7e4a.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/645bcbc8a246b03bfc2cb87c98e742b3c61582adca9b08661841c1ff0ede9528.json"
+  "webp": "img/idioms/87-c8db5907fa49.webp",
+  "original_sha256": "c8db5907fa49a95a85dec3aa55b416c4e7f73ac1b2c6953d7c6af6754d26f439",
+  "original": "originals/c8db5907fa49a95a85dec3aa55b416c4e7f73ac1b2c6953d7c6af6754d26f439.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/d984b7ed605ff0bb9c301ab31a246bc9f2b7f10e2b93d2db834cb59bf6243a0f.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/251f352fa6d9c613ec574946b6b892d7f9357f89075f9570e38937d8c880f477.json"
 }

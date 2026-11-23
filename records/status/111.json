@@ -1,11 +1,11 @@
 {
   "no": 111,
   "word": "孤掌難鳴",
-  "webp": "img/idioms/111.webp",
-  "original_sha256": "b7924bde6a6693a880440f285529dc01a96c5a6d47768ae61e593a2bc7c07218",
-  "original": "originals/b7924bde6a6693a880440f285529dc01a96c5a6d47768ae61e593a2bc7c07218.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/79af85a79ce03321209a8317e92b1db0be41ae1f20990780c9f09a44d83c3550.json"
+  "webp": "img/idioms/111-f8de32208a0d.webp",
+  "original_sha256": "f8de32208a0d364239076a3fe8c590d02c2e3233f33b47c0baef059c5d6ca37e",
+  "original": "originals/f8de32208a0d364239076a3fe8c590d02c2e3233f33b47c0baef059c5d6ca37e.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/4f2b43220ea98241683cc0cd1fc8da534721c1c0be9182fd7f34ad6c405d550d.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/d9f9881f78cd21d1dca1483efe1e62f09089f1f98a876ff4b520c32fd319bf48.json"
 }

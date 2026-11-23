@@ -1,11 +1,11 @@
 {
   "no": 70,
   "word": "騎虎難下",
-  "webp": "img/idioms/70.webp",
-  "original_sha256": "b6c7cc7e52aaf6a7349dffe0e95c93201407b5bbea1277d879f9e558179d3474",
-  "original": "originals/b6c7cc7e52aaf6a7349dffe0e95c93201407b5bbea1277d879f9e558179d3474.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/89cc0a32abbbb16675a6a78f8c70e225800eb8766129bacdd52883d2ac5def80.json"
+  "webp": "img/idioms/70-df87b267f50c.webp",
+  "original_sha256": "df87b267f50cc5344a5871e933a2dd90cf074451fa9fbe480afb6451fdd07d90",
+  "original": "originals/df87b267f50cc5344a5871e933a2dd90cf074451fa9fbe480afb6451fdd07d90.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/c3a5a35ea881ecf8b67a87d7e2cb87cd335302cc036fd7c9393068fb003389d5.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/b4e6cbc683d550c223f7a88ce664f21132c49110861ddc1a4a6700686173d7f3.json"
 }

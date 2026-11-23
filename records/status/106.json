@@ -1,11 +1,11 @@
 {
   "no": 106,
   "word": "剛愎自用",
-  "webp": "img/idioms/106.webp",
-  "original_sha256": "ff75c6b840a5313685b27d028e3a6ff1a7d95f033b62657bdddbd364db88fa8e",
-  "original": "originals/ff75c6b840a5313685b27d028e3a6ff1a7d95f033b62657bdddbd364db88fa8e.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/f9428a86df9040cff919ea3d7df5b1753b22ea0b0b2d63be034fdb01e217d099.json"
+  "webp": "img/idioms/106-8a64f91575ce.webp",
+  "original_sha256": "8a64f91575cea64c2ce584499a5758db8a7a3e8803cd4870c936c9c4d0d3ab10",
+  "original": "originals/8a64f91575cea64c2ce584499a5758db8a7a3e8803cd4870c936c9c4d0d3ab10.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/f4c7624b32f7a65b904490190020ac2d461bde08de1953608b722f78579f1dc5.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/608573c474dfe430ab7ad334a046b0c57070e3b222a5d0015191af550f35bf55.json"
 }

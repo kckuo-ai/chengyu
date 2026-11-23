@@ -1,11 +1,11 @@
 {
   "no": 71,
   "word": "投鼠忌器",
-  "webp": "img/idioms/71.webp",
-  "original_sha256": "333d8f765b76de1b801b32cffffad9f6943dc8d9a8e45783b114c66cf0cb4f43",
-  "original": "originals/333d8f765b76de1b801b32cffffad9f6943dc8d9a8e45783b114c66cf0cb4f43.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/ec53dc3546d9241e306781fd77c86b35b6e364b4ea8892b1d6fb3de45b082470.json"
+  "webp": "img/idioms/71-b39f19156ee0.webp",
+  "original_sha256": "b39f19156ee0e61b76b91d62b1af2b60d57066394a078fe93e722405cc2285ee",
+  "original": "originals/b39f19156ee0e61b76b91d62b1af2b60d57066394a078fe93e722405cc2285ee.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/1bbc533fe29c7df012b8c7c3565a36ecd2fe2b2db48624bd7e0affa9d1597dc7.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/cfaa0c5496fd29718dd52f3acd95305ace34f14f871cd1974c93e5c792672549.json"
 }
