@@ -12472,5 +12472,21 @@
       "batch": "batch-21-redraw-4",
       "source": "docs/illustration-reviews.json#entries/63"
     }
+  ],
+  "9663638edf52897bc9aa043e64c129c9c594181e1e6089a5136a637693b0ac8e": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-01",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-01/71.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
+  ],
+  "968558d549cb78677c5c6cfd30ab282516d4e6ca901bc2141f0ec8086b2169a2": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-23-group-1-redraw-35",
+      "source_file": "97.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

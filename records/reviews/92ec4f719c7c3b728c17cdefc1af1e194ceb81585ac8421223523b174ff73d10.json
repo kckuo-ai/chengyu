@@ -1,0 +1,82 @@
+{
+  "no": 111,
+  "kind": "existing",
+  "word": "孤掌難鳴",
+  "path": "/workspace/chengyu-preservation/originals/b7924bde6a6693a880440f285529dc01a96c5a6d47768ae61e593a2bc7c07218.png",
+  "original_sha256": "b7924bde6a6693a880440f285529dc01a96c5a6d47768ae61e593a2bc7c07218",
+  "original_available": true,
+  "review_source_sha256": "b7924bde6a6693a880440f285529dc01a96c5a6d47768ae61e593a2bc7c07218",
+  "webp_src": "img/idioms/111.webp",
+  "webp_sha256": "9a4532f9d1a340bec7d0b1b98302f263f2c01b73e04fa383cb5e5ee8ed152027",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "男子獨自握著大帳棚的一根支柱，回頭望向三名提著物品離去的人；草地上還放著未展開的棚架、棚布與工具袋。",
+  "issues": [
+    "meaning: 現有大棚已展開且多根支柱著地，男子只扶一柱、其餘人離去，沒有明確努力失敗或一人不能成事的結果，也可能正常收棚，詞義不足。",
+    "hands_feet_pose: 前景雙握柱掌指自然，兩腳著地；後景三人垂手過小，少量色塊不能確認五指。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "現有大棚已展開且多根支柱著地，男子只扶一柱、其餘人離去，沒有明確努力失敗或一人不能成事的結果，也可能正常收棚，詞義不足。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前景單人與後景離去三人清楚，手機可辨孤單與離開動線。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "前景雙握柱掌指自然，兩腳著地；後景三人垂手過小，少量色塊不能確認五指。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "帳棚交叉桿與關節合理、立柱落地，未展棚架和布放草地，不捏造成無支撐棚。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "棚布、袋箱及衣服素面，未見文字字母數字水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區草地活動搭棚，成人便服帽衫登山鞋符合。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有頸部無紅領巾或圍巾，棚布是米白。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻人孤立無助，不能成事。",
+    "syn": "獨木難支",
+    "ant": "眾志成城、眾擎易舉"
+  }
+}

@@ -14283,5 +14283,28 @@
       "path": "backup/batches/2026-11-06-710-730/reviews/769.review.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "43fa21fd8d0a67b56813b459026625c5d1877735a82bd312e088a2a5585359cf": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-23-group-1-redraw-35",
+      "source_file": "69.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
+  ],
+  "4344558160a736f7faa5952f2ab91e9d3c88ad0466c051ac0aeee9f45bf30190": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-23-group-1-redraw-35",
+      "source_file": "73.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
+  ],
+  "430f4eb4ccc62c97da88df9fc7a03803e5cf5996d4705952bd72d733d2c36538": [
+    {
+      "kind": "current_main_record",
+      "batch": "batch-23-group-1-redraw-35",
+      "source": "docs/illustration-prompts.json#entries/100"
+    }
   ]
 }

@@ -1,0 +1,81 @@
+{
+  "no": 91,
+  "kind": "existing",
+  "word": "舉案齊眉",
+  "path": "/workspace/chengyu-preservation/originals/6390247806988a3686c6bb5462bf282ae51bc9cf4feed4b77f40572884a6a1a6.png",
+  "original_sha256": "6390247806988a3686c6bb5462bf282ae51bc9cf4feed4b77f40572884a6a1a6",
+  "original_available": true,
+  "review_source_sha256": "6390247806988a3686c6bb5462bf282ae51bc9cf4feed4b77f40572884a6a1a6",
+  "webp_src": "img/idioms/91.webp",
+  "webp_sha256": "7dcf08106e70b40fc1a32745f9f83af6aa7599a9566ea6526180e3d523cc03e2",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "夫妻在餐桌旁微笑對望，女子舀湯到手中碗，男子倒茶進自己握著的杯子；冰箱上貼著兩人合照，桌面擺滿飯菜。",
+  "issues": [
+    "meaning: 合照確認夫妻關係，但各自盛湯倒茶、相視微笑只足以表達家庭和樂，沒有互敬、禮讓如賓的動作；可能讀成琴瑟和鳴，關鍵敬意不足。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "合照確認夫妻關係，但各自盛湯倒茶、相視微笑只足以表達家庭和樂，沒有互敬、禮讓如賓的動作；可能讀成琴瑟和鳴，關鍵敬意不足。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "夫妻雙人中景，四手與合照清楚，手機可辨家庭餐食。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女子持匙、托碗手指握物遮擋合理，男子持壺握杯各五指可辨，兩人各兩袖兩腕，無多臂。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "茶水由壺嘴落杯、湯匙伸到碗上，壺碗各有手托，餐盤與砂鍋落桌。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "合照無日期，器皿葉紋無字，冰箱與服裝無品牌或字母數字。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代家庭廚房、便服成人圍裙與米飯家常菜，比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩人衣領與圍裙肩帶無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻夫妻相敬如賓。褒義。",
+    "syn": "相敬如賓、魚水和諧、琴瑟和鳴",
+    "ant": "琴瑟不和"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "no": 87,
+  "kind": "existing",
+  "word": "雙管齊下",
+  "path": "/workspace/chengyu-preservation/originals/3ee1c293a6eefc19242d2a7c5904d1bb98334313029e31883edb82cfd2ae7e4a.png",
+  "original_sha256": "3ee1c293a6eefc19242d2a7c5904d1bb98334313029e31883edb82cfd2ae7e4a",
+  "original_available": true,
+  "review_source_sha256": "3ee1c293a6eefc19242d2a7c5904d1bb98334313029e31883edb82cfd2ae7e4a",
+  "webp_src": "img/idioms/87.webp",
+  "webp_sha256": "1acc105bfb64f2d0a76f2bce561fc4b12780bbd99bd51756105a9206e7f6f741",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "女子一邊以清爽蔬菜和魚飯準備餐食，另一幅畫面中則在河岸快走；兩條弧線連向中央愛心，呈現兩種健康做法。",
+  "issues": [
+    "text_brand_watermark: 愛心上方中央短青色筆畫帶分離小點，原尺寸外觀近似小寫 i，和兩旁紅色短線不同，依禁類字母要求不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一人的飲食改善與運動兩種方法連向健康愛心目標，能表現並用兩法，不把同人不同地當多肢。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右兩種行動及中央目標清楚，手機可辨共同目標關係。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "備餐雙手各握木匙自然，步行握拳與垂手由兩肩連接，兩腿兩鞋連續落路。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "木匙接食物、碗盤在桌，步行腳步有一腳承重，無漂浮餐具。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "愛心上方中央短青色筆畫帶分離小點，原尺寸外觀近似小寫 i，和兩旁紅色短線不同，依禁類字母要求不通過。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代家庭餐食與河岸運動、成人素面上衣運動長褲。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "綠色衣領沒有紅領巾圍巾；中央紅心是圖示，不是人物衣物。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻同時採用兩種辦法來做事。",
+    "syn": "",
+    "ant": ""
+  }
+}

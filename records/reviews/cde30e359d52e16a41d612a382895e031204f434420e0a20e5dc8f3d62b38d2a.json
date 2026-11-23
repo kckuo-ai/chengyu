@@ -1,0 +1,82 @@
+{
+  "no": 100,
+  "kind": "existing",
+  "word": "孤陋寡聞",
+  "path": "/workspace/chengyu-preservation/originals/ad848fe8039928923a19f400d11c3253b1b52cb5d30697d0ac4b3c431bca846a.png",
+  "original_sha256": "ad848fe8039928923a19f400d11c3253b1b52cb5d30697d0ac4b3c431bca846a",
+  "original_available": true,
+  "review_source_sha256": "ad848fe8039928923a19f400d11c3253b1b52cb5d30697d0ac4b3c431bca846a",
+  "webp_src": "img/idioms/100.webp",
+  "webp_sha256": "9772430eb19b0c7487f3bbf91c7f57e892b992a0ee6a0a5e0e167bdb76a92a5a",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "三位大人拿鳥類圖冊和地球儀熱烈交流，男孩卻只抱著小本子抓頭困惑；桌面鋪著植物圖鑑、羽毛、鳥巢與望遠鏡。",
+  "issues": [
+    "meaning: 大人展示自然知識、孩子不熟某鳥，只能表示這個領域或年齡尚未學到，沒有廣泛見聞狹窄的證據；可能是正常學習，不足以確定學識淺薄。",
+    "text_brand_watermark: 多本鳥類植物圖鑑的圖旁有成列仿字筆畫，原尺寸清楚是文字區，而非葉脈紙紋，違反無類文字要求。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "大人展示自然知識、孩子不熟某鳥，只能表示這個領域或年齡尚未學到，沒有廣泛見聞狹窄的證據；可能是正常學習，不足以確定學識淺薄。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "三人熟悉與一人困惑的對照明確，手機可辨表情與知識道具。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持冊四指、指圖食指及抓頭手連接自然，黃衣女子攤掌五指；無多肩腕，下肢由桌遮住。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "地球儀有底架、圖鑑落桌或手托，鳥巢羽毛是樣本，道具接觸合理。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "多本鳥類植物圖鑑的圖旁有成列仿字筆畫，原尺寸清楚是文字區，而非葉脈紙紋，違反無類文字要求。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣家庭或自然學習室，國小男孩與成年家長比例合理。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有領口無紅領巾或圍巾，男孩棕紅色是整件衣服。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容學識淺薄，見聞不廣。",
+    "syn": "一孔之見、井蛙之見、坐井觀天、淺見寡聞、管中窺豹",
+    "ant": "見多識廣、博古通今、博物洽聞"
+  }
+}

@@ -10650,5 +10650,13 @@
       "path": "backup/batches/2026-11-06-710-730/metadata/760.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "92ec4f719c7c3b728c17cdefc1af1e194ceb81585ac8421223523b174ff73d10": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-01",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-01/111.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

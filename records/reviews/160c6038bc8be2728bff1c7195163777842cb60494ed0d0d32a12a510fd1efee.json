@@ -1,0 +1,81 @@
+{
+  "no": 90,
+  "kind": "existing",
+  "word": "扶搖直上",
+  "path": "/workspace/chengyu-preservation/originals/03ce68d6f655ebe30276aa2c82b3b8d56fb5e5c1068fc531f845f64148071cf0.png",
+  "original_sha256": "03ce68d6f655ebe30276aa2c82b3b8d56fb5e5c1068fc531f845f64148071cf0",
+  "original_available": true,
+  "review_source_sha256": "03ce68d6f655ebe30276aa2c82b3b8d56fb5e5c1068fc531f845f64148071cf0",
+  "webp_src": "img/idioms/90.webp",
+  "webp_sha256": "9d8c1f7a858bc469c20df1a77191b86bb9599bb46609824efc5eb7bd4aa6a0df",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "同一女子的生意從河岸小攤，擴大成有客人的店面，再到樓上工作室；綠色弧箭頭沿著幾個階段向上延伸。",
+  "issues": [
+    "hands_feet_pose: 前景女主雙手操作杯盤自然，但上層工作室和店內細小人物的露掌沒有可辨五指，不能嚴格通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一綠圍裙女子從攤位到店再到多層店舖，連續向上的箭頭表現事業快速上升，與衰退相反。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "三段規模沿斜線遞增，手機可辨小攤與大店差別。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "前景女主雙手操作杯盤自然，但上層工作室和店內細小人物的露掌沒有可辨五指，不能嚴格通過。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "杯碟落桌、樓層有柱樑、人物站樓板，階段弧箭頭是敘事圖示而非實物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "牆邊板展示杯圖、杯身花圖，不把花紋當商標；無可讀文字字母數字水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣都市河岸手作店與現代便服成人，場景可成立。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "全部人物領口無紅領巾圍巾，綠圍裙接肩胸。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻快速上升。＆比喻仕途得志。",
+    "syn": "平步青雲、青雲直上",
+    "ant": "一落千丈、江河日下、每況愈下"
+  }
+}

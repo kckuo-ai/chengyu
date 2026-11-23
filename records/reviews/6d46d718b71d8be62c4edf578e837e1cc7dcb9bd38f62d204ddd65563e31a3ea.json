@@ -1,0 +1,81 @@
+{
+  "no": 106,
+  "kind": "existing",
+  "word": "剛愎自用",
+  "path": "/workspace/chengyu-preservation/originals/ff75c6b840a5313685b27d028e3a6ff1a7d95f033b62657bdddbd364db88fa8e.png",
+  "original_sha256": "ff75c6b840a5313685b27d028e3a6ff1a7d95f033b62657bdddbd364db88fa8e",
+  "original_available": true,
+  "review_source_sha256": "ff75c6b840a5313685b27d028e3a6ff1a7d95f033b62657bdddbd364db88fa8e",
+  "webp_src": "img/idioms/106.webp",
+  "webp_sha256": "ba445e9d41d57ffab925a4a53555837c5ee109147ff40beeb5adb87a3e8faf13",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "幾位園藝夥伴拿著枯萎盆栽與日照示意圖勸說，男子卻閉眼伸掌拒聽，仍指向陰暗角落裡一排長不好的植物。",
+  "issues": [
+    "hands_feet_pose: 戴眼鏡藍帽衫人物在圖板上緣、左側緣、底緣各出現一隻握持手，共三手，無其他人能接該底掌，屬多肢；其他人物肩腕自然。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "枯苗與需要日照圖提供反證，同伴勸告而主角閉眼拒聽、堅持陰暗位置，固執己見及不納建議可懂。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主角拒絕掌、勸說者及兩種植物狀態相對，手機可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "戴眼鏡藍帽衫人物在圖板上緣、左側緣、底緣各出現一隻握持手，共三手，無其他人能接該底掌，屬多肢；其他人物肩腕自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "盆栽落地或由手托，圖板被手扶，陰暗角落與實景日照圖對應，無浮盆。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "日照圖只有完整太陽及盆栽圖示，無文字字母數字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣社區園藝、成人圍裙便服與住宅陽台，比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "人物頸部無紅領巾紅圍巾，橘色為整件上衣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容性情倔強，固執己見。貶義。",
+    "syn": "一意孤行、自以為是、自矜自是、固執己見、師心自用、獨斷專行",
+    "ant": "不恥下問、從善如流、從諫如流、虛懷若谷"
+  }
+}

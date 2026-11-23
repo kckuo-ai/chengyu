@@ -1,0 +1,82 @@
+{
+  "no": 98,
+  "kind": "existing",
+  "word": "先發制人",
+  "path": "/workspace/chengyu-preservation/originals/7defe997ee6149ce6cc30a2995c71c2fd7cccf590bd27a341b63a42166260905.png",
+  "original_sha256": "7defe997ee6149ce6cc30a2995c71c2fd7cccf590bd27a341b63a42166260905",
+  "original_available": true,
+  "review_source_sha256": "7defe997ee6149ce6cc30a2995c71c2fd7cccf590bd27a341b63a42166260905",
+  "webp_src": "img/idioms/98.webp",
+  "webp_sha256": "23acb921d2dd1c9a5bbba4099c5f2d8722f4b1a45d50793166f58f052b84a889",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "球場上的男子向前跨步揮拍，把羽球打往對面空處；女孩才驚訝地跑去接球，遠處可見公園綠樹與都市高樓。",
+  "issues": [
+    "meaning: 只見一人擊球、另一人追接，沒有開局先下手的時序，可能是普通來回球，無法確認取得先機並制伏對手。",
+    "objects_contact_perspective: 球路箭頭朝右，羽球卻球頭朝左、羽裙在右，已飛離拍面仍尾部朝前，飛行方向不自然；球拍網柱接地正常。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "只見一人擊球、另一人追接，沒有開局先下手的時序，可能是普通來回球，無法確認取得先機並制伏對手。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前景揮拍與遠端追球反差清楚，手機可辨運動動勢。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "握拍手彎指扣柄、平衡掌五指，女孩雙手各接袖、後足抬起跑步合理，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": false,
+      "evidence": "球路箭頭朝右，羽球卻球頭朝左、羽裙在右，已飛離拍面仍尾部朝前，飛行方向不自然；球拍網柱接地正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "球場無文字數字，鞋帶是物件線，未見品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代公園羽球場、成人運動服、背後都市自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩名運動者無紅領巾圍巾，女孩紅上衣為整件。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "凡事先下手取得先機，才能制伏對方。",
+    "syn": "",
+    "ant": ""
+  }
+}

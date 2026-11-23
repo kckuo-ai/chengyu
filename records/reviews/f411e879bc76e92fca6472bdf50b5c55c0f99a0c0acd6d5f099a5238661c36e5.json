@@ -1,0 +1,68 @@
+{
+  "no": 96,
+  "kind": "regenerate",
+  "word": "車水馬龍",
+  "path": "/workspace/idiom-review/batch-23-group-1-redraw-35/batch-23/96.png",
+  "original_sha256": "662d203f77e58a95bb4b03d21a5606af68c6e059cbafa46a02051a8ee2f16abf",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-23-group-1-redraw-35",
+  "alt": "一家四口走過斑馬線，孩子興奮指著繁忙街景；兩側店家亮著燈，公車和許多汽車沿大道排開，遠處高樓映著傍晚天空。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "連續多車、雙向公車與亮燈商店、行人過街，繁華熱鬧可讀，非單純一條堵車。 已實際比對全部118張候選及本批其他重畫圖，未見主動作、人物關係與道具安排近乎相同而可互換的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前景行人後景長車流形成繁盛深度，手機易讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "握背帶、垂掌與女孩指示手五指或自然收指重疊，肩肘連續、八鞋步態正常，司機僅剪影未露手。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "車輪落路、斑馬線與分隔島透視正常、背包帶接肩，無車穿人。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "所有車牌路線板皆空白，車頭僅幾何橢圓非可識品牌，衣鞋商店無文字字母數字水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代街道騎樓與台北高樓輪廓、國小學童及成人便服自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "cb463881b26d286076f074855ddf3d29dfac72ddb1f705abaa8e959384e547ce",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/769eb121af7a429d38b9ac44722850556a8e0c05850ae920baab250df4b3780c.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; all six unresized native tiles, including miniature people in illustration84 and background pupils in93",
+    "comparison_candidates": 118,
+    "comparison_method": "Five comparison sheets with 118 published candidates actually viewed, plus full 1099 and1514; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容繁華熱鬧的景象。",
+    "syn": "車馬盈門、車馬輻輳、車馬駢溢、車馬駢闐、門庭若市、肩摩轂擊、熙來攘往、熙熙攘攘",
+    "ant": "門可羅雀"
+  },
+  "webp_src": "img/idioms/96-662d203f77e5.webp",
+  "webp_sha256": "26c7c9279b6c57362ed61260df7cea1ec8a28a8192c14df219ebeae56c1a5ba4"
+}

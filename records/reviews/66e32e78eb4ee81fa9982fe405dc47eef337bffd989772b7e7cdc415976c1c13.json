@@ -1,0 +1,81 @@
+{
+  "no": 79,
+  "kind": "existing",
+  "word": "膾炙人口",
+  "path": "/workspace/chengyu-preservation/originals/1fa9c754b909e92a2c279b9635d8faa635731bac1ee464991615dff743f28242.png",
+  "original_sha256": "1fa9c754b909e92a2c279b9635d8faa635731bac1ee464991615dff743f28242",
+  "original_available": true,
+  "review_source_sha256": "1fa9c754b909e92a2c279b9635d8faa635731bac1ee464991615dff743f28242",
+  "webp_src": "img/idioms/79.webp",
+  "webp_sha256": "bf3bc7987206238e340ff0186c8b011f1e8598a443e63bc817ee0b5ca82e7436",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "不同年齡的人都笑著翻看同一本綠樹畫冊，有人和長輩分享，有人指圖稱讚；架上擺著多本同樣封面的作品。",
+  "issues": [
+    "no_red_neckerchief: 後方銀髮奶奶頸部有米白底、大片紅花色長圍巾繞頸垂胸；不是衣領或包帶，按禁止紅色圍巾要求不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "多組不同年齡的人閱讀分享並稱讚同款作品，表達精妙作品廣受讚賞，不只是一本書販售。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "三組閱讀者與相同綠樹封面反覆呼應，手機可辨作品普及。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持冊掌手指被書緣部分遮擋、前景老者手四長指及拇指正常；托頰、合掌與指圖者袖腕各自連續，未見多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "畫冊由雙手或膝承托，架上冊靠立、桌盆落桌，貓狗趴坐有支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "封面只有樹和藍天、內頁無字，沒有書名日期品牌或水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣社區閱讀室或書店，老人成人及國小孩子比例清楚。"
+    },
+    "no_red_neckerchief": {
+      "passed": false,
+      "evidence": "後方銀髮奶奶頸部有米白底、大片紅花色長圍巾繞頸垂胸；不是衣領或包帶，按禁止紅色圍巾要求不通過。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "美味的食物人人愛吃。＆比喻美妙的詩文為人所讚賞、傳誦。褒義。＆比喻事物精妙而備受稱誦。褒義。",
+    "syn": "口碑載道",
+    "ant": "乏善可陳"
+  }
+}

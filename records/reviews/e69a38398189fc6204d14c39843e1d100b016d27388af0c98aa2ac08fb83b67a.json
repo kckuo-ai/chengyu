@@ -1,0 +1,68 @@
+{
+  "no": 73,
+  "kind": "regenerate",
+  "word": "坐井觀天",
+  "path": "/workspace/idiom-review/batch-23-group-1-redraw-35/batch-23/73.png",
+  "original_sha256": "eb486b5c8db284067536e4420200a6d42c3398d4fc278f8874f6ad4c05e810ec",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-23-group-1-redraw-35",
+  "alt": "男孩只看過桌上的小盆栽，便以為樹木都一樣小；老師帶他走到戶外看巨大的老榕樹，他睜大眼睛，才發現自己知道得太少。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "只看盆栽便想像樹都盆栽大，再見巨大榕樹驚訝，眼界狹小的錯誤概括清楚。 已實際比對全部118張候選及本批其他重畫圖，未見主動作、人物關係與道具安排近乎相同而可互換的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "小盆想像對大榕主景、同人前後連貫，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "指盆握拳、搭桌托頰、戶外垂掌與介紹掌五指或自然重疊，臂肩相連、雙人鞋落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "盆底托盤落桌或臺，榕根入土，搭肩掌接觸自然，沒有浮物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "泡泡只有三盆樹，鞋服牆窗與盆均無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小教室與榕樹校園，學童和成年老師比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "0225dec5a9098ed1257c71395cc0811f175dd07f10320cc662ba3742dcdbc80b",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/50a98b4af9c1f0d5fcbda90b2e27d7fdf423ecef1a766741cdb35ddb9d0e1012.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; all six unresized native tiles, including miniature people in illustration84 and background pupils in93",
+    "comparison_candidates": 118,
+    "comparison_method": "Five comparison sheets with 118 published candidates actually viewed, plus full 1099 and1514; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻人眼界狹小，見識不廣。",
+    "syn": "井蛙之見、以管窺天、以蠡測海、管中窺豹、管窺蠡測、牖中窺日、甕天之見",
+    "ant": "見多識廣、高瞻遠矚"
+  },
+  "webp_src": "img/idioms/73-eb486b5c8db2.webp",
+  "webp_sha256": "4c707ac10a0b34109b3e3ca9bcf3037593bc2e6ba50a084b49400752410b1fa6"
+}

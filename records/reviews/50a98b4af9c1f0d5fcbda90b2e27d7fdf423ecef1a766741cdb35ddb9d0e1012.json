@@ -1,0 +1,82 @@
+{
+  "no": 73,
+  "kind": "existing",
+  "word": "坐井觀天",
+  "path": "/workspace/chengyu-preservation/originals/0225dec5a9098ed1257c71395cc0811f175dd07f10320cc662ba3742dcdbc80b.png",
+  "original_sha256": "0225dec5a9098ed1257c71395cc0811f175dd07f10320cc662ba3742dcdbc80b",
+  "original_available": true,
+  "review_source_sha256": "0225dec5a9098ed1257c71395cc0811f175dd07f10320cc662ba3742dcdbc80b",
+  "webp_src": "img/idioms/73.webp",
+  "webp_sha256": "3fc62c1c01252aae10fb82d6275a9154d5e1b5d0ab0c1662e678d034e5af04cc",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "男孩抱膝坐在深井底部，只能仰望井口一小片藍天；剖開的土層上方，青山、村莊、河流與飛鳥延伸到遠處。",
+  "issues": [
+    "hands_feet_pose: 男孩兩手抱膝畫成連續肉色塊，原尺寸無法辨五指，雖無多肢也不能通過；雙腿盤曲、布鞋落井底。",
+    "taiwan_context: 束髮、寬袖藍布衣與布鞋及古井村屋屬古代情境，不符合現代台灣設定。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "狹小井口所見與井外廣闊世界明確對照，表現見識受限，不只是人在深處。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "剖面使井內與外界可同看，手機可辨男孩與小片天空。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "男孩兩手抱膝畫成連續肉色塊，原尺寸無法辨五指，雖無多肢也不能通過；雙腿盤曲、布鞋落井底。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "井壁、井底、土層與吊桶橫桿繩索有支撐，剖面是說明手法而非真實裂地。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "村屋和布衣沒有題字、數字、品牌或水印。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "束髮、寬袖藍布衣與布鞋及古井村屋屬古代情境，不符合現代台灣設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "藍色頭繩與腰帶均非紅領巾，頸部無圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻人眼界狹小，見識不廣。",
+    "syn": "井蛙之見、以管窺天、以蠡測海、管中窺豹、管窺蠡測、牖中窺日、甕天之見",
+    "ant": "見多識廣、高瞻遠矚"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "no": 105,
+  "kind": "regenerate",
+  "word": "世外桃源",
+  "path": "/workspace/idiom-review/batch-23-group-1-redraw-35/batch-23/105.png",
+  "original_sha256": "11c43a7a2d18e11fe26fc00615e6f4c5f797fe9e40c132e09067d9b919c672f7",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-23-group-1-redraw-35",
+  "alt": "登山者穿過岩洞，在出口停下腳步，眼前忽然展開清澈溪流、盛開花木與整齊田園；遠處幾間現代小屋藏在青山間，四周寧靜。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "洞後山中隱蔽優美田園、清溪花木且人跡少，採風景優美人跡罕至義，非僅桃花字面。 已實際比對全部118張候選及本批其他重畫圖，未見主動作、人物關係與道具安排近乎相同而可互換的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "洞口框景引向隱密美景、單人驚喜停步，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "握帶與握杖掌五指或合理遮擋、臂肩連續、兩鞋踏岩地，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "登山杖尖觸地、背帶承包、石洞岩塊相連、溪水沿高低流、屋田有地基支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "器材衣鞋與小屋無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代山中農居，平頂水塔房屋及現代登山服自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "a6593f24b817795fc5d0da0172e311794f22032ad1c2c40e38de6dc5aebe3a44",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/fcc7694d19845ecf4dbed4b5e8d81b917d0eeca4f57502955826e7dfca8948bb.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; all six unresized native tiles, including miniature people in illustration84 and background pupils in93",
+    "comparison_candidates": 118,
+    "comparison_method": "Five comparison sheets with 118 published candidates actually viewed, plus full 1099 and1514; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻風景優美而人跡罕至的地方。＆比喻心目中理想的世界。",
+    "syn": "人間仙境、洞天福地、蓬萊仙境、人間仙境、洞天福地、烏托邦、蓬萊仙境",
+    "ant": "人間地獄"
+  },
+  "webp_src": "img/idioms/105-11c43a7a2d18.webp",
+  "webp_sha256": "2fd00986a6804dae56a7153867c321e1ee1605ba8f60402c20277fd8b16405b0"
+}

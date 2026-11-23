@@ -1,0 +1,81 @@
+{
+  "no": 102,
+  "kind": "existing",
+  "word": "滿腹經綸",
+  "path": "/workspace/chengyu-preservation/originals/d3c26b622c0ed8810dacc9d035feaa9fa0f0278ef930dd368031f9a6bbffe769.png",
+  "original_sha256": "d3c26b622c0ed8810dacc9d035feaa9fa0f0278ef930dd368031f9a6bbffe769",
+  "original_available": true,
+  "review_source_sha256": "d3c26b622c0ed8810dacc9d035feaa9fa0f0278ef930dd368031f9a6bbffe769",
+  "webp_src": "img/idioms/102.webp",
+  "webp_sha256": "8ce2a49276f571aac1aea00c47c618341571d53a5964e6b99fddf87d35b1ca2e",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "男子指著細緻社區模型說明，身旁老少專注聆聽；桌上展開植物、鳥類、河岸與建築圖鑑，窗外是綠意豐富的城鎮。",
+  "issues": [
+    "text_brand_watermark: 植物圖鑑頁上有密集仿字行列，前景河岸與建築圖也有標註筆畫，違反無類文字要求。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "主角整合自然與建築知識規劃完整社區、他人求教聆聽，才識廣且能處理整體事務，不只是讀書很多。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "中央說明者、前景完整模型與多領域參考書構成焦點，手機可辨主持規劃。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "主角持筆與攤掌各接袖，聽者托頰握拳正常，模型旁手合理遮擋，無多肩腕。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "模型底盤置桌、河道橋屋相互支撐，書平鋪、地圖固定牆面。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "植物圖鑑頁上有密集仿字行列，前景河岸與建築圖也有標註筆畫，違反無類文字要求。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代都市社區規劃工作室，成人老人及國小孩便服年齡比例合理。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "全體領口無紅領巾或紅圍巾，黃色衣服為整件上衣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容才識豐富，具有處理大事的才能。",
+    "syn": "大才槃槃、足智多謀、博學多才、滿腹經籍、學富五車",
+    "ant": "才疏學淺、不學無術、不識一丁、胸無點墨"
+  }
+}

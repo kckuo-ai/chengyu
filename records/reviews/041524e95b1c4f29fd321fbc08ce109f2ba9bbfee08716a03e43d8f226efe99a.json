@@ -1,0 +1,68 @@
+{
+  "no": 89,
+  "kind": "regenerate",
+  "word": "自相矛盾",
+  "path": "/workspace/idiom-review/batch-23-group-1-redraw-35/batch-23/89.png",
+  "original_sha256": "b3bd07c63631cee03dd644048a981fc01a1dcb1a06312ec35d03c63a72b3c4e3",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-23-group-1-redraw-35",
+  "alt": "男孩指著紙屋向同伴說明，泡泡裡畫著一罐膠；後來他又低頭擠膠黏屋頂，同伴指著相同膠罐圖提出疑問，他露出緊張神情。",
+  "issues": [
+    "meaning: 先前泡泡只有膠罐圖、沒有不用膠或不能用膠的清楚否定；後來擠膠可能正照先前說明實做，兩件事不能確定互相牴觸。 已實際比對全部118張候選及本批其他重畫圖，未見主動作、人物關係與道具安排近乎相同而可互換的構圖。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "先前泡泡只有膠罐圖、沒有不用膠或不能用膠的清楚否定；後來擠膠可能正照先前說明實做，兩件事不能確定互相牴觸。 已實際比對全部118張候選及本批其他重畫圖，未見主動作、人物關係與道具安排近乎相同而可互換的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "同人同屋左右對照、同伴指泡泡清楚，手機可見動作變化。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "指屋、壓罐、後擠瓶扶屋、同伴指示與搭桌手五指或物遮自然，臂肩連續、坐姿腳皆有地支撐。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "房屋摺面接合、膠嘴朝屋縫、罐蓋落桌，工具紙片受桌托，結構合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "泡泡膠罐、格墊、紙屋衣鞋全無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小手作教室、運動服男孩比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "38fe6f1653d8c3815db14a84f22bf27f10cf12e98427c6c4e375f99a3df58511",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/202db56354172443ed73f616deaf382e1503d8696ccbabdf67f22945cde2dc16.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; all six unresized native tiles, including miniature people in illustration84 and background pupils in93",
+    "comparison_candidates": 118,
+    "comparison_method": "Five comparison sheets with 118 published candidates actually viewed, plus full 1099 and1514; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻言語或行事前後無法呼應，互相牴觸。",
+    "syn": "",
+    "ant": ""
+  }
+}

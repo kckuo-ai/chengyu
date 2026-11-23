@@ -1,0 +1,81 @@
+{
+  "no": 105,
+  "kind": "existing",
+  "word": "世外桃源",
+  "path": "/workspace/chengyu-preservation/originals/a6593f24b817795fc5d0da0172e311794f22032ad1c2c40e38de6dc5aebe3a44.png",
+  "original_sha256": "a6593f24b817795fc5d0da0172e311794f22032ad1c2c40e38de6dc5aebe3a44",
+  "original_available": true,
+  "review_source_sha256": "a6593f24b817795fc5d0da0172e311794f22032ad1c2c40e38de6dc5aebe3a44",
+  "webp_src": "img/idioms/105.webp",
+  "webp_sha256": "e858125225b6c2f3ec3e70c48b6b2860068b82430bfba3f713c1bff48383e9b6",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "背包旅人站在山洞外的小徑，眼前展開桃花、清溪與幽靜田園；遠處村舍藏在青山間，少數農人安靜地工作。",
+  "issues": [
+    "hands_feet_pose: 前景旅人握杖手及遠田農人手都太小，僅色塊與短線，不能逐手確認五指；旅人兩腿鞋底站地，無多腿。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "曲徑洞口外別有美麗幽靜村谷，外界隔絕而少有人跡，能採理想幽美世界義，非單純熱鬧旅遊景點。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前景小旅人與開闊溪谷形成發現動線，手機可見與世隔絕的環境。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "前景旅人握杖手及遠田農人手都太小，僅色塊與短線，不能逐手確認五指；旅人兩腿鞋底站地，無多腿。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "溪水沿石坡落差流下、村舍田埂有地面承托，旅人杖尖接路，無浮空建築。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "山石桃花、村牆和服裝無文字字母數字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "背包登山者為現代便服，老村農田可以存在於台灣鄉間；不僅憑傳統瓦屋就斷定古代或他國。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "旅人及農人頸部未見紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻風景優美而人跡罕至的地方。＆比喻心目中理想的世界。",
+    "syn": "人間仙境、洞天福地、蓬萊仙境、人間仙境、洞天福地、烏托邦、蓬萊仙境",
+    "ant": "人間地獄"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "no": 87,
+  "kind": "regenerate",
+  "word": "雙管齊下",
+  "path": "/workspace/idiom-review/batch-23-group-1-redraw-35/batch-23/87.png",
+  "original_sha256": "c8db5907fa49a95a85dec3aa55b416c4e7f73ac1b2c6953d7c6af6754d26f439",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-23-group-1-redraw-35",
+  "alt": "女子一邊改善飲食，吃蔬果、魚肉與沙拉，另一幕也規律在河邊快走；兩種活動以線條連向同一顆愛心，表示共同照顧健康。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "飲食調整和運動兩法連向同一健康目標，採兩種辦法並用義，非單做兩次同事。 已實際比對全部118張候選及本批其他重畫圖，未見主動作、人物關係與道具安排近乎相同而可互換的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "兩法分左右、愛心居中整合，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "握叉、扶碗手五指或叉遮合理，快走雙握拳指節正常，臂肩連續、步行腳底支撐自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "叉上食材、碗盤桌與扶掌接觸、河岸護欄接柱，示意連線不是實體水管。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "食品器皿鞋衣與橋景無文字字母數字類字品牌水印，愛心是圖像非字形。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代居家餐桌及河濱步道，便服成人比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "3ee1c293a6eefc19242d2a7c5904d1bb98334313029e31883edb82cfd2ae7e4a",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/7202b2e807db9b7c4b077f27461af4e99e6bee25093aed9ed491048c92b1d0fb.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; all six unresized native tiles, including miniature people in illustration84 and background pupils in93",
+    "comparison_candidates": 118,
+    "comparison_method": "Five comparison sheets with 118 published candidates actually viewed, plus full 1099 and1514; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻同時採用兩種辦法來做事。",
+    "syn": "",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/87-c8db5907fa49.webp",
+  "webp_sha256": "23bdadf5277bd7ac0f6cb3170a03305af7cd298c7dc2647452f67a45079aeef9"
+}

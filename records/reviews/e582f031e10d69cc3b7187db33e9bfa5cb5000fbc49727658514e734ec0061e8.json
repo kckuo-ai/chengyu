@@ -1,0 +1,81 @@
+{
+  "no": 112,
+  "kind": "existing",
+  "word": "偃旗息鼓",
+  "path": "/workspace/chengyu-preservation/originals/78c26af3aebc1aeaa30a11c951b8571a17d0cc9fbbb4f124d62ab1f7eeac093a.png",
+  "original_sha256": "78c26af3aebc1aeaa30a11c951b8571a17d0cc9fbbb4f124d62ab1f7eeac093a",
+  "original_available": true,
+  "review_source_sha256": "78c26af3aebc1aeaa30a11c951b8571a17d0cc9fbbb4f124d62ab1f7eeac093a",
+  "webp_src": "img/idioms/112.webp",
+  "webp_sha256": "99e1a83e4ce1437055c23dda81f83d18ee3fc4c4a735be43e1426f9d1da6e34e",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "左上活動還在掛旗擊鼓，右下同批工作人員已收起旗桿、搬走鼓並摺桌；空場只剩棚架，擴音器也被放進箱裡。",
+  "issues": [
+    "text_brand_watermark: 左上桌面紙箱正面有三列黃色橫筆畫，近似「三」字標記，非全空白包裝，按無類字形門檻不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "熱鬧活動轉為撤旗停鼓收器材，清楚表達事情停止、聲勢消退，不是重新開場。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "活動回憶與現況收場有箭頭連結，手機可辨旗鼓狀態前後變化。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "收旗者雙手戴手套五指握桿，持旗布、搬桌與抱鼓者各兩肩兩腕，彎指握物合理，四人鞋底接地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "摺桌關節、旗桿捲布與鼓架結構自然，器材落地或手托，擴音器置箱不懸浮。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "左上桌面紙箱正面有三列黃色橫筆畫，近似「三」字標記，非全空白包裝，按無類字形門檻不通過。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區活動收攤，便服帽衫及工作手套，不是古代軍隊。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "紅橙色是旗布和鼓身，未繫人物頸部，沒有紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "軍隊放倒旌旗，停止戰鼓。形容不露行蹤。＆比喻事情中斷或聲勢減弱。",
+    "syn": "偃兵息甲、鳴金收兵、銷聲匿跡、銷聲匿跡",
+    "ant": "大張旗鼓、重整旗鼓"
+  }
+}

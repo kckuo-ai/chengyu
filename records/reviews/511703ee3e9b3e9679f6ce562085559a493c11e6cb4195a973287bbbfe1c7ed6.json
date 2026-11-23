@@ -1,0 +1,68 @@
+{
+  "no": 82,
+  "kind": "regenerate",
+  "word": "推心置腹",
+  "path": "/workspace/idiom-review/batch-23-group-1-redraw-35/batch-23/82.png",
+  "original_sha256": "8a4fcb19098b00ef3de0da75312fd55f447e5b36b162eaa4a8fbd80374fefc69",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-23-group-1-redraw-35",
+  "alt": "女子捧著心愛卻破損的布兔，難過向朋友傾訴；朋友輕搭她的肩膀安慰，拿出自己的針線，接著耐心替她縫好裂口，兩人安心微笑。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "坦露珍愛物損壞的擔憂、朋友貼近傾聽搭肩並拿自己針線實際分憂，採至誠相待義，非只有笑著喝茶。 已實際比對全部118張候選及本批其他重畫圖，未見主動作、人物關係與道具安排近乎相同而可互換的構圖。 另看1514全圖，彼圖是母子爭一補片而補衣補包兩難，本圖朋友傾訴後出針線修布兔，關鍵關係不同。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左傾訴右實際分憂，情緒由憂轉安，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "托兔雙手、搭肩、取袋與持針扶兔各五指或物件自然遮擋，臂肩可追，無共掌多臂。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "針穿布兔裂口、線連針與縫線、兔受兩人托、針線籃剪刀置桌，支撐正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "布兔縫線為功能性交錯線而非獨立字母，花袋格布無題字、背景無書，無文字數字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代居家朋友互助、便服成年女子比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "35c37a14aa5e0d70db62069e33dc272042e28fda817b526f971cc6d6e8ed04e8",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/f2fba96f04f2d7b440825a94302d8411b0dd16633097b032abfa4fc0a89e93ae.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; all six unresized native tiles, including miniature people in illustration84 and background pupils in93",
+    "comparison_candidates": 118,
+    "comparison_method": "Five comparison sheets with 118 published candidates actually viewed, plus full 1099 and1514; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻以至誠待人。",
+    "syn": "肝膽相照、披肝瀝膽、坦誠相見",
+    "ant": "明爭暗鬥、鉤心鬥角、爾虞我詐"
+  },
+  "webp_src": "img/idioms/82-8a4fcb19098b.webp",
+  "webp_sha256": "f3d711c770e5bc43ca6be496fea37a16d3593d4081796c8303a0cff36f960742"
+}

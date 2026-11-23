@@ -1,0 +1,81 @@
+{
+  "no": 103,
+  "kind": "existing",
+  "word": "飲鴆止渴",
+  "path": "/workspace/chengyu-preservation/originals/1335406b8d219f5c5bd2e3c2d566af6364bc066772b4c71c833b6a41e23be5bd.png",
+  "original_sha256": "1335406b8d219f5c5bd2e3c2d566af6364bc066772b4c71c833b6a41e23be5bd",
+  "original_available": true,
+  "review_source_sha256": "1335406b8d219f5c5bd2e3c2d566af6364bc066772b4c71c833b6a41e23be5bd",
+  "webp_src": "img/idioms/103.webp",
+  "webp_sha256": "7863c92b3654e9f979ab74dafea32566bd2516677af841a26b2094669b267af0",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "男子蹲著看水管接進木櫃，暫時鬆了口氣；櫃內卻已積水，書本和紙箱泡濕、層板變形，女子在旁驚慌提醒。",
+  "issues": [
+    "text_brand_watermark: 櫃右下直立書脊有小型仿字標記，原尺寸無法排除類文字，不能通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "為免眼前地板漏水就引流進木櫃，自己滿意卻使書箱層板受更大損害，短視解困反增禍患可懂，不需真喝毒物。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主角放心與櫃內災損同時可見，女子提醒形成反差，手機可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男子托頰手部分遮住、另一臂搭膝，女子伸食指及垂掌五指，兩人肩肘腕自然，蹲姿及拖鞋接地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "軟管由接頭繞入櫃，水外溢使木板彎曲屬損害情節；箱書擺櫃有底板支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "櫃右下直立書脊有小型仿字標記，原尺寸無法排除類文字，不能通過。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代家庭漏水情境，休閒衣牛仔褲拖鞋、成年比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩人衣領均無紅領巾或圍巾，紫衣是上衣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻只求解決眼前困難，而不顧將來更大的禍患。貶義。",
+    "syn": "挖肉補瘡",
+    "ant": ""
+  }
+}

@@ -15816,5 +15816,12 @@
       "path": "backup/batches/2026-11-07-790-808/metadata/841.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "a5ce602de718d8b892bd37100906e90c587ed63f7fc893182068182990574c7e": [
+    {
+      "kind": "current_main_record",
+      "batch": "batch-23-group-1-redraw-35",
+      "source": "docs/illustration-prompts.json#entries/94"
+    }
   ]
 }

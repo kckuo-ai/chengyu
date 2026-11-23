@@ -11883,5 +11883,21 @@
       "commit": "8cb8925cb9507ea79780402b1074a4b53c487755",
       "no": "976"
     }
+  ],
+  "ee4e47bb39195f2d30bad1351878c36c5857ec8e342e26e604a30f1305a2e055": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-23-group-1-redraw-35",
+      "source_file": "112.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
+  ],
+  "eeadd293397f9df7dcc91deb590ef8d8face357fe059c6bb25f542d0f14c338d": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-01",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-01/116.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

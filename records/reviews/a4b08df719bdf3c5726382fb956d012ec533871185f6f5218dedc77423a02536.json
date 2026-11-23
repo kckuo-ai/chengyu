@@ -1,0 +1,81 @@
+{
+  "no": 83,
+  "kind": "existing",
+  "word": "病入膏肓",
+  "path": "/workspace/chengyu-preservation/originals/9a8f7ea3b2a191417f0aae99efb1583975c2578c68b6aa98820a0b4d4cc817aa.png",
+  "original_sha256": "9a8f7ea3b2a191417f0aae99efb1583975c2578c68b6aa98820a0b4d4cc817aa",
+  "original_available": true,
+  "review_source_sha256": "9a8f7ea3b2a191417f0aae99efb1583975c2578c68b6aa98820a0b4d4cc817aa",
+  "webp_src": "img/idioms/83.webp",
+  "webp_sha256": "549accf1e17c478e46b00489094bbb46e2c940d9b6ff438192485765ecbebc21",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "年輕職員對著空錢箱扶頭發愁，老同事抱著收拾好的紙箱揮手離開；背景圖線不斷下降，桌面堆滿文件與卷宗。",
+  "issues": [
+    "meaning: 下降圖、空錢箱與離職同事表達經營危機，但沒有嘗試補救仍失效或已無法挽回的線索，可能只是暫時低潮；不足以確定無藥可救的程度。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "下降圖、空錢箱與離職同事表達經營危機，但沒有嘗試補救仍失效或已無法挽回的線索，可能只是暫時低潮；不足以確定無藥可救的程度。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "空箱與離去同事對照背景下降線，手機可辨經營困境。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "扶頭手五指順髮，另一手扶箱蓋；老同事一掌五指揮別、一掌托箱，兩人兩袖兩腕連續。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "空錢箱鉸鏈接蓋、底落桌，收拾箱由臂掌承托，桌面文件有支撐，圖表有架。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "圖表是無數字折線及箭頭，文件為淡色陰影與紙緣，未見可辨文字字母數字品牌。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代辦公室與兩名成年職員，無病房或古代設定，比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩人藍綠領帶為襯衫窄領帶，均非紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "指人病重，無藥可救。 ＆比喻人、事已到無可挽回的程度。",
+    "syn": "不可救藥、群醫束手",
+    "ant": "不藥而癒"
+  }
+}

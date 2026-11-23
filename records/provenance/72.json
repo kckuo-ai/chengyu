@@ -11308,5 +11308,21 @@
       "path": "backup/batches/2026-11-07-808-828/metadata/872.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "728fd37e4ae6abc71cb25a3ff0656f9e9a4d0d8d0cb545205ff91ea78ca17d68": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-23-group-1-redraw-35",
+      "source_file": "84.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
+  ],
+  "7202b2e807db9b7c4b077f27461af4e99e6bee25093aed9ed491048c92b1d0fb": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-01",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-01/87.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

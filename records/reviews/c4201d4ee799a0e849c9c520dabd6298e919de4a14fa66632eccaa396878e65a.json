@@ -1,0 +1,81 @@
+{
+  "no": 99,
+  "kind": "existing",
+  "word": "洛陽紙貴",
+  "path": "/workspace/chengyu-preservation/originals/3ff9bc75d6ed98e558efbec2ca0068751a0e361ed5f69fa2319c80c8ce91cc54.png",
+  "original_sha256": "3ff9bc75d6ed98e558efbec2ca0068751a0e361ed5f69fa2319c80c8ce91cc54",
+  "original_available": true,
+  "review_source_sha256": "3ff9bc75d6ed98e558efbec2ca0068751a0e361ed5f69fa2319c80c8ce91cc54",
+  "webp_src": "img/idioms/99.webp",
+  "webp_sha256": "6e37346f6015a1fefe8020559be9eab9ebf40d9eca4b775e6565537fa4e7efcc",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "書店外排起長隊，每個人都拿著同一封面的畫冊；店內老少專心翻閱，店員正補上架上的書，桌面還堆著新冊。",
+  "issues": [
+    "hands_feet_pose: 前景持書者手指握邊正常、店員雙手扶書，但遠後隊伍手為小色塊不能核實五指，全人物門檻不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同款作品大量鋪貨、排隊搶讀、各年齡都閱讀，風行流傳廣的規模清楚，與乏人問津相反。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "門內閱讀和門外排隊連續，手機可見熱銷規模與同款封面。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "前景持書者手指握邊正常、店員雙手扶書，但遠後隊伍手為小色塊不能核實五指，全人物門檻不通過。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "書由雙手、桌面和書架承托，排隊者各自站地，貓坐座椅，無懸浮堆書。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全冊封面風景無書名，書架無字標，未見字母數字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區書店、老人成人國小孩子便服，比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "紅色僅前景孩子上衣，隊伍無紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容作品風行一時，流傳甚廣。褒義。",
+    "syn": "",
+    "ant": "乏人問津"
+  }
+}

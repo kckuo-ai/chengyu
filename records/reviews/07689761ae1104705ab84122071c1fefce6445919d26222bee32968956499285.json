@@ -1,0 +1,68 @@
+{
+  "no": 75,
+  "kind": "regenerate",
+  "word": "門可羅雀",
+  "path": "/workspace/idiom-review/batch-23-group-1-redraw-35/batch-23/75.png",
+  "original_sha256": "45e84b9e4dcfc5fd8698d6215d63e51b8834152d78e3d167fb87b523be104c34",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-23-group-1-redraw-35",
+  "alt": "店主托腮坐在空蕩的店裡，桌椅整齊卻沒有客人，貨架仍備著食品；門外只有幾隻麻雀啄食，整條騎樓十分安靜冷清。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "採一般來客稀少義，貨備好而全店桌椅空、店主愁候，門外僅雀，無生意的冷清明確。 已實際比對全部118張候選及本批其他重畫圖，未見主動作、人物關係與道具安排近乎相同而可互換的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "空騎樓與空桌占大面積、店主單人，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "搭桌五指與托頰握指自然、肩肘腕連續，雙鞋踏地坐凳無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "架罐桌椅結構及腳落地、食品入罐籃、雀雙爪落地，支撐正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "瓶罐全部無標籤、店無招牌、鞋帶非字，無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代磁磚騎樓小店、便服圍裙成人自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "cf9c42aef8548b410885056a0b6f01818406d5da3c1ac75b099316f9a66b0166",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/93852517ff5468cb29e9738e19c9a458461e720fec7e92f48234b529d08c7f36.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; all six unresized native tiles, including miniature people in illustration84 and background pupils in93",
+    "comparison_candidates": 118,
+    "comparison_method": "Five comparison sheets with 118 published candidates actually viewed, plus full 1099 and1514; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容做官的人失勢後賓客稀少的景況。＆泛指一般來客稀少、門庭冷清的景況。",
+    "syn": "",
+    "ant": "臣門如市、戶限為穿、車馬盈門、往來如織、門庭若市、賓客如雲、賓客盈門"
+  },
+  "webp_src": "img/idioms/75-45e84b9e4dcf.webp",
+  "webp_sha256": "94be728604068577a04841e45ff644737117aa41fa2002806b67b72ab42f71f9"
+}

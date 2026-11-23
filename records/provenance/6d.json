@@ -12437,5 +12437,20 @@
       "path": "backup/batches/2026-11-07-849-855/metadata/904.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "6d560728519e37177a692c9f4415ea5752f9fda34697e29bb4285a33718fc7b6": [
+    {
+      "kind": "current_main_record",
+      "batch": "batch-23-group-1-redraw-35",
+      "source": "docs/illustration-prompts.json#entries/77"
+    }
+  ],
+  "6d46d718b71d8be62c4edf578e837e1cc7dcb9bd38f62d204ddd65563e31a3ea": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-01",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-01/106.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

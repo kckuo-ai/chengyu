@@ -1,0 +1,83 @@
+{
+  "no": 96,
+  "kind": "existing",
+  "word": "車水馬龍",
+  "path": "/workspace/chengyu-preservation/originals/cb463881b26d286076f074855ddf3d29dfac72ddb1f705abaa8e959384e547ce.png",
+  "original_sha256": "cb463881b26d286076f074855ddf3d29dfac72ddb1f705abaa8e959384e547ce",
+  "original_available": true,
+  "review_source_sha256": "cb463881b26d286076f074855ddf3d29dfac72ddb1f705abaa8e959384e547ce",
+  "webp_src": "img/idioms/96.webp",
+  "webp_sha256": "d012363fa0a8fc10fe82493fd01e02ed7777b61376b4a5dd6de3876023e4010f",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "寬闊的都市大道擠滿來往車輛，公車與汽車延伸到遠處；兩側商店人潮熱絡，行人和單車正穿過前景斑馬線。",
+  "issues": [
+    "hands_feet_pose: 大量街上行人與車內人物的手僅幾像素或黏連色塊，原尺寸不能核實五指，無法通過全人物門檻。",
+    "objects_contact_perspective: 左側車道多車露車尾往遠處，綠色公車卻同車道迎面而來，前後方向混亂，不能確認交通配置合理；其餘輪軸接地。",
+    "text_brand_watermark: 多車車頭有橢圓廠徽樣圖案，無法排除品牌標記；車牌多空白，不捏造可讀號碼。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "密集車流、人潮與繁華商店共同呈現都市熱鬧，與空店冷清相反，不只是單車特寫。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "高處廣角把道路延伸與兩側人流同時呈現，手機可辨繁忙規模。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "大量街上行人與車內人物的手僅幾像素或黏連色塊，原尺寸不能核實五指，無法通過全人物門檻。"
+    },
+    "objects_contact_perspective": {
+      "passed": false,
+      "evidence": "左側車道多車露車尾往遠處，綠色公車卻同車道迎面而來，前後方向混亂，不能確認交通配置合理；其餘輪軸接地。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "多車車頭有橢圓廠徽樣圖案，無法排除品牌標記；車牌多空白，不捏造可讀號碼。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣都市幹道、公車、行人及街區生活可辨，無古裝。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐區未見人物紅領巾或紅圍巾，紅色主要為車身及路人上衣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容繁華熱鬧的景象。",
+    "syn": "車馬盈門、車馬輻輳、車馬駢溢、車馬駢闐、門庭若市、肩摩轂擊、熙來攘往、熙熙攘攘",
+    "ant": "門可羅雀"
+  }
+}

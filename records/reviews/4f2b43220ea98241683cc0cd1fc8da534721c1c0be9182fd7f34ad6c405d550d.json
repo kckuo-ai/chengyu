@@ -1,0 +1,68 @@
+{
+  "no": 111,
+  "kind": "regenerate",
+  "word": "孤掌難鳴",
+  "path": "/workspace/idiom-review/batch-23-group-1-redraw-35/batch-23/111.png",
+  "original_sha256": "f8de32208a0d364239076a3fe8c590d02c2e3233f33b47c0baef059c5d6ca37e",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-23-group-1-redraw-35",
+  "alt": "男子一人撐著兩根帳棚柱，努力張開雙臂仍無法讓另一側立起，棚布和支架已倒落草地；兩位原可幫忙的夥伴卻提袋離開。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同伴離去不助、單人兩手不足支起多點帳棚，孤立無助而不能成事清楚，不只一個人累。 已實際比對全部118張候選及本批其他重畫圖，未見主動作、人物關係與道具安排近乎相同而可互換的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前景倒半帳棚和吃力主角對後景離去者，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "雙握柱各拇指四曲指合理、後人握提袋掌受提把遮擋、臂肩連續，六鞋步態與站地自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "折棚桿有轉軸、左側倒地不是無故斷裂，右柱腳與人腳接地，布受骨架托，支撐合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "棚布純色、提袋衣鞋無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區草地搭棚、便服成人比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "b7924bde6a6693a880440f285529dc01a96c5a6d47768ae61e593a2bc7c07218",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/92ec4f719c7c3b728c17cdefc1af1e194ceb81585ac8421223523b174ff73d10.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; all six unresized native tiles, including miniature people in illustration84 and background pupils in93",
+    "comparison_candidates": 118,
+    "comparison_method": "Five comparison sheets with 118 published candidates actually viewed, plus full 1099 and1514; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻人孤立無助，不能成事。",
+    "syn": "獨木難支",
+    "ant": "眾志成城、眾擎易舉"
+  },
+  "webp_src": "img/idioms/111-f8de32208a0d.webp",
+  "webp_sha256": "689c8c1d6f524e758ab084d8dfa9e53b3a0b1cbee2d117c78cb3780712e818a7"
+}

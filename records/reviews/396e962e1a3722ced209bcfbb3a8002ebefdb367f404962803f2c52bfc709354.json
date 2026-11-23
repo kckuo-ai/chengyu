@@ -1,0 +1,81 @@
+{
+  "no": 92,
+  "kind": "existing",
+  "word": "閉門造車",
+  "path": "/workspace/chengyu-preservation/originals/dbacbbe1cb86a4efdccd3eed39963554d8dd503624a483c139f89f9a23f4e69c.png",
+  "original_sha256": "dbacbbe1cb86a4efdccd3eed39963554d8dd503624a483c139f89f9a23f4e69c",
+  "original_available": true,
+  "review_source_sha256": "dbacbbe1cb86a4efdccd3eed39963554d8dd503624a483c139f89f9a23f4e69c",
+  "webp_src": "img/idioms/92.webp",
+  "webp_sha256": "0819d0e5ddd8c2317e7c698d92a7537c5b47e42a4e383f69910ad4dfe820e41c",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "木工男子在室內推動大型木車，女子站在開著的門邊張手提醒；桌上放著木車設計圖、捲尺、鉛筆和各種木料。",
+  "issues": [
+    "meaning: 只有把成車推向開門的畫面，前輪已到門口，無法確定車真的過寬受阻，也未呈現事前忽略實際要求；可能是成功出車，不能只憑車和門聯想典故。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "只有把成車推向開門的畫面，前輪已到門口，無法確定車真的過寬受阻，也未呈現事前忽略實際要求；可能是成功出車，不能只憑車和門聯想典故。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "木車居中、門框與圖紙可辨，手機仍清楚，但無法自行補出受阻因果。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "推車手握木條、另一臂被車遮，女子兩掌側向手指自然疊合、兩腕接袖，兩人四鞋接地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "車輪輪輻接輪圈軸，圖紙與捲尺置桌，敞門鉸鏈成立；不把不明的尺寸差異捏造成物理穿模。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "設計圖只有木車線描，捲尺有刻度短線但未見可讀字號，器具無品牌題字水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "便服圍裙木工與現代捲尺工作室可在台灣成立，木車只是手作品而非古代全場設定。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "圍裙及襯衫領無紅領巾或圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻凡事只憑主觀辦事，不問是否切合實際。貶義。",
+    "syn": "",
+    "ant": ""
+  }
+}

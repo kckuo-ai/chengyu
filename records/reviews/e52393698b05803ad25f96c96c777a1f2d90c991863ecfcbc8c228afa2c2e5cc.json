@@ -1,0 +1,81 @@
+{
+  "no": 70,
+  "kind": "existing",
+  "word": "騎虎難下",
+  "path": "/workspace/chengyu-preservation/originals/b6c7cc7e52aaf6a7349dffe0e95c93201407b5bbea1277d879f9e558179d3474.png",
+  "original_sha256": "b6c7cc7e52aaf6a7349dffe0e95c93201407b5bbea1277d879f9e558179d3474",
+  "original_available": true,
+  "review_source_sha256": "b6c7cc7e52aaf6a7349dffe0e95c93201407b5bbea1277d879f9e558179d3474",
+  "webp_src": "img/idioms/70.webp",
+  "webp_sha256": "a4da35835c7c533ab63b447da52cd458ecc57a710521f0cc8a061ce90579833a",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "穿背心的表演者站在舞台邊緊張回頭，台下觀眾微笑等待；布幕後的桌上放著高帽、紙牌、木盒及紅色布料。",
+  "issues": [
+    "meaning: 只呈現上台緊張、回頭看道具與觀眾等待，沒有已做事情使其迫於情勢不能停止的明確限制；可能只是怯場，無法區分進退兩難或普通表演。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "只呈現上台緊張、回頭看道具與觀眾等待，沒有已做事情使其迫於情勢不能停止的明確限制；可能只是怯場，無法區分進退兩難或普通表演。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "表演者在中央，觀眾與後台左右分區、面部表情清楚，手機仍可辨舞台。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "表演者攤掌為五指，另一手握拳，兩袖接肩肘自然、兩鞋踩台；觀眾合掌者手指合理重疊，其餘由座椅遮蔽。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "帽、空白紙牌、箱子都在桌面，桌腳、椅腳與舞台支撐成立，燈有支架。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "紙牌全白、帽箱無商標，觀眾衣服無文字數字，沒有類字形或水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣學校或社區表演場地，國小觀眾與成年觀眾比例自然，表演者襯衫背心長褲。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "頸上紅色物為短小蝴蝶領結，左右環與中央結清楚，並非領巾或圍巾；舞台紅布不繫人物頸部。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻事情迫於情勢，無法中止，只好繼續做下去。",
+    "syn": "進退兩難、進退維谷",
+    "ant": "來去自如"
+  }
+}

@@ -13426,5 +13426,21 @@
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470",
       "path": "backup/batches/2026-11-07-845-846/SHA256SUMS"
     }
+  ],
+  "a0bf7bf53893edd90b028bd0ea3646038d308a03ae0f0f74ea883691ddb779ad": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-23-group-1-redraw-35",
+      "source_file": "103.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
+  ],
+  "a0ddc04f4310d210f4563e5555c60e1b54931615cd034646c480d2c5fda6f6b2": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-23-group-1-redraw-35",
+      "source_file": "redraw-proposals.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

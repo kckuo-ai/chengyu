@@ -1,0 +1,81 @@
+{
+  "no": 69,
+  "kind": "existing",
+  "word": "一諾千金",
+  "path": "/workspace/chengyu-preservation/originals/eda3d899eb83477d403cade683e164f17e9f52999ac05f06ab4426a4148a745a.png",
+  "original_sha256": "eda3d899eb83477d403cade683e164f17e9f52999ac05f06ab4426a4148a745a",
+  "original_available": true,
+  "review_source_sha256": "eda3d899eb83477d403cade683e164f17e9f52999ac05f06ab4426a4148a745a",
+  "webp_src": "img/idioms/69.webp",
+  "webp_sha256": "d97a4843d8b1d22bb23af002ab67b2cd0cf064395129b1f14382944a0f3b6219",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "兩個孩子先勾小指約定，後來男孩冒雨把裝進透明袋的畫冊送到女孩家門前；女孩開心接過，門內透出暖光。",
+  "issues": [
+    "objects_contact_perspective: 畫冊有手與塑膠袋承托，但黃傘下男孩兩手都交冊、傘柄沒有清楚握持或固定點；無法確認由誰支撐雨傘，依不確定即不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "先勾指約定、後同一男孩冒雨送還同款畫冊，守信與履行有連續因果，不是只畫朋友互贈物品。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右約定與雨中交付兩幕，同款衣髮和畫冊清楚；手機可看出人物與天氣變化。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "勾指雙手彎握與持冊手遮擋自然；雨幕男孩兩手各扶冊側、女孩一手接冊，另一手在冊後遮住，沒有額外肩肘，腳被半身取景裁去。"
+    },
+    "objects_contact_perspective": {
+      "passed": false,
+      "evidence": "畫冊有手與塑膠袋承托，但黃傘下男孩兩手都交冊、傘柄沒有清楚握持或固定點；無法確認由誰支撐雨傘，依不確定即不通過。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "畫冊只有風景畫，袋口封線非文字；衣服與門面無字母數字品牌或水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "國小比例孩子穿帽衫、便服與背包，台灣現代住宅門口雨景自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "男孩藍帽衫與女孩米白領口皆無紅領巾，紅色為背包帶。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容信守承諾，說話算數。褒義。",
+    "syn": "一言為定",
+    "ant": "出爾反爾、言而無信、食言而肥、輕諾寡信"
+  }
+}

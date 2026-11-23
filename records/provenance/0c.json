@@ -14009,5 +14009,35 @@
       "path": "backup/batches/2026-11-07-770-790/reviews/824.review.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "0ce17e9230b5b15a8453e30a27778b96839bab7f0e6a6e3ad1eb79ed13d60d6f": [
+    {
+      "kind": "current_main_record",
+      "batch": "batch-23-group-1-redraw-35",
+      "source": "docs/illustration-prompts.json#entries/79"
+    }
+  ],
+  "0c66515f80464e2251041087d230f56d8b06fb99780ed30e6dcbd76f08801dc4": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-23-group-1-redraw-35",
+      "source_file": "80.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
+  ],
+  "0c0c017dd69ea094d0aa6dd1ab966108774fb08d5f0742a5e88aeadde57c011a": [
+    {
+      "kind": "current_main_record",
+      "batch": "batch-23-group-1-redraw-35",
+      "source": "docs/illustration-prompts.json#entries/83"
+    }
+  ],
+  "0c66ffcec1f380d4950f8ce7b4687b73711d7b1c9b275227a481b1f5e9ce6079": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-23-group-1-redraw-35",
+      "source_file": "100.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

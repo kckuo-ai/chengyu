@@ -1,0 +1,68 @@
+{
+  "no": 72,
+  "kind": "regenerate",
+  "word": "孤注一擲",
+  "path": "/workspace/idiom-review/batch-23-group-1-redraw-35/batch-23/72.png",
+  "original_sha256": "50a5497f2dbc9ee28d4eacf0d5c4459a6cfe6bb914df762e9ab6e8d1331fbbc1",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-23-group-1-redraw-35",
+  "alt": "男子滿頭汗，把自己全部紅籌碼推進桌遊中央，面前的小盤已空；另兩名玩家仍各留一盤籌碼，驚訝又擔心地看著他的決定。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "緊張局面中把自己整盤資源全推中央、空盤對他人保留籌碼，冒險投入全部的關鍵清楚。 已實際比對全部118張候選及本批其他重畫圖，未見主動作、人物關係與道具安排近乎相同而可互換的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "空盤、雙掌全推與他人保留資源，手機可辨對比。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "三人六掌各五指清楚、手腕連前臂，坐姿下身受桌遮擋，無分岔共掌。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "籌碼受桌遊板托、木盤落桌、推掌碰籌碼，桌椅透視自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "素牆無書，棋盤僅圓點路徑、籌碼素面，無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代家庭桌遊、便服成人與比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "2d32e9fa894a17d98d3e0876a0946e0f63eab417466d441f10fd7f3b6c1680af",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/70c577b1cd4f7e75e63574fcd91ec852437f5a9e39cfd8b56cb25a72b415e060.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; all six unresized native tiles, including miniature people in illustration84 and background pupils in93",
+    "comparison_candidates": 118,
+    "comparison_method": "Five comparison sheets with 118 published candidates actually viewed, plus full 1099 and1514; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻危急時，投入全部力量，作最後的冒險。",
+    "syn": "背水一戰、背城借一、破釜沉舟",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/72-50a5497f2dbc.webp",
+  "webp_sha256": "7e1173fd3065c13f18ab1c040ca8f8c73604cf7fec583174c1626a346000a5a3"
+}

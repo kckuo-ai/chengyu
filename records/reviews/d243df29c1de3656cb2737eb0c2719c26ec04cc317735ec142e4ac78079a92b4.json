@@ -1,0 +1,81 @@
+{
+  "no": 97,
+  "kind": "existing",
+  "word": "未雨綢繆",
+  "path": "/workspace/chengyu-preservation/originals/01db370c54f80bbaef1f741c559e60c298f7d8316ba8ab53e55cd2f7ec089db9.png",
+  "original_sha256": "01db370c54f80bbaef1f741c559e60c298f7d8316ba8ab53e55cd2f7ec089db9",
+  "original_available": true,
+  "review_source_sha256": "01db370c54f80bbaef1f741c559e60c298f7d8316ba8ab53e55cd2f7ec089db9",
+  "webp_src": "img/idioms/97.webp",
+  "webp_sha256": "5855a5b50733db2dfb11d8c411eee96419ed366b229a77f93f7765626fecf52e",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "烏雲逐漸靠近，母親把盆栽搬進屋內，父親與孩子把水、毯子、電池和手電筒裝箱；窗外尚未開始下雨。",
+  "issues": [
+    "text_brand_watermark: 右後書架多本書脊有上下假字筆畫，原尺寸清楚不是全素面，無法通過無類文字要求。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "災害未到先搬入盆栽、備妥應急物品，預防在先的時間與目的明確，不是事後補救。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "窗外烏雲與室內分工準備前後呼應，手機可辨防範行動。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "父子握水瓶、女孩雙手握燈、母親托盆手指因器物遮擋合理，四人各兩袖連肩腕，跪坐兩童腿折在身後正常。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "水瓶、毯電池入箱，箱底落毯、燈由雙手托，盆由母親雙手扶，物件有承托。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "右後書架多本書脊有上下假字筆畫，原尺寸清楚不是全素面，無法通過無類文字要求。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代家庭防颱防災用品、國小子女及父母便服，衣著比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "全家領口無紅領巾圍巾，男孩赭紅衣為整件圓領上衣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻事先預備以防患未然。",
+    "syn": "曲突徙薪、有備無患、防患未然",
+    "ant": "江心補漏、臨陣磨槍、臨渴掘井"
+  }
+}

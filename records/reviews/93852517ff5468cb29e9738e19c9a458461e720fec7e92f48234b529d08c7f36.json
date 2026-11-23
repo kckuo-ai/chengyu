@@ -1,0 +1,82 @@
+{
+  "no": 75,
+  "kind": "existing",
+  "word": "門可羅雀",
+  "path": "/workspace/chengyu-preservation/originals/cf9c42aef8548b410885056a0b6f01818406d5da3c1ac75b099316f9a66b0166.png",
+  "original_sha256": "cf9c42aef8548b410885056a0b6f01818406d5da3c1ac75b099316f9a66b0166",
+  "original_available": true,
+  "review_source_sha256": "cf9c42aef8548b410885056a0b6f01818406d5da3c1ac75b099316f9a66b0166",
+  "webp_src": "img/idioms/75.webp",
+  "webp_sha256": "17eee0578706d724d27eafb0afed425492e53e6a94d5b28cda4fdfe9173d692e",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "小店裡的女子托腮望著空桌椅，門前幾隻麻雀自在啄食；路人沿街走過，沒有人進店，玻璃櫃裡仍擺著商品。",
+  "issues": [
+    "hands_feet_pose: 店主托頰腕臂自然，但左側四名路人的垂手均為小色塊、原尺寸不能確認五指，依嚴格門檻不通過。",
+    "text_brand_watermark: 玻璃櫃與層架罐瓶標籤帶細小褐色橫直紋，不能排除假字；近景果葉圖案本身不是字，仍因背景類字形不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "營業店內空桌、店主等待而門口鳥啄食、路人不進店，呈現一般門庭冷清義，不要求必有失官典故。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "門口麻雀與空店同入鏡，店主失落可辨，手機可讀冷清氛圍。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "店主托頰腕臂自然，但左側四名路人的垂手均為小色塊、原尺寸不能確認五指，依嚴格門檻不通過。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "鳥雙足落石板，桌椅、罐子與吊燈各有承托或吊繩，店主肘置檯面。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "玻璃櫃與層架罐瓶標籤帶細小褐色橫直紋，不能排除假字；近景果葉圖案本身不是字，仍因背景類字形不通過。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代社區小店與便服路人可符合台灣街區，復古路燈不單獨視為外國場景。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "店主米白衣配綠圍裙，路人便服均無紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容做官的人失勢後賓客稀少的景況。＆泛指一般來客稀少、門庭冷清的景況。",
+    "syn": "",
+    "ant": "臣門如市、戶限為穿、車馬盈門、往來如織、門庭若市、賓客如雲、賓客盈門"
+  }
+}

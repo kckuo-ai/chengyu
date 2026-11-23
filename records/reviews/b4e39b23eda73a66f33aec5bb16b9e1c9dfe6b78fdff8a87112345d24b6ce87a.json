@@ -1,0 +1,68 @@
+{
+  "no": 79,
+  "kind": "regenerate",
+  "word": "膾炙人口",
+  "path": "/workspace/idiom-review/batch-23-group-1-redraw-35/batch-23/79.png",
+  "original_sha256": "85b3bb37034ca1f210dfac48d5710d8c9fbe846565fdde7afb0e1b97539c529a",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-23-group-1-redraw-35",
+  "alt": "同一本綠樹繪本受到不同年齡讀者喜愛，親子一起指著書頁欣賞，男子也熱心把它介紹給長者；展示架上還排著相同封面的書。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "親子欣賞與成年者熱心向長者推介同一本精美書、各年齡喜愛傳閱，採作品受讚賞傳頌義，非食物字面。 已實際比對全部118張候選及本批其他重畫圖，未見主動作、人物關係與道具安排近乎相同而可互換的構圖。 與本批99多人購書相比，本圖跨齡欣賞推薦，主活動不同。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "同封面串兩組讀者及展示架，手機可讀共享稱讚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "指圖、托書、遞書與接書手五指或書遮自然，臂肩連續、坐姿下肢受桌遮。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "書本受掌托、開書摺頁連續、架層板托書、桌椅支撐合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "書封與頁僅同樹風景，無標題書脊標記，衣物背景亦無字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代閱讀空間、運動服國小孩童與便服成人長者比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "1fa9c754b909e92a2c279b9635d8faa635731bac1ee464991615dff743f28242",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/66e32e78eb4ee81fa9982fe405dc47eef337bffd989772b7e7cdc415976c1c13.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; all six unresized native tiles, including miniature people in illustration84 and background pupils in93",
+    "comparison_candidates": 118,
+    "comparison_method": "Five comparison sheets with 118 published candidates actually viewed, plus full 1099 and1514; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "美味的食物人人愛吃。＆比喻美妙的詩文為人所讚賞、傳誦。褒義。＆比喻事物精妙而備受稱誦。褒義。",
+    "syn": "口碑載道",
+    "ant": "乏善可陳"
+  },
+  "webp_src": "img/idioms/79-85b3bb37034c.webp",
+  "webp_sha256": "212d7e46d48663ed84a4c691070f08bbe5f159579576575bb229e02d24813226"
+}

@@ -1,0 +1,81 @@
+{
+  "no": 110,
+  "kind": "existing",
+  "word": "假公濟私",
+  "path": "/workspace/chengyu-preservation/originals/eb3158831960d255e32d8110ad26475576c304b3884ac88752b473a92a21b6ef.png",
+  "original_sha256": "eb3158831960d255e32d8110ad26475576c304b3884ac88752b473a92a21b6ef",
+  "original_available": true,
+  "review_source_sha256": "eb3158831960d255e32d8110ad26475576c304b3884ac88752b473a92a21b6ef",
+  "webp_src": "img/idioms/110.webp",
+  "webp_sha256": "ef7e8ad7191f09c0c6d26dcdd498dc817d077dd74fe990340884e90bff65fae8",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "女子把一車花盆搬到自家木柵欄內，笑著回望公共花圃；兩位戴手套的夥伴站在空了一片的花圃旁，驚訝地指著她。",
+  "issues": [
+    "meaning: 可見挪花回私家，但沒有她假借公家名義取得權限的過程，可能只是偷花或誤搬，假公名義謀私利的關鍵不清楚。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "可見挪花回私家，但沒有她假借公家名義取得權限的過程，可能只是偷花或誤搬，假公名義謀私利的關鍵不清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "空花圃、載花車與私宅柵欄形成對比，手機可辨搬花方向。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "三人戴手套，張掌五指、指向三指彎拇指扣，持盆手指被盆遮擋合理，兩袖連續，鞋底接地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "花盆在車板、輪軸接車架，手扶盆送到柵欄內，盆栽有土和盆底支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "手套衣服花盆無字，圍欄及工具無品牌數字水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區公共花圃及私人院落，便服圍裙成人符合園藝情境。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "三人領口無紅領巾紅圍巾，紅色為花朵。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "假借公家的名義以謀取個人的私利。",
+    "syn": "營私舞弊",
+    "ant": "公而忘私、洗手奉職、涓滴歸公、廉潔奉公"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "no": 89,
+  "kind": "existing",
+  "word": "自相矛盾",
+  "path": "/workspace/chengyu-preservation/originals/38fe6f1653d8c3815db14a84f22bf27f10cf12e98427c6c4e375f99a3df58511.png",
+  "original_sha256": "38fe6f1653d8c3815db14a84f22bf27f10cf12e98427c6c4e375f99a3df58511",
+  "original_available": true,
+  "review_source_sha256": "38fe6f1653d8c3815db14a84f22bf27f10cf12e98427c6c4e375f99a3df58511",
+  "webp_src": "img/idioms/89.webp",
+  "webp_sha256": "b37ff564d8a75ddb9f2b288fd6a3f8bd068bb7b98cccd8905bd55b78a524f87b",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "古裝攤販一手舉長矛、一手拿圓盾自豪推銷，顧客卻把另一支矛指向盾面並托腮發問；旁人圍觀露出疑惑表情。",
+  "issues": [
+    "meaning: 沒有文字或兩種互斥主張圖示，只見賣武器與顧客測試盾牌，不能從畫面確定販者的前後說法互相抵觸，僅靠典故物件不夠。",
+    "hands_feet_pose: 前景握矛、托盾與托腮手由各自袖腕連接；遠後攤商與路人露出小色塊手，五指不能核實。",
+    "taiwan_context: 全幅束髮古袍與古代兵器市集，不符合台灣現代場景要求。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "沒有文字或兩種互斥主張圖示，只見賣武器與顧客測試盾牌，不能從畫面確定販者的前後說法互相抵觸，僅靠典故物件不夠。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "矛尖指盾、攤販與提問者在前景，手機可辨道具與反應。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "前景握矛、托盾與托腮手由各自袖腕連接；遠後攤商與路人露出小色塊手，五指不能核實。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "盾由手握上緣、矛桿由手握持，攤上武器落桌，棚布接柱，無穿透身體。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "盾紋為動物裝飾，棚布和衣物未見文字數字品牌或水印。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "全幅束髮古袍與古代兵器市集，不符合台灣現代場景要求。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "紅色是矛頭繫穗，不繞人物頸部，眾人無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻言語或行事前後無法呼應，互相牴觸。",
+    "syn": "",
+    "ant": ""
+  }
+}

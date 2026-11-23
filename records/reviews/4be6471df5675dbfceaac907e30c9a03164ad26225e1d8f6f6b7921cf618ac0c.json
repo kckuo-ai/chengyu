@@ -1,0 +1,68 @@
+{
+  "no": 116,
+  "kind": "regenerate",
+  "word": "耳濡目染",
+  "path": "/workspace/idiom-review/batch-23-group-1-redraw-35/batch-23/116.png",
+  "original_sha256": "e28730890b54e59b338976b153d86fa12c53c1bfd9db172db7014741e2da7e5c",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-23-group-1-redraw-35",
+  "alt": "女孩白天聽母親講花園故事，傍晚又聽祖父介紹動物，總是開心靠在旁邊看圖；後來她自己也喜歡捧著繪本，安靜翻閱欣賞。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "不同時段反覆聽長輩說故事、看他們閱讀，後來自己主動讀書，經常接觸而受影響清楚，非一次教會識字。 已實際比對全部118張候選及本批其他重畫圖，未見主動作、人物關係與道具安排近乎相同而可互換的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "三幕同女孩、親子共讀到獨立閱讀連貫，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "指圖、持書、托頰與翻頁手五指或書遮合理，臂肩連續，盤坐腳襪與沙發坐姿自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "書脊頁面連合、書受手腿托、身體受沙發或地墊支撐，無漂浮。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "所有頁面只有花園動物山水圖、背景無書架文字，衣物窗景無字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代家庭、國小女孩運動服與便服長輩比例自然，窗外現代城市輪廓。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "7eb8adbb48d9d403b2aa0c2eae6cb665c12e1aba4eb1a21a9363f18ec7f7bf08",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/eeadd293397f9df7dcc91deb590ef8d8face357fe059c6bb25f542d0f14c338d.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; all six unresized native tiles, including miniature people in illustration84 and background pupils in93",
+    "comparison_candidates": 118,
+    "comparison_method": "Five comparison sheets with 118 published candidates actually viewed, plus full 1099 and1514; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "經常聽到、看到而深受影響。",
+    "syn": "潛移默化",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/116-e28730890b54.webp",
+  "webp_sha256": "2520c3d0b618d0828e7eaf8082737c4921d28c6b1f1264ec14963ca4146cd7e5"
+}

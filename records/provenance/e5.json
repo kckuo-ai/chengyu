@@ -13010,5 +13010,21 @@
       "path": "backup/batches/2026-11-07-770-790/reviews/827.review.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "e52393698b05803ad25f96c96c777a1f2d90c991863ecfcbc8c228afa2c2e5cc": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-01",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-01/70.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
+  ],
+  "e582f031e10d69cc3b7187db33e9bfa5cb5000fbc49727658514e734ec0061e8": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-01",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-01/112.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

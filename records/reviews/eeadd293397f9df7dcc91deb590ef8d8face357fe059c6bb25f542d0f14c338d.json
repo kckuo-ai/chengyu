@@ -1,0 +1,81 @@
+{
+  "no": 116,
+  "kind": "existing",
+  "word": "耳濡目染",
+  "path": "/workspace/chengyu-preservation/originals/7eb8adbb48d9d403b2aa0c2eae6cb665c12e1aba4eb1a21a9363f18ec7f7bf08.png",
+  "original_sha256": "7eb8adbb48d9d403b2aa0c2eae6cb665c12e1aba4eb1a21a9363f18ec7f7bf08",
+  "original_available": true,
+  "review_source_sha256": "7eb8adbb48d9d403b2aa0c2eae6cb665c12e1aba4eb1a21a9363f18ec7f7bf08",
+  "webp_src": "img/idioms/116.webp",
+  "webp_sha256": "c21da153dda727d84ac5d3afb36e4c5328b1fd26693f2d3b5f3e917c8b6657ed",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "女孩先聽母親念畫冊，再聽祖父指圖說故事，後來自己坐在地毯上專心翻讀；相同書架和沙發伴著她養成閱讀習慣。",
+  "issues": [
+    "text_brand_watermark: 三格書架大量彩色書脊有直排假字與 T 樣標記，原尺寸可辨，無類文字項不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "多次看聽家人閱讀後自行閱讀，反覆接觸到習慣受影響的前後因果清楚，非只聽一次故事。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "三格同人與同一閱讀環境，手機可辨由聽讀到自讀的變化。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持書掌與托頰指被書或臉部分遮擋合理，祖父指圖一食指其餘彎握，女孩盤腿兩腳交疊自然，無多臂。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "書冊有手、膝或桌托，沙發支撐座位，地毯承盤坐，杯與架書不懸浮。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "三格書架大量彩色書脊有直排假字與 T 樣標記，原尺寸可辨，無類文字項不通過。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代家庭、祖父母與國小女孩比例、便服家居場景自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "女孩花色上衣不是紅領巾，家人頸部均無紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "經常聽到、看到而深受影響。",
+    "syn": "潛移默化",
+    "ant": ""
+  }
+}

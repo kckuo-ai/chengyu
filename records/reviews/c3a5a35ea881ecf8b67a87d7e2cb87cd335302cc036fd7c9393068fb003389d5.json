@@ -1,0 +1,68 @@
+{
+  "no": 70,
+  "kind": "regenerate",
+  "word": "騎虎難下",
+  "path": "/workspace/idiom-review/batch-23-group-1-redraw-35/batch-23/70.png",
+  "original_sha256": "df87b267f50cc5344a5871e933a2dd90cf074451fa9fbe480afb6451fdd07d90",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-23-group-1-redraw-35",
+  "alt": "男孩原先自信拉開布幕招呼觀眾，後來卻抱著裂開的樹形道具皺眉；演出已開始，同伴伸手等待接續，他仍硬著頭皮走上台。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "已主動開幕招呼觀眾，才遇道具破裂；觀眾坐定、同伴伸手依賴接續，他勉強持壞道具繼續，情勢迫其無法中止比單幕怯場具體。 已實際比對全部118張候選及本批其他重畫圖，未見主動作、人物關係與道具安排近乎相同而可互換的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "兩幕同臺同人、笑容轉為流汗為難清楚，手機可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "開幕張掌五指、拉幕及持樹握指自然、同伴伸掌五指，觀眾僅胸背手在框外，舞臺四鞋皆有支撐。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "樹形道具裂口用膠帶暫固、雙手承托，布幕掛上方，人物站舞臺，無漂浮。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "布景僅樹木、衣物鞋及幕無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小小舞臺、便服學童與成年觀眾比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "b6c7cc7e52aaf6a7349dffe0e95c93201407b5bbea1277d879f9e558179d3474",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/e52393698b05803ad25f96c96c777a1f2d90c991863ecfcbc8c228afa2c2e5cc.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; all six unresized native tiles, including miniature people in illustration84 and background pupils in93",
+    "comparison_candidates": 118,
+    "comparison_method": "Five comparison sheets with 118 published candidates actually viewed, plus full 1099 and1514; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻事情迫於情勢，無法中止，只好繼續做下去。",
+    "syn": "進退兩難、進退維谷",
+    "ant": "來去自如"
+  },
+  "webp_src": "img/idioms/70-df87b267f50c.webp",
+  "webp_sha256": "12047822fe00095911275e9386c2a208fdf7d5a4224b188db3c96891edd476da"
+}

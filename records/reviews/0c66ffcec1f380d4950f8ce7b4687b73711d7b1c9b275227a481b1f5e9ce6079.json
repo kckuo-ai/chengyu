@@ -1,0 +1,68 @@
+{
+  "no": 100,
+  "kind": "regenerate",
+  "word": "孤陋寡聞",
+  "path": "/workspace/idiom-review/batch-23-group-1-redraw-35/batch-23/100.png",
+  "original_sha256": "7383de1448f94998c43f35c768c5063dc4b6c12c61780d8aa173e4edf8afc901",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-23-group-1-redraw-35",
+  "alt": "男孩原先只盯著一盆小景觀，對桌外事物不熟悉；同伴接著拿出岩石、植物、貝殼與鳥類模型分享，他才睜大眼睛，驚訝看著。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "只熟小盆景、面對同學常見多樣自然物驚訝陌生，見聞淺窄對廣泛認識清楚，非字面孤居。 已實際比對全部118張候選及本批其他重畫圖，未見主動作、人物關係與道具安排近乎相同而可互換的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "單盆到豐富標本、茫然與同伴熟知對照，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "指盆、托頰、搭桌、持石與持根球手五指或物件遮擋合理，肩肘相連、椅下腳自然落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "標本模型有木座支架、石植受手托、盆與貝放桌，根球土可被手托，物理合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "標本葉脈鳥羽非字，衣鞋背景及盆架無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小自然課、素面運動服孩童年齡比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "ad848fe8039928923a19f400d11c3253b1b52cb5d30697d0ac4b3c431bca846a",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/cde30e359d52e16a41d612a382895e031204f434420e0a20e5dc8f3d62b38d2a.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; all six unresized native tiles, including miniature people in illustration84 and background pupils in93",
+    "comparison_candidates": 118,
+    "comparison_method": "Five comparison sheets with 118 published candidates actually viewed, plus full 1099 and1514; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容學識淺薄，見聞不廣。",
+    "syn": "一孔之見、井蛙之見、坐井觀天、淺見寡聞、管中窺豹",
+    "ant": "見多識廣、博古通今、博物洽聞"
+  },
+  "webp_src": "img/idioms/100-7383de1448f9.webp",
+  "webp_sha256": "ecba2d6f87e8c846c5a7d029fe68a59a9f66045bf25a355a8ecc021fc741c4ee"
+}

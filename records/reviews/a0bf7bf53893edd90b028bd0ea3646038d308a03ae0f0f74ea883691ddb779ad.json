@@ -1,0 +1,68 @@
+{
+  "no": 103,
+  "kind": "regenerate",
+  "word": "飲鴆止渴",
+  "path": "/workspace/idiom-review/batch-23-group-1-redraw-35/batch-23/103.png",
+  "original_sha256": "e5d2388fbb02f27f9c8077554a9323044042ac5a5b69a182f4351493ad26c58b",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-23-group-1-redraw-35",
+  "alt": "屋頂漏水，男子先用軟管把水導進櫃內收納箱，以為問題已解決；後來水越積越多，浸壞箱內毯子木盒，還溢到地板上。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "先把漏水暫時導離房間、卻導入放重要物品的箱，最終浸損外溢成更大禍患，短視處理的因果清楚。 已實際比對全部118張候選及本批其他重畫圖，未見主動作、人物關係與道具安排近乎相同而可互換的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右暫解與更大水患同裝置連續，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "扶管與搭箱、後垂掌各五指或合理握持遮擋，臂肩相連、蹲站雙腳支撐自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "頂漏水落漏斗、管沿重力下行入箱、後滿水溢箱沿，毯泡水木盒傾，管夾固定與櫃底承箱合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "木盒扣為金屬扣非字，衣物箱毯窗牆無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代住家漏水與便服成人、室內收納環境自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "1335406b8d219f5c5bd2e3c2d566af6364bc066772b4c71c833b6a41e23be5bd",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/e4062c41692e06c32ebf9e848159e6ad00411ef88460f60adcec3faf0d206008.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; all six unresized native tiles, including miniature people in illustration84 and background pupils in93",
+    "comparison_candidates": 118,
+    "comparison_method": "Five comparison sheets with 118 published candidates actually viewed, plus full 1099 and1514; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻只求解決眼前困難，而不顧將來更大的禍患。貶義。",
+    "syn": "挖肉補瘡",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/103-e5d2388fbb02.webp",
+  "webp_sha256": "d1a396161246c114820690c046d11ac3e1863f2731a938e1fbe54feee0f0b3d2"
+}

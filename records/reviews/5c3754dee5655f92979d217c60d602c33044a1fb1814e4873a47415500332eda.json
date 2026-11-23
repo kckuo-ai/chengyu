@@ -1,0 +1,81 @@
+{
+  "no": 114,
+  "kind": "existing",
+  "word": "百折不撓",
+  "path": "/workspace/chengyu-preservation/originals/023e1d601d0cbb94f9ad18503e5bc97b857ff0d5f38cfb019d41865586e9b76d.png",
+  "original_sha256": "023e1d601d0cbb94f9ad18503e5bc97b857ff0d5f38cfb019d41865586e9b76d",
+  "original_available": true,
+  "review_source_sha256": "023e1d601d0cbb94f9ad18503e5bc97b857ff0d5f38cfb019d41865586e9b76d",
+  "webp_src": "img/idioms/114.webp",
+  "webp_sha256": "640fdf423d6818f7f47d01423cc909e6897491a539cf7f75a48be3c2d809f7cd",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "男子在傍晚仍測試木橋模型，推著小車檢查承重；身後留下多座塌壞的舊橋，桌上攤著反覆修改的圖紙與木片。",
+  "issues": [
+    "meaning: 背後多次塌橋仍持續修改測試，沒有受挫停手，持續努力的意志與失敗痕跡同在；需與其他木橋製作構圖核對。 另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "背後多次塌橋仍持續修改測試，沒有受挫停手，持續努力的意志與失敗痕跡同在；需與其他木橋製作構圖核對。 另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前景持續測試、後景壞橋與時段分景呼應，手機可辨反覆嘗試。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "雙手一掌推車、一掌扶橋，指頭因握物部分遮住但四長指及拇指自然，兩袖肩腕連續，下身由桌遮。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "橋兩端支方塊、小車輪壓橋面，舊橋塌木落桌，圖紙與木料有支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "圖紙只構件線條無字標，模型車無車號品牌，未見水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣手作工作室、便服成年男子與窗外城市，非古代工程。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "綠襯衫與白內衣領無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "意志剛強，即使受到許多挫折，仍不屈服。",
+    "syn": "不屈不撓、堅忍不拔、屢敗屢戰",
+    "ant": "一蹶不振、半途而廢"
+  }
+}

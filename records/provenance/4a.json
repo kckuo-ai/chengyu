@@ -10811,5 +10811,13 @@
       "path": "backup/batches/2026-11-07-828-835/metadata/882.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "4ae64fa7a596071ae81489d07dd15e3bc18ff45ed92378ced6057c1340101a4b": [
+    {
+      "kind": "git_zip_member",
+      "commit": "2bc307545d9496d38aa8ef04b302191d79e278f6",
+      "zip_path": "batch-23-group-1-redraw-35.zip",
+      "member": "batch-23/manifest.json"
+    }
   ]
 }

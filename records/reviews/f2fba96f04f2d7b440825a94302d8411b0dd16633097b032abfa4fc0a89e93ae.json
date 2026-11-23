@@ -1,0 +1,82 @@
+{
+  "no": 82,
+  "kind": "existing",
+  "word": "推心置腹",
+  "path": "/workspace/chengyu-preservation/originals/35c37a14aa5e0d70db62069e33dc272042e28fda817b526f971cc6d6e8ed04e8.png",
+  "original_sha256": "35c37a14aa5e0d70db62069e33dc272042e28fda817b526f971cc6d6e8ed04e8",
+  "original_available": true,
+  "review_source_sha256": "35c37a14aa5e0d70db62069e33dc272042e28fda817b526f971cc6d6e8ed04e8",
+  "webp_src": "img/idioms/82.webp",
+  "webp_sha256": "2cfa04aa1dd86a88f1894aa98324db8421f802e0cbdc5f8f33b9f46e6f99d053",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "兩名女子在窗邊木桌喝茶談話，綠衣女子攤掌傾身說話，藍衣女子托腮專心聽著；茶壺旁有餅乾與小盆栽。",
+  "issues": [
+    "meaning: 只有友善喝茶聊天與傾聽，無法從畫面確定至誠相待或坦露真心，也可能是一般閒聊；缺少能排除表面客套的線索，詞義不通過。",
+    "text_brand_watermark: 右後書架米白書脊上有上下排列假字，底層書脊亦有橫直標記，非全素面，不符合無類文字要求。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "只有友善喝茶聊天與傾聽，無法從畫面確定至誠相待或坦露真心，也可能是一般閒聊；缺少能排除表面客套的線索，詞義不通過。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "雙人近景與相對視線清楚，手機可辨說話和傾聽。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "綠衣雙攤掌一拇指四指，藍衣托頰手部分遮住、另一臂在桌後，兩人各兩肩袖腕無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "茶壺杯盆與盤置桌，座椅支撐人物，肘放桌自然。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "右後書架米白書脊上有上下排列假字，底層書脊亦有橫直標記，非全素面，不符合無類文字要求。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代住家兩名成年女性、素面針織衫，窗景及家具符合生活語境。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩人圓領與開襟衣領無紅領巾或圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻以至誠待人。",
+    "syn": "肝膽相照、披肝瀝膽、坦誠相見",
+    "ant": "明爭暗鬥、鉤心鬥角、爾虞我詐"
+  }
+}

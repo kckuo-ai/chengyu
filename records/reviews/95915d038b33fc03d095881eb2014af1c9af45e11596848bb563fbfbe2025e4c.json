@@ -1,0 +1,82 @@
+{
+  "no": 77,
+  "kind": "existing",
+  "word": "痛心疾首",
+  "path": "/workspace/chengyu-preservation/originals/a7e58dc28600981ebfda0369cdf0574f3b3f65391c64114420e4527f6083308a.png",
+  "original_sha256": "a7e58dc28600981ebfda0369cdf0574f3b3f65391c64114420e4527f6083308a",
+  "original_available": true,
+  "review_source_sha256": "a7e58dc28600981ebfda0369cdf0574f3b3f65391c64114420e4527f6083308a",
+  "webp_src": "img/idioms/77.webp",
+  "webp_sha256": "5e4c7bfcb86a28787f7b51a1a389294bbe7a25fcb0e65021b5cbbce3c3c08a50",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "四位居民站在折斷的大樹旁，女子掩胸扶額，其他人也面露悲傷；落地的樹枝間有空鳥巢，羽毛散在石板路上。",
+  "issues": [
+    "meaning: 居民為斷樹和空巢悲傷，沒有可見的痛恨對象、憤恨反應或惡行原因，容易讀成哀痛，不足以呈現教育部痛恨到極點的釋義。",
+    "hands_feet_pose: 成人扶額及掩胸手臂正常，老者垂手四長指及拇指可辨；小男孩垂手細小黏連，原尺寸無法確認五指，按不確定不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "居民為斷樹和空巢悲傷，沒有可見的痛恨對象、憤恨反應或惡行原因，容易讀成哀痛，不足以呈現教育部痛恨到極點的釋義。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "人物在左、斷樹空巢在右，表情與原因清楚，手機可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "成人扶額及掩胸手臂正常，老者垂手四長指及拇指可辨；小男孩垂手細小黏連，原尺寸無法確認五指，按不確定不通過。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "斷樹截面接樹樁，樹枝空巢落地；人物站在枝條後，未被穿透。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "校舍、便服與空巢都沒有文字、字母數字或水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代公園、住宅校舍與便服祖孫人物，無古裝。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有領口無紅布，女子赭紅外套覆肩胸，不是紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "指痛恨到極點。",
+    "syn": "恨之入骨、咬牙切齒、深惡痛絕",
+    "ant": ""
+  }
+}

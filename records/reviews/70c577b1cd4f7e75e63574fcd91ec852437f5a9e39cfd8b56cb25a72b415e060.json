@@ -1,0 +1,81 @@
+{
+  "no": 72,
+  "kind": "existing",
+  "word": "孤注一擲",
+  "path": "/workspace/chengyu-preservation/originals/2d32e9fa894a17d98d3e0876a0946e0f63eab417466d441f10fd7f3b6c1680af.png",
+  "original_sha256": "2d32e9fa894a17d98d3e0876a0946e0f63eab417466d441f10fd7f3b6c1680af",
+  "original_available": true,
+  "review_source_sha256": "2d32e9fa894a17d98d3e0876a0946e0f63eab417466d441f10fd7f3b6c1680af",
+  "webp_src": "img/idioms/72.webp",
+  "webp_sha256": "e42700a87083993fed1aa368af37f2dfb23d5bb1733e1eeaa6ddbbb1ee35f5d1",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "桌遊旁的男子前傾，把一大堆籌碼全推向中央旗幟；另外三位成人憂心望著他的動作，手邊留著各自的模型。",
+  "issues": [
+    "text_brand_watermark: 背景書架書脊出現細小橫直標記，原尺寸仍不能排除類字母標籤；桌遊本身沒有數字，仍因書脊類字形不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "主角大幅前傾推集中籌碼，己方桌邊無其餘籌碼、其他玩家仍保留資源且憂慮，顯示投入所有資源冒最後風險，並非一般少量下注。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前景大手推籌碼與中央旗幟為焦點，四人緊張反應一致，手機仍可辨全部推入的動作。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "推籌碼掌五指分開，另一手握拳；三名旁觀者的托頰、握拳及合掌指節接腕正常，無多肩臂，腿由桌遮住。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "籌碼落圖板且被掌推，旗桿接山形底座，木模型落桌，四人肘腕與桌面接觸合理。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "背景書架書脊出現細小橫直標記，原尺寸仍不能排除類字母標籤；桌遊本身沒有數字，仍因書脊類字形不通過。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "四名現代便服成人在台灣住家玩無字桌遊，比例與衣著自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "四人圓領與襯衫領均無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻危急時，投入全部力量，作最後的冒險。",
+    "syn": "背水一戰、背城借一、破釜沉舟",
+    "ant": ""
+  }
+}

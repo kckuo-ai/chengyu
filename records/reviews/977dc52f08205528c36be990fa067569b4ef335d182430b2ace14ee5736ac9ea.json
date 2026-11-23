@@ -1,0 +1,81 @@
+{
+  "no": 94,
+  "kind": "existing",
+  "word": "風聲鶴唳",
+  "path": "/workspace/chengyu-preservation/originals/7f0175413239b92b17ecd6475381a3f1d54274dbee7432eed4289eca764f2f95.png",
+  "original_sha256": "7f0175413239b92b17ecd6475381a3f1d54274dbee7432eed4289eca764f2f95",
+  "original_available": true,
+  "review_source_sha256": "7f0175413239b92b17ecd6475381a3f1d54274dbee7432eed4289eca764f2f95",
+  "webp_src": "img/idioms/94.webp",
+  "webp_sha256": "593d47ae8d09e6d2d0e3e9b7ac204bd099b9f208a8539ebd79a9bf55898939e8",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "幾名登山者聽見山頭鳥鳴便驚慌回頭，林間浮現追兵般的灰影；風吹落葉，遠處湖山平靜，沒有真正追趕的人。",
+  "issues": [
+    "hands_feet_pose: 五名實景人物張掌握杖連接正常，但林間數名想像人物的手是灰色塊、沒有五指可辨，依全人物要求不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "鳥鳴和風聲被想成追兵，眾人互相驚慌而實景無敵，符合疑懼自擾，不是真有危險才逃。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前景驚慌與遠處鳴鳥、半透明想像影形成對照，手機可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "五名實景人物張掌握杖連接正常，但林間數名想像人物的手是灰色塊、沒有五指可辨，依全人物要求不通過。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "杖柄由手握持、杖尖落路，背包貼背有肩帶，鳴鳥雙腳落山石。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "衣物裝備無字，鳴叫短線及移動線不是字母，未見品牌數字水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代登山帽與背包便服、山湖步道場景自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "米白領布是白色，所有人物無紅領巾紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容驚慌疑懼，自相侵擾。",
+    "syn": "杯弓蛇影、草木皆兵、疑神疑鬼",
+    "ant": "神色自若、氣定神閒"
+  }
+}

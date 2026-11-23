@@ -1,0 +1,81 @@
+{
+  "no": 74,
+  "kind": "existing",
+  "word": "滄海一粟",
+  "path": "/workspace/chengyu-preservation/originals/7a6739bdbd4e466cb1077b0aca3b5a6c2ffc3b4dce780a3571eae0841120c6d8.png",
+  "original_sha256": "7a6739bdbd4e466cb1077b0aca3b5a6c2ffc3b4dce780a3571eae0841120c6d8",
+  "original_available": true,
+  "review_source_sha256": "7a6739bdbd4e466cb1077b0aca3b5a6c2ffc3b4dce780a3571eae0841120c6d8",
+  "webp_src": "img/idioms/74.webp",
+  "webp_sha256": "44e68173207d51aac5748fb0288958526798192dd753bfa1c75794224cdff987",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "背綠色背包的孩子獨自站在海邊岩石上，身影十分微小；眼前遼闊藍海連向遠山，陽光灑在浪花與岸邊沙地。",
+  "issues": [
+    "hands_feet_pose: 原尺寸人物很小，垂手僅幾個像素的肉色端點，不能確認每手五指；兩腿兩鞋在岩上承重，無多腿。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "以巨大海域對照極小人物，渺小微不足道的比例可懂，並非只畫大量海浪。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "大量天空海面留白服務渺小主題，手機仍可辨小人與大海的比例。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "原尺寸人物很小，垂手僅幾個像素的肉色端點，不能確認每手五指；兩腿兩鞋在岩上承重，無多腿。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "岩石、海岸及波浪透視自然，背包肩帶接身，人物站石面非懸空。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全幅只有自然景物與素衣背包，未見文字、字母數字或水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代戶外背包、便服長褲與台灣可見岩岸海景相容，不憑臉孔推斷國籍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "人物頸部無紅色領巾或圍巾，綠色背包帶不繞頸。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻渺小而微不足道。",
+    "syn": "九牛一毛、太倉一粟、太倉稊米、微不足道、微乎其微",
+    "ant": "盈千累萬"
+  }
+}

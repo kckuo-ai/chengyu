@@ -1,0 +1,69 @@
+{
+  "no": 84,
+  "kind": "regenerate",
+  "word": "蕭規曹隨",
+  "path": "/workspace/idiom-review/batch-23-group-1-redraw-35/batch-23/84.png",
+  "original_sha256": "81863c32326e7549bbe1865344b66603f9e149dea69cf48818a1a035170892e0",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-23-group-1-redraw-35",
+  "alt": "男孩把一本畫有課堂活動的圖冊交給女孩，接著女孩指著其中舉手的圖，與同學一起查看；圖冊裡還畫著發言和擦桌的孩子。",
+  "issues": [
+    "meaning: 交圖冊與指圖可見，但沒有前任規章制定、交接職責和後任實際依相同規章辦事的明確關係；也可只是同學共讀活動圖。 已實際比對全部118張候選及本批其他重畫圖，未見主動作、人物關係與道具安排近乎相同而可互換的構圖。",
+    "hands_feet_pose: 主景持冊指圖手自然，但冊內小人之舉掌、介紹掌與擦桌露手太小，無法逐手確認五指。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "交圖冊與指圖可見，但沒有前任規章制定、交接職責和後任實際依相同規章辦事的明確關係；也可只是同學共讀活動圖。 已實際比對全部118張候選及本批其他重畫圖，未見主動作、人物關係與道具安排近乎相同而可互換的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右傳冊與查看圖冊連續、主焦點清楚，手機能辨。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "主景持冊指圖手自然，但冊內小人之舉掌、介紹掌與擦桌露手太小，無法逐手確認五指。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "書本受雙人托、攤冊落桌，裝訂環連頁，桌椅正常支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "圖冊僅活動圖，裝訂環為功能性圓環而非字，紙服與背景無文字字母數字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小教室與運動服孩童比例自然，圖中人物亦現代服裝。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "82e2c3ab955eda895c461ca82db1f511892274d23e7860d60fa7963f384770f9",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/00f14dc33d7f13e64b1b41e7165297a1a801e2db70879d7b9070434cefdbfd8e.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; all six unresized native tiles, including miniature people in illustration84 and background pupils in93",
+    "comparison_candidates": 118,
+    "comparison_method": "Five comparison sheets with 118 published candidates actually viewed, plus full 1099 and1514; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻後人依循前人所訂的規章辦事。",
+    "syn": "因循守舊、率由舊章、陳陳相因",
+    "ant": "不主故常、改弦更張、改弦易轍、鼎新革故、棄舊圖新"
+  }
+}

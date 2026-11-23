@@ -1,0 +1,68 @@
+{
+  "no": 74,
+  "kind": "regenerate",
+  "word": "滄海一粟",
+  "path": "/workspace/idiom-review/batch-23-group-1-redraw-35/batch-23/74.png",
+  "original_sha256": "37e849c1d27070eb3da3ec4b1cd9b218fabc2c198d800cc8b9ee44dcb9e37f16",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-23-group-1-redraw-35",
+  "alt": "女孩站在海岸欄杆旁，伸出手掌展示一粒小小的米，驚喜看著它；身後是一路延伸的廣闊海面、山岬與浪花，更顯米粒微小。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "巨大海域對掌上一粒微小米，極大整體中微不足道的尺度比喻可見，不只是一般看海。 已實際比對全部118張候選及本批其他重畫圖，未見主動作、人物關係與道具安排近乎相同而可互換的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "近掌小粒與後方廣海相對、焦點清楚，手機可辨尺度。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "前掌一拇四指、後搭欄手五指以透視相疊自然，雙臂接肩、下肢畫外非缺肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "米粒落掌心、後掌壓欄木、橫欄接柱，海岸透視自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "衣服背包與欄木海景無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代海岸步道及國小女孩運動服、背包比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "7a6739bdbd4e466cb1077b0aca3b5a6c2ffc3b4dce780a3571eae0841120c6d8",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/20e5080bea3f2bd9d6773fad00956ce5c233c9fe977c8a1ecb43c16d1b074f6f.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; all six unresized native tiles, including miniature people in illustration84 and background pupils in93",
+    "comparison_candidates": 118,
+    "comparison_method": "Five comparison sheets with 118 published candidates actually viewed, plus full 1099 and1514; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻渺小而微不足道。",
+    "syn": "九牛一毛、太倉一粟、太倉稊米、微不足道、微乎其微",
+    "ant": "盈千累萬"
+  },
+  "webp_src": "img/idioms/74-37e849c1d270.webp",
+  "webp_sha256": "94e52c3c1c584a19fbe11dbf01042edddbbf9c9b0e240d8e214c8974650f749f"
+}

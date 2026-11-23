@@ -1,0 +1,68 @@
+{
+  "no": 91,
+  "kind": "regenerate",
+  "word": "舉案齊眉",
+  "path": "/workspace/idiom-review/batch-23-group-1-redraw-35/batch-23/91.png",
+  "original_sha256": "1508803174bfc9c1c12382c204aeffdb67f3828c01120b0bd17b08dcad32e09d",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-23-group-1-redraw-35",
+  "alt": "女子微微欠身，雙手把熱湯遞給男子，男子也雙手恭敬接過；另一幕換男子奉茶、女子欠身接茶，兩人相互禮讓，桌上擺著晚餐。",
+  "issues": [
+    "meaning: 雙向欠身奉接湯茶已有恭敬，但兩人沒有婚照或其他明確夫妻關係線索，亦可為親友、室友或待客，不能確定夫妻相敬義。 已實際比對全部118張候選及本批其他重畫圖，未見主動作、人物關係與道具安排近乎相同而可互換的構圖。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "雙向欠身奉接湯茶已有恭敬，但兩人沒有婚照或其他明確夫妻關係線索，亦可為親友、室友或待客，不能確定夫妻相敬義。 已實際比對全部118張候選及本批其他重畫圖，未見主動作、人物關係與道具安排近乎相同而可互換的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "左右交換奉接角色、動作對等清楚，手機可辨。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "兩幕雙人四雙掌五指或碗杯遮擋自然，手腕袖臂連續、下肢桌遮正常無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "杯碗被雙方托持、熱湯鍋有木墊承托、菜盤桌椅結構正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "碗杯僅花葉，背景無書或婚照文字，衣服器具無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代家庭餐桌、便服圍裙成年男女比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "6390247806988a3686c6bb5462bf282ae51bc9cf4feed4b77f40572884a6a1a6",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/a87f74716ba767f8acada60f28d1602c0f5d18b4c58128b3b1c18be1edf6b346.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; all six unresized native tiles, including miniature people in illustration84 and background pupils in93",
+    "comparison_candidates": 118,
+    "comparison_method": "Five comparison sheets with 118 published candidates actually viewed, plus full 1099 and1514; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻夫妻相敬如賓。褒義。",
+    "syn": "相敬如賓、魚水和諧、琴瑟和鳴",
+    "ant": "琴瑟不和"
+  }
+}

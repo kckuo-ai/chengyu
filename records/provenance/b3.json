@@ -22276,5 +22276,12 @@
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470",
       "path": "backup/batches/2026-11-06-690-710/SHA256SUMS"
     }
+  ],
+  "b3d3e6b3116d64f47fb049ceae9ab0fb4d9b5affacceec757a4342d86264258c": [
+    {
+      "kind": "current_main_record",
+      "batch": "batch-23-group-1-redraw-35",
+      "source": "docs/illustration-prompts.json#entries/103"
+    }
   ]
 }

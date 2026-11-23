@@ -6954,5 +6954,21 @@
       "batch": "batch-19-redraw-13",
       "source": "docs/illustration-prompts.json#entries/45"
     }
+  ],
+  "e69a38398189fc6204d14c39843e1d100b016d27388af0c98aa2ac08fb83b67a": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-23-group-1-redraw-35",
+      "source_file": "73.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
+  ],
+  "e6b29e2e03449ef20163dd3068894deb7b276802f6847aea07e3976c7a72dc5e": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-23-group-1-redraw-35",
+      "source_file": "102.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

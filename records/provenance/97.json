@@ -15920,5 +15920,21 @@
       "commit": "9b5ec8eac5b577ac82e3e7d31973efbf1733bf43",
       "path": "manifest.json"
     }
+  ],
+  "970615c6cbf2d79fbd1bdd51c37ecc459660cf3b9bbb3b36e603604330330d3d": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-01",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-01/80.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
+  ],
+  "977dc52f08205528c36be990fa067569b4ef335d182430b2ace14ee5736ac9ea": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-01",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-01/94.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }

@@ -1,0 +1,68 @@
+{
+  "no": 94,
+  "kind": "regenerate",
+  "word": "風聲鶴唳",
+  "path": "/workspace/idiom-review/batch-23-group-1-redraw-35/batch-23/94.png",
+  "original_sha256": "03c88d27ed77689f4c429523c98a1c372aec8bdd0acf89ed9acdf96de8ba5fd8",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-23-group-1-redraw-35",
+  "alt": "山路上風動草葉，白鳥在遠處張嘴鳴叫，三位登山者卻一起驚恐回頭、握拳縮身，互相看著對方的反應，緊張得滿頭是汗。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "只有風吹與鳥叫、未見真敵害，三人互看恐懼反應相互驚擾，採驚慌疑懼義，並非真遇攻擊。 已實際比對全部118張候選及本批其他重畫圖，未見主動作、人物關係與道具安排近乎相同而可互換的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "同向驚回頭與風草鳥明示聲源，手機能懂。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持杖握指與握拳拇指包四指、肩肘腕自然相接，六鞋踏山石無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "登山杖尖觸地、背帶扣連肩腰，鳥爪搭枝、枝接樹，受力支撐自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "背包衣鞋器材無文字字母數字類字品牌水印，汗滴非字。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代郊山步道、成人登山便服裝備比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "7f0175413239b92b17ecd6475381a3f1d54274dbee7432eed4289eca764f2f95",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/977dc52f08205528c36be990fa067569b4ef335d182430b2ace14ee5736ac9ea.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; all six unresized native tiles, including miniature people in illustration84 and background pupils in93",
+    "comparison_candidates": 118,
+    "comparison_method": "Five comparison sheets with 118 published candidates actually viewed, plus full 1099 and1514; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容驚慌疑懼，自相侵擾。",
+    "syn": "杯弓蛇影、草木皆兵、疑神疑鬼",
+    "ant": "神色自若、氣定神閒"
+  },
+  "webp_src": "img/idioms/94-03c88d27ed77.webp",
+  "webp_sha256": "13da2fd7a33cf7a72b44cc06c7ec8c8558190bad07a15ede7159ecddaad1e2c8"
+}

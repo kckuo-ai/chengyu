@@ -1,0 +1,81 @@
+{
+  "no": 71,
+  "kind": "existing",
+  "word": "投鼠忌器",
+  "path": "/workspace/chengyu-preservation/originals/333d8f765b76de1b801b32cffffad9f6943dc8d9a8e45783b114c66cf0cb4f43.png",
+  "original_sha256": "333d8f765b76de1b801b32cffffad9f6943dc8d9a8e45783b114c66cf0cb4f43",
+  "original_available": true,
+  "review_source_sha256": "333d8f765b76de1b801b32cffffad9f6943dc8d9a8e45783b114c66cf0cb4f43",
+  "webp_src": "img/idioms/71.webp",
+  "webp_sha256": "4e049d8ef48092f624b762fc332fcef7751731ff49ba9a0d36321d09e0644105",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "女子舉起綠色靠墊想趕走架上的老鼠，另一手護著高花瓶而猶豫；木架擺滿瓷器，旁邊的小貓仍在地毯上睡覺。",
+  "issues": [
+    "text_brand_watermark: 原尺寸下層米白、藍綠書脊反覆有直排假漢字及類字母筆畫，上層書脊亦有標記，不符合無類文字要求。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "想打鼠的靠墊已抬起，另一手卻保護緊鄰鼠的花瓶，顧忌損壞器物而遲疑清楚，不是畏懼老鼠本身。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "前景女子與架上鼠、瓶形成直接視線，手機可辨靠墊與保護手勢。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持墊手四彎指拇指由布角遮住，前伸手為一拇指四長指，兩袖各接一肩一腕；下腿被家具裁遮，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "靠墊由手握角、護瓶掌接瓶側，鼠腳及花瓶底接架板；杯盆和桌面承托成立。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "原尺寸下層米白、藍綠書脊反覆有直排假漢字及類字母筆畫，上層書脊亦有標記，不符合無類文字要求。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣住家客廳，成年女子針織衫長裙，木架瓷瓶與沙發家具符合生活情境。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "女子米白毛衣領口無領巾圍巾，沙發藍布為鋪搭毯子。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻想要除害，但因有所顧忌而不敢下手。",
+    "syn": "",
+    "ant": "肆無忌憚"
+  }
+}

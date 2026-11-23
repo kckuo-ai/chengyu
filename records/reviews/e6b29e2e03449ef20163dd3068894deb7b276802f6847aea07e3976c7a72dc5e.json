@@ -1,0 +1,68 @@
+{
+  "no": 102,
+  "kind": "regenerate",
+  "word": "滿腹經綸",
+  "path": "/workspace/idiom-review/batch-23-group-1-redraw-35/batch-23/102.png",
+  "original_sha256": "a8cb411ec4713700d958393c4f33c1c5e245eaef2c34d7fc7b3302e3da7647c5",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "batch-23-group-1-redraw-35",
+  "alt": "男子在社區模型旁，指著河道與橋梁向長者和女子說明，另一手扶著山坡上的房屋；模型裡道路、住家、樹木與護岸排列整齊。",
+  "issues": [
+    "meaning: 只見說明一個社區模型，沒有困難大事、不同知識的具體運用或成功解決結果；普通模型導覽也能解釋，才識豐富且能處理大事不足以確定。 已實際比對全部118張候選及本批其他重畫圖，未見主動作、人物關係與道具安排近乎相同而可互換的構圖。 另看1099全圖，彼圖是高處展望未來城市配規畫模型，本圖三位成人說明社區河道；未因同有模型直接另判近重複。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "只見說明一個社區模型，沒有困難大事、不同知識的具體運用或成功解決結果；普通模型導覽也能解釋，才識豐富且能處理大事不足以確定。 已實際比對全部118張候選及本批其他重畫圖，未見主動作、人物關係與道具安排近乎相同而可互換的構圖。 另看1099全圖，彼圖是高處展望未來城市配規畫模型，本圖三位成人說明社區河道；未因同有模型直接另判近重複。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "居中解說者、模型及兩位聽者集中，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "指河、扶屋、兩聽者搭桌掌各五指或自然透視重疊，肩肘腕連續、桌下遮擋合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "房屋樹橋受模型基座托、模型落桌、手指接河與扶屋，橋欄接橋體、透視正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "模型無牌字、衣服工具背景無文字字母數字類字品牌水印。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；配色自然綠、淡藍與暖棕，不是鮮豔扁平或 3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區規畫場景，便服成人長者與環境自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部衣領及同人前後幕，均無紅領巾或紅圍巾；制服領口、背包帶、米白毛巾及素繩不是紅色領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "d3c26b622c0ed8810dacc9d035feaa9fa0f0278ef930dd368031f9a6bbffe769",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/08ca9a5837feda33504a43819c3583f183ff193f0ee53cf95921d422daff75c8.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "six unresized 512x512 crops per image; all hands, feet, thought bubbles and blank backgrounds checked; all six unresized native tiles, including miniature people in illustration84 and background pupils in93",
+    "comparison_candidates": 118,
+    "comparison_method": "Five comparison sheets with 118 published candidates actually viewed, plus full 1099 and1514; full-catalog perceptual and semantic selection, not a new review of every catalog image."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容才識豐富，具有處理大事的才能。",
+    "syn": "大才槃槃、足智多謀、博學多才、滿腹經籍、學富五車",
+    "ant": "才疏學淺、不學無術、不識一丁、胸無點墨"
+  }
+}

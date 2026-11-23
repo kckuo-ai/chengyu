@@ -14364,5 +14364,13 @@
       "path": "backup/batches/2026-11-08-855-873/revisions/920-attempt1/920-review.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "e0854fb5a41f3e68c3cff097a376a6ad1adec74fce3390e8f87e0cd6b89bcd63": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-23-group-1-redraw-35",
+      "source_file": "69.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
   ]
 }
