@@ -1,11 +1,11 @@
 {
   "no": 145,
   "word": "戰戰兢兢",
-  "webp": "img/idioms/145.webp",
-  "original_sha256": "da227764cfa74fe55b040c108565241e45695be5a0e5ffae1005b44876c7ce0c",
-  "original": "originals/da227764cfa74fe55b040c108565241e45695be5a0e5ffae1005b44876c7ce0c.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/5f3192fd88a428453912931dda47e9e8d5fb109e3015deaff432e240fcfea8c7.json"
+  "webp": "img/idioms/145-7e6aa40036ae.webp",
+  "original_sha256": "7e6aa40036ae9453b841c6ffc45d2480a8734ebbff20b176d691c568f7951cb4",
+  "original": "originals/7e6aa40036ae9453b841c6ffc45d2480a8734ebbff20b176d691c568f7951cb4.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/1be980f420e037aa1bb168b941538f9c1c08bdfe0327233d41d3f6a58f750b6e.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/a61e29553fb45a128eed859f734a80f3d28ed77d24dd680b63776a689caf3da6.json"
 }

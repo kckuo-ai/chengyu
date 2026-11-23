@@ -1,0 +1,88 @@
+{
+  "no": 108,
+  "kind": "existing",
+  "word": "目不識丁",
+  "path": "/workspace/chengyu-preservation/originals/9b1f3302104e0049c46f58daa5a4dbef4930ea1515a1c9ee800a3ed6bec4a87b.png",
+  "original_sha256": "9b1f3302104e0049c46f58daa5a4dbef4930ea1515a1c9ee800a3ed6bec4a87b",
+  "original_available": true,
+  "review_source_sha256": "9b1f3302104e0049c46f58daa5a4dbef4930ea1515a1c9ee800a3ed6bec4a87b",
+  "webp_src": "img/idioms/108.webp",
+  "webp_sha256": "e02f87b25b9d1683ff44de97c8da10ffdf28e53edb26a39bd713ef31702f4cf7",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-01",
+  "alt": "男子拿著信紙困惑抓頭，女子耐心用公車與時鐘的圖卡說明；窗外公車停在站旁，桌上還放著另一張信紙和書本。",
+  "issues": [
+    "text_brand_watermark: 信紙與桌上紙張整列波浪仿手寫筆跡，明顯冒充文字而非空白，頭上渦線近似問號；違反無類文字要求。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "對文字信紙抓頭、不懂內容，需要他人改用具體公車時間圖示解說，能採不識字義，不把不懂某一詞當博學。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "文字紙與物件圖卡對照、協助者指示清楚，手機可辨難懂與圖解。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "抓頭手因髮遮部分指、持紙五指正常，女子指圖三指扣拳與持板手四指加拇指合理，無多肩腕。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "紙卡由手扶，杯筆書落桌，窗外公車輪接地、站牌接柱。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "信紙與桌上紙張整列波浪仿手寫筆跡，明顯冒充文字而非空白，頭上渦線近似問號；違反無類文字要求。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區協助閱讀，便服成人、識別掛繩及公車站生活情境自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "掛繩為細藍線，領口無紅領巾或圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 206,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        598
+      ],
+      "method": "Three perceptually nearest installed artworks per target plus available MOE synonyms and antonyms; all nine candidate sheets actually viewed. These comparisons do not constitute reviews of the candidate artworks.",
+      "near_duplicates": {
+        "114": "另看 598「不屈不撓」全圖：同樣在工作桌前持續組木橋、背景或前景堆多座失敗橋、以時間天候表示仍不放棄，主要道具與情節高度重複，且為同義詞；依近似構圖門檻不通過，重畫須避開木橋、小車及承重圖紙。"
+      }
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻不識字或毫無學問。",
+    "syn": "不識之無、目不知書、胸無點墨",
+    "ant": "知書識禮、滿腹經綸、學富五車、識文斷字"
+  },
+  "latest_rejected_candidate": {
+    "batch": "batch-25-redraw-8",
+    "original_sha256": "6ba517019cea24524cd5041e6a1beb47ce95880e3e9ed58c0d94c024589e61c6",
+    "original_archive_path": "originals/6ba517019cea24524cd5041e6a1beb47ce95880e3e9ed58c0d94c024589e61c6.png",
+    "review_archive_path": "records/reviews/45fd427ff6a7f4a2ead85c32e1762b77485e31c4adf16ba990ec7268ee023b2f.json",
+    "passed": false
+  }
+}

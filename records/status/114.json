@@ -1,18 +1,11 @@
 {
   "no": 114,
   "word": "百折不撓",
-  "webp": "img/idioms/114.webp",
-  "original_sha256": "023e1d601d0cbb94f9ad18503e5bc97b857ff0d5f38cfb019d41865586e9b76d",
-  "original": "originals/023e1d601d0cbb94f9ad18503e5bc97b857ff0d5f38cfb019d41865586e9b76d.png",
+  "webp": "img/idioms/114-762139f4b77a.webp",
+  "original_sha256": "762139f4b77afa81743971deb24e7608a3feeab5bdf22d9315d61ef26a838328",
+  "original": "originals/762139f4b77afa81743971deb24e7608a3feeab5bdf22d9315d61ef26a838328.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/e18bc9d4ea154bc38de25cecc548cfa0e59a4b3c0d90cfd4ef7889c04954f2a4.json",
-  "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": "records/prompts/c85dc414e123eac3e95e45671c00a64ef00dafb933a1aaf744d797caaaedb1b2.json",
-  "latest_rejected_candidate": {
-    "batch": "batch-23-group-1-redraw-35",
-    "original_sha256": "e143a68036defb8dd26a504f61b9ee885c6c183decb679ed2bac94d318bb150e",
-    "original_archive_path": "originals/e143a68036defb8dd26a504f61b9ee885c6c183decb679ed2bac94d318bb150e.png",
-    "review_archive_path": "records/reviews/139964ea996791688ec3bbc926c35e834542eb2012f7f1730a27cae33c9fc0a1.json",
-    "passed": false
-  }
+  "current_review_path": "records/reviews/fe7b2590f1bc232b405bb1b4f7c2f12aa60995f6965ff45cc65df599f7750910.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/df581618fb2ef943f46a89baae7ef3ea2f03ed3390555142909dcbe59747f1cb.json"
 }

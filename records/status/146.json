@@ -1,11 +1,11 @@
 {
   "no": 146,
   "word": "瓜田李下",
-  "webp": "img/idioms/146.webp",
-  "original_sha256": "88eee3ab640b1658080379a9eb65f393b22c11d8d92d58724821cc214a31978a",
-  "original": "originals/88eee3ab640b1658080379a9eb65f393b22c11d8d92d58724821cc214a31978a.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/9aa7a3403b275a0ac5681d544235a4a66cde3289e3752970f4afd04a4ceae0c6.json"
+  "webp": "img/idioms/146-ce13db05abbb.webp",
+  "original_sha256": "ce13db05abbb914948edf32764abf3b38d1901e58f7a6345672c2f8493c5e4e9",
+  "original": "originals/ce13db05abbb914948edf32764abf3b38d1901e58f7a6345672c2f8493c5e4e9.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/f3b9dcf452190c654e3900be68fedfc8c5fafe3901a8c72c6ef1809edcfa48ef.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/0df683c4261ca7242bdad5db54604c2a5a9325db63990385b7b58ba8731537b4.json"
 }

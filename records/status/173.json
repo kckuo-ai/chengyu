@@ -1,11 +1,11 @@
 {
   "no": 173,
   "word": "愛屋及烏",
-  "webp": "img/idioms/173.webp",
-  "original_sha256": "c9267154dbb9f905fc993f609dcb34f3092b8b4f5bba80475e2b92d941ac6a28",
-  "original": "originals/c9267154dbb9f905fc993f609dcb34f3092b8b4f5bba80475e2b92d941ac6a28.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/44c739eb196779a20e6a066481d8e4bb0d2ed7d67a0c618a0e9c0fee2f72a6ac.json"
+  "webp": "img/idioms/173-b65658e21243.webp",
+  "original_sha256": "b65658e2124347acde7544a45aef89ee6583e4a7d5ac4aadbeca0855dca4a323",
+  "original": "originals/b65658e2124347acde7544a45aef89ee6583e4a7d5ac4aadbeca0855dca4a323.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/b3a423cd7a48a348faae8030a8383c5a6c627e14d3d13e89621b400fa69f5a0a.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/cfcba801007812e772cc71fe3bb597f7e313d4c4d40c500c0ecf9914181aeedf.json"
 }

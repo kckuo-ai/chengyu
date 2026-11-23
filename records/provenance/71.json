@@ -12241,6 +12241,11 @@
       "batch": "batch-24-group-2-redraw-31",
       "source_file": "134.review.json",
       "reviewer": "independent-visual-review-2026-11-23"
+    },
+    {
+      "kind": "current_main_record",
+      "batch": "batches-24-25",
+      "source": "docs/illustration-reviews.json#entries/134"
     }
   ],
   "71fe64c3d02b22477ab855c75b594804362a2c892ff8f0170f74384f52f00dcb": [
@@ -12249,6 +12254,11 @@
       "batch": "batch-25-redraw-8",
       "source_file": "89.review.json",
       "reviewer": "independent-visual-review-2026-11-23"
+    },
+    {
+      "kind": "current_main_record",
+      "batch": "batches-24-25",
+      "source": "docs/illustration-reviews.json#entries/89"
     }
   ]
 }

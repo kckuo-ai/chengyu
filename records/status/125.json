@@ -1,11 +1,11 @@
 {
   "no": 125,
   "word": "兔死狗烹",
-  "webp": "img/idioms/125.webp",
-  "original_sha256": "f9411cbcdbfd0e51294731a269fa258da6027610510f0479ac0c09730f6edfbe",
-  "original": "originals/f9411cbcdbfd0e51294731a269fa258da6027610510f0479ac0c09730f6edfbe.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/8cb1897ddf00241577d3d85bfd9b05379b4f442c41664d895e57c1d2b1d6ab5b.json"
+  "webp": "img/idioms/125-020a7b007b97.webp",
+  "original_sha256": "020a7b007b972cab3d871630b77f2c65884b97d61e2d9be90cee658c596f4b26",
+  "original": "originals/020a7b007b972cab3d871630b77f2c65884b97d61e2d9be90cee658c596f4b26.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/042c944625d405e44410ed66b3a046c9bcd0ee0a8b8d9891d08c0aab34e72a67.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/decf945961567988a77d8714c5f44acfbf5e5568300d6e20c92edc80cc981164.json"
 }

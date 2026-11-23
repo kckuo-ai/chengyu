@@ -1,0 +1,94 @@
+{
+  "no": 156,
+  "kind": "existing",
+  "word": "莫逆之交",
+  "path": "/workspace/chengyu-preservation/originals/021538918ad4aab9a2f2b7332a2f7ee1ebc2e6420c3f65e641085d882bbd9090.png",
+  "original_sha256": "021538918ad4aab9a2f2b7332a2f7ee1ebc2e6420c3f65e641085d882bbd9090",
+  "original_available": true,
+  "review_source_sha256": "021538918ad4aab9a2f2b7332a2f7ee1ebc2e6420c3f65e641085d882bbd9090",
+  "webp_src": "img/idioms/156.webp",
+  "webp_sha256": "ac66d904a67d09a5e4335233a9e573b91ba79f52e2bb59be5e8d1790720ed93c",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-02",
+  "alt": "兩位朋友蹲在花園裡一起扶樹、立支架，戴著手套相視微笑；角落的兒時回憶中，他們也曾並肩把小樹苗種進土裡。",
+  "issues": [
+    "meaning: 兒時到長大共同種樹只能確定多年相識與合作，未顯彼此心意相通超越普通朋友的特徵，容易讀為青梅竹馬或友誼長存。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "兒時到長大共同種樹只能確定多年相識與合作，未顯彼此心意相通超越普通朋友的特徵，容易讀為青梅竹馬或友誼長存。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "兒時小景與成人大景同一動作，手機可辨長久交情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "成人戴手套握幹、扶支柱及壓土五指正常，兒時手有合理植株遮擋，雙人蹲姿接地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "樹根入土、支架兩腿落地、鐵件接木條，水壺放地，無懸空植株。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "手套工具衣物均無題字品牌數字水印，回憶框無文字。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區園藝、國小兒時及成人便服比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩時段人物領口皆無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 201,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        1151,
+        430,
+        989
+      ],
+      "method": "All nine candidate sheets actually viewed: three nearest installed artworks per target plus available MOE synonyms and antonyms. Full 1151, 430 and 989 additionally viewed to resolve near-composition matches. Candidates are not counted as audited artworks. Group targets 125 and 139 were also compared at full and native detail sizes.",
+      "near_duplicates": {
+        "125": "與139及另看全圖430「忘恩負義」同為左上受助、右側或前景開店成功後抬掌拒恩人於門外，主要事件與構圖近乎可互換。",
+        "139": "與125及430同樣受助後店成、在門口抬掌拒恩人；工作類別改變仍未區分主構圖。",
+        "127": "另看1151「絡繹不絕」全圖，同樣店員在左側開門迎接、訪客曲線長隊延伸到右後方，手持盆栽改書本仍是近乎相同的上門排隊構圖。",
+        "172": "另看989「分崩離析」全圖，同樣大型桌面破散模型置前景、同伴抱私人物品離散、空椅和失落表情置後方；人物年齡與模型形狀不同，主構圖與團隊潰散故事仍高度重複。"
+      },
+      "distinguished_comparisons": "150的師生作品水準差距、168的朽毀橋無從修復，雖也用木橋，與114/598的反覆試作堅持有不同人物關係與動作；未僅因共享木橋道具直接判構圖相同。126的簡陋提案引來增補與138多人商議並分工實作也有不同因果，不把同是園藝桌視為自動重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "心意相投的朋友。",
+    "syn": "刎頸之交、金石之交、管鮑之交",
+    "ant": "一面之交、泛泛之交、酒肉朋友、點頭之交"
+  },
+  "latest_rejected_candidate": {
+    "batch": "batch-24-group-2-redraw-31",
+    "original_sha256": "0ab11b7ca972b13a79cf46b961b2197e98d6b14299094f0d008b965a295a00fa",
+    "original_archive_path": "originals/0ab11b7ca972b13a79cf46b961b2197e98d6b14299094f0d008b965a295a00fa.png",
+    "review_archive_path": "records/reviews/1579bfd1eda56a293d6689787b9276bda0f7d24da09abada40d6b071ff3f6f91.json",
+    "passed": false
+  }
+}

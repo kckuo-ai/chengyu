@@ -1,11 +1,11 @@
 {
   "no": 121,
   "word": "滿城風雨",
-  "webp": "img/idioms/121.webp",
-  "original_sha256": "865e504c4bc3d6df015bb06c412657d030028bfb91efe42680a684622c7626d5",
-  "original": "originals/865e504c4bc3d6df015bb06c412657d030028bfb91efe42680a684622c7626d5.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/9b4b3a408a0b72149fb933f8d6ce367588e0820934ba1a0b904c1e37a6f54a54.json"
+  "webp": "img/idioms/121-0165e95135c3.webp",
+  "original_sha256": "0165e95135c361185ea8511b326432afe4d74868cab8b33c692445d3597dc15c",
+  "original": "originals/0165e95135c361185ea8511b326432afe4d74868cab8b33c692445d3597dc15c.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/a60a22a2b3e6c8718242a8317a11e9ea33ec0ce4427efa3bdb0c19efb9d9cbb6.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/fc1324f516d45947e3437135eeceada1da40e411348c5f0bd3c24da4bcaa6667.json"
 }

@@ -1,11 +1,11 @@
 {
   "no": 133,
   "word": "心猿意馬",
-  "webp": "img/idioms/133.webp",
-  "original_sha256": "b6c4b4700fb193e2c872eb04c629728797b3086bbffe4aabcdd8b2929d4d4917",
-  "original": "originals/b6c4b4700fb193e2c872eb04c629728797b3086bbffe4aabcdd8b2929d4d4917.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/7b46ad9d788821eff0d5c023873467e3d968efaa6edb61339488a247ec0b0907.json"
+  "webp": "img/idioms/133-caa23e78d6d9.webp",
+  "original_sha256": "caa23e78d6d9ba76d0ae47f8f6acac253350a2bee003ff0c2c2ff10a88998fbc",
+  "original": "originals/caa23e78d6d9ba76d0ae47f8f6acac253350a2bee003ff0c2c2ff10a88998fbc.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/3d95e2cd85657d66ad18f947a23ec4fc71c8d2e9e11ec916cee8b670ce7d31cd.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/fc57da6e374e952b897ece51d44e9f5be6fb9cabaf2ceecc522fd3898ede7472.json"
 }

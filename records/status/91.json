@@ -1,18 +1,11 @@
 {
   "no": 91,
   "word": "舉案齊眉",
-  "webp": "img/idioms/91.webp",
-  "original_sha256": "6390247806988a3686c6bb5462bf282ae51bc9cf4feed4b77f40572884a6a1a6",
-  "original": "originals/6390247806988a3686c6bb5462bf282ae51bc9cf4feed4b77f40572884a6a1a6.png",
+  "webp": "img/idioms/91-624fcca8e7cf.webp",
+  "original_sha256": "624fcca8e7cfa2c2b94eb1bbc655c87a8c48176b52b62179ea84c8a8c34b7983",
+  "original": "originals/624fcca8e7cfa2c2b94eb1bbc655c87a8c48176b52b62179ea84c8a8c34b7983.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/9f6b92a00e4ffa5f809be55adef1d91f4c2ce093a720d435210378177227e248.json",
-  "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": "records/prompts/f164b4777339e2d5f6545c1ac4eb4ef354f8f992d34ed1ed6da843e49026734c.json",
-  "latest_rejected_candidate": {
-    "batch": "batch-23-group-1-redraw-35",
-    "original_sha256": "1508803174bfc9c1c12382c204aeffdb67f3828c01120b0bd17b08dcad32e09d",
-    "original_archive_path": "originals/1508803174bfc9c1c12382c204aeffdb67f3828c01120b0bd17b08dcad32e09d.png",
-    "review_archive_path": "records/reviews/48d682484d7114809c29dd578fa80b8846ef279216df84834f8c0938edec4fe9.json",
-    "passed": false
-  }
+  "current_review_path": "records/reviews/ddef100f895a69c62fc7b4cc478210ff3f074bd85a001a50d142247cf8a730c1.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/521f5a5e9a70ca6c17e8f4d7ea6bd75d41da701fd34bdf6ef4f7ba7c22305151.json"
 }

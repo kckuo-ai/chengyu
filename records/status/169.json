@@ -1,11 +1,11 @@
 {
   "no": 169,
   "word": "河東獅吼",
-  "webp": "img/idioms/169.webp",
-  "original_sha256": "445997acbd82904aeee61c225f0f1d82a2117c39b04d721dba14a02005ed7768",
-  "original": "originals/445997acbd82904aeee61c225f0f1d82a2117c39b04d721dba14a02005ed7768.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/b36d6905d52a1c3a7a468a6aa04835f523d1246513c3ec88c0d71e40aad2375e.json"
+  "webp": "img/idioms/169-721b2afdb1de.webp",
+  "original_sha256": "721b2afdb1de67c36c4cd01f2638a6971f934ca979d92c33ddd8366b9567dac8",
+  "original": "originals/721b2afdb1de67c36c4cd01f2638a6971f934ca979d92c33ddd8366b9567dac8.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/9c515d443aa6dd9804ab1f95e51960807d2776fd81b8bff20b429c21600e1cb7.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/3cd6928dc0191943abb2f8dd92b42304891390b4ae4145697c1c0740af7b074a.json"
 }

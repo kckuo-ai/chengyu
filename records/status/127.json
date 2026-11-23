@@ -1,11 +1,11 @@
 {
   "no": 127,
   "word": "門庭若市",
-  "webp": "img/idioms/127.webp",
-  "original_sha256": "34276695a1964bc24f3391e0da8d193da6a09b00610a4cce200d8ea2f19fd7f6",
-  "original": "originals/34276695a1964bc24f3391e0da8d193da6a09b00610a4cce200d8ea2f19fd7f6.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/6e02b0735d2bc38b4055b3b69d8e4308dc6d26558f849a395030e350995e039a.json"
+  "webp": "img/idioms/127-27ffc2b19b7c.webp",
+  "original_sha256": "27ffc2b19b7c081bb9e2b962aa906d686ad04a43f030b9babede6411c6c0ad24",
+  "original": "originals/27ffc2b19b7c081bb9e2b962aa906d686ad04a43f030b9babede6411c6c0ad24.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/d1394cd11b235636afdb7b76d9a0995bd9cadcb00e0d3eccaf39920c29877645.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/92920fa164253b8ca4a8e5dbe3862f298f1aa8dd12fdabcd14621bce37eda842.json"
 }

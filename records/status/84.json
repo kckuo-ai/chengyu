@@ -1,18 +1,11 @@
 {
   "no": 84,
   "word": "蕭規曹隨",
-  "webp": "img/idioms/84.webp",
-  "original_sha256": "82e2c3ab955eda895c461ca82db1f511892274d23e7860d60fa7963f384770f9",
-  "original": "originals/82e2c3ab955eda895c461ca82db1f511892274d23e7860d60fa7963f384770f9.png",
+  "webp": "img/idioms/84-6750eaf472f1.webp",
+  "original_sha256": "6750eaf472f1e2767b8bfe20a74d703c90bc7ecbf287484f6452c62745d0aba5",
+  "original": "originals/6750eaf472f1e2767b8bfe20a74d703c90bc7ecbf287484f6452c62745d0aba5.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/31b2569e204ec742c4bc9453b25feafd4f113b44cd687ef8666192e2e7c9bc6e.json",
-  "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": "records/prompts/aa531da475833b18c78ae021823a2bd6e8114ac50674bf44a2833432fd96c5f9.json",
-  "latest_rejected_candidate": {
-    "batch": "batch-23-group-1-redraw-35",
-    "original_sha256": "81863c32326e7549bbe1865344b66603f9e149dea69cf48818a1a035170892e0",
-    "original_archive_path": "originals/81863c32326e7549bbe1865344b66603f9e149dea69cf48818a1a035170892e0.png",
-    "review_archive_path": "records/reviews/728fd37e4ae6abc71cb25a3ff0656f9e9a4d0d8d0cb545205ff91ea78ca17d68.json",
-    "passed": false
-  }
+  "current_review_path": "records/reviews/2d35f0b19ba65c924ace820d780cfd3695468ffb1cc7737060de7dd7e9cfd64e.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/ae8d429145991d0fb91d4b5cf0fd38e70ac5f5b85ad3116b67d83d325b362ffb.json"
 }

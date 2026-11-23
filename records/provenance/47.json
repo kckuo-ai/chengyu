@@ -10244,5 +10244,12 @@
       "path": "backup/batches/2026-11-06-690-710/reviews/743.review.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "473ba758ce0a24e2529cd2fdb9d174e1c3b62ec21e08571169aa4320df3374c1": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-24-25",
+      "source": "docs/illustration-reviews.json#entries/153"
+    }
   ]
 }

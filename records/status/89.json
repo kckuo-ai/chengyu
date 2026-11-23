@@ -1,18 +1,11 @@
 {
   "no": 89,
   "word": "自相矛盾",
-  "webp": "img/idioms/89.webp",
-  "original_sha256": "38fe6f1653d8c3815db14a84f22bf27f10cf12e98427c6c4e375f99a3df58511",
-  "original": "originals/38fe6f1653d8c3815db14a84f22bf27f10cf12e98427c6c4e375f99a3df58511.png",
+  "webp": "img/idioms/89-616638be9616.webp",
+  "original_sha256": "616638be9616f2c0204fd0a7a8c118515ecc90fdeb60871b8e2398f0df563211",
+  "original": "originals/616638be9616f2c0204fd0a7a8c118515ecc90fdeb60871b8e2398f0df563211.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/b43ca54095aa3246d6c569c7371df4d09abe4fa77af35e88fc69692ab3f88987.json",
-  "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": null,
-  "latest_rejected_candidate": {
-    "batch": "batch-23-group-1-redraw-35",
-    "original_sha256": "b3bd07c63631cee03dd644048a981fc01a1dcb1a06312ec35d03c63a72b3c4e3",
-    "original_archive_path": "originals/b3bd07c63631cee03dd644048a981fc01a1dcb1a06312ec35d03c63a72b3c4e3.png",
-    "review_archive_path": "records/reviews/041524e95b1c4f29fd321fbc08ce109f2ba9bbfee08716a03e43d8f226efe99a.json",
-    "passed": false
-  }
+  "current_review_path": "records/reviews/71fe64c3d02b22477ab855c75b594804362a2c892ff8f0170f74384f52f00dcb.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/db8a67f09b43d07c32126405b397eafe5fb9ef08cab500c3f9e2abd1ea98cd6d.json"
 }

@@ -1,18 +1,11 @@
 {
   "no": 93,
   "word": "歧路亡羊",
-  "webp": "img/idioms/93.webp",
-  "original_sha256": "180dabf1f138977ec40dfb736aa52eaf5a7fd2bc2ff6a33eec02d89674535cb2",
-  "original": "originals/180dabf1f138977ec40dfb736aa52eaf5a7fd2bc2ff6a33eec02d89674535cb2.png",
+  "webp": "img/idioms/93-dc1d0b6dc317.webp",
+  "original_sha256": "dc1d0b6dc3178a23b88ad22a21a4fdafd145dd5a48003988fcf757e058364ab4",
+  "original": "originals/dc1d0b6dc3178a23b88ad22a21a4fdafd145dd5a48003988fcf757e058364ab4.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/7e86a7af32fcacdecb1ac54071746507168c139ff720e6eadb1b30811aea2ee8.json",
-  "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": "records/prompts/3c0986e04032cec889856829bb7eb955cf04e71946e09dc12637a429a17a832b.json",
-  "latest_rejected_candidate": {
-    "batch": "batch-23-group-1-redraw-35",
-    "original_sha256": "4174d24fe49a2241be7d41f6040510ad9a872880e66ceca693a5a31bbe7d973c",
-    "original_archive_path": "originals/4174d24fe49a2241be7d41f6040510ad9a872880e66ceca693a5a31bbe7d973c.png",
-    "review_archive_path": "records/reviews/da814d662505018922abb537cbaecfde38825f39bcb6532d86cefc9db839c7bb.json",
-    "passed": false
-  }
+  "current_review_path": "records/reviews/ffea288dafd15b96aee7abb274563ed6c730d7bf61ce9901dd1610427e7c7b29.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/745130b9a6ca0e8e527b4f3321b127d80be374efeaad013487daea7c7a188805.json"
 }
