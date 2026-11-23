@@ -12,7 +12,7 @@
     "original_archive": {
       "repository": "kckuo-ai/chengyu",
       "branch": "illustration-archive",
-      "commit": "85220ef7a43bd0910ea967c82b0aa560dd36a2a4",
+      "commit": "413eb89e0c41dd49bf17d826269160d587028469",
       "index_path": "index.json"
     }
   },
@@ -26,19 +26,19 @@
     "P1_total": 21,
     "originals_found": 1245,
     "originals_missing": 221,
-    "review_records": 1062,
-    "review_missing": 404,
-    "review_legacy": 551,
-    "review_eight_checks": 511,
-    "unique_task_idioms": 956,
+    "review_records": 1103,
+    "review_missing": 363,
+    "review_legacy": 556,
+    "review_eight_checks": 547,
+    "unique_task_idioms": 920,
     "action_counts": {
       "original_archive_missing": 221,
-      "review_legacy_checklist": 551,
+      "review_legacy_checklist": 556,
       "P3_optional_review": 36,
-      "review_record_missing": 404,
-      "review_unresolved": 5,
+      "review_record_missing": 363,
+      "review_unresolved": 10,
       "alt_contains_idiom_bigram": 19,
-      "prompt_record_missing": 10,
+      "prompt_record_missing": 9,
       "legacy_format_review": 111,
       "P2_style_review": 48,
       "red_neckerchief_review": 10
@@ -137,11 +137,47 @@
       "img/idioms/220.webp",
       "img/idioms/223.webp",
       "img/idioms/23.webp",
+      "img/idioms/230.webp",
+      "img/idioms/231.webp",
+      "img/idioms/233.webp",
+      "img/idioms/234.webp",
+      "img/idioms/235.webp",
+      "img/idioms/236.webp",
+      "img/idioms/238.webp",
+      "img/idioms/239.webp",
       "img/idioms/24.webp",
+      "img/idioms/240.webp",
+      "img/idioms/241.webp",
+      "img/idioms/242.webp",
+      "img/idioms/245-4b39e629f3.webp",
       "img/idioms/245.webp",
+      "img/idioms/248.webp",
       "img/idioms/25.webp",
+      "img/idioms/251.webp",
+      "img/idioms/253.webp",
+      "img/idioms/254.webp",
+      "img/idioms/255.webp",
+      "img/idioms/256.webp",
+      "img/idioms/257.webp",
+      "img/idioms/258.webp",
+      "img/idioms/259.webp",
       "img/idioms/26.webp",
+      "img/idioms/260.webp",
+      "img/idioms/261.webp",
+      "img/idioms/263.webp",
+      "img/idioms/265.webp",
+      "img/idioms/266.webp",
+      "img/idioms/267.webp",
+      "img/idioms/268.webp",
+      "img/idioms/269.webp",
       "img/idioms/27.webp",
+      "img/idioms/271.webp",
+      "img/idioms/272.webp",
+      "img/idioms/273.webp",
+      "img/idioms/274.webp",
+      "img/idioms/276.webp",
+      "img/idioms/277.webp",
+      "img/idioms/278.webp",
       "img/idioms/3.webp",
       "img/idioms/32.webp",
       "img/idioms/33.webp",
@@ -1021,7 +1057,8 @@
       "no": 227,
       "word": "強詞奪理",
       "actions": [
-        "review_record_missing"
+        "review_legacy_checklist",
+        "review_unresolved"
       ],
       "src": "img/idioms/227.webp",
       "original_sha256": "496cc34f50a70f4bf06b4c0a600ae2494da93f383b68f6cd0dd770b1d5723108",
@@ -1032,7 +1069,8 @@
       "no": 228,
       "word": "投鞭斷流",
       "actions": [
-        "review_record_missing"
+        "review_legacy_checklist",
+        "review_unresolved"
       ],
       "src": "img/idioms/228.webp",
       "original_sha256": "af93c91ba35bef4acee24194efed0e8abca29cf780f0bbc1ad8411d23f13b906",
@@ -1043,7 +1081,8 @@
       "no": 229,
       "word": "天花亂墜",
       "actions": [
-        "review_record_missing"
+        "review_legacy_checklist",
+        "review_unresolved"
       ],
       "src": "img/idioms/229.webp",
       "original_sha256": "056903289deebfaa84f132a909c1ded4d8471eb405964c4ded61c0f8d170c301",
@@ -1051,82 +1090,17 @@
       "original_archive_path": "originals/056903289deebfaa84f132a909c1ded4d8471eb405964c4ded61c0f8d170c301.png"
     },
     {
-      "no": 230,
-      "word": "不速之客",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/230.webp",
-      "original_sha256": "f0beefdd4f5b93433461349bda151c1b80d6a730cf08c6862756e0926a6b1a0a",
-      "original_available": true,
-      "original_archive_path": "originals/f0beefdd4f5b93433461349bda151c1b80d6a730cf08c6862756e0926a6b1a0a.png"
-    },
-    {
-      "no": 231,
-      "word": "勢不兩立",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/231.webp",
-      "original_sha256": "40d1d5555387860a082ecc5f4a8442b063356c292ca37aa1ab611c54e509ff59",
-      "original_available": true,
-      "original_archive_path": "originals/40d1d5555387860a082ecc5f4a8442b063356c292ca37aa1ab611c54e509ff59.png"
-    },
-    {
       "no": 232,
       "word": "開誠布公",
       "actions": [
-        "review_record_missing",
+        "review_legacy_checklist",
+        "review_unresolved",
         "P3_optional_review"
       ],
       "src": "img/idioms/232.webp",
       "original_sha256": "1ae0ec35c98c79dfbf6fe6c40829b5381cf3e198d66afa8fc65af914db78b6f4",
       "original_available": true,
       "original_archive_path": "originals/1ae0ec35c98c79dfbf6fe6c40829b5381cf3e198d66afa8fc65af914db78b6f4.png"
-    },
-    {
-      "no": 233,
-      "word": "別出心裁",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/233.webp",
-      "original_sha256": "d3011de837392e83600bd3a9a5ef8a7742f08a9877b80a181885233d12ce93d7",
-      "original_available": true,
-      "original_archive_path": "originals/d3011de837392e83600bd3a9a5ef8a7742f08a9877b80a181885233d12ce93d7.png"
-    },
-    {
-      "no": 234,
-      "word": "大公無私",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/234.webp",
-      "original_sha256": "6f47a7128e37025a914d75b9cfab952e4ef144b391925698623d0978a81ef932",
-      "original_available": true,
-      "original_archive_path": "originals/6f47a7128e37025a914d75b9cfab952e4ef144b391925698623d0978a81ef932.png"
-    },
-    {
-      "no": 235,
-      "word": "落井下石",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/235.webp",
-      "original_sha256": "278867e5e82dc828ccc16760df19b9a9190c7fb24f82c210be2cca899abe99f4",
-      "original_available": true,
-      "original_archive_path": "originals/278867e5e82dc828ccc16760df19b9a9190c7fb24f82c210be2cca899abe99f4.png"
-    },
-    {
-      "no": 236,
-      "word": "一絲不苟",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/236.webp",
-      "original_sha256": "eb857a18070876470186bc38e64d1208a90dfc56951c883a8abd2ce29e783a9a",
-      "original_available": true,
-      "original_archive_path": "originals/eb857a18070876470186bc38e64d1208a90dfc56951c883a8abd2ce29e783a9a.png"
     },
     {
       "no": 237,
@@ -1140,61 +1114,6 @@
       "original_archive_path": "originals/eb20667c38b124df4572dcde10a777541f653acebfddb914b1bc8fe4067fcfa3.png"
     },
     {
-      "no": 238,
-      "word": "撲朔迷離",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/238.webp",
-      "original_sha256": "b38b6aab29ba3fe48c8ea2d0c496036c5cc6882f72104c098d12b4556a494b8c",
-      "original_available": true,
-      "original_archive_path": "originals/b38b6aab29ba3fe48c8ea2d0c496036c5cc6882f72104c098d12b4556a494b8c.png"
-    },
-    {
-      "no": 239,
-      "word": "舉足輕重",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/239.webp",
-      "original_sha256": "2fc0004cdc1613592bfc72213a938a0172f92908621452e75b8922e82309a11b",
-      "original_available": true,
-      "original_archive_path": "originals/2fc0004cdc1613592bfc72213a938a0172f92908621452e75b8922e82309a11b.png"
-    },
-    {
-      "no": 240,
-      "word": "臨渴掘井",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/240.webp",
-      "original_sha256": "76b8ba33489bb8ba08c1a7fd164c09c67baabfbf92bf6939910ec6beaae89db0",
-      "original_available": true,
-      "original_archive_path": "originals/76b8ba33489bb8ba08c1a7fd164c09c67baabfbf92bf6939910ec6beaae89db0.png"
-    },
-    {
-      "no": 241,
-      "word": "再接再厲",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/241.webp",
-      "original_sha256": "aaa99cd79cf1ffdce98da40742cde2ce5d313b94fc6e7517355697240be4eba5",
-      "original_available": true,
-      "original_archive_path": "originals/aaa99cd79cf1ffdce98da40742cde2ce5d313b94fc6e7517355697240be4eba5.png"
-    },
-    {
-      "no": 242,
-      "word": "八面玲瓏",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/242.webp",
-      "original_sha256": "925255d17ed9805d799f5132a58170fbd995b6590a0c63453bb04973f1133193",
-      "original_available": true,
-      "original_archive_path": "originals/925255d17ed9805d799f5132a58170fbd995b6590a0c63453bb04973f1133193.png"
-    },
-    {
       "no": 243,
       "word": "姍姍來遲",
       "actions": [
@@ -1204,17 +1123,6 @@
       "original_sha256": "95ce31e5c4267d1306cc61c8054f0fd6deb95e9032f2b0916fb4e35229f07604",
       "original_available": true,
       "original_archive_path": "originals/95ce31e5c4267d1306cc61c8054f0fd6deb95e9032f2b0916fb4e35229f07604.png"
-    },
-    {
-      "no": 245,
-      "word": "明日黃花",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/245-4b39e629f3.webp",
-      "original_sha256": "4b39e629f34ee10d31d5d22bdf239c83d8a684b8cae7349b3d00521c32f0fa6d",
-      "original_available": true,
-      "original_archive_path": "originals/4b39e629f34ee10d31d5d22bdf239c83d8a684b8cae7349b3d00521c32f0fa6d.png"
     },
     {
       "no": 246,
@@ -1228,21 +1136,11 @@
       "original_archive_path": "originals/4af12f1aacbc22eefecaf9e9079eab853a932a65f2ad7d96198069d121c3a284.png"
     },
     {
-      "no": 248,
-      "word": "百發百中",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/248.webp",
-      "original_sha256": "b27bb7d5a0f1e0316023f1029c73e7e52011cce617ccfb60783f7acf6e610b2a",
-      "original_available": true,
-      "original_archive_path": "originals/b27bb7d5a0f1e0316023f1029c73e7e52011cce617ccfb60783f7acf6e610b2a.png"
-    },
-    {
       "no": 249,
       "word": "罄竹難書",
       "actions": [
-        "review_record_missing"
+        "review_legacy_checklist",
+        "review_unresolved"
       ],
       "src": "img/idioms/249.webp",
       "original_sha256": "71adf6842969b64d093f8e33e2eb7d992851ad3acbbd7be81ab328ed6089f305",
@@ -1261,17 +1159,6 @@
       "original_archive_path": "originals/feef902055bfb7d9204f59fd2f34c33efea3f2cdc166035cf085f38e1d91de95.png"
     },
     {
-      "no": 251,
-      "word": "自暴自棄",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/251.webp",
-      "original_sha256": "6dc1698c1d10b7e3b61c90fb682ac9002543be06f444f4a4c5e76e5567469fb4",
-      "original_available": true,
-      "original_archive_path": "originals/6dc1698c1d10b7e3b61c90fb682ac9002543be06f444f4a4c5e76e5567469fb4.png"
-    },
-    {
       "no": 252,
       "word": "一意孤行",
       "actions": [
@@ -1281,105 +1168,6 @@
       "original_sha256": "fa2c7a4891d87a48356a28a558f6192f5f48e6f4d1d04b2708017ada36b5447d",
       "original_available": true,
       "original_archive_path": "originals/fa2c7a4891d87a48356a28a558f6192f5f48e6f4d1d04b2708017ada36b5447d.png"
-    },
-    {
-      "no": 253,
-      "word": "汗牛充棟",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/253.webp",
-      "original_sha256": "b0bb13095c2d86e7c4c8175a29728087df99a57abf0140edc99c9f621bcc5780",
-      "original_available": true,
-      "original_archive_path": "originals/b0bb13095c2d86e7c4c8175a29728087df99a57abf0140edc99c9f621bcc5780.png"
-    },
-    {
-      "no": 254,
-      "word": "仰人鼻息",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/254.webp",
-      "original_sha256": "4838cfc286d56c9546f340cb0a2b0e89ec30e840883fde310043f7a87810df1e",
-      "original_available": true,
-      "original_archive_path": "originals/4838cfc286d56c9546f340cb0a2b0e89ec30e840883fde310043f7a87810df1e.png"
-    },
-    {
-      "no": 255,
-      "word": "高枕無憂",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/255.webp",
-      "original_sha256": "8260070aa2b16dcdaa97da45b081d030d4ebe179ad7e32516fcc53ce1d424e24",
-      "original_available": true,
-      "original_archive_path": "originals/8260070aa2b16dcdaa97da45b081d030d4ebe179ad7e32516fcc53ce1d424e24.png"
-    },
-    {
-      "no": 256,
-      "word": "家喻戶曉",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/256.webp",
-      "original_sha256": "64865d4a713e0ada93db80eb74e01fc8c1a3f305530993b6eaaf789dbe7b117a",
-      "original_available": true,
-      "original_archive_path": "originals/64865d4a713e0ada93db80eb74e01fc8c1a3f305530993b6eaaf789dbe7b117a.png"
-    },
-    {
-      "no": 257,
-      "word": "安步當車",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/257.webp",
-      "original_sha256": "e7345a9a8073ada56088aaf0a8bd1fe29a72052f1af4dabeb715117f2a4d7b2d",
-      "original_available": true,
-      "original_archive_path": "originals/e7345a9a8073ada56088aaf0a8bd1fe29a72052f1af4dabeb715117f2a4d7b2d.png"
-    },
-    {
-      "no": 258,
-      "word": "乳臭未乾",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/258.webp",
-      "original_sha256": "dbc9850d6e91ee70bbb091c1bd7fe7b9ad4925174248963c34cc74714a862e32",
-      "original_available": true,
-      "original_archive_path": "originals/dbc9850d6e91ee70bbb091c1bd7fe7b9ad4925174248963c34cc74714a862e32.png"
-    },
-    {
-      "no": 259,
-      "word": "開門揖盜",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/259.webp",
-      "original_sha256": "5692c4fdefb6543d038b387c2819e4570d6fc4a80541ae219e8be5775fdc195d",
-      "original_available": true,
-      "original_archive_path": "originals/5692c4fdefb6543d038b387c2819e4570d6fc4a80541ae219e8be5775fdc195d.png"
-    },
-    {
-      "no": 260,
-      "word": "危如累卵",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/260.webp",
-      "original_sha256": "6ac3f6d56c1e1078947cf7a0cc3d603a53e8e1a41c15f295f5e972b83b88ff54",
-      "original_available": true,
-      "original_archive_path": "originals/6ac3f6d56c1e1078947cf7a0cc3d603a53e8e1a41c15f295f5e972b83b88ff54.png"
-    },
-    {
-      "no": 261,
-      "word": "一見如故",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/261.webp",
-      "original_sha256": "65c8e9db64b449a4ec78f74b345da32ab5d5496eccf70a269c218d34c786b969",
-      "original_available": true,
-      "original_archive_path": "originals/65c8e9db64b449a4ec78f74b345da32ab5d5496eccf70a269c218d34c786b969.png"
     },
     {
       "no": 262,
@@ -1393,17 +1181,6 @@
       "original_archive_path": "originals/f5be845195b0ca6b051aff61ac6fd798069b9e20ad8e8e47cf2621714bb4fac8.png"
     },
     {
-      "no": 263,
-      "word": "小巫見大巫",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/263.webp",
-      "original_sha256": "47174de68e064dff8aa926713bdb207c2562dbd6ba17aeb46e69ccaeb2378a6b",
-      "original_available": true,
-      "original_archive_path": "originals/47174de68e064dff8aa926713bdb207c2562dbd6ba17aeb46e69ccaeb2378a6b.png"
-    },
-    {
       "no": 264,
       "word": "怒髮衝冠",
       "actions": [
@@ -1413,62 +1190,6 @@
       "original_sha256": "df3501a28aa966fd36c28e878c3a537e4e8686842bdf949450068a0785abb0bc",
       "original_available": true,
       "original_archive_path": "originals/df3501a28aa966fd36c28e878c3a537e4e8686842bdf949450068a0785abb0bc.png"
-    },
-    {
-      "no": 265,
-      "word": "一塵不染",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/265.webp",
-      "original_sha256": "d2616fd9567eac91a1f6332e7d0ed924b4831edf19d49619d67d7d223a010501",
-      "original_available": true,
-      "original_archive_path": "originals/d2616fd9567eac91a1f6332e7d0ed924b4831edf19d49619d67d7d223a010501.png"
-    },
-    {
-      "no": 266,
-      "word": "三令五申",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/266.webp",
-      "original_sha256": "7f59571dee1e13391877679979586b8b83ef3f934274589c0280da3466cdb1ee",
-      "original_available": true,
-      "original_archive_path": "originals/7f59571dee1e13391877679979586b8b83ef3f934274589c0280da3466cdb1ee.png"
-    },
-    {
-      "no": 267,
-      "word": "愚公移山",
-      "actions": [
-        "review_record_missing",
-        "prompt_record_missing"
-      ],
-      "src": "img/idioms/267.webp",
-      "original_sha256": "b469d74cd5cc784bfffec9815e91ebd55ac3b712bf26624b3c954563f8613daa",
-      "original_available": true,
-      "original_archive_path": "originals/b469d74cd5cc784bfffec9815e91ebd55ac3b712bf26624b3c954563f8613daa.png"
-    },
-    {
-      "no": 268,
-      "word": "口蜜腹劍",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/268.webp",
-      "original_sha256": "990873279c7081a005f88fc1d5272f18c6eb8ec6f9c0e8a52404d25f6e9cacce",
-      "original_available": true,
-      "original_archive_path": "originals/990873279c7081a005f88fc1d5272f18c6eb8ec6f9c0e8a52404d25f6e9cacce.png"
-    },
-    {
-      "no": 269,
-      "word": "短兵相接",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/269.webp",
-      "original_sha256": "7557ae5233dea0df6a6fe07e2889dbedf2970316a7a025b0009e968cbe281e63",
-      "original_available": true,
-      "original_archive_path": "originals/7557ae5233dea0df6a6fe07e2889dbedf2970316a7a025b0009e968cbe281e63.png"
     },
     {
       "no": 270,
@@ -1482,50 +1203,6 @@
       "original_archive_path": "originals/fe283eacdb965128d0a20f45a5def1fbdf73527ad943f42a7a622ba87671e065.png"
     },
     {
-      "no": 271,
-      "word": "別開生面",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/271.webp",
-      "original_sha256": "5dea10b5cb720cc9f7f6777644b974a1c14efbf862dae50d860105369263d59b",
-      "original_available": true,
-      "original_archive_path": "originals/5dea10b5cb720cc9f7f6777644b974a1c14efbf862dae50d860105369263d59b.png"
-    },
-    {
-      "no": 272,
-      "word": "枕戈待旦",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/272.webp",
-      "original_sha256": "946cc888a89d53b4775909e184688786ff9c9808810575cdf943d23c498430f1",
-      "original_available": true,
-      "original_archive_path": "originals/946cc888a89d53b4775909e184688786ff9c9808810575cdf943d23c498430f1.png"
-    },
-    {
-      "no": 273,
-      "word": "事半功倍",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/273.webp",
-      "original_sha256": "161a6dcc18d798106ea8ac5e63be75b237a45050ff32c0e70e24d86692f93be6",
-      "original_available": true,
-      "original_archive_path": "originals/161a6dcc18d798106ea8ac5e63be75b237a45050ff32c0e70e24d86692f93be6.png"
-    },
-    {
-      "no": 274,
-      "word": "數典忘祖",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/274.webp",
-      "original_sha256": "7b8953d2f7d9f77a522402585740aba2fe833cc2179c9d17eddb260105b35294",
-      "original_available": true,
-      "original_archive_path": "originals/7b8953d2f7d9f77a522402585740aba2fe833cc2179c9d17eddb260105b35294.png"
-    },
-    {
       "no": 275,
       "word": "中流砥柱",
       "actions": [
@@ -1535,39 +1212,6 @@
       "original_sha256": "13fb412220491e1974dc85abec3b4484a313f0cd069b90f75f3226c092d14032",
       "original_available": true,
       "original_archive_path": "originals/13fb412220491e1974dc85abec3b4484a313f0cd069b90f75f3226c092d14032.png"
-    },
-    {
-      "no": 276,
-      "word": "欲蓋彌彰",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/276.webp",
-      "original_sha256": "45fd490f5a67afdf6e3fcc4601b948c4d496bbfc483f38b6a0230eeb43c415dc",
-      "original_available": true,
-      "original_archive_path": "originals/45fd490f5a67afdf6e3fcc4601b948c4d496bbfc483f38b6a0230eeb43c415dc.png"
-    },
-    {
-      "no": 277,
-      "word": "對症下藥",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/277.webp",
-      "original_sha256": "311e1b1457024d52f737d2407e4776410eeffcc075a3f4b532de8776be1299a6",
-      "original_available": true,
-      "original_archive_path": "originals/311e1b1457024d52f737d2407e4776410eeffcc075a3f4b532de8776be1299a6.png"
-    },
-    {
-      "no": 278,
-      "word": "按部就班",
-      "actions": [
-        "review_record_missing"
-      ],
-      "src": "img/idioms/278.webp",
-      "original_sha256": "ad3202a18f9649ae1a9084085d36c8cec2268c6b786ff9e6b75340da88b420d2",
-      "original_available": true,
-      "original_archive_path": "originals/ad3202a18f9649ae1a9084085d36c8cec2268c6b786ff9e6b75340da88b420d2.png"
     },
     {
       "no": 279,
