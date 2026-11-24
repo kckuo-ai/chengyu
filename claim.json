@@ -8,7 +8,25 @@
     216
   ],
   "source_commit": "68537ff07fa283f34fe7ff78580fa1da0f508b38",
-  "status": "generating requested replacements; not published",
+  "status": "awaiting independent review; not published",
   "owner": "single image generation session",
-  "related_delivery": "batch-31 already contains requested replacements for 295,297,301,305,308,309; awaiting independent review"
+  "related_delivery": "batch-31 already contains requested replacements for 295,297,301,305,308,309; awaiting independent review",
+  "newly_redrawn_count": 5,
+  "included_prior_delivery": {
+    "batch": 31,
+    "scope": [
+      295,
+      297,
+      301,
+      305,
+      308,
+      309
+    ],
+    "commit": "4b546172c5cd00b72e8cf71542a119ac5527c86f",
+    "note": "Previously redrawn and delivered; copied unchanged into combined review archive."
+  },
+  "count": 11,
+  "archive": "batch-32-unresolved-11.zip",
+  "bytes": 37281273,
+  "sha256": "f3a3d31d969534706981ca0e6bbb2968ad14cac3722596d08bd814fce7b4c3b7"
 }
