@@ -1,11 +1,11 @@
 {
   "no": 318,
   "word": "才高八斗",
-  "webp": "img/idioms/318.webp",
-  "original_sha256": "5afe41e948c4d300731df3461a2f5e2e087d77eea3f3193bf8aa87f16ae57e49",
-  "original": "originals/5afe41e948c4d300731df3461a2f5e2e087d77eea3f3193bf8aa87f16ae57e49.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/083d9572109540239b232e4e04d9b84b22600d62b6257c0ef0bad33bf0b2777e.json"
+  "webp": "img/idioms/318-5f4de60f9496.webp",
+  "original_sha256": "5f4de60f9496067f83427380234c5b95b0fd5deabf613b5609c786af72078640",
+  "original": "originals/5f4de60f9496067f83427380234c5b95b0fd5deabf613b5609c786af72078640.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/596a60621b2ba27bf9edf77cea77413cbdd9b27ceee399cd56bd260d97aa8ae2.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/2d2d3c6e9ecc0bae5442e016eccd42910ad1f8ab629953874071a41ca11a7097.json"
 }

@@ -1,18 +1,11 @@
 {
   "no": 249,
   "word": "罄竹難書",
-  "webp": "img/idioms/249.webp",
-  "original_sha256": "71adf6842969b64d093f8e33e2eb7d992851ad3acbbd7be81ab328ed6089f305",
-  "original": "originals/71adf6842969b64d093f8e33e2eb7d992851ad3acbbd7be81ab328ed6089f305.png",
+  "webp": "img/idioms/249-cb346da65bd7.webp",
+  "original_sha256": "cb346da65bd7e0ab5c99464d543c51c278e68fdf9d6e6362cb1c1a05ecd72adc",
+  "original": "originals/cb346da65bd7e0ab5c99464d543c51c278e68fdf9d6e6362cb1c1a05ecd72adc.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/fe968c9ac4a62e21d5dc4c9f7f9696c5c2ab585d125476509a0991b85601d56f.json",
-  "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": "records/prompts/6da6fc506ee0f1c148a6797313e9f74a8ca080ffb8c25b93e893cd02022abe33.json",
-  "latest_rejected_candidate": {
-    "batch": "batch-28-group-4-redraw-41",
-    "original_sha256": "3d597440e7fba40b5a4193568c5d86e5e0292e06a5d869245823582fa27eea79",
-    "original_archive_path": "originals/3d597440e7fba40b5a4193568c5d86e5e0292e06a5d869245823582fa27eea79.png",
-    "review_archive_path": "records/reviews/51d308cabc35de017b167989ffd07522ccf58bec3b646bc902fb9f62e7a7bfdc.json",
-    "passed": false
-  }
+  "current_review_path": "records/reviews/0e015cfcefe673914643703a7f8a19e79030225646435b78febe0b4b63466081.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/edcf6ab026a0c6ff6bf18d8d70412cb42fdc788a2a86e936eba213588f663cff.json"
 }

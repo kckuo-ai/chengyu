@@ -1,18 +1,11 @@
 {
   "no": 228,
   "word": "投鞭斷流",
-  "webp": "img/idioms/228.webp",
-  "original_sha256": "af93c91ba35bef4acee24194efed0e8abca29cf780f0bbc1ad8411d23f13b906",
-  "original": "originals/af93c91ba35bef4acee24194efed0e8abca29cf780f0bbc1ad8411d23f13b906.png",
+  "webp": "img/idioms/228-59bddf68648a.webp",
+  "original_sha256": "59bddf68648a77fc88ec8f84be56a01dadd0e6f9784a894e71367c25eb7cfa80",
+  "original": "originals/59bddf68648a77fc88ec8f84be56a01dadd0e6f9784a894e71367c25eb7cfa80.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/9fd429b434c1b1565edc936bfeab590cfdf3f056c584016cdc8e69d44b7a695c.json",
-  "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": "records/prompts/58201384b8162f66d7d43d25d62c9fbedb9c773e826c5f10dc7fd3507193be3d.json",
-  "latest_rejected_candidate": {
-    "batch": "batch-28-group-4-redraw-41",
-    "original_sha256": "39187f31543304cdd337ccc9a3f27f2ca2547685dd771ede38f1aac61095db90",
-    "original_archive_path": "originals/39187f31543304cdd337ccc9a3f27f2ca2547685dd771ede38f1aac61095db90.png",
-    "review_archive_path": "records/reviews/814fee81f343314c1d6200ea8aaa868a4fa1d16a1817caeefa73ae115b9af890.json",
-    "passed": false
-  }
+  "current_review_path": "records/reviews/46f2b567adfb3242f71e6dddea7856aa95c4fa06e51506db84199cbad8385d6e.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/132b747113743410265210feda01485708569c29f2eb9b80b81688afbf943dc0.json"
 }

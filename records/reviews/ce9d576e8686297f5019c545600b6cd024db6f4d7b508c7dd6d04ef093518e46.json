@@ -1,0 +1,91 @@
+{
+  "no": 301,
+  "kind": "existing",
+  "word": "曲高和寡",
+  "path": "/workspace/chengyu-preservation/originals/1528f973996112f5e37b4bec8821a24cb37fcd7ba2b77e9c0733b75298c5bc17.png",
+  "original_sha256": "1528f973996112f5e37b4bec8821a24cb37fcd7ba2b77e9c0733b75298c5bc17",
+  "original_available": true,
+  "review_source_sha256": "1528f973996112f5e37b4bec8821a24cb37fcd7ba2b77e9c0733b75298c5bc17",
+  "webp_src": "img/idioms/301.webp",
+  "webp_sha256": "9590e05b4ec17ec4a15e1b9d62b126ee76613901ff66d986b68609eeffe94e73",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "男子專心彈奏古琴，藍色旋線在上方描繪樂聲；五位聽眾坐在木椅上，多半托腮皺眉、神情困惑，沒有人跟著唱和或露出共鳴。",
+  "issues": [
+    "meaning: 聽眾困惑與無共鳴可讀，但畫面未建立作品高深精妙，也可能彈得不好或單純聽不懂，不能確定曲高的前提。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "聽眾困惑與無共鳴可讀，但畫面未建立作品高深精妙，也可能彈得不好或單純聽不懂，不能確定曲高的前提。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "演奏者與困惑聽眾分兩側，手機清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "撥弦兩掌五指或側視遮擋自然、聽眾托腮搭膝掌自然，肩臂連續、坐姿正常。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "琴弦跨琴身、琴落桌、凳托坐者，聲音曲線屬表意線。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "未見音符字母、琴書畫無題字數碼，無品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣茶藝音樂空間、亞麻便服與古琴演出可並存，非必然古代。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "六人領口無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻無法引起大眾的共鳴。",
+    "syn": "陽春白雪",
+    "ant": "一唱百和、下里巴人"
+  },
+  "latest_rejected_candidate": {
+    "batch": "batch-29-group-5-redraw-26",
+    "original_sha256": "2ab94df397dc4994eb5a709ad745c7618b959ddf3559d57bba9c564a0ac480bd",
+    "original_archive_path": "originals/2ab94df397dc4994eb5a709ad745c7618b959ddf3559d57bba9c564a0ac480bd.png",
+    "review_archive_path": "records/reviews/2ee30853d50c05159b62143f0d5f87487cc2fd7d70349cf4746fbc7c8f7b27a5.json",
+    "passed": false
+  }
+}

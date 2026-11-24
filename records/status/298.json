@@ -1,11 +1,11 @@
 {
   "no": 298,
   "word": "平步青雲",
-  "webp": "img/idioms/298.webp",
-  "original_sha256": "ad5c8fad634ea38e2c70dd9b30afbb1f7e6a41bfff5d786eb7e6f5b91121c695",
-  "original": "originals/ad5c8fad634ea38e2c70dd9b30afbb1f7e6a41bfff5d786eb7e6f5b91121c695.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/d16be31b4dd1e804e8421358becda0a0374ebe7aa54229368367bdec14c85c38.json"
+  "webp": "img/idioms/298-c888cbd3c32f.webp",
+  "original_sha256": "c888cbd3c32f88d0e4102931a4d6fc504a276120e87962d75f75b6f2a11077e5",
+  "original": "originals/c888cbd3c32f88d0e4102931a4d6fc504a276120e87962d75f75b6f2a11077e5.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/a3ddd15054006ba472b17a1866c18e62b8e38229b54e0eb60a56a29144d5e7f5.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/0d9b66ade4206c087bf6614381fd30e80caa938c756e699d678dd0fb474d64ee.json"
 }

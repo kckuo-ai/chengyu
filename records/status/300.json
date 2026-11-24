@@ -1,11 +1,11 @@
 {
   "no": 300,
   "word": "自怨自艾",
-  "webp": "img/idioms/300.webp",
-  "original_sha256": "b48b44a3e1f3edd47b251f641bf456e32900da766e280372819cd0d2861b28c9",
-  "original": "originals/b48b44a3e1f3edd47b251f641bf456e32900da766e280372819cd0d2861b28c9.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/6351c9936a113f73e964c43ddaf2a8e8d637dbb5dfbab76915fa62ad4af266a8.json"
+  "webp": "img/idioms/300-ea098dcd6a55.webp",
+  "original_sha256": "ea098dcd6a552b3b52e1f6b41edce5e8d05faa94c046b49099cef2e56adf5571",
+  "original": "originals/ea098dcd6a552b3b52e1f6b41edce5e8d05faa94c046b49099cef2e56adf5571.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/da7fa2209138185e937612b501c5f61c3e8eade993bc05c2fead0dd36f43a740.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/399015ee015c94ffabcb36be8880ff25aec50fb6bd3b3d185c9fe50fae63a8fe.json"
 }

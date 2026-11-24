@@ -1,18 +1,11 @@
 {
   "no": 229,
   "word": "天花亂墜",
-  "webp": "img/idioms/229.webp",
-  "original_sha256": "056903289deebfaa84f132a909c1ded4d8471eb405964c4ded61c0f8d170c301",
-  "original": "originals/056903289deebfaa84f132a909c1ded4d8471eb405964c4ded61c0f8d170c301.png",
+  "webp": "img/idioms/229-b10492b1b29f.webp",
+  "original_sha256": "b10492b1b29f2574d50eb9aa6a212f646572d6729e69bf53f95a7192f3ecd516",
+  "original": "originals/b10492b1b29f2574d50eb9aa6a212f646572d6729e69bf53f95a7192f3ecd516.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/0000a94a2b928f6f2449e872db5009d6a75407df191e615f53b88ac0d6b84580.json",
-  "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": "records/prompts/eaaddea07630f6c89b588ac7e1cb8bedc2299837b9a7a71e1a677712a8a02d3d.json",
-  "latest_rejected_candidate": {
-    "batch": "batch-28-group-4-redraw-41",
-    "original_sha256": "4c087e6abd3a226fd648224ddf6a168ff5cc8807dea39211ba385a321b48eda6",
-    "original_archive_path": "originals/4c087e6abd3a226fd648224ddf6a168ff5cc8807dea39211ba385a321b48eda6.png",
-    "review_archive_path": "records/reviews/51ae9711f3e1b6ce0f68f76a62b6698088b95c2cd909a010f6190f78c043c243.json",
-    "passed": false
-  }
+  "current_review_path": "records/reviews/51d29d40571e3943ce771e88f722c1a334362374c7f7eff4039d121af05cea43.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/19a11d236f21cba5d7675132977f1f44496c7618030a1d0f9a10bd00941687f5.json"
 }

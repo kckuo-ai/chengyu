@@ -1,0 +1,91 @@
+{
+  "no": 309,
+  "kind": "existing",
+  "word": "水乳交融",
+  "path": "/workspace/chengyu-preservation/originals/1c5d035e23bb7aa94f98f75aff2adb64fceec83051652f49f038ca1dc8e8547c.png",
+  "original_sha256": "1c5d035e23bb7aa94f98f75aff2adb64fceec83051652f49f038ca1dc8e8547c",
+  "original_available": true,
+  "review_source_sha256": "1c5d035e23bb7aa94f98f75aff2adb64fceec83051652f49f038ca1dc8e8547c",
+  "webp_src": "img/idioms/309.webp",
+  "webp_sha256": "175bcbdb33ac5ef031eeece7b76643707b64a8b84461aa78079a2995175e2f19",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-23",
+  "review_batch": "full-audit-20261123/group-05",
+  "alt": "男子站在梯邊替牆上畫葉片輪廓，女子坐在下方接著鋪上藍綠水彩；兩人相視微笑，把植物與流水畫成同一片連續圖案，貓在旁熟睡。",
+  "issues": [
+    "meaning: 僅見兩人協作壁畫、線與色銜接，沒有關係密切不可分的進一步線索；可能一般同事合作，與契合無間尚難確定。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "僅見兩人協作壁畫、線與色銜接，沒有關係密切不可分的進一步線索；可能一般同事合作，與契合無間尚難確定。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "上下合作同壁畫清楚，手機可讀。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男子持筆持圖、女子畫刷托盤五指或物遮自然，臂肩連續，坐站重心合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "筆觸壁、盤受手托、梯腿桌凳落地、杯水有桌托，支撐正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "紙圖僅植物葉形、器物無字碼，未見文字字母類字品牌水印。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣壁畫工作室、便服圍裙成年人自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "兩人衣領及交叉背帶無紅領巾圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "candidate_count": 212,
+      "sheets_viewed": 9,
+      "extra_full_images_viewed": [
+        66,
+        619,
+        598
+      ],
+      "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
+      "near_duplicates": {
+        "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
+      },
+      "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻彼此關係密切，契合無間。",
+    "syn": "如膠似漆、形影不離、情投意合、渾然一體",
+    "ant": "水火不容、反目成仇、水米無交、冰炭不容、格格不入、針鋒相對、誓不兩立"
+  },
+  "latest_rejected_candidate": {
+    "batch": "batch-29-group-5-redraw-26",
+    "original_sha256": "1f4aba848bf6d85f9a6be30a6c8423d2be8dcdacb31b137feb4ff907d8800b91",
+    "original_archive_path": "originals/1f4aba848bf6d85f9a6be30a6c8423d2be8dcdacb31b137feb4ff907d8800b91.png",
+    "review_archive_path": "records/reviews/8fe237219f0bc9521124789ea6e60cd18f2e8cc4c15f5304139e201277644d4a.json",
+    "passed": false
+  }
+}

@@ -1,18 +1,11 @@
 {
   "no": 232,
   "word": "開誠布公",
-  "webp": "img/idioms/232.webp",
-  "original_sha256": "1ae0ec35c98c79dfbf6fe6c40829b5381cf3e198d66afa8fc65af914db78b6f4",
-  "original": "originals/1ae0ec35c98c79dfbf6fe6c40829b5381cf3e198d66afa8fc65af914db78b6f4.png",
+  "webp": "img/idioms/232-e5dd458c8354.webp",
+  "original_sha256": "e5dd458c8354edc64d71c9621c2be66b8f93913c45ca9e4b7b1dc88a34cef897",
+  "original": "originals/e5dd458c8354edc64d71c9621c2be66b8f93913c45ca9e4b7b1dc88a34cef897.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/8e121decb340a5d26eeb116a4e06d02c52fdf65634bd1ad8c4b6569071072b99.json",
-  "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": "records/prompts/09bd923c331a749283f87f388ed8f910eded51ec0d37db90b6c97e493b508eb0.json",
-  "latest_rejected_candidate": {
-    "batch": "batch-28-group-4-redraw-41",
-    "original_sha256": "02b099e628630d08e6cdb7d7429739a805bea8f4b4278191a408a967642fa6e5",
-    "original_archive_path": "originals/02b099e628630d08e6cdb7d7429739a805bea8f4b4278191a408a967642fa6e5.png",
-    "review_archive_path": "records/reviews/d418fe63781c0a13ef4e9b3122db98c20d071334761bfa45995324e3c9d08630.json",
-    "passed": false
-  }
+  "current_review_path": "records/reviews/908257a05540d5cac6a433dd36b66ca1231550e2abc2bf89f105ea12203c77da.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/e0f54bd718fa7eefce60687a0315f5224df69d5512c8a62062b0710a728ba141.json"
 }
