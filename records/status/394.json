@@ -1,11 +1,11 @@
 {
   "no": 394,
   "word": "呼風喚雨",
-  "webp": "img/idioms/394.webp",
-  "original_sha256": "98e5afee5a1a9cab074ec1e4a10c0a905806ab373adda62a49d7bb5d4dd3415a",
-  "original": "originals/98e5afee5a1a9cab074ec1e4a10c0a905806ab373adda62a49d7bb5d4dd3415a.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/a937f47f4f4eb4cced2b0be66b772e47bbaf2dc28c3c091655bafce0b60a801b.json"
+  "webp": "img/idioms/394-f323da87b56f.webp",
+  "original_sha256": "f323da87b56f843ad15402be508811c2b0053ebb09479f0dc5a11ebf510103a4",
+  "original": "originals/f323da87b56f843ad15402be508811c2b0053ebb09479f0dc5a11ebf510103a4.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/e62c76ab829fd260886430b680a5063507e961e368086feb5e44960ec468ae9d.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/03bdd3d4011d2e3ec9213c83239aebee497f7d0d60db4212bf58930ed5afa381.json"
 }

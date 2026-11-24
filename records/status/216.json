@@ -1,18 +1,11 @@
 {
   "no": 216,
   "word": "相敬如賓",
-  "webp": "img/idioms/216.webp",
-  "original_sha256": "b52ecaf831b202c0b14b28274c386332b47f6bdb5cc9b51d2a068080c7d5d198",
-  "original": "originals/b52ecaf831b202c0b14b28274c386332b47f6bdb5cc9b51d2a068080c7d5d198.png",
+  "webp": "img/idioms/216-3819fcbcc6f7.webp",
+  "original_sha256": "3819fcbcc6f763e0c86a0ce0cd95f82798be894629b9f1e21b8c1951132f443c",
+  "original": "originals/3819fcbcc6f763e0c86a0ce0cd95f82798be894629b9f1e21b8c1951132f443c.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/f81ff0da18cd9c549bbb7093512b5dceb84c443c14889e2121731d0525b8f241.json",
-  "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": "records/prompts/d7fa256fd19d91ee3f07f284e034054035b2a96bc573b592b02e09996f470269.json",
-  "latest_rejected_candidate": {
-    "batch": "batch-27-group-3-redraw-26",
-    "original_sha256": "48304bae0e509dd65b32a8fa619fe9c23131a8b5b513a8865d1b2544229a68d1",
-    "original_archive_path": "originals/48304bae0e509dd65b32a8fa619fe9c23131a8b5b513a8865d1b2544229a68d1.png",
-    "review_archive_path": "records/reviews/3350f6d4cd0baa4eefb93409e38a502a3bbf301f4132c38537abfd310cde01a7.json",
-    "passed": false
-  }
+  "current_review_path": "records/reviews/bb2f23d8f66a6810ed717b187c13f93e9f723dfc99ddd009792578c57d3e4d69.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/766ec03a343b30c81e252b4ce6b34968293c4e6bbde65359ac06bcecdccc0e21.json"
 }

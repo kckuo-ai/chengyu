@@ -1,11 +1,11 @@
 {
   "no": 364,
   "word": "四海為家",
-  "webp": "img/idioms/364.webp",
-  "original_sha256": "c55e7b7fb675a4a363f2d37df5bd2ee927eb7214e9e698ce53a1e4d0820e207e",
-  "original": "originals/c55e7b7fb675a4a363f2d37df5bd2ee927eb7214e9e698ce53a1e4d0820e207e.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/6228965fd1f5b448126d5fd9e7c056218767d4a88b363337411ef7c43ba0b319.json"
+  "webp": "img/idioms/364-d6f81a0ad7b4.webp",
+  "original_sha256": "d6f81a0ad7b40e3c3124776226e23e45aa77c7133312be29eb0908fe267542d0",
+  "original": "originals/d6f81a0ad7b40e3c3124776226e23e45aa77c7133312be29eb0908fe267542d0.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/ed16323c36652987d0a31e434f01a11ed026c4be871f73d21801609338ab70cf.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/92966dca339274ba1d540b61c80b42ba2953d92541e1b14106fba0ad1729dd8a.json"
 }

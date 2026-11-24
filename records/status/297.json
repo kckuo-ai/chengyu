@@ -1,18 +1,11 @@
 {
   "no": 297,
   "word": "六神無主",
-  "webp": "img/idioms/297.webp",
-  "original_sha256": "788661bec54786508e7a9a844a91a4fb9ebfb68f5cc451f96a076edb75a6e0ba",
-  "original": "originals/788661bec54786508e7a9a844a91a4fb9ebfb68f5cc451f96a076edb75a6e0ba.png",
+  "webp": "img/idioms/297-d91a973c18ce.webp",
+  "original_sha256": "d91a973c18cea034eee8fc3e9f782471dd05199e821eac1dbf6256b7e3270f89",
+  "original": "originals/d91a973c18cea034eee8fc3e9f782471dd05199e821eac1dbf6256b7e3270f89.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/c8cb0f8f69d9d37c785ec3acd694b8531a0c95cc2ff395dcf9a41727b9e665cd.json",
-  "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": "records/prompts/5f50e843b8f2279878905ff02fe93c58669a1c91f489cbd39a87130153351b08.json",
-  "latest_rejected_candidate": {
-    "batch": "batch-29-group-5-redraw-26",
-    "original_sha256": "59fa14187d308ab055f2ecc089408d1d5fc2fa8941b93c134351a80c094b189c",
-    "original_archive_path": "originals/59fa14187d308ab055f2ecc089408d1d5fc2fa8941b93c134351a80c094b189c.png",
-    "review_archive_path": "records/reviews/1497d0ed0fc1b63d96dd286b53eb28b952fea946ab2cdb0662c4ccbeebd34055.json",
-    "passed": false
-  }
+  "current_review_path": "records/reviews/d168eb77584a1e75a78358497572f80ef55fad658ac7e23b45b1ba15ef4a861e.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/1555a50bae2176255cdcd51df3b2708da89bb82ceba5f249553ec43e5ae7616e.json"
 }

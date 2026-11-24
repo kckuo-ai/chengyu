@@ -1,11 +1,11 @@
 {
   "no": 373,
   "word": "曇花一現",
-  "webp": "img/idioms/373.webp",
-  "original_sha256": "75fbdca731b1e8bfcd85666ee57f8b1f60feb7fc1446649c2c34b1bd1a683fa5",
-  "original": "originals/75fbdca731b1e8bfcd85666ee57f8b1f60feb7fc1446649c2c34b1bd1a683fa5.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/dd77dda0a44b4e89d3bf1e65cea4206000e3eb79b2e7ad38db96c2d1df413004.json"
+  "webp": "img/idioms/373-41d461e19039.webp",
+  "original_sha256": "41d461e19039d4523595043aae019f3c7ad5ce2c5ba03711d28df84edb33ac1d",
+  "original": "originals/41d461e19039d4523595043aae019f3c7ad5ce2c5ba03711d28df84edb33ac1d.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/75f2206b9396284417e548777d8dea455af2b1a7b52c13c512302fedf2daa3aa.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/09a0ff8a908c25ac91b9aae78d7ee995781cde6f76733b10925164db88ef2b09.json"
 }

@@ -1,11 +1,11 @@
 {
   "no": 352,
   "word": "駕輕就熟",
-  "webp": "img/idioms/352.webp",
-  "original_sha256": "28a208cc1822b1ffb8f688af8cb7ec6e686b8a52ae9575cc01aca6edaa3b2ae3",
-  "original": "originals/28a208cc1822b1ffb8f688af8cb7ec6e686b8a52ae9575cc01aca6edaa3b2ae3.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/0419ef1ec1666b678c3dd42d0c4e4114eb93582c3771df3ea1bd8d2ae5637fca.json"
+  "webp": "img/idioms/352-acff573bbfd0.webp",
+  "original_sha256": "acff573bbfd09839eed8a308b5d7a83858c56cbceff3e3aac39ee268b2988ca7",
+  "original": "originals/acff573bbfd09839eed8a308b5d7a83858c56cbceff3e3aac39ee268b2988ca7.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/b34360542f47a696bf1dbdffffdbc52ff3824b891c1c79e3ae155415ebe138ea.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/461c81382062fb550bf267fb6ea1dfd33bffe17cd2d8410323596d0b801558f4.json"
 }

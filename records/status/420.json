@@ -1,11 +1,11 @@
 {
   "no": 420,
   "word": "空穴來風",
-  "webp": "img/idioms/420.webp",
-  "original_sha256": "b1aa1d37bd18f50f9832fa31d71432e83b01dbee18d4b2c99ed11cbdc5eacdc0",
-  "original": "originals/b1aa1d37bd18f50f9832fa31d71432e83b01dbee18d4b2c99ed11cbdc5eacdc0.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/2c2a46e5096f9e3f9db69c0de975602b210d0e6ee130f9ffcc3ef0ea3bf9c72a.json"
+  "webp": "img/idioms/420-192fb7753999.webp",
+  "original_sha256": "192fb775399991a185240176140ed51414373a8a62b51235a48e9cb43d6d2ec4",
+  "original": "originals/192fb775399991a185240176140ed51414373a8a62b51235a48e9cb43d6d2ec4.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/6265fd9c7f678e2831b4b59361792a065cb960b5ca9b84f7b8bea719a41f29df.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/e345605c48050cfd1e3e74e149fc921d03583d04bcf2660d24f2c2cb8628a0cc.json"
 }

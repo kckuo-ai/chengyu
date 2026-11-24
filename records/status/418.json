@@ -1,11 +1,11 @@
 {
   "no": 418,
   "word": "束手無策",
-  "webp": "img/idioms/418.webp",
-  "original_sha256": "9c2cb09c9efe407fe58d0ad1b9bb0e1fed2bd2cfa0b2e2aa48a1db5e15ff0385",
-  "original": "originals/9c2cb09c9efe407fe58d0ad1b9bb0e1fed2bd2cfa0b2e2aa48a1db5e15ff0385.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/f6c5b9f5935d9c78944ac27571ac17135117003bc11a2d2247f4b6a79fcd969b.json"
+  "webp": "img/idioms/418-e1ded5967b92.webp",
+  "original_sha256": "e1ded5967b92523d2404b32ebb953e77cfe8329e4eaffbbe75defd444bbbbd2e",
+  "original": "originals/e1ded5967b92523d2404b32ebb953e77cfe8329e4eaffbbe75defd444bbbbd2e.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/1cf3f4ccdfd8d22dfeaca71e241968937e2d15c36d13d20ee065590e16f21c41.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/bfd535a8b32f528322692371154741af794910ed0f73073f47d0f004308fad4c.json"
 }

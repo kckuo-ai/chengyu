@@ -1,11 +1,11 @@
 {
   "no": 359,
   "word": "赴湯蹈火",
-  "webp": "img/idioms/359.webp",
-  "original_sha256": "1af48b4ac78cd41da1efd66acf00f70146beef1af322a208a0559e0d5e8d61cd",
-  "original": "originals/1af48b4ac78cd41da1efd66acf00f70146beef1af322a208a0559e0d5e8d61cd.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/bf363af3472185802e283e045d9c066087b2933e4a3a2f6ad2b9eddeffa81c15.json"
+  "webp": "img/idioms/359-1dab65d29583.webp",
+  "original_sha256": "1dab65d2958335f39a82fcef1e47832f64e7a7590ce0b7c62fd65a4dc6ebbc6c",
+  "original": "originals/1dab65d2958335f39a82fcef1e47832f64e7a7590ce0b7c62fd65a4dc6ebbc6c.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/0c53f1ca782d274f4f55be8b3d33b3f66b75e0ca691c6ce2bee9501506df48cb.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/ead2f0285ac967321c0ce56a6b75c283ace5f1413517d5a429cb3b57a3374f9d.json"
 }

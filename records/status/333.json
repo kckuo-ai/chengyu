@@ -1,11 +1,11 @@
 {
   "no": 333,
   "word": "殺雞取卵",
-  "webp": "img/idioms/333.webp",
-  "original_sha256": "d0b508846d31a09d0aab636c034c2696277452a339313533f86a980a8ae9b7f3",
-  "original": "originals/d0b508846d31a09d0aab636c034c2696277452a339313533f86a980a8ae9b7f3.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/545c86f67a027b335d5fa6627868454b539fa31a964a17d5608489fa5b60bd4f.json"
+  "webp": "img/idioms/333-22e2570abfd3.webp",
+  "original_sha256": "22e2570abfd3bcbbcffca6cd9f07c563fbb453717876ecf38507c7adb02c60e4",
+  "original": "originals/22e2570abfd3bcbbcffca6cd9f07c563fbb453717876ecf38507c7adb02c60e4.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/ecb37ab411e3420f0efafde2941624c2ece4514fc5b4517b07d961af316f9f47.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/7fb7b2f2142d983fd59a19d37562649d53f436ce04b3afdc8cbbdd9adae73983.json"
 }

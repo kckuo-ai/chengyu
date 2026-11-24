@@ -1,11 +1,11 @@
 {
   "no": 427,
   "word": "人云亦云",
-  "webp": "img/idioms/427.webp",
-  "original_sha256": "f5716dad06fa1907df5d2fc8f3930c50f00fbab827f0a9e7f7967a83a7a62ea1",
-  "original": "originals/f5716dad06fa1907df5d2fc8f3930c50f00fbab827f0a9e7f7967a83a7a62ea1.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/069402f67f9e0d92102f19f2449df39859ecf1dab58f543c9bf5d0d40dae9326.json"
+  "webp": "img/idioms/427-c641cf61121f.webp",
+  "original_sha256": "c641cf61121f32bd60947c8777e9362eac7f360130fd4aaf5345d7980cd4c395",
+  "original": "originals/c641cf61121f32bd60947c8777e9362eac7f360130fd4aaf5345d7980cd4c395.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/0afebdaf8bd09ba4c6c7eb5443602b419432f1c2a3b1eb9873ed895ea4bbab18.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/c6bed47d8edeb461378bbadc37f090dcf5c5a0025536258d7a3d05557989307a.json"
 }

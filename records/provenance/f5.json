@@ -7107,5 +7107,13 @@
       "batch": "batches-32-33",
       "source": "docs/illustration-prompts.json#entries/345"
     }
+  ],
+  "f5d8436226c9393df795abc29659225981b1ae80fad37d0548736ffe69b064c8": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batches-32-33",
+      "source_file": "review-manifest.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
   ]
 }

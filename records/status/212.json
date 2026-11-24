@@ -1,18 +1,11 @@
 {
   "no": 212,
   "word": "背道而馳",
-  "webp": "img/idioms/212.webp",
-  "original_sha256": "465de51884e0b3e6220cc3177e53d09290b222fe246ea9a0e7796a3ac073895d",
-  "original": "originals/465de51884e0b3e6220cc3177e53d09290b222fe246ea9a0e7796a3ac073895d.png",
+  "webp": "img/idioms/212-14366de0f59c.webp",
+  "original_sha256": "14366de0f59cd5a7e9cbf31aa6f4257eaa2e9978c637b3b4c2d061d176388a31",
+  "original": "originals/14366de0f59cd5a7e9cbf31aa6f4257eaa2e9978c637b3b4c2d061d176388a31.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/fa33b5012ceb8e45a3e1f8d759f2f673bd3c6be943841685e79c6915d3c5f06f.json",
-  "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": "records/prompts/3d2370f69ba78828f8e6943e961b4e08d716b280eb949ef09fcbdb7b6aafdda5.json",
-  "latest_rejected_candidate": {
-    "batch": "batch-27-group-3-redraw-26",
-    "original_sha256": "2acd3d83b6e0d96c998e8744d8d526202f84a33af9633a55731954fdf7743b33",
-    "original_archive_path": "originals/2acd3d83b6e0d96c998e8744d8d526202f84a33af9633a55731954fdf7743b33.png",
-    "review_archive_path": "records/reviews/03b52302363ff214cf2f363131bf9311f2718dc6c56c451dfb52830b3d57cd73.json",
-    "passed": false
-  }
+  "current_review_path": "records/reviews/5989e27829845fd311adecf0fff5e763e6cf372a1efcc32745ad4a5b83bd1ccf.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/b3bc0999c47e90596dcc0f314c7475a23b688a47eaa3f85d900a9df1da4f6173.json"
 }

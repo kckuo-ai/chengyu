@@ -1,11 +1,11 @@
 {
   "no": 428,
   "word": "自投羅網",
-  "webp": "img/idioms/428.webp",
-  "original_sha256": "f18ec97c1d7f62e3c38083e115b69539bd3aa15584ebf95f8830a2cbdef6e2a8",
-  "original": "originals/f18ec97c1d7f62e3c38083e115b69539bd3aa15584ebf95f8830a2cbdef6e2a8.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/b660275c4cb05dc07c2eea65d9ff1a64391b080b822592e18e72d700896bbc12.json"
+  "webp": "img/idioms/428-d12f8e727871.webp",
+  "original_sha256": "d12f8e7278718fdd8038220ad8a9905c92f286ad6736bd2942779055a608f744",
+  "original": "originals/d12f8e7278718fdd8038220ad8a9905c92f286ad6736bd2942779055a608f744.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/fca2457978bb0d512e122bdcd0f60abdcad2ef60c0bf335765666db5536bcdf6.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/a9e786aa6e5c59752251fc066997e0c99dd06adef5271a508cfbb3fc007277a2.json"
 }

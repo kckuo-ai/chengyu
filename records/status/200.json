@@ -1,18 +1,11 @@
 {
   "no": 200,
   "word": "作威作福",
-  "webp": "img/idioms/200.webp",
-  "original_sha256": "3283db4ae6d2ebf4f64ddd5b0cb4663718fca51c062d678b37b5ad37a31f9237",
-  "original": "originals/3283db4ae6d2ebf4f64ddd5b0cb4663718fca51c062d678b37b5ad37a31f9237.png",
+  "webp": "img/idioms/200-a672895ee1f6.webp",
+  "original_sha256": "a672895ee1f6337ac14c819b282f7d7f69129be2b84782d1f9c9fb18140e02b5",
+  "original": "originals/a672895ee1f6337ac14c819b282f7d7f69129be2b84782d1f9c9fb18140e02b5.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/83e567f34ffd62e128c9d0f302c322304f6573424f6ae4c9280a8185c2033025.json",
-  "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": "records/prompts/a1253c6f6b00e8ae67ff51d5db43bbfae6b5e8e4eba2dcccd31649f6b556bded.json",
-  "latest_rejected_candidate": {
-    "batch": "batch-27-group-3-redraw-26",
-    "original_sha256": "49a63a69c0342d72a9bd01d99d50666c2b24bbd868a572cd0fb56ac0dafc2492",
-    "original_archive_path": "originals/49a63a69c0342d72a9bd01d99d50666c2b24bbd868a572cd0fb56ac0dafc2492.png",
-    "review_archive_path": "records/reviews/e3e58ade57c53359c90f0819248bc7c69a1358083f463578925c6892bd89c6cc.json",
-    "passed": false
-  }
+  "current_review_path": "records/reviews/d769e0a9f8e81c6f28f4a6d770fd82583c0c5b6acbfe22beff46406197219798.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/4d1fc2db313f656dcb831dd760e21fc330c9244b1c8f173c74a5d93198c3c7d4.json"
 }

@@ -1,18 +1,11 @@
 {
   "no": 305,
   "word": "指桑罵槐",
-  "webp": "img/idioms/305.webp",
-  "original_sha256": "b0a1b595d8290dd6d01cb1ba82834bcc823820ff8e209e0bf2b951c1dac31f4e",
-  "original": "originals/b0a1b595d8290dd6d01cb1ba82834bcc823820ff8e209e0bf2b951c1dac31f4e.png",
+  "webp": "img/idioms/305-26c1241837e7.webp",
+  "original_sha256": "26c1241837e79dd1021db5b64b1b4ac5d5caf91ce717e9ffa99cde40f9b5189d",
+  "original": "originals/26c1241837e79dd1021db5b64b1b4ac5d5caf91ce717e9ffa99cde40f9b5189d.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/2f49a2f6d69f5195580431f59b0e810bf92d1abadd641c17d9e9cc2e8cba10ea.json",
-  "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": "records/prompts/511d0c3ca2aa392e38153bc8345f40a7f8e048d2e0516deb89b3c085c4b3eaac.json",
-  "latest_rejected_candidate": {
-    "batch": "batch-29-group-5-redraw-26",
-    "original_sha256": "ab70527c78eee0f31a0a48164730dedc934e53b612bc447ceeae845d20b30937",
-    "original_archive_path": "originals/ab70527c78eee0f31a0a48164730dedc934e53b612bc447ceeae845d20b30937.png",
-    "review_archive_path": "records/reviews/112e011293235771eb65a4d1778ae49c2e2fea63da5b11f5a9bb2a482208404a.json",
-    "passed": false
-  }
+  "current_review_path": "records/reviews/c834baadea6331dcd97099c4e5e04c588ecf8b08ac39f90a4f15851cad5c218f.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/119aad22b065db19a26796460debce95c51aadc4fc6d3eaff6e679a08c0e5901.json"
 }

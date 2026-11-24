@@ -1,18 +1,11 @@
 {
   "no": 108,
   "word": "目不識丁",
-  "webp": "img/idioms/108.webp",
-  "original_sha256": "9b1f3302104e0049c46f58daa5a4dbef4930ea1515a1c9ee800a3ed6bec4a87b",
-  "original": "originals/9b1f3302104e0049c46f58daa5a4dbef4930ea1515a1c9ee800a3ed6bec4a87b.png",
+  "webp": "img/idioms/108-516147a0b569.webp",
+  "original_sha256": "516147a0b569984863f38f772735bc22cbc4ac45cbfc1183f1dc5dfa580f2464",
+  "original": "originals/516147a0b569984863f38f772735bc22cbc4ac45cbfc1183f1dc5dfa580f2464.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/860ab0d5889a343247ef8feac5ecdd82741367701b2b9aec44627ebf9b30db51.json",
-  "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": "records/prompts/470496d7101c75d084d08293579491ee25b924fa760e4f9c10b17b91c75c3235.json",
-  "latest_rejected_candidate": {
-    "batch": "batch-26-redraw-7",
-    "original_sha256": "b37593610cd52e0c1d232ab2116b36bbabf77af95637a95ef05f3c9b9e4efbec",
-    "original_archive_path": "originals/b37593610cd52e0c1d232ab2116b36bbabf77af95637a95ef05f3c9b9e4efbec.png",
-    "review_archive_path": "records/reviews/24aa60c7a9c66b4d8b1b2e6765c020b0ba5fb8ce6b808c32084c6178c3ec6e50.json",
-    "passed": false
-  }
+  "current_review_path": "records/reviews/6ea9886c52a44a732856c8953097d5fbdb90b6f06e4d719677262343e279ee65.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/0bedd266ad03fc68c92de1cb2d06447dbafb38f5c21b0ec7372165baa0322d0a.json"
 }

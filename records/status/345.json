@@ -1,11 +1,11 @@
 {
   "no": 345,
   "word": "鐵面無私",
-  "webp": "img/idioms/345.webp",
-  "original_sha256": "8e2b09800f21eceaf62ba72ab2a76b08b0b09f5f4252057ff22badfb0be9082b",
-  "original": "originals/8e2b09800f21eceaf62ba72ab2a76b08b0b09f5f4252057ff22badfb0be9082b.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/8c481cc49ba130da06e3efb53820d06394ad49cb99220eed02948e40aea182d8.json"
+  "webp": "img/idioms/345-77a33656a12c.webp",
+  "original_sha256": "77a33656a12c5c2b2e0968bd67786769d77fe3374eefe7e1a175d13a0d54a581",
+  "original": "originals/77a33656a12c5c2b2e0968bd67786769d77fe3374eefe7e1a175d13a0d54a581.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/1859b279790e6d968bae8c6295da935fd23c015569b7d678aa6195f953b10807.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/f558f927c4d616f8516fd6ffc5bcf500ad95ad49214f63b4e6f6d376a850db47.json"
 }
