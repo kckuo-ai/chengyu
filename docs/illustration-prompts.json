@@ -2284,8 +2284,13 @@
     },
     "308": {
       "word": "空前絕後",
-      "scene_prompt": "空前絕後：原創虛構手工藝術館的歷程長廊，中央一件前所未有精妙複雜、巨大但安全的紙雕森林作品，過去與後來的作品以左右逐漸遠去小展台示意，中央成就明顯超越其他所有展件、成年觀眾驚嘆且專注細節，展現超越前後獨一無二，不是單純最大或得獎。完全原創虛構作品不宣稱現實紀錄，無文字、數字、品牌、名作或知名建築。",
-      "alt": "這件作品的規模與創意遠超以往，後來的作品也難以比擬，顯得獨一無二。"
+      "meaning": "比喻超越古今，無與倫比。",
+      "sha256": "6c62e1459095d3550f9903208b7bec0e34ce921c3899160e5b364e4cf7622228",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『超越古今，無與倫比』義。【重點：古今同類皆無法匹敵，改用俯視桌面】台灣現代工藝館，畫面採斜上方俯視長桌，左下角近景是一件完整石雕連環球，球壁內有多層彼此分離的活動球環，鏤空相通且沒有接縫。右上角只有一位資深工匠俯身拿著鑿裂的同材試作，驚嘆對照。桌上另外排著歷代同類粗簡少層作品的小圖，遠窗外原料礦脈已崩裂，只剩不能再製的小碎料。石球穩置凹槽底座，人物手各五指；不用正面居中展示、兩側評者、花卉折屏、橋或文字。",
+      "alt": "工匠拿著破裂的石雕球驚訝觀看桌上的完整多層作品，旁邊按序擺放較簡單的同類成品，窗外原料礦壁已經崩裂成碎石。"
     },
     "309": {
       "word": "水乳交融",
@@ -3079,8 +3084,13 @@
     },
     "455": {
       "word": "冰消瓦解",
-      "scene_prompt": "In a community garden after a disagreement, two neighbors who stood on opposite sides of a low fence now warmly shake hands through its open gate while a mutual friend smiles in relief. Between them a formerly tangled garden hose has been completely untangled and neatly coiled; both now share the watering work. Clearly show the dispute fully resolved and barriers dissolved, not a fight. Use the dictionary sense of a problem being completely resolved, not literal melting ice and broken tiles.",
-      "alt": "兩位鄰居在敞開的花園門前握手，旁邊的水管已解開並整齊收好。"
+      "meaning": "比喻事物潰敗分裂。＆比喻問題完全解決。",
+      "sha256": "cd83e5d6ca1292a26b9365289740669636564e4c1c370e32a47e7e582125283f",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『原有問題完全消除』義。台灣社區菜圃，先畫兩鄰居因共用水管堵塞、兩邊植物缺水而互相指責；主景兩人一起清出堵塞泥團，水順暢流向兩塊菜圃，原本枯垂的苗恢復挺立，兩人放鬆握手。把堵物已取出、管路暢通、衝突解除同時畫清楚，不只畫友善澆花；前後同一水管與人物衣著保持一致。【重點】沿用根層唯一鉛筆水彩與米白紙紋；每手五指、支撐合理，無文字、類字、品牌、水印與紅色頸飾。",
+      "alt": "兩位鄰居因水管堵塞、植物缺水而爭執，清出堵物後水流順暢灌溉兩塊菜床，他們放鬆握手，取出的泥團留在地上盆內。"
     },
     "456": {
       "word": "得寸進尺",
@@ -3089,8 +3099,13 @@
     },
     "457": {
       "word": "相形見絀",
-      "scene_prompt": "At a school craft exhibition two handmade model bridges stand side by side on one table. The small crude crooked bridge on left sags under one small wooden block, while the carefully constructed elegant bridge on right easily supports several identical blocks. The left builder looks sheepishly at the superior model and the right builder gently smiles. Clearly a direct comparison revealing one inferior result, no text or prizes necessary.",
-      "alt": "兩座模型橋並排展示，簡陋的一座承重後歪斜，另一座穩穩承受許多木塊。"
+      "meaning": "相互比較之下，其中一方顯得不如對方。",
+      "sha256": "fec34293f958ff5ddbd827c5fc2df397c2bbf11468c173629e73aa6b8436a955",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『相比之下顯得不如對方』義。台灣生活手作課，兩名孩子各完成一只同尺寸布袋，並排展示：左袋縫線歪斜、提帶鬆脫，裝一顆水果就裂開；右袋針腳整齊牢固，裝滿水果仍完整。左邊孩子望向右袋後低頭不好意思，右孩平靜展示。保留直接比較才發現不足的關係，不用橋模型、承重積石或得獎展臺。【重點】沿用根層唯一鉛筆水彩與米白紙紋；每手五指、支撐合理，無文字、類字、品牌、水印與紅色頸飾。",
+      "alt": "兩個孩子並排展示自己縫的布袋，男孩的袋子破底掉出水果，提帶也鬆脫；女孩的袋子縫線整齊，裝滿水果仍然完整。"
     },
     "427": {
       "word": "人云亦云",
@@ -3114,8 +3129,13 @@
     },
     "458": {
       "word": "情不自禁",
-      "scene_prompt": "In a quiet library a child reading a funny picture book suddenly bursts into delighted uncontrollable laughter, one hand reflexively covering the open smiling mouth, shoulders lifted in a giggle. A friend beside them looks surprised then amused. The open page shows only a simple funny original puppy drawing without writing. Focus on spontaneous emotion impossible to suppress, not deliberate performance.",
-      "alt": "孩子讀到有趣的繪本，忍不住捂嘴大笑，旁邊的朋友驚訝地看著他。"
+      "meaning": "感情激動得無法自我控制。",
+      "sha256": "7d3eb7775393bcc2695cf2a724cba2cc8c702190a0f65814630e68f82d587031",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『情緒激動得無法自我控制』義。台灣圖書室，女孩本想安靜閱讀，看見圖畫中小狗把盆子戴成帽子，立刻掩嘴卻仍笑得肩膀抖動、眼角帶淚，旁邊男孩驚訝望她。用克制動作與止不住的笑形成對照，不靠文字禁聲牌。背景改為幾扇素色櫃門，書封與書脊全素面，不留圓圈、短橫標題或任何仿字記號。【重點】沿用根層唯一鉛筆水彩與米白紙紋；每手五指、支撐合理，無文字、類字、品牌、水印與紅色頸飾。",
+      "alt": "女孩看見書中小狗把鍋子戴成帽子，掩住嘴巴還是笑出眼淚，身旁男孩驚訝望著她，雙掌放在桌上，兩人的鞋都踩著地面。"
     },
     "459": {
       "word": "弱不禁風",
@@ -3129,8 +3149,13 @@
     },
     "460": {
       "word": "酒囊飯袋",
-      "scene_prompt": "At a community event setup, one adult appointed helper sits comfortably at the refreshment table eating another large snack and drinking from a plain cup, a pile of emptied dishes nearby. Other volunteers struggle to assemble a simple folding table, while an unassembled chair and untouched tools sit directly beside this idle helper. Their empty cheerful expression shows no ability or effort to do the task; emphasize eating instead of accomplishing duties, not body size. No alcohol required.",
-      "alt": "活動志工忙著布置，一位幫手卻只坐在餐桌邊吃喝，身旁的工作和工具都沒動。"
+      "meaning": "稱只會吃喝，而不會辦事的無能之人。貶義。",
+      "sha256": "7099234e6b83cb5a6c50bd59aa3490c8a299bd7d927d388564a6afbce5374cf9",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『只會吃喝而無辦事能力』義。台灣社區活動準備，先畫同一名志工照著完成品整理簡單餐盒，卻把蓋子、盒底和餐具弄成一團，兩次嘗試都無法完成；主景他放下工作，坐著連吃多份點心，碗盤堆高。其他人接手便順利完成他的餐盒，再忙於活動。用實際辦事失敗加上只顧吃喝表意，避免只像暫時休息或偷懶。【重點】沿用根層唯一鉛筆水彩與米白紙紋；每手五指、支撐合理，無文字、類字、品牌、水印與紅色頸飾。",
+      "alt": "男子面對餐盒與各式盒蓋不知如何組好，後來只顧坐著吃喝，面前堆滿碗盤；同伴接過工作，已順利完成多盒整齊餐點。"
     },
     "430": {
       "word": "忘恩負義",
@@ -3184,8 +3209,13 @@
     },
     "463": {
       "word": "虛與委蛇",
-      "scene_prompt": "At a community club table an adult gives a visitor an exaggerated polite handshake and stiff fixed smile while their eyes glance impatiently toward the exit and their torso leans away. Their free hand tucked behind their back makes an impatient dismissive shooing gesture. The visitor warmly presents a plain folder, unaware of the insincerity. Clear outward cordiality with hidden reluctance, no snakes or literal deception masks. Hands must be separate and anatomically clear.",
-      "alt": "一人表面微笑握手，目光卻望向出口，背後的手做出不耐煩的揮趕動作。"
+      "meaning": "形容假意慇懃，敷衍應付。",
+      "sha256": "6e8ac3c526ae42575224fd5cd98138fcd459779fd772052808a78a49f207e12e",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『假意熱情而敷衍應付』義。台灣辦公接待室，來客認真展開純圖像計畫板，接待者先熱情握手、誇張微笑，卻完全沒看內容便把資料闔起，目光轉向門口，另一手在身後催人離開。來客仍期待討論，兩者態度形成落差。所有書架改成無標記櫃門，識別牌素面，手掌與關節放大清楚，不含仿書名標籤。【重點】沿用根層唯一鉛筆水彩與米白紙紋；每手五指、支撐合理，無文字、類字、品牌、水印與紅色頸飾。",
+      "alt": "接待者先熱情微笑握手，來客拿著園藝計畫板期待討論，下一幕接待者卻闔起資料，轉頭伸掌朝門口示意，準備結束會面。"
     },
     "464": {
       "word": "進退維谷",
@@ -3209,13 +3239,23 @@
     },
     "439": {
       "word": "一刀兩斷",
-      "scene_prompt": "現代兩位成年合作夥伴決定徹底結束合作，左上小回憶曾在同一無字工作桌一起創作；主畫面雙方平靜但堅決各自收回私人物品、交還對方的鑰匙，原共同桌已完全清空，一人離開走向自己獨立工作空間，另一人關起合作空間的門。姿態明確決絕，不是暫時出門、友好分工作兩邊或仍牽扯合作。無刀具剪線字面、衝突暴力、契約文字。",
-      "alt": "兩人收回各自的物品、交還鑰匙，清空曾共用的工作桌，然後分別離開。"
+      "meaning": "比喻堅決地斷絕關係。",
+      "sha256": "3ecd0a8ad90091b98b9ef39c7e78b6e2e2b51038f91849ad057f52d97e774cc0",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『堅決斷絕原有關係』義。台灣共同創業工作室用前後兩幕：原本並肩工作的兩名成人，因合作破裂，各自收妥全部私人物品，清楚交還唯一鑰匙與共同器材，最後把座位搬到不同房間並關上分隔門，彼此不再回頭。強調決意結束合作，不能像暫時出差；筆電、書封與門牌全部素面，刪除中央果形標記。【重點】沿用根層唯一鉛筆水彩與米白紙紋；每手五指、支撐合理，無文字、類字、品牌、水印與紅色頸飾。",
+      "alt": "兩人在共同桌旁收好私人物品，放下鑰匙與電腦，接著分別進入隔著關閉木門的房間各自工作，原本共用的桌面已清空。"
     },
     "466": {
       "word": "胸無點墨",
-      "scene_prompt": "In an adult learning room, a well-dressed but uninformed adult looks completely baffled by an elementary illustrated learning book open before them, scratching their head with blank confused eyes. A patient tutor points to a very simple drawing of a seed growing into a plant while the adult cannot explain it; unused books lie closed beside them. The person is awake and trying but lacks basic learning. No chest marks or spilled ink, no mocking crowd, absolutely no letters or numerals on pages.",
-      "alt": "一位成人面對入門圖解教材仍滿臉茫然，老師耐心指著種子生長的簡單圖片。"
+      "meaning": "比喻人毫無學識。",
+      "sha256": "a86508514e51a74a7e6644651c070322433b8b02261a5de6842c50d805cd4494",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『毫無學識』義。台灣成人常識學習活動，以同一男子連續面對三種基本問題仍茫然呈現：辨認種子到幼苗順序、把常見食物分進對應圖像籃、拼合簡單台灣輪廓，都無法完成；旁邊學員能順利示範。他攤掌搔頭，不是只卡住一道難題。只用大幅純圖像卡，書櫃全部素面，畫面不出現文字數碼。【重點】沿用根層唯一鉛筆水彩與米白紙紋；每手五指、支撐合理，無文字、類字、品牌、水印與紅色頸飾。",
+      "alt": "男子接連面對幼苗排序、食物分類與台灣拼圖都搔頭攤掌，無法正確完成；旁邊同伴卻能依序示範，微笑指出基本答案。"
     },
     "467": {
       "word": "鬼鬼祟祟",
@@ -3229,13 +3269,23 @@
     },
     "440": {
       "word": "川流不息",
-      "scene_prompt": "現代公園入口通向展覽小屋的寬步道，連續一波又一波不同成人與家庭沿路有序走來，前景的人剛進入口、中景後景仍有不斷接續的人，沿路自然彎曲的構圖清楚延伸遠處，動作流動而不是全站住排隊。表現往來連綿不絕，非河流字面、危險擁擠或單一時刻少數人。無文字路牌、品牌、地標。",
-      "alt": "步道上的行人一批接著一批走來，前面的人剛進門，遠處還有許多人陸續到達。"
+      "meaning": "形容連綿不絕。",
+      "sha256": "7a381b27986709cfebafb921c3ed4df5f4749aa748906fb80aadb52cce0c61d1",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『接連不斷』義。台灣城市道路旁，僅畫前景母子兩人觀看車流，車子從近到遠一輛接一輛穿過同一路口，旁側再以兩個小景呈現日光移動後仍持續有車通過。車距密而有序，清楚表達延續不斷，不畫塞住不動的車陣；駕駛與遠景乘客不露手部，母子雙手放大、各五指，刪除數十小人物。【重點】沿用根層唯一鉛筆水彩與米白紙紋；每手五指、支撐合理，無文字、類字、品牌、水印與紅色頸飾。",
+      "alt": "母子扶著人行道護欄觀看接連駛過的車輛，道路彎向遠方仍有車子陸續來到，旁邊小景顯示中午和傍晚都持續有車通過。"
     },
     "441": {
       "word": "毛骨悚然",
-      "scene_prompt": "現代成年人夜間安全坐在明亮室內，聽朋友描述令人害怕的虛構荒屋怪聲故事，朋友的無字故事泡泡裡只畫暗屋、搖動的空窗和風吹樹影；主角極度驚懼、眼睛睜大、縮肩僵住、抓緊毯子，露出的前臂以細鉛筆短線示意起雞皮疙瘩。沒有真鬼怪、骨骸、暴力、威脅逼近或身體變形，與普通緊張程度區分。",
-      "alt": "朋友才描述暗屋裡搖晃的窗影，他就瞪大眼睛、縮緊肩膀，把毯子緊緊抓在胸前。"
+      "meaning": "形容極端驚懼害怕。",
+      "sha256": "73265e5b172409a6add2cea7cb08f6500be84cea0fc6c4a4644bf203636643ed",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『極端驚懼害怕』義。保留台灣都市家庭夜間講故事：青年張口描述風吹破窗的老屋，女子縮肩抓毯、冒汗起雞皮疙瘩，睜眼害怕。說者兩掌改為正面略斜、彼此分開，逐掌清楚畫出拇指與四根長指，不能以細弧代替第五指；毯子壓膝、杯碟落桌，故事屋僅在泡泡內，無恐怖血腥內容。【重點】沿用根層唯一鉛筆水彩與米白紙紋；每手五指、支撐合理，無文字、類字、品牌、水印與紅色頸飾。",
+      "alt": "青年在家中描述破窗老屋的故事，女子縮起肩膀、抓緊毯子，睜大眼睛冒汗，手臂浮起疙瘩，說者則張開兩掌加強語氣。"
     },
     "469": {
       "word": "風馳電掣",
@@ -3244,8 +3294,13 @@
     },
     "442": {
       "word": "天涯海角",
-      "scene_prompt": "現代兩位原創成年朋友如今相距非常遙遠，橫向兩個清楚分隔的場景：左在偏遠高山小屋、右在遙遠海岸村落，兩地之間以寬廣連續的山脈、海洋與雲層拉開長距離，兩人各持一張對方的原創小照片思念，無字視訊畫面可不用。重點偏遠與相距遙遠，不是相鄰兩棟房或地球物理邊緣。無真地圖、國旗、地標、文字。",
-      "alt": "一人在偏遠山屋，一人在遠方海岸，各自看著朋友的照片；中間隔著重重山脈與廣闊海洋。"
+      "meaning": "形容偏僻或相距遙遠的地方。",
+      "sha256": "09f18e9d6ea7a24cd22bbeac729f8dd1e127d2901b1a7667ccbf273614c2d349",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『相距十分遙遠的地方』義。以兩個清楚分隔的大場景呈現：男子住台灣高山現代觀測站，窗外高山稜線與雲海；女子住澎湖海邊平頂住宅，窗外玄武岩岸與小漁港。兩人各持對方同一張合照，托腮望遠思念，中間用大片山海留白拉開距離。刪除歐式石屋與白牆紅瓦海灣，不把兩人畫成坐在同一處觀景臺。【重點】沿用根層唯一鉛筆水彩與米白紙紋；每手五指、支撐合理，無文字、類字、品牌、水印與紅色頸飾。",
+      "alt": "男子坐在高山觀測站，女子倚著海島漁港住家的窗邊，兩人各拿同一張合照托腮思念，中間留白分隔遙遠的山海景色。"
     },
     "443": {
       "word": "先聲奪人",
@@ -3264,8 +3319,13 @@
     },
     "444": {
       "word": "心不在焉",
-      "scene_prompt": "現代成人手作課，老師正在示範把相同木積塊組成小橋，主角坐在桌前手裡拿著零件卻眼神游離、腦中無字泡泡全是明天想去的湖畔郊遊；桌上的組件漏放關鍵一塊、與老師示範不同，同桌學員輕碰他提醒。不是認真構思橋樑或視力困難，心思明顯在另一件事，非故意破壞。",
-      "alt": "老師正在示範木橋，他卻拿著零件發呆，腦中想著湖畔出遊，同桌學員輕輕碰他提醒。"
+      "meaning": "比喻心思不集中。",
+      "sha256": "1fff10529306606bdef60c51bc7a921829794256d0e2df91e3c9cb5389704bcd",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『心思不集中』義。台灣親子園藝課，教師示範把幼苗移入新盆，其他學員看著根部，主角卻拿著空盆托腮，腦中想著放學後打棒球；他該接的幼苗仍在老師手中，同伴輕碰肩膀提醒。以眼神離開教學、手上工作停住表意，完全不用木橋、積木與桌前搭橋配置；每位人物保持大比例。【重點】沿用根層唯一鉛筆水彩與米白紙紋；每手五指、支撐合理，無文字、類字、品牌、水印與紅色頸飾。",
+      "alt": "教師捧著幼苗根團示範移盆，女孩專心觀看，男孩卻托腮想著棒球，手邊空盆還沒開始使用，女孩輕碰他的肩膀提醒。"
     },
     "472": {
       "word": "異想天開",
@@ -3289,8 +3349,13 @@
     },
     "474": {
       "word": "雞鳴狗盜",
-      "scene_prompt": "Historical Chinese countryside at dawn, original fictional people in simple unbranded period clothing. One sly petty thief crouches low to slip through a dog-sized opening at the base of a courtyard wall carrying a stolen small cloth bundle; outside, an accomplice cups hands near the mouth imitating a rooster call while a real rooster on the fence looks startled. Gate guard in far background turns at the premature call. Show low cunning petty skills, not actual dog stealing chicken, no violence or famous character likeness, no text. Historical setting and period clothes override the modern-clothes default above for this idiom only.",
-      "alt": "古代院牆旁，一人帶著小包袱從矮洞鑽出，另一人模仿雞叫分散守門人的注意。"
+      "meaning": "比喻有某種卑下技能的人，或指卑微的技能。＆形容卑劣低下的人或事。",
+      "sha256": "0aa6ab77322e2c84d59f0829bb9b94550767c2e274989ce0f31cec87f17481d4",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『以卑下小技能行不正之事』義。台灣現代社區雜貨店外，兩名成人小偷分工：一人躲牆邊模仿鳥叫，吸引看店者轉頭望向樹梢；同夥趁機從矮門下鑽進，拿走桌上小錢包。以口技與鑽隙被用於偷竊表現卑下手段，行為明顯受否定，沒有暴力。刪除古代城門、守衛長矛與公雞，三人皆普通現代服裝。【重點】沿用根層唯一鉛筆水彩與米白紙紋；每手五指、支撐合理，無文字、類字、品牌、水印與紅色頸飾。",
+      "alt": "雜貨店外，一名男子躲在牆邊模仿鳥叫，引得店主抬頭尋找，另一人趁機從矮門鑽入，伸手拿走小桌上的錢包。"
     },
     "447": {
       "word": "三思而行",
@@ -3304,8 +3369,13 @@
     },
     "475": {
       "word": "當仁不讓",
-      "scene_prompt": "At a community garden planning table, several people hesitate beside an obviously heavy bag of soil that needs moving to an empty raised bed. A willing young adult steps forward with a confident kind smile, raises one hand to volunteer and reaches down with the other toward the bag’s lifting handle. Others look relieved and ready to help. Clearly taking initiative for a needed task without pushing others aside or competing for glory. No words or signs.",
-      "alt": "大家正為搬運沉重土袋猶豫，一位年輕人舉手主動承擔，另一手伸向袋子的提把。"
+      "meaning": "遇到應該做的事，主動承擔起來而不推辭。",
+      "sha256": "ad65959c041079e4682d9d70eaede8f6deac935b7df4b99672ee86a66588007a",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『應做之事主動承擔不推辭』義。保留台灣社區菜圃情境，長者需要有人搬土整床，其他居民還在觀望，青年立即高舉五指手掌表示願意，另一手握起土袋提帶，接著親自動手。草帽長者改穿普通白色圓領上衣，頸部完全露出，不戴任何顏色領巾或圍巾；其餘人也逐一清除頸飾，工具和土袋確實由桌地支撐。【重點】沿用根層唯一鉛筆水彩與米白紙紋；每手五指、支撐合理，無文字、類字、品牌、水印與紅色頸飾。",
+      "alt": "菜園長者指出需要搬土整床的工作，青年立刻舉手答應並提起土袋，下一幕便親自把土倒進木床，與長者合作耙平。"
     },
     "476": {
       "word": "鳳毛麟角",
@@ -3324,18 +3394,33 @@
     },
     "452": {
       "word": "天造地設",
-      "scene_prompt": "取彼此配合自然得體渾然天成的常用引申義。現代兩位成年手作夥伴共同製作原創木鳥掛飾，一位擅長準確造型把優美木鳥完成，另一位擅長柔和配色與植物裝飾，兩人不需勉強調整便流暢接手，成品造型色彩和諧完整；旁邊各自準備的兩組材料自然相合，朋友欣賞他們合作的默契。可左上小淡回憶各自擅長不同技藝，主場景突出完美搭配，不是只有兩個普通人站一起、天神施工或拼圖字面。無名家作品、文字、品牌、數字。",
-      "alt": "一人做好木鳥造型，另一人接著配上顏色與枝葉裝飾，兩人的工序自然銜接，成品也十分和諧。"
+      "meaning": "天然所成就的。＆形容人或事物彼此配合得自然得體，渾然天成。",
+      "sha256": "b0f8ddbcf46c320dca13ca8691fb78dc148dbfc7df9f7d860fc6fdc8d1daca05",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『天然形成而非人工安排』義。台灣東北角海岸，前景家人站在安全步道，驚喜望著海蝕形成的天然石拱與恰好連通的岩洞；小幅回想以同一岩塊受海浪長久侵蝕、逐漸成孔呈現形成過程。石拱保留粗糙岩紋與連續岩層，沒有磚縫、橋欄、施工器具或人工拼接。重點是自然力量成就巧妙景觀，不再畫合作吊飾。【重點】沿用根層唯一鉛筆水彩與米白紙紋；每手五指、支撐合理，無文字、類字、品牌、水印與紅色頸飾。",
+      "alt": "母女在安全步道旁欣賞天然海蝕岩拱，兩幅小景回顧同一岩塊從完整到受海浪侵蝕出洞口，主景海水正穿過寬大的石拱。"
     },
     "478": {
       "word": "恍然大悟",
-      "scene_prompt": "At a kitchen table a child has struggled to assemble a small wooden bridge model. A friendly adult points directly to the one upside-down support piece, showing its correct orientation with a matching loose piece in hand. The child's suddenly wide eyes, delighted open smile and one hand lifted in realization are the focus; the other hand is just about to rotate the mistaken piece. Clearly show the simple cause of the new understanding; no magical lightbulbs, no thought bubbles. Two people, natural hands and simple readable construction.",
-      "alt": "孩子看著桌上木橋模型，順著大人指向的支架露出驚喜表情，伸手準備把裝反的木片轉正。"
+      "meaning": "猛然醒悟過來。",
+      "sha256": "0a4f8ee90f187c1eefd7c1528fa1b2204e126ab0fde771af69c2f7fd3bab055c",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『忽然明白過來』義。台灣家庭拼圖桌，孩子反覆拿一片不對方向的台灣地形拼片，怎麼放都對不上缺口，母親輕指拼片一側的海岸凹角；主景孩子轉動拼片後眼睛一亮，舉起食指微笑，隨即正確放入。把先困惑、獲提示、瞬間理解的變化畫清楚，不用木橋、燈泡或重複桌面零件教學構圖。【重點】沿用根層唯一鉛筆水彩與米白紙紋；每手五指、支撐合理，無文字、類字、品牌、水印與紅色頸飾。",
+      "alt": "男孩拿著拼片皺眉，母親指出形狀邊角後，他突然睜大眼睛笑著舉起食指，轉動拼片放進台灣輪廓的缺口，完成拼圖。"
     },
     "479": {
       "word": "美輪美奐",
-      "scene_prompt": "A magnificent, tall traditional public hall fills the landscape, viewed slightly from below so its generous scale is unmistakable. Several tiers of elegant sweeping tiled roofs, finely carved wooden pillars, graceful patterned lattice windows, handsome broad stone stairways and rich yet restrained architectural ornament. Small present-day visitors at the foot of the stairway look upward admiringly and establish scale. The building itself is the clear subject, no banners or inscribed plaques, no readable marks, no fantasy castle or generic scenery.",
-      "alt": "遊客站在寬闊石階前仰望高大的華美殿堂，層疊屋簷、雕花木柱與精緻窗格清楚可見。"
+      "meaning": "形容房屋規模高大、裝飾華美。",
+      "sha256": "7b5d3a93120b6ec5fd4123ebd74b2df966f89589b419874d166f1d981920510a",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『房屋高大且裝飾華美』義。台灣現代大型表演藝術館的入口大廳，挑高屋頂、弧形樓梯、大片木作飾牆與細緻吊燈共同呈現宏偉華美；前景只畫母子兩人抬頭欣賞，身材與手掌足夠大。後景不安排任何微小遊客，避免手指無法確認。柱樑、樓梯扶手、燈具吊點都接牢，無館名、海報、字碼或品牌。【重點】沿用根層唯一鉛筆水彩與米白紙紋；每手五指、支撐合理，無文字、類字、品牌、水印與紅色頸飾。",
+      "alt": "母子站在寬敞大廳抬頭欣賞，挑高屋頂、華麗吊燈、細緻木飾牆與弧形樓梯層層展開，光線在大片玻璃和地面上映出。"
     },
     "507": {
       "word": "鋌而走險",
@@ -3349,8 +3434,13 @@
     },
     "480": {
       "word": "穿鑿附會",
-      "scene_prompt": "In a bright modern activity room a self-confident child stands at a corkboard, forcefully stretching a piece of string between two obviously unrelated objects: a small photograph showing a muddy boot print and a photograph of a yellow pear hanging on a tree. Nearby, a clean boot is plainly rounded while the muddy print is visibly triangular, making the claimed connection visibly implausible. The child gestures as though explaining a grand theory; two classmates frown skeptically, one holding up the mismatching boot beside the print. Keep the absurd forced inference central, simple and legible. Only pictures and strings on board, absolutely no text or symbols, no crime setting.",
-      "alt": "孩子用繩子把泥腳印與樹上梨子的照片連在一起解說，同學拿著形狀不合的鞋子，皺眉望著布告板。"
+      "meaning": "生拉硬扯，牽強解釋。",
+      "sha256": "7a56407e173300ff6be82895c91e375775eb626ad2c17fe985e5cc378ed15258",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『牽強地把無關事物解釋成有關』義。台灣國小討論角，男孩只因外形略像，就把梨子照片與泥地鞋印照片連在一起，誇張指圖講解；同伴拿來鞋底紋完全對應的真正鞋子，指著證據皺眉反駁。讓牽強猜測與合理實證同時可見，不用文字說明。背後只留素面木櫃與窗戶，移除所有書脊仿標題，圖釘與紅線須固定。【重點】沿用根層唯一鉛筆水彩與米白紙紋；每手五指、支撐合理，無文字、類字、品牌、水印與紅色頸飾。",
+      "alt": "男孩得意地把梨子與鞋印照片連在一起講解，女孩皺眉拿出真正的鞋子，指向鞋底完全對應的紋路，提出不同的證據。"
     },
     "481": {
       "word": "咬文嚼字",
@@ -3379,8 +3469,13 @@
     },
     "483": {
       "word": "諱疾忌醫",
-      "scene_prompt": "In a modern home a chair has a small clearly loose wooden leg joint. A young adult who owns it hides the wobbling joint with a cloth and turns their head away with a dismissive raised palm. A concerned friend kneels nearby offering a small bottle of wood glue and pointing to the obvious loose joint. Behind the owner, another matching chair previously ignored has now slumped crookedly on the floor with a detached leg, showing the consequence of refusing an easy repair. No one sits on either chair; no injury or medical imagery. Make concealment, refusal and worsening small defect visible in one coherent scene, natural limbs.",
-      "alt": "屋主用布遮住椅腳鬆動處，轉頭擺手拒絕朋友遞來的修補工具，旁邊另一把椅子已經歪倒、掉了一隻腳。"
+      "meaning": "不承認有病，害怕去治療。 ＆比喻問題本小不予處理，終致無法收拾。 ＆比喻掩飾過失而不願聽人規勸。",
+      "sha256": "74449434b4e48dd30951abb4b16f366bb659821fed569fc5d1d869f2df588833",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『掩飾問題而不肯聽勸修正』義。台灣家庭裡，同一木椅先出現小裂腳，女子拿素面木工膠勸修，男子卻用布遮住裂處、舉掌拒絕；下一幕椅腳斷裂倒在地上，他才懊惱。人物不坐壞椅，避免危險示範。用相同椅紋與布保持前後連續，背景改成素面收納櫃，不畫任何書脊、瓶身字或仿字標籤。【重點】沿用根層唯一鉛筆水彩與米白紙紋；每手五指、支撐合理，無文字、類字、品牌、水印與紅色頸飾。",
+      "alt": "女子拿膠水指出椅腳裂痕，男子卻用布遮住並舉掌拒絕修理，後來同一張椅子斷腳倒地，他蹲在旁邊露出懊惱神情。"
     },
     "513": {
       "word": "忠言逆耳",
@@ -3389,8 +3484,13 @@
     },
     "484": {
       "word": "敷衍塞責",
-      "scene_prompt": "A community room cleaner carelessly sweeps a small heap of crumbs underneath the edge of a rug instead of collecting it. The cleaner looks away toward the exit while making a casual dismissive gesture. A dustpan remains empty nearby, the rug edge bulges over the hidden dirt and several visible crumbs still litter the floor. A waiting community volunteer notices the unfinished work with a disappointed expression. Show superficial task completion and evaded responsibility, not an accidental missed crumb. No cleaning chemicals or hazardous mess.",
-      "alt": "清掃者把碎屑掃進地毯下面，空畚斗放在旁邊，志工看著鼓起的地毯與仍未清乾淨的地板。"
+      "meaning": "形容做事不認真負責，只是表面應付。",
+      "sha256": "5b76feaf103e6af327729c6ddffd3f03be3717cfadd294f0139acb6e960f925c",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『只做表面功夫應付責任』義。台灣社區活動室，清潔者把碎屑全掃到地毯底下，畚箕仍乾淨空著，自己便收起掃帚準備離開；負責人掀起毯角，露出整堆藏起的垃圾，皺眉指給他看。以表面乾淨與底下髒亂揭露敷衍，動作順序清楚。公告欄改為空白軟木板，櫃門素色，識別牌無字，所有手各五指。【重點】沿用根層唯一鉛筆水彩與米白紙紋；每手五指、支撐合理，無文字、類字、品牌、水印與紅色頸飾。",
+      "alt": "清潔者把碎屑掃到掀起的地毯底下，沒有使用空畚箕就準備離開；女子隨後掀開毯角，指著藏起來的大堆垃圾皺眉。"
     },
     "485": {
       "word": "亦步亦趨",
@@ -3414,8 +3514,13 @@
     },
     "489": {
       "word": "永垂不朽",
-      "scene_prompt": "A peaceful community garden built around the original bronze memorial sculpture of a kind, fictional older gardener holding a young sapling, atop a plain unlettered stone pedestal. A living elderly woman, a middle-aged father and a young child together place fresh flowers at its base; behind them thrive large shade trees and a flourishing garden, and other families enjoy their shelter. A weathered small framed wordless portrait at the pedestal shows this same gardener in earlier life planting the very same distinctive tree. Respectful remembrance across generations, not immortality or a living person posing. No inscriptions, dates, religious symbols or identifiable real person.",
-      "alt": "三代居民在園丁雕像前獻花，底座旁放著他種樹的舊照片，四周大樹已長成，家人在樹蔭下休息。"
+      "meaning": "永遠流傳而不可磨滅。褒義。",
+      "sha256": "8118af059e6cc977f64b9382aef5991ad4df4418396de7045343814005d081b6",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『功績長久流傳不會磨滅』義。台灣社區公園，一座植樹者銅像旁保留他年輕時種下小苗的無字照片；今日同位置已長成大樹，祖孫兩人一起獻花、把新的樹苗種在旁邊，傳承付出。只畫兩位前景人物與銅像，刪除遠處野餐、踢球、澆花者，照片內人物手不入鏡。手掌放大五指清楚，銅像與花束均有承托。【重點】沿用根層唯一鉛筆水彩與米白紙紋；每手五指、支撐合理，無文字、類字、品牌、水印與紅色頸飾。",
+      "alt": "長者在植樹者銅像前獻花，旁邊舊照片保留他與幼苗的模樣，今日背後大樹已經枝葉茂盛，女孩正接續把新苗種進土中。"
     },
     "517": {
       "word": "一日三秋",
@@ -3434,8 +3539,13 @@
     },
     "491": {
       "word": "出人頭地",
-      "scene_prompt": "At a school model-bridge exhibition, one child stands modestly beside a sturdy, beautifully engineered wooden bridge model holding a small stack of smooth stones without sagging. Several other children's simpler bridges on adjacent tables have only one stone each and are visibly less developed but undamaged. A teacher and classmates warmly recognize the outstanding student's achievement with genuine impressed gestures and applause. The focus is earned distinction through excellent work, not physical height or a head rising from earth. No ribbons, grades, text, numerals or exaggerated celebrity effects.",
-      "alt": "展覽桌上，一座精巧木橋穩穩承受多顆石頭，旁邊模型較簡單，老師與同學向製作者鼓掌。"
+      "meaning": "超越他人，獨露頭角。",
+      "sha256": "4495729bc2241c516bb18742e60978da10c0aa97ae5d7559da195efda5e30a8a",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『成就超越同儕而顯露頭角』義。台灣國小生活設計成果展，多個同尺寸手提收納盒並排，只有主角設計的盒子能整齊分類全部器材，開闔牢固又方便搬運；其他作品散亂、卡蓋或提把鬆脫。老師與同學比較後集中稱讚這位孩子，孩子謙和站在作品旁。完全不用橋模型、疊石、獎盃與同款藍格衫配置，所有展示物無字。【重點】沿用根層唯一鉛筆水彩與米白紙紋；每手五指、支撐合理，無文字、類字、品牌、水印與紅色頸飾。",
+      "alt": "男孩展示分隔整齊又能提起的工具收納盒，桌上其他作品不是雜亂卡蓋，就是提把斷裂，教師與同學比較後驚喜稱讚他的設計。"
     },
     "519": {
       "word": "諱莫如深",
@@ -3454,8 +3564,13 @@
     },
     "492": {
       "word": "暴跳如雷",
-      "scene_prompt": "In an ordinary living room an adult has just discovered a muddy football and muddy footprints on a clean rug. They erupt into a dramatic furious tantrum, face red, eyebrows sharply lowered, mouth open in a shout, both fists clenched beside the torso and one foot stamping hard on the floor. Another adult steps back startled, palms slightly raised; no children being threatened. Clearly exaggerated uncontrolled rage rather than instruction. No thundercloud, no lightning symbols, no hitting, no injury. Anatomically natural body with exactly two arms and legs, no motion duplicates.",
-      "alt": "客廳地毯沾著泥腳印與足球，一名大人滿臉通紅、握拳跺腳大喊，另一人驚訝地往後退。"
+      "meaning": "形容人急怒時跳腳吼叫的樣子。",
+      "sha256": "b4f317ed4d424da75f30110bcff0b00ef8371a4352f7e2f70d6fe46f0b6e8f06",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『急怒時跳腳大吼』義。保留台灣家庭客廳，男子看見沾泥足球與地毯鞋印，氣得臉紅皺眉，雙拳握緊、張嘴吼叫，一腳抬起正要跺下；旁邊女子驚訝舉起雙掌。讓站腳穩定、抬腳鞋底朝向地面，泥屑來自鞋底，不把人畫成懸空。背景書架直接改成素面櫃門，完全移除書脊上圈點、短橫及仿字筆畫。【重點】沿用根層唯一鉛筆水彩與米白紙紋；每手五指、支撐合理，無文字、類字、品牌、水印與紅色頸飾。",
+      "alt": "男子看見泥球和地毯上的鞋印，氣得滿臉漲紅、雙拳緊握，張嘴大吼並抬起腳準備重跺，女子在旁驚訝舉掌看著他。"
     },
     "493": {
       "word": "克勤克儉",
@@ -10664,6 +10779,16 @@
       "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
       "scene_prompt": "成語：採『以偏概全，未能洞明真相』義。台灣國小探索課，三名學童隔著有三個窗口的大布幕，各只看見同一腳踏車的圓輪、直車架或車把，便各舉出鼓、梯子或牛角圖卡當答案。老師拉開布幕揭示整車，孩子驚訝，局部與整體誤判因果清楚。不畫古裝或實際視障者被嘲弄，圖卡無字。【重點】因果不靠文字就懂。沿用根層唯一鉛筆水彩畫風、米白紙紋；每手五指、接觸支撐自然，無文字、字母、數字、類字、品牌、水印、紅領巾或紅圍巾。 橫式1536×1024 PNG。每人恰兩臂兩腿、每手一拇指四指，肩肘腕連續且不分岔共掌。人物皆大幅中近景，外露手部足夠大可數五指，不畫遠景小人或模糊小掌。全圖無文字、字母、數字、類字形、品牌、浮水印、簽名、紅領巾紅圍巾；衣鞋純色無商標式條紋，紙面不畫短行點列。除明確要求書籍場景外完全不畫書架書本。無海報招牌標籤、問號、括號、叉號、驚嘆號、情緒線、震動線或速度線。所有道具接觸支撐合理，無危險傷害。 左右兩格各恰三個孩子與一個老師，四人皆大幅。嚴格對應：左格最下方男孩看圓輪窗口、他手持圓鼓圖片；中間女孩看直管車架窗口、她手持梯子圖片；最上方戴眼鏡男孩看彎曲把手窗口、他手持牛角圖片。窗口從下至上輪子、直管、車把，圖片由下至上鼓、梯子、牛角，絕不可交換。老師扶側柱。右格老師拉開同一布幕，露出同一完整正常藍色腳踏車，三孩子手裡分別原來的鼓、梯子、牛角卡看整車驚訝恍悟。車輪接地有腳架，正常車架鏈條把手兩輪，卡只有物件沒有字。人物只畫大幅上半身與大手，不加小人，老師雙手分開握布兩端。",
       "alt": "孩子透過布上小孔觀看局部，分別舉著角、梯子與鼓的猜測圖卡，老師揭開布後露出完整腳踏車，孩子都睜眼驚訝。"
+    },
+    "482": {
+      "word": "亡羊補牢",
+      "meaning": "比喻犯錯後及時更正，尚能補救。",
+      "sha256": "adca251686803ed947ad746cf68dca70f182c2b91fa2c6d6c90359fd64c37661",
+      "width": 1536,
+      "height": 1024,
+      "style_prompt": "Create ONE original children's picture-book illustration for a Traditional Chinese idiom learning website for elementary students in Taiwan. Landscape 3:2. Characters: Taiwanese (East Asian) children and adults drawn in a gentle Japanese anime picture-book style, natural expressions, age-appropriate child proportions (elementary-school kids look 7-12 years old). Setting: present-day Taiwan (Taiwanese schools, streets, homes, parks). Taiwanese school uniform = plain polo shirt or white shirt with shorts/skirt, or sports PE uniform; NO red neckerchief, NO red scarf. Hand-drawn delicate graphite pencil contours, soft translucent watercolor washes layered with colored-pencil grain on warm ivory textured paper, paper texture visible. Restrained natural grass green, pale sky blue, warm earthy brown, generous ivory breathing room; no bright flat digital colors, no glossy 3D, no imitation of a named artist. Every person has five fingers per hand, arms clearly attached to shoulders, feet grounded and pointing naturally. NO readable text, letters, numerals, captions, logos, brands or watermarks; no identifiable existing characters. Scene: ",
+      "scene_prompt": "成語：採『犯錯後及時改正仍可補救』義。台灣現代校園飼養角，兔籠門扣鬆脫讓一隻兔子跑出，孩子安全抱回後，立刻請老師協助換上完整新門扣，主景門已關緊、兔子全在籠內。用鬆扣舊門、追回兔子、修好閉合的前後因果表意，不用古裝羊圈。新扣確實跨接門與框，不能只在破口旁釘板而仍留大洞。【重點】沿用根層唯一鉛筆水彩與米白紙紋；每手五指、支撐合理，無文字、類字、品牌、水印與紅色頸飾。",
+      "alt": "兔籠門扣鬆脫，一隻兔子跑到外面，孩子抱回後請教師協助換上新扣，最後門已牢牢關好，兔子都安穩留在籠子裡。"
     }
   },
   "generation_policy": {

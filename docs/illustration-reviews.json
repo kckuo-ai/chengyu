@@ -41575,95 +41575,71 @@
     },
     "308": {
       "no": 308,
-      "kind": "existing",
+      "kind": "regenerate",
       "word": "空前絕後",
-      "path": "/workspace/chengyu-preservation/originals/0e6bd3c8481ab01b4270fea1c961b1e80781f47846d0819cb5be6e14d1a8d9d7.png",
-      "original_sha256": "0e6bd3c8481ab01b4270fea1c961b1e80781f47846d0819cb5be6e14d1a8d9d7",
-      "original_available": true,
-      "review_source_sha256": "0e6bd3c8481ab01b4270fea1c961b1e80781f47846d0819cb5be6e14d1a8d9d7",
-      "webp_src": "img/idioms/308.webp",
-      "webp_sha256": "4d2768a2d762262b4afe36cc81ff47fbf3c4ed4dbd8a43232c9271f9ec32d2c3",
-      "passed": false,
-      "reviewer": "independent-visual-review-2026-11-23",
-      "review_batch": "full-audit-20261123/group-05",
-      "alt": "展廳中央是一座巨大精細的樹城雕塑，枝葉間布滿小屋、階梯與空中步道；四位觀眾圍在欄杆外，彎身或合掌，驚訝欣賞每處細節。",
-      "issues": [
-        "meaning: 只能確認作品精細巨大引人讚嘆，沒有超越古今再無其匹的比較依據；易只讀成巧奪天工，不能確認無與倫比前提。",
-        "objects_contact_perspective: 左側和右側數隻同木質雕塑鳥懸於空中，原尺寸仍看不到懸線或連桿；其他吊籃卻畫明線，支撐無法確認。"
-      ],
-      "regenerate": true,
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/308.png",
+      "original_sha256": "6c62e1459095d3550f9903208b7bec0e34ce921c3899160e5b364e4cf7622228",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "工匠拿著破裂的石雕球驚訝觀看桌上的完整多層作品，旁邊按序擺放較簡單的同類成品，窗外原料礦壁已經崩裂成碎石。",
+      "issues": [],
+      "regenerate": false,
       "checks": {
         "meaning": {
-          "passed": false,
-          "evidence": "只能確認作品精細巨大引人讚嘆，沒有超越古今再無其匹的比較依據；易只讀成巧奪天工，不能確認無與倫比前提。"
+          "passed": true,
+          "evidence": "四件歷代同類球由粗簡至多層，唯一完整大球層數更繁而資深工匠同材試作破裂、窗外礦脈崩塌，超越古今無可匹敵有具體比較；已不用折屏。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
         },
         "composition": {
           "passed": true,
-          "evidence": "大樹城壓小觀眾、焦點清楚，手機可辨宏偉。"
+          "evidence": "全圖主景以工匠拿著破裂的石雕球驚訝觀看桌上的完整多層作品為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
         },
         "hands_feet_pose": {
           "passed": true,
-          "evidence": "觀眾合掌、背手、托腮露指自然，彎腰站腳著地，臂肩連續。"
+          "evidence": "工匠兩手各四曲指與背側拇指夾住裂球、雙臂接肩連腕，兩鞋落地，無多肢。"
         },
         "objects_contact_perspective": {
-          "passed": false,
-          "evidence": "左側和右側數隻同木質雕塑鳥懸於空中，原尺寸仍看不到懸線或連桿；其他吊籃卻畫明線，支撐無法確認。"
+          "passed": true,
+          "evidence": "球體套層下緣相接，外球壓凹座、座落桌，四小球也各有底座；破球受雙手及桌面承托，桌腳落地。"
         },
         "text_brand_watermark": {
           "passed": true,
-          "evidence": "木雕動物幾何枝葉非字、展廳無標牌文字數字品牌水印。"
-        },
-        "taiwan_context": {
-          "passed": true,
-          "evidence": "現代台灣美術館可有拱形展廳、便服成年觀眾自然，非僅憑拱窗斷定外國。"
-        },
-        "no_red_neckerchief": {
-          "passed": true,
-          "evidence": "四人衣領及背帶無紅領巾圍巾。"
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
         },
         "style": {
           "passed": true,
-          "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "現代台灣工藝工作室、普通上衣圍裙與石礦窗景，工匠年長成人比例，無古裝。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
         }
       },
+      "previous_installed_original_sha256": "0e6bd3c8481ab01b4270fea1c961b1e80781f47846d0819cb5be6e14d1a8d9d7",
+      "previous_review_archive_path": "records/reviews/768e8e8c5924e0a7f6d962bcbef5585cf9106e3181fb60ef0a37eea1b9ea1410.json",
+      "previous_rejected_candidate_review_archive_path": "records/reviews/3fc480b915a23e2c16c0bc52e8114896674d04bdcab158d13480cb2f1afdd961.json",
       "inspection": {
         "full_image": true,
-        "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
         "native_detail_crops": true,
         "native_size": [
           1536,
           1024
         ],
-        "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
-        "comparison": {
-          "all_sheets_actually_viewed": true,
-          "candidate_count": 212,
-          "sheets_viewed": 9,
-          "extra_full_images_viewed": [
-            66,
-            619,
-            598
-          ],
-          "method": "All nine sheets actually viewed after recomputing perceptual hashes against current main1afe65a, including all32 recent replacements. Three nearest catalog images plus exact MOE synonyms/antonyms, excluding targets; additional full66,619,598 comparisons. Comparison candidates are not counted as completed audits.",
-          "near_duplicates": {
-            "281": "與66「墨守成規」同為左邊綠衣男子抱舊木作圖冊拒絕、右邊女子攤新圖解說、桌前新舊零件對照；核心角色、動作與道具安排幾乎可互換。"
-          },
-          "distinguished_comparisons": "313雖也有橋模型，但修小接點避免日後全橋歪倒，與598反覆失敗後堅持試作的主要動作、構圖和因果不同。324兩幕快速客源驟降箭頭，與619三幕慢慢冷落且花草萎凋不同。314紙板樓層斷柱傾倒與1274積木塔將倒共享危險題材，人物布局和模型結構不同，未僅因模型道具而判重複。"
-        },
-        "source_limit": "Original PNG available"
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
       },
       "meaning_reference": {
-        "meaning": "比喻超越古今，無與倫比。",
+        "moe_meaning": "比喻超越古今，無與倫比。",
         "syn": "亙古未有、空前未有、無與倫比、絕無僅有、獨一無二、舉世無雙",
         "ant": "比比皆是、司空見慣、史不絕書、多如牛毛、俯拾即是、屢見不鮮"
       },
-      "latest_rejected_candidate": {
-        "batch": "batch-32-unresolved-11",
-        "original_sha256": "ffade878b4999e928f8cb57421b1057d0738ff1aaa2c24a01fb5e56313e6f820",
-        "original_archive_path": "originals/ffade878b4999e928f8cb57421b1057d0738ff1aaa2c24a01fb5e56313e6f820.png",
-        "review_archive_path": "records/reviews/2b04dafaf40f8efc4328f2694858a83b65731d71326a375110618fb22c96e8e0.json",
-        "passed": false
-      }
+      "webp_src": "img/idioms/308-6c62e1459095.webp",
+      "webp_sha256": "e0333746ab31b13c217cea33ffd6787f13ee7108cd32967f94fa692849d76a31"
     },
     "309": {
       "no": 309,
@@ -44753,6 +44729,1685 @@
       },
       "webp_src": "img/idioms/435-b64afca0a6aa.webp",
       "webp_sha256": "1bfc6468f58aa5c930ed6d250acd25ac393a4da43d51627eb881e3d04b0355f2"
+    },
+    "439": {
+      "no": 439,
+      "kind": "regenerate",
+      "word": "一刀兩斷",
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/439.png",
+      "original_sha256": "3ecd0a8ad90091b98b9ef39c7e78b6e2e2b51038f91849ad057f52d97e774cc0",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "兩人在共同桌旁收好私人物品，放下鑰匙與電腦，接著分別進入隔著關閉木門的房間各自工作，原本共用的桌面已清空。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "兩人收妥全部私人物品、放下鑰匙筆電後分到關門隔開的房間工作，共同桌已清空，決意結束合作較前版清楚。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "全圖主景以兩人在共同桌旁收好私人物品為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "四手分別扶箱、放鑰匙、按電腦、扶箱邊皆五指結構及合理遮蔽；後幕雙手在桌前遮住、兩鞋著地。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "鑰匙在手下接桌、電腦素背無標記，箱子落桌，後幕椅輪全落地與門框分隔自然。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代工作室、鋁窗與辦公椅、素面襯衫及長褲，皆成人比例。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+        }
+      },
+      "previous_installed_original_sha256": "65176639bddf9c84ed1448f1548ede845807caf8a51885d418fd58217d4a8175",
+      "previous_review_archive_path": "records/reviews/3224e58a87a334df9848489ffc8742db962b6b711480bb71907500d29fd03bcc.json",
+      "previous_rejected_candidate_review_archive_path": null,
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+      },
+      "meaning_reference": {
+        "moe_meaning": "比喻堅決地斷絕關係。",
+        "syn": "",
+        "ant": "藕斷絲連"
+      },
+      "webp_src": "img/idioms/439-3ecd0a8ad900.webp",
+      "webp_sha256": "51af65b18cfdb2d25926ca984384c775bfd95806cd89bf0e0ec4e7bd48900778"
+    },
+    "440": {
+      "no": 440,
+      "kind": "regenerate",
+      "word": "川流不息",
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/440.png",
+      "original_sha256": "7a381b27986709cfebafb921c3ed4df5f4749aa748906fb80aadb52cce0c61d1",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "母子扶著人行道護欄觀看接連駛過的車輛，道路彎向遠方仍有車子陸續來到，旁邊小景顯示中午和傍晚都持續有車通過。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "同一道路車輛接續行駛，旁側日正當中與傍晚仍有車流的兩幕，持續不斷而非單一排隊時刻清楚。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "全圖主景以母子扶著人行道護欄觀看接連駛過的車輛為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "母子四手扶欄，四長指在欄前、拇指在欄後握持自然，手臂接肩；無微小遠景人物，駕駛不露手。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "車輪接路、道路曲線車身方向隨路彎，護欄立柱接地，兩人站安全人行側，無浮車。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代城市方形樓房、行道樹、斑馬線與一般車輛，男孩素面國小運動服及兒童身材，母親一般便服。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+        }
+      },
+      "previous_installed_original_sha256": "c01961b32ac2be37defb8527f3e92e8170479ea9bf6a89aef2939f211a83281e",
+      "previous_review_archive_path": "records/reviews/aa8d1763c10230fb050e049ffb59f091985528d35a3b9918508dfc6a47b05104.json",
+      "previous_rejected_candidate_review_archive_path": null,
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+      },
+      "meaning_reference": {
+        "moe_meaning": "形容連綿不絕。",
+        "syn": "車水馬龍、絡繹不絕、熙來攘往",
+        "ant": "稀稀落落"
+      },
+      "webp_src": "img/idioms/440-7a381b279867.webp",
+      "webp_sha256": "cfe887444fce72a3e4cf5798cdff40a186b28b8a548fa3ffae8ae2381be3d7db"
+    },
+    "441": {
+      "no": 441,
+      "kind": "regenerate",
+      "word": "毛骨悚然",
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/441.png",
+      "original_sha256": "73265e5b172409a6add2cea7cb08f6500be84cea0fc6c4a4644bf203636643ed",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "青年在家中描述破窗老屋的故事，女子縮起肩膀、抓緊毯子，睜大眼睛冒汗，手臂浮起疙瘩，說者則張開兩掌加強語氣。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "說者描述破窗老屋，女子縮肩冒汗、抓緊毯子且手臂起雞皮，極端害怕直接可辨。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "全圖主景以青年在家中描述破窗老屋的故事為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "說者雙掌都明確五指、與肩肘腕連續，聽者雙手抓毯四曲指與拇指正常，坐姿膝腿自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "杯子放杯墊、餅乾落盤、毯壓膝；破屋只在故事泡泡，不是室內漂浮實物。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代城市夜間公寓與布沙發、普通襯衫針織外套，成人身材自然。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+        }
+      },
+      "previous_installed_original_sha256": "22161861f25da056356cdcfa7f37ed8442ab39ed8b419cc046c93207a70f6bdc",
+      "previous_review_archive_path": "records/reviews/f39efd659a803e7e856460667afe97625daedb88e12faf8178a5e0e96061c3f4.json",
+      "previous_rejected_candidate_review_archive_path": null,
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+      },
+      "meaning_reference": {
+        "moe_meaning": "形容極端驚懼害怕。",
+        "syn": "不寒而慄、毛髮聳然、心驚膽跳、膽戰心驚",
+        "ant": "面不改色"
+      },
+      "webp_src": "img/idioms/441-73265e5b1724.webp",
+      "webp_sha256": "6c6017d246cc6bf22dd1ee29be6ba9fbdcb735207d1bb690607a33bf3d9b2273"
+    },
+    "442": {
+      "no": 442,
+      "kind": "regenerate",
+      "word": "天涯海角",
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/442.png",
+      "original_sha256": "09f18e9d6ea7a24cd22bbeac729f8dd1e127d2901b1a7667ccbf273614c2d349",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "男子坐在高山觀測站，女子倚著海島漁港住家的窗邊，兩人各拿同一張合照托腮思念，中間留白分隔遙遠的山海景色。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "男子山區觀測站與女子海島漁港分隔大留白，兩人持同一合照思念，山海遙遠兩地清楚。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "全圖主景以男子坐在高山觀測站為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "持照片四曲指拇指自然、兩人托腮手貼面，下身由桌窗遮住，合照僅人像肩上無小手。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "照片指夾、筆電杯放桌與窗臺，水塔有腳、船浮海並繫港，兩場景由留白分隔非不合理同景透視。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "高山觀測站鋁框窗與海島玄武岩、消波塊、平頂屋水塔漁港，台灣現代山海生活設定明確。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+        }
+      },
+      "previous_installed_original_sha256": "334dc55e288489247e05a7d00bf88ba2a74e6caaec7187a8e13ca187d88cbeec",
+      "previous_review_archive_path": "records/reviews/0c91f44ebd3f522885ecab89280312ee7b43cee67d8088263d305833907af93f.json",
+      "previous_rejected_candidate_review_archive_path": null,
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+      },
+      "meaning_reference": {
+        "moe_meaning": "形容偏僻或相距遙遠的地方。",
+        "syn": "天南地北",
+        "ant": "近在咫尺"
+      },
+      "webp_src": "img/idioms/442-09f18e9d6ea7.webp",
+      "webp_sha256": "c1806d469960bc9c2c95f68511e2fee267362e77833c12cbbfaf4d286f3485e7"
+    },
+    "444": {
+      "no": 444,
+      "kind": "regenerate",
+      "word": "心不在焉",
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/444.png",
+      "original_sha256": "1fff10529306606bdef60c51bc7a921829794256d0e2df91e3c9cb5389704bcd",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "教師捧著幼苗根團示範移盆，女孩專心觀看，男孩卻托腮想著棒球，手邊空盆還沒開始使用，女孩輕碰他的肩膀提醒。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "教師捧幼苗示範移盆，女孩認真看，男孩卻托腮望棒球泡泡、空盆工作停住，女孩碰肩提醒，分心清楚。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "全圖主景以教師捧著幼苗根團示範移盆為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "教師握苗與托根雙手、女孩扶欄及搭肩、男孩托腮與扶盆手均五指或持物遮蔽自然，無多手。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "土鏟插土盤、育苗盤和空盆落金屬網桌，根團由掌托，女孩手碰肩不穿透，球具在想像泡泡。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代校園園藝課、方形校舍和素面藍邊Polo服，兩孩國小比例，教師圍裙繫腰。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+        }
+      },
+      "previous_installed_original_sha256": "44196671b5def901492eab9d07f613294650c562c44d8840f12b0e84b322b42e",
+      "previous_review_archive_path": "records/reviews/da58e815c1353aa6a256ec36c3811bf3fb26f75f210dd41a114e8a1b78b1d103.json",
+      "previous_rejected_candidate_review_archive_path": null,
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+      },
+      "meaning_reference": {
+        "moe_meaning": "比喻心思不集中。",
+        "syn": "魂不守舍、漫不經心",
+        "ant": "全神貫注、聚精會神"
+      },
+      "webp_src": "img/idioms/444-1fff10529306.webp",
+      "webp_sha256": "dc28a5c1f0c7ccf70243fdea311863b5d6a2b69a1aa9d942513998f96377ef4c"
+    },
+    "452": {
+      "no": 452,
+      "kind": "regenerate",
+      "word": "天造地設",
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/452.png",
+      "original_sha256": "b0f8ddbcf46c320dca13ca8691fb78dc148dbfc7df9f7d860fc6fdc8d1daca05",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "母女在安全步道旁欣賞天然海蝕岩拱，兩幅小景回顧同一岩塊從完整到受海浪侵蝕出洞口，主景海水正穿過寬大的石拱。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "同岩塊先完整、再被海浪蝕出小洞、主景成大拱門，天然成就的過程明確，非僅合作作品。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "全圖主景以母女在安全步道旁欣賞天然海蝕岩拱為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "母親指向岩拱的食指與曲指自然、另一掌扶欄，女孩雙臂扶欄有身體遮擋，雙鞋踏觀景地。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "天然岩層從左右陸塊連成拱、海浪穿洞，護欄柱接步道，無磚縫或人造拱橋混淆。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣東北角海蝕岩與現代觀景護欄，親子便服及國小校服身材，無歐式村落。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+        }
+      },
+      "previous_installed_original_sha256": "9dbced4516480e485e20aa23072bbb63908c3f5b9257a3a85bf1c60ec5dfaa63",
+      "previous_review_archive_path": "records/reviews/76d979d4e116a5b6f10a8a1943202340d3fc827d4fa0c06d80603f469b2c4eeb.json",
+      "previous_rejected_candidate_review_archive_path": null,
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+      },
+      "meaning_reference": {
+        "moe_meaning": "天然所成就的。＆形容人或事物彼此配合得自然得體，渾然天成。",
+        "syn": "鬼斧神工、渾然天成",
+        "ant": "矯揉造作"
+      },
+      "webp_src": "img/idioms/452-b0f8ddbcf46c.webp",
+      "webp_sha256": "4f723547979e905b8b79bde9b0f312bf87a097022c06ba9a4d763ef09aa591c8"
+    },
+    "455": {
+      "no": 455,
+      "kind": "regenerate",
+      "word": "冰消瓦解",
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/455.png",
+      "original_sha256": "cd83e5d6ca1292a26b9365289740669636564e4c1c370e32a47e7e582125283f",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "兩位鄰居因水管堵塞、植物缺水而爭執，清出堵物後水流順暢灌溉兩塊菜床，他們放鬆握手，取出的泥團留在地上盆內。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "左幕堵管缺水、兩人爭執；右幕堵物已取出裝盆，水流到兩床植物、兩人握手，問題解除及和解明確。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "全圖主景以兩位鄰居因水管堵塞、植物缺水而爭執為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "兩幕指管、叉腰及握手各指自然，手腕接臂、兩人雙鞋落土。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "透明管前有堵團、後水暢通，取出團落盆，兩出水管通向兩花床，水流依重力落土，接頭有結構。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代社區菜圃、素面工作上衣與圍裙、矮牆透天窗，成人比例自然。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+        }
+      },
+      "previous_installed_original_sha256": "8818fa0c5a9a2604fe9fd59f3a8993233767e2344d5b7e8df5ce71467983b530",
+      "previous_review_archive_path": "records/reviews/38d4a2fc98d62caf10c13b64e980786175f9c3c9cd626ac21b002a8cdf767dc5.json",
+      "previous_rejected_candidate_review_archive_path": null,
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+      },
+      "meaning_reference": {
+        "moe_meaning": "比喻事物潰敗分裂。＆比喻問題完全解決。",
+        "syn": "分崩離析、煙消雲散",
+        "ant": "堅如磐石"
+      },
+      "webp_src": "img/idioms/455-cd83e5d6ca12.webp",
+      "webp_sha256": "301d22e601878a7464827e165ad8a2ac2ee60dce7c99ec5ee43468ed2a841699"
+    },
+    "457": {
+      "no": 457,
+      "kind": "regenerate",
+      "word": "相形見絀",
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/457.png",
+      "original_sha256": "fec34293f958ff5ddbd827c5fc2df397c2bbf11468c173629e73aa6b8436a955",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "兩個孩子並排展示自己縫的布袋，男孩的袋子破底掉出水果，提帶也鬆脫；女孩的袋子縫線整齊，裝滿水果仍然完整。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "同尺寸布袋並排，男孩的粗縫袋破底且一水果掉出，女孩整齊袋裝滿仍完整，男子比較後羞慚，優劣差異清楚。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "全圖主景以兩個孩子並排展示自己縫的布袋為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "四隻握提帶手皆四曲指加拇指，與肩肘自然相連，身下由桌遮住；斷提帶留在左手而袋由另一提帶支撐。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "左袋接縫裂開、水果落桌，右袋完整落桌、提帶和縫線確實連接；剪刀線捲針墊放工具盒，無浮物。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代國小生活課，素面藍邊Polo運動服、兩孩國小比例，無古裝或頸飾。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+        }
+      },
+      "previous_installed_original_sha256": "752f907182b3260fc5040059cfb45a62d3fa3ab1301cb3917af81ebd2070d917",
+      "previous_review_archive_path": "records/reviews/bf5525f2f2b19ba650fb0a387d72e0a393742dcada1f77f18b5271bb6f9891f7.json",
+      "previous_rejected_candidate_review_archive_path": null,
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+      },
+      "meaning_reference": {
+        "moe_meaning": "相互比較之下，其中一方顯得不如對方。",
+        "syn": "小巫見大巫、相形失色、瞠乎其後",
+        "ant": "不相上下、各有千秋、旗鼓相當"
+      },
+      "webp_src": "img/idioms/457-fec34293f958.webp",
+      "webp_sha256": "bac26e4dca9d3cf6eede3d91c4438f37b48abea5ffd40f4c207e885bec527f3d"
+    },
+    "458": {
+      "no": 458,
+      "kind": "regenerate",
+      "word": "情不自禁",
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/458.png",
+      "original_sha256": "7d3eb7775393bcc2695cf2a724cba2cc8c702190a0f65814630e68f82d587031",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "女孩看見書中小狗把鍋子戴成帽子，掩住嘴巴還是笑出眼淚，身旁男孩驚訝望著她，雙掌放在桌上，兩人的鞋都踩著地面。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "女孩看小狗戴鍋的逗趣圖，掩嘴仍笑得掉淚抖肩，男孩驚望，情緒無法克制清楚。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "全圖主景以女孩看見書中小狗把鍋子戴成帽子為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "男孩兩掌桌上各五指、女孩掩口與扶頁五指自然，兩人肩臂連續、雙鞋著地。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "攤書厚頁受桌支撐，小狗鍋帽是平面圖像，木椅四腳和桌腳著地，玻璃窗與櫃門正常。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代國小閱讀角，素面白Polo和藍短褲裙、國小兒童比例，背景已改素櫃無書脊。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+        }
+      },
+      "previous_installed_original_sha256": "ba4eb8303288d529ffff830a9184b72e400c4e09407881f69f1838b854df7296",
+      "previous_review_archive_path": "records/reviews/a2d0072123500e276f962fdb49495aee1c8234615f7d1b6b39f909cf51581691.json",
+      "previous_rejected_candidate_review_archive_path": null,
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+      },
+      "meaning_reference": {
+        "moe_meaning": "感情激動得無法自我控制。",
+        "syn": "不由自主、不能自己",
+        "ant": "不為所動、無動於衷"
+      },
+      "webp_src": "img/idioms/458-7d3eb7775393.webp",
+      "webp_sha256": "617a0a3222e6900417b6dfb15391d644a63766ad33be17164de113bb2bb50275"
+    },
+    "460": {
+      "no": 460,
+      "kind": "regenerate",
+      "word": "酒囊飯袋",
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/460.png",
+      "original_sha256": "7099234e6b83cb5a6c50bd59aa3490c8a299bd7d927d388564a6afbce5374cf9",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "男子面對餐盒與各式盒蓋不知如何組好，後來只顧坐著吃喝，面前堆滿碗盤；同伴接過工作，已順利完成多盒整齊餐點。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "先面對幾種盒蓋不知如何完成簡單封盒，後只顧吃喝堆高碗盤，旁人接手即完成多盒；無能辦事加只會吃喝已補齊。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "全圖主景以男子面對餐盒與各式盒蓋不知如何組好為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "持兩蓋、後幕握點心及碗、女子壓蓋雙手皆五指握持自然，桌後下身遮擋合理。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "盒底蓋分明、左右大小有對應，餐盒食物有分隔、堆盒及碟碗受桌支撐，叉匙不是字形。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代社區餐盒準備、戶外帳棚和普通Polo圍裙，成人身材自然。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+        }
+      },
+      "previous_installed_original_sha256": "d5950c6e61368f3443006af6fbe1a4a8f2d2b625391d7a212b841e4d7bc7102e",
+      "previous_review_archive_path": "records/reviews/e0d1a22389b4eafb8a98a511b2178061b2fb37da79c661fce15e9f60955c9d77.json",
+      "previous_rejected_candidate_review_archive_path": null,
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+      },
+      "meaning_reference": {
+        "moe_meaning": "稱只會吃喝，而不會辦事的無能之人。貶義。",
+        "syn": "尸位素餐、衣架飯囊",
+        "ant": ""
+      },
+      "webp_src": "img/idioms/460-7099234e6b83.webp",
+      "webp_sha256": "da1467d191785b08e1e75a5c0f064b03cd29b723fe674c5cea65dabd78698eb6"
+    },
+    "463": {
+      "no": 463,
+      "kind": "regenerate",
+      "word": "虛與委蛇",
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/463.png",
+      "original_sha256": "6e8ac3c526ae42575224fd5cd98138fcd459779fd772052808a78a49f207e12e",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "接待者先熱情微笑握手，來客拿著園藝計畫板期待討論，下一幕接待者卻闔起資料，轉頭伸掌朝門口示意，準備結束會面。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "先過度熱情握手，下一幕立即闔上計畫板、轉頭伸掌送客，完全不討論內容，表面慇懃實際敷衍清楚。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "全圖主景以接待者先熱情微笑握手為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "握手兩掌交扣、持板手、第二幕雙桌掌與伸掌皆五指自然，無多手斷臂。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "夾板先直立由手扶、後闔放桌，杯在墊上、筆電素背無字，門把和椅子有連接支撐。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代接待辦公室、素櫃玻璃窗及普通西裝襯衫，兩人為成人比例。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+        }
+      },
+      "previous_installed_original_sha256": "b201f3715b5038f5154d4f22d679f7ca14bcc978386d9b7c48a1a0fb6774df58",
+      "previous_review_archive_path": "records/reviews/bd48e0577aef44b93088bbf88c74416dbd5e528adcfc0d9c668487e3c69f709a.json",
+      "previous_rejected_candidate_review_archive_path": null,
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+      },
+      "meaning_reference": {
+        "moe_meaning": "形容假意慇懃，敷衍應付。",
+        "syn": "假意周旋、虛與周旋",
+        "ant": "坦誠相見、開誠布公"
+      },
+      "webp_src": "img/idioms/463-6e8ac3c526ae.webp",
+      "webp_sha256": "e0d94b5093306256d892b45c0577c69a0ff5704f9d7dc3c57fc312364e53476b"
+    },
+    "466": {
+      "no": 466,
+      "kind": "regenerate",
+      "word": "胸無點墨",
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/466.png",
+      "original_sha256": "a86508514e51a74a7e6644651c070322433b8b02261a5de6842c50d805cd4494",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "男子接連面對幼苗排序、食物分類與台灣拼圖都搔頭攤掌，無法正確完成；旁邊同伴卻能依序示範，微笑指出基本答案。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "同一成人連種子長苗、食物分類、基本台灣圖形都無法完成，旁人每項能順利示範，欠缺基本學識較單一疑問明確。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "全圖主景以男子接連面對幼苗排序、食物分類與台灣拼圖都搔頭攤掌為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "追加放大第一及第三幕男子側攤掌，皆能辨認拇指與四根長指，最下指屈曲重疊但邊界連續；搔頭、持拼片、放香蕉及示範者掌指自然，臂接肩，無多肢。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "圖卡、籃子和拼圖落桌，香蕉被放錯魚圖籃是詞義線索非物理錯誤，拼板有框、沒有標字。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代成人基礎學習教室，素面Polo、台灣輪廓拼圖與鋁框窗，無國籍僅憑面孔的判定。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+        }
+      },
+      "previous_installed_original_sha256": "9abe0abea568184a3cf0d61d4523f0722abfcadc398b31902100a382ebe595a0",
+      "previous_review_archive_path": "records/reviews/fe8615d3ab5d7d380509c9a2841a86b15830745fde2219bfcac25a7fa8bb61da.json",
+      "previous_rejected_candidate_review_archive_path": null,
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+      },
+      "meaning_reference": {
+        "moe_meaning": "比喻人毫無學識。",
+        "syn": "不學無術、不識之無、目不識丁、腹笥甚窘",
+        "ant": "博學多才、滿腹經綸、滿腹珠璣、學富五車"
+      },
+      "webp_src": "img/idioms/466-a86508514e51.webp",
+      "webp_sha256": "26b8234b68eb0983bfafe7203e7f2bf2d4cbd846cd5645fd209f355918d628b1"
+    },
+    "474": {
+      "no": 474,
+      "kind": "regenerate",
+      "word": "雞鳴狗盜",
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/474.png",
+      "original_sha256": "0aa6ab77322e2c84d59f0829bb9b94550767c2e274989ce0f31cec87f17481d4",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "雜貨店外，一名男子躲在牆邊模仿鳥叫，引得店主抬頭尋找，另一人趁機從矮門鑽入，伸手拿走小桌上的錢包。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "一人用模仿鳥鳴口技吸引店主抬頭，另一人趁機鑽矮門取錢包，卑下技能被用來偷竊的行為清楚，非僅畫雞狗。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "全圖主景以雜貨店外為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "口技雙手攏口指節合理，店主雙桌掌各五指、竊者地掌五指明確，拿錢包指與拇指接觸自然，蹲姿鞋接地。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "錢包放矮桌由手拿取、桌腿落地，箱籃食物置架，鳥是口技泡泡非實景多腳動物。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代街角蔬果雜貨店、鐵窗柱磁磚、棒球帽運動鞋圍裙，沒有古裝長矛。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+        }
+      },
+      "previous_installed_original_sha256": "2f9eea871a1fadf47538cfcab5d2021dcb490f2358795ad44dd6a7117336775f",
+      "previous_review_archive_path": "records/reviews/f0909fc388e24fc61e8a3cb41a7ad580501e66f722941bd843f8ec783a28d6e9.json",
+      "previous_rejected_candidate_review_archive_path": null,
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+      },
+      "meaning_reference": {
+        "moe_meaning": "比喻有某種卑下技能的人，或指卑微的技能。＆形容卑劣低下的人或事。",
+        "syn": "鼠竊狗偷",
+        "ant": ""
+      },
+      "webp_src": "img/idioms/474-0aa6ab77322e.webp",
+      "webp_sha256": "26c26f10bc4f9f1b78463d28f4afa3e2e74790397c100ab6efef9a1b2973b553"
+    },
+    "475": {
+      "no": 475,
+      "kind": "regenerate",
+      "word": "當仁不讓",
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/475.png",
+      "original_sha256": "ad65959c041079e4682d9d70eaede8f6deac935b7df4b99672ee86a66588007a",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "菜園長者指出需要搬土整床的工作，青年立刻舉手答應並提起土袋，下一幕便親自把土倒進木床，與長者合作耙平。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "長者指搬土工作，青年立刻舉手接下並在後幕親自倒土，主動承擔不推辭清楚。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "全圖主景以菜園長者指出需要搬土整床的工作為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "舉掌五指、握土袋提帶、長者指袋扶床，後幕雙手托袋與握耙自然，雙鞋踏土，臂肩連續。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "土袋傾斜開口向下、土落木床，耙齒貼土、木床連地，無穿透或浮物。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代社區菜圃、鐵網籬和公寓街屋，草帽長者素白圓領上衣、頸部無領巾，青年一般便服。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+        }
+      },
+      "previous_installed_original_sha256": "97d5c9894d170bff5bc2b17bf86a95f423398cd1d34aa84b923642700cbc3358",
+      "previous_review_archive_path": "records/reviews/fe261b37afaf747e131474017a00adfc10c0d81556f635848980c938973d2c9d.json",
+      "previous_rejected_candidate_review_archive_path": null,
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+      },
+      "meaning_reference": {
+        "moe_meaning": "遇到應該做的事，主動承擔起來而不推辭。",
+        "syn": "自告奮勇、義不容辭、義無反顧",
+        "ant": "推三阻四、置身事外、臨難苟免、躊躇不前"
+      },
+      "webp_src": "img/idioms/475-ad65959c0410.webp",
+      "webp_sha256": "452cf50174e3b6427a61e1085e410068fc45eef43c67b8c3a5e2a87e403a4d70"
+    },
+    "478": {
+      "no": 478,
+      "kind": "regenerate",
+      "word": "恍然大悟",
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/478.png",
+      "original_sha256": "0a4f8ee90f187c1eefd7c1528fa1b2204e126ab0fde771af69c2f7fd3bab055c",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "男孩拿著拼片皺眉，母親指出形狀邊角後，他突然睜大眼睛笑著舉起食指，轉動拼片放進台灣輪廓的缺口，完成拼圖。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "男孩先對不上拼片，女子指出形狀凹角後，他瞬間睜眼微笑舉食指並放對位置，突然領悟的前後清楚。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "全圖主景以男孩拿著拼片皺眉為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "捏拼片、舉食指與按拼圖、女子指示及雙桌掌均五指或物件自然遮住，臂連肩。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "待放拼片對應台灣東北缺口，轉向後放入邊緣連續，木框及桌面承托，不用木橋或燈泡。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代家庭親子拼圖，孩子國小比例素面Polo、母親一般圍裙，無古裝。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+        }
+      },
+      "previous_installed_original_sha256": "0bce6151386daeb359da96068cc497b22e947bbf4f026e271829a92061b252c5",
+      "previous_review_archive_path": "records/reviews/413e1224aa3fb1d8f5ba40c37cf6ab4634c7c30657f1f8f876f85f35545d7c0c.json",
+      "previous_rejected_candidate_review_archive_path": null,
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+      },
+      "meaning_reference": {
+        "moe_meaning": "猛然醒悟過來。",
+        "syn": "茅塞頓開、豁然大悟、豁然貫通、豁然開朗",
+        "ant": "大惑不解、百思不解"
+      },
+      "webp_src": "img/idioms/478-0a4f8ee90f18.webp",
+      "webp_sha256": "6db8b58db064b9d3b018b647d7aea1ea19d01de3fd43d82cb32f719d1854dcbc"
+    },
+    "479": {
+      "no": 479,
+      "kind": "regenerate",
+      "word": "美輪美奐",
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/479.png",
+      "original_sha256": "7b5d3a93120b6ec5fd4123ebd74b2df966f89589b419874d166f1d981920510a",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "母子站在寬敞大廳抬頭欣賞，挑高屋頂、華麗吊燈、細緻木飾牆與弧形樓梯層層展開，光線在大片玻璃和地面上映出。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "挑高多層大廳、華美木飾牆吊燈與寬廣旋梯，親子仰望作比例，房屋高大裝飾華美清楚。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "全圖主景以母子站在寬敞大廳抬頭欣賞為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "兩人指上方皆食指加三曲指拇指，垂手五指可數，雙鞋接地，無微小背景人物。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "吊燈以桿連樑、柱樑支撐屋頂、樓梯扶手連立桿和階面，玻璃及地面反光合理，無漂浮器具。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代大型公共建築室內、親子便服與國小Polo，沒有古裝，成人兒童比例自然。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+        }
+      },
+      "previous_installed_original_sha256": "b30dc62ddd7662d1b8f349fa724459ce9c80049a5251b7897a5978904077952e",
+      "previous_review_archive_path": "records/reviews/21daa14053b8eb8358a90fca123e88707f8e18e61b20214d5418173676171adf.json",
+      "previous_rejected_candidate_review_archive_path": null,
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+      },
+      "meaning_reference": {
+        "moe_meaning": "形容房屋規模高大、裝飾華美。",
+        "syn": "富麗堂皇",
+        "ant": ""
+      },
+      "webp_src": "img/idioms/479-7b5d3a93120b.webp",
+      "webp_sha256": "d72d8f54bf9ffd58849bae13d3e166b0757c8b3d326b2add4b645237d21a1d14"
+    },
+    "480": {
+      "no": 480,
+      "kind": "regenerate",
+      "word": "穿鑿附會",
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/480.png",
+      "original_sha256": "7a56407e173300ff6be82895c91e375775eb626ad2c17fe985e5cc378ed15258",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "男孩得意地把梨子與鞋印照片連在一起講解，女孩皺眉拿出真正的鞋子，指向鞋底完全對應的紋路，提出不同的證據。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "男孩硬連梨子與鞋印，女孩拿真鞋底指出完全對應的紋路反駁，牽強解釋與合理證據對照清楚。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "全圖主景以男孩得意地把梨子與鞋印照片連在一起講解為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "兩舉食指手各曲指拇指合理，女孩指鞋與握鞋邊五指遮蔽自然，無多臂。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "紅線繫圖釘連照片，鞋底紋與腳印對應、手握鞋邊，櫃架和窗透視正常，無標題。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代國小軟木看板教室，兩孩素面白Polo藍短褲裙，國小比例自然。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+        }
+      },
+      "previous_installed_original_sha256": "c79aa6816d7e82da3afd25bdaab8baf519def3fe7498a0f96f5e8c54b53b530d",
+      "previous_review_archive_path": "records/reviews/fbc6bc990b548625d3c22e66e908afe8a046d947218291f5d354784fdc681c52.json",
+      "previous_rejected_candidate_review_archive_path": null,
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+      },
+      "meaning_reference": {
+        "moe_meaning": "生拉硬扯，牽強解釋。",
+        "syn": "生拉硬拽、生搬硬套、郢書燕說、牽強附會、強作解人",
+        "ant": "言之有理、言之鑿鑿、實事求是"
+      },
+      "webp_src": "img/idioms/480-7a56407e1733.webp",
+      "webp_sha256": "0dd56cf6ff2117687cf8715da6604884039de9825d958f609abbda50b49b9236"
+    },
+    "481": {
+      "no": 481,
+      "kind": "existing",
+      "word": "咬文嚼字",
+      "path": "/workspace/chengyu-preservation/originals/85cf21dbb9c2d8909107dc70182db6ce8cc677be252dc4984c9994db3f9001af.png",
+      "original_sha256": "85cf21dbb9c2d8909107dc70182db6ce8cc677be252dc4984c9994db3f9001af",
+      "original_available": true,
+      "review_source_sha256": "85cf21dbb9c2d8909107dc70182db6ce8cc677be252dc4984c9994db3f9001af",
+      "webp_src": "img/idioms/481.webp",
+      "webp_sha256": "5d56d06ecb22d2a8c2e18b8f25f7d63ae075c496cf16f091b41b332887c04155",
+      "passed": false,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "full-audit-20261123/group-08",
+      "alt": "女子拿著放大鏡與鑷子，專注調整書頁上的細小空白紙條，桌面堆滿剪下的紙片，旁邊男孩卻指著架上圖書裡的救人故事。",
+      "issues": [
+        "meaning: 女子拿放大鏡與鑷子排空白細紙條，孩子指向圖像救人故事；沒有可辨的字句推敲或拘泥字義，容易只看成精細剪貼，詞義證據不足。",
+        "text_brand_watermark: 筆筒黃色直尺除刻度外有極小數碼樣標記，書架書脊亦有仿字形標記；依禁止數字與類字符號退回。"
+      ],
+      "regenerate": true,
+      "checks": {
+        "meaning": {
+          "passed": false,
+          "evidence": "女子拿放大鏡與鑷子排空白細紙條，孩子指向圖像救人故事；沒有可辨的字句推敲或拘泥字義，容易只看成精細剪貼，詞義證據不足。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "以女子拿著放大鏡與鑷子為焦點，人物動作、表情和對照主體集中，手機縮圖可辨主要故事；背景未遮擋核心。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "放大鏡握柄和鑷子捏持手五指自然，孩子指圖手正常，書中救人者雙手相抓、腿蹲岩石。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "放大鏡和鑷子實際接紙、紙條堆桌，圖書架有底座，救人是平面故事圖非實景。"
+        },
+        "text_brand_watermark": {
+          "passed": false,
+          "evidence": "筆筒黃色直尺除刻度外有極小數碼樣標記，書架書脊亦有仿字形標記；依禁止數字與類字符號退回。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代親子書桌與窗外方形住宅，日常圍裙連帽衣，兒童比例符合國小年齡。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "所有主景、回想與背景人物頸部逐一看過，為普通衣領、連帽衣或腰繫圍裙，無紅領巾或紅圍巾；頭部髮帶與紅色上衣不屬領巾。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+        }
+      },
+      "inspection": {
+        "full_image": true,
+        "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+        "comparison": {
+          "all_sheets_actually_viewed": true,
+          "sheet_count": 9,
+          "candidate_count": 211,
+          "sheets_viewed": [
+            "compare-1.jpg",
+            "compare-2.jpg",
+            "compare-3.jpg",
+            "compare-4.jpg",
+            "compare-5.jpg",
+            "compare-6.jpg",
+            "compare-7.jpg",
+            "compare-8.jpg",
+            "compare-9.jpg"
+          ],
+          "candidate_source": "comparison-candidates.json",
+          "extra_full_comparisons": [
+            [
+              491,
+              584
+            ],
+            [
+              457,
+              584
+            ],
+            [
+              444,
+              478
+            ]
+          ],
+          "near_duplicates": {
+            "444": "另對照本組478：同為左側藍衣搭橋者、右側女子指導、中央弧形木橋與散零件的桌前構圖。雖加教師和野餐泡泡，仍重複同一橋模型教學模板，依重複構圖規則退回。",
+            "478": "另對照本組444：左側藍衣人物、右側女子指示、中間木製弧橋及桌面散零件的主景幾乎相同，只改表情與年齡，無法保持各成語獨立構圖，退回。",
+            "457": "另全圖比較584無與倫比，並比對本組491：同用精密桁架拱橋承多個重物、弱橋承少量就下陷的成果比較。兩橋並排雖換左右人物，核心木橋承重優劣故事近乎可互換，依重複道具構圖規則退回。",
+            "491": "另實際全圖比較584無與倫比：同是中央精密木拱橋疊大石、周邊簡易小橋、右側藍格衫製作者與左側老師同學稱讚。主要構圖、角色與道具近乎相同，僅改石頭數量及人物站位，退回。"
+          },
+          "comparison_note": "九張比較表211張現行候選逐張實際看過，另全圖檢視584與本組444/478/457/491對照；未把同畫風、同人物類型本身當作重複構圖。"
+        },
+        "source_limit": "Original PNG available"
+      },
+      "meaning_reference": {
+        "meaning": "形容在字句上推敲琢磨。＆形容拘泥於文字詮釋而流於見解迂腐、淺陋。＆形容好稱引古書以賣弄才學的淵博。",
+        "syn": "字斟句酌、尋行數墨",
+        "ant": ""
+      },
+      "latest_rejected_candidate": {
+        "batch": "batch-35-unresolved-25",
+        "original_sha256": "b1c84c42c7a444abb054d7c44fc95e25f75ba8d97d3b7e1d3617b0737041117e",
+        "original_archive_path": "originals/b1c84c42c7a444abb054d7c44fc95e25f75ba8d97d3b7e1d3617b0737041117e.png",
+        "review_archive_path": "records/reviews/5afb745b09e861639191260721b9f56f74cfd02ac80829c510665b4654123145.json",
+        "passed": false
+      }
+    },
+    "482": {
+      "no": 482,
+      "kind": "regenerate",
+      "word": "亡羊補牢",
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/482.png",
+      "original_sha256": "adca251686803ed947ad746cf68dca70f182c2b91fa2c6d6c90359fd64c37661",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "兔籠門扣鬆脫，一隻兔子跑到外面，孩子抱回後請教師協助換上新扣，最後門已牢牢關好，兔子都安穩留在籠子裡。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "兔子因門扣鬆掉逃出，孩子抱回後教師換上牢固扣件、兔子留籠中，錯誤後補救並防再犯清楚。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "全圖主景以兔籠門扣鬆脫為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "孩子第一幕伸掌五指、抱兔雙手五指握持自然，教師扶門框、托門、裝扣手指自然，蹲姿雙鞋接地。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "門扣前垂下、後跨接門與框，兔籠方格和合頁連續，兔子受掌托或腳踏草籠底，修補確實封住。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代校園飼養角、校舍鋁窗與素面便服，學童國小比例、教師一般上衣裙，無古服羊圈。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+        }
+      },
+      "previous_installed_original_sha256": "acfc837ea8b59bcecfe21c08d979f0486d360419cc5b9ffe13bf2d15ed1815ab",
+      "previous_review_archive_path": "records/reviews/305072f76fcb8aebe0df2b06c6c4c68830a2753b8012bc8fb5c5b88f5848a4c5.json",
+      "previous_rejected_candidate_review_archive_path": null,
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+      },
+      "meaning_reference": {
+        "moe_meaning": "比喻犯錯後及時更正，尚能補救。",
+        "syn": "",
+        "ant": ""
+      },
+      "webp_src": "img/idioms/482-adca25168680.webp",
+      "webp_sha256": "06b061a64af65406e4d14d15a542f6a910d00aa5a32aae47a98fb9ef8936a998"
+    },
+    "483": {
+      "no": 483,
+      "kind": "regenerate",
+      "word": "諱疾忌醫",
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/483.png",
+      "original_sha256": "74449434b4e48dd30951abb4b16f366bb659821fed569fc5d1d869f2df588833",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "女子拿膠水指出椅腳裂痕，男子卻用布遮住並舉掌拒絕修理，後來同一張椅子斷腳倒地，他蹲在旁邊露出懊惱神情。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "前幕明知椅腳裂卻遮布拒絕修理，後幕同椅斷腳倒地才懊惱，掩飾問題不聽勸告的結果清楚。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "全圖主景以女子拿膠水指出椅腳裂痕為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "拒絕掌五指、遮布與指裂處持膠手自然，後幕雙膝掌各五指、女子攤掌合理，跪蹲鞋膝著地。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "裂腳對應斷腳位置、同布椅紋前後連續，斷椅落地、膠瓶放地，未有人坐壞椅。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代家居木椅素櫃、普通Polo和圍裙便服，成人比例自然，無書脊假字。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+        }
+      },
+      "previous_installed_original_sha256": "33cdb92ca2fedcd7d30fbc874e2d26c042c21ad7a1fd5cdfe5d51319db9d46f3",
+      "previous_review_archive_path": "records/reviews/32eb0c54d8e569ff598de14ed67f797c1896f6ead1f506eb65e8275d38cf1a0d.json",
+      "previous_rejected_candidate_review_archive_path": null,
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+      },
+      "meaning_reference": {
+        "moe_meaning": "不承認有病，害怕去治療。 ＆比喻問題本小不予處理，終致無法收拾。 ＆比喻掩飾過失而不願聽人規勸。",
+        "syn": "文過飾非、拒諫飾非",
+        "ant": "改過不吝、知過必改、退思補過"
+      },
+      "webp_src": "img/idioms/483-74449434b4e4.webp",
+      "webp_sha256": "655793568fb4975710c91fa8cd3a5e3ca2a139cc6dc11c02e94d241bce215f40"
+    },
+    "484": {
+      "no": 484,
+      "kind": "regenerate",
+      "word": "敷衍塞責",
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/484.png",
+      "original_sha256": "5b76feaf103e6af327729c6ddffd3f03be3717cfadd294f0139acb6e960f925c",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "清潔者把碎屑掃到掀起的地毯底下，沒有使用空畚箕就準備離開；女子隨後掀開毯角，指著藏起來的大堆垃圾皺眉。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "清潔者把垃圾掃進地毯下就想離開，女子掀毯揭出整堆碎屑，表面乾淨實則敷衍的前後證據清楚。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "全圖主景以清潔者把碎屑掃到掀起的地毯底下為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "握掃帚掀毯、後幕握門把及背後握桿各五指自然；女子指垃圾握毯與蹲姿接地，無多臂。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "掃帚接地、垃圾被毯遮住後掀出，畚箕仍空置，桌椅腳落地、門把固定，支撐自然。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代社區活動室、鋁窗磁磚和普通工作便服，空白公告板及素面櫃門。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+        }
+      },
+      "previous_installed_original_sha256": "5f8ffb1306afc3435d771f20c5cda0fd14dda7e49de7fcbcbd3f7fc760d09c67",
+      "previous_review_archive_path": "records/reviews/9b4ea12f72d555015c4f6f0fbc4ec528ea761f48a4e64d8855c17895225bacb9.json",
+      "previous_rejected_candidate_review_archive_path": null,
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+      },
+      "meaning_reference": {
+        "moe_meaning": "形容做事不認真負責，只是表面應付。",
+        "syn": "敷衍了事、潦草塞責",
+        "ant": "一絲不苟、盡心竭力"
+      },
+      "webp_src": "img/idioms/484-5b76feaf103e.webp",
+      "webp_sha256": "62760eada51bd50bab29f2de341235510c6cce51513e6faa02b5544d3f92de64"
+    },
+    "489": {
+      "no": 489,
+      "kind": "regenerate",
+      "word": "永垂不朽",
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/489.png",
+      "original_sha256": "8118af059e6cc977f64b9382aef5991ad4df4418396de7045343814005d081b6",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "長者在植樹者銅像前獻花，旁邊舊照片保留他與幼苗的模樣，今日背後大樹已經枝葉茂盛，女孩正接續把新苗種進土中。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "植樹者銅像與舊照受到獻花紀念，樹已茂盛，學童在旁接續種苗，功績流傳與承接清楚。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "全圖主景以長者在植樹者銅像前獻花為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "長者前掌五指托花、另一手在花束後自然遮住，女孩兩掌各五指扶根團，跪蹲鞋著地；銅像與舊照為半身無微小手。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "銅像連石座、照片斜靠基座、花束落臺，根團放入土坑、苗幹連根，鏟放地，無浮物。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代社區公園、長者普通襯衫與女孩國小Polo裙、年齡比例自然，無微小背景人物。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+        }
+      },
+      "previous_installed_original_sha256": "39d34d8123c0377d253340ccc19ee24743f0c8e8eb35ec19f60e863ae77ed223",
+      "previous_review_archive_path": "records/reviews/48ee892f55d3b5dd522cfcaa30cc1c04335896ee19e628c5ad8009024c07fc16.json",
+      "previous_rejected_candidate_review_archive_path": null,
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+      },
+      "meaning_reference": {
+        "moe_meaning": "永遠流傳而不可磨滅。褒義。",
+        "syn": "名垂千古、流芳百世、萬古流芳",
+        "ant": "遺臭萬年"
+      },
+      "webp_src": "img/idioms/489-8118af059e6c.webp",
+      "webp_sha256": "c7fce83c74c3917556b3cc80ae8e67e0722f17b63fb7aa8d6ce04c6ca70f4459"
+    },
+    "491": {
+      "no": 491,
+      "kind": "regenerate",
+      "word": "出人頭地",
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/491.png",
+      "original_sha256": "4495729bc2241c516bb18742e60978da10c0aa97ae5d7559da195efda5e30a8a",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "男孩展示分隔整齊又能提起的工具收納盒，桌上其他作品不是雜亂卡蓋，就是提把斷裂，教師與同學比較後驚喜稱讚他的設計。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "同尺寸收納盒對照，其他盒雜亂卡蓋斷提把，男孩盒分隔整齊又能提，教師同學集中稱讚他，超越同儕有可辨的作品差異。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "全圖主景以男孩展示分隔整齊又能提起的工具收納盒為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "教師指盒與桌掌、女孩雙桌掌各五指，男孩雙手扶兩側提把，曲指拇指貼把手、臂肩連接自然。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "盒蓋有鉸鏈、分隔槽吻合工具，差盒斷提把落桌、卡蓋因塞物，男孩盒由手承托，非橋模型模板。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代國小生活設計課、校舍鋁窗、一般教師上衣與兒童Polo，成人和國小比例合理。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+        }
+      },
+      "previous_installed_original_sha256": "4b36e4ab2ab72e5566c3be4a0529aebd2bdb5d70c294bc4ee0b0ddaf94a0c174",
+      "previous_review_archive_path": "records/reviews/d6f4b6f498481e523a2f6d3f8e9b75357cffa3d3de019276d52554480b3ee004.json",
+      "previous_rejected_candidate_review_archive_path": null,
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+      },
+      "meaning_reference": {
+        "moe_meaning": "超越他人，獨露頭角。",
+        "syn": "出類拔萃、佼佼不群、卓爾不群、推群獨步、超群絕倫、頭角崢嶸、鶴立雞群",
+        "ant": "不稂不莠、碌碌無能"
+      },
+      "webp_src": "img/idioms/491-4495729bc224.webp",
+      "webp_sha256": "554a0c255ade590a4521e0d3ca4c412aef407e611c73d7803f4ff03dd7d29fd0"
+    },
+    "492": {
+      "no": 492,
+      "kind": "regenerate",
+      "word": "暴跳如雷",
+      "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/492.png",
+      "original_sha256": "b4f317ed4d424da75f30110bcff0b00ef8371a4352f7e2f70d6fe46f0b6e8f06",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-24",
+      "review_batch": "batch-35-unresolved-25",
+      "alt": "男子看見泥球和地毯上的鞋印，氣得滿臉漲紅、雙拳緊握，張嘴大吼並抬起腳準備重跺，女子在旁驚訝舉掌看著他。",
+      "issues": [],
+      "regenerate": false,
+      "checks": {
+        "meaning": {
+          "passed": true,
+          "evidence": "男子見泥球腳印後漲紅臉怒吼、雙拳緊握並抬腳跺地，女子驚訝後退，急怒跳腳動態明確。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+        },
+        "composition": {
+          "passed": true,
+          "evidence": "全圖主景以男子看見泥球和地毯上的鞋印為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+        },
+        "hands_feet_pose": {
+          "passed": true,
+          "evidence": "女子雙掌各五指、男子雙拳四曲指與拇指自然，雙臂連肩，一腳站穩另一腳抬起準備踏下，無多腿。"
+        },
+        "objects_contact_perspective": {
+          "passed": true,
+          "evidence": "鞋底朝地、泥塊從鞋底落下對應地毯鞋印，球落地，茶几杯墊沙發櫃腳支撐自然。"
+        },
+        "text_brand_watermark": {
+          "passed": true,
+          "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+        },
+        "style": {
+          "passed": true,
+          "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "台灣現代公寓客廳、窗外方形城市樓房，普通Polo長褲與針織外套，成人比例正常。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+        }
+      },
+      "previous_installed_original_sha256": "7dca92d18e3150bb9685ae44bd87800d477f9b7769acd37fae741f1a29a504be",
+      "previous_review_archive_path": "records/reviews/6aae9409cb506916e4a7c6d509dae81be1f2ddebfa8bdfb0bf07679cd6596450.json",
+      "previous_rejected_candidate_review_archive_path": null,
+      "inspection": {
+        "full_image": true,
+        "native_detail_crops": true,
+        "native_size": [
+          1536,
+          1024
+        ],
+        "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+        "comparison_candidates": 88,
+        "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+      },
+      "meaning_reference": {
+        "moe_meaning": "形容人急怒時跳腳吼叫的樣子。",
+        "syn": "大發雷霆、咆哮如雷、勃然大怒",
+        "ant": "心平氣和、怒不變容"
+      },
+      "webp_src": "img/idioms/492-b4f317ed4d42.webp",
+      "webp_sha256": "e362ae77471150d69c57b689b7b54043a59caeb752e3c47598d5702352e27fcf"
     }
   }
 }
