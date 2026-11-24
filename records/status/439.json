@@ -1,11 +1,11 @@
 {
   "no": 439,
   "word": "一刀兩斷",
-  "webp": "img/idioms/439.webp",
-  "original_sha256": "65176639bddf9c84ed1448f1548ede845807caf8a51885d418fd58217d4a8175",
-  "original": "originals/65176639bddf9c84ed1448f1548ede845807caf8a51885d418fd58217d4a8175.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/e1d0f9f38540a1a13603f6fb211cdfbe1b3f2da823b6d174000fc0ce8fd242f4.json"
+  "webp": "img/idioms/439-3ecd0a8ad900.webp",
+  "original_sha256": "3ecd0a8ad90091b98b9ef39c7e78b6e2e2b51038f91849ad057f52d97e774cc0",
+  "original": "originals/3ecd0a8ad90091b98b9ef39c7e78b6e2e2b51038f91849ad057f52d97e774cc0.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/df112dc532e8794f4e24f349e7560c1d6e5caab1faf3ffba27d6dadffabe7243.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/3a209c7053033d89ed52d31dfc20b52a95198c97b7045b295128338a3359382a.json"
 }

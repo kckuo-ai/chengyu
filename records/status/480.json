@@ -1,11 +1,11 @@
 {
   "no": 480,
   "word": "穿鑿附會",
-  "webp": "img/idioms/480.webp",
-  "original_sha256": "c79aa6816d7e82da3afd25bdaab8baf519def3fe7498a0f96f5e8c54b53b530d",
-  "original": "originals/c79aa6816d7e82da3afd25bdaab8baf519def3fe7498a0f96f5e8c54b53b530d.png",
-  "review_record_present": false,
-  "current_review_path": null,
-  "review_status": "missing_historical_review_record",
-  "current_prompt_path": "records/prompts/2d3b4e6a29c3bd6701283ac0cad7aa6b3555a4c93f22799ff866a1c4123a5086.json"
+  "webp": "img/idioms/480-7a56407e1733.webp",
+  "original_sha256": "7a56407e173300ff6be82895c91e375775eb626ad2c17fe985e5cc378ed15258",
+  "original": "originals/7a56407e173300ff6be82895c91e375775eb626ad2c17fe985e5cc378ed15258.png",
+  "review_record_present": true,
+  "current_review_path": "records/reviews/9bb52d783c8f4c500651e93a2e62707d8bf895a1734b0d7ca5428c5d006387fa.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/168791ab5213023b8afe0f2d20491e18cbc69bc828d7dd13b54fb913e661567e.json"
 }

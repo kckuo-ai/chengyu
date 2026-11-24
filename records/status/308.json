@@ -1,18 +1,11 @@
 {
   "no": 308,
   "word": "空前絕後",
-  "webp": "img/idioms/308.webp",
-  "original_sha256": "0e6bd3c8481ab01b4270fea1c961b1e80781f47846d0819cb5be6e14d1a8d9d7",
-  "original": "originals/0e6bd3c8481ab01b4270fea1c961b1e80781f47846d0819cb5be6e14d1a8d9d7.png",
+  "webp": "img/idioms/308-6c62e1459095.webp",
+  "original_sha256": "6c62e1459095d3550f9903208b7bec0e34ce921c3899160e5b364e4cf7622228",
+  "original": "originals/6c62e1459095d3550f9903208b7bec0e34ce921c3899160e5b364e4cf7622228.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/67cc1d663709d56fdefef7d11d2a31f892a7ec58f0495c7c767240953c7bcfe5.json",
-  "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": "records/prompts/a53a0117a8f748a95c8b514529f585ac9a3b5d0613251594a6d17814810dc53f.json",
-  "latest_rejected_candidate": {
-    "batch": "batch-34-redraw-308",
-    "original_sha256": "2ad909c6d8bbbfcb0bd19368cbb951c4278e0b4523daef003aa790e849f26f79",
-    "original_archive_path": "originals/2ad909c6d8bbbfcb0bd19368cbb951c4278e0b4523daef003aa790e849f26f79.png",
-    "review_archive_path": "records/reviews/3fc480b915a23e2c16c0bc52e8114896674d04bdcab158d13480cb2f1afdd961.json",
-    "passed": false
-  }
+  "current_review_path": "records/reviews/778f7823baff61653103fac9a72dda914de22dfeb6af345bd50bcec92f3d5e5f.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/5394aff5941605b8e2dc7400f0d8c1ea9c0b30e978da702ecb4a99a4c44ffd35.json"
 }
