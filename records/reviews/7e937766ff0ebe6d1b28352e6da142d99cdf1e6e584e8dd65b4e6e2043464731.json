@@ -1,0 +1,68 @@
+{
+  "no": 227,
+  "kind": "regenerate",
+  "word": "強詞奪理",
+  "path": "/workspace/idiom-review/batch-30-redraw-5/batch-30/227.png",
+  "original_sha256": "2bc7573915ca612604cdafad2906653e865a6b5bb7cfa32fdf0ce1fc37d3b678",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-30-redraw-5",
+  "alt": "男孩親手撕破盒裡的花飾，事後卻指著窗戶說是風吹的，老師指出封盒、同學也出面作證，他仍拍胸指窗大聲爭辯。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "男孩親手撕破盒內花飾、旁人目擊，面對詢問卻堅稱是窗風吹破；老師指封盒、目擊者指出矛盾後仍拍胸指窗爭辯，無理硬辯的因果已補完整。 已實際看過五張比較表共104張既有插圖候選，及306/748全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面焦點是男孩親手撕破盒裡的花飾；人物與關鍵物件有清楚輪廓，分格與想像框邊界可辨，縮至手機寬仍能讀出動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "三格撕花、持碎片、指盒、指窗、拍胸與扶桌各手接臂正常，張掌五指，局部握持遮蔽合理，無額外肢體。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "花飾裂口相合、透明盒上下蓋與鉸點連續；下格盒已扣起，兩片花由老師掌托，話泡只是藉口。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐格與原尺寸查看紙面、衣領、背景、器材、手機及圖卡，未見文字、字母、數字、仿字串、品牌或浮水印，無不適內容；功能性的鞋帶、琴鍵、軸線、圖解與綁繩不是字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小教室，兩位學齡學生藍綠短袖、老師襯衫紫外套，木桌鋁窗與書包自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "496cc34f50a70f4bf06b4c0a600ae2494da93f383b68f6cd0dd770b1d5723108",
+  "previous_rejected_candidate_review_archive_path": "records/reviews/3a692ee679e7998df7a7b99709883a7e39be78897ff5056268c7cf7360bf7951.json",
+  "previous_review_archive_path": "records/reviews/bd76f5c1a485c31a031d718d6605e68b2f6cd2986107b0a521e22ed8076da87c.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 104,
+    "comparison_method": "Five sheets with104 current catalog candidates actually viewed; additional full306/748 comparison; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻人沒有道理卻強自狡辯。",
+    "syn": "",
+    "ant": "入情入理、理直氣壯、義正詞嚴"
+  },
+  "webp_src": "img/idioms/227-2bc7573915ca.webp",
+  "webp_sha256": "998c9d1457a95e8cfbec1327dab2b84aec02401b8bde8b75815879bc1fbe3ffc"
+}

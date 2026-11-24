@@ -1,0 +1,68 @@
+{
+  "no": 301,
+  "kind": "regenerate",
+  "word": "曲高和寡",
+  "path": "/workspace/idiom-review/batch-29-group-5-redraw-26/batch-29/301.png",
+  "original_sha256": "2ab94df397dc4994eb5a709ad745c7618b959ddf3559d57bba9c564a0ac480bd",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-29-group-5-redraw-26",
+  "alt": "女子專心彈奏鋼琴，角落放大框顯示複雜指法，後方長者陶醉欣賞，兩名孩子卻困惑望向母親，想到鼓掌卻未動作。",
+  "issues": [
+    "objects_contact_perspective: 追加放大確認示意框鍵盤的黑鍵連續排列成四個以上一組，缺少鋼琴必要的二、三交替分組，與白鍵切分也不匹配；主景同樣鍵距混亂，樂器結構不通過。琴體座椅支撐與手指接觸沒有另外問題。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "女子彈奏複雜鋼琴曲，只有一位年長聽眾陶醉，其餘親子困惑互望、思考鼓掌，少數能欣賞與多數不共鳴形成對比。 已實際看過五張比較表共104張既有插圖候選，及306/748全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面焦點是女子專心彈奏鋼琴；人物與關鍵物件有清楚輪廓，分格與想像框邊界可辨，縮至手機寬仍能讀出動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "主景琴手兩手與放大框各手、聽眾扶膝托腮手及想像鼓掌手均無多指，四位觀眾雙腳著地。"
+    },
+    "objects_contact_perspective": {
+      "passed": false,
+      "evidence": "追加放大確認示意框鍵盤的黑鍵連續排列成四個以上一組，缺少鋼琴必要的二、三交替分組，與白鍵切分也不匹配；主景同樣鍵距混亂，樂器結構不通過。琴體座椅支撐與手指接觸沒有另外問題。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐格與原尺寸查看紙面、衣領、背景、器材、手機及圖卡，未見文字、字母、數字、仿字串、品牌或浮水印，無不適內容；功能性的鞋帶、琴鍵、軸線、圖解與綁繩不是字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代學校音樂教室，孩子白制服藍褲裙白襪球鞋，成人日常襯衫長裙西裝，無異國標記。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "1528f973996112f5e37b4bec8821a24cb37fcd7ba2b77e9c0733b75298c5bc17",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/4f93a34407ba95acd93fae4096d927a37ceb4b6a0751719a5f3744245acffea7.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 104,
+    "comparison_method": "Five sheets with104 current catalog candidates actually viewed; additional full306/748 comparison; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻無法引起大眾的共鳴。",
+    "syn": "陽春白雪",
+    "ant": "一唱百和、下里巴人"
+  }
+}

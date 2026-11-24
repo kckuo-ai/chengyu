@@ -1,0 +1,68 @@
+{
+  "no": 300,
+  "kind": "regenerate",
+  "word": "自怨自艾",
+  "path": "/workspace/idiom-review/batch-29-group-5-redraw-26/batch-29/300.png",
+  "original_sha256": "ea098dcd6a552b3b52e1f6b41edce5e8d05faa94c046b49099cef2e56adf5571",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-29-group-5-redraw-26",
+  "alt": "男子低頭皺眉坐在木工桌前，一手抓頭、一手按著胸口，反覆想著做錯的榫卯接法，旁邊女子擔憂看著未完成木料。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "男子對著沒做好的接榫垂頭皺眉，一手抓頭一手按胸，反覆回想兩次做錯的榫卯，旁人擔憂而他仍停在懊惱，表現消極自責。 已實際看過五張比較表共104張既有插圖候選，及306/748全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面焦點是男子低頭皺眉坐在木工桌前；人物與關鍵物件有清楚輪廓，分格與想像框邊界可辨，縮至手機寬仍能讀出動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "抓頭五指、按胸五指、女子扶桌與垂手均正常，兩個泡泡各雙手夾木料不增減，桌下自然裁切。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "榫卯刻意錯配代表失敗，回想中的凹凸形狀不同；木槌、鑿刀有連續柄頭且平放桌面。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐格與原尺寸查看紙面、衣領、背景、器材、手機及圖卡，未見文字、字母、數字、仿字串、品牌或浮水印，無不適內容；功能性的鞋帶、琴鍵、軸線、圖解與綁繩不是字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代木工工作室，成年男女襯衫工作圍裙，普通收納櫃與工作桌，非古代工匠裝扮。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "b48b44a3e1f3edd47b251f641bf456e32900da766e280372819cd0d2861b28c9",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/ba5a4439277b35629e21bcc9bd0cd006df7e0ceed41791a3b2805e4f313f3a00.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 104,
+    "comparison_method": "Five sheets with104 current catalog candidates actually viewed; additional full306/748 comparison; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容人消極的埋怨自責。",
+    "syn": "自嗟自嘆",
+    "ant": "自鳴得意"
+  },
+  "webp_src": "img/idioms/300-ea098dcd6a55.webp",
+  "webp_sha256": "5c9026d7bf9bc32b27a416a30baa2c1aec38727e6ecba466f086f79fb986e6c4"
+}

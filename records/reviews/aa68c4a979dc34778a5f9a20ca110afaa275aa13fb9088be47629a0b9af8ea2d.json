@@ -1,0 +1,68 @@
+{
+  "no": 320,
+  "kind": "regenerate",
+  "word": "盲人摸象",
+  "path": "/workspace/idiom-review/batch-29-group-5-redraw-26/batch-29/320.png",
+  "original_sha256": "906ad031c5b8ccbbc004d72187c71b116e9fdbca32c458c296ce6db860d0d071",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-29-group-5-redraw-26",
+  "alt": "孩子透過布上小孔觀看局部，分別舉著角、梯子與鼓的猜測圖卡，老師揭開布後露出完整腳踏車，孩子都睜眼驚訝。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "孩子各只看到布孔後的一小塊腳踏車，分別推測成角、梯子與鼓，揭布後才驚見整車；由局部錯認整體、未明全貌清楚。 已實際看過五張比較表共104張既有插圖候選，及306/748全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面焦點是孩子透過布上小孔觀看局部；人物與關鍵物件有清楚輪廓，分格與想像框邊界可辨，縮至手機寬仍能讀出動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "三名孩子兩格各持圖卡手正常、另一手由身體或紙卡遮住；老師左格扶柱右格雙手拉布，指節無增減。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "孔內把手車架輪緣與全車位置相對應，腳踏車車架鏈條曲柄、輪軸與支腳連續且落地，布由繩與手支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐格與原尺寸查看紙面、衣領、背景、器材、手機及圖卡，未見文字、字母、數字、仿字串、品牌或浮水印，無不適內容；功能性的鞋帶、琴鍵、軸線、圖解與綁繩不是字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小校舍前觀察活動，學生白制服深藍短褲裙，老師紫外套白襯衫，現代腳踏車與校舍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "1f60398c9b292bee2fddab91bc14fcc93a8cf3b45a2b397376af4dddb1343f6c",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/87b9213848ac55e7aee2b06f1e4700d67eec67b0cd8915a25b636af0e0ecf33d.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 104,
+    "comparison_method": "Five sheets with104 current catalog candidates actually viewed; additional full306/748 comparison; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻以偏概全，未能洞明真相。貶義。",
+    "syn": "",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/320-906ad031c5b8.webp",
+  "webp_sha256": "5c5e222c7facef808bf07f584a9490819dd34a26d4a0225f9b3f2a3b9708165b"
+}

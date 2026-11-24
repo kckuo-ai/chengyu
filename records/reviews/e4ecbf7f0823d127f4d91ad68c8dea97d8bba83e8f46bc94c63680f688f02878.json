@@ -1,0 +1,68 @@
+{
+  "no": 317,
+  "kind": "regenerate",
+  "word": "兩全其美",
+  "path": "/workspace/idiom-review/batch-29-group-5-redraw-26/batch-29/317.png",
+  "original_sha256": "2053c1b091ae6d70feae53c53dd68f76bf890a02f9c3bd64bb076a3c2dc806d6",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-29-group-5-redraw-26",
+  "alt": "女孩原先被敲木盒聲吵得摀住耳朵，後來桌間立起隔板，男孩改用膠水組裝，女孩便能開心讀書，兩邊活動都繼續進行。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "先是敲木盒聲讓女孩摀耳無法讀書，後來裝隔板且男孩改用膠黏，女孩安靜讀書、男孩也能繼續完成作品，兩邊需求都照顧到。 已實際看過五張比較表共104張既有插圖候選，及306/748全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面焦點是女孩原先被敲木盒聲吵得摀住耳朵；人物與關鍵物件有清楚輪廓，分格與想像框邊界可辨，縮至手機寬仍能讀出動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女孩摀耳到雙手持書、男孩握槌按盒到持膠扶盒，各手五指接掌正常；三人兩格各雙腿鞋著地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "隔板以三角斜撐與橫腳站穩，工具換成膠瓶、木槌擱桌，女孩桌與作業桌分隔，沒有宣稱薄板單獨隔絕所有聲音。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐格與原尺寸查看紙面、衣領、背景、器材、手機及圖卡，未見文字、字母、數字、仿字串、品牌或浮水印，無不適內容；功能性的鞋帶、琴鍵、軸線、圖解與綁繩不是字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小勞作與閱讀空間，孩子白藍上衣深藍褲裙白襪球鞋，學齡頭身與普通教室家具。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "0bf22ac21e7770c82004759802e2cfff379f5d4cf28cd56914d1cc42c2d033ce",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/796e0f2d990cd87b927087b460fe510aea7e554d6c0c34666d736a056e5fb57d.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 104,
+    "comparison_method": "Five sheets with104 current catalog candidates actually viewed; additional full306/748 comparison; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "做事顧全雙方，使兩方面都有獲益。",
+    "syn": "一箭雙鵰、一舉兩得",
+    "ant": "顧此失彼"
+  },
+  "webp_src": "img/idioms/317-2053c1b091ae.webp",
+  "webp_sha256": "01198620547f87a1b07435db2fa374d22c0408fce3c69cf6342192bce70e1ce6"
+}

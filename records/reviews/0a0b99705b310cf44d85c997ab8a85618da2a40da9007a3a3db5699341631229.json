@@ -1,0 +1,68 @@
+{
+  "no": 283,
+  "kind": "regenerate",
+  "word": "鞭長莫及",
+  "path": "/workspace/idiom-review/batch-29-group-5-redraw-26/batch-29/283.png",
+  "original_sha256": "c324995ca286520dbbc28c378b4df86dbb3ce53f490c672254b2f8ccc078fd8e",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-29-group-5-redraw-26",
+  "alt": "男子在深夜看著平板中的女子吃力扶住傾斜書架，急忙伸手想幫忙，卻只能碰到螢幕；女子站在另一處明亮房間裡。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "螢幕裡女子吃力扶住傾倒書架，螢幕外遠方男子伸手焦急卻只能碰到平板；不同地點與日夜窗景凸顯想幫但力量到不了。 已實際看過五張比較表共104張既有插圖候選，及306/748全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面焦點是男子在深夜看著平板中的女子吃力扶住傾斜書架；人物與關鍵物件有清楚輪廓，分格與想像框邊界可辨，縮至手機寬仍能讀出動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男子扶桌手與伸向螢幕五指掌正常，螢幕女子雙手各握架柱，兩腳前後支撐，無多手腳。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "平板有支架放桌，女子手接到木架，箱子受層板支撐；畫面內外透視分清，不把螢幕人物當實物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐格與原尺寸查看紙面、衣領、背景、器材、手機及圖卡，未見文字、字母、數字、仿字串、品牌或浮水印，無不適內容；功能性的鞋帶、琴鍵、軸線、圖解與綁繩不是字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣住家視訊情境，男子短袖、女子襯衫圍裙長褲平底鞋，普通鋁窗、木架與家用平板。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "c429ad0a8ccb20d4250730134daa2536a7c018b09ba9502f71d5d64d68c770ab",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/785e1f85149aaaf0134475eb6ae6357e0be5f277c3d5a618b91f744f81653093.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 104,
+    "comparison_method": "Five sheets with104 current catalog candidates actually viewed; additional full306/748 comparison; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻力量有所不及。",
+    "syn": "力不從心、力所不及、力有未逮",
+    "ant": "力所能及"
+  },
+  "webp_src": "img/idioms/283-c324995ca286.webp",
+  "webp_sha256": "53c296775d7576b56d4e1f71e19723000e9050d1d9b5a818a7bce45fc9c005e9"
+}

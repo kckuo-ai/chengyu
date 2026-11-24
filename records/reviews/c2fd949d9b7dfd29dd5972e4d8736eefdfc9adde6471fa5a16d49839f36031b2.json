@@ -1,0 +1,68 @@
+{
+  "no": 284,
+  "kind": "regenerate",
+  "word": "開卷有益",
+  "path": "/workspace/idiom-review/batch-29-group-5-redraw-26/batch-29/284.png",
+  "original_sha256": "9f4dab48381e9621a25364bb4e108b6a267024a7ed200a8b0f17bd68d6b45cfd",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-29-group-5-redraw-26",
+  "alt": "男孩先在桌前閱讀植物圖鑑，之後背著書包到校園，對照相同的白花黑果與葉片，用鉛筆在畫冊上記錄觀察所得。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "男孩先讀植物圖鑑，之後在校園用學得的葉花果實特徵辨認同一植物並畫下，書中知識轉為實際觀察能力。 已實際看過五張比較表共104張既有插圖候選，及306/748全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面焦點是男孩先在桌前閱讀植物圖鑑；人物與關鍵物件有清楚輪廓，分格與想像框邊界可辨，縮至手機寬仍能讀出動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "左格雙手扶書各五指合理，右格一手握筆另一手托畫冊，拇指在冊後自然遮蔽，肢體正常。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "圖鑑、實際植物與素描的白花黑果形態相對應；書頁厚度、筆尖接紙及手托冊底合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐格與原尺寸查看紙面、衣領、背景、器材、手機及圖卡，未見文字、字母、數字、仿字串、品牌或浮水印，無不適內容；功能性的鞋帶、琴鍵、軸線、圖解與綁繩不是字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小校舍窗廊與植物觀察，男孩白制服背藍書包、國小年齡頭身，現代校園服裝自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "a19ec0fd484723d664e020885dcda00f54556794ffd0cd9092681084f8c93d0d",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/528b2156db7abe76a7a83fd6c8af4a00814fda93e685ef2d641300a1ab58e4c1.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 104,
+    "comparison_method": "Five sheets with104 current catalog candidates actually viewed; additional full306/748 comparison; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "打開書本閱讀，即能得到好處。",
+    "syn": "",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/284-9f4dab48381e.webp",
+  "webp_sha256": "7889d1c9e4ed5056a4c4e943510e80f2dabde3ba3589c4854bef62cf4e65c279"
+}

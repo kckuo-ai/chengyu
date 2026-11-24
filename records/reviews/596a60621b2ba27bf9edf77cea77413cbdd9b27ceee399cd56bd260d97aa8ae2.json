@@ -1,0 +1,68 @@
+{
+  "no": 318,
+  "kind": "regenerate",
+  "word": "才高八斗",
+  "path": "/workspace/idiom-review/batch-29-group-5-redraw-26/batch-29/318.png",
+  "original_sha256": "5f4de60f9496067f83427380234c5b95b0fd5deabf613b5609c786af72078640",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-29-group-5-redraw-26",
+  "alt": "講解者站在天文、海洋、植物與建築圖前，自信指圖回答，兩旁訪客分別拿著貝殼海星與葉片種子，專心聽他說明。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "中央講解者面對天文、海洋、植物、建築多領域圖物，能自然回答拿標本與植物來問的兩人，呈現學識廣博且受人欽佩。 已實際看過五張比較表共104張既有插圖候選，及306/748全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面焦點是講解者站在天文、海洋、植物與建築圖前；人物與關鍵物件有清楚輪廓，分格與想像框邊界可辨，縮至手機寬仍能讀出動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "指星圖與攤掌五指、兩人持海星貝殼與葉種的手有清楚接觸，無多手多指，下身自然裁切。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "太陽系八顆行星順序與地球位置合理，地球儀有軸架、建築模型有底座，標本與種子由掌托住。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐格與原尺寸查看紙面、衣領、背景、器材、手機及圖卡，未見文字、字母、數字、仿字串、品牌或浮水印，無不適內容；功能性的鞋帶、琴鍵、軸線、圖解與綁繩不是字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代知識展或學習空間，有台式紅磚街屋模型、當代襯衫與空掛帶，無古裝異國標記。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "5afe41e948c4d300731df3461a2f5e2e087d77eea3f3193bf8aa87f16ae57e49",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/f00a9a6cffbe129c45bb40946029c4ad9911c0892e504c3b02c46acf958d3e29.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 104,
+    "comparison_method": "Five sheets with104 current catalog candidates actually viewed; additional full306/748 comparison; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻人才學極高。",
+    "syn": "立地書櫥、腹笥便便、飽學之士、滿腹經綸、學富五車",
+    "ant": "才疏學淺、不學無術、不識之無、目不識丁、胸無點墨、腹笥甚窘"
+  },
+  "webp_src": "img/idioms/318-5f4de60f9496.webp",
+  "webp_sha256": "8a2f06a2ccf3378777e2eeae735c9facf43db92ece21aa1daf4d584a12cbf67c"
+}

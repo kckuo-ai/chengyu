@@ -1,0 +1,68 @@
+{
+  "no": 319,
+  "kind": "regenerate",
+  "word": "沽名釣譽",
+  "path": "/workspace/idiom-review/batch-29-group-5-redraw-26/batch-29/319.png",
+  "original_sha256": "cfdc4ba47460f8e6f72dece0d919d5e1956faa7da3531237054ebee25d16a91e",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-29-group-5-redraw-26",
+  "alt": "男子在鏡頭前抱著紙箱大笑接受稱讚，拍完後卻坐著滑手機，想像自己得意模樣；同伴滿頭汗繼續搬箱，旁人皺眉。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "男子在鏡頭前抱箱大笑獲讚，拍完便坐著滑手機、想像自己得意的模樣，真正搬運者在旁滿頭汗，同伴皺眉，做作求名與實際不勞動對比完整。 已實際看過五張比較表共104張既有插圖候選，及306/748全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面焦點是男子在鏡頭前抱著紙箱大笑接受稱讚；人物與關鍵物件有清楚輪廓，分格與想像框邊界可辨，縮至手機寬仍能讀出動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持相機雙手、抱箱雙手、拇指讚手和右格持手機托腮各手正常，搬箱者雙手受重、肩肘自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "相機由手承托，箱子坐桌或雙手托底，手機背面無商標文字，椅桌支撐正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐格與原尺寸查看紙面、衣領、背景、器材、手機及圖卡，未見文字、字母、數字、仿字串、品牌或浮水印，無不適內容；功能性的鞋帶、琴鍵、軸線、圖解與綁繩不是字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代校園社區志工活動，成人休閒襯衫長褲，普通遮棚與物資箱，非古裝。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "b3a2fb55b5fa71db31453cff2b989029b1e0f6fa2fbdbca924fa0197a4992479",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/a19acdf0118d8f990b66115dfde1694b73dd905a830373ddfeb4ba22c26cfa10.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 104,
+    "comparison_method": "Five sheets with104 current catalog candidates actually viewed; additional full306/748 comparison; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容故意做作，用手段謀取名聲和讚譽。",
+    "syn": "欺世盜名、盜名竊譽",
+    "ant": "不求聞達、實至名歸"
+  },
+  "webp_src": "img/idioms/319-cfdc4ba47460.webp",
+  "webp_sha256": "78b9ed06473a06ad0cf10eedd72a58e458dd1231236f9c007eb64658dffc520c"
+}

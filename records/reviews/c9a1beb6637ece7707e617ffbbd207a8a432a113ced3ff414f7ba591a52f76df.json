@@ -1,0 +1,68 @@
+{
+  "no": 295,
+  "kind": "regenerate",
+  "word": "聲東擊西",
+  "path": "/workspace/idiom-review/batch-29-group-5-redraw-26/batch-29/295.png",
+  "original_sha256": "b2cc6675904106bd2415d3a5058ecc0199a95195edba642fd8b7a32138ce3a90",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-29-group-5-redraw-26",
+  "alt": "藍衣男孩站在球場抱著籃球，稍後把球傳給右側張手等待的綠衣隊友，灰衣防守者仍偏向左邊伸手，大家分腳站穩。",
+  "issues": [
+    "meaning: 兩格都畫藍衣男孩面向右側隊友，左格僅抱球，右格正常向右傳球；雖防守者偏左，沒有先向左虛張聲勢或假傳吸引注意的可見動作，關鍵誘敵因果缺失。 已實際看過五張比較表共104張既有插圖候選，及306/748全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "兩格都畫藍衣男孩面向右側隊友，左格僅抱球，右格正常向右傳球；雖防守者偏左，沒有先向左虛張聲勢或假傳吸引注意的可見動作，關鍵誘敵因果缺失。 已實際看過五張比較表共104張既有插圖候選，及306/748全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面焦點是藍衣男孩站在球場抱著籃球；人物與關鍵物件有清楚輪廓，分格與想像框邊界可辨，縮至手機寬仍能讀出動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "三位孩子兩格的持球、傳球、接球與防守張掌各五指可辨；肩肘與雙腿連續，分腳姿勢合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "籃球由雙手抱持後向隊友移動，球框支架與網面正常，球場標線隨地面透視，沒有異常物件。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐格與原尺寸查看紙面、衣領、背景、器材、手機及圖卡，未見文字、字母、數字、仿字串、品牌或浮水印，無不適內容；功能性的鞋帶、琴鍵、軸線、圖解與綁繩不是字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小校舍前籃球場，學生藍綠灰短袖運動服、短褲白襪球鞋，頭身為國小年齡。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "aefd07ef460a091a0302f45ac6393c27238ceb256fb8ff3fc4f0e370890f9d4b",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/8e72a5f0e79483bae013ebaac60f18a2fb9bc430350d1b08c1363445f1c85aea.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 104,
+    "comparison_method": "Five sheets with104 current catalog candidates actually viewed; additional full306/748 comparison; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "以虛張聲勢，來轉移對方的注意力。",
+    "syn": "出奇制勝、指東打西",
+    "ant": "直搗黃龍"
+  }
+}

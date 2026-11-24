@@ -1,0 +1,68 @@
+{
+  "no": 305,
+  "kind": "regenerate",
+  "word": "指桑罵槐",
+  "path": "/workspace/idiom-review/batch-29-group-5-redraw-26/batch-29/305.png",
+  "original_sha256": "ab70527c78eee0f31a0a48164730dedc934e53b612bc447ceeae845d20b30937",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-29-group-5-redraw-26",
+  "alt": "藍衣男子坐在堆滿衣服的桌邊攤掌，女子皺眉向他說話，又伸手指著椅背上的綠外套，旁邊綠衣男子尷尬地抓著頭。",
+  "issues": [
+    "meaning: 女子對藍衣男子皺眉斥責，卻也指著另一張椅上的綠外套，綠衣男子尷尬抓頭；無法確認是借罵一人影射另一人，也可能只是同時指責兩人亂放衣物，拐彎抹角的語意仍不明確。 已實際看過五張比較表共104張既有插圖候選，及306/748全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "女子對藍衣男子皺眉斥責，卻也指著另一張椅上的綠外套，綠衣男子尷尬抓頭；無法確認是借罵一人影射另一人，也可能只是同時指責兩人亂放衣物，拐彎抹角的語意仍不明確。 已實際看過五張比較表共104張既有插圖候選，及306/748全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面焦點是藍衣男子坐在堆滿衣服的桌邊攤掌；人物與關鍵物件有清楚輪廓，分格與想像框邊界可辨，縮至手機寬仍能讀出動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "兩格藍衣者攤掌各五指、女子指物與扶桌、綠衣者抱臂後抓頭的手接臂正常；桌後腰下裁切自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "衣服堆在桌、綠外套搭椅背，電腦轉軸、杯子與椅腳有支撐，物件接觸無異常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐格與原尺寸查看紙面、衣領、背景、器材、手機及圖卡，未見文字、字母、數字、仿字串、品牌或浮水印，無不適內容；功能性的鞋帶、琴鍵、軸線、圖解與綁繩不是字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代共同工作或家居空間，三位成人襯衫長褲，筆電與一般辦公椅、鋁窗盆栽，無古裝異國標識。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "b0a1b595d8290dd6d01cb1ba82834bcc823820ff8e209e0bf2b951c1dac31f4e",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/7868945042ac6185780a63f88061cb7c26272894aacfa8e9b5c17ca22d232bc4.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 104,
+    "comparison_method": "Five sheets with104 current catalog candidates actually viewed; additional full306/748 comparison; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻拐彎抹角地罵人。",
+    "syn": "",
+    "ant": "呼名叫陣、直言不諱、開門見山"
+  }
+}

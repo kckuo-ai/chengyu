@@ -13133,6 +13133,20 @@
       "source_file": "317.review.json",
       "reviewer": "independent-visual-review-2026-11-23",
       "reviewed_main": "1afe65a863c239cc160142d5c4d7e23a2b56643b"
+    },
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-05",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-05/317.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
+    }
+  ],
+  "7981288e8efdcc640635d88f0238ab377d160f57598a4e187607a857d43de2af": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-29-group-5-redraw-26",
+      "source_file": "308.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-24"
     }
   ]
 }

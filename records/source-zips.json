@@ -3067,5 +3067,192 @@
       }
     ],
     "lfs_oid_sha256": "9eb8d47b28b394dded6297491dd26be807d5f3195b8983b23a69916b189d87c3"
+  },
+  {
+    "blob": "4b6d7c873876e6ac490c62f1d61a98435a31d9b3",
+    "path": "batch-29-group-5-redraw-26.zip",
+    "commit": "8dadb081a286ec0916d0e326a89eb6c7c5cc50f0",
+    "bytes": 91795760,
+    "sha256": "a9a457694e426287ec9d1f3b21800253932918bf939dabacd1c99ea64c3837d2",
+    "git_blob_is_lfs_pointer": false,
+    "members": [
+      {
+        "member": "batch-29/280.png",
+        "sha256": "fc7058a2cd29071d0443af40256d93785b920e95d5acc959387ed7a548855e4a",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/281.png",
+        "sha256": "a9d70dd72ff6ebb2455a6a220bc1ccdb52fd4817a4f20ae454be8d4f6f7097da",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/283.png",
+        "sha256": "c324995ca286520dbbc28c378b4df86dbb3ce53f490c672254b2f8ccc078fd8e",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/284.png",
+        "sha256": "9f4dab48381e9621a25364bb4e108b6a267024a7ed200a8b0f17bd68d6b45cfd",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/287.png",
+        "sha256": "b5f64679495a1174a89f717b27f49341c5b18b34872676f6db67c9ab41cdc3d0",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/291.png",
+        "sha256": "78aef06f1f279dd8b34e52881716db7aaa8036b6a1711213dec7c45ccd32bff3",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/292.png",
+        "sha256": "1be0232cd6246f49c83fc5b06e582ff2635638e9e0fa7d6ccc82485ff01239c3",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/295.png",
+        "sha256": "b2cc6675904106bd2415d3a5058ecc0199a95195edba642fd8b7a32138ce3a90",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/296.png",
+        "sha256": "a6fb559fa8d3578622445ec655bee234fe656477c295784b220165f586d11df1",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/297.png",
+        "sha256": "59fa14187d308ab055f2ecc089408d1d5fc2fa8941b93c134351a80c094b189c",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/298.png",
+        "sha256": "c888cbd3c32f88d0e4102931a4d6fc504a276120e87962d75f75b6f2a11077e5",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/300.png",
+        "sha256": "ea098dcd6a552b3b52e1f6b41edce5e8d05faa94c046b49099cef2e56adf5571",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/301.png",
+        "sha256": "2ab94df397dc4994eb5a709ad745c7618b959ddf3559d57bba9c564a0ac480bd",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/302.png",
+        "sha256": "57f515fc8a034a02aff237b4635a167c0b033392474aac68b50a1bd12b54c5be",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/303.png",
+        "sha256": "76d5cc1c80c2752f0294b0b633a22cdfca3a9f04eb1c3c49845b1062deb97562",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/305.png",
+        "sha256": "ab70527c78eee0f31a0a48164730dedc934e53b612bc447ceeae845d20b30937",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/306.png",
+        "sha256": "e895120686100007fef651a6f83f8056974f78532879798b2c15f441af8a6774",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/308.png",
+        "sha256": "395b201e13f1d43849c933e715721f01858f40cebaa5d532e009f9b7fa6702e9",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/309.png",
+        "sha256": "1f4aba848bf6d85f9a6be30a6c8423d2be8dcdacb31b137feb4ff907d8800b91",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/317.png",
+        "sha256": "2053c1b091ae6d70feae53c53dd68f76bf890a02f9c3bd64bb076a3c2dc806d6",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/318.png",
+        "sha256": "5f4de60f9496067f83427380234c5b95b0fd5deabf613b5609c786af72078640",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/319.png",
+        "sha256": "cfdc4ba47460f8e6f72dece0d919d5e1956faa7da3531237054ebee25d16a91e",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/320.png",
+        "sha256": "906ad031c5b8ccbbc004d72187c71b116e9fdbca32c458c296ce6db860d0d071",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/322.png",
+        "sha256": "7016948642801e8446048e40239404bdea230aeb5e914d158e4523f774d4ddc4",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/323.png",
+        "sha256": "770bc5a9ec3402aae8ba7e89b174edc3988833aba4ffdca504c9d2692a1f69b6",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/328.png",
+        "sha256": "fd2b2b4c7c2eb6127b8c91d40a9431490b034316a0e4dc3a3f97162b7ad5e4d1",
+        "kind": "original"
+      },
+      {
+        "member": "batch-29/manifest.json",
+        "sha256": "02de456b673f41b4e0dcb077ba80eadbd6f0c7551edd04d161088a56a2f53f91",
+        "kind": "record",
+        "record_path": "records/source/02de456b673f41b4e0dcb077ba80eadbd6f0c7551edd04d161088a56a2f53f91.json"
+      }
+    ]
+  },
+  {
+    "blob": "30028b3ee533d2751146890e82693f531b49849d",
+    "path": "batch-30-redraw-5.zip",
+    "commit": "65d91eba95f71d2f415ee2e307e756bfc3a90003",
+    "bytes": 17344908,
+    "sha256": "f1de224d1663eb48cc8ffa52447f39146c8a3724ba7e346d96d8f21cf0cd3900",
+    "git_blob_is_lfs_pointer": false,
+    "members": [
+      {
+        "member": "batch-30/227.png",
+        "sha256": "2bc7573915ca612604cdafad2906653e865a6b5bb7cfa32fdf0ce1fc37d3b678",
+        "kind": "original"
+      },
+      {
+        "member": "batch-30/228.png",
+        "sha256": "59bddf68648a77fc88ec8f84be56a01dadd0e6f9784a894e71367c25eb7cfa80",
+        "kind": "original"
+      },
+      {
+        "member": "batch-30/229.png",
+        "sha256": "b10492b1b29f2574d50eb9aa6a212f646572d6729e69bf53f95a7192f3ecd516",
+        "kind": "original"
+      },
+      {
+        "member": "batch-30/232.png",
+        "sha256": "e5dd458c8354edc64d71c9621c2be66b8f93913c45ca9e4b7b1dc88a34cef897",
+        "kind": "original"
+      },
+      {
+        "member": "batch-30/249.png",
+        "sha256": "cb346da65bd7e0ab5c99464d543c51c278e68fdf9d6e6362cb1c1a05ecd72adc",
+        "kind": "original"
+      },
+      {
+        "member": "batch-30/manifest.json",
+        "sha256": "0194bf4c6817ee22565a7a15b0c835beb551e0c0a343292542607d66942b76dd",
+        "kind": "record",
+        "record_path": "records/source/0194bf4c6817ee22565a7a15b0c835beb551e0c0a343292542607d66942b76dd.json"
+      }
+    ]
   }
 ]

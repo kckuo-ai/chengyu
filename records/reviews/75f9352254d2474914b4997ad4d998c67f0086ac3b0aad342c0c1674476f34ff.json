@@ -1,0 +1,68 @@
+{
+  "no": 302,
+  "kind": "regenerate",
+  "word": "本末倒置",
+  "path": "/workspace/idiom-review/batch-29-group-5-redraw-26/batch-29/302.png",
+  "original_sha256": "57f515fc8a034a02aff237b4635a167c0b033392474aac68b50a1bd12b54c5be",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-29-group-5-redraw-26",
+  "alt": "女孩專心替空禮盒加上越來越大的緞帶花，真正要送的木屋仍缺屋頂，母親提袋站旁，皺眉指著散在桌上的屋頂零件。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "女孩連續兩格只顧把空禮盒綁得越來越華麗，真正要裝的木屋仍未裝屋頂；母親指著沒完成的主件提醒，包裝壓過內容的輕重倒置清楚。 已實際看過五張比較表共104張既有插圖候選，及306/748全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面焦點是女孩專心替空禮盒加上越來越大的緞帶花；人物與關鍵物件有清楚輪廓，分格與想像框邊界可辨，縮至手機寬仍能讀出動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女孩兩格雙手捏緞帶、母親雙手提袋再一手指屋，五指與握持遮蔽正常，雙臂連肩，無額外肢體。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "盒內清楚空著，木屋缺頂與散放屋頂互相對應，膠瓶、木料與禮盒都落桌；紅緞帶綁盒非人頸。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐格與原尺寸查看紙面、衣領、背景、器材、手機及圖卡，未見文字、字母、數字、仿字串、品牌或浮水印，無不適內容；功能性的鞋帶、琴鍵、軸線、圖解與綁繩不是字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代親子住家手作，學齡女孩紫短袖與髮圈，母親襯衫長褲提袋，年齡頭身差自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "ca92e35139348d429b1003ef8636bd18317464fb973e36fdb814c764e2ce83eb",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/26dd818dda6225dc5c0e58d13a4da8872e8a61d7f75e6ddcf5a6263aba69c056.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 104,
+    "comparison_method": "Five sheets with104 current catalog candidates actually viewed; additional full306/748 comparison; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻不知事情的輕重緩急。",
+    "syn": "背本趨末、捨本逐末、輕重倒置",
+    "ant": "正本溯源、按部就班、循序漸進"
+  },
+  "webp_src": "img/idioms/302-57f515fc8a03.webp",
+  "webp_sha256": "5d9090f60e22ad7b715ce55297f00cea8e3d00d6a62ab1d20182d95afdf908af"
+}

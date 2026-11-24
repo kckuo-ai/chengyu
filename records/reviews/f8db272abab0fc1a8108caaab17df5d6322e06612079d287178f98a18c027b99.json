@@ -1,0 +1,68 @@
+{
+  "no": 280,
+  "kind": "regenerate",
+  "word": "尾大不掉",
+  "path": "/workspace/idiom-review/batch-29-group-5-redraw-26/batch-29/280.png",
+  "original_sha256": "fc7058a2cd29071d0443af40256d93785b920e95d5acc959387ed7a548855e4a",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-29-group-5-redraw-26",
+  "alt": "活動場地前女子拿著攤位配置圖要求調整，領頭男子卻回身舉掌拒絕，另兩人抱著物資箱跟他走，舞台旁已堆滿箱子。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "配掛帶女子出示舞台攤位配置要求調度，領頭男子反向擺掌拒絕，另兩位搬運者卻跟著男子而走，實際物資已堵近舞台，表現主事者管不動成勢的執行團隊。 已實際看過五張比較表共104張既有插圖候選，及306/748全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面焦點是活動場地前女子拿著攤位配置圖要求調整；人物與關鍵物件有清楚輪廓，分格與想像框邊界可辨，縮至手機寬仍能讀出動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女子持圖、五指制止掌，男子拒絕五指掌與指向手，以及兩位搬箱者雙手均接臂正常；各腳沿行進方向著地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "紙箱被雙手托抱，桌與物資均有落點；配置圖的舞台與攤位對應現場，指令與現況相反。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐格與原尺寸查看紙面、衣領、背景、器材、手機及圖卡，未見文字、字母、數字、仿字串、品牌或浮水印，無不適內容；功能性的鞋帶、琴鍵、軸線、圖解與綁繩不是字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區校園活動場，舞台遮棚、校舍與攤桌；成人穿襯衫休閒上衣長褲，無古裝或異國標識。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "55ff7675db4be840f705ba4bb1c0e9bf3ac082f5ce572e28360754d146ff43d7",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/707aefe00d10ae4ce98470040697ba63ff7bdbc797075b5735726f55a0d6271d.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 104,
+    "comparison_method": "Five sheets with104 current catalog candidates actually viewed; additional full306/748 comparison; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻下屬的勢力強大，在上者難以駕馭。＆比喻事物因輕重關係倒置，形成難以控制的局面。",
+    "syn": "倒持泰阿",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/280-fc7058a2cd29.webp",
+  "webp_sha256": "4f1a9c04fd2e8da2d8da178111196a3d8be431b77cacbc19dcc3e0c1c96e7b7d"
+}

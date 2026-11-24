@@ -1,0 +1,68 @@
+{
+  "no": 308,
+  "kind": "regenerate",
+  "word": "空前絕後",
+  "path": "/workspace/idiom-review/batch-29-group-5-redraw-26/batch-29/308.png",
+  "original_sha256": "395b201e13f1d43849c933e715721f01858f40cebaa5d532e009f9b7fa6702e9",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-29-group-5-redraw-26",
+  "alt": "工藝展上中央男子扶著精細的大件木雕，枝頭排列許多鳥與花，兩旁人物拿著簡單小鳥驚嘆觀看，底座邊放著桂冠。",
+  "issues": [
+    "meaning: 精細大件鳥木雕與幾件簡單小鳥對照，人物驚嘆、底座有桂冠，至多顯示本次展品特別出色，沒有古今比較或前後無可比擬的依據，易辨成巧奪天工或鶴立雞群。 已實際看過五張比較表共104張既有插圖候選，及306/748全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "精細大件鳥木雕與幾件簡單小鳥對照，人物驚嘆、底座有桂冠，至多顯示本次展品特別出色，沒有古今比較或前後無可比擬的依據，易辨成巧奪天工或鶴立雞群。 已實際看過五張比較表共104張既有插圖候選，及306/748全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面焦點是工藝展上中央男子扶著精細的大件木雕；人物與關鍵物件有清楚輪廓，分格與想像框邊界可辨，縮至手機寬仍能讀出動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "中央者雙手扶底座、左者持小鳥與攤掌、右者扶頰指物均可追到雙臂；手指有握物遮蔽而無增減。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "木鳥均由枝、細支柱或底座承托，桂冠落在座邊，大雕刻底部與桌面接觸，無懸浮鳥。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐格與原尺寸查看紙面、衣領、背景、器材、手機及圖卡，未見文字、字母、數字、仿字串、品牌或浮水印，無不適內容；功能性的鞋帶、琴鍵、軸線、圖解與綁繩不是字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代校園工藝展，成人襯衫工作圍裙西裝與針織外套，背景校舍樹蔭，非古裝。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "0e6bd3c8481ab01b4270fea1c961b1e80781f47846d0819cb5be6e14d1a8d9d7",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/768e8e8c5924e0a7f6d962bcbef5585cf9106e3181fb60ef0a37eea1b9ea1410.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 104,
+    "comparison_method": "Five sheets with104 current catalog candidates actually viewed; additional full306/748 comparison; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻超越古今，無與倫比。",
+    "syn": "亙古未有、空前未有、無與倫比、絕無僅有、獨一無二、舉世無雙",
+    "ant": "比比皆是、司空見慣、史不絕書、多如牛毛、俯拾即是、屢見不鮮"
+  }
+}

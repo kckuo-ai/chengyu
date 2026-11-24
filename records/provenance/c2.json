@@ -17313,6 +17313,12 @@
       "source_file": "322.review.json",
       "reviewer": "independent-visual-review-2026-11-23",
       "reviewed_main": "1afe65a863c239cc160142d5c4d7e23a2b56643b"
+    },
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-05",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-05/322.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
     }
   ],
   "c22760e53db5a71939fd989aca723b1cfd9e7a35c1c4e4f6dc299328bd0ce210": [
@@ -17326,6 +17332,14 @@
       "kind": "current_main_record",
       "batch": "batch-28-group-4-redraw-41",
       "source": "docs/illustration-reviews.json#entries/266"
+    }
+  ],
+  "c2fd949d9b7dfd29dd5972e4d8736eefdfc9adde6471fa5a16d49839f36031b2": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-29-group-5-redraw-26",
+      "source_file": "284.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
     }
   ]
 }

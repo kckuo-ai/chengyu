@@ -1,0 +1,68 @@
+{
+  "no": 232,
+  "kind": "regenerate",
+  "word": "開誠布公",
+  "path": "/workspace/idiom-review/batch-30-redraw-5/batch-30/232.png",
+  "original_sha256": "e5dd458c8354edc64d71c9621c2be66b8f93913c45ca9e4b7b1dc88a34cef897",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-30-redraw-5",
+  "alt": "男孩打開自己的透明收納盒，拿出最後一張金紙放上共用桌面，再指著空盒坦然攤掌，兩位夥伴笑著挑選手作材料。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "男孩打開個人透明盒、拿出最後一張金紙放到共用桌上，指著空盒坦然攤掌，讓同伴挑選，沒有私藏材料；主動公開與無私共享具體可辨。 已實際看過五張比較表共104張既有插圖候選，及306/748全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面焦點是男孩打開自己的透明收納盒；人物與關鍵物件有清楚輪廓，分格與想像框邊界可辨，縮至手機寬仍能讀出動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "兩格三名孩子的開盒持紙、扶桌、指紙與托腮手均正常；男孩右格五指攤掌，另一手指空盒，沒有多臂。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "盒蓋鉸點與透明盒壁連續，金紙由盒內移到桌面、原盒已空，剪刀雙柄鉸點膠具與紙堆落桌，無接觸異常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐格與原尺寸查看紙面、衣領、背景、器材、手機及圖卡，未見文字、字母、數字、仿字串、品牌或浮水印，無不適內容；功能性的鞋帶、琴鍵、軸線、圖解與綁繩不是字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣國小手作教室，孩子藍紫綠短袖、學齡頭身，普通鋁窗木桌與文具，無古裝或異國標識。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "1ae0ec35c98c79dfbf6fe6c40829b5381cf3e198d66afa8fc65af914db78b6f4",
+  "previous_rejected_candidate_review_archive_path": "records/reviews/d418fe63781c0a13ef4e9b3122db98c20d071334761bfa45995324e3c9d08630.json",
+  "previous_review_archive_path": "records/reviews/0394470069bf37c1de5850674f164bd537595924f391ecfbf5f3add7828b4ee3.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 104,
+    "comparison_method": "Five sheets with104 current catalog candidates actually viewed; additional full306/748 comparison; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻誠意待人，坦白無私。",
+    "syn": "肝膽相照、推心置腹、開心見誠、推誠相見",
+    "ant": "明爭暗鬥、虛情假意、鉤心鬥角、爾虞我詐"
+  },
+  "webp_src": "img/idioms/232-e5dd458c8354.webp",
+  "webp_sha256": "9b928ec116e7815336bac21dd3c329b43e4f15cc9dfc468f8b877ccb0874e155"
+}

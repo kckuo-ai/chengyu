@@ -1,0 +1,68 @@
+{
+  "no": 228,
+  "kind": "regenerate",
+  "word": "投鞭斷流",
+  "path": "/workspace/idiom-review/batch-30-redraw-5/batch-30/228.png",
+  "original_sha256": "59bddf68648a77fc88ec8f84be56a01dadd0e6f9784a894e71367c25eb7cfa80",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-30-redraw-5",
+  "alt": "營區裡整齊官兵隊伍與兩側運輸車一路延伸到遠方，士兵雙手置於背後站穩，前景母親牽著孩子，孩子驚喜伸手指看。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "操場整齊軍人隊伍與兩側軍用運輸車一直延伸到遠方，參觀親子驚嘆指看，直接呈現軍旅眾多與兵力雄厚，沒有用普通競賽代替。 已實際看過五張比較表共104張既有插圖候選，及306/748全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面焦點是營區裡整齊官兵隊伍與兩側運輸車一路延伸到遠方；人物與關鍵物件有清楚輪廓，分格與想像框邊界可辨，縮至手機寬仍能讀出動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "軍人雙手置背後，近排雙臂與雙腿靴可追蹤，遠排由前排合理遮擋；前景母親扶欄與牽孩子、孩子指隊伍手正常。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "軍車車身輪軸透視隨距離縮小，近排靴落地、護欄固定，人物隊列未穿透車輛或親子。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐格與原尺寸查看紙面、衣領、背景、器材、手機及圖卡，未見文字、字母、數字、仿字串、品牌或浮水印，無不適內容；功能性的鞋帶、琴鍵、軸線、圖解與綁繩不是字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代營區開放參觀，官兵素橄欖綠制服帽靴無標誌，國小男孩白制服背包、母親襯衫長裙，山丘與水泥營舍自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "af93c91ba35bef4acee24194efed0e8abca29cf780f0bbc1ad8411d23f13b906",
+  "previous_rejected_candidate_review_archive_path": "records/reviews/814fee81f343314c1d6200ea8aaa868a4fa1d16a1817caeefa73ae115b9af890.json",
+  "previous_review_archive_path": "records/reviews/c9b9b3b0bc4d6f5af9aa04cbba6873e81874c926261432cd913d02dc462899a0.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 104,
+    "comparison_method": "Five sheets with104 current catalog candidates actually viewed; additional full306/748 comparison; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻軍旅眾多，兵力強大。",
+    "syn": "兵多將廣、旌旗蔽空、舳艫千里、百萬雄師",
+    "ant": "老弱殘兵、兵微將寡"
+  },
+  "webp_src": "img/idioms/228-59bddf68648a.webp",
+  "webp_sha256": "b21fe86f660d2fbb506a8dc3ca6142c5d2f52b36dbd3bccf22f39fe976072336"
+}

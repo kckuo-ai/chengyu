@@ -14617,6 +14617,12 @@
       "source_file": "287.review.json",
       "reviewer": "independent-visual-review-2026-11-23",
       "reviewed_main": "1afe65a863c239cc160142d5c4d7e23a2b56643b"
+    },
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-05",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-05/287.review.json",
+      "reviewer": "independent-visual-review-2026-11-23"
     }
   ],
   "d93fa0258874bb7c61fa10cc4a417267f409652d38470b8e250081cab754b2f4": [
@@ -14631,6 +14637,14 @@
       "kind": "independent_visual_review",
       "batch": "batch-28-group-4-redraw-41",
       "source_file": "comparison-candidates.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
+  ],
+  "d9b7620a9d4ea43a1cecd631efcf2bc610237bce202375780dd13f9335d87159": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-29-group-5-redraw-26",
+      "source_file": "317.metadata.json",
       "reviewer": "independent-visual-review-2026-11-24"
     }
   ]

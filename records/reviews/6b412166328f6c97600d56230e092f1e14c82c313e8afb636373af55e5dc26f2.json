@@ -1,0 +1,68 @@
+{
+  "no": 281,
+  "kind": "regenerate",
+  "word": "抱殘守缺",
+  "path": "/workspace/idiom-review/batch-29-group-5-redraw-26/batch-29/281.png",
+  "original_sha256": "a9d70dd72ff6ebb2455a6a220bc1ccdb52fd4817a4f20ae454be8d4f6f7097da",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-29-group-5-redraw-26",
+  "alt": "老人用破洞的舊水壺澆菜，水不斷從底部漏出；青年示範新的滴灌管線，他仍抱緊舊壺、閉眼舉掌，拒絕接受建議。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "老人使用已破洞漏水的舊澆水壺，青年示範有效的滴灌系統，他卻抱緊破壺、閉眼舉掌拒絕；缺陷、改進方式與固拒改變都可見。 已實際看過五張比較表共104張既有插圖候選，及306/748全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面焦點是老人用破洞的舊水壺澆菜；人物與關鍵物件有清楚輪廓，分格與想像框邊界可辨，縮至手機寬仍能讀出動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "兩格老人握提把托壺、抱壺張掌，青年攤掌指示及握管各手正常；青年蹲姿及老人雙鞋著地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "破孔漏水與壺口少量水滴對應，青年手中管接到滴灌幹管，水龍頭連續供水，支架不懸空。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐格與原尺寸查看紙面、衣領、背景、器材、手機及圖卡，未見文字、字母、數字、仿字串、品牌或浮水印，無不適內容；功能性的鞋帶、琴鍵、軸線、圖解與綁繩不是字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代菜園、低矮水泥牆與平屋頂民宅，老人戴草帽穿現代農作衣褲，青年短袖長褲球鞋。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "aa1c8914e3e046c71add65efc4948f0175112c3bc9bb4ef82591597918a45456",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/98f508cd61e8f33669f8e45650d82a973c2016a7d78e99456b8fe543fb811fbf.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 104,
+    "comparison_method": "Five sheets with104 current catalog candidates actually viewed; additional full306/748 comparison; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻固守舊有事物或思想，而不知改進變通。",
+    "syn": "因循守舊、食古不化、故步自封、墨守成規",
+    "ant": "不主故常、日新又新、另闢蹊徑、改弦更張、革故鼎新、推陳出新、標新立異"
+  },
+  "webp_src": "img/idioms/281-a9d70dd72ff6.webp",
+  "webp_sha256": "04cb89d0702f50265f8430a8b0e6648775c2b1de9e575fe1e119edafd0716054"
+}

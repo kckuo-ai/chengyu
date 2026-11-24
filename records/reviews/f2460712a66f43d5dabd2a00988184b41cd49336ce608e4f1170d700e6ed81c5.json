@@ -1,0 +1,68 @@
+{
+  "no": 291,
+  "kind": "regenerate",
+  "word": "毛遂自薦",
+  "path": "/workspace/idiom-review/batch-29-group-5-redraw-26/batch-29/291.png",
+  "original_sha256": "78aef06f1f279dd8b34e52881716db7aaa8036b6a1711213dec7c45ccd32bff3",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-29-group-5-redraw-26",
+  "alt": "面對滿車待搬紙箱，兩位夥伴仍在托腮猶豫，女子主動按胸展示自己搬運的照片，稍後便領頭推車，大家笑著跟上。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "其他人面對搬運工作托腮猶豫，女子按胸並出示自己推車搬箱的照片主動推薦，右格由她領頭推車、夥伴跟上，呈現自薦與承擔。 已實際看過五張比較表共104張既有插圖候選，及306/748全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面焦點是面對滿車待搬紙箱；人物與關鍵物件有清楚輪廓，分格與想像框邊界可辨，縮至手機寬仍能讀出動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女子按胸、握照與右格握推把雙手，夥伴托腮抱臂及抱箱手自然；走路鞋底與車輪接地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "照片中人與推車工作對應，紙箱置車板或雙手托底，四輪與推柄連續，沒有懸浮箱子。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐格與原尺寸查看紙面、衣領、背景、器材、手機及圖卡，未見文字、字母、數字、仿字串、品牌或浮水印，無不適內容；功能性的鞋帶、琴鍵、軸線、圖解與綁繩不是字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區校園搬運，三位成人休閒襯衫長褲球鞋，普通公寓鐵窗與樹蔭，非古代典故。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "f972262f7c496a4d82f612c5d92d4d08e83ecf3168f0b56b241bcaf1702bc444",
+  "previous_rejected_candidate_review_archive_path": null,
+  "previous_review_archive_path": "records/reviews/56f978aea6d215dfc61e8f8554bb106e53fe86a403a2bffbe9c805f32f159665.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 104,
+    "comparison_method": "Five sheets with104 current catalog candidates actually viewed; additional full306/748 comparison; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻自告奮勇，自我推薦。",
+    "syn": "自告奮勇",
+    "ant": "裹足不前"
+  },
+  "webp_src": "img/idioms/291-78aef06f1f27.webp",
+  "webp_sha256": "8a757f42687a9c5203ff6ba7c773688f6f47d8a1949f305b9908d9299282ff43"
+}

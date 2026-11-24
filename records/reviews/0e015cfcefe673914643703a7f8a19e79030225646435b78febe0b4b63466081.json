@@ -1,0 +1,68 @@
+{
+  "no": 249,
+  "kind": "regenerate",
+  "word": "罄竹難書",
+  "path": "/workspace/idiom-review/batch-30-redraw-5/batch-30/249.png",
+  "original_sha256": "cb346da65bd7e0ab5c99464d543c51c278e68fdf9d6e6362cb1c1a05ecd72adc",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-30-redraw-5",
+  "alt": "民眾拿著破盆、壞車輪和斷木板指責抱臂男子，大量損害照片已鋪滿桌椅與籃子，整理者仍抱來整疊照片，神情困擾。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "大量不同損害事件圖卡堆滿桌面椅子與籃子，受害者持破盆、壞車輪、斷椅板與更多圖卡指責，整理者仍抱來一疊而已無處可放，罪狀極多的量感已補足。 已實際看過五張比較表共104張既有插圖候選，及306/748全圖對照，亦比對本批其他圖；未見與其他成語幾乎相同、可互換主體的構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "畫面焦點是民眾拿著破盆、壞車輪和斷木板指責抱臂男子；人物與關鍵物件有清楚輪廓，分格與想像框邊界可辨，縮至手機寬仍能讀出動作與表情。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "抱臂者雙手合理遮蔽，四名指責者一手指人一手托損物，整理者兩手托紙，手指接臂自然、無額外肢體；可見鞋均著地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "照片紙有厚度且堆在桌椅籃內，破盆托底、車輪握輪圈、斷木板被臂承托，沒有懸浮損壞物；圖卡無文字。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "已逐格與原尺寸查看紙面、衣領、背景、器材、手機及圖卡，未見文字、字母、數字、仿字串、品牌或浮水印，無不適內容；功能性的鞋帶、琴鍵、軸線、圖解與綁繩不是字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒疊色及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區活動室，成人日常短袖襯衫長褲與工作圍裙，普通木桌候椅、鋁窗公寓樹景，非古代罪狀竹簡。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查全圖及原尺寸前後幕的頸部衣領，所有人物均無紅領巾或紅圍巾；普通紅色圍裙、靠枕與髮圈不屬領巾。"
+    }
+  },
+  "previous_installed_original_sha256": "71adf6842969b64d093f8e33e2eb7d992851ad3acbbd7be81ab328ed6089f305",
+  "previous_rejected_candidate_review_archive_path": "records/reviews/51d308cabc35de017b167989ffd07522ccf58bec3b646bc902fb9f62e7a7bfdc.json",
+  "previous_review_archive_path": "records/reviews/e42aa1a62adb4d389e8c73b69bc35317ce08357bfa18495a15106dcfa7bd4e6b.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized native 512px tiles covering every source pixel; all figures, hands, feet, bubbles and backgrounds actually inspected.",
+    "comparison_candidates": 104,
+    "comparison_method": "Five sheets with104 current catalog candidates actually viewed; additional full306/748 comparison; semantic and perceptual selection, not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容罪狀極多。貶義。",
+    "syn": "擢髮難數",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/249-cb346da65bd7.webp",
+  "webp_sha256": "7447f9f7bffc26dcc871862f1b18e61e283e9e5aefbb896cdc4dd2a65a308322"
+}

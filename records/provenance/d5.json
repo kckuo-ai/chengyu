@@ -6640,5 +6640,28 @@
       "reviewer": "independent-visual-review-2026-11-23",
       "reviewed_main": "1afe65a863c239cc160142d5c4d7e23a2b56643b"
     }
+  ],
+  "d57acc2306f824ed301e923e2c5507f90a3ee12bf7b39c8dd38eefad8b4f9b7e": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-29-group-5-redraw-26",
+      "source_file": "281.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
+  ],
+  "d510709c670908cebbf7e4bcf83eadcd7b3727017b1f64d965ca00723b9c3a90": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-29-group-5-redraw-26",
+      "source_file": "291.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
+  ],
+  "d5685067df43ab9c2c26c01dec627fe5706f11d09132bc46d2f54a2fce068bf3": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-29-30",
+      "source": "docs/illustration-prompts.json#entries/227"
+    }
   ]
 }

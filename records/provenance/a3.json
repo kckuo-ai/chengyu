@@ -9997,5 +9997,20 @@
       "batch": "batch-28-group-4-redraw-41",
       "source": "docs/illustration-reviews.json#entries/269"
     }
+  ],
+  "a34f03073ccfae07689c75acb5e3b5e93a67909b26738cf1951d45fb506c1f50": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-29-30",
+      "source": "docs/illustration-prompts.json#entries/292"
+    }
+  ],
+  "a3ddd15054006ba472b17a1866c18e62b8e38229b54e0eb60a56a29144d5e7f5": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-29-group-5-redraw-26",
+      "source_file": "298.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
   ]
 }

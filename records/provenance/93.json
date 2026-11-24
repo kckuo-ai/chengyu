@@ -5397,5 +5397,21 @@
       "batch": "batch-28-group-4-redraw-41",
       "source": "docs/illustration-reviews.json#entries/255"
     }
+  ],
+  "9332e89113fcf11118bafb3c3e6752e12391fd814fb4b4cbd279dc72043fa67d": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-29-group-5-redraw-26",
+      "source_file": "287.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
+  ],
+  "936415870dad8241f120e8d6ec89d1242b20a3c692c976d271e7895c2f21b716": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-29-group-5-redraw-26",
+      "source_file": "296.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
   ]
 }
