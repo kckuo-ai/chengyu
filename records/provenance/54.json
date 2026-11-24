@@ -16004,5 +16004,14 @@
       "batch": "batches-29-30",
       "source": "docs/illustration-reviews.json#entries/309"
     }
+  ],
+  "54be3c8671e6490f893c6bd2bf0696f8ddd605ab85ec5c11c6c56d4ae06cd269": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-08",
+      "source_file": "470.review.json",
+      "reviewer": "independent-visual-review-2026-11-24",
+      "reviewed_main": "b922100f6d2dc2c0fc87c12ef4465de785178c98"
+    }
   ]
 }

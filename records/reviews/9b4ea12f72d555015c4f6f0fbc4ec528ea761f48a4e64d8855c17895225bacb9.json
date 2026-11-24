@@ -1,0 +1,107 @@
+{
+  "no": 484,
+  "kind": "existing",
+  "word": "敷衍塞責",
+  "path": "/workspace/chengyu-preservation/originals/5f8ffb1306afc3435d771f20c5cda0fd14dda7e49de7fcbcbd3f7fc760d09c67.png",
+  "original_sha256": "5f8ffb1306afc3435d771f20c5cda0fd14dda7e49de7fcbcbd3f7fc760d09c67",
+  "original_available": true,
+  "review_source_sha256": "5f8ffb1306afc3435d771f20c5cda0fd14dda7e49de7fcbcbd3f7fc760d09c67",
+  "webp_src": "img/idioms/484.webp",
+  "webp_sha256": "2d434517bd3b09ccddb280b0a326f68cb730dac14336f4eae9244eb6eaf10e26",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-08",
+  "alt": "男子把地板碎屑掃到掀起的地毯底下，沒有用旁邊空著的畚箕，便轉身揮手準備離開；女子抱著雙臂，皺眉看著他的動作。",
+  "issues": [
+    "text_brand_watermark: 後方公告欄四張紙有多行仿手寫短橫筆畫，書脊亦有細小仿字標記，不能確認全部無類字符號，退回。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "掃地者把碎屑推到地毯下、轉頭揮掌準備走，未真正清潔，旁人皺眉，表面應付責任清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以男子把地板碎屑掃到掀起的地毯底下為焦點，人物動作、表情和對照主體集中，手機縮圖可辨主要故事；背景未遮擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "握掃帚手曲指貼桿、揮掌五指，監看者雙臂交抱正常，步行雙鞋一前一後接地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "掃帚貼地推碎屑到掀毯下，畚箕空置而不用，門椅桌腳有承托，無穿物。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "後方公告欄四張紙有多行仿手寫短橫筆畫，書脊亦有細小仿字標記，不能確認全部無類字符號，退回。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區活動室、鋁框門與工作識別牌素面、普通休閒服，人物比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有主景、回想與背景人物頸部逐一看過，為普通衣領、連帽衣或腰繫圍裙，無紅領巾或紅圍巾；頭部髮帶與紅色上衣不屬領巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 211,
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "candidate_source": "comparison-candidates.json",
+      "extra_full_comparisons": [
+        [
+          491,
+          584
+        ],
+        [
+          457,
+          584
+        ],
+        [
+          444,
+          478
+        ]
+      ],
+      "near_duplicates": {
+        "444": "另對照本組478：同為左側藍衣搭橋者、右側女子指導、中央弧形木橋與散零件的桌前構圖。雖加教師和野餐泡泡，仍重複同一橋模型教學模板，依重複構圖規則退回。",
+        "478": "另對照本組444：左側藍衣人物、右側女子指示、中間木製弧橋及桌面散零件的主景幾乎相同，只改表情與年齡，無法保持各成語獨立構圖，退回。",
+        "457": "另全圖比較584無與倫比，並比對本組491：同用精密桁架拱橋承多個重物、弱橋承少量就下陷的成果比較。兩橋並排雖換左右人物，核心木橋承重優劣故事近乎可互換，依重複道具構圖規則退回。",
+        "491": "另實際全圖比較584無與倫比：同是中央精密木拱橋疊大石、周邊簡易小橋、右側藍格衫製作者與左側老師同學稱讚。主要構圖、角色與道具近乎相同，僅改石頭數量及人物站位，退回。"
+      },
+      "comparison_note": "九張比較表211張現行候選逐張實際看過，另全圖檢視584與本組444/478/457/491對照；未把同畫風、同人物類型本身當作重複構圖。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容做事不認真負責，只是表面應付。",
+    "syn": "敷衍了事、潦草塞責",
+    "ant": "一絲不苟、盡心竭力"
+  }
+}

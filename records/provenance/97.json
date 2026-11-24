@@ -15968,5 +15968,23 @@
       "source_file": "405.metadata.json",
       "reviewer": "independent-visual-review-2026-11-24"
     }
+  ],
+  "97e437364796de61a2e7fdc3e17174f81db0f924c3c489baf6090eb3ef1622b4": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-08",
+      "source_file": "472.review.json",
+      "reviewer": "independent-visual-review-2026-11-24",
+      "reviewed_main": "b922100f6d2dc2c0fc87c12ef4465de785178c98"
+    }
+  ],
+  "9767b9549502b761f014b8bc30db98afea349c32668d5b083d7c5ee0a99f6178": [
+    {
+      "kind": "existing_illustration_audit",
+      "batch": "full-audit-20261123/group-08",
+      "source_file": "verification.json",
+      "reviewer": "independent-visual-review-2026-11-24",
+      "reviewed_main": "b922100f6d2dc2c0fc87c12ef4465de785178c98"
+    }
   ]
 }

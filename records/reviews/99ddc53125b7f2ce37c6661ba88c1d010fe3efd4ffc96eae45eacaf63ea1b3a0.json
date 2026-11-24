@@ -1,0 +1,105 @@
+{
+  "no": 468,
+  "kind": "existing",
+  "word": "置若罔聞",
+  "path": "/workspace/chengyu-preservation/originals/ef8a769cc820bbe531adb50ed0ae58d6a304349a6a78408bddafb07999f1875d.png",
+  "original_sha256": "ef8a769cc820bbe531adb50ed0ae58d6a304349a6a78408bddafb07999f1875d",
+  "original_available": true,
+  "review_source_sha256": "ef8a769cc820bbe531adb50ed0ae58d6a304349a6a78408bddafb07999f1875d",
+  "webp_src": "img/idioms/468.webp",
+  "webp_sha256": "f20b04e8ed6160786b6bad61f9877b5e4dd568349c78c263d8e83207f3509a1c",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-08",
+  "alt": "孩子把飲料打翻在桌上，母親指著水漬伸手要求清理，擦布就在旁邊；孩子卻撇開眼睛，仍繼續拿積木拼著小車。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "母親指著打翻的飲料與擦布叫孩子清理，孩子眼神撇開仍拼積木，聽到卻不理會清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以孩子把飲料打翻在桌上為焦點，人物動作、表情和對照主體集中，手機縮圖可辨主要故事；背景未遮擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "母親向下攤掌五指清楚、另一手握椅背，男孩雙手拿積木指節正常，肩肘連續。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "飲料由倒杯口流到桌面、水窪在杯旁，擦布放桌，積木車輪和塊接合合理無品牌。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區查看人物衣物、器物表面、泡泡與背景，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代廚房、圍裙與國小男孩連帽衣，廚具為素面木器，比例合宜。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有主景、回想與背景人物頸部逐一看過，為普通衣領、連帽衣或腰繫圍裙，無紅領巾或紅圍巾；頭部髮帶與紅色上衣不屬領巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 211,
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "candidate_source": "comparison-candidates.json",
+      "extra_full_comparisons": [
+        [
+          491,
+          584
+        ],
+        [
+          457,
+          584
+        ],
+        [
+          444,
+          478
+        ]
+      ],
+      "near_duplicates": {
+        "444": "另對照本組478：同為左側藍衣搭橋者、右側女子指導、中央弧形木橋與散零件的桌前構圖。雖加教師和野餐泡泡，仍重複同一橋模型教學模板，依重複構圖規則退回。",
+        "478": "另對照本組444：左側藍衣人物、右側女子指示、中間木製弧橋及桌面散零件的主景幾乎相同，只改表情與年齡，無法保持各成語獨立構圖，退回。",
+        "457": "另全圖比較584無與倫比，並比對本組491：同用精密桁架拱橋承多個重物、弱橋承少量就下陷的成果比較。兩橋並排雖換左右人物，核心木橋承重優劣故事近乎可互換，依重複道具構圖規則退回。",
+        "491": "另實際全圖比較584無與倫比：同是中央精密木拱橋疊大石、周邊簡易小橋、右側藍格衫製作者與左側老師同學稱讚。主要構圖、角色與道具近乎相同，僅改石頭數量及人物站位，退回。"
+      },
+      "comparison_note": "九張比較表211張現行候選逐張實際看過，另全圖檢視584與本組444/478/457/491對照；未把同畫風、同人物類型本身當作重複構圖。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "雖有耳聞，卻好像沒有聽到一樣不加理會。",
+    "syn": "充耳不聞、置之不理、置之度外",
+    "ant": "言聽計從、銘記在心"
+  }
+}

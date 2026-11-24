@@ -7115,5 +7115,14 @@
       "source_file": "review-manifest.json",
       "reviewer": "independent-visual-review-2026-11-24"
     }
+  ],
+  "f54abcd4b198b0c77988c42a9dcd7f26fcea5e131f414a27f3e2e3571d6ea74c": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-08",
+      "source_file": "447.review.json",
+      "reviewer": "independent-visual-review-2026-11-24",
+      "reviewed_main": "b922100f6d2dc2c0fc87c12ef4465de785178c98"
+    }
   ]
 }

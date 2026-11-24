@@ -1,0 +1,107 @@
+{
+  "no": 463,
+  "kind": "existing",
+  "word": "虛與委蛇",
+  "path": "/workspace/chengyu-preservation/originals/b201f3715b5038f5154d4f22d679f7ca14bcc978386d9b7c48a1a0fb6774df58.png",
+  "original_sha256": "b201f3715b5038f5154d4f22d679f7ca14bcc978386d9b7c48a1a0fb6774df58",
+  "original_available": true,
+  "review_source_sha256": "b201f3715b5038f5154d4f22d679f7ca14bcc978386d9b7c48a1a0fb6774df58",
+  "webp_src": "img/idioms/463.webp",
+  "webp_sha256": "28f3aeea3b8251baa5b2336fab7ccf13266754f7dabf3f3b884e0391647d0172",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-08",
+  "alt": "辦公室裡，接待者露出誇張笑容握手，身體和眼神卻已轉向出口，另一手藏在背後擺動，來客仍拿著資料興奮交談。",
+  "issues": [
+    "text_brand_watermark: 左上書脊有圓圈形與短豎、近O及數字樣標記，並非全素面；依禁止仿字母數字判退回。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "接待者握手假笑露齒、眼神卻往出口、身體轉離且另一手在背後擺動，表面熱情實際敷衍可辨。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以辦公室裡為焦點，人物動作、表情和對照主體集中，手機縮圖可辨主要故事；背景未遮擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "握手四曲指與拇指交扣合理，另手背後側伸指有自然重疊，持夾板手正常，兩臂連肩。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "門把附門、背袋由肩帶承托、夾板有夾具，杯盆書置桌，沒有浮物。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "左上書脊有圓圈形與短豎、近O及數字樣標記，並非全素面；依禁止仿字母數字判退回。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代辦公接待室、玻璃門和識別牌素面、襯衫休閒外套，成人比例正常。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有主景、回想與背景人物頸部逐一看過，為普通衣領、連帽衣或腰繫圍裙，無紅領巾或紅圍巾；頭部髮帶與紅色上衣不屬領巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 211,
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "candidate_source": "comparison-candidates.json",
+      "extra_full_comparisons": [
+        [
+          491,
+          584
+        ],
+        [
+          457,
+          584
+        ],
+        [
+          444,
+          478
+        ]
+      ],
+      "near_duplicates": {
+        "444": "另對照本組478：同為左側藍衣搭橋者、右側女子指導、中央弧形木橋與散零件的桌前構圖。雖加教師和野餐泡泡，仍重複同一橋模型教學模板，依重複構圖規則退回。",
+        "478": "另對照本組444：左側藍衣人物、右側女子指示、中間木製弧橋及桌面散零件的主景幾乎相同，只改表情與年齡，無法保持各成語獨立構圖，退回。",
+        "457": "另全圖比較584無與倫比，並比對本組491：同用精密桁架拱橋承多個重物、弱橋承少量就下陷的成果比較。兩橋並排雖換左右人物，核心木橋承重優劣故事近乎可互換，依重複道具構圖規則退回。",
+        "491": "另實際全圖比較584無與倫比：同是中央精密木拱橋疊大石、周邊簡易小橋、右側藍格衫製作者與左側老師同學稱讚。主要構圖、角色與道具近乎相同，僅改石頭數量及人物站位，退回。"
+      },
+      "comparison_note": "九張比較表211張現行候選逐張實際看過，另全圖檢視584與本組444/478/457/491對照；未把同畫風、同人物類型本身當作重複構圖。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容假意慇懃，敷衍應付。",
+    "syn": "假意周旋、虛與周旋",
+    "ant": "坦誠相見、開誠布公"
+  }
+}

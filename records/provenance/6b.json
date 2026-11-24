@@ -10182,5 +10182,14 @@
       "source_file": "/workspace/idiom-review/full-audit-20261123/group-07/418.review.json",
       "reviewer": "independent-visual-review-2026-11-24"
     }
+  ],
+  "6b80622a3e9a38950c72f25b152929e642d40e04cbca68a072102b047075aa2f": [
+    {
+      "kind": "existing_illustration_audit",
+      "batch": "full-audit-20261123/group-08",
+      "source_file": "remaining-redraw-source.json",
+      "reviewer": "independent-visual-review-2026-11-24",
+      "reviewed_main": "b922100f6d2dc2c0fc87c12ef4465de785178c98"
+    }
   ]
 }

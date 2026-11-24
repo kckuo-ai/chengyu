@@ -1,0 +1,108 @@
+{
+  "no": 474,
+  "kind": "existing",
+  "word": "雞鳴狗盜",
+  "path": "/workspace/chengyu-preservation/originals/2f9eea871a1fadf47538cfcab5d2021dcb490f2358795ad44dd6a7117336775f.png",
+  "original_sha256": "2f9eea871a1fadf47538cfcab5d2021dcb490f2358795ad44dd6a7117336775f",
+  "original_available": true,
+  "review_source_sha256": "2f9eea871a1fadf47538cfcab5d2021dcb490f2358795ad44dd6a7117336775f",
+  "webp_src": "img/idioms/474.webp",
+  "webp_sha256": "cb775e8a7c8edcf3e65f0ffe9be42c3d184555ab019e15af3e17e30ab67ca145",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-08",
+  "alt": "古代院牆旁，一人蹲著模仿公雞叫聲，吸引守衛回頭，另一人抱著布袋從牆下小洞鑽出，公雞站在上方竹欄附近。",
+  "issues": [
+    "taiwan_context: 髮髻布巾、古代短褐布鞋、持矛守衛與瓦牆城門，明顯不是台灣現代人物場景，退回。",
+    "objects_contact_perspective: 追加放大雞腳：橫欄上兩組抓握腳爪，欄下又有兩組踩石腳爪，腳腿重複，非正常雙足結構；人物牆洞接地其餘正常。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "一人學雞叫轉移守衛注意，另一人鑽洞偷東西，卑下小技能可辨但主要仍為古代典故。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以古代院牆旁為焦點，人物動作、表情和對照主體集中，手機縮圖可辨主要故事；背景未遮擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "模仿雞叫雙手攏口指列合理、鑽洞者地掌五指與握袋手正常，守衛握長桿，蹲者鞋著石地。"
+    },
+    "objects_contact_perspective": {
+      "passed": false,
+      "evidence": "追加放大雞腳：橫欄上兩組抓握腳爪，欄下又有兩組踩石腳爪，腳腿重複，非正常雙足結構；人物牆洞接地其餘正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區查看人物衣物、器物表面、泡泡與背景，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "髮髻布巾、古代短褐布鞋、持矛守衛與瓦牆城門，明顯不是台灣現代人物場景，退回。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有主景、回想與背景人物頸部逐一看過，為普通衣領、連帽衣或腰繫圍裙，無紅領巾或紅圍巾；頭部髮帶與紅色上衣不屬領巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 211,
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "candidate_source": "comparison-candidates.json",
+      "extra_full_comparisons": [
+        [
+          491,
+          584
+        ],
+        [
+          457,
+          584
+        ],
+        [
+          444,
+          478
+        ]
+      ],
+      "near_duplicates": {
+        "444": "另對照本組478：同為左側藍衣搭橋者、右側女子指導、中央弧形木橋與散零件的桌前構圖。雖加教師和野餐泡泡，仍重複同一橋模型教學模板，依重複構圖規則退回。",
+        "478": "另對照本組444：左側藍衣人物、右側女子指示、中間木製弧橋及桌面散零件的主景幾乎相同，只改表情與年齡，無法保持各成語獨立構圖，退回。",
+        "457": "另全圖比較584無與倫比，並比對本組491：同用精密桁架拱橋承多個重物、弱橋承少量就下陷的成果比較。兩橋並排雖換左右人物，核心木橋承重優劣故事近乎可互換，依重複道具構圖規則退回。",
+        "491": "另實際全圖比較584無與倫比：同是中央精密木拱橋疊大石、周邊簡易小橋、右側藍格衫製作者與左側老師同學稱讚。主要構圖、角色與道具近乎相同，僅改石頭數量及人物站位，退回。"
+      },
+      "comparison_note": "九張比較表211張現行候選逐張實際看過，另全圖檢視584與本組444/478/457/491對照；未把同畫風、同人物類型本身當作重複構圖。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻有某種卑下技能的人，或指卑微的技能。＆形容卑劣低下的人或事。",
+    "syn": "鼠竊狗偷",
+    "ant": ""
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "no": 491,
+  "kind": "existing",
+  "word": "出人頭地",
+  "path": "/workspace/chengyu-preservation/originals/4b36e4ab2ab72e5566c3be4a0529aebd2bdb5d70c294bc4ee0b0ddaf94a0c174.png",
+  "original_sha256": "4b36e4ab2ab72e5566c3be4a0529aebd2bdb5d70c294bc4ee0b0ddaf94a0c174",
+  "original_available": true,
+  "review_source_sha256": "4b36e4ab2ab72e5566c3be4a0529aebd2bdb5d70c294bc4ee0b0ddaf94a0c174",
+  "webp_src": "img/idioms/491.webp",
+  "webp_sha256": "f1ba7dd8cde2c2b2dd452516238ed76b089a6b4811386ebcc045ece67e23d09f",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-08",
+  "alt": "作品展裡，男孩的精密木橋穩穩承住多顆大石，旁邊幾座簡單小橋只放一顆，老師豎起拇指，同學們圍著他開心鼓掌。",
+  "issues": [
+    "meaning: 孩子製的大橋承三大石、同場其他小橋只承一石，老師同學皆讚賞他，超越同儕獨露頭角清楚。 另實際全圖比較584無與倫比：同是中央精密木拱橋疊大石、周邊簡易小橋、右側藍格衫製作者與左側老師同學稱讚。主要構圖、角色與道具近乎相同，僅改石頭數量及人物站位，退回。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "孩子製的大橋承三大石、同場其他小橋只承一石，老師同學皆讚賞他，超越同儕獨露頭角清楚。 另實際全圖比較584無與倫比：同是中央精密木拱橋疊大石、周邊簡易小橋、右側藍格衫製作者與左側老師同學稱讚。主要構圖、角色與道具近乎相同，僅改石頭數量及人物站位，退回。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以作品展裡為焦點，人物動作、表情和對照主體集中，手機縮圖可辨主要故事；背景未遮擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "按胸手五指與垂手正常，教師拇指讚、同學合掌各五指疊合合理，臂接肩，下身桌後遮擋。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "橋模型底板承橋墩、三石依大到小疊放穩定，其他橋也落底板，桌布桌面有支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區查看人物衣物、器物表面、泡泡與背景，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小成果展、教師識別帶與一般休閒服，同學國小身材比例，未見紅領巾。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "所有主景、回想與背景人物頸部逐一看過，為普通衣領、連帽衣或腰繫圍裙，無紅領巾或紅圍巾；頭部髮帶與紅色上衣不屬領巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 211,
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "candidate_source": "comparison-candidates.json",
+      "extra_full_comparisons": [
+        [
+          491,
+          584
+        ],
+        [
+          457,
+          584
+        ],
+        [
+          444,
+          478
+        ]
+      ],
+      "near_duplicates": {
+        "444": "另對照本組478：同為左側藍衣搭橋者、右側女子指導、中央弧形木橋與散零件的桌前構圖。雖加教師和野餐泡泡，仍重複同一橋模型教學模板，依重複構圖規則退回。",
+        "478": "另對照本組444：左側藍衣人物、右側女子指示、中間木製弧橋及桌面散零件的主景幾乎相同，只改表情與年齡，無法保持各成語獨立構圖，退回。",
+        "457": "另全圖比較584無與倫比，並比對本組491：同用精密桁架拱橋承多個重物、弱橋承少量就下陷的成果比較。兩橋並排雖換左右人物，核心木橋承重優劣故事近乎可互換，依重複道具構圖規則退回。",
+        "491": "另實際全圖比較584無與倫比：同是中央精密木拱橋疊大石、周邊簡易小橋、右側藍格衫製作者與左側老師同學稱讚。主要構圖、角色與道具近乎相同，僅改石頭數量及人物站位，退回。"
+      },
+      "comparison_note": "九張比較表211張現行候選逐張實際看過，另全圖檢視584與本組444/478/457/491對照；未把同畫風、同人物類型本身當作重複構圖。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "超越他人，獨露頭角。",
+    "syn": "出類拔萃、佼佼不群、卓爾不群、推群獨步、超群絕倫、頭角崢嶸、鶴立雞群",
+    "ant": "不稂不莠、碌碌無能"
+  }
+}
