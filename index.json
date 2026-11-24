@@ -81232,6 +81232,24 @@
       "path": "records/source/838e62930cb20b0f1bd14e5ee68787201209b4a5eec9f8eeb478b1d1b842593d.json",
       "bytes": 2235,
       "provenance": "records/provenance/83.json#838e62930cb20b0f1bd14e5ee68787201209b4a5eec9f8eeb478b1d1b842593d"
+    },
+    "0a5de2847aefd487f077d8ac07f87105dc9ef88b65a1febac362d1853604fabf": {
+      "sha256": "0a5de2847aefd487f077d8ac07f87105dc9ef88b65a1febac362d1853604fabf",
+      "path": "records/source/0a5de2847aefd487f077d8ac07f87105dc9ef88b65a1febac362d1853604fabf.json",
+      "bytes": 382,
+      "provenance": "records/provenance/0a.json#0a5de2847aefd487f077d8ac07f87105dc9ef88b65a1febac362d1853604fabf"
+    },
+    "5dd2bd61ff48abeb45477a7295d08d47aca993f254d0ccbf1037b0d2a6c2017f": {
+      "sha256": "5dd2bd61ff48abeb45477a7295d08d47aca993f254d0ccbf1037b0d2a6c2017f",
+      "path": "records/source/5dd2bd61ff48abeb45477a7295d08d47aca993f254d0ccbf1037b0d2a6c2017f.json",
+      "bytes": 9341,
+      "provenance": "records/provenance/5d.json#5dd2bd61ff48abeb45477a7295d08d47aca993f254d0ccbf1037b0d2a6c2017f"
+    },
+    "76afba4e7d9494083e2075674a6f1b3627eb42cbb1df52114f627dd6bf152ca3": {
+      "sha256": "76afba4e7d9494083e2075674a6f1b3627eb42cbb1df52114f627dd6bf152ca3",
+      "path": "records/source/76afba4e7d9494083e2075674a6f1b3627eb42cbb1df52114f627dd6bf152ca3.json",
+      "bytes": 20944,
+      "provenance": "records/provenance/76.json#76afba4e7d9494083e2075674a6f1b3627eb42cbb1df52114f627dd6bf152ca3"
     }
   },
   "website_entries": {
@@ -84274,10 +84292,10 @@
       "review_status": "failed_independent_visual_review_retained_pending_replacement",
       "current_prompt_path": "records/prompts/a53a0117a8f748a95c8b514529f585ac9a3b5d0613251594a6d17814810dc53f.json",
       "latest_rejected_candidate": {
-        "batch": "batch-32-unresolved-11",
-        "original_sha256": "ffade878b4999e928f8cb57421b1057d0738ff1aaa2c24a01fb5e56313e6f820",
-        "original_archive_path": "originals/ffade878b4999e928f8cb57421b1057d0738ff1aaa2c24a01fb5e56313e6f820.png",
-        "review_archive_path": "records/reviews/2b04dafaf40f8efc4328f2694858a83b65731d71326a375110618fb22c96e8e0.json",
+        "batch": "batch-34-redraw-308",
+        "original_sha256": "2ad909c6d8bbbfcb0bd19368cbb951c4278e0b4523daef003aa790e849f26f79",
+        "original_archive_path": "originals/2ad909c6d8bbbfcb0bd19368cbb951c4278e0b4523daef003aa790e849f26f79.png",
+        "review_archive_path": "records/reviews/3fc480b915a23e2c16c0bc52e8114896674d04bdcab158d13480cb2f1afdd961.json",
         "passed": false
       }
     },
