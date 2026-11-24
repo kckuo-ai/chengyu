@@ -28,6 +28,11 @@
     492
   ],
   "owner": "single image generation session",
-  "status": "generating requested replacements; not published",
-  "request": "redraw-request-unresolved-25.txt supersedes prior merged lists"
+  "status": "awaiting independent review; not published",
+  "request": "redraw-request-unresolved-25.txt supersedes prior merged lists",
+  "count": 25,
+  "archive": "batch-35-unresolved-25.zip",
+  "bytes": 83332953,
+  "sha256": "25892f602ef685d4fce5b121acdcb773af5538cd3c565eaca56613f0089c6aca",
+  "note": "Replaces older merged lists. Only latest requested 25 redrawn. Website images unchanged; no done list created."
 }
