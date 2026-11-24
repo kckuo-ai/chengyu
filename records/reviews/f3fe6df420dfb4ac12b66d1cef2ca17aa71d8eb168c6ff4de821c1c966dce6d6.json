@@ -1,0 +1,94 @@
+{
+  "no": 361,
+  "kind": "existing",
+  "word": "暴虎馮河",
+  "path": "/workspace/chengyu-preservation/originals/5f2ccc11170f9c66908a19ab4182d60adfb0366e704bab489bf5b3f1ceefc370.png",
+  "original_sha256": "5f2ccc11170f9c66908a19ab4182d60adfb0366e704bab489bf5b3f1ceefc370",
+  "original_available": true,
+  "review_source_sha256": "5f2ccc11170f9c66908a19ab4182d60adfb0366e704bab489bf5b3f1ceefc370",
+  "webp_src": "img/idioms/361.webp",
+  "webp_sha256": "fb10f67d52475c5cf2645d36486a4dcbbc978a88f58ff2786479b43c08cb6849",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-06",
+  "alt": "健行男子跨過警戒繩想直接涉過急流，同伴急忙拉住他的袖子，並指向旁邊可通行的橋，湍急水勢與他的冒進形成強烈對比。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "男子不顧激流和安全繩就抬腳跨出去，同行人急拉臂並指旁邊橋，明明可安全過橋卻逞勇冒險，無謀而非勇敢救援。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以健行男子跨過警戒繩想直接涉過急流為焦點；主要動作與前後對照在手機縮圖可辨，沒有遮住核心動作的多餘裝飾。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "四手各五指或拉袖合理遮蔽，抬腿者另一鞋著地承重，同伴分腳站穩，肩肘腕正常。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "手確實抓衣袖阻止，安全繩繫立柱、遠橋固定兩岸，水面急流與岩石空間合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查畫中人物衣物、器物和背景，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代山林步道與溪橋，青年穿防風外套登山褲背包登山鞋，無古裝或異國標識。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部，均為普通衣領或工作圍裙肩帶，沒有紅領巾、紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "candidate_source": "comparison-candidates.json",
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "extra_full_comparisons": [
+        [
+          381,
+          328
+        ]
+      ],
+      "near_duplicates": {
+        "381": "另實際全圖比較網站328虎視眈眈：同樣是木製動物工藝攤、店主背身、戴帽男子張開布袋覬覦木雕、旁有女子。核心道具和三人關係幾乎相同，只把準備偷換成正在偷，容易混淆兩成語，依近重複構圖規則不通過。"
+      },
+      "comparison_note": "其他207候選逐張比較，雖有陶藝、模型、菜園、課堂等相同題材，未確認與本組核心人物關係及因果幾乎相同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻人有勇而無謀。貶義。",
+    "syn": "有勇無謀、勇而無謀",
+    "ant": "智勇雙全、臨事而懼"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "no": 380,
+  "kind": "existing",
+  "word": "井底之蛙",
+  "path": "/workspace/chengyu-preservation/originals/1adb1555852abf815efea55320df489df4b01e32224141008c3547c43ceedddc.png",
+  "original_sha256": "1adb1555852abf815efea55320df489df4b01e32224141008c3547c43ceedddc",
+  "original_available": true,
+  "review_source_sha256": "1adb1555852abf815efea55320df489df4b01e32224141008c3547c43ceedddc",
+  "webp_src": "img/idioms/380.webp",
+  "webp_sha256": "604e337d4f46fb0ed7168069821808623dc826e8b1610ecec57593eba41d3906",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-06",
+  "alt": "男子只拿著一張花朵小卡便閉眼得意談論，旁邊女子攤開畫有多種花的圖冊，窗外花園更加豐富，形成有限認識與廣大世界的對照。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "男子只拿一朵花圖、閉眼得意反覆談同一花，女子展開多種花圖，窗外花園更豐富；狹窄認識對廣大世界的對照清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以男子只拿著一張花朵小卡便閉眼得意談論為焦點；主要動作與前後對照在手機縮圖可辨，沒有遮住核心動作的多餘裝飾。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持小卡、攤掌、女子扶書上緣與托底各手正常，部分手指被書脊遮蔽合理，無多手臂。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "花盆落桌、書有厚頁且雙手承托，戶外花園與花圖對應，沒有字串。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查畫中人物衣物、器物和背景，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代親子或成人園藝住家，襯衫針織背心與工作圍裙，普通花園可作本地園藝場域。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部，均為普通衣領或工作圍裙肩帶，沒有紅領巾、紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "candidate_source": "comparison-candidates.json",
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "extra_full_comparisons": [
+        [
+          381,
+          328
+        ]
+      ],
+      "near_duplicates": {
+        "381": "另實際全圖比較網站328虎視眈眈：同樣是木製動物工藝攤、店主背身、戴帽男子張開布袋覬覦木雕、旁有女子。核心道具和三人關係幾乎相同，只把準備偷換成正在偷，容易混淆兩成語，依近重複構圖規則不通過。"
+      },
+      "comparison_note": "其他207候選逐張比較，雖有陶藝、模型、菜園、課堂等相同題材，未確認與本組核心人物關係及因果幾乎相同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻見識淺薄的人。",
+    "syn": "坐井觀天、管中窺豹、管窺蠡測、牖中窺日",
+    "ant": "見多識廣、高瞻遠矚、博古通今"
+  }
+}

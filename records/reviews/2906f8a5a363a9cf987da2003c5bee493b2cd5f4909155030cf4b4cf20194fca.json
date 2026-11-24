@@ -1,0 +1,94 @@
+{
+  "no": 339,
+  "kind": "existing",
+  "word": "當頭棒喝",
+  "path": "/workspace/chengyu-preservation/originals/1cf265f9d4e210ed4ba678efd0d64847da6e80a955a0a9b167075b18288879bb.png",
+  "original_sha256": "1cf265f9d4e210ed4ba678efd0d64847da6e80a955a0a9b167075b18288879bb",
+  "original_available": true,
+  "review_source_sha256": "1cf265f9d4e210ed4ba678efd0d64847da6e80a955a0a9b167075b18288879bb",
+  "webp_src": "img/idioms/339.webp",
+  "webp_sha256": "99224970adaf6eac4e5a1c955ac421d48625ef17c16304c64212f1be81c085a2",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-06",
+  "alt": "男子原先想直接組裝模型，女子伸手提醒接合處需要固定，隨後他使用夾具將零件穩住，抬頭露出明白原因的表情。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "女子突然指向缺少固定夾的底板並舉掌警示，男子驚張嘴停下，後框補夾後恍然微笑，立即醒悟的警示前後清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以男子原先想直接組裝模型為焦點；主要動作與前後對照在手機縮圖可辨，沒有遮住核心動作的多餘裝飾。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "托模型雙手與女子指物張掌、後框裝夾扶模各手正常，手指被模型合理遮擋，無多臂。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "透明夾對應底板邊，完成框模型安穩落座；主景模型受雙手承托，圖解固定構造合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查畫中人物衣物、器物和背景，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代工作室、成人休閒襯衫及城市窗景；教堂是手作模型，不以外國模型自動判定場景異國。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部，均為普通衣領或工作圍裙肩帶，沒有紅領巾、紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "candidate_source": "comparison-candidates.json",
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "extra_full_comparisons": [
+        [
+          381,
+          328
+        ]
+      ],
+      "near_duplicates": {
+        "381": "另實際全圖比較網站328虎視眈眈：同樣是木製動物工藝攤、店主背身、戴帽男子張開布袋覬覦木雕、旁有女子。核心道具和三人關係幾乎相同，只把準備偷換成正在偷，容易混淆兩成語，依近重複構圖規則不通過。"
+      },
+      "comparison_note": "其他207候選逐張比較，雖有陶藝、模型、菜園、課堂等相同題材，未確認與本組核心人物關係及因果幾乎相同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻使人立即醒悟的警示。",
+    "syn": "暮鼓晨鐘、醍醐灌頂",
+    "ant": ""
+  }
+}

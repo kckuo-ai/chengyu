@@ -1,0 +1,96 @@
+{
+  "no": 359,
+  "kind": "existing",
+  "word": "赴湯蹈火",
+  "path": "/workspace/chengyu-preservation/originals/1af48b4ac78cd41da1efd66acf00f70146beef1af322a208a0559e0d5e8d61cd.png",
+  "original_sha256": "1af48b4ac78cd41da1efd66acf00f70146beef1af322a208a0559e0d5e8d61cd",
+  "original_available": true,
+  "review_source_sha256": "1af48b4ac78cd41da1efd66acf00f70146beef1af322a208a0559e0d5e8d61cd",
+  "webp_src": "img/idioms/359.webp",
+  "webp_sha256": "9e5e177512bb1fdd015920bcfb0d4a6b867012c14395c091e47d3fc55c26d180",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-06",
+  "alt": "兩名消防員背著空氣瓶、合力拉著水帶走進冒出火焰的建築入口，濃煙與熱光就在前方，他們全副裝備仍朝救援方向前進。",
+  "issues": [
+    "text_brand_watermark: 兩名消防員背肩各有黃色 H 形標記，屬印在衣面的字母形狀，與下方反光帶及實體背帶可區分。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "消防員迎著濃煙大火前進射水、同伴合力持管，主體不避艱險的救援動作明確，非字面踩火。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以兩名消防員背著空氣瓶、合力拉著水帶走進冒出火焰的建築入口為焦點；主要動作與前後對照在手機縮圖可辨，沒有遮住核心動作的多餘裝飾。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "戴手套握管手合理包覆，雙臂接肩，三名近景消防員各雙腿踏地或台階，遠人由設備遮蔽。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "水管連消防車、水柱由槍口射出，氣瓶背帶固定，台階承重；消防衣肩背有黃色近似H字樣待放大。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "兩名消防員背肩各有黃色 H 形標記，屬印在衣面的字母形狀，與下方反光帶及實體背帶可區分。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代街道救火，消防車、現代防火衣頭盔呼吸器與水泥建物，非古代典故。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部，均為普通衣領或工作圍裙肩帶，沒有紅領巾、紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "candidate_source": "comparison-candidates.json",
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "extra_full_comparisons": [
+        [
+          381,
+          328
+        ]
+      ],
+      "near_duplicates": {
+        "381": "另實際全圖比較網站328虎視眈眈：同樣是木製動物工藝攤、店主背身、戴帽男子張開布袋覬覦木雕、旁有女子。核心道具和三人關係幾乎相同，只把準備偷換成正在偷，容易混淆兩成語，依近重複構圖規則不通過。"
+      },
+      "comparison_note": "其他207候選逐張比較，雖有陶藝、模型、菜園、課堂等相同題材，未確認與本組核心人物關係及因果幾乎相同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻奮不顧身，不避艱險。",
+    "syn": "出生入死、肝腦塗地、粉身碎骨、奮不顧身",
+    "ant": "畏縮不前、貪生怕死"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "no": 345,
+  "kind": "existing",
+  "word": "鐵面無私",
+  "path": "/workspace/chengyu-preservation/originals/8e2b09800f21eceaf62ba72ab2a76b08b0b09f5f4252057ff22badfb0be9082b.png",
+  "original_sha256": "8e2b09800f21eceaf62ba72ab2a76b08b0b09f5f4252057ff22badfb0be9082b",
+  "original_available": true,
+  "review_source_sha256": "8e2b09800f21eceaf62ba72ab2a76b08b0b09f5f4252057ff22badfb0be9082b",
+  "webp_src": "img/idioms/345.webp",
+  "webp_sha256": "3367397beedc7bf873da4c39f3b7b6751c2099e098e29398a89ba9b6ff6ef334",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-06",
+  "alt": "女子依照材料規則檢查作品，連熟識朋友送來的不合格物品也拒絕收下，圖板與回想畫面呈現相同判定，她的態度始終一致。",
+  "issues": [
+    "text_brand_watermark: 規則板和回想泡泡均有紅圈中的白色 X，明確為字母形符號，違反不得有字母或類字符號。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "女子與熟識女孩曾喝茶，評作品時仍用相同材料規則要求她與陌生男孩，兩件不合規作品都遭退，公正不偏私可辨。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以女子依照材料規則檢查作品為焦點；主要動作與前後對照在手機縮圖可辨，沒有遮住核心動作的多餘裝飾。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "教師指規則握板、女孩雙手交握、男孩抓頭及小框持卡動作正常，手指有合理遮蔽。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "木底座支撐作品，材料清單是圖像；規則板與回想框出現紅圈內白色X，雖作錯誤標記仍是像英文字母符號，不符合禁字形要求。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "規則板和回想泡泡均有紅圈中的白色 X，明確為字母形符號，違反不得有字母或類字符號。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代工藝評審場景，成人襯衫工作圍裙與一般教室家具，無古裝。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部，均為普通衣領或工作圍裙肩帶，沒有紅領巾、紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "candidate_source": "comparison-candidates.json",
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "extra_full_comparisons": [
+        [
+          381,
+          328
+        ]
+      ],
+      "near_duplicates": {
+        "381": "另實際全圖比較網站328虎視眈眈：同樣是木製動物工藝攤、店主背身、戴帽男子張開布袋覬覦木雕、旁有女子。核心道具和三人關係幾乎相同，只把準備偷換成正在偷，容易混淆兩成語，依近重複構圖規則不通過。"
+      },
+      "comparison_note": "其他207候選逐張比較，雖有陶藝、模型、菜園、課堂等相同題材，未確認與本組核心人物關係及因果幾乎相同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "公正嚴明而不偏私。褒義。",
+    "syn": "大公無私、守正不阿、鐵面無情",
+    "ant": "徇私舞弊、徇情枉法、假公濟私"
+  }
+}

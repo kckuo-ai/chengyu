@@ -1,0 +1,96 @@
+{
+  "no": 360,
+  "kind": "existing",
+  "word": "生吞活剝",
+  "path": "/workspace/chengyu-preservation/originals/e276dafb076cffbbae75760e8e76a4c43478f2372d90e9fdfd04fc9ec9947bf8.png",
+  "original_sha256": "e276dafb076cffbbae75760e8e76a4c43478f2372d90e9fdfd04fc9ec9947bf8",
+  "original_available": true,
+  "review_source_sha256": "e276dafb076cffbbae75760e8e76a4c43478f2372d90e9fdfd04fc9ec9947bf8",
+  "webp_src": "img/idioms/360.webp",
+  "webp_sha256": "7c5949966f888d7c00ae0388f03d70a75af78089fdfc73b8ae337cb09c199247",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-06",
+  "alt": "女子看著摺紙船的方法，卻拿厚木板模仿相同折法，木板被彎成不合理的形狀，旁邊老師指向紙與木材，試著解釋材料差異。",
+  "issues": [
+    "objects_contact_perspective: 厚木板在主景與泡泡像紙一樣折成V字，接合處無清楚斷裂或鉸鏈，無法確認剛性木材如何彎折；需改成未成功折動的實際失敗狀態。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "女子把折紙船的經驗硬套到厚木板，老師對照紙與木板提醒，襲用方法卻不懂材質差異的語意清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以女子看著摺紙船的方法為焦點；主要動作與前後對照在手機縮圖可辨，沒有遮住核心動作的多餘裝飾。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女子兩手握板，教師持紙木與指示手、泡泡兩手均正常，桌後自然裁切。"
+    },
+    "objects_contact_perspective": {
+      "passed": false,
+      "evidence": "厚木板在主景與泡泡像紙一樣折成V字，接合處無清楚斷裂或鉸鏈，無法確認剛性木材如何彎折；需改成未成功折動的實際失敗狀態。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查畫中人物衣物、器物和背景，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代木工教室，成人襯衫吊帶工作圍裙、工具桌與鋁窗，非古裝。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部，均為普通衣領或工作圍裙肩帶，沒有紅領巾、紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "candidate_source": "comparison-candidates.json",
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "extra_full_comparisons": [
+        [
+          381,
+          328
+        ]
+      ],
+      "near_duplicates": {
+        "381": "另實際全圖比較網站328虎視眈眈：同樣是木製動物工藝攤、店主背身、戴帽男子張開布袋覬覦木雕、旁有女子。核心道具和三人關係幾乎相同，只把準備偷換成正在偷，容易混淆兩成語，依近重複構圖規則不通過。"
+      },
+      "comparison_note": "其他207候選逐張比較，雖有陶藝、模型、菜園、課堂等相同題材，未確認與本組核心人物關係及因果幾乎相同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻做學問或學習某事，只一味襲用他人的經驗或成果，而不求甚解。貶義。＆不加烹煮而生食。",
+    "syn": "不求甚解、生搬硬套、囫圇吞棗",
+    "ant": "融會貫通"
+  }
+}

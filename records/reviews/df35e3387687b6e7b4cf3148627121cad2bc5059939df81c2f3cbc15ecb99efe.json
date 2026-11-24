@@ -1,0 +1,94 @@
+{
+  "no": 358,
+  "kind": "existing",
+  "word": "急流勇退",
+  "path": "/workspace/chengyu-preservation/originals/8462456e18a905747dc67b01d377e1fdb935f56d4b92e25dc6a65182dbb657aa.png",
+  "original_sha256": "8462456e18a905747dc67b01d377e1fdb935f56d4b92e25dc6a65182dbb657aa",
+  "original_available": true,
+  "review_source_sha256": "8462456e18a905747dc67b01d377e1fdb935f56d4b92e25dc6a65182dbb657aa",
+  "webp_src": "img/idioms/358.webp",
+  "webp_sha256": "812a8301a607eaf119ece935ca111156983bc88c99bec9768cf7add0c8c3d2ea",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-06",
+  "alt": "年長園藝師在眾人掌聲中把花園規劃交給年輕接班人，成熟庭園已開滿花，另一側他放下工作，陪著小狗安坐休息。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "長者在眾人鼓掌肯定中把規劃圖與工具交接給年輕人，後景已實現的花園熱鬧運作，他本人轉而自在養花遛狗，成功之際主動退出清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以年長園藝師在眾人掌聲中把花園規劃交給年輕接班人為焦點；主要動作與前後對照在手機縮圖可辨，沒有遮住核心動作的多餘裝飾。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "交接雙手與鼓掌五指遮蔽合理，主景長者垂手與握壺手正常，雙腿鞋按步行著地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "圖板被雙人托住、工具在托盤，模型圖與後景園區對應，水壺提把受握、狗四腳著地。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查畫中人物衣物、器物和背景，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區花園、玻璃會議室和遠景平頂公寓，成人襯衫背心與農作帽，符合當代生活。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部，均為普通衣領或工作圍裙肩帶，沒有紅領巾、紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "candidate_source": "comparison-candidates.json",
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "extra_full_comparisons": [
+        [
+          381,
+          328
+        ]
+      ],
+      "near_duplicates": {
+        "381": "另實際全圖比較網站328虎視眈眈：同樣是木製動物工藝攤、店主背身、戴帽男子張開布袋覬覦木雕、旁有女子。核心道具和三人關係幾乎相同，只把準備偷換成正在偷，容易混淆兩成語，依近重複構圖規則不通過。"
+      },
+      "comparison_note": "其他207候選逐張比較，雖有陶藝、模型、菜園、課堂等相同題材，未確認與本組核心人物關係及因果幾乎相同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "在湍急的水勢中，當機立斷，回舟退出。＆比喻人處於得意順遂時及時隱退。",
+    "syn": "功成身退、適可而止",
+    "ant": "壯心不已"
+  }
+}

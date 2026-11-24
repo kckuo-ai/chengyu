@@ -1,0 +1,96 @@
+{
+  "no": 366,
+  "kind": "existing",
+  "word": "聞雞起舞",
+  "path": "/workspace/chengyu-preservation/originals/ff96e36e5128106707e5a0433af489945f9b06ecef588d8047dfc2089ca0b282.png",
+  "original_sha256": "ff96e36e5128106707e5a0433af489945f9b06ecef588d8047dfc2089ca0b282",
+  "original_available": true,
+  "review_source_sha256": "ff96e36e5128106707e5a0433af489945f9b06ecef588d8047dfc2089ca0b282",
+  "webp_src": "img/idioms/366.webp",
+  "webp_sha256": "06bfaae0185e9f0b15057437bbdeacfdb9d87c5a788cbb8d3bdd73c1b3fb8e6b",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-06",
+  "alt": "清晨公雞啼叫，青年從床上起身，接著坐到桌前認真讀書與練習，窗外天色仍淡，書架和桌面放著許多書本與文具。",
+  "issues": [
+    "text_brand_watermark: 前景左側及後方書架書脊有金色仿字短行與類字筆畫，原尺寸可辨；不是只有純色封面。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "雞鳴後起床立即投入畫圖學習，箭頭串接時機與行動，採及時奮起義而非只有古人舞劍。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以清晨公雞啼叫為焦點；主要動作與前後對照在手機縮圖可辨，沒有遮住核心動作的多餘裝飾。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "起床雙拳拇指扣位、畫圖持筆扶書五指正常，雙臂接肩，被子遮腿合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "筆尖觸紙、書落桌、床枕有承托；桌左及右後書脊出現整排金色仿中文與字母筆畫，不符合無字樣要求。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "前景左側及後方書架書脊有金色仿字短行與類字筆畫，原尺寸可辨；不是只有純色封面。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代鄉間住家與當代睡衣運動上衣，學習桌、床與普通農村屋瓦，非古裝舞劍。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部，均為普通衣領或工作圍裙肩帶，沒有紅領巾、紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "candidate_source": "comparison-candidates.json",
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "extra_full_comparisons": [
+        [
+          381,
+          328
+        ]
+      ],
+      "near_duplicates": {
+        "381": "另實際全圖比較網站328虎視眈眈：同樣是木製動物工藝攤、店主背身、戴帽男子張開布袋覬覦木雕、旁有女子。核心道具和三人關係幾乎相同，只把準備偷換成正在偷，容易混淆兩成語，依近重複構圖規則不通過。"
+      },
+      "comparison_note": "其他207候選逐張比較，雖有陶藝、模型、菜園、課堂等相同題材，未確認與本組核心人物關係及因果幾乎相同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻把握時機，及時奮起行動。",
+    "syn": "奮發圖強",
+    "ant": ""
+  }
+}

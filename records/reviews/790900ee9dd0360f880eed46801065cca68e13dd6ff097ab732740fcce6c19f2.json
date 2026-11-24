@@ -1,0 +1,94 @@
+{
+  "no": 336,
+  "kind": "existing",
+  "word": "老生常談",
+  "path": "/workspace/chengyu-preservation/originals/8b912f24f7836430a42d779551249fdb2c7af51dbd1a39acc50ea447b37f8496.png",
+  "original_sha256": "8b912f24f7836430a42d779551249fdb2c7af51dbd1a39acc50ea447b37f8496",
+  "original_available": true,
+  "review_source_sha256": "8b912f24f7836430a42d779551249fdb2c7af51dbd1a39acc50ea447b37f8496",
+  "webp_src": "img/idioms/336.webp",
+  "webp_sha256": "5601ddeb3456fc3a76d33353cc63db85a8a455e7065a93f9bac39c8e23bd86b7",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-06",
+  "alt": "男子站在圖板旁再度向大家說明相同內容，旁邊浮現他先前多次演講的回憶，座位上的聽眾打呵欠、托腮或低頭，興致低落。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "三個回想框同一人換衣重複相同時間管理圖示，主景又講同一張，聽者托腮疲倦且手裡已有同圖，老話反覆無新意清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以男子站在圖板旁再度向大家說明相同內容為焦點；主要動作與前後對照在手機縮圖可辨，沒有遮住核心動作的多餘裝飾。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "主景講者持卡與攤掌、聽者托腮抱臂持圖，回想指示手合理，無可見多指多臂，下身自然裁切。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "卡片由手夾持，時鐘為刻線無數字，清單是空框橫線，非可讀字串；桌上物有支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查畫中人物衣物、器物和背景，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代教室或社區課程，成人休閒衣褲，普通鋁窗白板桌椅與教材。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部，均為普通衣領或工作圍裙肩帶，沒有紅領巾、紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "candidate_source": "comparison-candidates.json",
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "extra_full_comparisons": [
+        [
+          381,
+          328
+        ]
+      ],
+      "near_duplicates": {
+        "381": "另實際全圖比較網站328虎視眈眈：同樣是木製動物工藝攤、店主背身、戴帽男子張開布袋覬覦木雕、旁有女子。核心道具和三人關係幾乎相同，只把準備偷換成正在偷，容易混淆兩成語，依近重複構圖規則不通過。"
+      },
+      "comparison_note": "其他207候選逐張比較，雖有陶藝、模型、菜園、課堂等相同題材，未確認與本組核心人物關係及因果幾乎相同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻時常聽到，了無新意的老話。",
+    "syn": "千篇一律、老調重彈、陳腔濫調",
+    "ant": "自出機杼、別出心裁、聞所未聞"
+  }
+}

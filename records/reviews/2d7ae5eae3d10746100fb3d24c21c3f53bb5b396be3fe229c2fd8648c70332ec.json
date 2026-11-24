@@ -1,0 +1,96 @@
+{
+  "no": 373,
+  "kind": "existing",
+  "word": "曇花一現",
+  "path": "/workspace/chengyu-preservation/originals/75fbdca731b1e8bfcd85666ee57f8b1f60feb7fc1446649c2c34b1bd1a683fa5.png",
+  "original_sha256": "75fbdca731b1e8bfcd85666ee57f8b1f60feb7fc1446649c2c34b1bd1a683fa5",
+  "original_available": true,
+  "review_source_sha256": "75fbdca731b1e8bfcd85666ee57f8b1f60feb7fc1446649c2c34b1bd1a683fa5",
+  "webp_src": "img/idioms/373.webp",
+  "webp_sha256": "2ceaf88220a3416abf698de67b26027a278e09def3d4c849ea9c9794fab1a2db",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-06",
+  "alt": "市集攤位原先擠滿想買旋轉玩具的客人，後來同一張桌前空無一人，攤主扶著帽子攤掌困惑，許多木製玩具仍整齊放在架上。",
+  "issues": [
+    "meaning: 回想玩具攤曾擠滿人，主景變空攤、商品仍在；沒有時間短暫的明確線索，可能是一般市集散場，尚不能確認一出現便迅速消失。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "回想玩具攤曾擠滿人，主景變空攤、商品仍在；沒有時間短暫的明確線索，可能是一般市集散場，尚不能確認一出現便迅速消失。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以市集攤位原先擠滿想買旋轉玩具的客人為焦點；主要動作與前後對照在手機縮圖可辨，沒有遮住核心動作的多餘裝飾。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "追加放大攤主向上攤掌，可清楚數拇指與四根長指；另一手扶帽，回想中買家持陀螺手合理，無多肢體。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "陀螺在指尖可平衡、主景全落展示架，遮棚柱及桌腳著地，畫面無文字。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查畫中人物衣物、器物和背景，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代公園市集，攤主帽子襯衫工作圍裙，親子遊客現代衣褲背包，無古裝。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部，均為普通衣領或工作圍裙肩帶，沒有紅領巾、紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "candidate_source": "comparison-candidates.json",
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "extra_full_comparisons": [
+        [
+          381,
+          328
+        ]
+      ],
+      "near_duplicates": {
+        "381": "另實際全圖比較網站328虎視眈眈：同樣是木製動物工藝攤、店主背身、戴帽男子張開布袋覬覦木雕、旁有女子。核心道具和三人關係幾乎相同，只把準備偷換成正在偷，容易混淆兩成語，依近重複構圖規則不通過。"
+      },
+      "comparison_note": "其他207候選逐張比較，雖有陶藝、模型、菜園、課堂等相同題材，未確認與本組核心人物關係及因果幾乎相同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "人或事物一出現便迅速消失。",
+    "syn": "好景不常、浮雲朝露、電光石火、過眼雲煙",
+    "ant": "千秋萬世、日久天長"
+  }
+}

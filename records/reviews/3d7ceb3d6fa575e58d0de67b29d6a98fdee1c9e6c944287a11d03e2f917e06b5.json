@@ -1,0 +1,94 @@
+{
+  "no": 335,
+  "kind": "existing",
+  "word": "一針見血",
+  "path": "/workspace/chengyu-preservation/originals/78122786a4b629f6c65956540a7a0575d9fe15e6d8bd0b04ef6b28fb6b7b12b4.png",
+  "original_sha256": "78122786a4b629f6c65956540a7a0575d9fe15e6d8bd0b04ef6b28fb6b7b12b4",
+  "original_available": true,
+  "review_source_sha256": "78122786a4b629f6c65956540a7a0575d9fe15e6d8bd0b04ef6b28fb6b7b12b4",
+  "webp_src": "img/idioms/335.webp",
+  "webp_sha256": "0687d3e685ce567b6c4a4477c08e5ecceb89713c98c7a0e5a9d572d182ab4fc3",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-06",
+  "alt": "眾人圍著枯萎盆栽各想不同照顧方法，一名女子伸手指向緊閉窗簾，提醒大家注意被遮住的陽光，其他人轉頭看向她。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "多人為枯萎盆栽提出澆水換盆施肥等雜說，右側男子一指遮住陽光的窗簾、話泡只指出光線，言論簡潔切中共同忽略的癥結。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以眾人圍著枯萎盆栽各想不同照顧方法為焦點；主要動作與前後對照在手機縮圖可辨，沒有遮住核心動作的多餘裝飾。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "托腮握拳與指窗手正常，右側男子另一臂被筆電遮住，沒有多手；半身取景自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "植物根部示意框、剪具與噴瓶為想像物，主景盆落桌、窗簾阻光，物件接觸合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查畫中人物衣物、器物和背景，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代辦公或住家植物討論，成人休閒襯衫針織衫，鋁窗窗簾與盆栽日常。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部，均為普通衣領或工作圍裙肩帶，沒有紅領巾、紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "candidate_source": "comparison-candidates.json",
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "extra_full_comparisons": [
+        [
+          381,
+          328
+        ]
+      ],
+      "near_duplicates": {
+        "381": "另實際全圖比較網站328虎視眈眈：同樣是木製動物工藝攤、店主背身、戴帽男子張開布袋覬覦木雕、旁有女子。核心道具和三人關係幾乎相同，只把準備偷換成正在偷，容易混淆兩成語，依近重複構圖規則不通過。"
+      },
+      "comparison_note": "其他207候選逐張比較，雖有陶藝、模型、菜園、課堂等相同題材，未確認與本組核心人物關係及因果幾乎相同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻言論簡潔透澈，深中肯綮。",
+    "syn": "一語中的、一語破的、一語道破",
+    "ant": "不著邊際、游談無根、隔靴搔癢"
+  }
+}

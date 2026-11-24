@@ -1,0 +1,94 @@
+{
+  "no": 347,
+  "kind": "existing",
+  "word": "笑容可掬",
+  "path": "/workspace/chengyu-preservation/originals/641016c2f0a85d659315ebe7778536cf5730989cb79aa7ef0d7738a69ebcc876.png",
+  "original_sha256": "641016c2f0a85d659315ebe7778536cf5730989cb79aa7ef0d7738a69ebcc876",
+  "original_available": true,
+  "review_source_sha256": "641016c2f0a85d659315ebe7778536cf5730989cb79aa7ef0d7738a69ebcc876",
+  "webp_src": "img/idioms/347.webp",
+  "webp_sha256": "199a7aae3f03194df9c8e92fd542d0e9a65aa2036cf1540fc787d55b9bbb334e",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-06",
+  "alt": "花店女子站在開滿鮮花的門口迎接客人，雙眼彎起、嘴角上揚，身旁花籃和盆栽整齊陳列，來訪者也受到她愉快神情感染。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "花店女子眉眼彎起、露齒笑容滿面，攤掌熱情招呼顧客，表情本身足以辨識詞義。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以花店女子站在開滿鮮花的門口迎接客人為焦點；主要動作與前後對照在手機縮圖可辨，沒有遮住核心動作的多餘裝飾。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "店員攤掌五指與托盆手正常，顧客握袋帶手有袖與肩遮蔽，雙臂不增減。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "花盆受手托與層架支撐、吊盆有掛帶，店門鉸向正常，無浮空物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查畫中人物衣物、器物和背景，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代花店與襯衫工作圍裙、顧客休閒外套布袋，非古裝。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部，均為普通衣領或工作圍裙肩帶，沒有紅領巾、紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "candidate_source": "comparison-candidates.json",
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "extra_full_comparisons": [
+        [
+          381,
+          328
+        ]
+      ],
+      "near_duplicates": {
+        "381": "另實際全圖比較網站328虎視眈眈：同樣是木製動物工藝攤、店主背身、戴帽男子張開布袋覬覦木雕、旁有女子。核心道具和三人關係幾乎相同，只把準備偷換成正在偷，容易混淆兩成語，依近重複構圖規則不通過。"
+      },
+      "comparison_note": "其他207候選逐張比較，雖有陶藝、模型、菜園、課堂等相同題材，未確認與本組核心人物關係及因果幾乎相同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容笑容滿面的樣子。",
+    "syn": "眉開眼笑、笑逐顏開、喜形於色、喜笑顏開",
+    "ant": "咬牙切齒、悲不自勝、愁眉苦臉、滿面愁容"
+  }
+}

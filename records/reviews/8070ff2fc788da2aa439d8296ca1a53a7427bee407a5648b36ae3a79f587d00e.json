@@ -1,0 +1,96 @@
+{
+  "no": 362,
+  "kind": "existing",
+  "word": "喋喋不休",
+  "path": "/workspace/chengyu-preservation/originals/0f3fd8cf8268550bc7832d15d24d2487500d4c303c3545a1a22de0495fab0665.png",
+  "original_sha256": "0f3fd8cf8268550bc7832d15d24d2487500d4c303c3545a1a22de0495fab0665",
+  "original_available": true,
+  "review_source_sha256": "0f3fd8cf8268550bc7832d15d24d2487500d4c303c3545a1a22de0495fab0665",
+  "webp_src": "img/idioms/362.webp",
+  "webp_sha256": "4e37c55d00a75403161fe9613037f96834ab9411a6d1c48a0ce77dcb63690bdb",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-06",
+  "alt": "女子興致勃勃接連談起盆栽、公車和甜點，頭上有許多圖像泡泡，身旁聽者已托腮疲倦，有人舉手想插話，仍找不到空檔。",
+  "issues": [
+    "text_brand_watermark: 對話泡泡內公車路線顯示器有成串黃綠類字筆畫，車牌也有細小記號；嚴格無類字規則下無法通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "女子連續話泡跳換盆栽公車點心等話題、張口不停，旁人托腮疲倦，有人想插話仍未能說，沒完沒了清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以女子興致勃勃接連談起盆栽、公車和甜點為焦點；主要動作與前後對照在手機縮圖可辨，沒有遮住核心動作的多餘裝飾。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "講者雙手張掌五指、聽者托腮與抬掌手正常，無多肢體，半身裁切自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "話泡為想像非實物，桌上杯盤甜點落桌；公車路線牌車牌疑似小字碼待追加確認。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "對話泡泡內公車路線顯示器有成串黃綠類字筆畫，車牌也有細小記號；嚴格無類字規則下無法通過。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代親友茶聚與市區公車、當代襯衫外套與鋁窗居家背景，無古裝。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部，均為普通衣領或工作圍裙肩帶，沒有紅領巾、紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "candidate_source": "comparison-candidates.json",
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "extra_full_comparisons": [
+        [
+          381,
+          328
+        ]
+      ],
+      "near_duplicates": {
+        "381": "另實際全圖比較網站328虎視眈眈：同樣是木製動物工藝攤、店主背身、戴帽男子張開布袋覬覦木雕、旁有女子。核心道具和三人關係幾乎相同，只把準備偷換成正在偷，容易混淆兩成語，依近重複構圖規則不通過。"
+      },
+      "comparison_note": "其他207候選逐張比較，雖有陶藝、模型、菜園、課堂等相同題材，未確認與本組核心人物關係及因果幾乎相同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容話多，沒完沒了。",
+    "syn": "呶呶不休、絮絮叨叨、嘵嘵不休",
+    "ant": "三緘其口、守口如瓶、沉默寡言、噤若寒蟬、默不作聲、默默無言"
+  }
+}

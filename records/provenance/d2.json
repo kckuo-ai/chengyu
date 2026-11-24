@@ -18741,5 +18741,14 @@
       "batch": "batch-28-group-4-redraw-41",
       "source": "docs/illustration-prompts.json#entries/235"
     }
+  ],
+  "d2781e108e2f700d81bd35f5259308ddb1f533a53c2eb86f26407d07d4ab3b15": [
+    {
+      "kind": "existing_illustration_audit",
+      "batch": "full-audit-20261123/group-06",
+      "source_file": "comparison-candidates.json",
+      "reviewer": "independent-visual-review-2026-11-24",
+      "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    }
   ]
 }

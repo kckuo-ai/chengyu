@@ -1,0 +1,96 @@
+{
+  "no": 351,
+  "kind": "existing",
+  "word": "嗤之以鼻",
+  "path": "/workspace/chengyu-preservation/originals/266c2bad120b3548983da182cc4230d581b111a437401116d9daf53493a33b79.png",
+  "original_sha256": "266c2bad120b3548983da182cc4230d581b111a437401116d9daf53493a33b79",
+  "original_available": true,
+  "review_source_sha256": "266c2bad120b3548983da182cc4230d581b111a437401116d9daf53493a33b79",
+  "webp_src": "img/idioms/351.webp",
+  "webp_sha256": "c3b635a38f906979eab30989ddebc2eec2e6df0c3520313d2e4cafebb174032e",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-06",
+  "alt": "男孩拿著小紙船得意談論航行，想像中卻是洶湧大海，旁邊女子交抱雙臂、抬高下巴並從鼻旁哼氣，露出不屑的神情。",
+  "issues": [
+    "text_brand_watermark: 女子鼻旁灰色哼氣線條形成近似數字3的雙彎形；依不得有像數字符號及拿不準即退回的規則，不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "男孩誇稱紙船能渡巨浪，女子昂頭閉嘴抱臂、從鼻哼氣，不屑表情直接。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以男孩拿著小紙船得意談論航行為焦點；主要動作與前後對照在手機縮圖可辨，沒有遮住核心動作的多餘裝飾。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男孩持船與張掌五指、女子抱臂手有袖遮蔽，無多臂多手，半身裁切自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "紙船由掌托、波浪只是男孩誇述泡泡；女子鼻旁有近似數字3的灰色哼氣符號，按禁字形條件不通過。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "女子鼻旁灰色哼氣線條形成近似數字3的雙彎形；依不得有像數字符號及拿不準即退回的規則，不通過。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代居家教室桌面，兩成人休閒襯衫針織衫，普通木桌鋁窗。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部，均為普通衣領或工作圍裙肩帶，沒有紅領巾、紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "candidate_source": "comparison-candidates.json",
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "extra_full_comparisons": [
+        [
+          381,
+          328
+        ]
+      ],
+      "near_duplicates": {
+        "381": "另實際全圖比較網站328虎視眈眈：同樣是木製動物工藝攤、店主背身、戴帽男子張開布袋覬覦木雕、旁有女子。核心道具和三人關係幾乎相同，只把準備偷換成正在偷，容易混淆兩成語，依近重複構圖規則不通過。"
+      },
+      "comparison_note": "其他207候選逐張比較，雖有陶藝、模型、菜園、課堂等相同題材，未確認與本組核心人物關係及因果幾乎相同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "指用鼻子哼氣譏笑某一人事物以表示不屑、鄙視。",
+    "syn": "不屑一顧",
+    "ant": "另眼相看"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "no": 331,
+  "kind": "existing",
+  "word": "一氣呵成",
+  "path": "/workspace/chengyu-preservation/originals/4b99659f6daea84e9eb1d60f6eff16d6474a287f8daba21c3432aa3896933bfb.png",
+  "original_sha256": "4b99659f6daea84e9eb1d60f6eff16d6474a287f8daba21c3432aa3896933bfb",
+  "original_available": true,
+  "review_source_sha256": "4b99659f6daea84e9eb1d60f6eff16d6474a287f8daba21c3432aa3896933bfb",
+  "webp_src": "img/idioms/331.webp",
+  "webp_sha256": "0cfd90815db29538fbf7d2a70992ff80bf0c2d88e8d9476af0b8d303f329e325",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-06",
+  "alt": "女子坐在窗邊桌前畫山水，三幅相連畫面依次呈現勾線、染色與完成的作品，她手持畫筆低頭專注，桌邊擺著顏料與水碗。",
+  "issues": [
+    "meaning: 三格只是從山形草稿到完成山水畫，箭頭只能表示先後，不能確認中間不曾停頓或順暢緊湊，更容易理解為按步驟完成作品。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "三格只是從山形草稿到完成山水畫，箭頭只能表示先後，不能確認中間不曾停頓或順暢緊湊，更容易理解為按步驟完成作品。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以女子坐在窗邊桌前畫山水為焦點；主要動作與前後對照在手機縮圖可辨，沒有遮住核心動作的多餘裝飾。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "三格持筆與扶紙雙手各有正常手指及握筆遮蔽，肩肘腕連續，桌後下身自然裁切。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "筆尖接觸畫紙，紙置桌面，碗盤與墨碟有支撐，畫作階段大致對應。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查畫中人物衣物、器物和背景，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代住家或畫室鋁窗與遠方城市，成年女子襯衫工作圍裙，沒有古裝。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部，均為普通衣領或工作圍裙肩帶，沒有紅領巾、紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "candidate_source": "comparison-candidates.json",
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "extra_full_comparisons": [
+        [
+          381,
+          328
+        ]
+      ],
+      "near_duplicates": {
+        "381": "另實際全圖比較網站328虎視眈眈：同樣是木製動物工藝攤、店主背身、戴帽男子張開布袋覬覦木雕、旁有女子。核心道具和三人關係幾乎相同，只把準備偷換成正在偷，容易混淆兩成語，依近重複構圖規則不通過。"
+      },
+      "comparison_note": "其他207候選逐張比較，雖有陶藝、模型、菜園、課堂等相同題材，未確認與本組核心人物關係及因果幾乎相同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻文章的氣勢流暢，首尾貫通。 ＆比喻事情進行得順暢緊湊而不間斷。",
+    "syn": "一揮而就",
+    "ant": ""
+  }
+}

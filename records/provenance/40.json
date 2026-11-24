@@ -10151,5 +10151,23 @@
       "source_file": "308.review.json",
       "reviewer": "independent-visual-review-2026-11-24"
     }
+  ],
+  "40f7d0b63a3d5fb8fce6910ee5068b3ea3611e254d91bd9c511c480ee5091297": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-06",
+      "source_file": "344.review.json",
+      "reviewer": "independent-visual-review-2026-11-24",
+      "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    }
+  ],
+  "4083462cc020499583ce795eea77bb07dec01283635e85248746ebe5d03004df": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-06",
+      "source_file": "377.review.json",
+      "reviewer": "independent-visual-review-2026-11-24",
+      "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    }
   ]
 }

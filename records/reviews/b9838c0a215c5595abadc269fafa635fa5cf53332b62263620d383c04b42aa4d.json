@@ -1,0 +1,94 @@
+{
+  "no": 348,
+  "kind": "existing",
+  "word": "揮金如土",
+  "path": "/workspace/chengyu-preservation/originals/d45d46047f101da7f286d14066c4afe7a0d457bdda69e1e14bf138f6b49d0275.png",
+  "original_sha256": "d45d46047f101da7f286d14066c4afe7a0d457bdda69e1e14bf138f6b49d0275",
+  "original_available": true,
+  "review_source_sha256": "d45d46047f101da7f286d14066c4afe7a0d457bdda69e1e14bf138f6b49d0275",
+  "webp_src": "img/idioms/348.webp",
+  "webp_sha256": "d45edc9331d20a744f35af08898bec0be657e4b51c2816c58b213f7566a98239",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-06",
+  "alt": "女子帶著許多購物袋與錢幣買進大量相似家具，家中堆滿重複的燈具和物品，她仍開心挑選，旁邊的人看著擁擠空間感到驚訝。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "女子滿手購物袋仍笑著付一把金錢，回想中家已塞滿大量重複燈具擺飾，過量無節制消費而非單次買物。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以女子帶著許多購物袋與錢幣買進大量相似家具為焦點；主要動作與前後對照在手機縮圖可辨，沒有遮住核心動作的多餘裝飾。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "付款與收款手各手指合理，購物者另一臂抱滿物品、袋帶掛臂，回想托腮雙手正常。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "錢片正從掌交付到另一掌，袋帶承重，成堆物品落桌落籃，想像框誇張數量有明確邊界。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查畫中人物衣物、器物和背景，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區家用品攤位、休閒襯衫長裙與布袋，無古裝與明確異國標識。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部，均為普通衣領或工作圍裙肩帶，沒有紅領巾、紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "candidate_source": "comparison-candidates.json",
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "extra_full_comparisons": [
+        [
+          381,
+          328
+        ]
+      ],
+      "near_duplicates": {
+        "381": "另實際全圖比較網站328虎視眈眈：同樣是木製動物工藝攤、店主背身、戴帽男子張開布袋覬覦木雕、旁有女子。核心道具和三人關係幾乎相同，只把準備偷換成正在偷，容易混淆兩成語，依近重複構圖規則不通過。"
+      },
+      "comparison_note": "其他207候選逐張比較，雖有陶藝、模型、菜園、課堂等相同題材，未確認與本組核心人物關係及因果幾乎相同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻極端浪費錢財。",
+    "syn": "一擲千金、日食萬錢、揮霍無度",
+    "ant": "一毛不拔、克勤克儉、愛財如命、鐵公雞"
+  }
+}

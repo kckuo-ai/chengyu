@@ -1,0 +1,94 @@
+{
+  "no": 349,
+  "kind": "existing",
+  "word": "爐火純青",
+  "path": "/workspace/chengyu-preservation/originals/8c6f470f9041c90fc1fd416d15553e02cd195f3d717f07a26d4c70e9bb187981.png",
+  "original_sha256": "8c6f470f9041c90fc1fd416d15553e02cd195f3d717f07a26d4c70e9bb187981",
+  "original_available": true,
+  "review_source_sha256": "8c6f470f9041c90fc1fd416d15553e02cd195f3d717f07a26d4c70e9bb187981",
+  "webp_src": "img/idioms/349.webp",
+  "webp_sha256": "005d4b06273d1227ce8bceccb04621f2aca8e24f35635091f636ccb572b3e77c",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-06",
+  "alt": "陶藝師在桌前熟練塑造細緻器皿，周圍的人欣賞成品，旁邊回想呈現早年歪斜粗糙的練習作品，前後對比顯示技巧大幅進步。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "舊時練習陶器歪粗，當下陶師從容修出規整優美曲線，旁邊精細完成品與學生欽佩對照，技術達到精純境界清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以陶藝師在桌前熟練塑造細緻器皿為焦點；主要動作與前後對照在手機縮圖可辨，沒有遮住核心動作的多餘裝飾。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "陶師雙手扶口持刮片、回想雙手接泥，學生托腮與桌上扶手正常，無可見多指。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "陶輪軸盤連續、瓶底立輪中心，刮片接陶身，完成陶瓶碗受桌面支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查畫中人物衣物、器物和背景，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代陶藝教室，成年陶師襯衫圍裙、學齡或青年學員日常衣物，非古代煉丹場景。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部，均為普通衣領或工作圍裙肩帶，沒有紅領巾、紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "candidate_source": "comparison-candidates.json",
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "extra_full_comparisons": [
+        [
+          381,
+          328
+        ]
+      ],
+      "near_duplicates": {
+        "381": "另實際全圖比較網站328虎視眈眈：同樣是木製動物工藝攤、店主背身、戴帽男子張開布袋覬覦木雕、旁有女子。核心道具和三人關係幾乎相同，只把準備偷換成正在偷，容易混淆兩成語，依近重複構圖規則不通過。"
+      },
+      "comparison_note": "其他207候選逐張比較，雖有陶藝、模型、菜園、課堂等相同題材，未確認與本組核心人物關係及因果幾乎相同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻學問、技術、功夫等到達精純完美的境地。褒義。",
+    "syn": "出神入化、鬼斧神工",
+    "ant": ""
+  }
+}

@@ -6663,5 +6663,14 @@
       "batch": "batches-29-30",
       "source": "docs/illustration-prompts.json#entries/227"
     }
+  ],
+  "d5030ba95c62a2ceba6e4e37eb92121c9bceeb13e4a8112a0d6b5fb39e45f80b": [
+    {
+      "kind": "existing_illustration_audit",
+      "batch": "full-audit-20261123/group-06",
+      "source_file": "remaining-redraw-source.json",
+      "reviewer": "independent-visual-review-2026-11-24",
+      "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    }
   ]
 }

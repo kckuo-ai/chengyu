@@ -1,0 +1,96 @@
+{
+  "no": 346,
+  "kind": "existing",
+  "word": "望眼欲穿",
+  "path": "/workspace/chengyu-preservation/originals/2ac3b84acdb208e8fd6e45ac5e2e84f9d2632b0f65213debfbc26ac89e825285.png",
+  "original_sha256": "2ac3b84acdb208e8fd6e45ac5e2e84f9d2632b0f65213debfbc26ac89e825285",
+  "original_available": true,
+  "review_source_sha256": "2ac3b84acdb208e8fd6e45ac5e2e84f9d2632b0f65213debfbc26ac89e825285",
+  "webp_src": "img/idioms/346.webp",
+  "webp_sha256": "a24dee9eb3ef11d2a4db8871f1a7d0396d9e350031f2ea8ce9fb455464098707",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-06",
+  "alt": "女子在窗前等待家人，桌上準備好兩個茶杯，從白天到夜晚都望著屋外道路，旁邊合照與空座位襯出她期待親人回來的心情。",
+  "issues": [
+    "taiwan_context: 窗外是紅瓦白牆屋、尖柏、石牆蜿蜒鄉間小路，室內花圍裙與古典木家具整體偏歐洲鄉村，缺少現代台灣可確認線索。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "女子倚窗雙手握起深切盼望，桌上備兩份茶點、家人合照，旁框同一路徑由日到夜仍空，長久盼人清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以女子在窗前等待家人為焦點；主要動作與前後對照在手機縮圖可辨，沒有遮住核心動作的多餘裝飾。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女子兩手靠窗交握、指尖被另一掌合理遮住，肩臂連續，腰下正常裁切。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "窗框牆面與餐桌支撐正常，茶杯與點心落桌，時間小框同一路徑對應。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查畫中人物衣物、器物和背景，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "窗外是紅瓦白牆屋、尖柏、石牆蜿蜒鄉間小路，室內花圍裙與古典木家具整體偏歐洲鄉村，缺少現代台灣可確認線索。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部，均為普通衣領或工作圍裙肩帶，沒有紅領巾、紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "candidate_source": "comparison-candidates.json",
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "extra_full_comparisons": [
+        [
+          381,
+          328
+        ]
+      ],
+      "near_duplicates": {
+        "381": "另實際全圖比較網站328虎視眈眈：同樣是木製動物工藝攤、店主背身、戴帽男子張開布袋覬覦木雕、旁有女子。核心道具和三人關係幾乎相同，只把準備偷換成正在偷，容易混淆兩成語，依近重複構圖規則不通過。"
+      },
+      "comparison_note": "其他207候選逐張比較，雖有陶藝、模型、菜園、課堂等相同題材，未確認與本組核心人物關係及因果幾乎相同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容盼望極其深切。",
+    "syn": "望穿秋水、眼穿腸斷",
+    "ant": "不聞不問、無動於衷、漠不關心、漠然置之"
+  }
+}

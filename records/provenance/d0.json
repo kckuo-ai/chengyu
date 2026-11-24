@@ -17162,5 +17162,23 @@
       "source_file": "/workspace/idiom-review/full-audit-20261123/group-04/274.review.json",
       "reviewer": "independent-visual-review-2026-11-23"
     }
+  ],
+  "d0c210b969340b030694e0a867df59a0ed38dac6d7c0f91ec8d453b76708c15b": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-06",
+      "source_file": "353.review.json",
+      "reviewer": "independent-visual-review-2026-11-24",
+      "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    }
+  ],
+  "d04c90a416c65757bab7c720bbee6135b29c7d73e804f0632b0c2f7d1856fffb": [
+    {
+      "kind": "existing_illustration_audit",
+      "batch": "full-audit-20261123/group-06",
+      "source_file": "progress.json",
+      "reviewer": "independent-visual-review-2026-11-24",
+      "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    }
   ]
 }

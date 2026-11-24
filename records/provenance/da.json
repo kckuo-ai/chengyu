@@ -10607,5 +10607,14 @@
       "source_file": "review-manifest.json",
       "reviewer": "independent-visual-review-2026-11-24"
     }
+  ],
+  "da4f635462dad5dbd188e6630bcb8dd7f8d534ebff47a0a7047c24c29fdc5664": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-06",
+      "source_file": "341.review.json",
+      "reviewer": "independent-visual-review-2026-11-24",
+      "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    }
   ]
 }

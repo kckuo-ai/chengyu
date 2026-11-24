@@ -12547,5 +12547,14 @@
       "path": "backup/batches/2026-11-07-750-770/metadata/807.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "9ade6d03beceb777483e642f72b5f744e76b82d12399e51b81f7dd6d0aee9a2a": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-06",
+      "source_file": "369.review.json",
+      "reviewer": "independent-visual-review-2026-11-24",
+      "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    }
   ]
 }

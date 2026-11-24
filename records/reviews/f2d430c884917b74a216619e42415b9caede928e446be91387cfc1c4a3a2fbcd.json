@@ -1,0 +1,94 @@
+{
+  "no": 376,
+  "kind": "existing",
+  "word": "高朋滿座",
+  "path": "/workspace/chengyu-preservation/originals/f26e082deb244039fb1eb32020fe741fbea403e4742a1eca7110237325a0b4ae.png",
+  "original_sha256": "f26e082deb244039fb1eb32020fe741fbea403e4742a1eca7110237325a0b4ae",
+  "original_available": true,
+  "review_source_sha256": "f26e082deb244039fb1eb32020fe741fbea403e4742a1eca7110237325a0b4ae",
+  "webp_src": "img/idioms/376.webp",
+  "webp_sha256": "11dff7cbb5013356c0d9bf952a73869cf0e2abff7d98073ccbfb9ba8988fbc42",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-06",
+  "alt": "客廳坐滿前來相聚的朋友與長輩，大家分成幾組微笑聊天，主人穿著圍裙端茶走過，桌面放著杯盤，沙發旁也坐著客人。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "客廳多桌多沙發全坐滿談笑賓客，主人端茶盤穿梭，賓客眾多且熱絡直接。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以客廳坐滿前來相聚的朋友與長輩為焦點；主要動作與前後對照在手機縮圖可辨，沒有遮住核心動作的多餘裝飾。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "主人托盤雙手、近景舉掌與持杯手、後方談笑合手均無可見多指；身體被座椅前排遮蔽合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "茶盤壺杯點心受雙手支撐，桌椅落地、人物遮擋一致；後方書脊標籤需確認字形。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "放大後方書架僅素色色面、細脊邊線及小色塊，未見可讀字或字母數字，杯盤皆無標誌。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代住家聚會，成人長者日常衣物、客廳沙發木桌，非古裝。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "主人紅色部分是圍裙；後排長者是極淡米粉花紋絲巾，並非紅領巾或紅圍巾，其餘人物頸部也無紅布。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "candidate_source": "comparison-candidates.json",
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "extra_full_comparisons": [
+        [
+          381,
+          328
+        ]
+      ],
+      "near_duplicates": {
+        "381": "另實際全圖比較網站328虎視眈眈：同樣是木製動物工藝攤、店主背身、戴帽男子張開布袋覬覦木雕、旁有女子。核心道具和三人關係幾乎相同，只把準備偷換成正在偷，容易混淆兩成語，依近重複構圖規則不通過。"
+      },
+      "comparison_note": "其他207候選逐張比較，雖有陶藝、模型、菜園、課堂等相同題材，未確認與本組核心人物關係及因果幾乎相同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容賓客眾多。",
+    "syn": "門庭若市、座無虛席、賓客盈門",
+    "ant": "門可羅雀、門前冷落、青蠅弔客"
+  }
+}

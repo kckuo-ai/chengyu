@@ -1,0 +1,94 @@
+{
+  "no": 357,
+  "kind": "existing",
+  "word": "孜孜不倦",
+  "path": "/workspace/chengyu-preservation/originals/945f2b6537895e6d9d7429c42b4674c5b97a90e3904f5aadb61fbbd2c2c810a4.png",
+  "original_sha256": "945f2b6537895e6d9d7429c42b4674c5b97a90e3904f5aadb61fbbd2c2c810a4",
+  "original_available": true,
+  "review_source_sha256": "945f2b6537895e6d9d7429c42b4674c5b97a90e3904f5aadb61fbbd2c2c810a4",
+  "webp_src": "img/idioms/357.webp",
+  "webp_sha256": "7f1a77cd60c5571538f441e1b5710fcc3b5a9f27b4b911fa6564b582d7611bb1",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-06",
+  "alt": "女子持續觀察葉片並繪製植物圖鑑，另外兩個畫面中她教大家辨認植物、親自在花圃栽種，始終專注投入，桌上堆著相關材料。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一女子持續畫葉、研究根部、替人示範栽苗，各幕專注仍精神飽滿，勤勉學習工作不厭倦可見。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以女子持續觀察葉片並繪製植物圖鑑為焦點；主要動作與前後對照在手機縮圖可辨，沒有遮住核心動作的多餘裝飾。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持筆扶書、托苗指根、按土與旁人托腮交握手正常，握物與手套遮蔽合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "苗根被土團托住，幼苗栽入土，葉圖與實葉對應；桌邊植物參考書書脊疑似小字待放大。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "桌面圖鑑書背是葉片花朵圖像與色塊，放大未見可讀字或獨立類字；翻開頁也僅植物圖。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區園藝教學與城市校舍背景，成人襯衫工作圍裙、帽子手套日常園藝服。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐人檢查頸部，均為普通衣領或工作圍裙肩帶，沒有紅領巾、紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "candidate_source": "comparison-candidates.json",
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "extra_full_comparisons": [
+        [
+          381,
+          328
+        ]
+      ],
+      "near_duplicates": {
+        "381": "另實際全圖比較網站328虎視眈眈：同樣是木製動物工藝攤、店主背身、戴帽男子張開布袋覬覦木雕、旁有女子。核心道具和三人關係幾乎相同，只把準備偷換成正在偷，容易混淆兩成語，依近重複構圖規則不通過。"
+      },
+      "comparison_note": "其他207候選逐張比較，雖有陶藝、模型、菜園、課堂等相同題材，未確認與本組核心人物關係及因果幾乎相同。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "指勤勉而不知疲倦。",
+    "syn": "",
+    "ant": "一暴十寒、無所用心、飽食終日"
+  }
+}
