@@ -1,0 +1,114 @@
+{
+  "no": 411,
+  "kind": "existing",
+  "word": "石破天驚",
+  "path": "/workspace/chengyu-preservation/originals/e71f8dbcb4d9953ed5e18c1f5e724388a745872affe2188be6cd77cc383f7c53.png",
+  "original_sha256": "e71f8dbcb4d9953ed5e18c1f5e724388a745872affe2188be6cd77cc383f7c53",
+  "original_available": true,
+  "review_source_sha256": "e71f8dbcb4d9953ed5e18c1f5e724388a745872affe2188be6cd77cc383f7c53",
+  "webp_src": "img/idioms/411.webp",
+  "webp_sha256": "b6e062120e59c7cb4db5640221ee581a7d0d8e6b71183958651e8a7371e551e0",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-07",
+  "alt": "青年掀開桌上的布，展示有葉片外形、齒輪和多隻活動腳的機械作品，同伴驚訝扶臉、張開手掌，有人還向後仰著身體。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "青年掀布展示能走動的葉形機械玩具，其他人眼睛張大、扶臉後仰吃驚；新奇發明引發驚人反應符合事物新奇驚人的釋義。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以青年掀開桌上的布為焦點；人物表情、動作和對照位置清楚，手機縮圖可辨主體，不需放大才找得到核心動作。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "主角掀布握拳及攤掌五指清楚，右側後仰者雙掌皆五指，中央扶臉及桌邊兩手五指可查，肩臂無錯接。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "模型齒輪、連桿、腿關節和腳盤連續，腿腳接觸桌面且有動線；布能被掀起、桌面承托瓶罐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸逐區檢查衣物、圖像泡泡及器物背景，未見可讀文字、字母數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代探索教室，青年素色連帽衣、棒球帽與格紋襯衫，鋁窗與植物教具，無外國標誌。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "人物頸部為普通襯衫領口、連帽衣或圍裙肩帶，沒有紅領巾、紅圍巾；畫面紅色在衣袖或器物上。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 212,
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "candidate_source": "comparison-candidates.json",
+      "extra_full_comparisons": [
+        [
+          395,
+          478
+        ],
+        [
+          397,
+          349
+        ],
+        [
+          415,
+          816
+        ],
+        [
+          428,
+          381
+        ],
+        [
+          435,
+          430
+        ]
+      ],
+      "near_duplicates": {
+        "395": "另實際全圖比較478恍然大悟：同樣是木桌前左側男性造橋者驚喜明白、右側女性指點、中央弧形木橋與散零件。主角年齡和上方泡泡雖不同，核心橋道具與教學領悟構圖近乎相同，依重複構圖規則 meaning 不通過。",
+        "397": "另實際全圖比較349爐火純青：同是主景陶藝師在轉盤展示精美花瓶、旁邊學員讚賞、上方回顧從粗陶進步的歷程。僅換左右站位、年齡和瓶子裝飾，兩張故事幾乎可互換，不能清楚區別成語。",
+        "415": "另實際全圖比較816移花接木：均是趁客人轉身，將真瓶隱藏、替代瓶放上展示處的調包。換現代服裝和玻璃台仍沿用同一花瓶調包核心，易與移花接木混淆。",
+        "428": "另實際全圖比較381梁上君子：同是木製動物工藝店、布袋藏小木雕、男店主與女見證者三方關係；回想偷物和主景被抓未能補足自入圈套的差別。",
+        "435": "另實際全圖比較本組430忘恩負義：都是右側青年伸掌拒絕左側淋雨長者、暖室門框分界、左上受恩回想。只是師傅改父母及加人物，主景構圖和因果模板近乎相同，依近重複規則退回。"
+      },
+      "comparison_note": "九張比較表212候選逐張看過；另全圖檢視478、349、381、430、816與395，並以本組完整原尺寸細節作對照，其他相似題材未僅因題材相同退回。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容樂器彈奏出來的聲音高亢激越。＆用來形容事物或言論新奇驚人。",
+    "syn": "出人意表、擲地有聲、驚天動地",
+    "ant": "平淡無奇、語不驚人"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "no": 389,
+  "kind": "existing",
+  "word": "不入虎穴，焉得虎子",
+  "path": "/workspace/chengyu-preservation/originals/e39e766a233a3f397657c4289cf39997fde590109ac5ca55e87d1fb903c13921.png",
+  "original_sha256": "e39e766a233a3f397657c4289cf39997fde590109ac5ca55e87d1fb903c13921",
+  "original_available": true,
+  "review_source_sha256": "e39e766a233a3f397657c4289cf39997fde590109ac5ca55e87d1fb903c13921",
+  "webp_src": "img/idioms/389.webp",
+  "webp_sha256": "e85362b9c50baf1311a40d89dd9fbbca4f86e15e7be3105dde24d64f1a823d11",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-07",
+  "alt": "探洞隊原先站在洞口討論裡面的晶體，一名女子從害怕轉為鼓起勇氣，之後戴著頭燈和同伴進入岩洞，伸手指向發亮的紫色晶體。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "回想先畏懼黑洞，了解珍貴晶體在洞內後才鼓起勇氣進入並找到，冒風險才有收穫的關係可辨。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以探洞隊原先站在洞口討論裡面的晶體為焦點；人物表情、動作和對照位置清楚，手機縮圖可辨主體，不需放大才找得到核心動作。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "主景帶手套者指岩壁與扶岩手、後隊員握背帶皆自然，回想講解者攤掌需放大確認，岩石合理遮腿。 另放大回想講解者攤掌，四長指和拇指均可數。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "安全帽燈帶空氣接觸正常、背包扣帶連續，洞內晶體固定在岩台，人物扶岩並非浮空。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸逐區檢查衣物、圖像泡泡及器物背景，未見可讀文字、字母數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣探洞活動可用的山洞、登山裝、安全帽與背包，成人男女比例，沒有古代虎穴人物。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "人物頸部為普通襯衫領口、連帽衣或圍裙肩帶，沒有紅領巾、紅圍巾；畫面紅色在衣袖或器物上。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 212,
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "candidate_source": "comparison-candidates.json",
+      "extra_full_comparisons": [
+        [
+          395,
+          478
+        ],
+        [
+          397,
+          349
+        ],
+        [
+          415,
+          816
+        ],
+        [
+          428,
+          381
+        ],
+        [
+          435,
+          430
+        ]
+      ],
+      "near_duplicates": {
+        "395": "另實際全圖比較478恍然大悟：同樣是木桌前左側男性造橋者驚喜明白、右側女性指點、中央弧形木橋與散零件。主角年齡和上方泡泡雖不同，核心橋道具與教學領悟構圖近乎相同，依重複構圖規則 meaning 不通過。",
+        "397": "另實際全圖比較349爐火純青：同是主景陶藝師在轉盤展示精美花瓶、旁邊學員讚賞、上方回顧從粗陶進步的歷程。僅換左右站位、年齡和瓶子裝飾，兩張故事幾乎可互換，不能清楚區別成語。",
+        "415": "另實際全圖比較816移花接木：均是趁客人轉身，將真瓶隱藏、替代瓶放上展示處的調包。換現代服裝和玻璃台仍沿用同一花瓶調包核心，易與移花接木混淆。",
+        "428": "另實際全圖比較381梁上君子：同是木製動物工藝店、布袋藏小木雕、男店主與女見證者三方關係；回想偷物和主景被抓未能補足自入圈套的差別。",
+        "435": "另實際全圖比較本組430忘恩負義：都是右側青年伸掌拒絕左側淋雨長者、暖室門框分界、左上受恩回想。只是師傅改父母及加人物，主景構圖和因果模板近乎相同，依近重複規則退回。"
+      },
+      "comparison_note": "九張比較表212候選逐張看過；另全圖檢視478、349、381、430、816與395，並以本組完整原尺寸細節作對照，其他相似題材未僅因題材相同退回。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻想要達到目標就必須冒險。",
+    "syn": "",
+    "ant": "知難而退"
+  }
+}

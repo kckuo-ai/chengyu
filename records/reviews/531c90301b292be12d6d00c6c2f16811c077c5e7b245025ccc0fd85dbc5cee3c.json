@@ -1,0 +1,114 @@
+{
+  "no": 384,
+  "kind": "existing",
+  "word": "寄人籬下",
+  "path": "/workspace/chengyu-preservation/originals/f8cf4921b19f4d1fe0bfeb7a3e80e2dd900ddb9314a278bb753a6b9f182dd352.png",
+  "original_sha256": "f8cf4921b19f4d1fe0bfeb7a3e80e2dd900ddb9314a278bb753a6b9f182dd352",
+  "original_available": true,
+  "review_source_sha256": "f8cf4921b19f4d1fe0bfeb7a3e80e2dd900ddb9314a278bb753a6b9f182dd352",
+  "webp_src": "img/idioms/384.webp",
+  "webp_sha256": "0b1f8d04fc8a3b324e4fec3d1f99e5f9a6e813659db4c68ed5a934100d724216",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-07",
+  "alt": "男子帶著行李暫住朋友家，使用餐桌前先合掌詢問，主人微笑允許；另一幕女主人要準備餐點，他便收起電腦，讓出工作位置。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "男子帶行李借住他人家，連使用餐桌工作都先合掌徵詢主人；其後女主人煮飯時他收起電腦，依附他人且受約束可辨。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以男子帶著行李暫住朋友家為焦點；人物表情、動作和對照位置清楚，手機縮圖可辨主體，不需放大才找得到核心動作。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "合掌兩手指列自然，主人的伸掌和豎拇指需追加確認；小景收電腦握袋與煮飯持匙正常。 追加放大主人伸掌，確認拇指及四長指，共五指。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "床桌椅廚台穩固；電腦由桌支撐並收進足夠大的包，鍋子在爐上，手握湯匙。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "追加放大右下筆記本，原以為仿字的一排短畫實為沿紙邊規律排列的線圈裝訂，內頁空白；電腦杯具沒有品牌字樣。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代住家鋁窗廚房與簡單客房，男子休閒襯衫長褲，主人針織上衣，無外國標誌。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "人物頸部為普通襯衫領口、連帽衣或圍裙肩帶，沒有紅領巾、紅圍巾；畫面紅色在衣袖或器物上。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 212,
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "candidate_source": "comparison-candidates.json",
+      "extra_full_comparisons": [
+        [
+          395,
+          478
+        ],
+        [
+          397,
+          349
+        ],
+        [
+          415,
+          816
+        ],
+        [
+          428,
+          381
+        ],
+        [
+          435,
+          430
+        ]
+      ],
+      "near_duplicates": {
+        "395": "另實際全圖比較478恍然大悟：同樣是木桌前左側男性造橋者驚喜明白、右側女性指點、中央弧形木橋與散零件。主角年齡和上方泡泡雖不同，核心橋道具與教學領悟構圖近乎相同，依重複構圖規則 meaning 不通過。",
+        "397": "另實際全圖比較349爐火純青：同是主景陶藝師在轉盤展示精美花瓶、旁邊學員讚賞、上方回顧從粗陶進步的歷程。僅換左右站位、年齡和瓶子裝飾，兩張故事幾乎可互換，不能清楚區別成語。",
+        "415": "另實際全圖比較816移花接木：均是趁客人轉身，將真瓶隱藏、替代瓶放上展示處的調包。換現代服裝和玻璃台仍沿用同一花瓶調包核心，易與移花接木混淆。",
+        "428": "另實際全圖比較381梁上君子：同是木製動物工藝店、布袋藏小木雕、男店主與女見證者三方關係；回想偷物和主景被抓未能補足自入圈套的差別。",
+        "435": "另實際全圖比較本組430忘恩負義：都是右側青年伸掌拒絕左側淋雨長者、暖室門框分界、左上受恩回想。只是師傅改父母及加人物，主景構圖和因果模板近乎相同，依近重複規則退回。"
+      },
+      "comparison_note": "九張比較表212候選逐張看過；另全圖檢視478、349、381、430、816與395，並以本組完整原尺寸細節作對照，其他相似題材未僅因題材相同退回。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "寄居他人屋下生活，不能自立。＆比喻作品因襲守舊，不能自創一格。",
+    "syn": "仰人鼻息、依人作嫁",
+    "ant": "自力更生、自立門戶、自食其力、獨樹一幟"
+  }
+}

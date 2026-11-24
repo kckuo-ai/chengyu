@@ -6936,5 +6936,14 @@
       "source_file": "/workspace/idiom-review/full-audit-20261123/group-01/99.review.json",
       "reviewer": "independent-visual-review-2026-11-23"
     }
+  ],
+  "c4fc6cd33e700a76dc350bb9aa8439f6544866e4beddcf282e553796de14b6bf": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-07",
+      "source_file": "425.review.json",
+      "reviewer": "independent-visual-review-2026-11-24",
+      "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    }
   ]
 }

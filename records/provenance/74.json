@@ -24294,5 +24294,23 @@
       "batch": "batches-24-25",
       "source": "docs/illustration-prompts.json#entries/93"
     }
+  ],
+  "7489935a399f8d7ebd673d0fedf9f6e26e651b3226a2d579b00092a6c2aacae0": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-07",
+      "source_file": "396.review.json",
+      "reviewer": "independent-visual-review-2026-11-24",
+      "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    }
+  ],
+  "748480cc915c85fef3e9512e544af92fb01aa7703ba4f645732b58acae84860d": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-07",
+      "source_file": "420.review.json",
+      "reviewer": "independent-visual-review-2026-11-24",
+      "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    }
   ]
 }

@@ -12354,5 +12354,32 @@
       "batch": "batch-28-group-4-redraw-41",
       "source": "docs/illustration-prompts.json#entries/233"
     }
+  ],
+  "d69495ab58aab42dc2151e7220cc08ac14ce094f9d4999dff18f266ed18550f9": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-07",
+      "source_file": "424.review.json",
+      "reviewer": "independent-visual-review-2026-11-24",
+      "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    }
+  ],
+  "d6f32c1f32c123c4089590cf54ce74ab0a41a38940be1a042779778b8d2e2313": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-07",
+      "source_file": "437.review.json",
+      "reviewer": "independent-visual-review-2026-11-24",
+      "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    }
+  ],
+  "d64b3d6d0d4b180014930d78bc724e1f0277197168d1308ebf032734dd24b98f": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-07",
+      "source_file": "438.review.json",
+      "reviewer": "independent-visual-review-2026-11-24",
+      "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    }
   ]
 }

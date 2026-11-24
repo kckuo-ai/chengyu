@@ -1,0 +1,116 @@
+{
+  "no": 412,
+  "kind": "existing",
+  "word": "覆水難收",
+  "path": "/workspace/chengyu-preservation/originals/4696bd0e9ce19509f58349b63482d905c983b8cd5bb603a530d61217c2532afe.png",
+  "original_sha256": "4696bd0e9ce19509f58349b63482d905c983b8cd5bb603a530d61217c2532afe",
+  "original_available": true,
+  "review_source_sha256": "4696bd0e9ce19509f58349b63482d905c983b8cd5bb603a530d61217c2532afe",
+  "webp_src": "img/idioms/412.webp",
+  "webp_sha256": "418f71a25fe4aaeb3fc85b76cf26aa59ee262b61184f3554137036ad39c29ab2",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-07",
+  "alt": "男子看著倒下的玻璃水罐，焦急彎身用雙掌捧起桌面水窪，水卻仍從指間和桌邊流下，在泥土地面積成另一片水漬。",
+  "issues": [
+    "meaning: 男子試捧流出桌面的水，只有打翻水罐後收水的字面動作，未交代哪個既成決定或後果已無法改變，難理解引申義。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "男子試捧流出桌面的水，只有打翻水罐後收水的字面動作，未交代哪個既成決定或後果已無法改變，難理解引申義。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以男子看著倒下的玻璃水罐為焦點；人物表情、動作和對照位置清楚，手機縮圖可辨主體，不需放大才找得到核心動作。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "雙手拱掌捧水各指正常，手腕接前臂、肩肘連續；身下在桌後，沒有多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "罐子倒在桌面、水沿桌邊滴落地面，捧手縫隙漏水方向合理，木桌椅腳站地。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸逐區檢查衣物、圖像泡泡及器物背景，未見可讀文字、字母數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代鄉間住家外廊，男子格紋襯衫長褲、玻璃水罐，普通木廊與田野，沒有古裝。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "人物頸部為普通襯衫領口、連帽衣或圍裙肩帶，沒有紅領巾、紅圍巾；畫面紅色在衣袖或器物上。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 212,
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "candidate_source": "comparison-candidates.json",
+      "extra_full_comparisons": [
+        [
+          395,
+          478
+        ],
+        [
+          397,
+          349
+        ],
+        [
+          415,
+          816
+        ],
+        [
+          428,
+          381
+        ],
+        [
+          435,
+          430
+        ]
+      ],
+      "near_duplicates": {
+        "395": "另實際全圖比較478恍然大悟：同樣是木桌前左側男性造橋者驚喜明白、右側女性指點、中央弧形木橋與散零件。主角年齡和上方泡泡雖不同，核心橋道具與教學領悟構圖近乎相同，依重複構圖規則 meaning 不通過。",
+        "397": "另實際全圖比較349爐火純青：同是主景陶藝師在轉盤展示精美花瓶、旁邊學員讚賞、上方回顧從粗陶進步的歷程。僅換左右站位、年齡和瓶子裝飾，兩張故事幾乎可互換，不能清楚區別成語。",
+        "415": "另實際全圖比較816移花接木：均是趁客人轉身，將真瓶隱藏、替代瓶放上展示處的調包。換現代服裝和玻璃台仍沿用同一花瓶調包核心，易與移花接木混淆。",
+        "428": "另實際全圖比較381梁上君子：同是木製動物工藝店、布袋藏小木雕、男店主與女見證者三方關係；回想偷物和主景被抓未能補足自入圈套的差別。",
+        "435": "另實際全圖比較本組430忘恩負義：都是右側青年伸掌拒絕左側淋雨長者、暖室門框分界、左上受恩回想。只是師傅改父母及加人物，主景構圖和因果模板近乎相同，依近重複規則退回。"
+      },
+      "comparison_note": "九張比較表212候選逐張看過；另全圖檢視478、349、381、430、816與395，並以本組完整原尺寸細節作對照，其他相似題材未僅因題材相同退回。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻離異的夫妻很難再復合。 ＆比喻既定的事實很難再改變。",
+    "syn": "木已成舟、反水不收、生米煮成熟飯",
+    "ant": "破鏡重圓"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "no": 383,
+  "kind": "existing",
+  "word": "五十步笑百步",
+  "path": "/workspace/chengyu-preservation/originals/aebc6f550042b12b0b38c710b7c8e7914cf97486d8bdc924ed1f93caf75e1744.png",
+  "original_sha256": "aebc6f550042b12b0b38c710b7c8e7914cf97486d8bdc924ed1f93caf75e1744",
+  "original_available": true,
+  "review_source_sha256": "aebc6f550042b12b0b38c710b7c8e7914cf97486d8bdc924ed1f93caf75e1744",
+  "webp_src": "img/idioms/383.webp",
+  "webp_sha256": "4052be7613ed5b5e9a5536d65d99b1646cbb830d9b7c470a92238b3301050e01",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-07",
+  "alt": "課堂上一名男子指著剛到門邊的同學大笑，旁邊女子伸手提醒，回想畫面卻顯示他先前也曾背著包匆忙推門，讓老師和同學等候。",
+  "issues": [
+    "text_brand_watermark: 前景兩本攤開筆記及後排紙面有密集橫行仿書寫筆畫，不是空白紙，違反無類字規則。",
+    "no_red_neckerchief: 前景女子頸部圍著偏紅褐的圍巾；不能確定排除紅圍巾，依拿不準即退回規則不通過。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "主角回想自己也遲到，現在卻指著另一名遲到者大笑；同樣犯錯卻嘲笑他人的因果可辨，非單純兩人一樣。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以課堂上一名男子指著剛到門邊的同學大笑為焦點；人物表情、動作和對照位置清楚，手機縮圖可辨主體，不需放大才找得到核心動作。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "主角指人與桌邊握拳、女子搭肩、門邊男子握背帶手自然；回想老師托書和攤掌無多臂，桌後腿腳合理遮住。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "書本落桌，門把與男子扶門手接觸，桌椅有支撐，杯子不懸空。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "前景兩本攤開筆記及後排紙面有密集橫行仿書寫筆畫，不是空白紙，違反無類字規則。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣成人課堂，鋁窗、白板、折椅與普通格紋襯衫，人物是成人比例。"
+    },
+    "no_red_neckerchief": {
+      "passed": false,
+      "evidence": "前景女子頸部圍著偏紅褐的圍巾；不能確定排除紅圍巾，依拿不準即退回規則不通過。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 212,
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "candidate_source": "comparison-candidates.json",
+      "extra_full_comparisons": [
+        [
+          395,
+          478
+        ],
+        [
+          397,
+          349
+        ],
+        [
+          415,
+          816
+        ],
+        [
+          428,
+          381
+        ],
+        [
+          435,
+          430
+        ]
+      ],
+      "near_duplicates": {
+        "395": "另實際全圖比較478恍然大悟：同樣是木桌前左側男性造橋者驚喜明白、右側女性指點、中央弧形木橋與散零件。主角年齡和上方泡泡雖不同，核心橋道具與教學領悟構圖近乎相同，依重複構圖規則 meaning 不通過。",
+        "397": "另實際全圖比較349爐火純青：同是主景陶藝師在轉盤展示精美花瓶、旁邊學員讚賞、上方回顧從粗陶進步的歷程。僅換左右站位、年齡和瓶子裝飾，兩張故事幾乎可互換，不能清楚區別成語。",
+        "415": "另實際全圖比較816移花接木：均是趁客人轉身，將真瓶隱藏、替代瓶放上展示處的調包。換現代服裝和玻璃台仍沿用同一花瓶調包核心，易與移花接木混淆。",
+        "428": "另實際全圖比較381梁上君子：同是木製動物工藝店、布袋藏小木雕、男店主與女見證者三方關係；回想偷物和主景被抓未能補足自入圈套的差別。",
+        "435": "另實際全圖比較本組430忘恩負義：都是右側青年伸掌拒絕左側淋雨長者、暖室門框分界、左上受恩回想。只是師傅改父母及加人物，主景構圖和因果模板近乎相同，依近重複規則退回。"
+      },
+      "comparison_note": "九張比較表212候選逐張看過；另全圖檢視478、349、381、430、816與395，並以本組完整原尺寸細節作對照，其他相似題材未僅因題材相同退回。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻自己和別人有同樣的缺點或錯誤，卻自以為是而譏笑別人。",
+    "syn": "半斤八兩、相去無幾",
+    "ant": "天壤之別"
+  }
+}

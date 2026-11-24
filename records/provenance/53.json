@@ -7208,5 +7208,14 @@
       "batch": "batch-19-redraw-13",
       "source": "docs/illustration-prompts.json#entries/41"
     }
+  ],
+  "531c90301b292be12d6d00c6c2f16811c077c5e7b245025ccc0fd85dbc5cee3c": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-07",
+      "source_file": "384.review.json",
+      "reviewer": "independent-visual-review-2026-11-24",
+      "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    }
   ]
 }

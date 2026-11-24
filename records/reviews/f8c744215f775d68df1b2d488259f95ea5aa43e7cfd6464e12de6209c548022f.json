@@ -1,0 +1,114 @@
+{
+  "no": 426,
+  "kind": "existing",
+  "word": "守口如瓶",
+  "path": "/workspace/chengyu-preservation/originals/5b14f56c2bbb2678022cf0a2f7b2025736c668de7df97d9b69999ce9fd66c9d2.png",
+  "original_sha256": "5b14f56c2bbb2678022cf0a2f7b2025736c668de7df97d9b69999ce9fd66c9d2",
+  "original_available": true,
+  "review_source_sha256": "5b14f56c2bbb2678022cf0a2f7b2025736c668de7df97d9b69999ce9fd66c9d2",
+  "webp_src": "img/idioms/426.webp",
+  "webp_sha256": "2e389fb082396f28a0611bad03ae77cb4c6d6567c4cdc39860287b31060afecc",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-07",
+  "alt": "青年回想朋友曾拿著花束示意保密，如今把同一束花藏在背後，面對另一人伸手詢問，仍閉緊嘴巴微笑搖頭，沒有說出內容。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "朋友先請託為花束保密，主角現在背後藏花、面對他人詢問仍閉口搖頭，祕密來源和拒絕洩漏的關係清楚，非泛指不說話。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以青年回想朋友曾拿著花束示意保密為焦點；人物表情、動作和對照位置清楚，手機縮圖可辨主體，不需放大才找得到核心動作。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "花店回想持花束和食指貼唇手自然，主景問者攤掌五指與握包帶正常，藏花者一手托盒另一手在背後合理遮住。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "花束插紙盒、紙包摺邊繩結自然，回想剪刀線軸放桌，肩包帶連續而無懸空物件。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸逐區檢查衣物、圖像泡泡及器物背景，未見可讀文字、字母數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區花店及公園，青年休閒襯衫連帽衣、花藝師工作圍裙，背景現代公寓。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "人物頸部為普通襯衫領口、連帽衣或圍裙肩帶，沒有紅領巾、紅圍巾；畫面紅色在衣袖或器物上。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 212,
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "candidate_source": "comparison-candidates.json",
+      "extra_full_comparisons": [
+        [
+          395,
+          478
+        ],
+        [
+          397,
+          349
+        ],
+        [
+          415,
+          816
+        ],
+        [
+          428,
+          381
+        ],
+        [
+          435,
+          430
+        ]
+      ],
+      "near_duplicates": {
+        "395": "另實際全圖比較478恍然大悟：同樣是木桌前左側男性造橋者驚喜明白、右側女性指點、中央弧形木橋與散零件。主角年齡和上方泡泡雖不同，核心橋道具與教學領悟構圖近乎相同，依重複構圖規則 meaning 不通過。",
+        "397": "另實際全圖比較349爐火純青：同是主景陶藝師在轉盤展示精美花瓶、旁邊學員讚賞、上方回顧從粗陶進步的歷程。僅換左右站位、年齡和瓶子裝飾，兩張故事幾乎可互換，不能清楚區別成語。",
+        "415": "另實際全圖比較816移花接木：均是趁客人轉身，將真瓶隱藏、替代瓶放上展示處的調包。換現代服裝和玻璃台仍沿用同一花瓶調包核心，易與移花接木混淆。",
+        "428": "另實際全圖比較381梁上君子：同是木製動物工藝店、布袋藏小木雕、男店主與女見證者三方關係；回想偷物和主景被抓未能補足自入圈套的差別。",
+        "435": "另實際全圖比較本組430忘恩負義：都是右側青年伸掌拒絕左側淋雨長者、暖室門框分界、左上受恩回想。只是師傅改父母及加人物，主景構圖和因果模板近乎相同，依近重複規則退回。"
+      },
+      "comparison_note": "九張比較表212候選逐張看過；另全圖檢視478、349、381、430、816與395，並以本組完整原尺寸細節作對照，其他相似題材未僅因題材相同退回。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻嚴守祕密。",
+    "syn": "三緘其口、隻字不提、祕而不宣、緘口不言、諱莫如深",
+    "ant": "直言不諱、直言無隱、和盤托出"
+  }
+}

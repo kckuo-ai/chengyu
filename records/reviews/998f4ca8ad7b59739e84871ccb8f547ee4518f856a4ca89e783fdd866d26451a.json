@@ -1,0 +1,117 @@
+{
+  "no": 402,
+  "kind": "existing",
+  "word": "招搖撞騙",
+  "path": "/workspace/chengyu-preservation/originals/8be260317c657889ae02de65539a94c5000ea66e79c3d8ac2c9e3763f5c85dd6.png",
+  "original_sha256": "8be260317c657889ae02de65539a94c5000ea66e79c3d8ac2c9e3763f5c85dd6",
+  "original_available": true,
+  "review_source_sha256": "8be260317c657889ae02de65539a94c5000ea66e79c3d8ac2c9e3763f5c85dd6",
+  "webp_src": "img/idioms/402.webp",
+  "webp_sha256": "60f77b8f008dbf610084a49f637bb3d78017950a71fe90717e61e32edf1b2912",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "full-audit-20261123/group-07",
+  "alt": "男子胸掛巨大金色獎牌，得意舉起光滑石頭向客人推銷，另一手伸向客人掌中的錢幣，桌上還有整袋石子與數面相同獎牌。",
+  "issues": [
+    "meaning: 男子戴巨大空白獎牌兜售袋中石子並收錢，但沒有借用他人名望或身分的可見對象，也沒證明石子冒充何物；可能只是誇張推銷，借名詐騙因果不足。",
+    "text_brand_watermark: 追加放大付錢處，最前方硬幣面有清楚 S 形貨幣字母標記；不是只有圓形幣面與金屬反光。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "男子戴巨大空白獎牌兜售袋中石子並收錢，但沒有借用他人名望或身分的可見對象，也沒證明石子冒充何物；可能只是誇張推銷，借名詐騙因果不足。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "主景以男子胸掛巨大金色獎牌為焦點；人物表情、動作和對照位置清楚，手機縮圖可辨主體，不需放大才找得到核心動作。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "上舉手拇指食指捏石，其餘三指彎曲自然；另一手取客人掌中硬幣，客人托幣雙手相疊合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "石袋放桌、獎牌有繩掛頸，取幣接觸合理；硬幣面細小印記需放大排除錢字符號。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "追加放大付錢處，最前方硬幣面有清楚 S 形貨幣字母標記；不是只有圓形幣面與金屬反光。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代街角攤販、公寓與商店鋁門，成人格紋襯衫帆布包及休閒外套，非古裝。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "人物頸部為普通襯衫領口、連帽衣或圍裙肩帶，沒有紅領巾、紅圍巾；畫面紅色在衣袖或器物上。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheet_count": 9,
+      "candidate_count": 212,
+      "sheets_viewed": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "candidate_source": "comparison-candidates.json",
+      "extra_full_comparisons": [
+        [
+          395,
+          478
+        ],
+        [
+          397,
+          349
+        ],
+        [
+          415,
+          816
+        ],
+        [
+          428,
+          381
+        ],
+        [
+          435,
+          430
+        ]
+      ],
+      "near_duplicates": {
+        "395": "另實際全圖比較478恍然大悟：同樣是木桌前左側男性造橋者驚喜明白、右側女性指點、中央弧形木橋與散零件。主角年齡和上方泡泡雖不同，核心橋道具與教學領悟構圖近乎相同，依重複構圖規則 meaning 不通過。",
+        "397": "另實際全圖比較349爐火純青：同是主景陶藝師在轉盤展示精美花瓶、旁邊學員讚賞、上方回顧從粗陶進步的歷程。僅換左右站位、年齡和瓶子裝飾，兩張故事幾乎可互換，不能清楚區別成語。",
+        "415": "另實際全圖比較816移花接木：均是趁客人轉身，將真瓶隱藏、替代瓶放上展示處的調包。換現代服裝和玻璃台仍沿用同一花瓶調包核心，易與移花接木混淆。",
+        "428": "另實際全圖比較381梁上君子：同是木製動物工藝店、布袋藏小木雕、男店主與女見證者三方關係；回想偷物和主景被抓未能補足自入圈套的差別。",
+        "435": "另實際全圖比較本組430忘恩負義：都是右側青年伸掌拒絕左側淋雨長者、暖室門框分界、左上受恩回想。只是師傅改父母及加人物，主景構圖和因果模板近乎相同，依近重複規則退回。"
+      },
+      "comparison_note": "九張比較表212候選逐張看過；另全圖檢視478、349、381、430、816與395，並以本組完整原尺寸細節作對照，其他相似題材未僅因題材相同退回。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容借名炫耀，到處詐騙。",
+    "syn": "",
+    "ant": ""
+  }
+}
