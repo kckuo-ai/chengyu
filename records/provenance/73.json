@@ -7396,5 +7396,13 @@
       "batch": "batches-32-33",
       "source": "docs/illustration-reviews.json#entries/354"
     }
+  ],
+  "73db03ad9c44b22158cbdf8fe2b6e3aef95e7486b53bf7240c0b0a6a56e126e0": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-35-unresolved-25",
+      "source_file": "review-manifest.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
   ]
 }

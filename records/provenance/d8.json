@@ -20848,5 +20848,20 @@
       "batch": "batches-32-33",
       "source": "docs/illustration-prompts.json#entries/393"
     }
+  ],
+  "d814c422bfe7d874e4ac1db3d7b0e5be6108630d6c6c91e8e86a379bc770828b": [
+    {
+      "kind": "current_main_record",
+      "batch": "batch-35-unresolved-25",
+      "source": "docs/illustration-prompts.json#entries/474"
+    }
+  ],
+  "d82ba7f454d37fc8f131ea6b95e84c5300d6ac1ee974459a51401d7efb41fa34": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-35-unresolved-25",
+      "source_file": "comparison-candidates.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
   ]
 }

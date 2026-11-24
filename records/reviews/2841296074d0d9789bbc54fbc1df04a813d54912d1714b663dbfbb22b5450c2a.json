@@ -1,0 +1,68 @@
+{
+  "no": 489,
+  "kind": "regenerate",
+  "word": "永垂不朽",
+  "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/489.png",
+  "original_sha256": "8118af059e6cc977f64b9382aef5991ad4df4418396de7045343814005d081b6",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-35-unresolved-25",
+  "alt": "長者在植樹者銅像前獻花，旁邊舊照片保留他與幼苗的模樣，今日背後大樹已經枝葉茂盛，女孩正接續把新苗種進土中。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "植樹者銅像與舊照受到獻花紀念，樹已茂盛，學童在旁接續種苗，功績流傳與承接清楚。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "全圖主景以長者在植樹者銅像前獻花為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "長者前掌五指托花、另一手在花束後自然遮住，女孩兩掌各五指扶根團，跪蹲鞋著地；銅像與舊照為半身無微小手。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "銅像連石座、照片斜靠基座、花束落臺，根團放入土坑、苗幹連根，鏟放地，無浮物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區公園、長者普通襯衫與女孩國小Polo裙、年齡比例自然，無微小背景人物。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+    }
+  },
+  "previous_installed_original_sha256": "39d34d8123c0377d253340ccc19ee24743f0c8e8eb35ec19f60e863ae77ed223",
+  "previous_review_archive_path": "records/reviews/48ee892f55d3b5dd522cfcaa30cc1c04335896ee19e628c5ad8009024c07fc16.json",
+  "previous_rejected_candidate_review_archive_path": null,
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+    "comparison_candidates": 88,
+    "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "永遠流傳而不可磨滅。褒義。",
+    "syn": "名垂千古、流芳百世、萬古流芳",
+    "ant": "遺臭萬年"
+  },
+  "webp_src": "img/idioms/489-8118af059e6c.webp",
+  "webp_sha256": "c7fce83c74c3917556b3cc80ae8e67e0722f17b63fb7aa8d6ce04c6ca70f4459"
+}

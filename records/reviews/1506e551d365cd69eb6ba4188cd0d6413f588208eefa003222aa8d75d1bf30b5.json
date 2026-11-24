@@ -1,0 +1,68 @@
+{
+  "no": 492,
+  "kind": "regenerate",
+  "word": "暴跳如雷",
+  "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/492.png",
+  "original_sha256": "b4f317ed4d424da75f30110bcff0b00ef8371a4352f7e2f70d6fe46f0b6e8f06",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-35-unresolved-25",
+  "alt": "男子看見泥球和地毯上的鞋印，氣得滿臉漲紅、雙拳緊握，張嘴大吼並抬起腳準備重跺，女子在旁驚訝舉掌看著他。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "男子見泥球腳印後漲紅臉怒吼、雙拳緊握並抬腳跺地，女子驚訝後退，急怒跳腳動態明確。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "全圖主景以男子看見泥球和地毯上的鞋印為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女子雙掌各五指、男子雙拳四曲指與拇指自然，雙臂連肩，一腳站穩另一腳抬起準備踏下，無多腿。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "鞋底朝地、泥塊從鞋底落下對應地毯鞋印，球落地，茶几杯墊沙發櫃腳支撐自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代公寓客廳、窗外方形城市樓房，普通Polo長褲與針織外套，成人比例正常。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+    }
+  },
+  "previous_installed_original_sha256": "7dca92d18e3150bb9685ae44bd87800d477f9b7769acd37fae741f1a29a504be",
+  "previous_review_archive_path": "records/reviews/6aae9409cb506916e4a7c6d509dae81be1f2ddebfa8bdfb0bf07679cd6596450.json",
+  "previous_rejected_candidate_review_archive_path": null,
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+    "comparison_candidates": 88,
+    "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容人急怒時跳腳吼叫的樣子。",
+    "syn": "大發雷霆、咆哮如雷、勃然大怒",
+    "ant": "心平氣和、怒不變容"
+  },
+  "webp_src": "img/idioms/492-b4f317ed4d42.webp",
+  "webp_sha256": "e362ae77471150d69c57b689b7b54043a59caeb752e3c47598d5702352e27fcf"
+}

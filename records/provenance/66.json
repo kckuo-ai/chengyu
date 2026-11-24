@@ -19356,5 +19356,20 @@
       "reviewer": "independent-visual-review-2026-11-24",
       "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
     }
+  ],
+  "66b2508ff292e2c917cc231a76ca90202abb9e36595438e711e3cac92dd4d23e": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-35-unresolved-25",
+      "source_file": "455.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
+  ],
+  "66f73ffa1efe737e3fdd9b83570900e8cef2fe60ca6a4167e9b5ea4adf1c4a90": [
+    {
+      "kind": "current_main_record",
+      "batch": "batch-35-unresolved-25",
+      "source": "docs/illustration-prompts.json#entries/478"
+    }
   ]
 }

@@ -1,0 +1,68 @@
+{
+  "no": 452,
+  "kind": "regenerate",
+  "word": "天造地設",
+  "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/452.png",
+  "original_sha256": "b0f8ddbcf46c320dca13ca8691fb78dc148dbfc7df9f7d860fc6fdc8d1daca05",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-35-unresolved-25",
+  "alt": "母女在安全步道旁欣賞天然海蝕岩拱，兩幅小景回顧同一岩塊從完整到受海浪侵蝕出洞口，主景海水正穿過寬大的石拱。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同岩塊先完整、再被海浪蝕出小洞、主景成大拱門，天然成就的過程明確，非僅合作作品。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "全圖主景以母女在安全步道旁欣賞天然海蝕岩拱為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "母親指向岩拱的食指與曲指自然、另一掌扶欄，女孩雙臂扶欄有身體遮擋，雙鞋踏觀景地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "天然岩層從左右陸塊連成拱、海浪穿洞，護欄柱接步道，無磚縫或人造拱橋混淆。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣東北角海蝕岩與現代觀景護欄，親子便服及國小校服身材，無歐式村落。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+    }
+  },
+  "previous_installed_original_sha256": "9dbced4516480e485e20aa23072bbb63908c3f5b9257a3a85bf1c60ec5dfaa63",
+  "previous_review_archive_path": "records/reviews/76d979d4e116a5b6f10a8a1943202340d3fc827d4fa0c06d80603f469b2c4eeb.json",
+  "previous_rejected_candidate_review_archive_path": null,
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+    "comparison_candidates": 88,
+    "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "天然所成就的。＆形容人或事物彼此配合得自然得體，渾然天成。",
+    "syn": "鬼斧神工、渾然天成",
+    "ant": "矯揉造作"
+  },
+  "webp_src": "img/idioms/452-b0f8ddbcf46c.webp",
+  "webp_sha256": "4f723547979e905b8b79bde9b0f312bf87a097022c06ba9a4d763ef09aa591c8"
+}

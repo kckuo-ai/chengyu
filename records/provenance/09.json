@@ -14401,5 +14401,13 @@
       "batch": "batches-32-33",
       "source": "docs/illustration-prompts.json#entries/373"
     }
+  ],
+  "0908cfac2c09b73cde4b57257d602abad01ccf013dc3ec019dd958b34ebcfd88": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-35-unresolved-25",
+      "source_file": "483.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
   ]
 }

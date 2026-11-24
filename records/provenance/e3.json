@@ -10498,5 +10498,13 @@
       "batch": "batches-32-33",
       "source": "docs/illustration-prompts.json#entries/420"
     }
+  ],
+  "e3599d882a62dbcc563f5c5b76f5c236bf88f0452c3dd3e937a22fc7f5df9bbf": [
+    {
+      "kind": "git_zip_member",
+      "commit": "eaea975bbac76f8ceaa5b523768d4c948aebd87b",
+      "zip_path": "batch-35-unresolved-25.zip",
+      "member": "batch-35/manifest.json"
+    }
   ]
 }

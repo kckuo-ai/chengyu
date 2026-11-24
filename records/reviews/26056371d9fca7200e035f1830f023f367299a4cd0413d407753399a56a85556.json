@@ -1,0 +1,68 @@
+{
+  "no": 440,
+  "kind": "regenerate",
+  "word": "川流不息",
+  "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/440.png",
+  "original_sha256": "7a381b27986709cfebafb921c3ed4df5f4749aa748906fb80aadb52cce0c61d1",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-35-unresolved-25",
+  "alt": "母子扶著人行道護欄觀看接連駛過的車輛，道路彎向遠方仍有車子陸續來到，旁邊小景顯示中午和傍晚都持續有車通過。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一道路車輛接續行駛，旁側日正當中與傍晚仍有車流的兩幕，持續不斷而非單一排隊時刻清楚。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "全圖主景以母子扶著人行道護欄觀看接連駛過的車輛為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "母子四手扶欄，四長指在欄前、拇指在欄後握持自然，手臂接肩；無微小遠景人物，駕駛不露手。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "車輪接路、道路曲線車身方向隨路彎，護欄立柱接地，兩人站安全人行側，無浮車。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代城市方形樓房、行道樹、斑馬線與一般車輛，男孩素面國小運動服及兒童身材，母親一般便服。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+    }
+  },
+  "previous_installed_original_sha256": "c01961b32ac2be37defb8527f3e92e8170479ea9bf6a89aef2939f211a83281e",
+  "previous_review_archive_path": "records/reviews/aa8d1763c10230fb050e049ffb59f091985528d35a3b9918508dfc6a47b05104.json",
+  "previous_rejected_candidate_review_archive_path": null,
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+    "comparison_candidates": 88,
+    "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容連綿不絕。",
+    "syn": "車水馬龍、絡繹不絕、熙來攘往",
+    "ant": "稀稀落落"
+  },
+  "webp_src": "img/idioms/440-7a381b279867.webp",
+  "webp_sha256": "cfe887444fce72a3e4cf5798cdff40a186b28b8a548fa3ffae8ae2381be3d7db"
+}

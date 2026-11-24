@@ -1,0 +1,68 @@
+{
+  "no": 474,
+  "kind": "regenerate",
+  "word": "雞鳴狗盜",
+  "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/474.png",
+  "original_sha256": "0aa6ab77322e2c84d59f0829bb9b94550767c2e274989ce0f31cec87f17481d4",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-35-unresolved-25",
+  "alt": "雜貨店外，一名男子躲在牆邊模仿鳥叫，引得店主抬頭尋找，另一人趁機從矮門鑽入，伸手拿走小桌上的錢包。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "一人用模仿鳥鳴口技吸引店主抬頭，另一人趁機鑽矮門取錢包，卑下技能被用來偷竊的行為清楚，非僅畫雞狗。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "全圖主景以雜貨店外為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "口技雙手攏口指節合理，店主雙桌掌各五指、竊者地掌五指明確，拿錢包指與拇指接觸自然，蹲姿鞋接地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "錢包放矮桌由手拿取、桌腿落地，箱籃食物置架，鳥是口技泡泡非實景多腳動物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代街角蔬果雜貨店、鐵窗柱磁磚、棒球帽運動鞋圍裙，沒有古裝長矛。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+    }
+  },
+  "previous_installed_original_sha256": "2f9eea871a1fadf47538cfcab5d2021dcb490f2358795ad44dd6a7117336775f",
+  "previous_review_archive_path": "records/reviews/f0909fc388e24fc61e8a3cb41a7ad580501e66f722941bd843f8ec783a28d6e9.json",
+  "previous_rejected_candidate_review_archive_path": null,
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+    "comparison_candidates": 88,
+    "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻有某種卑下技能的人，或指卑微的技能。＆形容卑劣低下的人或事。",
+    "syn": "鼠竊狗偷",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/474-0aa6ab77322e.webp",
+  "webp_sha256": "26c26f10bc4f9f1b78463d28f4afa3e2e74790397c100ab6efef9a1b2973b553"
+}

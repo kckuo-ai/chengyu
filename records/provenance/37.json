@@ -14310,5 +14310,21 @@
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470",
       "path": "backup/batches/2026-11-07-838-839/SHA256SUMS"
     }
+  ],
+  "37086cd59159bd41cd5dcbe4f3cfad7848788306cc0e185179fbf343a4e132d0": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-35-unresolved-25",
+      "source_file": "474.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
+  ],
+  "37ac60b740d180b7cedd6fa64be6d15bb339368ccba71c1983984e9b01fb6bbc": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-35-unresolved-25",
+      "source_file": "483.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
   ]
 }

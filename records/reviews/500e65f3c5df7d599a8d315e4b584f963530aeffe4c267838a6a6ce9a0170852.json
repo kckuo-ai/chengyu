@@ -1,0 +1,68 @@
+{
+  "no": 444,
+  "kind": "regenerate",
+  "word": "心不在焉",
+  "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/444.png",
+  "original_sha256": "1fff10529306606bdef60c51bc7a921829794256d0e2df91e3c9cb5389704bcd",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-35-unresolved-25",
+  "alt": "教師捧著幼苗根團示範移盆，女孩專心觀看，男孩卻托腮想著棒球，手邊空盆還沒開始使用，女孩輕碰他的肩膀提醒。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "教師捧幼苗示範移盆，女孩認真看，男孩卻托腮望棒球泡泡、空盆工作停住，女孩碰肩提醒，分心清楚。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "全圖主景以教師捧著幼苗根團示範移盆為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "教師握苗與托根雙手、女孩扶欄及搭肩、男孩托腮與扶盆手均五指或持物遮蔽自然，無多手。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "土鏟插土盤、育苗盤和空盆落金屬網桌，根團由掌托，女孩手碰肩不穿透，球具在想像泡泡。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代校園園藝課、方形校舍和素面藍邊Polo服，兩孩國小比例，教師圍裙繫腰。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+    }
+  },
+  "previous_installed_original_sha256": "44196671b5def901492eab9d07f613294650c562c44d8840f12b0e84b322b42e",
+  "previous_review_archive_path": "records/reviews/da58e815c1353aa6a256ec36c3811bf3fb26f75f210dd41a114e8a1b78b1d103.json",
+  "previous_rejected_candidate_review_archive_path": null,
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+    "comparison_candidates": 88,
+    "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻心思不集中。",
+    "syn": "魂不守舍、漫不經心",
+    "ant": "全神貫注、聚精會神"
+  },
+  "webp_src": "img/idioms/444-1fff10529306.webp",
+  "webp_sha256": "dc28a5c1f0c7ccf70243fdea311863b5d6a2b69a1aa9d942513998f96377ef4c"
+}

@@ -3843,5 +3843,13 @@
       "batch": "batches-32-33",
       "source": "docs/illustration-prompts.json#entries/333"
     }
+  ],
+  "7f6853cbdf21f873b5f576f8feeab059443d7b2700b9a4d430fb5527098b69ce": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-35-unresolved-25",
+      "source_file": "439.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
   ]
 }

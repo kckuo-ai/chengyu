@@ -1,0 +1,68 @@
+{
+  "no": 308,
+  "kind": "regenerate",
+  "word": "空前絕後",
+  "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/308.png",
+  "original_sha256": "6c62e1459095d3550f9903208b7bec0e34ce921c3899160e5b364e4cf7622228",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-35-unresolved-25",
+  "alt": "工匠拿著破裂的石雕球驚訝觀看桌上的完整多層作品，旁邊按序擺放較簡單的同類成品，窗外原料礦壁已經崩裂成碎石。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "四件歷代同類球由粗簡至多層，唯一完整大球層數更繁而資深工匠同材試作破裂、窗外礦脈崩塌，超越古今無可匹敵有具體比較；已不用折屏。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "全圖主景以工匠拿著破裂的石雕球驚訝觀看桌上的完整多層作品為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "工匠兩手各四曲指與背側拇指夾住裂球、雙臂接肩連腕，兩鞋落地，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "球體套層下緣相接，外球壓凹座、座落桌，四小球也各有底座；破球受雙手及桌面承托，桌腳落地。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "現代台灣工藝工作室、普通上衣圍裙與石礦窗景，工匠年長成人比例，無古裝。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+    }
+  },
+  "previous_installed_original_sha256": "0e6bd3c8481ab01b4270fea1c961b1e80781f47846d0819cb5be6e14d1a8d9d7",
+  "previous_review_archive_path": "records/reviews/768e8e8c5924e0a7f6d962bcbef5585cf9106e3181fb60ef0a37eea1b9ea1410.json",
+  "previous_rejected_candidate_review_archive_path": "records/reviews/3fc480b915a23e2c16c0bc52e8114896674d04bdcab158d13480cb2f1afdd961.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+    "comparison_candidates": 88,
+    "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻超越古今，無與倫比。",
+    "syn": "亙古未有、空前未有、無與倫比、絕無僅有、獨一無二、舉世無雙",
+    "ant": "比比皆是、司空見慣、史不絕書、多如牛毛、俯拾即是、屢見不鮮"
+  },
+  "webp_src": "img/idioms/308-6c62e1459095.webp",
+  "webp_sha256": "e0333746ab31b13c217cea33ffd6787f13ee7108cd32967f94fa692849d76a31"
+}

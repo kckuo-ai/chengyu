@@ -12012,5 +12012,13 @@
       "batch": "batches-32-33",
       "source": "docs/illustration-prompts.json#entries/309"
     }
+  ],
+  "20076aa7b5ddb3092f2cb40f6d0e06753653d2531197e36ccac93c2d87f3c8f6": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-35-unresolved-25",
+      "source_file": "463.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
   ]
 }

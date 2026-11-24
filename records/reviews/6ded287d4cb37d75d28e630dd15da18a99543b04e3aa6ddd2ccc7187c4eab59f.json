@@ -1,0 +1,68 @@
+{
+  "no": 491,
+  "kind": "regenerate",
+  "word": "出人頭地",
+  "path": "/workspace/idiom-review/batch-35-unresolved-25/extracted/batch-35/491.png",
+  "original_sha256": "4495729bc2241c516bb18742e60978da10c0aa97ae5d7559da195efda5e30a8a",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-35-unresolved-25",
+  "alt": "男孩展示分隔整齊又能提起的工具收納盒，桌上其他作品不是雜亂卡蓋，就是提把斷裂，教師與同學比較後驚喜稱讚他的設計。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同尺寸收納盒對照，其他盒雜亂卡蓋斷提把，男孩盒分隔整齊又能提，教師同學集中稱讚他，超越同儕有可辨的作品差異。 依MOE釋義與近反義核對；四張比較表共88張現行候選、額外397全圖及本批互比已實際看過，未見幾乎相同可互換的構圖。466和478同用台灣拼圖，但前者跨三種常識反覆不會、後者單一提示後領悟，分幕敘事與主動作不同。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "全圖主景以男孩展示分隔整齊又能提起的工具收納盒為焦點，表情和核心物件清楚，前後對照容易依序閱讀，手機縮圖可辨主體。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "教師指盒與桌掌、女孩雙桌掌各五指，男孩雙手扶兩側提把，曲指拇指貼把手、臂肩連接自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "盒蓋有鉸鏈、分隔槽吻合工具，差盒斷提把落桌、卡蓋因塞物，男孩盒由手承托，非橋模型模板。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸逐區檢查衣物、書紙、圖像泡泡、器物與背景：無可讀文字、字母、數字、類字標記、品牌、水印與不適內容；門櫃把手、縫線及實體工具結構不作字樣。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖可見鉛筆輪廓、透明柔和水彩、色鉛筆顆粒疊色及米白紙紋，自然綠、淡藍和暖棕配色，非鮮豔扁平色塊或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小生活設計課、校舍鋁窗、一般教師上衣與兒童Polo，成人和國小比例合理。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過全圖及各幕人物頸部、肩領與泡泡人物，均為普通衣領或圍裙肩帶，沒有紅領巾或紅圍巾；475長者改素白圓領。"
+    }
+  },
+  "previous_installed_original_sha256": "4b36e4ab2ab72e5566c3be4a0529aebd2bdb5d70c294bc4ee0b0ddaf94a0c174",
+  "previous_review_archive_path": "records/reviews/d6f4b6f498481e523a2f6d3f8e9b75357cffa3d3de019276d52554480b3ee004.json",
+  "previous_rejected_candidate_review_archive_path": null,
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized512px tiles covering every source pixel;466 two palms separately enlarged and actually checked.",
+    "comparison_candidates": 88,
+    "comparison_method": "Four comparison sheets actually viewed, plus full397 and within-batch comparisons. Not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "超越他人，獨露頭角。",
+    "syn": "出類拔萃、佼佼不群、卓爾不群、推群獨步、超群絕倫、頭角崢嶸、鶴立雞群",
+    "ant": "不稂不莠、碌碌無能"
+  },
+  "webp_src": "img/idioms/491-4495729bc224.webp",
+  "webp_sha256": "554a0c255ade590a4521e0d3ca4c412aef407e611c73d7803f4ff03dd7d29fd0"
+}

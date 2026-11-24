@@ -8582,5 +8582,21 @@
       "batch": "batches-26-27",
       "source": "docs/illustration-reviews.json#entries/201"
     }
+  ],
+  "778f7823baff61653103fac9a72dda914de22dfeb6af345bd50bcec92f3d5e5f": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-35-unresolved-25",
+      "source_file": "308.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
+  ],
+  "77d1c6f19f676824694690d2c8b79153b0e7efdc902a2c71b7dbe64bf234e314": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-35-unresolved-25",
+      "source_file": "484.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
   ]
 }
