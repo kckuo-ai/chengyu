@@ -8280,5 +8280,21 @@
       "batch": "batches-29-30",
       "source": "docs/illustration-reviews.json#entries/302"
     }
+  ],
+  "75f2206b9396284417e548777d8dea455af2b1a7b52c13c512302fedf2daa3aa": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-33-groups-6-7-redraw-38",
+      "source_file": "373.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
+  ],
+  "7578c28cbbe20ff77f308b4eac97b0d0ab0909a0a6dd0e684d8f382f1aa68d88": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-33-groups-6-7-redraw-38",
+      "source_file": "393.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
   ]
 }

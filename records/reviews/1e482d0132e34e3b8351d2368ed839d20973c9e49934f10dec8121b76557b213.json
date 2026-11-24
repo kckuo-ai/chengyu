@@ -1,0 +1,67 @@
+{
+  "no": 362,
+  "kind": "regenerate",
+  "word": "喋喋不休",
+  "path": "/workspace/idiom-review/batch-33-groups-6-7-redraw-38/extracted/batch-33/362.png",
+  "original_sha256": "49ad9e7006be050f79fd6cf87f9e565dbfbbc65cfa5b227d3cb14b3d1d751cc2",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-33-groups-6-7-redraw-38",
+  "alt": "一人興致勃勃地持續談論葉片、餅乾與山景，身旁聽眾已打起呵欠，試著抬手插話，說話的人仍停不下來。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "女子不停轉葉子餅乾山景話題，聽者打呵欠托腮、舉掌想插話仍沒機會，沒完沒了清楚。 依教育部釋義、近反義詞核對；實際看過七張比較表共167張既有插圖候選並比對本批其他圖，未見可互換主體的幾乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "全圖縮圖中人物表情、主要動作及先後因果集中在清楚的主景；分幕沿視線順序閱讀，背景不掩蓋主角。女子不停轉葉子餅乾山景話題，聽者打呵欠托腮、舉掌想插話仍沒機會，沒完沒了清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "說者兩掌與想插話者五指清楚，其他托腮掩口及膝上手正常，人物坐姿合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "杯碟桌面承托、泡泡僅物象無公車字牌，椅沙發透視一致，無數碼錶面。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區檢查人物、道具、衣物、書頁、泡泡及背景，無可讀文字、字母、數字或仿字形標記；無品牌、水印與不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "鉛筆輪廓配透明柔和水彩，色鉛筆顆粒疊色及米白紙紋可見；自然綠、淡藍、暖棕低彩度配色，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "人物與家居、教室、公共設施採台灣現代生活設定，服裝為一般襯衫、上衣與長短褲；成人與學童依角色區分年齡身材比例。一人興致勃勃地持續談論葉片、餅乾與山景，身旁聽眾已打起呵欠，試著抬手插話，說話的人仍停不下來。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、原尺寸各幕與回想泡泡內人物頸部衣領，沒有紅領巾或紅圍巾；一般衣物及道具的紅色部位不包覆頸部。"
+    }
+  },
+  "previous_installed_original_sha256": "0f3fd8cf8268550bc7832d15d24d2487500d4c303c3545a1a22de0495fab0665",
+  "previous_review_archive_path": "records/reviews/8070ff2fc788da2aa439d8296ca1a53a7427bee407a5648b36ae3a79f587d00e.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized 512px tiles covering every source pixel; follow-up enlarged palms for200/308 and keyboard for301.",
+    "comparison_candidates": 167,
+    "comparison_method": "Seven sheets of current catalog semantic and perceptual candidates actually viewed; not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容話多，沒完沒了。",
+    "syn": "呶呶不休、絮絮叨叨、嘵嘵不休",
+    "ant": "三緘其口、守口如瓶、沉默寡言、噤若寒蟬、默不作聲、默默無言"
+  },
+  "webp_src": "img/idioms/362-49ad9e7006be.webp",
+  "webp_sha256": "082aa83721578f9de28a576162bf216f2c5cbe05857a15b354d0772980a6f964"
+}

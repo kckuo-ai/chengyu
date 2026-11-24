@@ -15100,6 +15100,20 @@
       "source_file": "331.review.json",
       "reviewer": "independent-visual-review-2026-11-24",
       "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    },
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-06",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-06/331.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
+  ],
+  "d4d512b957a5e1e7d2775147b243d77d8c503914f07ed7921e34aee75f72568b": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-32-unresolved-11",
+      "source_file": "308.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-24"
     }
   ]
 }

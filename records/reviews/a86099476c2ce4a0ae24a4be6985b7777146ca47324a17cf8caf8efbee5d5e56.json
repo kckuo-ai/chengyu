@@ -1,0 +1,67 @@
+{
+  "no": 375,
+  "kind": "regenerate",
+  "word": "節外生枝",
+  "path": "/workspace/idiom-review/batch-33-groups-6-7-redraw-38/extracted/batch-33/375.png",
+  "original_sha256": "c5f97264f3f77c5d7ad7359547d44f1d98c42f92c032b9cd85b3b864c127d673",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-33-groups-6-7-redraw-38",
+  "alt": "原本簡單的搬桌工作臨時加上高大花架，搬到門口便卡住碰倒盆栽，最後大家只好停下搬運，忙著清掃與修補。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "原只搬桌，臨時加拱架使通門受阻、撞壞花盆牆面，最後清理補牆，額外要求生新麻煩已清楚。 依教育部釋義、近反義詞核對；實際看過七張比較表共167張既有插圖候選並比對本批其他圖，未見可互換主體的幾乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "全圖縮圖中人物表情、主要動作及先後因果集中在清楚的主景；分幕沿視線順序閱讀，背景不掩蓋主角。原只搬桌，臨時加拱架使通門受阻、撞壞花盆牆面，最後清理補牆，額外要求生新麻煩已清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "三人搬桌六手合理握邊、末幕掃地持畚箕扶牆手正常，彎身蹲姿鞋落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "拱架繩綁桌沿有支撐，盆碎片和土在地，牆撞痕同位置，沒有憑空損壞。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區檢查人物、道具、衣物、書頁、泡泡及背景，無可讀文字、字母、數字或仿字形標記；無品牌、水印與不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "鉛筆輪廓配透明柔和水彩，色鉛筆顆粒疊色及米白紙紋可見；自然綠、淡藍、暖棕低彩度配色，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "人物與家居、教室、公共設施採台灣現代生活設定，服裝為一般襯衫、上衣與長短褲；成人與學童依角色區分年齡身材比例。原本簡單的搬桌工作臨時加上高大花架，搬到門口便卡住碰倒盆栽，最後大家只好停下搬運，忙著清掃與修補。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、原尺寸各幕與回想泡泡內人物頸部衣領，沒有紅領巾或紅圍巾；一般衣物及道具的紅色部位不包覆頸部。"
+    }
+  },
+  "previous_installed_original_sha256": "7de55101985a7d183074ffd24cf0c924c656584df1eb3f605994ff30d0c4c05d",
+  "previous_review_archive_path": "records/reviews/7d4b2da90feeec03d0b9226f49902e9a8f1ac9169a505fd625996e5ec55a6513.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized 512px tiles covering every source pixel; follow-up enlarged palms for200/308 and keyboard for301.",
+    "comparison_candidates": 167,
+    "comparison_method": "Seven sheets of current catalog semantic and perceptual candidates actually viewed; not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻事外復生事端。",
+    "syn": "橫生枝節",
+    "ant": "一帆風順"
+  },
+  "webp_src": "img/idioms/375-c5f97264f3f7.webp",
+  "webp_sha256": "fcc074288c9b8471fc5a98ac71d0c0ccb086fb866247ebe16008a157bea087b6"
+}

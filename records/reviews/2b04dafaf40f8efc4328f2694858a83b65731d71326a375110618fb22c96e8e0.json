@@ -1,0 +1,68 @@
+{
+  "no": 308,
+  "kind": "regenerate",
+  "word": "空前絕後",
+  "path": "/workspace/idiom-review/batch-32-unresolved-11/extracted/batch-32/308.png",
+  "original_sha256": "ffade878b4999e928f8cb57421b1057d0738ff1aaa2c24a01fb5e56313e6f820",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-32-unresolved-11",
+  "alt": "青年站在大型木製機械作品旁，作品結合齒輪、水流與鳥形構件，其他人觀看較小模型及舊機器，露出驚訝神情。",
+  "issues": [
+    "meaning: 古代簡單機具、現代廠房與巨型複合模型只有技術演進和作品更大的比較；欠缺無可比擬且難再超越的證據，仍可能只是展現複雜模型。 依教育部釋義、近反義詞核對；實際看過七張比較表共167張既有插圖候選並比對本批其他圖，未見可互換主體的幾乎相同構圖。",
+    "hands_feet_pose: 追加放大青年攤開的手掌，只辨到拇指與三根長指，未有物件遮住第五指，無法通過每手五指；另一指示手及長者托物手正常。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "古代簡單機具、現代廠房與巨型複合模型只有技術演進和作品更大的比較；欠缺無可比擬且難再超越的證據，仍可能只是展現複雜模型。 依教育部釋義、近反義詞核對；實際看過七張比較表共167張既有插圖候選並比對本批其他圖，未見可互換主體的幾乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "全圖縮圖中人物表情、主要動作及先後因果集中在清楚的主景；分幕沿視線順序閱讀，背景不掩蓋主角。古代簡單機具、現代廠房與巨型複合模型只有技術演進和作品更大的比較；欠缺無可比擬且難再超越的證據，仍可能只是展現複雜模型。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "追加放大青年攤開的手掌，只辨到拇指與三根長指，未有物件遮住第五指，無法通過每手五指；另一指示手及長者托物手正常。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "鳥翼皆連桿支撐、星球有軸杆，轉輪齒軸大致連續；流水落岩槽，無漂浮裝飾。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區檢查人物、道具、衣物、書頁、泡泡及背景，無可讀文字、字母、數字或仿字形標記；無品牌、水印與不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "鉛筆輪廓配透明柔和水彩，色鉛筆顆粒疊色及米白紙紋可見；自然綠、淡藍、暖棕低彩度配色，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "人物與家居、教室、公共設施採台灣現代生活設定，服裝為一般襯衫、上衣與長短褲；成人與學童依角色區分年齡身材比例。青年站在大型木製機械作品旁，作品結合齒輪、水流與鳥形構件，其他人觀看較小模型及舊機器，露出驚訝神情。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、原尺寸各幕與回想泡泡內人物頸部衣領，沒有紅領巾或紅圍巾；一般衣物及道具的紅色部位不包覆頸部。"
+    }
+  },
+  "previous_installed_original_sha256": "0e6bd3c8481ab01b4270fea1c961b1e80781f47846d0819cb5be6e14d1a8d9d7",
+  "previous_review_archive_path": "records/reviews/768e8e8c5924e0a7f6d962bcbef5585cf9106e3181fb60ef0a37eea1b9ea1410.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized 512px tiles covering every source pixel; follow-up enlarged palms for200/308 and keyboard for301.",
+    "comparison_candidates": 167,
+    "comparison_method": "Seven sheets of current catalog semantic and perceptual candidates actually viewed; not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻超越古今，無與倫比。",
+    "syn": "亙古未有、空前未有、無與倫比、絕無僅有、獨一無二、舉世無雙",
+    "ant": "比比皆是、司空見慣、史不絕書、多如牛毛、俯拾即是、屢見不鮮"
+  }
+}

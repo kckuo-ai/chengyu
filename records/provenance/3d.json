@@ -17000,6 +17000,20 @@
       "source_file": "355.review.json",
       "reviewer": "independent-visual-review-2026-11-24",
       "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    },
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-06",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-06/355.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
+  ],
+  "3d6f0e4254486402988d00de704a6bf1885fef5b6ddea642079210053288de41": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-33-groups-6-7-redraw-38",
+      "source_file": "354.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-24"
     }
   ]
 }

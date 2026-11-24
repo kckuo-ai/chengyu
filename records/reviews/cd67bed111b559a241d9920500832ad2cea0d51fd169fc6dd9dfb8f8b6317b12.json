@@ -1,0 +1,67 @@
+{
+  "no": 301,
+  "kind": "regenerate",
+  "word": "曲高和寡",
+  "path": "/workspace/idiom-review/batch-32-unresolved-11/extracted/batch-32/301.png",
+  "original_sha256": "8cc43589e3aaf347c7bd0ad2d1d74a65b7452ac246e0858703d03e976b502233",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-32-unresolved-11",
+  "alt": "鋼琴演奏者專注彈奏複雜樂曲，一位年長聽眾欣賞地聆聽，旁邊幾位普通觀眾卻困惑皺眉，難以理解。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "複雜彈奏手部特寫與老人陶醉欣賞，另三名一般聽者困惑互望，只有少數能共鳴而非所有人嫌棄。 依教育部釋義、近反義詞核對；實際看過七張比較表共167張既有插圖候選並比對本批其他圖，未見可互換主體的幾乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "全圖縮圖中人物表情、主要動作及先後因果集中在清楚的主景；分幕沿視線順序閱讀，背景不掩蓋主角。複雜彈奏手部特寫與老人陶醉欣賞，另三名一般聽者困惑互望，只有少數能共鳴而非所有人嫌棄。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "大特寫兩手各五指、實景雙手彈鍵姿勢自然，四聽者雙手平膝五指可數，雙腳接地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "琴蓋支桿和琴腳結構完整、椅凳支撐、指尖接琴鍵；黑白琴鍵分組需補放大確認。 追加放大確認黑鍵二、三群交替正確，兩手各五指。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區檢查人物、道具、衣物、書頁、泡泡及背景，無可讀文字、字母、數字或仿字形標記；無品牌、水印與不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "鉛筆輪廓配透明柔和水彩，色鉛筆顆粒疊色及米白紙紋可見；自然綠、淡藍、暖棕低彩度配色，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "人物與家居、教室、公共設施採台灣現代生活設定，服裝為一般襯衫、上衣與長短褲；成人與學童依角色區分年齡身材比例。鋼琴演奏者專注彈奏複雜樂曲，一位年長聽眾欣賞地聆聽，旁邊幾位普通觀眾卻困惑皺眉，難以理解。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、原尺寸各幕與回想泡泡內人物頸部衣領，沒有紅領巾或紅圍巾；一般衣物及道具的紅色部位不包覆頸部。"
+    }
+  },
+  "previous_installed_original_sha256": "1528f973996112f5e37b4bec8821a24cb37fcd7ba2b77e9c0733b75298c5bc17",
+  "previous_review_archive_path": "records/reviews/4f93a34407ba95acd93fae4096d927a37ceb4b6a0751719a5f3744245acffea7.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized 512px tiles covering every source pixel; follow-up enlarged palms for200/308 and keyboard for301.",
+    "comparison_candidates": 167,
+    "comparison_method": "Seven sheets of current catalog semantic and perceptual candidates actually viewed; not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻無法引起大眾的共鳴。",
+    "syn": "陽春白雪",
+    "ant": "一唱百和、下里巴人"
+  },
+  "webp_src": "img/idioms/301-8cc43589e3aa.webp",
+  "webp_sha256": "6533258bff51dfe58ebd0f80c47dd769b8c5f533a5ef48aab4205bb8fd0abd86"
+}

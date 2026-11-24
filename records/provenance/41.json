@@ -6527,5 +6527,20 @@
       "source_file": "review-manifest.json",
       "reviewer": "independent-visual-review-2026-11-24"
     }
+  ],
+  "41a23135425ff971dc5295bc6ba8e3ce4eea19417de16a32c4c27c72bffeed8c": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-32-33",
+      "source": "docs/illustration-prompts.json#entries/301"
+    }
+  ],
+  "41468ee2d04b7ea0be006be4afc92c853b98557de1191babc4c72b99bfd29072": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-33-groups-6-7-redraw-38",
+      "source_file": "346.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
   ]
 }

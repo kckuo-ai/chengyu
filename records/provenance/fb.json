@@ -11808,5 +11808,20 @@
       "source_file": "/workspace/idiom-review/full-audit-20261123/group-04/240.review.json",
       "reviewer": "independent-visual-review-2026-11-23"
     }
+  ],
+  "fb7d91ccf6724e7dead85e3ee41cc6474507e9dd87cd6eddc6e06032af4c8045": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-32-33",
+      "source": "docs/illustration-prompts.json#entries/355"
+    }
+  ],
+  "fba83409d820681d7142acb7c4c971a3f65a402de52c5ead3f5542be4561f018": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-33-groups-6-7-redraw-38",
+      "source_file": "412.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
   ]
 }

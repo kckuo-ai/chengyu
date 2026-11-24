@@ -9339,5 +9339,13 @@
       "path": "backup/batches/2026-11-08-855-873/alternatives/908/review.json",
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470"
     }
+  ],
+  "2b04dafaf40f8efc4328f2694858a83b65731d71326a375110618fb22c96e8e0": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-32-unresolved-11",
+      "source_file": "308.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
   ]
 }

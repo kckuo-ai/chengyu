@@ -14096,6 +14096,12 @@
       "source_file": "405.review.json",
       "reviewer": "independent-visual-review-2026-11-24",
       "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    },
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-07",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-07/405.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
     }
   ],
   "0ced576208cb3bf4b78d1b9b0ce02e12aa7fe0b4145e61bd48207e371b9f2b12": [
@@ -14105,6 +14111,20 @@
       "source_file": "419.review.json",
       "reviewer": "independent-visual-review-2026-11-24",
       "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    },
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-07",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-07/419.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
+  ],
+  "0c53f1ca782d274f4f55be8b3d33b3f66b75e0ca691c6ce2bee9501506df48cb": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-33-groups-6-7-redraw-38",
+      "source_file": "359.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
     }
   ]
 }

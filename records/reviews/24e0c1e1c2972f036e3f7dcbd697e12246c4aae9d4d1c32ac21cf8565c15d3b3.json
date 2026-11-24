@@ -1,0 +1,67 @@
+{
+  "no": 402,
+  "kind": "regenerate",
+  "word": "招搖撞騙",
+  "path": "/workspace/idiom-review/batch-33-groups-6-7-redraw-38/extracted/batch-33/402.png",
+  "original_sha256": "cdcf65df6f246f0185a265712f9e6c82448c1bce2b9e903ac3ff6d3bf5d09189",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-33-groups-6-7-redraw-38",
+  "alt": "騙徒拿著慈善工作者的肖像向民眾募集金錢，卻偷偷把硬幣放進自己口袋，真正的當事人趕到後伸手制止。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "男子拿公益負責人肖像募錢卻私吞，真正負責人出現制止，借名炫耀詐騙與普通販石不同，已刪幣上字母。 依教育部釋義、近反義詞核對；實際看過七張比較表共167張既有插圖候選並比對本批其他圖，未見可互換主體的幾乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "全圖縮圖中人物表情、主要動作及先後因果集中在清楚的主景；分幕沿視線順序閱讀，背景不掩蓋主角。男子拿公益負責人肖像募錢卻私吞，真正負責人出現制止，借名炫耀詐騙與普通販石不同，已刪幣上字母。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持肖像收錢掌、捏素幣入袋、真負責人五指制止及捐者指認手正常。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "募款箱有入口，物資圖只含食物被子無字，錢幣有手托與口袋承納，肖像板站腳架。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區檢查人物、道具、衣物、書頁、泡泡及背景，無可讀文字、字母、數字或仿字形標記；無品牌、水印與不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "鉛筆輪廓配透明柔和水彩，色鉛筆顆粒疊色及米白紙紋可見；自然綠、淡藍、暖棕低彩度配色，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "人物與家居、教室、公共設施採台灣現代生活設定，服裝為一般襯衫、上衣與長短褲；成人與學童依角色區分年齡身材比例。騙徒拿著慈善工作者的肖像向民眾募集金錢，卻偷偷把硬幣放進自己口袋，真正的當事人趕到後伸手制止。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、原尺寸各幕與回想泡泡內人物頸部衣領，沒有紅領巾或紅圍巾；一般衣物及道具的紅色部位不包覆頸部。"
+    }
+  },
+  "previous_installed_original_sha256": "8be260317c657889ae02de65539a94c5000ea66e79c3d8ac2c9e3763f5c85dd6",
+  "previous_review_archive_path": "records/reviews/998f4ca8ad7b59739e84871ccb8f547ee4518f856a4ca89e783fdd866d26451a.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized 512px tiles covering every source pixel; follow-up enlarged palms for200/308 and keyboard for301.",
+    "comparison_candidates": 167,
+    "comparison_method": "Seven sheets of current catalog semantic and perceptual candidates actually viewed; not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容借名炫耀，到處詐騙。",
+    "syn": "",
+    "ant": ""
+  },
+  "webp_src": "img/idioms/402-cdcf65df6f24.webp",
+  "webp_sha256": "5d9a4c726e1981235e298a8976b63d7e0c0a92d35c8465ee5ed3fcc4ef482dc4"
+}

@@ -1,0 +1,67 @@
+{
+  "no": 355,
+  "kind": "regenerate",
+  "word": "痛定思痛",
+  "path": "/workspace/idiom-review/batch-33-groups-6-7-redraw-38/extracted/batch-33/355.png",
+  "original_sha256": "fa922d6e710147aa01e1db67749039039344d6019994e141354087bd08e0f0af",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-33-groups-6-7-redraw-38",
+  "alt": "雨水曾從窗戶打進來弄壞畫作，孩子難過哭泣；再次看見烏雲時，他想起上次教訓，主動關窗保護新作品。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "先因未關窗讓畫作淋雨毀損而落淚，後見雨雲立即關窗護新畫，痛苦教訓導致警惕行動清楚。 依教育部釋義、近反義詞核對；實際看過七張比較表共167張既有插圖候選並比對本批其他圖，未見可互換主體的幾乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "全圖縮圖中人物表情、主要動作及先後因果集中在清楚的主景；分幕沿視線順序閱讀，背景不掩蓋主角。先因未關窗讓畫作淋雨毀損而落淚，後見雨雲立即關窗護新畫，痛苦教訓導致警惕行動清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "前幕兩手持破畫、後幕左手滑窗右掌五指護畫自然，雙鞋接地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "雨水由窗入、舊畫褪色破損，新畫遠移乾處，窗滑軌和畫架承托合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區檢查人物、道具、衣物、書頁、泡泡及背景，無可讀文字、字母、數字或仿字形標記；無品牌、水印與不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "鉛筆輪廓配透明柔和水彩，色鉛筆顆粒疊色及米白紙紋可見；自然綠、淡藍、暖棕低彩度配色，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "人物與家居、教室、公共設施採台灣現代生活設定，服裝為一般襯衫、上衣與長短褲；成人與學童依角色區分年齡身材比例。雨水曾從窗戶打進來弄壞畫作，孩子難過哭泣；再次看見烏雲時，他想起上次教訓，主動關窗保護新作品。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、原尺寸各幕與回想泡泡內人物頸部衣領，沒有紅領巾或紅圍巾；一般衣物及道具的紅色部位不包覆頸部。"
+    }
+  },
+  "previous_installed_original_sha256": "81e8502c207532b991f951972927d439349417145d500e5b706d69c56d6e039b",
+  "previous_review_archive_path": "records/reviews/3de64dcf2a9f0abf6eaf35b51ccdd97a29567ff8a7ebf3db3a40a75a78634aaf.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized 512px tiles covering every source pixel; follow-up enlarged palms for200/308 and keyboard for301.",
+    "comparison_candidates": 167,
+    "comparison_method": "Seven sheets of current catalog semantic and perceptual candidates actually viewed; not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "事後追思當時所遭之痛苦，也不知如何處理，而更加傷心。＆比喻吸取慘痛教訓，警惕未來。",
+    "syn": "",
+    "ant": "至死不悟、重蹈覆轍"
+  },
+  "webp_src": "img/idioms/355-fa922d6e7101.webp",
+  "webp_sha256": "b53b070814a4db701a17e28f05dc037ae186dc0692e4eb6e8ec85276cbdb533d"
+}

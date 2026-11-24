@@ -1,0 +1,67 @@
+{
+  "no": 216,
+  "kind": "regenerate",
+  "word": "相敬如賓",
+  "path": "/workspace/idiom-review/batch-32-unresolved-11/extracted/batch-32/216.png",
+  "original_sha256": "3819fcbcc6f763e0c86a0ce0cd95f82798be894629b9f1e21b8c1951132f443c",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-32-unresolved-11",
+  "alt": "夫妻在家中一起討論不同的布置方案，彼此傾聽並溫和交換意見，最後合作搬動長椅，牆上掛著結婚照片。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "結婚照確立夫妻，雙方先以圖像分享各自佈置想法，再微笑共同搬椅，平等商量尊重配偶而非主僕服侍。 依教育部釋義、近反義詞核對；實際看過七張比較表共167張既有插圖候選並比對本批其他圖，未見可互換主體的幾乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "全圖縮圖中人物表情、主要動作及先後因果集中在清楚的主景；分幕沿視線順序閱讀，背景不掩蓋主角。結婚照確立夫妻，雙方先以圖像分享各自佈置想法，再微笑共同搬椅，平等商量尊重配偶而非主僕服侍。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "兩人攤掌指圖及共同扶椅四手正常五指或椅沿遮住，肩肘連續、雙鞋著地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "圖板放櫃面、椅子四腳接地，花盆燈架穩固，扶椅不是懸空拉抬。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區檢查人物、道具、衣物、書頁、泡泡及背景，無可讀文字、字母、數字或仿字形標記；無品牌、水印與不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "鉛筆輪廓配透明柔和水彩，色鉛筆顆粒疊色及米白紙紋可見；自然綠、淡藍、暖棕低彩度配色，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "人物與家居、教室、公共設施採台灣現代生活設定，服裝為一般襯衫、上衣與長短褲；成人與學童依角色區分年齡身材比例。夫妻在家中一起討論不同的布置方案，彼此傾聽並溫和交換意見，最後合作搬動長椅，牆上掛著結婚照片。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、原尺寸各幕與回想泡泡內人物頸部衣領，沒有紅領巾或紅圍巾；一般衣物及道具的紅色部位不包覆頸部。"
+    }
+  },
+  "previous_installed_original_sha256": "b52ecaf831b202c0b14b28274c386332b47f6bdb5cc9b51d2a068080c7d5d198",
+  "previous_review_archive_path": "records/reviews/6a5916e04b0699f85d12a1d01d13e48c2c9d2b0fb0cdfa437e6ed47efa6b62e1.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized 512px tiles covering every source pixel; follow-up enlarged palms for200/308 and keyboard for301.",
+    "comparison_candidates": 167,
+    "comparison_method": "Seven sheets of current catalog semantic and perceptual candidates actually viewed; not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容夫妻間相處融洽，互相敬愛。褒義。",
+    "syn": "舉案齊眉、琴瑟和鳴",
+    "ant": "琴瑟不和"
+  },
+  "webp_src": "img/idioms/216-3819fcbcc6f7.webp",
+  "webp_sha256": "e472ddfc968a7effa439fce3a508f183698a780ecd2ce05039649576b1a9ad9a"
+}

@@ -1,0 +1,67 @@
+{
+  "no": 412,
+  "kind": "regenerate",
+  "word": "覆水難收",
+  "path": "/workspace/idiom-review/batch-33-groups-6-7-redraw-38/extracted/batch-33/412.png",
+  "original_sha256": "24c97d3d7544b627689eb1f698dacebb725d9429c2e3664753c36d677e0813b5",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-33-groups-6-7-redraw-38",
+  "alt": "男子盛怒下剪碎自己完成的作品，冷靜後想把紙片重新拼回，卻發現重要部分已經缺失，懊悔地看著殘破畫面。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "男子親手怒剪完整畫作，後悔想拼回卻缺碎片、割痕無法抹去，既成後果難恢復比單倒水明確。 依教育部釋義、近反義詞核對；實際看過七張比較表共167張既有插圖候選並比對本批其他圖，未見可互換主體的幾乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "全圖縮圖中人物表情、主要動作及先後因果集中在清楚的主景；分幕沿視線順序閱讀，背景不掩蓋主角。男子親手怒剪完整畫作，後悔想拼回卻缺碎片、割痕無法抹去，既成後果難恢復比單倒水明確。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "握剪和捏畫、後幕雙手拼紙指節自然，手腕接肩，桌後下身遮擋。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "剪刀刀片對切口、碎片圖案對原花園，拼合仍有缺失不是自動復原，畫紙受桌支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區檢查人物、道具、衣物、書頁、泡泡及背景，無可讀文字、字母、數字或仿字形標記；無品牌、水印與不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "鉛筆輪廓配透明柔和水彩，色鉛筆顆粒疊色及米白紙紋可見；自然綠、淡藍、暖棕低彩度配色，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "人物與家居、教室、公共設施採台灣現代生活設定，服裝為一般襯衫、上衣與長短褲；成人與學童依角色區分年齡身材比例。男子盛怒下剪碎自己完成的作品，冷靜後想把紙片重新拼回，卻發現重要部分已經缺失，懊悔地看著殘破畫面。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、原尺寸各幕與回想泡泡內人物頸部衣領，沒有紅領巾或紅圍巾；一般衣物及道具的紅色部位不包覆頸部。"
+    }
+  },
+  "previous_installed_original_sha256": "4696bd0e9ce19509f58349b63482d905c983b8cd5bb603a530d61217c2532afe",
+  "previous_review_archive_path": "records/reviews/311a6e8a0871dd5ca11ae78ef68e95584552a6db808563156b45432bf44cff5a.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized 512px tiles covering every source pixel; follow-up enlarged palms for200/308 and keyboard for301.",
+    "comparison_candidates": 167,
+    "comparison_method": "Seven sheets of current catalog semantic and perceptual candidates actually viewed; not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻離異的夫妻很難再復合。 ＆比喻既定的事實很難再改變。",
+    "syn": "木已成舟、反水不收、生米煮成熟飯",
+    "ant": "破鏡重圓"
+  },
+  "webp_src": "img/idioms/412-24c97d3d7544.webp",
+  "webp_sha256": "aafa7ee1236dc5cdf216392561261cc48fb4694805f6fa17df6137fc7558434e"
+}

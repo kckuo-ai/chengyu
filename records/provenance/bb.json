@@ -8233,5 +8233,28 @@
       "source_file": "292.metadata.json",
       "reviewer": "independent-visual-review-2026-11-24"
     }
+  ],
+  "bb2f23d8f66a6810ed717b187c13f93e9f723dfc99ddd009792578c57d3e4d69": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-32-unresolved-11",
+      "source_file": "216.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
+  ],
+  "bb0cea4a7774011f66ac5d557c82220c4a3d15313797579e5b8104e982bc6424": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-32-unresolved-11",
+      "source_file": "295.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
+  ],
+  "bbe8bcd3a198bc5f5db6d206394245bda52241539f2905e3e167cd2c563810ae": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-32-33",
+      "source": "docs/illustration-prompts.json#entries/360"
+    }
   ]
 }

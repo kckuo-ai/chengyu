@@ -9969,6 +9969,19 @@
       "source_file": "362.review.json",
       "reviewer": "independent-visual-review-2026-11-24",
       "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    },
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-06",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-06/362.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
+  ],
+  "80620e424c001bb8332188d6535d714224145b3a8991a3e5dcd8dfaaf27755aa": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-32-33",
+      "source": "docs/illustration-prompts.json#entries/397"
     }
   ]
 }

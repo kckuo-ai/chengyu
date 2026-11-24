@@ -11989,6 +11989,27 @@
       "source_file": "397.review.json",
       "reviewer": "independent-visual-review-2026-11-24",
       "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    },
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-07",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-07/397.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
+  ],
+  "fa1963a22b2fe4505ce7a2bb7f40b6dd14080a9d93ac2e221dcd66883108758c": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-32-33",
+      "source": "docs/illustration-prompts.json#entries/368"
+    }
+  ],
+  "fa8a9805a66841e01928e31c2871935abca73aa794163fabf19fcf4a41352f0b": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-33-groups-6-7-redraw-38",
+      "source_file": "434.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
     }
   ]
 }

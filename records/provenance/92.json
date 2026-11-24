@@ -10673,6 +10673,12 @@
       "source_file": "360.review.json",
       "reviewer": "independent-visual-review-2026-11-24",
       "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    },
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-06",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-06/360.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
     }
   ],
   "92c45c7ec9083666903903740ffb6552550e359610ffb2ae4daad5b8bc404c84": [
@@ -10691,6 +10697,19 @@
       "source_file": "406.review.json",
       "reviewer": "independent-visual-review-2026-11-24",
       "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    },
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-07",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-07/406.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
+  ],
+  "92966dca339274ba1d540b61c80b42ba2953d92541e1b14106fba0ad1729dd8a": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-32-33",
+      "source": "docs/illustration-prompts.json#entries/364"
     }
   ]
 }

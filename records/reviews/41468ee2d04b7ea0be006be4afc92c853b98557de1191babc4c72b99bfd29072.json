@@ -1,0 +1,67 @@
+{
+  "no": 346,
+  "kind": "regenerate",
+  "word": "望眼欲穿",
+  "path": "/workspace/idiom-review/batch-33-groups-6-7-redraw-38/extracted/batch-33/346.png",
+  "original_sha256": "1f2752b059b89e111d3fa8fa16126bffe6e7c9396589e964feeeaf5280767e49",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-33-groups-6-7-redraw-38",
+  "alt": "女子坐在窗邊反覆望向門外，從白天等到夜晚，身旁備好的兩份餐點逐漸冷卻，照片顯示她正等候親近的人。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "兩副飯菜與合照交代等待親人，女子從白天到夜裡仍抓窗框往外探望，長久盼望清楚。 依教育部釋義、近反義詞核對；實際看過七張比較表共167張既有插圖候選並比對本批其他圖，未見可互換主體的幾乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "全圖縮圖中人物表情、主要動作及先後因果集中在清楚的主景；分幕沿視線順序閱讀，背景不掩蓋主角。兩副飯菜與合照交代等待親人，女子從白天到夜裡仍抓窗框往外探望，長久盼望清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "兩幕扶框與窗臺五指自然，兩臂接肩，下半身由餐桌椅擋住、可見鞋落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "窗扇滑軌門把連接自然，碗筷桌椅花瓶有支撐，窗外水塔機車棚為台灣現代住宅。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區檢查人物、道具、衣物、書頁、泡泡及背景，無可讀文字、字母、數字或仿字形標記；無品牌、水印與不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "鉛筆輪廓配透明柔和水彩，色鉛筆顆粒疊色及米白紙紋可見；自然綠、淡藍、暖棕低彩度配色，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "人物與家居、教室、公共設施採台灣現代生活設定，服裝為一般襯衫、上衣與長短褲；成人與學童依角色區分年齡身材比例。女子坐在窗邊反覆望向門外，從白天等到夜晚，身旁備好的兩份餐點逐漸冷卻，照片顯示她正等候親近的人。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、原尺寸各幕與回想泡泡內人物頸部衣領，沒有紅領巾或紅圍巾；一般衣物及道具的紅色部位不包覆頸部。"
+    }
+  },
+  "previous_installed_original_sha256": "2ac3b84acdb208e8fd6e45ac5e2e84f9d2632b0f65213debfbc26ac89e825285",
+  "previous_review_archive_path": "records/reviews/4cc72ed8a2ff099773930ac03d68a170b759a68900fb1364a7eedf44ec188c4f.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized 512px tiles covering every source pixel; follow-up enlarged palms for200/308 and keyboard for301.",
+    "comparison_candidates": 167,
+    "comparison_method": "Seven sheets of current catalog semantic and perceptual candidates actually viewed; not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容盼望極其深切。",
+    "syn": "望穿秋水、眼穿腸斷",
+    "ant": "不聞不問、無動於衷、漠不關心、漠然置之"
+  },
+  "webp_src": "img/idioms/346-1f2752b059b8.webp",
+  "webp_sha256": "16a2cbc4413d80c26ca4df5a2be067f366d28b71c5fec6668dbdd99aacb29d6a"
+}

@@ -1,0 +1,67 @@
+{
+  "no": 405,
+  "kind": "regenerate",
+  "word": "懸崖勒馬",
+  "path": "/workspace/idiom-review/batch-33-groups-6-7-redraw-38/extracted/batch-33/405.png",
+  "original_sha256": "5be49ec7043f073a46948d8ab5e6b7a01d360e2db80d8821f6e58c39d23e4b96",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-33-groups-6-7-redraw-38",
+  "alt": "騎車者發現前方橋面斷裂，立即煞車並用雙腳站穩，接著轉身牽車離開危險邊緣，改走安全的方向。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "騎士發現斷橋及時雙腳煞停，再牽車回頭走安全路，危險邊緣收手明確而非古裝字面。 依教育部釋義、近反義詞核對；實際看過七張比較表共167張既有插圖候選並比對本批其他圖，未見可互換主體的幾乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "全圖縮圖中人物表情、主要動作及先後因果集中在清楚的主景；分幕沿視線順序閱讀，背景不掩蓋主角。騎士發現斷橋及時雙腳煞停，再牽車回頭走安全路，危險邊緣收手明確而非古裝字面。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "雙手握把五指或把手遮住自然，前幕雙腳踏地後幕牽車一前一後，臂接肩。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "煞車把連纜、前後輪鏈條車架連續，車有手扶不會無支撐，斷橋露筋石塊合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區檢查人物、道具、衣物、書頁、泡泡及背景，無可讀文字、字母、數字或仿字形標記；無品牌、水印與不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "鉛筆輪廓配透明柔和水彩，色鉛筆顆粒疊色及米白紙紋可見；自然綠、淡藍、暖棕低彩度配色，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "人物與家居、教室、公共設施採台灣現代生活設定，服裝為一般襯衫、上衣與長短褲；成人與學童依角色區分年齡身材比例。騎車者發現前方橋面斷裂，立即煞車並用雙腳站穩，接著轉身牽車離開危險邊緣，改走安全的方向。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、原尺寸各幕與回想泡泡內人物頸部衣領，沒有紅領巾或紅圍巾；一般衣物及道具的紅色部位不包覆頸部。"
+    }
+  },
+  "previous_installed_original_sha256": "655fad0bad12481b9dc2cea0ae866c7f885749a86d946399399067d916768147",
+  "previous_review_archive_path": "records/reviews/0ce843280ed23e807f82b14ba4a06a9456ee9db8cdf35334e0138b41974aa877.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized 512px tiles covering every source pixel; follow-up enlarged palms for200/308 and keyboard for301.",
+    "comparison_candidates": 167,
+    "comparison_method": "Seven sheets of current catalog semantic and perceptual candidates actually viewed; not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻到了危險的邊緣而及時回頭。",
+    "syn": "浪子回頭、迷途知返",
+    "ant": "至死不悟、執迷不悟"
+  },
+  "webp_src": "img/idioms/405-5be49ec7043f.webp",
+  "webp_sha256": "38b76ab27258a7ea40eb5a7e398815be114fae4b1b6b72fc92a38c82a279e6aa"
+}

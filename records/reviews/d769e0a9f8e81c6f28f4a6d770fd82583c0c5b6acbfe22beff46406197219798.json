@@ -1,0 +1,67 @@
+{
+  "no": 200,
+  "kind": "regenerate",
+  "word": "作威作福",
+  "path": "/workspace/idiom-review/batch-32-unresolved-11/extracted/batch-32/200.png",
+  "original_sha256": "a672895ee1f6337ac14c819b282f7d7f69129be2b84782d1f9c9fb18140e02b5",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-32-unresolved-11",
+  "alt": "管理倉庫的人掌握鑰匙，把工具交給討好自己的人，卻命令旁邊兩人辛苦搬運重箱，自己悠閒站著指揮。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "掌鑰匙者偏袒討好者給工具，卻對其他人頤指氣使，讓兩人搬重箱而寵信者閒站，濫權欺人清楚。 依教育部釋義、近反義詞核對；實際看過七張比較表共167張既有插圖候選並比對本批其他圖，未見可互換主體的幾乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "全圖縮圖中人物表情、主要動作及先後因果集中在清楚的主景；分幕沿視線順序閱讀，背景不掩蓋主角。掌鑰匙者偏袒討好者給工具，卻對其他人頤指氣使，讓兩人搬重箱而寵信者閒站，濫權欺人清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "追加放大倉庫上幕：女子後手拇指與四根長指可分辨，前手側面重疊自然；男子攤掌和管理者握鑰匙皆五指結構。下幕搬箱雙人雙臂連肩、屈膝雙鞋著地，無多餘肢體。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "工具箱由桌面承托，重箱由兩端托底，倉庫門鎖鑰匙及摺椅結構自然。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區檢查人物、道具、衣物、書頁、泡泡及背景，無可讀文字、字母、數字或仿字形標記；無品牌、水印與不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "鉛筆輪廓配透明柔和水彩，色鉛筆顆粒疊色及米白紙紋可見；自然綠、淡藍、暖棕低彩度配色，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "人物與家居、教室、公共設施採台灣現代生活設定，服裝為一般襯衫、上衣與長短褲；成人與學童依角色區分年齡身材比例。管理倉庫的人掌握鑰匙，把工具交給討好自己的人，卻命令旁邊兩人辛苦搬運重箱，自己悠閒站著指揮。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、原尺寸各幕與回想泡泡內人物頸部衣領，沒有紅領巾或紅圍巾；一般衣物及道具的紅色部位不包覆頸部。"
+    }
+  },
+  "previous_installed_original_sha256": "3283db4ae6d2ebf4f64ddd5b0cb4663718fca51c062d678b37b5ad37a31f9237",
+  "previous_review_archive_path": "records/reviews/b762bcdf0bca79c7c7144dd3965e45a76c1819e9d30bfe677e6747dcf9229c1e.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized 512px tiles covering every source pixel; follow-up enlarged palms for200/308 and keyboard for301.",
+    "comparison_candidates": 167,
+    "comparison_method": "Seven sheets of current catalog semantic and perceptual candidates actually viewed; not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "仗著權勢欺壓別人。貶義。",
+    "syn": "飛揚跋扈、無法無天、橫行霸道、耀武揚威",
+    "ant": "為民請命、愛民如子"
+  },
+  "webp_src": "img/idioms/200-a672895ee1f6.webp",
+  "webp_sha256": "a4f37c4dbf2d85554b6658f230625cd1430aa52e7af11945ff680cc67254257b"
+}

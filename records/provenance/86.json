@@ -14342,5 +14342,20 @@
       "source_file": "256.metadata.json",
       "reviewer": "independent-visual-review-2026-11-24"
     }
+  ],
+  "867e8becc2bc4193188dcd125b31858b159593aeb998f9cabd62f9f6a1e40d6a": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-32-unresolved-11",
+      "source_file": "216.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
+  ],
+  "865057b9fe7699ba3c14bfd636e229d2545d6038e4f27c8b00ace2b819e1b35a": [
+    {
+      "kind": "current_main_record",
+      "batch": "batches-32-33",
+      "source": "docs/illustration-prompts.json#entries/340"
+    }
   ]
 }

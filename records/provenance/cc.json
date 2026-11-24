@@ -5756,6 +5756,20 @@
       "source_file": "417.review.json",
       "reviewer": "independent-visual-review-2026-11-24",
       "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    },
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-07",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-07/417.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
+  ],
+  "cc11549ae4242ed248be6deeb879f7c8e2e33d1ca48a2b9fd22519b18d8a4a59": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-33-groups-6-7-redraw-38",
+      "source_file": "373.metadata.json",
+      "reviewer": "independent-visual-review-2026-11-24"
     }
   ]
 }

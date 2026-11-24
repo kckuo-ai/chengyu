@@ -1,0 +1,67 @@
+{
+  "no": 108,
+  "kind": "regenerate",
+  "word": "目不識丁",
+  "path": "/workspace/idiom-review/batch-32-unresolved-11/extracted/batch-32/108.png",
+  "original_sha256": "516147a0b569984863f38f772735bc22cbc4ac45cbfc1183f1dc5dfa580f2464",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-32-unresolved-11",
+  "alt": "成人在教室裡對著書本與簡單字卡露出困惑神情，老師換拿蘋果和水果圖片後，他才露出認得物品的表情。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一成人連書本及基本字卡都看不懂，換真蘋果及蘋果圖立刻指認；正式教學中認物卻不識字的對照清楚。 依教育部釋義、近反義詞核對；實際看過七張比較表共167張既有插圖候選並比對本批其他圖，未見可互換主體的幾乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "全圖縮圖中人物表情、主要動作及先後因果集中在清楚的主景；分幕沿視線順序閱讀，背景不掩蓋主角。同一成人連書本及基本字卡都看不懂，換真蘋果及蘋果圖立刻指認；正式教學中認物卻不識字的對照清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "三幕指書、扶卡、指兩蘋果各手五指或持物遮蔽自然；老師第二幕指手在卡另一側，雙方鞋著地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "書是正常雙頁、字卡背向鏡頭；指示手沒有指空白卡背，蘋果落桌、椅腳穩固。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區檢查人物、道具、衣物、書頁、泡泡及背景，無可讀文字、字母、數字或仿字形標記；無品牌、水印與不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "鉛筆輪廓配透明柔和水彩，色鉛筆顆粒疊色及米白紙紋可見；自然綠、淡藍、暖棕低彩度配色，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "人物與家居、教室、公共設施採台灣現代生活設定，服裝為一般襯衫、上衣與長短褲；成人與學童依角色區分年齡身材比例。成人在教室裡對著書本與簡單字卡露出困惑神情，老師換拿蘋果和水果圖片後，他才露出認得物品的表情。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、原尺寸各幕與回想泡泡內人物頸部衣領，沒有紅領巾或紅圍巾；一般衣物及道具的紅色部位不包覆頸部。"
+    }
+  },
+  "previous_installed_original_sha256": "9b1f3302104e0049c46f58daa5a4dbef4930ea1515a1c9ee800a3ed6bec4a87b",
+  "previous_review_archive_path": "records/reviews/e88c1f160f256ad40f541e6846c88fcd841ac71ee0b69a7823c0aa004aaa9fdd.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized 512px tiles covering every source pixel; follow-up enlarged palms for200/308 and keyboard for301.",
+    "comparison_candidates": 167,
+    "comparison_method": "Seven sheets of current catalog semantic and perceptual candidates actually viewed; not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻不識字或毫無學問。",
+    "syn": "不識之無、目不知書、胸無點墨",
+    "ant": "知書識禮、滿腹經綸、學富五車、識文斷字"
+  },
+  "webp_src": "img/idioms/108-516147a0b569.webp",
+  "webp_sha256": "a96f968126fbc8a49366feaef2ff50235805bd7b2a39795f5e66fa416c0c4f72"
+}

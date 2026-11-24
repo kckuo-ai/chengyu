@@ -8925,6 +8925,20 @@
       "source_file": "354.review.json",
       "reviewer": "independent-visual-review-2026-11-24",
       "reviewed_main": "68537ff07fa283f34fe7ff78580fa1da0f508b38"
+    },
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-06",
+      "source_file": "/workspace/idiom-review/full-audit-20261123/group-06/354.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
+  ],
+  "00eb72d98f097d04cde8133e4daf62e832f4cfe6f4dc30c8a0c2fb2a68cca91f": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-33-groups-6-7-redraw-38",
+      "source_file": "368.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
     }
   ]
 }

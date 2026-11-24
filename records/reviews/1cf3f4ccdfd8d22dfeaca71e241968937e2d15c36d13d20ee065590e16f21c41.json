@@ -1,0 +1,67 @@
+{
+  "no": 418,
+  "kind": "regenerate",
+  "word": "束手無策",
+  "path": "/workspace/idiom-review/batch-33-groups-6-7-redraw-38/extracted/batch-33/418.png",
+  "original_sha256": "e1ded5967b92523d2404b32ebb953e77cfe8329e4eaffbbe75defd444bbbbd2e",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-33-groups-6-7-redraw-38",
+  "alt": "腳踏車的鏈條脫落，車身靠著樹幹並以支架支撐，孩子看著故障處攤開雙手，焦急地站著，想不出修理方法。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "脫鏈修不好、工具拿出仍無法下手，男孩蹲著攤掌無助，毫無解法清楚。 依教育部釋義、近反義詞核對；實際看過七張比較表共167張既有插圖候選並比對本批其他圖，未見可互換主體的幾乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "全圖縮圖中人物表情、主要動作及先後因果集中在清楚的主景；分幕沿視線順序閱讀，背景不掩蓋主角。脫鏈修不好、工具拿出仍無法下手，男孩蹲著攤掌無助，毫無解法清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "雙掌五指可數、蹲姿兩腳踏地，腕肘肩自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "腳踏車明確靠樹且有落地側架，鏈條脫落是故障，工具和布在地，原支撐問題已修。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區檢查人物、道具、衣物、書頁、泡泡及背景，無可讀文字、字母、數字或仿字形標記；無品牌、水印與不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "鉛筆輪廓配透明柔和水彩，色鉛筆顆粒疊色及米白紙紋可見；自然綠、淡藍、暖棕低彩度配色，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "人物與家居、教室、公共設施採台灣現代生活設定，服裝為一般襯衫、上衣與長短褲；成人與學童依角色區分年齡身材比例。腳踏車的鏈條脫落，車身靠著樹幹並以支架支撐，孩子看著故障處攤開雙手，焦急地站著，想不出修理方法。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、原尺寸各幕與回想泡泡內人物頸部衣領，沒有紅領巾或紅圍巾；一般衣物及道具的紅色部位不包覆頸部。"
+    }
+  },
+  "previous_installed_original_sha256": "9c2cb09c9efe407fe58d0ad1b9bb0e1fed2bd2cfa0b2e2aa48a1db5e15ff0385",
+  "previous_review_archive_path": "records/reviews/6bfb258600315c1b7e16f7e88abb119708e491276d708a93d85065dea906257b.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized 512px tiles covering every source pixel; follow-up enlarged palms for200/308 and keyboard for301.",
+    "comparison_candidates": 167,
+    "comparison_method": "Seven sheets of current catalog semantic and perceptual candidates actually viewed; not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻面對問題時，毫無解決的辦法。",
+    "syn": "一籌莫展、手足無措、計無所出、無計可施",
+    "ant": "急中生智、計出萬全、胸有成竹、錦囊妙計、應付裕如"
+  },
+  "webp_src": "img/idioms/418-e1ded5967b92.webp",
+  "webp_sha256": "7725f4b4de40c9099f1740330fb4f356048fadae1a67d45703a755464a210973"
+}

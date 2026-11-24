@@ -12460,5 +12460,13 @@
       "source_file": "/workspace/idiom-review/full-audit-20261123/group-03/191.review.json",
       "reviewer": "independent-visual-review-2026-11-23"
     }
+  ],
+  "6dd361c45086e67f12a42f2f30f704b365938994f13beb75d7249cc482b92eac": [
+    {
+      "kind": "git_zip_member",
+      "commit": "edce38a197cfdc9825b4b3c1c5728da22436bbe2",
+      "zip_path": "batch-32-unresolved-11.zip",
+      "member": "batch-32/manifest.json"
+    }
   ]
 }

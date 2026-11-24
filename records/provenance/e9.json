@@ -11504,5 +11504,21 @@
       "source_file": "/workspace/idiom-review/full-audit-20261123/group-04/233.review.json",
       "reviewer": "independent-visual-review-2026-11-23"
     }
+  ],
+  "e9634846cbf001fc8d5603e901d6ef892d180c63c925c28068c49b65ca3db43e": [
+    {
+      "kind": "git_zip_member",
+      "commit": "d5beb1d79b31e818e86d9dcfba5b7a8f39007239",
+      "zip_path": "batch-33-groups-6-7-redraw-38.zip",
+      "member": "batch-33/manifest.json"
+    }
+  ],
+  "e9f695809d2e5a1e7dac5b91d712903a508cddb57b0aff77ad0aa8fb1ae4b25a": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-33-groups-6-7-redraw-38",
+      "source_file": "406.review.json",
+      "reviewer": "independent-visual-review-2026-11-24"
+    }
   ]
 }

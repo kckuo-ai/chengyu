@@ -1,0 +1,67 @@
+{
+  "no": 393,
+  "kind": "regenerate",
+  "word": "走投無路",
+  "path": "/workspace/idiom-review/batch-33-groups-6-7-redraw-38/extracted/batch-33/393.png",
+  "original_sha256": "906056d183d61fac75ecb8264e6ac3a21a021c1552076d63d5682050319186fb",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-33-groups-6-7-redraw-38",
+  "alt": "男子面對用盡的材料、緊閉的店門與被阻斷的道路，接連嘗試都找不到可行辦法，最後焦急地停在原地。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "備料全空、購買店關門、道路封死三個方案都受阻，三人焦急攤掌扶額，窘迫無路可行明確。 依教育部釋義、近反義詞核對；實際看過七張比較表共167張既有插圖候選並比對本批其他圖，未見可互換主體的幾乎相同構圖。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "全圖縮圖中人物表情、主要動作及先後因果集中在清楚的主景；分幕沿視線順序閱讀，背景不掩蓋主角。備料全空、購買店關門、道路封死三個方案都受阻，三人焦急攤掌扶額，窘迫無路可行明確。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "中間雙攤掌五指、指箱扶桌及扶額手正常，身下桌後裁切。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "空箱折板與器具托盤桌面支撐正常，泡泡路障和鐵門無叉字；紙只含器物圖。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區檢查人物、道具、衣物、書頁、泡泡及背景，無可讀文字、字母、數字或仿字形標記；無品牌、水印與不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "鉛筆輪廓配透明柔和水彩，色鉛筆顆粒疊色及米白紙紋可見；自然綠、淡藍、暖棕低彩度配色，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "人物與家居、教室、公共設施採台灣現代生活設定，服裝為一般襯衫、上衣與長短褲；成人與學童依角色區分年齡身材比例。男子面對用盡的材料、緊閉的店門與被阻斷的道路，接連嘗試都找不到可行辦法，最後焦急地停在原地。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、原尺寸各幕與回想泡泡內人物頸部衣領，沒有紅領巾或紅圍巾；一般衣物及道具的紅色部位不包覆頸部。"
+    }
+  },
+  "previous_installed_original_sha256": "ed30ef3c31d9e1e889d7cb03f9c0b5c3c1b6d0eb5d177ff5ba1b341743a23694",
+  "previous_review_archive_path": "records/reviews/6736843c196ecc42b74f3f5faea4a81053ccb5f62afa21b06ff1f18c6268292f.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized 512px tiles covering every source pixel; follow-up enlarged palms for200/308 and keyboard for301.",
+    "comparison_candidates": 167,
+    "comparison_method": "Seven sheets of current catalog semantic and perceptual candidates actually viewed; not a fresh audit of all1466."
+  },
+  "meaning_reference": {
+    "moe_meaning": "形容處境窘困。",
+    "syn": "山窮水盡、日暮途窮、窮途末路",
+    "ant": "柳暗花明、絕處逢生"
+  },
+  "webp_src": "img/idioms/393-906056d183d6.webp",
+  "webp_sha256": "4ce4a4dc5bd3f4014820d0053589cf02faba79b39c009660444efd6713ed5b45"
+}
