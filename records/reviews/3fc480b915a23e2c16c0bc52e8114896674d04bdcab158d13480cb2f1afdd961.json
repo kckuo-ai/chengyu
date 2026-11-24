@@ -1,0 +1,71 @@
+{
+  "no": 308,
+  "kind": "regenerate",
+  "word": "空前絕後",
+  "path": "/workspace/idiom-review/batch-34-redraw-308/extracted/batch-34/308.png",
+  "original_sha256": "2ad909c6d8bbbfcb0bd19368cbb951c4278e0b4523daef003aa790e849f26f79",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-24",
+  "review_batch": "batch-34-redraw-308",
+  "alt": "展場中央立著精密木雕花卉屏風，兩位資深工匠拿著破裂小樣驚嘆比較，牆上並列歷代屏風圖與老木枯朽後僅剩餘料的景象。",
+  "issues": [
+    "meaning: 三幅舊屏風、兩位資深工匠失敗的斷裂樣片、中央完整細密雕屏與枯木餘料，比單純較大機械模型更能呈現超越古今的成就；然而另實際全圖對照現行397登峰造極，兩圖均以中央巨幅花卉折屏、兩側工匠拿小樣比較為核心，僅換木雕／刺繡材質、人物數量及背景，縮圖故事模板近似，依重複構圖規則meaning不通過。亦實際看過6張近義反義及視覺候選，並比對第8組50張，其他未見近重複。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "三幅舊屏風、兩位資深工匠失敗的斷裂樣片、中央完整細密雕屏與枯木餘料，比單純較大機械模型更能呈現超越古今的成就；然而另實際全圖對照現行397登峰造極，兩圖均以中央巨幅花卉折屏、兩側工匠拿小樣比較為核心，僅換木雕／刺繡材質、人物數量及背景，縮圖故事模板近似，依重複構圖規則meaning不通過。亦實際看過6張近義反義及視覺候選，並比對第8組50張，其他未見近重複。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "完整雕屏居中、兩位前景人物位於下方兩角，左牆歷代圖、右牆木料來源圖形成清楚對照，手機尺寸主體清楚。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "全圖及六塊原尺寸裁切逐人看過：左側長者兩手各有四根曲指與背側拇指夾住斷片；右側長者桌上手清楚五指、另一手四曲指與拇指托樣片。肩肘腕連續，只有四隻手，兩人下身被桌遮住，無多腿或不自然懸空姿勢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "雕屏以連續轉角立柱、底座與厚足接地承重，花葉鏤雕連接邊框；斷樣片在指間或桌面，照片掛牆，枯木為平面圖像，燈具連接頂部軌道，無漂浮構件。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "原尺寸檢查雕屏花紋、牆上四幅圖、衣物與碎片，未見文字、字母、數字、仿字符號、品牌、水印或不適內容。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "鉛筆輪廓、柔和透明暖棕水彩、色鉛筆顆粒與米白紙紋可見；自然低彩度綠藍背景，非鮮豔扁平或3D。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "展館鋁框窗外可見現代磚牆與方形建築，兩位年長工匠穿素面襯衫長褲，台灣現代工藝展生活設定成立；無兒童，成人比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐看兩位長者頸部：左側灰藍襯衫開領、右側草綠無領上衣，皆未戴紅領巾或紅圍巾。"
+    }
+  },
+  "previous_installed_original_sha256": "0e6bd3c8481ab01b4270fea1c961b1e80781f47846d0819cb5be6e14d1a8d9d7",
+  "previous_review_archive_path": "records/reviews/768e8e8c5924e0a7f6d962bcbef5585cf9106e3181fb60ef0a37eea1b9ea1410.json",
+  "previous_rejected_candidate_review_archive_path": "records/reviews/2b04dafaf40f8efc4328f2694858a83b65731d71326a375110618fb22c96e8e0.json",
+  "inspection": {
+    "full_image": true,
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "detail_crops": "Six unresized512px tiles cover every original pixel.",
+    "comparison_candidates": 6,
+    "extra_full_comparisons": [
+      397
+    ],
+    "comparison_method": "One sheet of6 current perceptual/semantic candidates and full current397 actually viewed, plus current group08 images."
+  },
+  "meaning_reference": {
+    "moe_meaning": "比喻超越古今，無與倫比。",
+    "syn": "亙古未有、空前未有、無與倫比、絕無僅有、獨一無二、舉世無雙",
+    "ant": "比比皆是、司空見慣、史不絕書、多如牛毛、俯拾即是、屢見不鮮"
+  }
+}

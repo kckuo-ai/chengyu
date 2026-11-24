@@ -3532,5 +3532,26 @@
       }
     ],
     "lfs_oid_sha256": "5275ee04654684a390852888cc92f65455900603ee0218bbf780fe334abe8d89"
+  },
+  {
+    "blob": "0195b9d308f606e2f14589c034b741d2c127372a",
+    "path": "batch-34-redraw-308.zip",
+    "commit": "dacb94f187087f8a5999f733b0de0b1092aa1889",
+    "bytes": 3605160,
+    "sha256": "7b0c86aada1dcf248f0c55a78d1cba34280495be879bf9c861ca3a177a99fae7",
+    "git_blob_is_lfs_pointer": false,
+    "members": [
+      {
+        "member": "batch-34/308.png",
+        "sha256": "2ad909c6d8bbbfcb0bd19368cbb951c4278e0b4523daef003aa790e849f26f79",
+        "kind": "original"
+      },
+      {
+        "member": "batch-34/manifest.json",
+        "sha256": "8a19f710a0c8030da40fe667a887b863f481fcbb9b78b449257018bb18767c80",
+        "kind": "record",
+        "record_path": "records/source/8a19f710a0c8030da40fe667a887b863f481fcbb9b78b449257018bb18767c80.json"
+      }
+    ]
   }
 ]
