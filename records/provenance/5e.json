@@ -11996,5 +11996,14 @@
       "commit": "346aea24ec4305f8c2b22a60f11b7bc896f4c470",
       "path": "backup/batches/2026-11-08-855-873/SHA256SUMS"
     }
+  ],
+  "5eb7857d4a72716eba61bd737caab5d662f7bbcc90414d57277fa1cb3af81d11": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-09",
+      "source_file": "493.review.json",
+      "reviewer": "independent-visual-review-2026-11-25",
+      "reviewed_main": "6cf48046a58b4e50a6d622b6555b3d9f284e2b9a"
+    }
   ]
 }

@@ -1,0 +1,95 @@
+{
+  "no": 528,
+  "kind": "existing",
+  "word": "兵不血刃",
+  "path": "/workspace/chengyu-preservation/originals/6b3de7533f978822f4de6dfc4dad15cf841e06be7692c94efe9ee47633a542f9.png",
+  "original_sha256": "6b3de7533f978822f4de6dfc4dad15cf841e06be7692c94efe9ee47633a542f9",
+  "original_available": true,
+  "review_source_sha256": "6b3de7533f978822f4de6dfc4dad15cf841e06be7692c94efe9ee47633a542f9",
+  "webp_src": "img/idioms/528.webp",
+  "webp_sha256": "381c2c4414a8b93158b27ab74c366d08be66075642c4e9fbbe2219bd9ead89f4",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-25",
+  "review_batch": "full-audit-20261123/group-09",
+  "alt": "庭院桌前，男子閉眼笑著舉起雙掌，女子托腮平靜望向他，兩人之間放著木棋盤，八枚淡色圓片圍住中間一枚深色棋子。",
+  "issues": [
+    "meaning: 男子攤手認輸、女子平靜微笑，但棋盤只是八白一深色圓片排列，沒有可辨的勝局或輕易取勝過程，單看畫面不足推知。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "男子攤手認輸、女子平靜微笑，但棋盤只是八白一深色圓片排列，沒有可辨的勝局或輕易取勝過程，單看畫面不足推知。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以庭院桌前為焦點，主體動作與表情集中，手機縮圖能辨主要對照，背景未遮住核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男子兩掌清楚各五指，女子托腮手自然收曲、另一臂交疊遮掌，肩肘正常，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "圓片棋子落棋盤、棋盤與杯子落桌，桌椅有支撐，盤面無任何文字數字。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區看過衣物、器物、背景和泡泡，未見文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代庭院桌遊、普通襯衫針織外套與眼鏡，成人比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、遠景及回想人物的頸部，只有普通衣領或連帽衣，未見紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg"
+      ],
+      "candidate_count": 179,
+      "extra_comparison_ids": [
+        349,
+        504,
+        529,
+        666,
+        978
+      ],
+      "extra_sheet": "target-comparisons.jpg",
+      "near_duplicates": {
+        "504": "另對照現行349爐火純青及117聚精會神：同樣以中央陶輪高瓶、旁人欣賞及架上陶器表現熟練製陶；沒有清楚分段的本人學習過程，容易混淆，依近似構圖要求退回。"
+      },
+      "notes": "已看全50張全圖及每張原尺寸全像素細節，另放大494掌、502尺、507後手、530幣、535錶；507手指及502/530類字形拿不準退回。507與530雖同涉斷路，但洪水逼迫與金錢誘惑因果有別；529為簡單積木逐步教學，和複雜橋模型辯論、承重試驗可區分。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻輕易得勝。",
+    "syn": "不戰而勝",
+    "ant": ""
+  }
+}

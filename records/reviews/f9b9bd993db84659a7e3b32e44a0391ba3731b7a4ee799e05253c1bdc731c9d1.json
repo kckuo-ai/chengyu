@@ -1,0 +1,95 @@
+{
+  "no": 539,
+  "kind": "existing",
+  "word": "不修邊幅",
+  "path": "/workspace/chengyu-preservation/originals/4201402aedf163541d6b4891516cf26ed575a9f3b46a812a22e0be6985a55469.png",
+  "original_sha256": "4201402aedf163541d6b4891516cf26ed575a9f3b46a812a22e0be6985a55469",
+  "original_available": true,
+  "review_source_sha256": "4201402aedf163541d6b4891516cf26ed575a9f3b46a812a22e0be6985a55469",
+  "webp_src": "img/idioms/539.webp",
+  "webp_sha256": "d0ab073f7a211b360382079a3c662ff22e6113084962f16aa283098972cc5047",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-25",
+  "review_batch": "full-audit-20261123/group-09",
+  "alt": "男孩背起書包準備出門，站在鏡子前抓著亂髮，襯衫皺巴巴且衣角未收好，雙腳穿著不同的襪子，房間裡放著書桌和筆電。",
+  "issues": [
+    "text_brand_watermark: 鏡旁書架上多本書脊有近似字母數字的短筆畫，需改空白，筆電螢幕未見介面文字。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "少年蓬亂頭髮、皺襯衫未理好、穿不成雙襪子就背包準備外出，衣著不修整清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以男孩背起書包準備出門為焦點，主體動作與表情集中，手機縮圖能辨主要對照，背景未遮住核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "抓頭掌與抓背包帶手自然五指或髮帶遮，鏡中姿勢相符，兩腳著地，無多手腳。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "鏡面站姿衣服與襪色位置有對應、鏡框有支架，包帶貼肩、家具均落地。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "鏡旁書架上多本書脊有近似字母數字的短筆畫，需改空白，筆電螢幕未見介面文字。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代臥室、筆電檯燈普通家具、襯衫長褲背包，國小高年級或少年比例。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、遠景及回想人物的頸部，只有普通衣領或連帽衣，未見紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg"
+      ],
+      "candidate_count": 179,
+      "extra_comparison_ids": [
+        349,
+        504,
+        529,
+        666,
+        978
+      ],
+      "extra_sheet": "target-comparisons.jpg",
+      "near_duplicates": {
+        "504": "另對照現行349爐火純青及117聚精會神：同樣以中央陶輪高瓶、旁人欣賞及架上陶器表現熟練製陶；沒有清楚分段的本人學習過程，容易混淆，依近似構圖要求退回。"
+      },
+      "notes": "已看全50張全圖及每張原尺寸全像素細節，另放大494掌、502尺、507後手、530幣、535錶；507手指及502/530類字形拿不準退回。507與530雖同涉斷路，但洪水逼迫與金錢誘惑因果有別；529為簡單積木逐步教學，和複雜橋模型辯論、承重試驗可區分。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容不講究衣飾儀容。＆形容不拘形式小節。",
+    "syn": "不衫不履、首如飛蓬、蓬頭垢面、不拘小節、放浪不羈",
+    "ant": "衣冠楚楚、西裝革履、修飾邊幅"
+  }
+}

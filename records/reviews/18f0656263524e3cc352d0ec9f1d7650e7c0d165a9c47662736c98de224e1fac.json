@@ -1,0 +1,95 @@
+{
+  "no": 510,
+  "kind": "existing",
+  "word": "待價而沽",
+  "path": "/workspace/chengyu-preservation/originals/1e663e3c81341d3f13bf3426fd7533ff59d4352e795791edc3c529c530d396ba.png",
+  "original_sha256": "1e663e3c81341d3f13bf3426fd7533ff59d4352e795791edc3c529c530d396ba",
+  "original_available": true,
+  "review_source_sha256": "1e663e3c81341d3f13bf3426fd7533ff59d4352e795791edc3c529c530d396ba",
+  "webp_src": "img/idioms/510.webp",
+  "webp_sha256": "0438ce8bb66efe8cb9d30e8b5ad165378141507d9a81bc376ec16b300860cbd8",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-25",
+  "review_batch": "full-audit-20261123/group-09",
+  "alt": "陶藝工作桌旁，女子坐在自己完成的杯碗前，一名男子抱來破木椅，另一人捧著完整工作室模型，她微笑望向後者的邀請。",
+  "issues": [
+    "text_brand_watermark: 模型內牆小方牌出現多條近似字形的短筆畫，無法排除類文字，依無類字形要求退回；其餘器皿未見品牌。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "有手藝的女子未接受破椅工作，望向帶來完整陶藝工作室規劃的邀請者，等待合適機會的對照可辨。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以陶藝工作桌旁為焦點，主體動作與表情集中，手機縮圖能辨主要對照，背景未遮住核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女子交握手、男子托底板手與示意掌及長者抱椅雙手皆自然，手指部分被物件遮，無多臂。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "模型底板托在掌上，破椅裂縫與斷腿清楚，杯碗瓶及工具均落架桌。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "模型內牆小方牌出現多條近似字形的短筆畫，無法排除類文字，依無類字形要求退回；其餘器皿未見品牌。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代陶藝工作室、便服與工作圍裙，三名成人比例合理。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、遠景及回想人物的頸部，只有普通衣領或連帽衣，未見紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg"
+      ],
+      "candidate_count": 179,
+      "extra_comparison_ids": [
+        349,
+        504,
+        529,
+        666,
+        978
+      ],
+      "extra_sheet": "target-comparisons.jpg",
+      "near_duplicates": {
+        "504": "另對照現行349爐火純青及117聚精會神：同樣以中央陶輪高瓶、旁人欣賞及架上陶器表現熟練製陶；沒有清楚分段的本人學習過程，容易混淆，依近似構圖要求退回。"
+      },
+      "notes": "已看全50張全圖及每張原尺寸全像素細節，另放大494掌、502尺、507後手、530幣、535錶；507手指及502/530類字形拿不準退回。507與530雖同涉斷路，但洪水逼迫與金錢誘惑因果有別；529為簡單積木逐步教學，和複雜橋模型辯論、承重試驗可區分。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻人等待良機，為世所用。＆比喻商品等待買主出高價買下。",
+    "syn": "待價藏珠、蘊奇待價",
+    "ant": ""
+  }
+}

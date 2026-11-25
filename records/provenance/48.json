@@ -7154,5 +7154,23 @@
       "source_file": "/workspace/idiom-review/full-audit-20261123/group-08/489.review.json",
       "reviewer": "independent-visual-review-2026-11-24"
     }
+  ],
+  "489ec380e734995bd2f804a3b02572ba171a732a0da02b82a96a359e4fa78b43": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-09",
+      "source_file": "511.review.json",
+      "reviewer": "independent-visual-review-2026-11-25",
+      "reviewed_main": "6cf48046a58b4e50a6d622b6555b3d9f284e2b9a"
+    }
+  ],
+  "482e19ed18ec697adf380ba99248ea56f7c95ce1c4ee42a885a82e1effe8de71": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-09",
+      "source_file": "532.review.json",
+      "reviewer": "independent-visual-review-2026-11-25",
+      "reviewed_main": "6cf48046a58b4e50a6d622b6555b3d9f284e2b9a"
+    }
   ]
 }

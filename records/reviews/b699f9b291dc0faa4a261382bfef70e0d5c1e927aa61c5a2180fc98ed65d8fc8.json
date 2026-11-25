@@ -1,0 +1,93 @@
+{
+  "no": 495,
+  "kind": "existing",
+  "word": "優柔寡斷",
+  "path": "/workspace/chengyu-preservation/originals/1c3f38719995afdc0277234e96b622ee81d49ac84d1b1b8507b654cdac267f87.png",
+  "original_sha256": "1c3f38719995afdc0277234e96b622ee81d49ac84d1b1b8507b654cdac267f87",
+  "original_available": true,
+  "review_source_sha256": "1c3f38719995afdc0277234e96b622ee81d49ac84d1b1b8507b654cdac267f87",
+  "webp_src": "img/idioms/495.webp",
+  "webp_sha256": "01b78818ddc5472545e0958046e70076d8b4b34b2dac1f3aa01537b62a934d2c",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-25",
+  "review_batch": "full-audit-20261123/group-09",
+  "alt": "河邊點心攤前，女子拿著空甜筒望向兩種口味，皺眉比著手指，另一人已吃著點心離開，攤主正準備收起遮陽傘。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "女子面對兩種口味拿空甜筒仍猶豫，別人已拿冰離開、攤主要收傘且天色晚，拖延不能決斷清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以河邊點心攤前為焦點，主體動作與表情集中，手機縮圖能辨主要對照，背景未遮住核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "空筒握持、猶豫伸指和攤主握傘手自然五指或物遮，後景女子持冰手與垂手正常，鞋接地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "冰槽在推車內、空甜筒在掌中、收傘有桿連車，後景冰球貼筒，沒有漂浮物或文字標價。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區看過衣物、器物、背景和泡泡，未見文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代河濱公園城市天際、冰攤與一般便服帆布袋，人物青年成人比例。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、遠景及回想人物的頸部，只有普通衣領或連帽衣，未見紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg"
+      ],
+      "candidate_count": 179,
+      "extra_comparison_ids": [
+        349,
+        504,
+        529,
+        666,
+        978
+      ],
+      "extra_sheet": "target-comparisons.jpg",
+      "near_duplicates": {
+        "504": "另對照現行349爐火純青及117聚精會神：同樣以中央陶輪高瓶、旁人欣賞及架上陶器表現熟練製陶；沒有清楚分段的本人學習過程，容易混淆，依近似構圖要求退回。"
+      },
+      "notes": "已看全50張全圖及每張原尺寸全像素細節，另放大494掌、502尺、507後手、530幣、535錶；507手指及502/530類字形拿不準退回。507與530雖同涉斷路，但洪水逼迫與金錢誘惑因果有別；529為簡單積木逐步教學，和複雜橋模型辯論、承重試驗可區分。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容行事猶豫，不能當機立斷。貶義。",
+    "syn": "委決不下、猶豫不決、遲疑不決、舉棋不定、瞻前顧後",
+    "ant": "剛毅果決、斬釘截鐵、當機立斷、毅然決然"
+  }
+}

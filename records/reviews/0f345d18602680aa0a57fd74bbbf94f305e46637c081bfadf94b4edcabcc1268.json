@@ -1,0 +1,95 @@
+{
+  "no": 500,
+  "kind": "existing",
+  "word": "物以類聚",
+  "path": "/workspace/chengyu-preservation/originals/fb64886cadb515cb2b58b5f68c603315dd69067912c4ee6d62b4eab5ec0c5725.png",
+  "original_sha256": "fb64886cadb515cb2b58b5f68c603315dd69067912c4ee6d62b4eab5ec0c5725",
+  "original_available": true,
+  "review_source_sha256": "fb64886cadb515cb2b58b5f68c603315dd69067912c4ee6d62b4eab5ec0c5725",
+  "webp_src": "img/idioms/500.webp",
+  "webp_sha256": "2dab699be5d97c39df37d1abbe9efb000bdc39b641fb1e88c3d1e26579f43c4b",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-25",
+  "review_batch": "full-audit-20261123/group-09",
+  "alt": "公園活動裡，拿望遠鏡的人聚在樹下，照料盆栽的人圍著花台，畫畫的人在另一旁擺開畫具，各群興趣相同的人靠在一起。",
+  "issues": [
+    "hands_feet_pose: 前景觀鳥持鏡、扶盆、握筆指節大致自然，腳踏地與畫凳有支撐；但多處遠景帳棚人物手指僅小色塊，原尺寸不能核對每手五指，退回。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "鳥友拿望遠鏡聚一處、園藝者拿苗交流、畫畫者坐一起，依相同興趣分組自然聚集的關係明確。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以公園活動裡為焦點，主體動作與表情集中，手機縮圖能辨主要對照，背景未遮住核心。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "前景觀鳥持鏡、扶盆、握筆指節大致自然，腳踏地與畫凳有支撐；但多處遠景帳棚人物手指僅小色塊，原尺寸不能核對每手五指，退回。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "望遠鏡有頸帶、盆栽落桌或掌托，畫紙固定本、折凳交叉支架落地，沒有無支撐工具。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區看過衣物、器物、背景和泡泡，未見文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代公園社團市集、素面便服棒球帽背包，親子與長者比例合理，非古代場景。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、遠景及回想人物的頸部，只有普通衣領或連帽衣，未見紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg"
+      ],
+      "candidate_count": 179,
+      "extra_comparison_ids": [
+        349,
+        504,
+        529,
+        666,
+        978
+      ],
+      "extra_sheet": "target-comparisons.jpg",
+      "near_duplicates": {
+        "504": "另對照現行349爐火純青及117聚精會神：同樣以中央陶輪高瓶、旁人欣賞及架上陶器表現熟練製陶；沒有清楚分段的本人學習過程，容易混淆，依近似構圖要求退回。"
+      },
+      "notes": "已看全50張全圖及每張原尺寸全像素細節，另放大494掌、502尺、507後手、530幣、535錶；507手指及502/530類字形拿不準退回。507與530雖同涉斷路，但洪水逼迫與金錢誘惑因果有別；529為簡單積木逐步教學，和複雜橋模型辯論、承重試驗可區分。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "性質相近的東西常聚集在一起。＆比喻壞人互相勾結。",
+    "syn": "",
+    "ant": ""
+  }
+}

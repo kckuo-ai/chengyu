@@ -7231,5 +7231,32 @@
       "batch": "batch-35-unresolved-25",
       "source": "docs/illustration-prompts.json#entries/483"
     }
+  ],
+  "53d449fe7b697f3f07ace952b00237a988069919be8e52cfa86073cf1042442f": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-09",
+      "source_file": "499.review.json",
+      "reviewer": "independent-visual-review-2026-11-25",
+      "reviewed_main": "6cf48046a58b4e50a6d622b6555b3d9f284e2b9a"
+    }
+  ],
+  "53344c9ab9c5935398eb7bb0f7d6e9c890c20c1640e18aa6d1ed3d90de45e013": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-09",
+      "source_file": "504.review.json",
+      "reviewer": "independent-visual-review-2026-11-25",
+      "reviewed_main": "6cf48046a58b4e50a6d622b6555b3d9f284e2b9a"
+    }
+  ],
+  "53267cef26101715ae4b172a4268c04862b166e0318b024559deaf6ec83b8106": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-09",
+      "source_file": "529.review.json",
+      "reviewer": "independent-visual-review-2026-11-25",
+      "reviewed_main": "6cf48046a58b4e50a6d622b6555b3d9f284e2b9a"
+    }
   ]
 }

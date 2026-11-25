@@ -1,0 +1,95 @@
+{
+  "no": 534,
+  "kind": "existing",
+  "word": "塞翁失馬",
+  "path": "/workspace/chengyu-preservation/originals/95f8cb6a6d9ef6c74be3f49790ebe8f901d7c194f0e7c5eca68672c1994400bf.png",
+  "original_sha256": "95f8cb6a6d9ef6c74be3f49790ebe8f901d7c194f0e7c5eca68672c1994400bf",
+  "original_available": true,
+  "review_source_sha256": "95f8cb6a6d9ef6c74be3f49790ebe8f901d7c194f0e7c5eca68672c1994400bf",
+  "webp_src": "img/idioms/534.webp",
+  "webp_sha256": "7575cc3f44a799dd5283ee0935b1b342d33f47a0624a1ac7e19ffbf5764caa7f",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-25",
+  "review_batch": "full-audit-20261123/group-09",
+  "alt": "院門旁的青年看著棕馬離開，擔心地扶住額頭；另一邊，棕馬又帶著白馬回到門前，老人站在兩匹馬旁撫鬚微笑。",
+  "issues": [
+    "taiwan_context: 人物髮髻古裝及古代院落與遠景邊塞長牆不符合本輪要求的台灣現代生活場景；可保留前後因果，改用現代生活表達。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "同一棕馬先跑失使青年擔心，後與白馬回來，長者泰然微笑；由損失轉得額外馬的因禍得福對照清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以院門旁的青年看著棕馬離開為焦點，主體動作與表情集中，手機縮圖能辨主要對照，背景未遮住核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "青年扶額掌與垂掌、長者撫鬚與交臂掌五指或衣袖遮，鞋接地，馬匹四腿正常。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "先走失馬朝門外、後雙馬朝內方向一致，門欄與籃子落地，人物手臂接肩、無懸浮物。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區看過衣物、器物、背景和泡泡，未見文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "人物髮髻古裝及古代院落與遠景邊塞長牆不符合本輪要求的台灣現代生活場景；可保留前後因果，改用現代生活表達。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、遠景及回想人物的頸部，只有普通衣領或連帽衣，未見紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg"
+      ],
+      "candidate_count": 179,
+      "extra_comparison_ids": [
+        349,
+        504,
+        529,
+        666,
+        978
+      ],
+      "extra_sheet": "target-comparisons.jpg",
+      "near_duplicates": {
+        "504": "另對照現行349爐火純青及117聚精會神：同樣以中央陶輪高瓶、旁人欣賞及架上陶器表現熟練製陶；沒有清楚分段的本人學習過程，容易混淆，依近似構圖要求退回。"
+      },
+      "notes": "已看全50張全圖及每張原尺寸全像素細節，另放大494掌、502尺、507後手、530幣、535錶；507手指及502/530類字形拿不準退回。507與530雖同涉斷路，但洪水逼迫與金錢誘惑因果有別；529為簡單積木逐步教學，和複雜橋模型辯論、承重試驗可區分。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻暫時受到損失，卻因禍得福，終於得到好處。",
+    "syn": "因禍得福",
+    "ant": "福過災生、樂極生悲"
+  }
+}

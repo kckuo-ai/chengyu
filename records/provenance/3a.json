@@ -13932,5 +13932,14 @@
       "batch": "batch-35-unresolved-25",
       "source": "docs/illustration-prompts.json#entries/439"
     }
+  ],
+  "3a20b796221c6acf329ab766980388106ee7093b577558f05fb0a02ad67eb95f": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-09",
+      "source_file": "508.review.json",
+      "reviewer": "independent-visual-review-2026-11-25",
+      "reviewed_main": "6cf48046a58b4e50a6d622b6555b3d9f284e2b9a"
+    }
   ]
 }

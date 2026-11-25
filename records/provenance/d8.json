@@ -20863,5 +20863,14 @@
       "source_file": "comparison-candidates.json",
       "reviewer": "independent-visual-review-2026-11-24"
     }
+  ],
+  "d8719c326b93b09e6c246b3928335cdf1909859d17a030a4fea6161268ded683": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-09",
+      "source_file": "531.review.json",
+      "reviewer": "independent-visual-review-2026-11-25",
+      "reviewed_main": "6cf48046a58b4e50a6d622b6555b3d9f284e2b9a"
+    }
   ]
 }

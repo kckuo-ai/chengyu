@@ -1,0 +1,95 @@
+{
+  "no": 525,
+  "kind": "existing",
+  "word": "心腹之患",
+  "path": "/workspace/chengyu-preservation/originals/f8f3c0b544aa6d7c369035d671797674ba2d41c051fd9cd85511fb8366a8db6a.png",
+  "original_sha256": "f8f3c0b544aa6d7c369035d671797674ba2d41c051fd9cd85511fb8366a8db6a",
+  "original_available": true,
+  "review_source_sha256": "f8f3c0b544aa6d7c369035d671797674ba2d41c051fd9cd85511fb8366a8db6a",
+  "webp_src": "img/idioms/525.webp",
+  "webp_sha256": "9546aa2b9566aae8f79f90c4635c484beed3e319b2c3077f5a8f920a01c5fb1c",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-25",
+  "review_batch": "full-audit-20261123/group-09",
+  "alt": "農人跪在果樹旁用鏟子挖開泥土，驚訝發現樹根內部腐爛成大洞，長滿菌絲與菇，樹上雖仍有果實，枝葉卻已開始枯黃。",
+  "issues": [
+    "taiwan_context: 髮髻布帶、交領古裝束腰與布鞋屬古代農人設定，無不可替代典故必要，需改台灣現代果農。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "果樹表面仍結果但根幹內部腐空長菌、枝葉開始枯黃，農人發現足以致整樹死亡的內部禍患。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以農人跪在果樹旁用鏟子挖開泥土為焦點，主體動作與表情集中，手機縮圖能辨主要對照，背景未遮住核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "握鏟掌五指彎握、撐地掌五指展開，肩肘連續、跪膝與鞋有地面支撐。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "土層剖面露出連續腐根空洞與菌絲，鏟面承土、樹根接幹，果實連枝，非漂浮。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區看過衣物、器物、背景和泡泡，未見文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "髮髻布帶、交領古裝束腰與布鞋屬古代農人設定，無不可替代典故必要，需改台灣現代果農。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、遠景及回想人物的頸部，只有普通衣領或連帽衣，未見紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg"
+      ],
+      "candidate_count": 179,
+      "extra_comparison_ids": [
+        349,
+        504,
+        529,
+        666,
+        978
+      ],
+      "extra_sheet": "target-comparisons.jpg",
+      "near_duplicates": {
+        "504": "另對照現行349爐火純青及117聚精會神：同樣以中央陶輪高瓶、旁人欣賞及架上陶器表現熟練製陶；沒有清楚分段的本人學習過程，容易混淆，依近似構圖要求退回。"
+      },
+      "notes": "已看全50張全圖及每張原尺寸全像素細節，另放大494掌、502尺、507後手、530幣、535錶；507手指及502/530類字形拿不準退回。507與530雖同涉斷路，但洪水逼迫與金錢誘惑因果有別；529為簡單積木逐步教學，和複雜橋模型辯論、承重試驗可區分。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容致命的禍患或隱藏在內部的危害。",
+    "syn": "心腹大患",
+    "ant": "疥癬之疾"
+  }
+}

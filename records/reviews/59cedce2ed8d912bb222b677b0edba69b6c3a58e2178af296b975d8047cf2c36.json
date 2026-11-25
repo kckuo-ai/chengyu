@@ -1,0 +1,93 @@
+{
+  "no": 515,
+  "kind": "existing",
+  "word": "斷章取義",
+  "path": "/workspace/chengyu-preservation/originals/bc5567f123032bace9976fdad92018029884599e145897a6646a53e37faeaa2f.png",
+  "original_sha256": "bc5567f123032bace9976fdad92018029884599e145897a6646a53e37faeaa2f",
+  "original_available": true,
+  "review_source_sha256": "bc5567f123032bace9976fdad92018029884599e145897a6646a53e37faeaa2f",
+  "webp_src": "img/idioms/515.webp",
+  "webp_sha256": "3e3a6dad5c8ec54265b5f9a6bd5368bb9b503e634014fe28deaea3b64eb5c7e4",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-25",
+  "review_batch": "full-audit-20261123/group-09",
+  "alt": "左側男子拉住快掉進坑洞的孩子，右側另一人卻只展示裁去坑洞的照片，讓觀看者指責照片裡的動作，沒有看到完整情況。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "左側全景是拉住孩子防止墜坑，右側故意裁掉坑洞的照片被拿來指責，截取部分而曲解原意的前後證據明確。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以左側男子拉住快掉進坑洞的孩子為焦點，主體動作與表情集中，手機縮圖能辨主要對照，背景未遮住核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "全景救人抓衣掌與兒童張掌各五指，持照片手握邊與托底、指責手指伸收合理，步行鞋著草地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "照片實際重現救人動作但裁去危險坑洞、紙張由兩手拿穩，坑緣與人物腳位連續。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區看過衣物、器物、背景和泡泡，未見文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代公園與便服背包學童、成人休閒鞋長褲，無古裝。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、遠景及回想人物的頸部，只有普通衣領或連帽衣，未見紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg"
+      ],
+      "candidate_count": 179,
+      "extra_comparison_ids": [
+        349,
+        504,
+        529,
+        666,
+        978
+      ],
+      "extra_sheet": "target-comparisons.jpg",
+      "near_duplicates": {
+        "504": "另對照現行349爐火純青及117聚精會神：同樣以中央陶輪高瓶、旁人欣賞及架上陶器表現熟練製陶；沒有清楚分段的本人學習過程，容易混淆，依近似構圖要求退回。"
+      },
+      "notes": "已看全50張全圖及每張原尺寸全像素細節，另放大494掌、502尺、507後手、530幣、535錶；507手指及502/530類字形拿不準退回。507與530雖同涉斷路，但洪水逼迫與金錢誘惑因果有別；529為簡單積木逐步教學，和複雜橋模型辯論、承重試驗可區分。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "指截取文章或談話中的某一段落，而不顧整體內容的原意。",
+    "syn": "斷章摘句、斷章截句",
+    "ant": ""
+  }
+}

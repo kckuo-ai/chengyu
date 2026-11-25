@@ -13388,5 +13388,23 @@
       "source_file": "428.metadata.json",
       "reviewer": "independent-visual-review-2026-11-24"
     }
+  ],
+  "3b9da52c61459e780913b2e2f7913ef95c0f7c0aa751c37134d6416c5743ee6f": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-09",
+      "source_file": "513.review.json",
+      "reviewer": "independent-visual-review-2026-11-25",
+      "reviewed_main": "6cf48046a58b4e50a6d622b6555b3d9f284e2b9a"
+    }
+  ],
+  "3b3341775bc662236201eccd60177b95d10e37029b4ab7193d328c37c3ba6720": [
+    {
+      "kind": "existing_illustration_audit",
+      "batch": "full-audit-20261123/group-09",
+      "source_file": "remaining-redraw-source.json",
+      "reviewer": "independent-visual-review-2026-11-25",
+      "reviewed_main": "6cf48046a58b4e50a6d622b6555b3d9f284e2b9a"
+    }
   ]
 }

@@ -1,0 +1,95 @@
+{
+  "no": 533,
+  "kind": "existing",
+  "word": "人面桃花",
+  "path": "/workspace/chengyu-preservation/originals/d279248cc3267c6a4437fdfa4f3e6de46de61bd2209a9b21d78c7a75d91d7fa6.png",
+  "original_sha256": "d279248cc3267c6a4437fdfa4f3e6de46de61bd2209a9b21d78c7a75d91d7fa6",
+  "original_available": true,
+  "review_source_sha256": "d279248cc3267c6a4437fdfa4f3e6de46de61bd2209a9b21d78c7a75d91d7fa6",
+  "webp_src": "img/idioms/533.webp",
+  "webp_sha256": "9a2255908fd8c43046c6ca742fb84f3c4c79dd405f17ed7235b7d0df243a16ef",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-25",
+  "review_batch": "full-audit-20261123/group-09",
+  "alt": "男子先在開滿粉紅花朵的院門前遇見微笑女子，再度來訪時，同樣花枝仍伸在瓦簷旁，大門卻緊閉無人回應，他站在門外失落望著。",
+  "issues": [
+    "taiwan_context: 人物髮髻古裝及古代院落不符合本輪要求的台灣現代生活場景；可保留前後因果，改用現代生活表達。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "兩時刻同門同桃花，先前女子笑迎、後來門閉人不見，男子失落，景物依舊人事已非的感傷有對照。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以男子先在開滿粉紅花朵的院門前遇見微笑女子為焦點，主體動作與表情集中，手機縮圖能辨主要對照，背景未遮住核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "前景男子伸掌五指，女子握門框與扶袖掌自然遮蔽，後景背身手被袖身遮；未出現多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "門扇鉸接門框、包袱繫背，兩時刻屋瓦石階桃枝重現，花瓣落地，構造合理。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區看過衣物、器物、背景和泡泡，未見文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "人物髮髻古裝及古代院落不符合本輪要求的台灣現代生活場景；可保留前後因果，改用現代生活表達。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、遠景及回想人物的頸部，只有普通衣領或連帽衣，未見紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg"
+      ],
+      "candidate_count": 179,
+      "extra_comparison_ids": [
+        349,
+        504,
+        529,
+        666,
+        978
+      ],
+      "extra_sheet": "target-comparisons.jpg",
+      "near_duplicates": {
+        "504": "另對照現行349爐火純青及117聚精會神：同樣以中央陶輪高瓶、旁人欣賞及架上陶器表現熟練製陶；沒有清楚分段的本人學習過程，容易混淆，依近似構圖要求退回。"
+      },
+      "notes": "已看全50張全圖及每張原尺寸全像素細節，另放大494掌、502尺、507後手、530幣、535錶；507手指及502/530類字形拿不準退回。507與530雖同涉斷路，但洪水逼迫與金錢誘惑因果有別；529為簡單積木逐步教學，和複雜橋模型辯論、承重試驗可區分。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "女子容貌美麗，可與桃花爭豔。＆形容景色依舊，而人事已非的感傷。",
+    "syn": "",
+    "ant": ""
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "no": 502,
+  "kind": "existing",
+  "word": "聲色俱厲",
+  "path": "/workspace/chengyu-preservation/originals/374bd7e030d64dd3bc826961887c741d20c972a03e93a235f2cfcc8042b34b35.png",
+  "original_sha256": "374bd7e030d64dd3bc826961887c741d20c972a03e93a235f2cfcc8042b34b35",
+  "original_available": true,
+  "review_source_sha256": "374bd7e030d64dd3bc826961887c741d20c972a03e93a235f2cfcc8042b34b35",
+  "webp_src": "img/idioms/502.webp",
+  "webp_sha256": "87e0140f2c957fe70269c3021b1c64de4a727acddc522af13181a365bed4d093",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-25",
+  "review_batch": "full-audit-20261123/group-09",
+  "alt": "木作教室裡，師傅皺緊眉頭張嘴斥責，伸手指向地面散落的木屑，學徒低著頭握住畚箕，站在桌旁露出羞愧的神情。",
+  "issues": [
+    "text_brand_watermark: 另以原尺寸放大圍裙口袋直尺，刻度旁出現近似數字的彎折小符號，無法確認全為刻線，依拿不準即退回標準處理。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "師傅眉眼緊皺瞪視、張嘴嚴斥並指木屑，學徒低頭羞愧，聲音與臉色同時嚴厲可辨。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以木作教室裡為焦點，主體動作與表情集中，手機縮圖能辨主要對照，背景未遮住核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "指地與叉腰掌、學徒雙手握畚箕自然四曲指拇指或握物遮蔽，肩臂連續，桌後下身裁切。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "鉋刀刃與手柄結構正常、木屑落桌地、鑿刀掛架有支點，畚箕雙手提握合理。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "另以原尺寸放大圍裙口袋直尺，刻度旁出現近似數字的彎折小符號，無法確認全為刻線，依拿不準即退回標準處理。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代木作教室、鋁窗、一般格衫連帽衣圍裙，教師成人與少年比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、遠景及回想人物的頸部，只有普通衣領或連帽衣，未見紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg"
+      ],
+      "candidate_count": 179,
+      "extra_comparison_ids": [
+        349,
+        504,
+        529,
+        666,
+        978
+      ],
+      "extra_sheet": "target-comparisons.jpg",
+      "near_duplicates": {
+        "504": "另對照現行349爐火純青及117聚精會神：同樣以中央陶輪高瓶、旁人欣賞及架上陶器表現熟練製陶；沒有清楚分段的本人學習過程，容易混淆，依近似構圖要求退回。"
+      },
+      "notes": "已看全50張全圖及每張原尺寸全像素細節，另放大494掌、502尺、507後手、530幣、535錶；507手指及502/530類字形拿不準退回。507與530雖同涉斷路，但洪水逼迫與金錢誘惑因果有別；529為簡單積木逐步教學，和複雜橋模型辯論、承重試驗可區分。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "說話時的聲音和臉色都很嚴厲。",
+    "syn": "正言厲色、疾言厲色",
+    "ant": "和顏悅色"
+  }
+}

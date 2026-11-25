@@ -1,0 +1,93 @@
+{
+  "no": 499,
+  "kind": "existing",
+  "word": "抱頭鼠竄",
+  "path": "/workspace/chengyu-preservation/originals/eb33b8ee49225cb39a888d1f90a82b73b158e78c7624740dffb6300f3ecfc648.png",
+  "original_sha256": "eb33b8ee49225cb39a888d1f90a82b73b158e78c7624740dffb6300f3ecfc648",
+  "original_available": true,
+  "review_source_sha256": "eb33b8ee49225cb39a888d1f90a82b73b158e78c7624740dffb6300f3ecfc648",
+  "webp_src": "img/idioms/499.webp",
+  "webp_sha256": "60a4ce89d31dfdc791f085b42e0d4a32f3b68f8b4fdd271f95277a5d90c9c539",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-25",
+  "review_batch": "full-audit-20261123/group-09",
+  "alt": "野餐時突然刮起暴風，三人縮肩護著頭帽，驚慌奔向遠處涼亭，桌布與空瓶被吹起，天空烏雲密布，樹枝也隨風傾斜。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "暴風雨突襲，三人縮頭用雙手護頭倉皇跑向涼亭，野餐物品被風吹散、表情驚慌，逃跑狼狽清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以野餐時突然刮起暴風為焦點，主體動作與表情集中，手機縮圖能辨主要對照，背景未遮住核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "三人雙手抓帽或外衣護頭，指節遮蔽合理，手臂連肩；跑步一腳離地屬動作瞬間，腿腳方向自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "雨風方向一致、野餐布與水壺翻動有強風因果，涼亭柱與臺階落地、鞋落水處有濺水。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "全圖與原尺寸逐區看過衣物、器物、背景和泡泡，未見文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代公園河濱城市背景、帽子運動鞋與現代涼亭，兒童成人比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一檢查全圖、遠景及回想人物的頸部，只有普通衣領或連帽衣，未見紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg"
+      ],
+      "candidate_count": 179,
+      "extra_comparison_ids": [
+        349,
+        504,
+        529,
+        666,
+        978
+      ],
+      "extra_sheet": "target-comparisons.jpg",
+      "near_duplicates": {
+        "504": "另對照現行349爐火純青及117聚精會神：同樣以中央陶輪高瓶、旁人欣賞及架上陶器表現熟練製陶；沒有清楚分段的本人學習過程，容易混淆，依近似構圖要求退回。"
+      },
+      "notes": "已看全50張全圖及每張原尺寸全像素細節，另放大494掌、502尺、507後手、530幣、535錶；507手指及502/530類字形拿不準退回。507與530雖同涉斷路，但洪水逼迫與金錢誘惑因果有別；529為簡單積木逐步教學，和複雜橋模型辯論、承重試驗可區分。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容倉皇逃跑的狼狽樣子。",
+    "syn": "狼奔豕突、狼奔鼠竄、狼狽而逃、落荒而逃",
+    "ant": ""
+  }
+}

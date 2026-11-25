@@ -10297,5 +10297,14 @@
       "zip_path": "batch-30-redraw-5.zip",
       "member": "batch-30/manifest.json"
     }
+  ],
+  "01581bd2a86a138db29d93ce07b0084bc5b1dbadbdf8932b634cf6b3a548b5cb": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-09",
+      "source_file": "503.review.json",
+      "reviewer": "independent-visual-review-2026-11-25",
+      "reviewed_main": "6cf48046a58b4e50a6d622b6555b3d9f284e2b9a"
+    }
   ]
 }
