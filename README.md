@@ -100,7 +100,8 @@ python3 scripts/illustration_status.py --pending
 
 ## 手機用小圖
 
-手機畫面使用 `img/idioms/sm/` 裡的小圖（800 px 寬，約 80 KB），iPad／電腦用原圖。
+手機畫面使用 `img/idioms/sm/` 裡的小圖（800 px 寬；支援 AVIF 的 iPhone 用 `.avif` 約 40 KB，其他用 `.webp` 約 80 KB），iPad／電腦用原圖。
+`data/art-lqip/` 是每張圖約 200 bytes 的模糊預覽，圖片下載完成前先顯示。
 每次發佈新的插圖批次後執行：
 
 ```bash

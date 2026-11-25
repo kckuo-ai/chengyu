@@ -77,29 +77,48 @@ const link = (w) => (BYWORD.has(w) ? `<a class="chip" href="#/w/${BYWORD.get(w).
 const split = (s) => (s || "").split(/[、，,]/).map((x) => x.trim()).filter(Boolean);
 
 // 手機用小圖（img/idioms/sm/，約 80 KB），iPad／電腦用原圖；由瀏覽器依螢幕自動選
+// 手機用小圖（img/idioms/sm/）：支援 AVIF 的 iPhone 用 .avif（約 40 KB），其他用 .webp（約 80 KB）；
+// iPad／電腦用原圖。另有約 200 bytes 的模糊預覽（data/art-lqip/），畫面一出來就先顯示。
 const smallSrc = (src) => src.replace(/\/([^/]+)$/, "/sm/$1");
+const avifSrc = (src) => smallSrc(src).replace(/\.webp$/, ".avif");
 const ART_SIZES = "(max-width: 600px) 50vw, 720px";
+const PHONE = "(max-width: 600px)";
 const artSrcset = (art) => `${smallSrc(art.src)} 800w, ${art.src} ${art.width}w`;
+let AVIF_OK = false;
+(() => { const t = new Image(); t.onload = () => { AVIF_OK = t.width > 0; }; t.src = "data:image/avif;base64,AAAAIGZ0eXBhdmlmAAAAAGF2aWZtaWYxbWlhZk1BMUIAAADybWV0YQAAAAAAAAAoaGRscgAAAAAAAAAAcGljdAAAAAAAAAAAAAAAAGxpYmF2aWYAAAAADnBpdG0AAAAAAAEAAAAeaWxvYwAAAABEAAABAAEAAAABAAABGgAAAB0AAAAoaWluZgAAAAAAAQAAABppbmZlAgAAAAABAABhdjAxQ29sb3IAAAAAamlwcnAAAABLaXBjbwAAABRpc3BlAAAAAAAAAAIAAAACAAAAEHBpeGkAAAAAAwgICAAAAAxhdjFDgQ0MAAAAABNjb2xybmNseAACAAIAAYAAAAAXaXBtYQAAAAAAAAABAAEEAQKDBAAAACVtZGF0EgAKCBgANogQEAwgMg8f8D///8WfhwB8+ErK42A="; })();
+const LQIP = new Map();
+function loadLqip(k) {
+  if (!LQIP.has(k)) LQIP.set(k, fetch(`data/art-lqip/${String(k).padStart(2, "0")}.json`).then((r) => (r.ok ? r.json() : {})).catch(() => ({})));
+  return LQIP.get(k);
+}
+// 等模糊預覽最多 0.8 秒，拿不到就直接顯示（不拖慢頁面）
+const withLqip = (no) => { const it = BYNO.get(no); return it ? Promise.race([loadLqip(it.k), new Promise((r) => setTimeout(r, 800))]) : Promise.resolve(); };
+const LQIP_READY = {};
+async function lqipFor(no) { const it = BYNO.get(no); if (!it || !LQIP.has(it.k)) return ""; const m = await LQIP.get(it.k); return m[no] || ""; }
 function illustration(no, quiz = false) {
   const art = ILLUSTRATIONS[no];
   if (!art) return "";
+  const lq = LQIP_READY[no] || "";
   // Quiz descriptions explain the scene without including the answer's idiom.
   return `<figure class="idiom-art${quiz ? " quiz-art" : ""}">
-    <span class="art-box" ${quiz ? "" : `style="aspect-ratio:${art.width}/${art.height}"`}><img src="${esc(smallSrc(art.src))}" srcset="${esc(artSrcset(art))}" sizes="${ART_SIZES}" data-full="${esc(art.src)}" alt="${esc(art.alt)}" width="${art.width}" height="${art.height}"></span>
+    <span class="art-box${lq ? " has-lqip" : ""}" ${quiz ? "" : `style="aspect-ratio:${art.width}/${art.height}"`}>${lq ? `<img class="lqip" src="${lq}" alt="" aria-hidden="true">` : ""}<picture><source type="image/avif" media="${PHONE}" srcset="${esc(avifSrc(art.src))}"><img class="art" src="${esc(smallSrc(art.src))}" srcset="${esc(artSrcset(art))}" sizes="${ART_SIZES}" data-full="${esc(art.src)}" alt="${esc(art.alt)}" width="${art.width}" height="${art.height}"></picture></span>
     ${quiz ? "" : '<figcaption>成語情境插圖<span class="src-tag">本站 AI 輔助製作</span></figcaption>'}
   </figure>`;
 }
-
+// 先把要顯示的插圖的模糊預覽準備好（從已下載的資料包取）
+async function prepLqip(nos) {
+  await Promise.all(nos.map(async (no) => { await withLqip(no); const v = await lqipFor(no); if (v) LQIP_READY[no] = v; }));
+}
 // 插圖：載入中顯示提示；失敗時顯示「點一下重試」，重試會略過快取重新下載
 document.addEventListener("load", (ev) => {
-  if (ev.target.matches?.(".art-box img")) ev.target.parentElement.classList.add("loaded");
+  if (ev.target.matches?.(".art-box img.art")) ev.target.closest(".art-box").classList.add("loaded");
 }, true);
 document.addEventListener("error", (ev) => {
   const img = ev.target;
-  if (!img.matches?.(".art-box img")) return;
-  const box = img.parentElement;
+  if (!img.matches?.(".art-box img.art")) return;
+  const box = img.closest(".art-box");
   // 小圖還沒產生時，改用原圖
-  if (img.hasAttribute("srcset")) { img.removeAttribute("srcset"); img.src = img.dataset.full; return; }
+  if (img.hasAttribute("srcset")) { img.parentElement.querySelectorAll("source").forEach((x) => x.remove()); img.removeAttribute("srcset"); img.src = img.dataset.full; return; }
   const tries = +(img.dataset.tries || 0);
   if (tries < 1) { img.dataset.tries = tries + 1; img.src = `${img.getAttribute("src").split("?")[0]}?retry=${Date.now()}`; return; }
   box.classList.add("failed");
@@ -108,26 +127,29 @@ document.addEventListener("click", (ev) => {
   const box = ev.target.closest(".art-box.failed");
   if (!box) return;
   ev.stopPropagation();
-  const img = box.querySelector("img");
+  const img = box.querySelector("img.art");
   box.classList.remove("failed");
   img.src = `${img.getAttribute("src").split("?")[0]}?retry=${Date.now()}`;
   watchArt();
 }, true);
 // 15 秒還沒載入完成，就改顯示「點一下重試」，不讓孩子一直看著「載入中」
 function watchArt() {
-  view.querySelectorAll(".art-box img").forEach((img) => {
-    if (img.complete && img.naturalWidth) { img.parentElement.classList.add("loaded"); return; }
-    const src = img.getAttribute("src");
+  view.querySelectorAll(".art-box img.art").forEach((img) => {
+    const box = img.closest(".art-box");
+    if (img.complete && img.naturalWidth) { box.classList.add("loaded"); return; }
+    const src = img.currentSrc || img.getAttribute("src");
     setTimeout(() => {
-      if (img.isConnected && img.getAttribute("src") === src && !(img.complete && img.naturalWidth)) img.parentElement.classList.add("failed");
+      if (img.isConnected && !(img.complete && img.naturalWidth) && !box.classList.contains("loaded")) box.classList.add("failed");
     }, 15000);
   });
 }
-// 先在背景下載下一個要看的插圖，按「下一個」時就不用等
+// 先在背景下載下一個要看的插圖（和它的模糊預覽），按「下一個」時就不用等
+const phoneArtSrc = (art) => (matchMedia(PHONE).matches ? (AVIF_OK ? avifSrc(art.src) : smallSrc(art.src)) : art.src);
 function preloadArt(no) {
   const art = no && ILLUSTRATIONS[no];
   if (!art) return;
-  const im = new Image(); im.decoding = "async"; im.sizes = ART_SIZES; im.srcset = artSrcset(art); im.src = smallSrc(art.src);
+  prepLqip([no]);
+  const im = new Image(); im.decoding = "async"; im.src = phoneArtSrc(art);
 }
 
 function toast(msg) {
@@ -178,7 +200,7 @@ function todayIdiom() {
 // ---------------- 畫面 ----------------
 async function home() {
   const t = todayIdiom();
-  const e = await getEntry(t.no);
+  const [e] = await Promise.all([getEntry(t.no), prepLqip([t.no])]);
   const def = e.c?.[0]?.def || "";
   // 搜尋放最上面：一打開就能找，不用先滑過今天的成語
   view.innerHTML = `
@@ -268,7 +290,7 @@ function ctxNav(no) {
 }
 
 async function entry(no) {
-  const e = await getEntry(no);
+  const [e] = await Promise.all([getEntry(no), prepLqip([no])]);
   if (!e) { view.innerHTML = `<p class="empty">找不到這個成語。<a href="#/">回首頁</a></p>`; return; }
   const sem = senses(e.sem), usage = senses(e.usage), ex = senses(e.ex);
   const mine = MINE[e.w];
@@ -386,7 +408,7 @@ function makeQ(mode, t) {
     const similar = new Set([t.w, ...split(t.syn)]);
     const candidates = INDEX.filter((i) => !similar.has(i.w) && !split(i.syn).includes(t.w));
     const opts = shuffle([t, ...shuffle(candidates).slice(0, 3)]);
-    return { target: t, prompt: `${illustration(t.no, true)}<p class="hint">這幅圖描繪哪一個成語？</p>`, opts: opts.map((o) => ({ label: esc(o.w), ok: o === t, big: true })) };
+    return { target: t, get prompt() { return `${illustration(t.no, true)}<p class="hint">這幅圖描繪哪一個成語？</p>`; }, opts: opts.map((o) => ({ label: esc(o.w), ok: o === t, big: true })) };
   }
   if (mode === "meaning") {
     const opts = shuffle([t, ...others(3, new Set([t.w]))]);
@@ -445,7 +467,9 @@ function startQuiz() {
   for (const t of shuffle(items)) { const q = makeQ(mode, t); if (q) qs.push(q); if (qs.length === 10) break; }
   if (!qs.length) { toast("這個範圍沒有適合這種玩法的題目，換一個範圍試試"); return; }
   ACTIVE = { qs, i: 0, score: 0, picked: null };
-  if (location.hash === "#/quiz/play") runQuiz(); else location.hash = "#/quiz/play";
+  const go = () => { if (location.hash === "#/quiz/play") runQuiz(); else location.hash = "#/quiz/play"; };
+  // 看圖猜成語：先拿第一題的模糊預覽（最多等 0.8 秒）
+  if (mode === "picture") prepLqip([qs[0].target.no]).finally(go); else go();
 }
 // 進行中的測驗：記住目前題號與作答，按「看成語」再返回時接著做，不會重來
 let ACTIVE = null;
@@ -499,7 +523,7 @@ function runQuiz() {
     });
     if (q.prompt.includes("quiz-art")) preloadArt(qs[st.i + 1]?.target.no);
     watchArt();
-    view.querySelector(".quiz-art img")?.addEventListener("click", (ev) => ev.currentTarget.closest(".quiz-art").classList.toggle("zoom"));
+    view.querySelector(".quiz-art img.art")?.addEventListener("click", (ev) => ev.currentTarget.closest(".quiz-art").classList.toggle("zoom"));
     view.querySelectorAll(".opt").forEach((b) => b.addEventListener("click", () => {
       if (st.picked !== null) return;
       st.picked = +b.dataset.k;
@@ -588,7 +612,7 @@ function me() {
       toast("離線下載需要 HTTPS 與已啟用的離線快取，請先重新整理再試。");
       return;
     }
-    const urls = [...new Set(INDEX.map((i) => `data/detail/${String(i.k).padStart(2, "0")}.json`)), ...Object.values(ILLUSTRATIONS).map((a) => (innerWidth <= 600 ? smallSrc(a.src) : a.src))];
+    const urls = [...new Set(INDEX.map((i) => `data/detail/${String(i.k).padStart(2, "0")}.json`)), ...Object.values(ILLUSTRATIONS).map(phoneArtSrc)];
     let n = 0;
     try {
       // Explicitly await cache writes before reporting readiness or quota errors.

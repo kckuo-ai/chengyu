@@ -52,12 +52,23 @@ img.rare { height: 1em; vertical-align: -0.12em; }
   content: "插圖載入中…"; position: absolute; inset: 0; display: grid; place-items: center;
   font-family: var(--sans); font-size: 15px; color: #8a7d64;
 }
-.art-box img { position: relative; }
+.art-box picture { display: block; }
+.art-box img.art { position: relative; z-index: 2; }
+/* 模糊預覽：真正的圖還在下載時先顯示，下載好就被蓋過去 */
+.art-box .lqip {
+  position: absolute; inset: 0; z-index: 0; width: 100%; height: 100%; object-fit: cover;
+  filter: blur(5px) saturate(1.05); transform: scale(1.04);
+}
+.art-box::before { z-index: 1; }
+.art-box.has-lqip::before { content: none; }
+.art-box.loaded .lqip { display: none; }
+.art-box.failed .lqip { display: none; }
+.art-box.failed.has-lqip::before { content: "插圖沒有載入，點一下重試"; }
 .art-box.loaded { background: none; }
 .art-box.loaded::before { content: none; }
 .art-box.failed { cursor: pointer; min-height: 120px; }
 .art-box.failed::before { content: "插圖沒有載入，點一下重試"; color: #8a5a3b; text-decoration: underline; }
-.art-box.failed img { visibility: hidden; }
+.art-box.failed img.art { visibility: hidden; }
 /* 測驗插圖：寬度不超過畫面，高度不超過畫面的三分之一左右（圖是 3:2） */
 .quiz-art .art-box { display: block; width: min(100%, 51vh); width: min(100%, 51svh); margin: 0 auto; }
 .quiz-art.zoom .art-box { width: 100%; }
