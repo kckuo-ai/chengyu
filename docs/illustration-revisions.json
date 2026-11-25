@@ -6153,5 +6153,27 @@
     "review": "docs/illustration-reviews.json#entries/492",
     "resolved_findings": [],
     "status": "registered"
+  },
+  {
+    "no": 481,
+    "batch": "batch-36-redraw-481",
+    "reason": "第八組481退回項目重畫；已實際檢視全圖、原尺寸細節及10張比較候選，八項通過。",
+    "previousEntry": {
+      "word": "咬文嚼字",
+      "src": "img/idioms/481.webp",
+      "alt": "學生用放大鏡與鑷子仔細調整稿紙上的細小紙條，桌上堆滿廢紙條，同伴指著圖畫書中仍空白的一頁。",
+      "width": 1536,
+      "height": 1024,
+      "source": "AI-generated original illustration",
+      "originalSha256": "85cf21dbb9c2d8909107dc70182db6ce8cc677be252dc4984c9994db3f9001af"
+    },
+    "previousOriginalSha256": "85cf21dbb9c2d8909107dc70182db6ce8cc677be252dc4984c9994db3f9001af",
+    "previousReviewArchivePath": "records/reviews/51afef774d2a213922f853388d232266c3328544c091f9aaf14e418cf46153f4.json",
+    "replacement": "img/idioms/481-31ef3c7cd9e9.webp",
+    "replacementOriginal": "/workspace/idiom-review/batch-36-redraw-481/extracted/batch-36/481.png",
+    "originalSha256": "31ef3c7cd9e9f9be25ed775c0730eafcfc944a267893bfb0841cc24f4d968fa3",
+    "review": "docs/illustration-reviews.json#entries/481",
+    "resolved_findings": [],
+    "status": "registered"
   }
 ]

@@ -45888,118 +45888,71 @@
     },
     "481": {
       "no": 481,
-      "kind": "existing",
+      "kind": "regenerate",
       "word": "咬文嚼字",
-      "path": "/workspace/chengyu-preservation/originals/85cf21dbb9c2d8909107dc70182db6ce8cc677be252dc4984c9994db3f9001af.png",
-      "original_sha256": "85cf21dbb9c2d8909107dc70182db6ce8cc677be252dc4984c9994db3f9001af",
-      "original_available": true,
-      "review_source_sha256": "85cf21dbb9c2d8909107dc70182db6ce8cc677be252dc4984c9994db3f9001af",
-      "webp_src": "img/idioms/481.webp",
-      "webp_sha256": "5d56d06ecb22d2a8c2e18b8f25f7d63ae075c496cf16f091b41b332887c04155",
-      "passed": false,
-      "reviewer": "independent-visual-review-2026-11-24",
-      "review_batch": "full-audit-20261123/group-08",
-      "alt": "女子拿著放大鏡與鑷子，專注調整書頁上的細小空白紙條，桌面堆滿剪下的紙片，旁邊男孩卻指著架上圖書裡的救人故事。",
-      "issues": [
-        "meaning: 女子拿放大鏡與鑷子排空白細紙條，孩子指向圖像救人故事；沒有可辨的字句推敲或拘泥字義，容易只看成精細剪貼，詞義證據不足。",
-        "text_brand_watermark: 筆筒黃色直尺除刻度外有極小數碼樣標記，書架書脊亦有仿字形標記；依禁止數字與類字符號退回。"
-      ],
-      "regenerate": true,
+      "path": "/workspace/idiom-review/batch-36-redraw-481/extracted/batch-36/481.png",
+      "original_sha256": "31ef3c7cd9e9f9be25ed775c0730eafcfc944a267893bfb0841cc24f4d968fa3",
+      "passed": true,
+      "reviewer": "independent-visual-review-2026-11-25",
+      "review_batch": "batch-36-redraw-481",
+      "alt": "作者坐在斜式稿架前，手指沿著同一頁紙仔細試讀，停筆思索後又低頭修改，接著再開口讀一遍，桌旁放著數份稿紙。",
+      "issues": [],
+      "regenerate": false,
       "checks": {
         "meaning": {
-          "passed": false,
-          "evidence": "女子拿放大鏡與鑷子排空白細紙條，孩子指向圖像救人故事；沒有可辨的字句推敲或拘泥字義，容易只看成精細剪貼，詞義證據不足。"
+          "passed": true,
+          "evidence": "採MOE第一義「在字句上推敲琢磨」，不採另一個拘泥而迂腐的貶義。主景作者以食指固定稿面同一位置、嘴微張試讀而停筆，右上同人低頭改寫，右下又抬頭試讀同頁，反覆讀、停、改、再讀可辨，並非前稿拿放大鏡檢紙。無聲稱看見被遮住的稿文內容；紙面朝作者以符合無文字要求。與近義字斟句酌相容。已實際看10張現行比較候選：527強調創作耗心力與大量失敗稿、1198強調迅速成篇，此圖反覆修同頁，未見幾乎相同可互換構圖。"
         },
         "composition": {
           "passed": true,
-          "evidence": "以女子拿著放大鏡與鑷子為焦點，人物動作、表情和對照主體集中，手機縮圖可辨主要故事；背景未遮擋核心。"
+          "evidence": "左側大主景、右側上下兩幕，固定人物衣色及稿架使閱讀順序清楚；臉、筆與指紙動作在手機縮圖仍可辨，背景留白。"
         },
         "hands_feet_pose": {
           "passed": true,
-          "evidence": "放大鏡握柄和鑷子捏持手五指自然，孩子指圖手正常，書中救人者雙手相抓、腿蹲岩石。"
+          "evidence": "三幕各兩臂，肩肘腕連接連續；右手握筆可辨拇指與四曲指，左手指稿的其餘指自然收曲、拇指被稿遮；上格左手扶紙角五指結構正常。坐姿腿腳在桌下或裁切，不把遮蔽當缺肢，沒有多手腳。"
         },
         "objects_contact_perspective": {
           "passed": true,
-          "evidence": "放大鏡和鑷子實際接紙、紙條堆桌，圖書架有底座，救人是平面故事圖非實景。"
+          "evidence": "三幕木稿架各有托邊與支腳接桌、紙頁單層朝作者，上格筆尖接作者側稿面，主景及下格為停筆未接紙，手指接稿面不穿紙；桌面散紙和筆筒均落桌，窗及椅背透視一致。"
         },
         "text_brand_watermark": {
-          "passed": false,
-          "evidence": "筆筒黃色直尺除刻度外有極小數碼樣標記，書架書脊亦有仿字形標記；依禁止數字與類字符號退回。"
-        },
-        "taiwan_context": {
           "passed": true,
-          "evidence": "台灣現代親子書桌與窗外方形住宅，日常圍裙連帽衣，兒童比例符合國小年齡。"
-        },
-        "no_red_neckerchief": {
-          "passed": true,
-          "evidence": "所有主景、回想與背景人物頸部逐一看過，為普通衣領、連帽衣或腰繫圍裙，無紅領巾或紅圍巾；頭部髮帶與紅色上衣不屬領巾。"
+          "evidence": "原尺寸六格涵蓋整張，逐區檢查每份紙、筆筒、衣領、住宅與窗邊。只見素紙背，沒有可讀文字、假字、字母、數字、類字標記、品牌、水印或不適內容。"
         },
         "style": {
           "passed": true,
-          "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+          "evidence": "鉛筆輪廓、柔和透明水彩與色鉛筆顆粒疊色清楚，米白紙紋保留，暖棕桌椅和淡藍襯衫低彩度，非扁平亮色或3D。"
+        },
+        "taiwan_context": {
+          "passed": true,
+          "evidence": "窗外平頂水泥住宅有不鏽鋼屋頂水塔、鋁框窗與冷氣機；作者素襯衫、普通木桌及筆筒，呈台灣現代住家寫作環境，成人比例自然，不憑臉孔推斷國籍。"
+        },
+        "no_red_neckerchief": {
+          "passed": true,
+          "evidence": "三幕同一作者皆穿淡藍襯衫，領口完全可見，沒有紅領巾、紅圍巾或其他紅色頸飾。"
         }
       },
+      "previous_installed_original_sha256": "85cf21dbb9c2d8909107dc70182db6ce8cc677be252dc4984c9994db3f9001af",
+      "previous_review_archive_path": "records/reviews/51afef774d2a213922f853388d232266c3328544c091f9aaf14e418cf46153f4.json",
+      "previous_rejected_candidate_review_archive_path": "records/reviews/5afb745b09e861639191260721b9f56f74cfd02ac80829c510665b4654123145.json",
       "inspection": {
         "full_image": true,
-        "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
         "native_detail_crops": true,
         "native_size": [
           1536,
           1024
         ],
-        "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
-        "comparison": {
-          "all_sheets_actually_viewed": true,
-          "sheet_count": 9,
-          "candidate_count": 211,
-          "sheets_viewed": [
-            "compare-1.jpg",
-            "compare-2.jpg",
-            "compare-3.jpg",
-            "compare-4.jpg",
-            "compare-5.jpg",
-            "compare-6.jpg",
-            "compare-7.jpg",
-            "compare-8.jpg",
-            "compare-9.jpg"
-          ],
-          "candidate_source": "comparison-candidates.json",
-          "extra_full_comparisons": [
-            [
-              491,
-              584
-            ],
-            [
-              457,
-              584
-            ],
-            [
-              444,
-              478
-            ]
-          ],
-          "near_duplicates": {
-            "444": "另對照本組478：同為左側藍衣搭橋者、右側女子指導、中央弧形木橋與散零件的桌前構圖。雖加教師和野餐泡泡，仍重複同一橋模型教學模板，依重複構圖規則退回。",
-            "478": "另對照本組444：左側藍衣人物、右側女子指示、中間木製弧橋及桌面散零件的主景幾乎相同，只改表情與年齡，無法保持各成語獨立構圖，退回。",
-            "457": "另全圖比較584無與倫比，並比對本組491：同用精密桁架拱橋承多個重物、弱橋承少量就下陷的成果比較。兩橋並排雖換左右人物，核心木橋承重優劣故事近乎可互換，依重複道具構圖規則退回。",
-            "491": "另實際全圖比較584無與倫比：同是中央精密木拱橋疊大石、周邊簡易小橋、右側藍格衫製作者與左側老師同學稱讚。主要構圖、角色與道具近乎相同，僅改石頭數量及人物站位，退回。"
-          },
-          "comparison_note": "九張比較表211張現行候選逐張實際看過，另全圖檢視584與本組444/478/457/491對照；未把同畫風、同人物類型本身當作重複構圖。"
-        },
-        "source_limit": "Original PNG available"
+        "detail_crops": "All source pixels in six unresized512px tiles including all hands, paper faces, windows and clothing.",
+        "comparison_candidates": 10,
+        "comparison_method": "compare-1.jpg and extra-comparison.jpg actually viewed, including current writing/craft scenes."
       },
       "meaning_reference": {
-        "meaning": "形容在字句上推敲琢磨。＆形容拘泥於文字詮釋而流於見解迂腐、淺陋。＆形容好稱引古書以賣弄才學的淵博。",
+        "moe_meaning": "形容在字句上推敲琢磨。＆形容拘泥於文字詮釋而流於見解迂腐、淺陋。＆形容好稱引古書以賣弄才學的淵博。",
         "syn": "字斟句酌、尋行數墨",
         "ant": ""
       },
-      "latest_rejected_candidate": {
-        "batch": "batch-35-unresolved-25",
-        "original_sha256": "b1c84c42c7a444abb054d7c44fc95e25f75ba8d97d3b7e1d3617b0737041117e",
-        "original_archive_path": "originals/b1c84c42c7a444abb054d7c44fc95e25f75ba8d97d3b7e1d3617b0737041117e.png",
-        "review_archive_path": "records/reviews/5afb745b09e861639191260721b9f56f74cfd02ac80829c510665b4654123145.json",
-        "passed": false
-      }
+      "webp_src": "img/idioms/481-31ef3c7cd9e9.webp",
+      "webp_sha256": "ea8d291a227b3938e065864e8df55465d60b2352c6834a3159a96bac53d2760b"
     },
     "482": {
       "no": 482,
