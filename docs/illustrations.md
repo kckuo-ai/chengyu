@@ -16,7 +16,7 @@
 - 兒童可理解的情境，避免血腥與危險動作；無標題、文字、浮水印，避免看圖題洩漏答案。
 - 不指定特定創作者的風格、不使用第三方插畫參考、不使用知名角色或商標。製作來源記錄不等於零侵權風險的法律保證。
 
-已生成插圖使用 image generation 工具，依各詞條的意義撰寫獨立場景提示。原始 PNG 以 SHA-256 去重，保留於 `illustration-archive` 分支的 `originals/` 及工作區 `/workspace/chengyu-preservation/originals/`；舊 `/workspace/generated_images/` 路徑可為相容符號連結。網頁使用重新編碼的 WebP，不裁切或改動構圖。各張原圖 SHA-256 記在目錄中，可對照原始檔。
+已生成插圖使用 image generation 工具，依各詞條的意義撰寫獨立場景提示。原始 PNG 以 SHA-256 去重，保留於 `illustration-archive` 分支的 `originals/` 及工作區 `/workspace/chengyu-preservation/originals/`；舊 `/workspace/generated_images/` 路徑可為相容符號連結。網頁使用重新編碼的 WebP，不裁切或改動構圖。 `img/idioms/` 根層只保留目前目錄採用的版本；`sm/` 保留對應手機 WebP／AVIF。已替換的 WebP 可從 Git 歷史取回，刪除紀錄、雜湊與原圖／審核對照見 `docs/illustration-asset-cleanup.json`。歷史 revisions 的 `previousEntry.src` 是當時路徑，不代表現行網站仍須保留該檔。各張原圖 SHA-256 記在目錄中，可對照原始檔。
 
 從「一諾千金」開始的現代情境批次，完整共用畫風提示、個別場景提示與替代文字另存於 `docs/illustration-prompts.json`，便於追溯與後續調整。
 
