@@ -1,5 +1,5 @@
 // 離線快取：先用快取，同時在背景更新。改了程式或資料後把 VERSION 加 1。
-const VERSION = "v128";
+const VERSION = "v129";
 const CACHE = `chengyu-${VERSION}`;
 const CONTENT_CACHE = "chengyu-offline-v1";
 const SHELL = [
@@ -28,6 +28,11 @@ self.addEventListener("activate", (e) => {
     .then((ks) => Promise.all(ks.filter((k) => /^chengyu-v/.test(k) && k !== CACHE).map((k) => caches.delete(k))))
     .then(() => self.clients.claim()));
 });
+// 取資料的規則：
+// - 有快取就先用快取（最多等 1.5 秒，iPhone 上快取很大時查詢可能很慢，就改走網路）。
+// - 從網路拿到的檔案「馬上」交給網頁顯示，存進快取在背景進行，不讓大張插圖卡住畫面。
+// - 插圖的網址帶 ?retry=… 時不查快取，直接重新下載（網頁上「點一下重試」用）。
+const lookup = (p, ms) => Promise.race([p.catch(() => null), new Promise((r) => setTimeout(() => r(null), ms))]);
 self.addEventListener("fetch", (e) => {
   const req = e.request;
   if (req.method !== "GET") return;
@@ -37,14 +42,19 @@ self.addEventListener("fetch", (e) => {
   // Visited and explicitly downloaded pictures share one cache, avoiding two
   // stored copies of every large image. Keep it across application upgrades.
   const content = url.origin === location.origin && /\/(data\/detail|img\/idioms)\//.test(url.pathname);
-  const cache = caches.open(content ? CONTENT_CACHE : CACHE);
-  const hit = cache.then((c) => c.match(req, { ignoreSearch: url.origin === location.origin }));
-  const net = fetch(req).then(async (res) => {
+  const retry = url.searchParams.has("retry");
+  const cacheP = caches.open(content ? CONTENT_CACHE : CACHE);
+  const key = retry ? new Request(url.origin + url.pathname) : req;
+  let finish;
+  e.waitUntil(new Promise((r) => { finish = r; }));
+  const net = fetch(retry ? new Request(url.href, { cache: "reload" }) : req).then((res) => {
     if (res.ok || res.type === "opaque") {
-      await cache.then((c) => c.put(req, res.clone())).catch(() => {});
-    }
+      const copy = res.clone();
+      cacheP.then((c) => c.put(key, copy)).catch(() => {}).finally(finish);
+    } else finish();
     return res;
-  });
-  e.waitUntil(net.then(() => {}, () => {}));
+  }, (err) => { finish(); throw err; });
+  if (retry) { e.respondWith(net); return; }
+  const hit = lookup(cacheP.then((c) => c.match(req, { ignoreSearch: url.origin === location.origin })), 1500);
   e.respondWith(hit.then((res) => res || net));
 });

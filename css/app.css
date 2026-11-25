@@ -45,7 +45,20 @@ button, input, select { font: inherit; color: inherit; }
 :focus-visible { outline: 3px solid var(--hl); outline-offset: 2px; }
 img.rare { height: 1em; vertical-align: -0.12em; }
 .idiom-art { margin: 20px 0; }
-.idiom-art img { display: block; width: 100%; height: auto; border-radius: var(--radius); background: #f8f3e7; }
+.idiom-art img { display: block; width: 100%; height: auto; border-radius: var(--radius); }
+/* 插圖框：載入前顯示「插圖載入中…」，失敗時顯示「點一下重試」 */
+.art-box { display: block; position: relative; border-radius: var(--radius); background: #f8f3e7; overflow: hidden; }
+.art-box::before {
+  content: "插圖載入中…"; position: absolute; inset: 0; display: grid; place-items: center;
+  font-family: var(--sans); font-size: 15px; color: #8a7d64;
+}
+.art-box img { position: relative; }
+.art-box.loaded { background: none; }
+.art-box.loaded::before { content: none; }
+.art-box.failed { cursor: pointer; min-height: 120px; }
+.art-box.failed::before { content: "插圖沒有載入，點一下重試"; color: #8a5a3b; text-decoration: underline; }
+.art-box.failed img { visibility: hidden; }
+.quiz-art .art-box { display: inline-block; vertical-align: top; max-width: 100%; }
 .idiom-art figcaption { margin-top: 6px; font-family: var(--sans); font-size: 13px; color: var(--muted); }
 .quiz-art { max-width: 640px; margin: 0 auto 16px; }
 

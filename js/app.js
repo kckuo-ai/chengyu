@@ -81,9 +81,36 @@ function illustration(no, quiz = false) {
   if (!art) return "";
   // Quiz descriptions explain the scene without including the answer's idiom.
   return `<figure class="idiom-art${quiz ? " quiz-art" : ""}">
-    <img src="${esc(art.src)}" alt="${esc(art.alt)}" width="${art.width}" height="${art.height}" decoding="async">
+    <span class="art-box" ${quiz ? "" : `style="aspect-ratio:${art.width}/${art.height}"`}><img src="${esc(art.src)}" alt="${esc(art.alt)}" width="${art.width}" height="${art.height}"></span>
     ${quiz ? "" : '<figcaption>成語情境插圖<span class="src-tag">本站 AI 輔助製作</span></figcaption>'}
   </figure>`;
+}
+
+// 插圖：載入中顯示提示；失敗時顯示「點一下重試」，重試會略過快取重新下載
+document.addEventListener("load", (ev) => {
+  if (ev.target.matches?.(".art-box img")) ev.target.parentElement.classList.add("loaded");
+}, true);
+document.addEventListener("error", (ev) => {
+  const img = ev.target;
+  if (!img.matches?.(".art-box img")) return;
+  const box = img.parentElement;
+  const tries = +(img.dataset.tries || 0);
+  if (tries < 1) { img.dataset.tries = tries + 1; img.src = `${img.getAttribute("src").split("?")[0]}?retry=${Date.now()}`; return; }
+  box.classList.add("failed");
+}, true);
+document.addEventListener("click", (ev) => {
+  const box = ev.target.closest(".art-box.failed");
+  if (!box) return;
+  ev.stopPropagation();
+  const img = box.querySelector("img");
+  box.classList.remove("failed");
+  img.src = `${img.getAttribute("src").split("?")[0]}?retry=${Date.now()}`;
+}, true);
+// 先在背景下載下一個要看的插圖，按「下一個」時就不用等
+function preloadArt(no) {
+  const art = no && ILLUSTRATIONS[no];
+  if (!art) return;
+  const im = new Image(); im.decoding = "async"; im.src = art.src;
 }
 
 function toast(msg) {
@@ -300,6 +327,7 @@ async function entry(no) {
 
       <p class="credit">資料來源：中華民國教育部《成語典》、《國語辭典簡編本》，依 CC BY-ND 3.0 臺灣授權使用，內容未經修改。<a href="#/about">授權說明</a></p>
     </article>${ctxNav(no)}`;
+  if (CTX) { const pos = CTX.nos.indexOf(no); if (pos >= 0) { preloadArt(CTX.nos[pos + 1]); preloadArt(CTX.nos[pos - 1]); } }
 
   view.querySelector("[data-say-story]")?.addEventListener("click", () => speak(lines(e.story).join(""), 1));
   view.querySelector("[data-say-mine]")?.addEventListener("click", () => speak(lines(mine.story).join(""), 0.95));
@@ -452,6 +480,7 @@ function runQuiz() {
       quit.classList.add("confirm"); quit.textContent = "確定結束？";
       setTimeout(() => { quit.classList.remove("confirm"); quit.textContent = "✕ 結束"; }, 3000);
     });
+    if (q.prompt.includes("quiz-art")) preloadArt(qs[st.i + 1]?.target.no);
     view.querySelector(".quiz-art img")?.addEventListener("click", (ev) => ev.currentTarget.closest(".quiz-art").classList.toggle("zoom"));
     view.querySelectorAll(".opt").forEach((b) => b.addEventListener("click", () => {
       if (st.picked !== null) return;
