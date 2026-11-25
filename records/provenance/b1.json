@@ -10736,5 +10736,13 @@
       "batch": "batches-26-27",
       "source": "docs/illustration-reviews.json#entries/214"
     }
+  ],
+  "b173ff2eef75a02fbc2445ed964a02d3f1bff17d130db9e4f107cfbf8b212d8e": [
+    {
+      "kind": "git_zip_member",
+      "commit": "9fa49760959457246173a939ef5092331db96902",
+      "zip_path": "batch-36-redraw-481.zip",
+      "member": "batch-36/manifest.json"
+    }
   ]
 }

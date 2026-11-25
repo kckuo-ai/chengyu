@@ -3694,5 +3694,26 @@
         "record_path": "records/source/e3599d882a62dbcc563f5c5b76f5c236bf88f0452c3dd3e937a22fc7f5df9bbf.json"
       }
     ]
+  },
+  {
+    "blob": "632dfb2b50ff115234be0d3b29f4d54a60758574",
+    "path": "batch-36-redraw-481.zip",
+    "commit": "9fa49760959457246173a939ef5092331db96902",
+    "bytes": 3253295,
+    "sha256": "29f768c200eb94d1ff7fb980e5a6f3e1c612bda10612d7702d2beb117624c69b",
+    "git_blob_is_lfs_pointer": false,
+    "members": [
+      {
+        "member": "batch-36/481.png",
+        "sha256": "31ef3c7cd9e9f9be25ed775c0730eafcfc944a267893bfb0841cc24f4d968fa3",
+        "kind": "original"
+      },
+      {
+        "member": "batch-36/manifest.json",
+        "sha256": "b173ff2eef75a02fbc2445ed964a02d3f1bff17d130db9e4f107cfbf8b212d8e",
+        "kind": "record",
+        "record_path": "records/source/b173ff2eef75a02fbc2445ed964a02d3f1bff17d130db9e4f107cfbf8b212d8e.json"
+      }
+    ]
   }
 ]

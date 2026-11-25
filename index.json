@@ -45012,6 +45012,32 @@
         "records/reviews/1506e551d365cd69eb6ba4188cd0d6413f588208eefa003222aa8d75d1bf30b5.json"
       ],
       "review_record_status": "existing_review_record_identified"
+    },
+    "31ef3c7cd9e9f9be25ed775c0730eafcfc944a267893bfb0841cc24f4d968fa3": {
+      "sha256": "31ef3c7cd9e9f9be25ed775c0730eafcfc944a267893bfb0841cc24f4d968fa3",
+      "path": "originals/31ef3c7cd9e9f9be25ed775c0730eafcfc944a267893bfb0841cc24f4d968fa3.png",
+      "bytes": 3310729,
+      "sources": [
+        {
+          "kind": "git_zip_member",
+          "zip_blob": "632dfb2b50ff115234be0d3b29f4d54a60758574",
+          "zip_path": "batch-36-redraw-481.zip",
+          "commit": "9fa49760959457246173a939ef5092331db96902",
+          "member": "batch-36/481.png"
+        }
+      ],
+      "idiom_numbers": [
+        "481"
+      ],
+      "related_records": [
+        "records/prompts/ebd65b3a6bfd75ace73454424f8753cdb6272c4ec0037e86d8bc36d620435aa8.json",
+        "records/reviews/44b41112ec0c30e075adfeedd2a9ce102a94ad6d9a142ec44b1d4a7fbd6d4472.json",
+        "records/source/d4b6e0edbd5ccf700bb5e352b47baaf6e5c29972927ae952716ccd314482f665.json"
+      ],
+      "review_record_paths": [
+        "records/reviews/44b41112ec0c30e075adfeedd2a9ce102a94ad6d9a142ec44b1d4a7fbd6d4472.json"
+      ],
+      "review_record_status": "existing_review_record_identified"
     }
   },
   "records": {
@@ -82910,6 +82936,48 @@
       "path": "records/source/3b3341775bc662236201eccd60177b95d10e37029b4ab7193d328c37c3ba6720.json",
       "bytes": 19705,
       "provenance": "records/provenance/3b.json#3b3341775bc662236201eccd60177b95d10e37029b4ab7193d328c37c3ba6720"
+    },
+    "b173ff2eef75a02fbc2445ed964a02d3f1bff17d130db9e4f107cfbf8b212d8e": {
+      "sha256": "b173ff2eef75a02fbc2445ed964a02d3f1bff17d130db9e4f107cfbf8b212d8e",
+      "path": "records/source/b173ff2eef75a02fbc2445ed964a02d3f1bff17d130db9e4f107cfbf8b212d8e.json",
+      "bytes": 1681,
+      "provenance": "records/provenance/b1.json#b173ff2eef75a02fbc2445ed964a02d3f1bff17d130db9e4f107cfbf8b212d8e"
+    },
+    "44b41112ec0c30e075adfeedd2a9ce102a94ad6d9a142ec44b1d4a7fbd6d4472": {
+      "sha256": "44b41112ec0c30e075adfeedd2a9ce102a94ad6d9a142ec44b1d4a7fbd6d4472",
+      "path": "records/reviews/44b41112ec0c30e075adfeedd2a9ce102a94ad6d9a142ec44b1d4a7fbd6d4472.json",
+      "bytes": 4228,
+      "provenance": "records/provenance/44.json#44b41112ec0c30e075adfeedd2a9ce102a94ad6d9a142ec44b1d4a7fbd6d4472"
+    },
+    "d4b6e0edbd5ccf700bb5e352b47baaf6e5c29972927ae952716ccd314482f665": {
+      "sha256": "d4b6e0edbd5ccf700bb5e352b47baaf6e5c29972927ae952716ccd314482f665",
+      "path": "records/source/d4b6e0edbd5ccf700bb5e352b47baaf6e5c29972927ae952716ccd314482f665.json",
+      "bytes": 3152,
+      "provenance": "records/provenance/d4.json#d4b6e0edbd5ccf700bb5e352b47baaf6e5c29972927ae952716ccd314482f665"
+    },
+    "ebd65b3a6bfd75ace73454424f8753cdb6272c4ec0037e86d8bc36d620435aa8": {
+      "sha256": "ebd65b3a6bfd75ace73454424f8753cdb6272c4ec0037e86d8bc36d620435aa8",
+      "path": "records/prompts/ebd65b3a6bfd75ace73454424f8753cdb6272c4ec0037e86d8bc36d620435aa8.json",
+      "bytes": 3200,
+      "provenance": "records/provenance/eb.json#ebd65b3a6bfd75ace73454424f8753cdb6272c4ec0037e86d8bc36d620435aa8"
+    },
+    "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570": {
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "path": "records/source/37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570.json",
+      "bytes": 3,
+      "provenance": "records/provenance/37.json#37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "895c89cc03bf81e6f8aaa5ba90a20af6d2a51ee09db7afcd7cfcb07d60852060": {
+      "sha256": "895c89cc03bf81e6f8aaa5ba90a20af6d2a51ee09db7afcd7cfcb07d60852060",
+      "path": "records/source/895c89cc03bf81e6f8aaa5ba90a20af6d2a51ee09db7afcd7cfcb07d60852060.json",
+      "bytes": 333,
+      "provenance": "records/provenance/89.json#895c89cc03bf81e6f8aaa5ba90a20af6d2a51ee09db7afcd7cfcb07d60852060"
+    },
+    "e5705f14b669ba3cb5d76e4c977a904fd3d683ec70620d55394bca3e0ee8709b": {
+      "sha256": "e5705f14b669ba3cb5d76e4c977a904fd3d683ec70620d55394bca3e0ee8709b",
+      "path": "records/source/e5705f14b669ba3cb5d76e4c977a904fd3d683ec70620d55394bca3e0ee8709b.json",
+      "bytes": 2342,
+      "provenance": "records/provenance/e5.json#e5705f14b669ba3cb5d76e4c977a904fd3d683ec70620d55394bca3e0ee8709b"
     }
   },
   "website_entries": {
