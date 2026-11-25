@@ -2,7 +2,7 @@
   "schema_version": 1,
   "description": "Content-addressed original PNGs and source/review records. Preservation is not a new visual approval.",
   "source_repository": "kckuo-ai/chengyu",
-  "main_commit": "6cf48046a58b4e50a6d622b6555b3d9f284e2b9a",
+  "main_commit": "959d2504dc3e2edb5927306e0f25d701101b7f60",
   "originals": {
     "ff8f5b88d4b5eb8c5b7e971c8b31cb8229333980e588e4dd1ca3ab31c0cdf5c2": {
       "sha256": "ff8f5b88d4b5eb8c5b7e971c8b31cb8229333980e588e4dd1ca3ab31c0cdf5c2",
@@ -82978,6 +82978,30 @@
       "path": "records/source/e5705f14b669ba3cb5d76e4c977a904fd3d683ec70620d55394bca3e0ee8709b.json",
       "bytes": 2342,
       "provenance": "records/provenance/e5.json#e5705f14b669ba3cb5d76e4c977a904fd3d683ec70620d55394bca3e0ee8709b"
+    },
+    "e3e783876378070acf0303521cc05d19c0d40a411dabe44bb24061a45b551eab": {
+      "sha256": "e3e783876378070acf0303521cc05d19c0d40a411dabe44bb24061a45b551eab",
+      "path": "records/source/e3e783876378070acf0303521cc05d19c0d40a411dabe44bb24061a45b551eab.json",
+      "bytes": 569,
+      "provenance": "records/provenance/e3.json#e3e783876378070acf0303521cc05d19c0d40a411dabe44bb24061a45b551eab"
+    },
+    "36b007ead56a66b2d669392ebad15e80dfc756784481eb29fb7084990ed680b2": {
+      "sha256": "36b007ead56a66b2d669392ebad15e80dfc756784481eb29fb7084990ed680b2",
+      "path": "records/source/36b007ead56a66b2d669392ebad15e80dfc756784481eb29fb7084990ed680b2.json",
+      "bytes": 11322,
+      "provenance": "records/provenance/36.json#36b007ead56a66b2d669392ebad15e80dfc756784481eb29fb7084990ed680b2"
+    },
+    "512421995368e5837e22c90b857e7cf53f020ad20ebe0377e9742ae2eb1b5352": {
+      "sha256": "512421995368e5837e22c90b857e7cf53f020ad20ebe0377e9742ae2eb1b5352",
+      "path": "records/source/512421995368e5837e22c90b857e7cf53f020ad20ebe0377e9742ae2eb1b5352.json",
+      "bytes": 18017,
+      "provenance": "records/provenance/51.json#512421995368e5837e22c90b857e7cf53f020ad20ebe0377e9742ae2eb1b5352"
+    },
+    "b61545e2761049617cb372890a9f4dea1f156bc611836d28c5260b579e7a8b23": {
+      "sha256": "b61545e2761049617cb372890a9f4dea1f156bc611836d28c5260b579e7a8b23",
+      "path": "records/source/b61545e2761049617cb372890a9f4dea1f156bc611836d28c5260b579e7a8b23.json",
+      "bytes": 2550,
+      "provenance": "records/provenance/b6.json#b61545e2761049617cb372890a9f4dea1f156bc611836d28c5260b579e7a8b23"
     }
   },
   "website_entries": {
@@ -87642,20 +87666,13 @@
     },
     "481": {
       "word": "咬文嚼字",
-      "webp": "img/idioms/481.webp",
-      "original_sha256": "85cf21dbb9c2d8909107dc70182db6ce8cc677be252dc4984c9994db3f9001af",
-      "original": "originals/85cf21dbb9c2d8909107dc70182db6ce8cc677be252dc4984c9994db3f9001af.png",
+      "webp": "img/idioms/481-31ef3c7cd9e9.webp",
+      "original_sha256": "31ef3c7cd9e9f9be25ed775c0730eafcfc944a267893bfb0841cc24f4d968fa3",
+      "original": "originals/31ef3c7cd9e9f9be25ed775c0730eafcfc944a267893bfb0841cc24f4d968fa3.png",
       "review_record_present": true,
-      "current_review_path": "records/reviews/4e9aa0a10c37959ab71f4435c169d222450ca57b78569126d1e35073a468e891.json",
-      "review_status": "failed_independent_visual_review_retained_pending_replacement",
-      "current_prompt_path": "records/prompts/e2cd112a906d5e0c543d3d361ea7dc6698a81a14ae5ca23eb1fbd97f701e53a0.json",
-      "latest_rejected_candidate": {
-        "batch": "batch-35-unresolved-25",
-        "original_sha256": "b1c84c42c7a444abb054d7c44fc95e25f75ba8d97d3b7e1d3617b0737041117e",
-        "original_archive_path": "originals/b1c84c42c7a444abb054d7c44fc95e25f75ba8d97d3b7e1d3617b0737041117e.png",
-        "review_archive_path": "records/reviews/5afb745b09e861639191260721b9f56f74cfd02ac80829c510665b4654123145.json",
-        "passed": false
-      }
+      "current_review_path": "records/reviews/44b41112ec0c30e075adfeedd2a9ce102a94ad6d9a142ec44b1d4a7fbd6d4472.json",
+      "review_status": "passed_independent_visual_review",
+      "current_prompt_path": "records/prompts/ebd65b3a6bfd75ace73454424f8753cdb6272c4ec0037e86d8bc36d620435aa8.json"
     },
     "482": {
       "word": "亡羊補牢",

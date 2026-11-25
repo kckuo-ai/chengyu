@@ -1,18 +1,11 @@
 {
   "no": 481,
   "word": "咬文嚼字",
-  "webp": "img/idioms/481.webp",
-  "original_sha256": "85cf21dbb9c2d8909107dc70182db6ce8cc677be252dc4984c9994db3f9001af",
-  "original": "originals/85cf21dbb9c2d8909107dc70182db6ce8cc677be252dc4984c9994db3f9001af.png",
+  "webp": "img/idioms/481-31ef3c7cd9e9.webp",
+  "original_sha256": "31ef3c7cd9e9f9be25ed775c0730eafcfc944a267893bfb0841cc24f4d968fa3",
+  "original": "originals/31ef3c7cd9e9f9be25ed775c0730eafcfc944a267893bfb0841cc24f4d968fa3.png",
   "review_record_present": true,
-  "current_review_path": "records/reviews/4e9aa0a10c37959ab71f4435c169d222450ca57b78569126d1e35073a468e891.json",
-  "review_status": "failed_independent_visual_review_retained_pending_replacement",
-  "current_prompt_path": "records/prompts/e2cd112a906d5e0c543d3d361ea7dc6698a81a14ae5ca23eb1fbd97f701e53a0.json",
-  "latest_rejected_candidate": {
-    "batch": "batch-35-unresolved-25",
-    "original_sha256": "b1c84c42c7a444abb054d7c44fc95e25f75ba8d97d3b7e1d3617b0737041117e",
-    "original_archive_path": "originals/b1c84c42c7a444abb054d7c44fc95e25f75ba8d97d3b7e1d3617b0737041117e.png",
-    "review_archive_path": "records/reviews/5afb745b09e861639191260721b9f56f74cfd02ac80829c510665b4654123145.json",
-    "passed": false
-  }
+  "current_review_path": "records/reviews/44b41112ec0c30e075adfeedd2a9ce102a94ad6d9a142ec44b1d4a7fbd6d4472.json",
+  "review_status": "passed_independent_visual_review",
+  "current_prompt_path": "records/prompts/ebd65b3a6bfd75ace73454424f8753cdb6272c4ec0037e86d8bc36d620435aa8.json"
 }

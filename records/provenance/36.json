@@ -3383,5 +3383,13 @@
       "batch": "batches-24-25",
       "source": "docs/illustration-reviews.json#entries/131"
     }
+  ],
+  "36b007ead56a66b2d669392ebad15e80dfc756784481eb29fb7084990ed680b2": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "batch-36-redraw-481",
+      "source_file": "progress.json",
+      "reviewer": "independent-visual-review-2026-11-25"
+    }
   ]
 }
