@@ -181,12 +181,40 @@ function pickVoice() {
   VOICE = vs.find((v) => v.voiceURI === saved) || vs.slice().sort((a, b) => voiceScore(b) - voiceScore(a))[0] || null;
 }
 if ("speechSynthesis" in window) { pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
+// iPhone Safari 的朗讀偶爾會沒有聲音：切到背景回來後卡在「暫停」、剛取消上一段就馬上唸、
+// 或唸到一半的物件被回收。這裡會：留住正在唸的物件、先 resume()、
+// 1.5 秒內沒開始就自動重試一次（改用系統預設語音），還是不行才提示檢查靜音與音量。
+let SPEAKING = null, SPEECH_TOKEN = 0;
+const stopSpeech = () => {
+  if (!("speechSynthesis" in window)) return;
+  SPEECH_TOKEN++;
+  if (speechSynthesis.speaking || speechSynthesis.pending) speechSynthesis.cancel();
+};
 function speak(text, rate = 0.9) {
   if (!("speechSynthesis" in window)) return toast("這台裝置不支援朗讀");
-  speechSynthesis.cancel();
-  const u = new SpeechSynthesisUtterance(text);
-  u.lang = VOICE?.lang || "zh-TW"; u.rate = rate; if (VOICE) u.voice = VOICE;
-  speechSynthesis.speak(u);
+  const say = (useVoice) => {
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = (useVoice && VOICE?.lang) || "zh-TW"; u.rate = rate;
+    if (useVoice && VOICE) u.voice = VOICE;
+    let started = false;
+    u.onstart = () => { started = true; };
+    u.onend = () => { if (SPEAKING === u) SPEAKING = null; };
+    SPEAKING = u;  // 留住物件，避免 Safari 唸到一半被回收
+    speechSynthesis.resume();
+    speechSynthesis.speak(u);
+    return () => started;
+  };
+  stopSpeech();
+  const token = SPEECH_TOKEN;
+  const started = say(true);
+  setTimeout(() => {
+    if (token !== SPEECH_TOKEN || started()) return;
+    speechSynthesis.cancel(); speechSynthesis.resume();
+    const again = say(false);
+    setTimeout(() => {
+      if (token === SPEECH_TOKEN && !again()) toast("沒有聲音嗎？請確認 iPhone 側邊的靜音開關沒有打開，並把音量調大");
+    }, 2000);
+  }, 2000);
 }
 const voiceLabel = (v) => `${v.name}（${v.lang}${/compact|精簡/i.test(v.voiceURI + v.name) ? "，精簡" : /premium|enhanced|增強|高品質/i.test(v.voiceURI + v.name) ? "，增強" : ""}）`;
 
@@ -655,7 +683,7 @@ async function about() {
 
 // ---------------- 路由 ----------------
 async function route() {
-  if ("speechSynthesis" in window) speechSynthesis.cancel();
+  stopSpeech();
   document.body.classList.remove("playing");
   const h = location.hash.slice(1) || "/";
   const [path, qs] = h.split("?");
