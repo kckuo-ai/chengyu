@@ -1,5 +1,5 @@
 // 離線快取：先用快取，同時在背景更新。改了程式或資料後把 VERSION 加 1。
-const VERSION = "v129";
+const VERSION = "v130";
 const CACHE = `chengyu-${VERSION}`;
 const CONTENT_CACHE = "chengyu-offline-v1";
 const SHELL = [
@@ -41,7 +41,14 @@ self.addEventListener("fetch", (e) => {
   if (!ok) return;
   // Visited and explicitly downloaded pictures share one cache, avoiding two
   // stored copies of every large image. Keep it across application upgrades.
-  const content = url.origin === location.origin && /\/(data\/detail|img\/idioms)\//.test(url.pathname);
+  // 插圖：直接從網路載入，不在下載時另外複製一份存快取（iPhone 上這樣做可能讓圖片卡住載不完）。
+  // 沒有網路時，才改用「下載全部內容」存好的那一份。
+  if (url.origin === location.origin && /\/img\/idioms\//.test(url.pathname)) {
+    e.respondWith(fetch(req).catch(() =>
+      caches.open(CONTENT_CACHE).then((c) => c.match(req, { ignoreSearch: true })).then((r) => r || Response.error())));
+    return;
+  }
+  const content = url.origin === location.origin && /\/data\/detail\//.test(url.pathname);
   const retry = url.searchParams.has("retry");
   const cacheP = caches.open(content ? CONTENT_CACHE : CACHE);
   const key = retry ? new Request(url.origin + url.pathname) : req;

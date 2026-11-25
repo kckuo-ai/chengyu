@@ -76,12 +76,16 @@ const plain = (s) => (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").replace(
 const link = (w) => (BYWORD.has(w) ? `<a class="chip" href="#/w/${BYWORD.get(w).no}">${esc(w)}</a>` : `<span class="chip">${esc(w)}</span>`);
 const split = (s) => (s || "").split(/[、，,]/).map((x) => x.trim()).filter(Boolean);
 
+// 手機用小圖（img/idioms/sm/，約 80 KB），iPad／電腦用原圖；由瀏覽器依螢幕自動選
+const smallSrc = (src) => src.replace(/\/([^/]+)$/, "/sm/$1");
+const ART_SIZES = "(max-width: 600px) 50vw, 720px";
+const artSrcset = (art) => `${smallSrc(art.src)} 800w, ${art.src} ${art.width}w`;
 function illustration(no, quiz = false) {
   const art = ILLUSTRATIONS[no];
   if (!art) return "";
   // Quiz descriptions explain the scene without including the answer's idiom.
   return `<figure class="idiom-art${quiz ? " quiz-art" : ""}">
-    <span class="art-box" ${quiz ? "" : `style="aspect-ratio:${art.width}/${art.height}"`}><img src="${esc(art.src)}" alt="${esc(art.alt)}" width="${art.width}" height="${art.height}"></span>
+    <span class="art-box" ${quiz ? "" : `style="aspect-ratio:${art.width}/${art.height}"`}><img src="${esc(smallSrc(art.src))}" srcset="${esc(artSrcset(art))}" sizes="${ART_SIZES}" data-full="${esc(art.src)}" alt="${esc(art.alt)}" width="${art.width}" height="${art.height}"></span>
     ${quiz ? "" : '<figcaption>成語情境插圖<span class="src-tag">本站 AI 輔助製作</span></figcaption>'}
   </figure>`;
 }
@@ -94,6 +98,8 @@ document.addEventListener("error", (ev) => {
   const img = ev.target;
   if (!img.matches?.(".art-box img")) return;
   const box = img.parentElement;
+  // 小圖還沒產生時，改用原圖
+  if (img.hasAttribute("srcset")) { img.removeAttribute("srcset"); img.src = img.dataset.full; return; }
   const tries = +(img.dataset.tries || 0);
   if (tries < 1) { img.dataset.tries = tries + 1; img.src = `${img.getAttribute("src").split("?")[0]}?retry=${Date.now()}`; return; }
   box.classList.add("failed");
@@ -105,12 +111,23 @@ document.addEventListener("click", (ev) => {
   const img = box.querySelector("img");
   box.classList.remove("failed");
   img.src = `${img.getAttribute("src").split("?")[0]}?retry=${Date.now()}`;
+  watchArt();
 }, true);
+// 15 秒還沒載入完成，就改顯示「點一下重試」，不讓孩子一直看著「載入中」
+function watchArt() {
+  view.querySelectorAll(".art-box img").forEach((img) => {
+    if (img.complete && img.naturalWidth) { img.parentElement.classList.add("loaded"); return; }
+    const src = img.getAttribute("src");
+    setTimeout(() => {
+      if (img.isConnected && img.getAttribute("src") === src && !(img.complete && img.naturalWidth)) img.parentElement.classList.add("failed");
+    }, 15000);
+  });
+}
 // 先在背景下載下一個要看的插圖，按「下一個」時就不用等
 function preloadArt(no) {
   const art = no && ILLUSTRATIONS[no];
   if (!art) return;
-  const im = new Image(); im.decoding = "async"; im.src = art.src;
+  const im = new Image(); im.decoding = "async"; im.sizes = ART_SIZES; im.srcset = artSrcset(art); im.src = smallSrc(art.src);
 }
 
 function toast(msg) {
@@ -481,6 +498,7 @@ function runQuiz() {
       setTimeout(() => { quit.classList.remove("confirm"); quit.textContent = "✕ 結束"; }, 3000);
     });
     if (q.prompt.includes("quiz-art")) preloadArt(qs[st.i + 1]?.target.no);
+    watchArt();
     view.querySelector(".quiz-art img")?.addEventListener("click", (ev) => ev.currentTarget.closest(".quiz-art").classList.toggle("zoom"));
     view.querySelectorAll(".opt").forEach((b) => b.addEventListener("click", () => {
       if (st.picked !== null) return;
@@ -570,7 +588,7 @@ function me() {
       toast("離線下載需要 HTTPS 與已啟用的離線快取，請先重新整理再試。");
       return;
     }
-    const urls = [...new Set(INDEX.map((i) => `data/detail/${String(i.k).padStart(2, "0")}.json`)), ...Object.values(ILLUSTRATIONS).map((a) => a.src)];
+    const urls = [...new Set(INDEX.map((i) => `data/detail/${String(i.k).padStart(2, "0")}.json`)), ...Object.values(ILLUSTRATIONS).map((a) => (innerWidth <= 600 ? smallSrc(a.src) : a.src))];
     let n = 0;
     try {
       // Explicitly await cache writes before reporting readiness or quota errors.
@@ -637,6 +655,7 @@ async function route() {
     console.error(err);
     view.innerHTML = `<p class="empty">內容載入失敗。請檢查網路後重新整理。</p>`;
   }
+  watchArt();
   if (!(parts[0] === "find")) window.scrollTo(0, 0);
 }
 

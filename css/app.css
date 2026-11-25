@@ -58,7 +58,9 @@ img.rare { height: 1em; vertical-align: -0.12em; }
 .art-box.failed { cursor: pointer; min-height: 120px; }
 .art-box.failed::before { content: "插圖沒有載入，點一下重試"; color: #8a5a3b; text-decoration: underline; }
 .art-box.failed img { visibility: hidden; }
-.quiz-art .art-box { display: inline-block; vertical-align: top; max-width: 100%; }
+/* 測驗插圖：寬度不超過畫面，高度不超過畫面的三分之一左右（圖是 3:2） */
+.quiz-art .art-box { display: block; width: min(100%, 51vh); width: min(100%, 51svh); margin: 0 auto; }
+.quiz-art.zoom .art-box { width: 100%; }
 .idiom-art figcaption { margin-top: 6px; font-family: var(--sans); font-size: 13px; color: var(--muted); }
 .quiz-art { max-width: 640px; margin: 0 auto 16px; }
 
@@ -338,7 +340,7 @@ body.playing .dock { bottom: 0; padding-bottom: calc(10px + env(safe-area-inset-
 .q-prompt { margin: 4px 0 10px; }
 .q-prompt .hint { margin: 4px 0 0; }
 .quiz-art { margin: 0 auto 6px; text-align: center; }
-.quiz-art img { width: auto; max-width: 100%; max-height: 34vh; max-height: 34svh; margin: 0 auto; cursor: zoom-in; }
+.quiz-art img { width: 100%; height: auto; cursor: zoom-in; }
 .quiz-art.zoom img { max-height: none; width: 100%; cursor: zoom-out; }
 .opts.two { grid-template-columns: 1fr 1fr; gap: 8px; }
 .opts.two .opt { text-align: center; padding: 10px 6px; min-height: 58px; font-size: 22px; letter-spacing: .02em; }
