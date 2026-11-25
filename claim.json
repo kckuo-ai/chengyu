@@ -26,6 +26,11 @@
     550
   ],
   "owner": "single image generation session",
-  "status": "generating requested replacements; not published",
-  "request": "redraw-request-unresolved-23.txt supersedes prior lists; approved 481 excluded"
+  "status": "awaiting independent review; not published",
+  "request": "redraw-request-unresolved-23.txt supersedes prior lists; approved 481 excluded",
+  "count": 23,
+  "archive": "batch-37-group-9-redraw-23.zip",
+  "bytes": 77829623,
+  "sha256": "fcca4f9d49a37223d722ac21bd22419b703e9b4bfb9973672b6b96ac3fd55d9a",
+  "note": "Latest 23-entry list supersedes old 24-entry list. Approved 481 excluded. Website images unchanged; no done list created."
 }
