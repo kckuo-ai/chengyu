@@ -1,0 +1,110 @@
+{
+  "no": 553,
+  "kind": "existing",
+  "word": "有聲有色",
+  "path": "/workspace/chengyu-preservation/originals/f9d4cae7f14f82d9a006cc8da262dd954995d47c326b9846796ae47ce4fd175e.png",
+  "original_sha256": "f9d4cae7f14f82d9a006cc8da262dd954995d47c326b9846796ae47ce4fd175e",
+  "original_available": true,
+  "review_source_sha256": "f9d4cae7f14f82d9a006cc8da262dd954995d47c326b9846796ae47ce4fd175e",
+  "webp_src": "img/idioms/553.webp",
+  "webp_sha256": "4b9a0e4a5a6057b44f161ac317c7f911fa42cdc8633da4884dc306f2e2efab6a",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-28",
+  "review_batch": "full-audit-20261123/group-10",
+  "alt": "兩位表演者笑著操弄狐狸、兔子與狼的手偶，舞臺上布置樹木和小橋，台下孩子看得入迷，開心張嘴、拍起雙手。",
+  "issues": [
+    "no_red_neckerchief: 狐狸擬人手偶頸前繫紅色結巾並連紅披風，雖真人頸部沒有紅巾，但角色頸飾仍觸及無紅領巾要求，保守退回並移除。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "兩名表演者張嘴生動操偶，狐狸兔子狼追逐的舞臺布景豐富、孩子興奮鼓掌，演出精采有聲有色可辨。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以兩位表演者笑著操弄狐狸、兔子與狼的手偶為主要焦點，人物表情、動作及關係集中，手機縮圖可辨主要故事，背景未擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "操偶者手掌合理藏在手套偶內、手臂連肩，觀眾合掌可辨五指並互相遮蔽，無額外手腳。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "偶從操作者手臂延伸、舞臺橋與樹是有底板的布景，布簾繫柱、幕臺有架撐，非真橋模型教學。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐區檢查全圖及原尺寸人物衣物、器材、紙張、背景與泡泡，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代公園兒童偶戲、便服圍裙與國小觀眾比例合理；非古代人物。"
+    },
+    "no_red_neckerchief": {
+      "passed": false,
+      "evidence": "狐狸擬人手偶頸前繫紅色結巾並連紅披風，雖真人頸部沒有紅巾，但角色頸飾仍觸及無紅領巾要求，保守退回並移除。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "extra_comparison_ids": [
+        "552",
+        "492",
+        "564",
+        "682",
+        "584",
+        "633",
+        "64",
+        "217",
+        "264",
+        "696",
+        "768",
+        "1481",
+        "1601"
+      ],
+      "extra_sheets": [
+        "target-compare-1.jpg",
+        "target-compare-2.jpg",
+        "target-compare-3.jpg"
+      ],
+      "near_duplicates": {
+        "564": "另實際對照現行682栩栩如生與696鬼斧神工：同為木雕鳥／枝葉主體放桌前，工匠與驚嘆孩童圍繞、鉛筆工具桶木屑及窗櫃背景；尤其與682木鳥故事近似可互換，依避免重複構圖要求退回。",
+        "584": "另實際對照現行633有志竟成：都用中央完成的木橋承重、旁邊失敗小橋與孩子驚喜比較，石頭換金屬砝碼仍是相同核心道具和敘事模板，依重複橋模型要求退回。"
+      },
+      "notes": "50張全圖及每張完整原尺寸分格實際看過；207張現行構圖候選九張表及三張額外大圖對照均實際看過。552與492雖同為家中動怒，但前者紅臉握拳咬牙、後者跳腳大吼，主要姿勢及人物配置有差別，未視幾乎相同。591抱球手及鞋另放大，確認手五指、鞋是兩塊配色無完整字母；671扳手和1450頭管徽章另放大確認類字／品牌疑義。已刪除的歷史WebP不當成現行比較圖。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容事物精采，淋漓盡致。",
+    "syn": "繪聲繪色",
+    "ant": "乏善可陳、平淡無奇、味同嚼蠟"
+  }
+}

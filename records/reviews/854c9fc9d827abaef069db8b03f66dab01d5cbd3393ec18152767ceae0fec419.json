@@ -1,0 +1,112 @@
+{
+  "no": 572,
+  "kind": "existing",
+  "word": "一帆風順",
+  "path": "/workspace/chengyu-preservation/originals/236eddf6dadc8906b0f764ce161ded6ed97fd09b4e0afcc6fd0c9cfdd7825abd.png",
+  "original_sha256": "236eddf6dadc8906b0f764ce161ded6ed97fd09b4e0afcc6fd0c9cfdd7825abd",
+  "original_available": true,
+  "review_source_sha256": "236eddf6dadc8906b0f764ce161ded6ed97fd09b4e0afcc6fd0c9cfdd7825abd",
+  "webp_src": "img/idioms/572.webp",
+  "webp_sha256": "aedce029b63d1b0e04ac0e6c4f28f9492a1f7e8e0e03f7ecf87106ed9f1454e6",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-28",
+  "review_batch": "full-audit-20261123/group-10",
+  "alt": "男孩戴著草帽坐在小木船裡，一隻手握著尾舵，鼓起的淡藍船帆帶著船向前航行，水面平靜，遠處岸邊有燈塔和港口。",
+  "issues": [
+    "meaning: 只畫一艘順風航行的小帆船與平靜水面，未呈現生活事情進展順利的引申情境，仍停在字面景物。",
+    "taiwan_context: 岸上為歐式石造燈塔與白牆橘瓦港村，船上人物背心草帽木帆船配置缺少台灣現代生活線索。",
+    "no_red_neckerchief: 船上男孩頸部明確圍著一圈磚紅色短圍巾，直接違反無紅領巾或紅圍巾要求。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "只畫一艘順風航行的小帆船與平靜水面，未呈現生活事情進展順利的引申情境，仍停在字面景物。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以男孩戴著草帽坐在小木船裡為主要焦點，人物表情、動作及關係集中，手機縮圖可辨主要故事，背景未擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "操舵手五指彎握木柄，另一掌五指放膝，雙臂連肩，坐姿腿腳部分船板遮蔽，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "舵柄接尾舵、帆桿索繩接船、船身浮水並有船尾航跡，船底與水反光合理，無物件穿透。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐區檢查全圖及原尺寸人物衣物、器材、紙張、背景與泡泡，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "岸上為歐式石造燈塔與白牆橘瓦港村，船上人物背心草帽木帆船配置缺少台灣現代生活線索。"
+    },
+    "no_red_neckerchief": {
+      "passed": false,
+      "evidence": "船上男孩頸部明確圍著一圈磚紅色短圍巾，直接違反無紅領巾或紅圍巾要求。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "extra_comparison_ids": [
+        "552",
+        "492",
+        "564",
+        "682",
+        "584",
+        "633",
+        "64",
+        "217",
+        "264",
+        "696",
+        "768",
+        "1481",
+        "1601"
+      ],
+      "extra_sheets": [
+        "target-compare-1.jpg",
+        "target-compare-2.jpg",
+        "target-compare-3.jpg"
+      ],
+      "near_duplicates": {
+        "564": "另實際對照現行682栩栩如生與696鬼斧神工：同為木雕鳥／枝葉主體放桌前，工匠與驚嘆孩童圍繞、鉛筆工具桶木屑及窗櫃背景；尤其與682木鳥故事近似可互換，依避免重複構圖要求退回。",
+        "584": "另實際對照現行633有志竟成：都用中央完成的木橋承重、旁邊失敗小橋與孩子驚喜比較，石頭換金屬砝碼仍是相同核心道具和敘事模板，依重複橋模型要求退回。"
+      },
+      "notes": "50張全圖及每張完整原尺寸分格實際看過；207張現行構圖候選九張表及三張額外大圖對照均實際看過。552與492雖同為家中動怒，但前者紅臉握拳咬牙、後者跳腳大吼，主要姿勢及人物配置有差別，未視幾乎相同。591抱球手及鞋另放大，確認手五指、鞋是兩塊配色無完整字母；671扳手和1450頭管徽章另放大確認類字／品牌疑義。已刪除的歷史WebP不當成現行比較圖。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻非常順利，毫無阻礙。",
+    "syn": "一路順風、無往不利",
+    "ant": "一波三折、寸步難行、好事多磨、驚濤駭浪"
+  }
+}

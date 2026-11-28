@@ -1,0 +1,110 @@
+{
+  "no": 581,
+  "kind": "existing",
+  "word": "欲擒故縱",
+  "path": "/workspace/chengyu-preservation/originals/a6597b7a9c340fe7ded050bee5a89d2e17c763ff866437df55880740482bf3d4.png",
+  "original_sha256": "a6597b7a9c340fe7ded050bee5a89d2e17c763ff866437df55880740482bf3d4",
+  "original_available": true,
+  "review_source_sha256": "a6597b7a9c340fe7ded050bee5a89d2e17c763ff866437df55880740482bf3d4",
+  "webp_src": "img/idioms/581.webp",
+  "webp_sha256": "67aada7a5879362a748ffc95b9cd480ece01007680dcb7578db5f8b93d739699",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-28",
+  "review_batch": "full-audit-20261123/group-10",
+  "alt": "女子先退開不追院子裡的兔子，在打開的外出籠內放好胡蘿蔔，兔子自行走進去吃，她才蹲下靠近，準備關上籠門。",
+  "issues": [
+    "meaning: 女子退到籠旁以食物吸引兔子自行進籠，再關門；沒有先追捕、刻意放鬆控制的起始關係，僅能讀成誘捕，故縱的關鍵不足。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "女子退到籠旁以食物吸引兔子自行進籠，再關門；沒有先追捕、刻意放鬆控制的起始關係，僅能讀成誘捕，故縱的關鍵不足。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以女子先退開不追院子裡的兔子為主要焦點，人物表情、動作及關係集中，手機縮圖可辨主要故事，背景未擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "左幕女子兩掌五指張開，右幕扶籠頂掌與關門掌五指或籠遮，蹲姿鞋落地，肩臂連續無多肢；兔四肢自然。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "提籠把手門鉸鏈與鎖扣相連、胡蘿蔔落墊，籠底落地，兔身在籠內不穿格，花架有支點。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐區檢查全圖及原尺寸人物衣物、器材、紙張、背景與泡泡，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代庭院寵物照料、普通格衫圍裙牛仔褲球鞋與塑膠外出籠，非古代情境。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過主景、遠景與回想人物頸部，均為普通衣領、連帽衣或圍裙肩帶，無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "extra_comparison_ids": [
+        "552",
+        "492",
+        "564",
+        "682",
+        "584",
+        "633",
+        "64",
+        "217",
+        "264",
+        "696",
+        "768",
+        "1481",
+        "1601"
+      ],
+      "extra_sheets": [
+        "target-compare-1.jpg",
+        "target-compare-2.jpg",
+        "target-compare-3.jpg"
+      ],
+      "near_duplicates": {
+        "564": "另實際對照現行682栩栩如生與696鬼斧神工：同為木雕鳥／枝葉主體放桌前，工匠與驚嘆孩童圍繞、鉛筆工具桶木屑及窗櫃背景；尤其與682木鳥故事近似可互換，依避免重複構圖要求退回。",
+        "584": "另實際對照現行633有志竟成：都用中央完成的木橋承重、旁邊失敗小橋與孩子驚喜比較，石頭換金屬砝碼仍是相同核心道具和敘事模板，依重複橋模型要求退回。"
+      },
+      "notes": "50張全圖及每張完整原尺寸分格實際看過；207張現行構圖候選九張表及三張額外大圖對照均實際看過。552與492雖同為家中動怒，但前者紅臉握拳咬牙、後者跳腳大吼，主要姿勢及人物配置有差別，未視幾乎相同。591抱球手及鞋另放大，確認手五指、鞋是兩塊配色無完整字母；671扳手和1450頭管徽章另放大確認類字／品牌疑義。已刪除的歷史WebP不當成現行比較圖。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "為了要使對方就範，故意先放鬆一步。",
+    "syn": "",
+    "ant": ""
+  }
+}

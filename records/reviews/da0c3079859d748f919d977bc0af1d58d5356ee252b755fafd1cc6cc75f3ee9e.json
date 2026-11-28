@@ -1,0 +1,108 @@
+{
+  "no": 24,
+  "kind": "existing",
+  "word": "勢如破竹",
+  "path": "/workspace/chengyu/img/idioms/24-cf8a4d790c16.webp",
+  "original_sha256": "cf8a4d790c16d7c7ea43f7c4bc673b3bd1b2ace785df6c89ede504b37dfa090d",
+  "original_available": false,
+  "review_source_sha256": "866f105f37f5f7add94535a5966cc340faf7b849b7d9cb7d8cf4ebccc27dbda6",
+  "webp_src": "img/idioms/24-cf8a4d790c16.webp",
+  "webp_sha256": "866f105f37f5f7add94535a5966cc340faf7b849b7d9cb7d8cf4ebccc27dbda6",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-28",
+  "review_batch": "full-audit-20261123/group-10",
+  "alt": "幾名孩子接連跑過輪胎、攀網與木樁，仍興奮地朝下一道木障礙衝去，老師驚訝張開雙掌，終點黃旗立在他身後。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "孩子連續越過多道障礙仍飛快朝終點前進，教師驚訝無法阻住其氣勢，事情一路順利推進的運動引申可辨。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以幾名孩子接連跑過輪胎、攀網與木樁為主要焦點，人物表情、動作及關係集中，手機縮圖可辨主要故事，背景未擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "前景教師兩張掌各五指，孩子握拳及後方兩教師扶膝掩嘴手五指或互遮自然，跑步蹬跳腳位與肩臂相連，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "木障礙與爬網支架落地，繩結相接，跳木樁有地面支點，終點旗插重底座，跑步離地是動作不是漂浮。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐區檢查全圖及原尺寸人物衣物、器材、紙張、背景與泡泡，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小操場闖關、普通Polo衫藍運動短褲，成人教師與學童比例符合，無紅頸巾。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過主景、遠景與回想人物頸部，均為普通衣領、連帽衣或圍裙肩帶，無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "extra_comparison_ids": [
+        "552",
+        "492",
+        "564",
+        "682",
+        "584",
+        "633",
+        "64",
+        "217",
+        "264",
+        "696",
+        "768",
+        "1481",
+        "1601"
+      ],
+      "extra_sheets": [
+        "target-compare-1.jpg",
+        "target-compare-2.jpg",
+        "target-compare-3.jpg"
+      ],
+      "near_duplicates": {
+        "564": "另實際對照現行682栩栩如生與696鬼斧神工：同為木雕鳥／枝葉主體放桌前，工匠與驚嘆孩童圍繞、鉛筆工具桶木屑及窗櫃背景；尤其與682木鳥故事近似可互換，依避免重複構圖要求退回。",
+        "584": "另實際對照現行633有志竟成：都用中央完成的木橋承重、旁邊失敗小橋與孩子驚喜比較，石頭換金屬砝碼仍是相同核心道具和敘事模板，依重複橋模型要求退回。"
+      },
+      "notes": "50張全圖及每張完整原尺寸分格實際看過；207張現行構圖候選九張表及三張額外大圖對照均實際看過。552與492雖同為家中動怒，但前者紅臉握拳咬牙、後者跳腳大吼，主要姿勢及人物配置有差別，未視幾乎相同。591抱球手及鞋另放大，確認手五指、鞋是兩塊配色無完整字母；671扳手和1450頭管徽章另放大確認類字／品牌疑義。已刪除的歷史WebP不當成現行比較圖。"
+    },
+    "source_limit": "Original unavailable; actually reviewed installed WebP at its native resolution; not a recovered original"
+  },
+  "meaning_reference": {
+    "meaning": "比喻戰事進展順利。＆比喻事情進展順利。",
+    "syn": "長驅直入、勢不可當、勢不可當",
+    "ant": "望風披靡、節節失利、節節敗退"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "no": 578,
+  "kind": "existing",
+  "word": "五花八門",
+  "path": "/workspace/chengyu-preservation/originals/b12a82948e7e07fe55ecef7676d6104de8a7682b3203ae802fe9d5dd45b2b724.png",
+  "original_sha256": "b12a82948e7e07fe55ecef7676d6104de8a7682b3203ae802fe9d5dd45b2b724",
+  "original_available": true,
+  "review_source_sha256": "b12a82948e7e07fe55ecef7676d6104de8a7682b3203ae802fe9d5dd45b2b724",
+  "webp_src": "img/idioms/578.webp",
+  "webp_sha256": "9f0c4b4a986f5f0b82c6f4f11a15e781381c4f55a6379efd9eaf298e88d5419a",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-28",
+  "review_batch": "full-audit-20261123/group-10",
+  "alt": "熱鬧市集裡，有人雕木動物、編籃、串項鍊、做手偶和風車，長者吹起鳥形陶笛，孩子們圍著各種攤位，興奮欣賞作品。",
+  "issues": [
+    "hands_feet_pose: 前景拿陶笛與托項鍊掌五指或物遮多合理，但遠景人群多隻手糊成小點、原尺寸無法核實每手五指，退回。",
+    "text_brand_watermark: 陶笛上方聲音線畫成明顯S形符號，另遠景字形狀細線無法排除，違反不得有類字母符號要求。",
+    "no_red_neckerchief: 右側攤位擬人貓手偶脖子綁紅領結狀巾，另有紅頸飾角色，為避免角色紅領巾疑義保守退回；真人頸部無紅巾。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "手作市集同時展示多款木雕、編籃、首飾、陶笛、手偶和風車，樣式多且不同，種類繁多清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以熱鬧市集裡為主要焦點，人物表情、動作及關係集中，手機縮圖可辨主要故事，背景未擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "前景拿陶笛與托項鍊掌五指或物遮多合理，但遠景人群多隻手糊成小點、原尺寸無法核實每手五指，退回。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "首飾由雙手提托、陶笛接嘴與手指、木雕籃筐落攤桌，布棚柱腳與陳列有支持，物件結構合理。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "陶笛上方聲音線畫成明顯S形符號，另遠景字形狀細線無法排除，違反不得有類字母符號要求。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區手作市集、公寓與遮陽棚、便服圍裙國小孩童，非古裝真人。"
+    },
+    "no_red_neckerchief": {
+      "passed": false,
+      "evidence": "右側攤位擬人貓手偶脖子綁紅領結狀巾，另有紅頸飾角色，為避免角色紅領巾疑義保守退回；真人頸部無紅巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "extra_comparison_ids": [
+        "552",
+        "492",
+        "564",
+        "682",
+        "584",
+        "633",
+        "64",
+        "217",
+        "264",
+        "696",
+        "768",
+        "1481",
+        "1601"
+      ],
+      "extra_sheets": [
+        "target-compare-1.jpg",
+        "target-compare-2.jpg",
+        "target-compare-3.jpg"
+      ],
+      "near_duplicates": {
+        "564": "另實際對照現行682栩栩如生與696鬼斧神工：同為木雕鳥／枝葉主體放桌前，工匠與驚嘆孩童圍繞、鉛筆工具桶木屑及窗櫃背景；尤其與682木鳥故事近似可互換，依避免重複構圖要求退回。",
+        "584": "另實際對照現行633有志竟成：都用中央完成的木橋承重、旁邊失敗小橋與孩子驚喜比較，石頭換金屬砝碼仍是相同核心道具和敘事模板，依重複橋模型要求退回。"
+      },
+      "notes": "50張全圖及每張完整原尺寸分格實際看過；207張現行構圖候選九張表及三張額外大圖對照均實際看過。552與492雖同為家中動怒，但前者紅臉握拳咬牙、後者跳腳大吼，主要姿勢及人物配置有差別，未視幾乎相同。591抱球手及鞋另放大，確認手五指、鞋是兩塊配色無完整字母；671扳手和1450頭管徽章另放大確認類字／品牌疑義。已刪除的歷史WebP不當成現行比較圖。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻花樣繁多，變化多端。",
+    "syn": "千變萬化、五光十色、形形色色、花樣百出、變化多端、變幻莫測",
+    "ant": "千篇一律、枯燥乏味"
+  }
+}

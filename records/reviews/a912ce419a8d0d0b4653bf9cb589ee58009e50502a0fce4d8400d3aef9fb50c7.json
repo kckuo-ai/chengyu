@@ -1,0 +1,108 @@
+{
+  "no": 570,
+  "kind": "existing",
+  "word": "十惡不赦",
+  "path": "/workspace/chengyu-preservation/originals/0574f1d6f6d2dfa7bf233bb3ae164d8d3828ed8bcd601942936f5604d641151c.png",
+  "original_sha256": "0574f1d6f6d2dfa7bf233bb3ae164d8d3828ed8bcd601942936f5604d641151c",
+  "original_available": true,
+  "review_source_sha256": "0574f1d6f6d2dfa7bf233bb3ae164d8d3828ed8bcd601942936f5604d641151c",
+  "webp_src": "img/idioms/570.webp",
+  "webp_sha256": "b3672d4237ad950072390ae8d434af10a24d2550a8def6bc5b77e3a3946e589c",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-28",
+  "review_batch": "full-audit-20261123/group-10",
+  "alt": "兩名警察把放火搶錢的男子壓制在地，旁邊散著金幣和仍冒煙的火把，後方整排房屋燒毀，受災居民抱著行囊和孩子。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "警察壓制攜贓款和放火木棒的犯人，背景整排民宅被燒毀、多人失家攜幼，嚴重惡行與災害證據清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以兩名警察把放火搶錢的男子壓制在地為主要焦點，人物表情、動作及關係集中，手機縮圖可辨主要故事，背景未擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "警察扶肩壓臂手五指或犯人遮，犯人雙手在背後被綁、不是缺手；村民扶肩抱包握杖與掩嘴手自然遮蔽，膝靴落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "繩索繞身固定、贓款散落袋口、火把落地仍冒煙、燒屋梁柱崩壞合理，警察手與犯人肩臂確實接觸。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐區檢查全圖及原尺寸人物衣物、器材、紙張、背景與泡泡，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣可見的現代農村磚瓦屋火災、一般便服村民與制服警察，徽章為素色盾形無國名品牌，犯人破衣為災後衣物非特定古裝。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過主景、遠景與回想人物頸部，均為普通衣領、連帽衣或圍裙肩帶，無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "extra_comparison_ids": [
+        "552",
+        "492",
+        "564",
+        "682",
+        "584",
+        "633",
+        "64",
+        "217",
+        "264",
+        "696",
+        "768",
+        "1481",
+        "1601"
+      ],
+      "extra_sheets": [
+        "target-compare-1.jpg",
+        "target-compare-2.jpg",
+        "target-compare-3.jpg"
+      ],
+      "near_duplicates": {
+        "564": "另實際對照現行682栩栩如生與696鬼斧神工：同為木雕鳥／枝葉主體放桌前，工匠與驚嘆孩童圍繞、鉛筆工具桶木屑及窗櫃背景；尤其與682木鳥故事近似可互換，依避免重複構圖要求退回。",
+        "584": "另實際對照現行633有志竟成：都用中央完成的木橋承重、旁邊失敗小橋與孩子驚喜比較，石頭換金屬砝碼仍是相同核心道具和敘事模板，依重複橋模型要求退回。"
+      },
+      "notes": "50張全圖及每張完整原尺寸分格實際看過；207張現行構圖候選九張表及三張額外大圖對照均實際看過。552與492雖同為家中動怒，但前者紅臉握拳咬牙、後者跳腳大吼，主要姿勢及人物配置有差別，未視幾乎相同。591抱球手及鞋另放大，確認手五指、鞋是兩塊配色無完整字母；671扳手和1450頭管徽章另放大確認類字／品牌疑義。已刪除的歷史WebP不當成現行比較圖。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容罪大惡極，不可饒恕。",
+    "syn": "惡貫滿盈、罪大惡極、罪不容誅、罪在不赦、罪惡滔天、罪該萬死",
+    "ant": ""
+  }
+}

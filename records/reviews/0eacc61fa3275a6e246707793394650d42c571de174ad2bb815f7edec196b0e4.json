@@ -1,0 +1,111 @@
+{
+  "no": 647,
+  "kind": "existing",
+  "word": "呆若木雞",
+  "path": "/workspace/chengyu/img/idioms/647.webp",
+  "original_sha256": "58b6c0c1641ad210c59b592459affea83bf0cde764f62e0f16258a0ae7dee297",
+  "original_available": false,
+  "review_source_sha256": "e95853d8daebaa33668df62b5c04ecfe446e9c76b9f3665f532cefd77cff3b8d",
+  "webp_src": "img/idioms/647.webp",
+  "webp_sha256": "e95853d8daebaa33668df62b5c04ecfe446e9c76b9f3665f532cefd77cff3b8d",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-28",
+  "review_batch": "full-audit-20261123/group-10",
+  "alt": "科學展的火山模型冒出白煙，男孩突然僵住，雙手直垂、眼睛睜大張著嘴，旁邊同學卻仍能掩嘴驚呼、靠近查看模型。",
+  "issues": [
+    "hands_feet_pose: 前景男孩垂掌和同伴掩嘴按胸掌正常五指或身遮，但遠景兩名談行星的學生掌指小成糊點，原尺寸無法確定每手五指，退回。",
+    "text_brand_watermark: 背景火山剖面解說板有多排細小紅灰類文字筆畫，前景圖卡也有類字形標籤，量杯刻度雖無清楚數碼仍不能抵銷文字問題。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "火山模型突然冒白煙，男孩兩手僵直垂放、睜大眼張口發愣，旁人還能互動，受驚呆住的反應清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以科學展的火山模型冒出白煙為主要焦點，人物表情、動作及關係集中，手機縮圖可辨主要故事，背景未擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": false,
+      "evidence": "前景男孩垂掌和同伴掩嘴按胸掌正常五指或身遮，但遠景兩名談行星的學生掌指小成糊點，原尺寸無法確定每手五指，退回。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "火山模型置底板桌面、白煙自火山口升起，試管架承管、量杯落桌、棉花碗與公告板有支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "背景火山剖面解說板有多排細小紅灰類文字筆畫，前景圖卡也有類字形標籤，量杯刻度雖無清楚數碼仍不能抵銷文字問題。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小科學展、普通白襯衫綠背心校服與短褲裙，無紅領巾；兒童年齡比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過主景、遠景與回想人物頸部，均為普通衣領、連帽衣或圍裙肩帶，無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "extra_comparison_ids": [
+        "552",
+        "492",
+        "564",
+        "682",
+        "584",
+        "633",
+        "64",
+        "217",
+        "264",
+        "696",
+        "768",
+        "1481",
+        "1601"
+      ],
+      "extra_sheets": [
+        "target-compare-1.jpg",
+        "target-compare-2.jpg",
+        "target-compare-3.jpg"
+      ],
+      "near_duplicates": {
+        "564": "另實際對照現行682栩栩如生與696鬼斧神工：同為木雕鳥／枝葉主體放桌前，工匠與驚嘆孩童圍繞、鉛筆工具桶木屑及窗櫃背景；尤其與682木鳥故事近似可互換，依避免重複構圖要求退回。",
+        "584": "另實際對照現行633有志竟成：都用中央完成的木橋承重、旁邊失敗小橋與孩子驚喜比較，石頭換金屬砝碼仍是相同核心道具和敘事模板，依重複橋模型要求退回。"
+      },
+      "notes": "50張全圖及每張完整原尺寸分格實際看過；207張現行構圖候選九張表及三張額外大圖對照均實際看過。552與492雖同為家中動怒，但前者紅臉握拳咬牙、後者跳腳大吼，主要姿勢及人物配置有差別，未視幾乎相同。591抱球手及鞋另放大，確認手五指、鞋是兩塊配色無完整字母；671扳手和1450頭管徽章另放大確認類字／品牌疑義。已刪除的歷史WebP不當成現行比較圖。"
+    },
+    "source_limit": "Original unavailable; actually reviewed installed WebP at its native resolution; not a recovered original"
+  },
+  "meaning_reference": {
+    "meaning": "形容愚笨或受驚嚇而發愣的樣子。",
+    "syn": "目瞪口呆、呆頭呆腦、笨頭笨腦、傻頭傻腦",
+    "ant": "應付裕如、聰明伶俐"
+  }
+}

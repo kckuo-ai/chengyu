@@ -1,0 +1,110 @@
+{
+  "no": 650,
+  "kind": "existing",
+  "word": "言簡意賅",
+  "path": "/workspace/chengyu/img/idioms/650.webp",
+  "original_sha256": "4e9ddb4f64eb1124e8801da5010f1e42118ae34e1768887d5e4ad58c7b67e273",
+  "original_available": false,
+  "review_source_sha256": "be00bfcbad8af3b29151f256e05a36b3885d6b1779c6fc94d0a4a3d174da964c",
+  "webp_src": "img/idioms/650.webp",
+  "webp_sha256": "be00bfcbad8af3b29151f256e05a36b3885d6b1779c6fc94d0a4a3d174da964c",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-28",
+  "review_batch": "full-audit-20261123/group-10",
+  "alt": "社區活動桌旁，女子用圖板說明瓶罐回收分類，幾位居民微笑點頭，其中一人豎起拇指，桌上還疊著厚厚的空白紙張。",
+  "issues": [
+    "meaning: 女子用簡單圖板說明回收分類，旁人微笑點頭，桌上厚紙堆只暗示資料多；沒有言辭簡短與意思完整的可辨對照，不能只用圖板取代該語義。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "女子用簡單圖板說明回收分類，旁人微笑點頭，桌上厚紙堆只暗示資料多；沒有言辭簡短與意思完整的可辨對照，不能只用圖板取代該語義。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以社區活動桌旁為主要焦點，人物表情、動作及關係集中，手機縮圖可辨主要故事，背景未擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "握指示棒掌與攤掌五指或棒遮，聽者讚拇指托腮掌自然收曲，其他手桌下遮，肩肘連續，無多臂。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "指示棒接瓶圖、圖板畫架腳支撐完整，紙堆杯盆落桌，回收箭頭是實際分類圖示非字母數字。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐區檢查全圖及原尺寸人物衣物、器材、紙張、背景與泡泡，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代社區環保說明會、一般便服、公寓陽台鐵窗與涼亭，女性花紋頭帶是髮飾非頸巾。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過主景、遠景與回想人物頸部，均為普通衣領、連帽衣或圍裙肩帶，無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "extra_comparison_ids": [
+        "552",
+        "492",
+        "564",
+        "682",
+        "584",
+        "633",
+        "64",
+        "217",
+        "264",
+        "696",
+        "768",
+        "1481",
+        "1601"
+      ],
+      "extra_sheets": [
+        "target-compare-1.jpg",
+        "target-compare-2.jpg",
+        "target-compare-3.jpg"
+      ],
+      "near_duplicates": {
+        "564": "另實際對照現行682栩栩如生與696鬼斧神工：同為木雕鳥／枝葉主體放桌前，工匠與驚嘆孩童圍繞、鉛筆工具桶木屑及窗櫃背景；尤其與682木鳥故事近似可互換，依避免重複構圖要求退回。",
+        "584": "另實際對照現行633有志竟成：都用中央完成的木橋承重、旁邊失敗小橋與孩子驚喜比較，石頭換金屬砝碼仍是相同核心道具和敘事模板，依重複橋模型要求退回。"
+      },
+      "notes": "50張全圖及每張完整原尺寸分格實際看過；207張現行構圖候選九張表及三張額外大圖對照均實際看過。552與492雖同為家中動怒，但前者紅臉握拳咬牙、後者跳腳大吼，主要姿勢及人物配置有差別，未視幾乎相同。591抱球手及鞋另放大，確認手五指、鞋是兩塊配色無完整字母；671扳手和1450頭管徽章另放大確認類字／品牌疑義。已刪除的歷史WebP不當成現行比較圖。"
+    },
+    "source_limit": "Original unavailable; actually reviewed installed WebP at its native resolution; not a recovered original"
+  },
+  "meaning_reference": {
+    "meaning": "言辭簡單而意思完備。",
+    "syn": "要言不煩",
+    "ant": "拖泥帶水、長篇大論、連篇累牘"
+  }
+}

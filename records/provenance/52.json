@@ -10444,5 +10444,23 @@
       "batch": "batches-32-33",
       "source": "docs/illustration-reviews.json#entries/412"
     }
+  ],
+  "52625389f3d8161e17825f5a21f083e4eccf6e111b81e5bc2656a82892170b48": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-10",
+      "source_file": "6.review.json",
+      "reviewer": "independent-visual-review-2026-11-28",
+      "reviewed_main": "24d58edecfdaf46084040f244a2eca17dd8d2454"
+    }
+  ],
+  "52ea9e89cb1b4d7d42908ee8a32142ccbf7cd586a08b3425bf705a4e22b5a96d": [
+    {
+      "kind": "existing_illustration_audit",
+      "batch": "full-audit-20261123/group-10",
+      "source_file": "redraw-list.json",
+      "reviewer": "independent-visual-review-2026-11-28",
+      "reviewed_main": "24d58edecfdaf46084040f244a2eca17dd8d2454"
+    }
   ]
 }

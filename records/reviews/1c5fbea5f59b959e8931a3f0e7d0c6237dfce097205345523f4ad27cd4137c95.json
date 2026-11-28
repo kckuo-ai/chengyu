@@ -1,0 +1,110 @@
+{
+  "no": 583,
+  "kind": "existing",
+  "word": "國色天香",
+  "path": "/workspace/chengyu-preservation/originals/42251650e274139f91216b2f73a612fa6dfd4fe01c224e2aff4853988c990ed5.png",
+  "original_sha256": "42251650e274139f91216b2f73a612fa6dfd4fe01c224e2aff4853988c990ed5",
+  "original_available": true,
+  "review_source_sha256": "42251650e274139f91216b2f73a612fa6dfd4fe01c224e2aff4853988c990ed5",
+  "webp_src": "img/idioms/583.webp",
+  "webp_sha256": "297dc90984bab4909161a63202f7bbd52ef54a3757f7190574f571b9cf57be99",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-28",
+  "review_batch": "full-audit-20261123/group-10",
+  "alt": "女子穿著繡花淡綠長裙站在亭邊，一隻手輕放欄杆，另一手提起裙襬，後方兩位遊客合掌、托腮，微笑欣賞她的身影。",
+  "issues": [
+    "taiwan_context: 主角穿交領寬袖古裝長裙、髮髻花飾與古亭配置，後方雖是現代遊客，主要人物仍不符合本輪現代服裝要求。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "女子容貌出眾、提裙姿態優雅，旁人合掌托腮欣賞，牡丹陪襯美貌，容顏與姿態美麗可辨。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以女子穿著繡花淡綠長裙站在亭邊為主要焦點，人物表情、動作及關係集中，手機縮圖可辨主要故事，背景未擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "女子扶欄掌五指自然展放、提裙手五指或布遮，觀賞者合掌與托腮掌合理彎曲，肩臂連續，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "扶欄手接木欄、提裙手捏布形成下垂褶皺，亭柱屋簷與石徑透視合理，花枝接幹盆。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐區檢查全圖及原尺寸人物衣物、器材、紙張、背景與泡泡，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": false,
+      "evidence": "主角穿交領寬袖古裝長裙、髮髻花飾與古亭配置，後方雖是現代遊客，主要人物仍不符合本輪現代服裝要求。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過主景、遠景與回想人物頸部，均為普通衣領、連帽衣或圍裙肩帶，無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "extra_comparison_ids": [
+        "552",
+        "492",
+        "564",
+        "682",
+        "584",
+        "633",
+        "64",
+        "217",
+        "264",
+        "696",
+        "768",
+        "1481",
+        "1601"
+      ],
+      "extra_sheets": [
+        "target-compare-1.jpg",
+        "target-compare-2.jpg",
+        "target-compare-3.jpg"
+      ],
+      "near_duplicates": {
+        "564": "另實際對照現行682栩栩如生與696鬼斧神工：同為木雕鳥／枝葉主體放桌前，工匠與驚嘆孩童圍繞、鉛筆工具桶木屑及窗櫃背景；尤其與682木鳥故事近似可互換，依避免重複構圖要求退回。",
+        "584": "另實際對照現行633有志竟成：都用中央完成的木橋承重、旁邊失敗小橋與孩子驚喜比較，石頭換金屬砝碼仍是相同核心道具和敘事模板，依重複橋模型要求退回。"
+      },
+      "notes": "50張全圖及每張完整原尺寸分格實際看過；207張現行構圖候選九張表及三張額外大圖對照均實際看過。552與492雖同為家中動怒，但前者紅臉握拳咬牙、後者跳腳大吼，主要姿勢及人物配置有差別，未視幾乎相同。591抱球手及鞋另放大，確認手五指、鞋是兩塊配色無完整字母；671扳手和1450頭管徽章另放大確認類字／品牌疑義。已刪除的歷史WebP不當成現行比較圖。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容容貌美麗、姿態曼妙的女子。",
+    "syn": "沉魚落雁、閉月羞花、絕代佳人、傾國傾城",
+    "ant": "其貌不揚"
+  }
+}

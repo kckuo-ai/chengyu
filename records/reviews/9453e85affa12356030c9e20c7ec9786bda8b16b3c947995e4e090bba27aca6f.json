@@ -1,0 +1,108 @@
+{
+  "no": 658,
+  "kind": "existing",
+  "word": "櫛風沐雨",
+  "path": "/workspace/chengyu/img/idioms/658.webp",
+  "original_sha256": "0dcf5997222e18d6d8994662ae91d1653af80c4d76f309b5d36739f0e00d2bbb",
+  "original_available": false,
+  "review_source_sha256": "5229606e89e08ebe2ada6e3aa41f928ffde0e1a909107623771578c1d103d6bb",
+  "webp_src": "img/idioms/658.webp",
+  "webp_sha256": "5229606e89e08ebe2ada6e3aa41f928ffde0e1a909107623771578c1d103d6bb",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-28",
+  "review_batch": "full-audit-20261123/group-10",
+  "alt": "大雨中的山區鐵道工地，女子穿雨衣查看地圖，另一名工程人員透過測量儀觀察遠方橋梁，鞋底踩著泥水，兩人仍持續工作。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "兩名工程人員在山區風雨中持續查看圖和操作測量儀，濕地泥水與被風吹動的雨衣顯示在外奔走辛勞，不只字面淋雨。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以大雨中的山區鐵道工地為主要焦點，人物表情、動作及關係集中，手機縮圖可辨主要故事，背景未擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "持地圖雙手五指或紙遮、調儀器兩手握在目鏡及側面自然遮蔽，肩肘連續，工作鞋踩碎石地，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "儀器接三腳架、架腳落地，路線圖只有地形線和虛線無文字，安全帽雨衣背包貼身，橋梁鋼架有支點。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐區檢查全圖及原尺寸人物衣物、器材、紙張、背景與泡泡，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代山區鐵道路旁工程、施工圍網與測量設備、工作安全帽雨衣，成人比例符合。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過主景、遠景與回想人物頸部，均為普通衣領、連帽衣或圍裙肩帶，無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "extra_comparison_ids": [
+        "552",
+        "492",
+        "564",
+        "682",
+        "584",
+        "633",
+        "64",
+        "217",
+        "264",
+        "696",
+        "768",
+        "1481",
+        "1601"
+      ],
+      "extra_sheets": [
+        "target-compare-1.jpg",
+        "target-compare-2.jpg",
+        "target-compare-3.jpg"
+      ],
+      "near_duplicates": {
+        "564": "另實際對照現行682栩栩如生與696鬼斧神工：同為木雕鳥／枝葉主體放桌前，工匠與驚嘆孩童圍繞、鉛筆工具桶木屑及窗櫃背景；尤其與682木鳥故事近似可互換，依避免重複構圖要求退回。",
+        "584": "另實際對照現行633有志竟成：都用中央完成的木橋承重、旁邊失敗小橋與孩子驚喜比較，石頭換金屬砝碼仍是相同核心道具和敘事模板，依重複橋模型要求退回。"
+      },
+      "notes": "50張全圖及每張完整原尺寸分格實際看過；207張現行構圖候選九張表及三張額外大圖對照均實際看過。552與492雖同為家中動怒，但前者紅臉握拳咬牙、後者跳腳大吼，主要姿勢及人物配置有差別，未視幾乎相同。591抱球手及鞋另放大，確認手五指、鞋是兩塊配色無完整字母；671扳手和1450頭管徽章另放大確認類字／品牌疑義。已刪除的歷史WebP不當成現行比較圖。"
+    },
+    "source_limit": "Original unavailable; actually reviewed installed WebP at its native resolution; not a recovered original"
+  },
+  "meaning_reference": {
+    "meaning": "比喻在外奔走，極為辛勞。",
+    "syn": "披星戴月、風吹雨打、風餐露宿",
+    "ant": "飽食終日、養尊處優"
+  }
+}

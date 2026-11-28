@@ -1,0 +1,110 @@
+{
+  "no": 584,
+  "kind": "existing",
+  "word": "無與倫比",
+  "path": "/workspace/chengyu-preservation/originals/9e4d256e68fb5c507b69fbf670082de4840c0d2a017001c95e3c838b9734d2d1.png",
+  "original_sha256": "9e4d256e68fb5c507b69fbf670082de4840c0d2a017001c95e3c838b9734d2d1",
+  "original_available": true,
+  "review_source_sha256": "9e4d256e68fb5c507b69fbf670082de4840c0d2a017001c95e3c838b9734d2d1",
+  "webp_src": "img/idioms/584.webp",
+  "webp_sha256": "ff02981742a82e0b2036c16a9ff56353e625a09844eef566e8b2ebbbf3a36e23",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-28",
+  "review_batch": "full-audit-20261123/group-10",
+  "alt": "男孩的精密木橋承住四塊大石，旁邊兩座簡單小橋卻彎折破裂，老師與同學張嘴讚嘆，男孩站在作品旁，開心閉眼微笑。",
+  "issues": [
+    "meaning: 主角精密橋能承四塊大石，其餘兩座只受少量石就彎裂，眾人集中讚嘆，作品沒有可比者的優勢明確；待比對重複橋模型構圖。 另實際對照現行633有志竟成：都用中央完成的木橋承重、旁邊失敗小橋與孩子驚喜比較，石頭換金屬砝碼仍是相同核心道具和敘事模板，依重複橋模型要求退回。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "主角精密橋能承四塊大石，其餘兩座只受少量石就彎裂，眾人集中讚嘆，作品沒有可比者的優勢明確；待比對重複橋模型構圖。 另實際對照現行633有志竟成：都用中央完成的木橋承重、旁邊失敗小橋與孩子驚喜比較，石頭換金屬砝碼仍是相同核心道具和敘事模板，依重複橋模型要求退回。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以男孩的精密木橋承住四塊大石為主要焦點，人物表情、動作及關係集中，手機縮圖可辨主要故事，背景未擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "老師合掌、兩女孩托腮合掌、兩男孩握拳或桌遮掌自然，站立男孩兩手背後由身體遮，肩臂連續，無多手腳。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "主橋拱架接兩岸石座、承重石落橋面，小橋受力下彎或斷裂有因果，台面布與支架完整，無懸浮。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐區檢查全圖及原尺寸人物衣物、器材、紙張、背景與泡泡，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小模型成果展、普通襯衫與兒童便服、鋁窗校舍背景，兒童成人比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過主景、遠景與回想人物頸部，均為普通衣領、連帽衣或圍裙肩帶，無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "extra_comparison_ids": [
+        "552",
+        "492",
+        "564",
+        "682",
+        "584",
+        "633",
+        "64",
+        "217",
+        "264",
+        "696",
+        "768",
+        "1481",
+        "1601"
+      ],
+      "extra_sheets": [
+        "target-compare-1.jpg",
+        "target-compare-2.jpg",
+        "target-compare-3.jpg"
+      ],
+      "near_duplicates": {
+        "564": "另實際對照現行682栩栩如生與696鬼斧神工：同為木雕鳥／枝葉主體放桌前，工匠與驚嘆孩童圍繞、鉛筆工具桶木屑及窗櫃背景；尤其與682木鳥故事近似可互換，依避免重複構圖要求退回。",
+        "584": "另實際對照現行633有志竟成：都用中央完成的木橋承重、旁邊失敗小橋與孩子驚喜比較，石頭換金屬砝碼仍是相同核心道具和敘事模板，依重複橋模型要求退回。"
+      },
+      "notes": "50張全圖及每張完整原尺寸分格實際看過；207張現行構圖候選九張表及三張額外大圖對照均實際看過。552與492雖同為家中動怒，但前者紅臉握拳咬牙、後者跳腳大吼，主要姿勢及人物配置有差別，未視幾乎相同。591抱球手及鞋另放大，確認手五指、鞋是兩塊配色無完整字母；671扳手和1450頭管徽章另放大確認類字／品牌疑義。已刪除的歷史WebP不當成現行比較圖。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻沒有能比得上的。",
+    "syn": "無可比擬、無可匹敵、蓋世無雙、無出其右",
+    "ant": "不相上下、相提並論、等量齊觀、勢均力敵"
+  }
+}

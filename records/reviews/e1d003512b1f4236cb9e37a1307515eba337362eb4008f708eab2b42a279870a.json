@@ -1,0 +1,110 @@
+{
+  "no": 567,
+  "kind": "existing",
+  "word": "居心叵測",
+  "path": "/workspace/chengyu-preservation/originals/423d1544770fdfef7b1feff3e3c526e291a7abde7096778e6118162e8f6cdfe7.png",
+  "original_sha256": "423d1544770fdfef7b1feff3e3c526e291a7abde7096778e6118162e8f6cdfe7",
+  "original_available": true,
+  "review_source_sha256": "423d1544770fdfef7b1feff3e3c526e291a7abde7096778e6118162e8f6cdfe7",
+  "webp_src": "img/idioms/567.webp",
+  "webp_sha256": "dc39947f80cd6cc3284a75779ecba32bafdbdd8ca5b15a3175be172583e1d599",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-28",
+  "review_batch": "full-audit-20261123/group-10",
+  "alt": "市場攤位前，男子笑著捧出小禮盒，趁攤主背對自己挑水果時，另隻手悄悄捏起桌上錢袋裡的金幣，沒有讓對方發現。",
+  "issues": [
+    "text_brand_watermark: 被捏起金幣中心有明顯近似數字或字母的壓紋，不能確認無類字形，應改光滑無圖紋圓幣。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "表面笑著送禮靠近攤主，另一手卻在對方背後偷取錢袋金幣，善意外表藏奸、攤主未察覺，居心險詐清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以市場攤位前為主要焦點，人物表情、動作及關係集中，手機縮圖可辨主要故事，背景未擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "送禮托掌部分由盒遮、偷幣捏指含拇指與四曲指，攤主拿蘋果與扶籃手自然，肩臂接續，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "禮盒由掌托、錢袋落桌，金幣從袋口捏起而非穿袋，水果蔬菜落籃，各籃有桌面承托。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "被捏起金幣中心有明顯近似數字或字母的壓紋，不能確認無類字形，應改光滑無圖紋圓幣。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代傳統市場、一般針織衫與攤主格衫圍裙、遠景公寓和遮陽棚，無古裝。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過主景、遠景與回想人物頸部，均為普通衣領、連帽衣或圍裙肩帶，無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "extra_comparison_ids": [
+        "552",
+        "492",
+        "564",
+        "682",
+        "584",
+        "633",
+        "64",
+        "217",
+        "264",
+        "696",
+        "768",
+        "1481",
+        "1601"
+      ],
+      "extra_sheets": [
+        "target-compare-1.jpg",
+        "target-compare-2.jpg",
+        "target-compare-3.jpg"
+      ],
+      "near_duplicates": {
+        "564": "另實際對照現行682栩栩如生與696鬼斧神工：同為木雕鳥／枝葉主體放桌前，工匠與驚嘆孩童圍繞、鉛筆工具桶木屑及窗櫃背景；尤其與682木鳥故事近似可互換，依避免重複構圖要求退回。",
+        "584": "另實際對照現行633有志竟成：都用中央完成的木橋承重、旁邊失敗小橋與孩子驚喜比較，石頭換金屬砝碼仍是相同核心道具和敘事模板，依重複橋模型要求退回。"
+      },
+      "notes": "50張全圖及每張完整原尺寸分格實際看過；207張現行構圖候選九張表及三張額外大圖對照均實際看過。552與492雖同為家中動怒，但前者紅臉握拳咬牙、後者跳腳大吼，主要姿勢及人物配置有差別，未視幾乎相同。591抱球手及鞋另放大，確認手五指、鞋是兩塊配色無完整字母；671扳手和1450頭管徽章另放大確認類字／品牌疑義。已刪除的歷史WebP不當成現行比較圖。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "比喻心存險詐，難以預測。貶義。",
+    "syn": "心存不軌、心術不正、心懷鬼胎、包藏禍心、別有用心、為鬼為蜮、詭計多端、圖謀不軌",
+    "ant": "正大光明、光明磊落、胸懷坦蕩"
+  }
+}

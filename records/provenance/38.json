@@ -17770,5 +17770,14 @@
       "batch": "batch-35-unresolved-25",
       "source": "docs/illustration-prompts.json#entries/479"
     }
+  ],
+  "382510c903b4218e5d9fef8a4f3d87219a8a877109ba169833e99b62bcea279a": [
+    {
+      "kind": "existing_illustration_audit",
+      "batch": "full-audit-20261123/group-10",
+      "source_file": "remaining-redraw-source.json",
+      "reviewer": "independent-visual-review-2026-11-28",
+      "reviewed_main": "24d58edecfdaf46084040f244a2eca17dd8d2454"
+    }
   ]
 }

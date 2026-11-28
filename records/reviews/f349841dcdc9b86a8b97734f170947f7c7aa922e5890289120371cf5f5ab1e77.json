@@ -1,0 +1,108 @@
+{
+  "no": 1305,
+  "kind": "existing",
+  "word": "手忙腳亂",
+  "path": "/workspace/chengyu-preservation/originals/493439d74dfa7b81b0d578208ecc7f8a6e7692cf36e92392c106773971961578.png",
+  "original_sha256": "493439d74dfa7b81b0d578208ecc7f8a6e7692cf36e92392c106773971961578",
+  "original_available": true,
+  "review_source_sha256": "493439d74dfa7b81b0d578208ecc7f8a6e7692cf36e92392c106773971961578",
+  "webp_src": "img/idioms/1305.webp",
+  "webp_sha256": "69285c4c0a66bb8d56a96a985f0ff6a6ece8b087fe1f77b5e3f01954c436f4e7",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-28",
+  "review_batch": "full-audit-20261123/group-10",
+  "alt": "孩子在廚房做點心，麵粉灑滿桌面，蛋快滾到桌沿，他慌張伸手去接，另一隻手還得扶著傾斜的大盆，母親趕緊走來幫忙。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "孩子同時顧快滾落的蛋和傾斜麵糊盆，灑了一桌麵粉還慌張冒汗，母親伸手協助，做事慌亂失條理可辨。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以孩子在廚房做點心為主要焦點，人物表情、動作及關係集中，手機縮圖可辨主要故事，背景未擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "孩子伸掌五指張開、另一手握盆沿五指或盆遮，母親兩掌自然彎曲、肩肘連續，站姿腿腳部分桌遮，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "蛋正滾近桌沿、麵糊盆斜倚桌並由手扶，量杯翻倒灑粉有因果，蛋盒有支點，水龍頭與鍋匙結構正常。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐區檢查全圖及原尺寸人物衣物、器材、紙張、背景與泡泡，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代家庭廚房、冰箱與不鏽鋼水槽、普通圍裙便服；熊頭是普通動物圖樣非可辨角色。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過主景、遠景與回想人物頸部，均為普通衣領、連帽衣或圍裙肩帶，無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "sheet_count": 9,
+      "candidate_count": 207,
+      "extra_comparison_ids": [
+        "552",
+        "492",
+        "564",
+        "682",
+        "584",
+        "633",
+        "64",
+        "217",
+        "264",
+        "696",
+        "768",
+        "1481",
+        "1601"
+      ],
+      "extra_sheets": [
+        "target-compare-1.jpg",
+        "target-compare-2.jpg",
+        "target-compare-3.jpg"
+      ],
+      "near_duplicates": {
+        "564": "另實際對照現行682栩栩如生與696鬼斧神工：同為木雕鳥／枝葉主體放桌前，工匠與驚嘆孩童圍繞、鉛筆工具桶木屑及窗櫃背景；尤其與682木鳥故事近似可互換，依避免重複構圖要求退回。",
+        "584": "另實際對照現行633有志竟成：都用中央完成的木橋承重、旁邊失敗小橋與孩子驚喜比較，石頭換金屬砝碼仍是相同核心道具和敘事模板，依重複橋模型要求退回。"
+      },
+      "notes": "50張全圖及每張完整原尺寸分格實際看過；207張現行構圖候選九張表及三張額外大圖對照均實際看過。552與492雖同為家中動怒，但前者紅臉握拳咬牙、後者跳腳大吼，主要姿勢及人物配置有差別，未視幾乎相同。591抱球手及鞋另放大，確認手五指、鞋是兩塊配色無完整字母；671扳手和1450頭管徽章另放大確認類字／品牌疑義。已刪除的歷史WebP不當成現行比較圖。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容做事慌亂，失了條理。",
+    "syn": "七手八腳、手足無措、張皇失措",
+    "ant": "不慌不忙、有條不紊、從容不迫"
+  }
+}
