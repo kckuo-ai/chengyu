@@ -1,0 +1,31 @@
+{
+  "group": 11,
+  "date": "2026-11-28",
+  "reviewed": 50,
+  "passed": 26,
+  "redraw": 24,
+  "unprocessable": 0,
+  "original_png_sources": 41,
+  "native_installed_webp_sources": 9,
+  "missing_original_ids": [
+    48,
+    61,
+    88,
+    149,
+    170,
+    400,
+    413,
+    520,
+    571
+  ],
+  "all_review_records_preserved": true,
+  "audit_archive_commit": "dc1ea2c27836d4b73c1a8bf7b6a6a1c96b97d622",
+  "website_images_modified": 0,
+  "website_count": 1466,
+  "website_version": "v133",
+  "website_main": "24d58edecfdaf46084040f244a2eca17dd8d2454",
+  "total_audited": 550,
+  "remaining_unreviewed": 492,
+  "active_redraw_count": 78,
+  "stopped_before_group": 12
+}
