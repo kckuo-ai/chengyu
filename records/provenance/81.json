@@ -7603,5 +7603,14 @@
       "batch": "batches-32-33",
       "source": "docs/illustration-prompts.json#entries/383"
     }
+  ],
+  "81bec25f7ed772f326813ef1eeb82dc1dcaf21a8a86f79a56895e738472717f1": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-11",
+      "source_file": "603.review.json",
+      "reviewer": "independent-visual-review-2026-11-28",
+      "reviewed_main": "24d58edecfdaf46084040f244a2eca17dd8d2454"
+    }
   ]
 }

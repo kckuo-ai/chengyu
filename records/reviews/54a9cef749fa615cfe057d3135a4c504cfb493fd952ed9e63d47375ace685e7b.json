@@ -1,0 +1,110 @@
+{
+  "no": 624,
+  "kind": "existing",
+  "word": "大腹便便",
+  "path": "/workspace/chengyu-preservation/originals/3dd89b06ca199567911bf62d2ce030ca08aac6a2bf75b2029463f3148c0a0ccb.png",
+  "original_sha256": "3dd89b06ca199567911bf62d2ce030ca08aac6a2bf75b2029463f3148c0a0ccb",
+  "original_available": true,
+  "review_source_sha256": "3dd89b06ca199567911bf62d2ce030ca08aac6a2bf75b2029463f3148c0a0ccb",
+  "webp_src": "img/idioms/624.webp",
+  "webp_sha256": "0b572651a51550a3dbab3f693a64aea1264fd8484600d9daac57c547ea62dea7",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-28",
+  "review_batch": "full-audit-20261123/group-11",
+  "alt": "候診室裡，懷孕女子穿著寬鬆綠裙，兩手扶著隆起的肚子，丈夫微笑攙住她的上臂，旁邊牆上和桌面都有胎兒圖畫。",
+  "issues": [
+    "meaning: 女子懷孕、丈夫攙扶，牆上胎兒圖交代產檢，大肚原因是孕期；教育部釋義指大肚肥胖，這種正面孕婦情境會誤教並帶不當聯想。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "女子懷孕、丈夫攙扶，牆上胎兒圖交代產檢，大肚原因是孕期；教育部釋義指大肚肥胖，這種正面孕婦情境會誤教並帶不當聯想。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以候診室裡為主要焦點，人物表情與物件關係集中，手機縮圖可辨主要活動，背景未擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "孕婦兩掌扶腹五指或腹遮、丈夫搭臂及攤掌自然，肩肘連接，四鞋站穩。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "腹部在衣料內、丈夫手接上臂，診間扶手椅圓桌有腳支撐，胎兒圖本置桌。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐區檢查全圖及原尺寸人物衣物、器材、紙張、背景與泡泡，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代產檢候診空間、成年夫妻便服比例自然，但場景與成語語義不符。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過主景、遠景與回想人物頸部，均為普通衣領、圍裙肩帶或非紅色衣飾，無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "sheet_count": 9,
+      "candidate_count": 197,
+      "extra_comparison_ids": [
+        "597",
+        "633",
+        "598",
+        "313",
+        "611",
+        "399",
+        "604",
+        "510",
+        "413",
+        "791",
+        "601",
+        "5110"
+      ],
+      "extra_sheets": [
+        "target-compare-1.jpg",
+        "target-compare-2.jpg",
+        "target-compare-3.jpg"
+      ],
+      "near_duplicates": {
+        "597": "另實際對照現行633有志竟成：同以木作桌上的完成木橋及前方先前小橋模型呈現成就，背景同為窗邊工具板，雖改拱橋與叉腰姿勢，仍是可互換的橋模型敘事模板，依避免重複橋模型要求退回。",
+        "598": "另實際對照現行633有志竟成：前景堆失敗斷橋、主角重新搭完整木橋、旁邊同學反應及木作窗邊工具，核心道具與失敗後繼續的敘事幾乎相同；並與313精益求精同為近景細修木橋，辨義差別不足，退回重畫。",
+        "611": "另實際對照現行399目中無人：同為男孩抱胸昂首斜眼、同學捧精巧風車模型卻被輕視、窗邊美勞桌面與失落同學圍繞；前後位置略換但主要姿勢及道具故事幾乎相同，依構圖重複要求退回。"
+      },
+      "notes": "50張全圖以13張四圖概覽實際看過，每張完整原尺寸分格均獨立看過；197張現行候選九張表及三張額外大圖對照均實際看過。604與510雖有三代工藝題材，但前者陶器從傳承到創新、後者各種手工行業的敘事與物件配置不同；413兩名科展同獎與791修橋三格不同；601示範畫幼苗與5110夕陽時老師解釋花葉圖不同，未以題材相同直接判重複。未把已刪除歷史WebP當現行比較圖。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "大肚子顯得肥胖而凸出的樣子。",
+    "syn": "腦滿腸肥",
+    "ant": "形銷骨立、骨瘦如柴、瘦骨嶙峋"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "no": 611,
+  "kind": "existing",
+  "word": "目空一切",
+  "path": "/workspace/chengyu-preservation/originals/651d145cb3e06dfb5e4814dba9cf394ab814bcb123dedbd1bf30fd29f55c72e5.png",
+  "original_sha256": "651d145cb3e06dfb5e4814dba9cf394ab814bcb123dedbd1bf30fd29f55c72e5",
+  "original_available": true,
+  "review_source_sha256": "651d145cb3e06dfb5e4814dba9cf394ab814bcb123dedbd1bf30fd29f55c72e5",
+  "webp_src": "img/idioms/611.webp",
+  "webp_sha256": "9ae2659487f17e0d74781aafe35e96a598437efc2ec6e47c05af9fcebb019a59",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-28",
+  "review_batch": "full-audit-20261123/group-11",
+  "alt": "男孩抱起雙臂、抬高下巴斜眼看人，桌上只有簡單小風扇，旁邊同學分別捧著精緻風車屋與滾珠軌道，難過望著他。",
+  "issues": [
+    "meaning: 男孩抱胸仰頭斜眼看人，對同學精巧風車與滾珠軌道不屑，自己只有簡單小風扇，什麼都不放眼裡的傲慢可辨。 另實際對照現行399目中無人：同為男孩抱胸昂首斜眼、同學捧精巧風車模型卻被輕視、窗邊美勞桌面與失落同學圍繞；前後位置略換但主要姿勢及道具故事幾乎相同，依構圖重複要求退回。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "男孩抱胸仰頭斜眼看人，對同學精巧風車與滾珠軌道不屑，自己只有簡單小風扇，什麼都不放眼裡的傲慢可辨。 另實際對照現行399目中無人：同為男孩抱胸昂首斜眼、同學捧精巧風車模型卻被輕視、窗邊美勞桌面與失落同學圍繞；前後位置略換但主要姿勢及道具故事幾乎相同，依構圖重複要求退回。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以男孩抱起雙臂、抬高下巴斜眼看人為主要焦點，人物表情與物件關係集中，手機縮圖可辨主要活動，背景未擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "主角交臂手被上臂遮、左同學雙手托底板五指或板遮，女孩掌五指扶桌，肩肘正常，下身桌遮。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "電池盒連線至杯上馬達、風葉接軸，模型風車及滾珠斜軌均有支柱底座，無漂浮。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐區檢查全圖及原尺寸人物衣物、器材、紙張、背景與泡泡，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小自然教室、便服背心與國小孩子比例自然，書脊單純色塊與裝訂橫線。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過主景、遠景與回想人物頸部，均為普通衣領、圍裙肩帶或非紅色衣飾，無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "sheet_count": 9,
+      "candidate_count": 197,
+      "extra_comparison_ids": [
+        "597",
+        "633",
+        "598",
+        "313",
+        "611",
+        "399",
+        "604",
+        "510",
+        "413",
+        "791",
+        "601",
+        "5110"
+      ],
+      "extra_sheets": [
+        "target-compare-1.jpg",
+        "target-compare-2.jpg",
+        "target-compare-3.jpg"
+      ],
+      "near_duplicates": {
+        "597": "另實際對照現行633有志竟成：同以木作桌上的完成木橋及前方先前小橋模型呈現成就，背景同為窗邊工具板，雖改拱橋與叉腰姿勢，仍是可互換的橋模型敘事模板，依避免重複橋模型要求退回。",
+        "598": "另實際對照現行633有志竟成：前景堆失敗斷橋、主角重新搭完整木橋、旁邊同學反應及木作窗邊工具，核心道具與失敗後繼續的敘事幾乎相同；並與313精益求精同為近景細修木橋，辨義差別不足，退回重畫。",
+        "611": "另實際對照現行399目中無人：同為男孩抱胸昂首斜眼、同學捧精巧風車模型卻被輕視、窗邊美勞桌面與失落同學圍繞；前後位置略換但主要姿勢及道具故事幾乎相同，依構圖重複要求退回。"
+      },
+      "notes": "50張全圖以13張四圖概覽實際看過，每張完整原尺寸分格均獨立看過；197張現行候選九張表及三張額外大圖對照均實際看過。604與510雖有三代工藝題材，但前者陶器從傳承到創新、後者各種手工行業的敘事與物件配置不同；413兩名科展同獎與791修橋三格不同；601示範畫幼苗與5110夕陽時老師解釋花葉圖不同，未以題材相同直接判重複。未把已刪除歷史WebP當現行比較圖。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容人高傲自大，什麼都不放在眼裡。貶義。",
+    "syn": "不可一世、目中無人、目無餘子、妄自尊大、自高自大、夜郎自大、旁若無人、唯我獨尊",
+    "ant": "自輕自賤、虛己受人、虛懷若谷"
+  }
+}

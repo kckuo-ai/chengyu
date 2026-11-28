@@ -1,0 +1,111 @@
+{
+  "no": 621,
+  "kind": "existing",
+  "word": "同仇敵愾",
+  "path": "/workspace/chengyu-preservation/originals/ef453b9cea8338b27d0db30812c9b0043094a98f8fc1fd39bc946dc60c4572ae.png",
+  "original_sha256": "ef453b9cea8338b27d0db30812c9b0043094a98f8fc1fd39bc946dc60c4572ae",
+  "original_available": true,
+  "review_source_sha256": "ef453b9cea8338b27d0db30812c9b0043094a98f8fc1fd39bc946dc60c4572ae",
+  "webp_src": "img/idioms/621.webp",
+  "webp_sha256": "c6be415e687353873c04580c0a1bd3d90b17c9a44d0587ef8e955c493d45326e",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-28",
+  "review_batch": "full-audit-20261123/group-11",
+  "alt": "兩名孩子生氣並肩站著，護住身後哭泣的同學，男孩伸掌阻擋撕畫的人，地上散著畫紙碎片，老師正從遠處快步走來。",
+  "issues": [
+    "no_red_neckerchief: 前排護同學的男孩、女孩頸部均繫鮮紅結巾，明確違反無紅領巾要求。",
+    "text_brand_watermark: 前排兩名學生胸口有近似O字母的藍色圈狀徽記，須改素面衣服。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "兩名孩子並肩護住哭泣同學，一起瞪向撕畫者並伸掌制止，對共同欺負者同樣憤怒、共同抵禦清楚。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以兩名孩子生氣並肩站著為主要焦點，人物表情與物件關係集中，手機縮圖可辨主要活動，背景未擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男孩制止掌五指、另拳拇指包四曲指，女孩握拳、被護者抓衣襟，欺負者捏紙及叉腰自然，雙臂連肩、鞋接地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "撕畫者手夾碎紙、其餘畫片落地，教師遠處走來，地磚與校舍透視合理。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "前排兩名學生胸口有近似O字母的藍色圈狀徽記，須改素面衣服。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小校園、制服兒童與便服教師比例合宜，但領巾不合要求。"
+    },
+    "no_red_neckerchief": {
+      "passed": false,
+      "evidence": "前排護同學的男孩、女孩頸部均繫鮮紅結巾，明確違反無紅領巾要求。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "sheet_count": 9,
+      "candidate_count": 197,
+      "extra_comparison_ids": [
+        "597",
+        "633",
+        "598",
+        "313",
+        "611",
+        "399",
+        "604",
+        "510",
+        "413",
+        "791",
+        "601",
+        "5110"
+      ],
+      "extra_sheets": [
+        "target-compare-1.jpg",
+        "target-compare-2.jpg",
+        "target-compare-3.jpg"
+      ],
+      "near_duplicates": {
+        "597": "另實際對照現行633有志竟成：同以木作桌上的完成木橋及前方先前小橋模型呈現成就，背景同為窗邊工具板，雖改拱橋與叉腰姿勢，仍是可互換的橋模型敘事模板，依避免重複橋模型要求退回。",
+        "598": "另實際對照現行633有志竟成：前景堆失敗斷橋、主角重新搭完整木橋、旁邊同學反應及木作窗邊工具，核心道具與失敗後繼續的敘事幾乎相同；並與313精益求精同為近景細修木橋，辨義差別不足，退回重畫。",
+        "611": "另實際對照現行399目中無人：同為男孩抱胸昂首斜眼、同學捧精巧風車模型卻被輕視、窗邊美勞桌面與失落同學圍繞；前後位置略換但主要姿勢及道具故事幾乎相同，依構圖重複要求退回。"
+      },
+      "notes": "50張全圖以13張四圖概覽實際看過，每張完整原尺寸分格均獨立看過；197張現行候選九張表及三張額外大圖對照均實際看過。604與510雖有三代工藝題材，但前者陶器從傳承到創新、後者各種手工行業的敘事與物件配置不同；413兩名科展同獎與791修橋三格不同；601示範畫幼苗與5110夕陽時老師解釋花葉圖不同，未以題材相同直接判重複。未把已刪除歷史WebP當現行比較圖。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "指共同抵禦仇敵。",
+    "syn": "",
+    "ant": "自相殘殺、同室操戈"
+  }
+}

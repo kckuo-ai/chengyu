@@ -12018,5 +12018,14 @@
       "batch": "batch-35-unresolved-25",
       "source": "docs/illustration-prompts.json#entries/442"
     }
+  ],
+  "23811f9d6af8742e187e2376370e013cab398090e76bc9f099290481bd6fcc91": [
+    {
+      "kind": "existing_illustration_audit",
+      "batch": "full-audit-20261123/group-11",
+      "source_file": "redraw-list.json",
+      "reviewer": "independent-visual-review-2026-11-28",
+      "reviewed_main": "24d58edecfdaf46084040f244a2eca17dd8d2454"
+    }
   ]
 }

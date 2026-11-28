@@ -1,0 +1,110 @@
+{
+  "no": 596,
+  "kind": "existing",
+  "word": "苦口婆心",
+  "path": "/workspace/chengyu-preservation/originals/a6c3a118a5f21a03c99bb29c1dd06ffb611b52c471c07504d3bd529ed8884a17.png",
+  "original_sha256": "a6c3a118a5f21a03c99bb29c1dd06ffb611b52c471c07504d3bd529ed8884a17",
+  "original_available": true,
+  "review_source_sha256": "a6c3a118a5f21a03c99bb29c1dd06ffb611b52c471c07504d3bd529ed8884a17",
+  "webp_src": "img/idioms/596.webp",
+  "webp_sha256": "cd47b698d1e8ee90962d75756e1807f9cf0e18149ef42ff4140c06dbed353a4b",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-28",
+  "review_batch": "full-audit-20261123/group-11",
+  "alt": "母親在家門旁拿著安全帽，俯身搭住男孩肩膀，懇切看著他說話，男孩卻皺眉坐在臺階上，門外停好單車，桌上備有護具。",
+  "issues": [
+    "text_brand_watermark: 自行車斜管上有細小白色直列壓印，呈類品牌字標，不能確認為純色線條；須改完全素面車架。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "母親蹲坐與不情願的孩子平視，輕搭肩並反覆拿安全帽勸他，門外自行車與護具交代關心安全，懇切勸告可辨。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以母親在家門旁拿著安全帽為主要焦點，人物表情與物件關係集中，手機縮圖可辨主要活動，背景未擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "母親雙手分別托帽與搭肩各五指或帽遮，男孩兩掌垂膝五指清楚，肩肘相接，兩人鞋均落地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "帽由掌托、扣帶垂下，車由側腳架支撐、前後輪落地，護具水壺放凳，身體坐穩門階。"
+    },
+    "text_brand_watermark": {
+      "passed": false,
+      "evidence": "自行車斜管上有細小白色直列壓印，呈類品牌字標，不能確認為純色線條；須改完全素面車架。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代住家玄關、便服圍裙母親與約國小高年級男孩比例合宜。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過主景、遠景與回想人物頸部，均為普通衣領、圍裙肩帶或非紅色衣飾，無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "sheet_count": 9,
+      "candidate_count": 197,
+      "extra_comparison_ids": [
+        "597",
+        "633",
+        "598",
+        "313",
+        "611",
+        "399",
+        "604",
+        "510",
+        "413",
+        "791",
+        "601",
+        "5110"
+      ],
+      "extra_sheets": [
+        "target-compare-1.jpg",
+        "target-compare-2.jpg",
+        "target-compare-3.jpg"
+      ],
+      "near_duplicates": {
+        "597": "另實際對照現行633有志竟成：同以木作桌上的完成木橋及前方先前小橋模型呈現成就，背景同為窗邊工具板，雖改拱橋與叉腰姿勢，仍是可互換的橋模型敘事模板，依避免重複橋模型要求退回。",
+        "598": "另實際對照現行633有志竟成：前景堆失敗斷橋、主角重新搭完整木橋、旁邊同學反應及木作窗邊工具，核心道具與失敗後繼續的敘事幾乎相同；並與313精益求精同為近景細修木橋，辨義差別不足，退回重畫。",
+        "611": "另實際對照現行399目中無人：同為男孩抱胸昂首斜眼、同學捧精巧風車模型卻被輕視、窗邊美勞桌面與失落同學圍繞；前後位置略換但主要姿勢及道具故事幾乎相同，依構圖重複要求退回。"
+      },
+      "notes": "50張全圖以13張四圖概覽實際看過，每張完整原尺寸分格均獨立看過；197張現行候選九張表及三張額外大圖對照均實際看過。604與510雖有三代工藝題材，但前者陶器從傳承到創新、後者各種手工行業的敘事與物件配置不同；413兩名科展同獎與791修橋三格不同；601示範畫幼苗與5110夕陽時老師解釋花葉圖不同，未以題材相同直接判重複。未把已刪除歷史WebP當現行比較圖。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容以懇切真摯的態度，竭力勸告他人。",
+    "syn": "耳提面命、語重心長",
+    "ant": ""
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "no": 631,
+  "kind": "existing",
+  "word": "老氣橫秋",
+  "path": "/workspace/chengyu-preservation/originals/3b4dcbb6064e5a73f225822bcfa1ee0efd2d16f5e76f89f2e67c99058168fd5a.png",
+  "original_sha256": "3b4dcbb6064e5a73f225822bcfa1ee0efd2d16f5e76f89f2e67c99058168fd5a",
+  "original_available": true,
+  "review_source_sha256": "3b4dcbb6064e5a73f225822bcfa1ee0efd2d16f5e76f89f2e67c99058168fd5a",
+  "webp_src": "img/idioms/631.webp",
+  "webp_sha256": "a4f048672db05b8e6972f39b6bbb214897106d6baae4c86892fb83e6c04e6272",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-28",
+  "review_batch": "full-audit-20261123/group-11",
+  "alt": "同學蹲在菜床旁開心種苗，男孩卻穿著襯衫領帶站在旁邊，背起一隻手、抬高下巴，半瞇眼睛伸手指點，地上鏟子還未拿起。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "年輕男孩穿正式衣著卻背手昂首、半瞇眼指點，其他同齡人蹲地做事，他站著擺老成架子，符合老練自負義。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以同學蹲在菜床旁開心種苗為主要焦點，人物表情與物件關係集中，手機縮圖可辨主要活動，背景未擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "指點手食指伸其餘曲收、另手在背後遮擋合理；三人戴手套種苗抓土及小鏟，雙臂相接，膝鞋落草地。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "幼苗根球接土、鏟柄接刃、盆放板桌、菜床木邊有角釘，工具落地有支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐區檢查全圖及原尺寸人物衣物、器材、紙張、背景與泡泡，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代國小菜園，學生便服圍裙、主角毛衣襯衫領帶皮鞋也屬當代，國小比例合理。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過主景、遠景與回想人物頸部，均為普通衣領、圍裙肩帶或非紅色衣飾，無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "sheet_count": 9,
+      "candidate_count": 197,
+      "extra_comparison_ids": [
+        "597",
+        "633",
+        "598",
+        "313",
+        "611",
+        "399",
+        "604",
+        "510",
+        "413",
+        "791",
+        "601",
+        "5110"
+      ],
+      "extra_sheets": [
+        "target-compare-1.jpg",
+        "target-compare-2.jpg",
+        "target-compare-3.jpg"
+      ],
+      "near_duplicates": {
+        "597": "另實際對照現行633有志竟成：同以木作桌上的完成木橋及前方先前小橋模型呈現成就，背景同為窗邊工具板，雖改拱橋與叉腰姿勢，仍是可互換的橋模型敘事模板，依避免重複橋模型要求退回。",
+        "598": "另實際對照現行633有志竟成：前景堆失敗斷橋、主角重新搭完整木橋、旁邊同學反應及木作窗邊工具，核心道具與失敗後繼續的敘事幾乎相同；並與313精益求精同為近景細修木橋，辨義差別不足，退回重畫。",
+        "611": "另實際對照現行399目中無人：同為男孩抱胸昂首斜眼、同學捧精巧風車模型卻被輕視、窗邊美勞桌面與失落同學圍繞；前後位置略換但主要姿勢及道具故事幾乎相同，依構圖重複要求退回。"
+      },
+      "notes": "50張全圖以13張四圖概覽實際看過，每張完整原尺寸分格均獨立看過；197張現行候選九張表及三張額外大圖對照均實際看過。604與510雖有三代工藝題材，但前者陶器從傳承到創新、後者各種手工行業的敘事與物件配置不同；413兩名科展同獎與791修橋三格不同；601示範畫幼苗與5110夕陽時老師解釋花葉圖不同，未以題材相同直接判重複。未把已刪除歷史WebP當現行比較圖。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "形容人老練而自負的神態。 ＆形容人擺架子，自命不凡。 ＆形容人沒有朝氣，暮氣沉沉的樣子。",
+    "syn": "死氣沉沉、暮氣沉沉",
+    "ant": "生氣勃勃、朝氣蓬勃"
+  }
+}

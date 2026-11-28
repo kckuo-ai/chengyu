@@ -1,0 +1,108 @@
+{
+  "no": 413,
+  "kind": "existing",
+  "word": "難兄難弟",
+  "path": "/workspace/chengyu/img/idioms/413-51171727f36e.webp",
+  "original_sha256": "51171727f36eebc2363f60f5624500e324825e0cc8f0c184879f4114b67911cc",
+  "original_available": false,
+  "review_source_sha256": "ada30bffff5d91278473d2e3a33c9c6a13f69bb06b7bf99fb0e116388949da05",
+  "webp_src": "img/idioms/413-51171727f36e.webp",
+  "webp_sha256": "ada30bffff5d91278473d2e3a33c9c6a13f69bb06b7bf99fb0e116388949da05",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-28",
+  "review_batch": "full-audit-20261123/group-11",
+  "alt": "兩名男孩分別介紹水輪屋與抽水模型，評審拿著兩朵獎花猶豫，後來讓他們都掛上金牌，攬著肩膀開心接受同學鼓掌。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "兩男孩分別展示精巧科展作品，評審拿兩朵獎花猶豫，最後兩人同得金牌，才華不相上下的褒義可辨。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以兩名男孩分別介紹水輪屋與抽水模型為主要焦點，人物表情與物件關係集中，手機縮圖可辨主要活動，背景未擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "評審兩手捏獎花、後景雙掌搭男孩肩，男孩舉拳拇指收握四指；同學合掌合理，桌遮下身無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "太陽能屋、水輪與抽水橋模型均在底板，管路接水槽有支架，獎牌由帶懸胸，無懸浮。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐區檢查全圖及原尺寸人物衣物、器材、紙張、背景與泡泡，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代校園科展，成人評審便西裝空白識別牌、國小學生制服比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過主景、遠景與回想人物頸部，均為普通衣領、圍裙肩帶或非紅色衣飾，無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "sheet_count": 9,
+      "candidate_count": 197,
+      "extra_comparison_ids": [
+        "597",
+        "633",
+        "598",
+        "313",
+        "611",
+        "399",
+        "604",
+        "510",
+        "413",
+        "791",
+        "601",
+        "5110"
+      ],
+      "extra_sheets": [
+        "target-compare-1.jpg",
+        "target-compare-2.jpg",
+        "target-compare-3.jpg"
+      ],
+      "near_duplicates": {
+        "597": "另實際對照現行633有志竟成：同以木作桌上的完成木橋及前方先前小橋模型呈現成就，背景同為窗邊工具板，雖改拱橋與叉腰姿勢，仍是可互換的橋模型敘事模板，依避免重複橋模型要求退回。",
+        "598": "另實際對照現行633有志竟成：前景堆失敗斷橋、主角重新搭完整木橋、旁邊同學反應及木作窗邊工具，核心道具與失敗後繼續的敘事幾乎相同；並與313精益求精同為近景細修木橋，辨義差別不足，退回重畫。",
+        "611": "另實際對照現行399目中無人：同為男孩抱胸昂首斜眼、同學捧精巧風車模型卻被輕視、窗邊美勞桌面與失落同學圍繞；前後位置略換但主要姿勢及道具故事幾乎相同，依構圖重複要求退回。"
+      },
+      "notes": "50張全圖以13張四圖概覽實際看過，每張完整原尺寸分格均獨立看過；197張現行候選九張表及三張額外大圖對照均實際看過。604與510雖有三代工藝題材，但前者陶器從傳承到創新、後者各種手工行業的敘事與物件配置不同；413兩名科展同獎與791修橋三格不同；601示範畫幼苗與5110夕陽時老師解釋花葉圖不同，未以題材相同直接判重複。未把已刪除歷史WebP當現行比較圖。"
+    },
+    "source_limit": "Original unavailable; actually reviewed installed WebP at its native resolution; not a recovered original"
+  },
+  "meaning_reference": {
+    "meaning": "形容兄弟二人才德相當，難分高下。（難，音ㄋㄢˊ）＆諷刺兩人同樣差勁，表現差不多。（難，音ㄋㄢˊ）＆形容同處困境、共同患難的朋友。（難，音ㄋㄢˋ）",
+    "syn": "一丘之貉、患難之交、患難與共",
+    "ant": ""
+  }
+}

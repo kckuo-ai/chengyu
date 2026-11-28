@@ -1,0 +1,108 @@
+{
+  "no": 604,
+  "kind": "existing",
+  "word": "繼往開來",
+  "path": "/workspace/chengyu-preservation/originals/0c2d8b9b714f247b75043753754676be626450b965520de726632e7b3e05febb.png",
+  "original_sha256": "0c2d8b9b714f247b75043753754676be626450b965520de726632e7b3e05febb",
+  "original_available": true,
+  "review_source_sha256": "0c2d8b9b714f247b75043753754676be626450b965520de726632e7b3e05febb",
+  "webp_src": "img/idioms/604.webp",
+  "webp_sha256": "45c34c0794ac5497551060cff5a2c255ec5257693f306e5ce6991b8731bc540c",
+  "passed": true,
+  "reviewer": "independent-visual-review-2026-11-28",
+  "review_batch": "full-audit-20261123/group-11",
+  "alt": "老陶師遞出樸素陶碗，中年女子接著介紹彩繪水壺，再轉頭指導年輕人塑造扭紋器皿，桌上散著陶土和工具，後架擺滿作品。",
+  "issues": [],
+  "regenerate": false,
+  "checks": {
+    "meaning": {
+      "passed": true,
+      "evidence": "長者遞傳統陶碗給中年陶師，她展示新彩繪壺再指導年輕人做創新扭紋壺，後架器型由舊到新，承續並開拓可辨。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以老陶師遞出樸素陶碗為主要焦點，人物表情與物件關係集中，手機縮圖可辨主要活動，背景未擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "長者握碗與扶桌手、中年人托碗與指壺手、年輕人扶壺口雙手各五指或器物遮，肩臂相接，下身桌遮合理。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "泥壺放工作板、手扶壺口，陶碗有底及口緣，雕塑工具落桌，電窯與器架有腳支撐。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐區檢查全圖及原尺寸人物衣物、器材、紙張、背景與泡泡，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣現代陶藝工作室、電窯與當代便服圍裙三代人，年輕學徒非幼童比例自然。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過主景、遠景與回想人物頸部，均為普通衣領、圍裙肩帶或非紅色衣飾，無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "sheet_count": 9,
+      "candidate_count": 197,
+      "extra_comparison_ids": [
+        "597",
+        "633",
+        "598",
+        "313",
+        "611",
+        "399",
+        "604",
+        "510",
+        "413",
+        "791",
+        "601",
+        "5110"
+      ],
+      "extra_sheets": [
+        "target-compare-1.jpg",
+        "target-compare-2.jpg",
+        "target-compare-3.jpg"
+      ],
+      "near_duplicates": {
+        "597": "另實際對照現行633有志竟成：同以木作桌上的完成木橋及前方先前小橋模型呈現成就，背景同為窗邊工具板，雖改拱橋與叉腰姿勢，仍是可互換的橋模型敘事模板，依避免重複橋模型要求退回。",
+        "598": "另實際對照現行633有志竟成：前景堆失敗斷橋、主角重新搭完整木橋、旁邊同學反應及木作窗邊工具，核心道具與失敗後繼續的敘事幾乎相同；並與313精益求精同為近景細修木橋，辨義差別不足，退回重畫。",
+        "611": "另實際對照現行399目中無人：同為男孩抱胸昂首斜眼、同學捧精巧風車模型卻被輕視、窗邊美勞桌面與失落同學圍繞；前後位置略換但主要姿勢及道具故事幾乎相同，依構圖重複要求退回。"
+      },
+      "notes": "50張全圖以13張四圖概覽實際看過，每張完整原尺寸分格均獨立看過；197張現行候選九張表及三張額外大圖對照均實際看過。604與510雖有三代工藝題材，但前者陶器從傳承到創新、後者各種手工行業的敘事與物件配置不同；413兩名科展同獎與791修橋三格不同；601示範畫幼苗與5110夕陽時老師解釋花葉圖不同，未以題材相同直接判重複。未把已刪除歷史WebP當現行比較圖。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "承續先人的事業，並為後人開拓道路。",
+    "syn": "承上啟下、承先啟後",
+    "ant": "後繼無人"
+  }
+}

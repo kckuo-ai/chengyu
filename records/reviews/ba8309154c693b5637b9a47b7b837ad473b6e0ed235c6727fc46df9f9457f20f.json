@@ -1,0 +1,110 @@
+{
+  "no": 592,
+  "kind": "existing",
+  "word": "萬劫不復",
+  "path": "/workspace/chengyu-preservation/originals/4f1cddf206ebe22e1922d0fc1679f2a049b775bcd494c60bf2e305ea66626b84.png",
+  "original_sha256": "4f1cddf206ebe22e1922d0fc1679f2a049b775bcd494c60bf2e305ea66626b84",
+  "original_available": true,
+  "review_source_sha256": "4f1cddf206ebe22e1922d0fc1679f2a049b775bcd494c60bf2e305ea66626b84",
+  "webp_src": "img/idioms/592.webp",
+  "webp_sha256": "b4c0add237bb2b5ce44995d71de039c59e610660eea7d825a86ae97c0718e61f",
+  "passed": false,
+  "reviewer": "independent-visual-review-2026-11-28",
+  "review_batch": "full-audit-20261123/group-11",
+  "alt": "男子背著背包跪在巨大樹樁旁，手拿昔日綠林照片，流淚摸著年輪；四周樹木都被砍光，只剩枝幹，遠處還停著挖土機。",
+  "issues": [
+    "meaning: 男子拿老樹照片蹲在砍伐樹樁前哭泣，能讀出森林破壞與傷心；沒有行為造成無法挽救命運的明確因果，也可能理解為環境變遷或後悔。"
+  ],
+  "regenerate": true,
+  "checks": {
+    "meaning": {
+      "passed": false,
+      "evidence": "男子拿老樹照片蹲在砍伐樹樁前哭泣，能讀出森林破壞與傷心；沒有行為造成無法挽救命運的明確因果，也可能理解為環境變遷或後悔。"
+    },
+    "composition": {
+      "passed": true,
+      "evidence": "以男子背著背包跪在巨大樹樁旁為主要焦點，人物表情與物件關係集中，手機縮圖可辨主要活動，背景未擋核心。"
+    },
+    "hands_feet_pose": {
+      "passed": true,
+      "evidence": "男子左手捏照片邊、右掌五指平放樹樁，肩肘腕相連，雙膝跪地、鞋自然彎曲，無多肢。"
+    },
+    "objects_contact_perspective": {
+      "passed": true,
+      "evidence": "照片由手持、樹樁年輪及粗根連土，挖土機履帶接地、機臂關節連續，無懸空工具。"
+    },
+    "text_brand_watermark": {
+      "passed": true,
+      "evidence": "逐區檢查全圖及原尺寸人物衣物、器材、紙張、背景與泡泡，未見可讀文字、字母、數字、類字標記、品牌、水印或不適內容。"
+    },
+    "taiwan_context": {
+      "passed": true,
+      "evidence": "台灣山林砍伐場、當代男子防風外套登山背包，成人比例自然，未硬塞兒童。"
+    },
+    "no_red_neckerchief": {
+      "passed": true,
+      "evidence": "逐一看過主景、遠景與回想人物頸部，均為普通衣領、圍裙肩帶或非紅色衣飾，無紅領巾或紅圍巾。"
+    },
+    "style": {
+      "passed": true,
+      "evidence": "全圖與原尺寸可見鉛筆輪廓、柔和透明水彩、色鉛筆顆粒及米白紙紋；自然綠、淡藍、暖棕配色，不是鮮豔扁平或立體渲染。"
+    }
+  },
+  "inspection": {
+    "full_image": true,
+    "full_image_view": "individual full-image view or four-image overview; overview scales only for initial composition inspection",
+    "native_detail_crops": true,
+    "native_size": [
+      1536,
+      1024
+    ],
+    "native_crop_grid": "entire source image in unresized 512-pixel tiles, including every person, hand, foot, thought bubble, book and label area",
+    "comparison": {
+      "all_sheets_actually_viewed": true,
+      "sheets": [
+        "compare-1.jpg",
+        "compare-2.jpg",
+        "compare-3.jpg",
+        "compare-4.jpg",
+        "compare-5.jpg",
+        "compare-6.jpg",
+        "compare-7.jpg",
+        "compare-8.jpg",
+        "compare-9.jpg"
+      ],
+      "sheet_count": 9,
+      "candidate_count": 197,
+      "extra_comparison_ids": [
+        "597",
+        "633",
+        "598",
+        "313",
+        "611",
+        "399",
+        "604",
+        "510",
+        "413",
+        "791",
+        "601",
+        "5110"
+      ],
+      "extra_sheets": [
+        "target-compare-1.jpg",
+        "target-compare-2.jpg",
+        "target-compare-3.jpg"
+      ],
+      "near_duplicates": {
+        "597": "另實際對照現行633有志竟成：同以木作桌上的完成木橋及前方先前小橋模型呈現成就，背景同為窗邊工具板，雖改拱橋與叉腰姿勢，仍是可互換的橋模型敘事模板，依避免重複橋模型要求退回。",
+        "598": "另實際對照現行633有志竟成：前景堆失敗斷橋、主角重新搭完整木橋、旁邊同學反應及木作窗邊工具，核心道具與失敗後繼續的敘事幾乎相同；並與313精益求精同為近景細修木橋，辨義差別不足，退回重畫。",
+        "611": "另實際對照現行399目中無人：同為男孩抱胸昂首斜眼、同學捧精巧風車模型卻被輕視、窗邊美勞桌面與失落同學圍繞；前後位置略換但主要姿勢及道具故事幾乎相同，依構圖重複要求退回。"
+      },
+      "notes": "50張全圖以13張四圖概覽實際看過，每張完整原尺寸分格均獨立看過；197張現行候選九張表及三張額外大圖對照均實際看過。604與510雖有三代工藝題材，但前者陶器從傳承到創新、後者各種手工行業的敘事與物件配置不同；413兩名科展同獎與791修橋三格不同；601示範畫幼苗與5110夕陽時老師解釋花葉圖不同，未以題材相同直接判重複。未把已刪除歷史WebP當現行比較圖。"
+    },
+    "source_limit": "Original PNG available"
+  },
+  "meaning_reference": {
+    "meaning": "佛教謂人一旦墮入地獄，雖歷經萬次世界毀滅那久的時間，也不易投胎為人。＆比喻無法挽救的行為或命運。",
+    "syn": "",
+    "ant": ""
+  }
+}

@@ -16013,5 +16013,32 @@
       "reviewer": "independent-visual-review-2026-11-24",
       "reviewed_main": "b922100f6d2dc2c0fc87c12ef4465de785178c98"
     }
+  ],
+  "54091afed2514c5bc7a19c4b9de908846af514f618e53b644d62fb273d347675": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-11",
+      "source_file": "598.review.json",
+      "reviewer": "independent-visual-review-2026-11-28",
+      "reviewed_main": "24d58edecfdaf46084040f244a2eca17dd8d2454"
+    }
+  ],
+  "54a9cef749fa615cfe057d3135a4c504cfb493fd952ed9e63d47375ace685e7b": [
+    {
+      "kind": "independent_visual_review",
+      "batch": "full-audit-20261123/group-11",
+      "source_file": "624.review.json",
+      "reviewer": "independent-visual-review-2026-11-28",
+      "reviewed_main": "24d58edecfdaf46084040f244a2eca17dd8d2454"
+    }
+  ],
+  "5426b8a43434e789790fa160a43ea8251cd99a7da5c4c46d150434945069ceb0": [
+    {
+      "kind": "existing_illustration_audit",
+      "batch": "full-audit-20261123/group-11",
+      "source_file": "comparison-confirmation.json",
+      "reviewer": "independent-visual-review-2026-11-28",
+      "reviewed_main": "24d58edecfdaf46084040f244a2eca17dd8d2454"
+    }
   ]
 }
